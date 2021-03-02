@@ -6,27 +6,39 @@ source("R/00_prep_functions.R")
 path_trade <- "input/"
 
 
-# BACI92 ------------------------------------------------------------------
+# BACI ------------------------------------------------------------------
 
-file <- c("baci_full" = "BACI_HS92_V202001.zip")
+items <- fread("inst/items_baci.csv")
+files <- c(c("baci_hs92" = "BACI_HS92_V202001.zip"),
+           c("baci_hs12" = "BACI_HS12_V202001.zip"))
 
-# pattern <- "(BACI_HS92_Y[0-9]+)([.]csv)"
+for(file in 1:2){
+  file <- files[file]
+  extr <- unzip(paste0(path_trade, file), list = TRUE)[[1]]
+  name <- names(file)
+  col_types <- rep(list(c("integer", "integer", "integer", "integer",
+    "numeric", "numeric")), length(extr))
+  baci <- fa_extract(path_in = path_trade, files = file, path_out = path_trade,
+    name = name, extr = extr, col_types = col_types, stack = TRUE)
+  baci[, version := substr(name, 6, 9)]
+  saveRDS(baci, paste0(path_trade, name))
+}
 
-extr <- unzip(paste0(path_trade, file), list = TRUE)[[1]]
-# extr <- extr[grep(pattern, extr)]
+baci92 <- readRDS(paste0(path_trade, names(files[1])))
+baci12 <- readRDS(paste0(path_trade, names(files[2])))
 
-# name <- gsub(pattern, "\\1", extr)
-name <- names(file)
+# Select wood fuel, residues, charcoal, particle board, recovered paper
+baci92_sel <- baci92[grep("^(440[1-2].0|441010|4707..)", baci92$k), ]
 
-col_types <- rep(list(c("integer", "integer", "integer", "integer",
-                           "numeric", "numeric")), length(extr))
+# Filter years
+baci92_sel[, version12 := items$version12[match(baci92_sel$k, items$baci_code)]]
+baci92_sel <- baci92_sel[(is.na(version12) & t < 2012) | !is.na(version12)]
 
-baci_full <- fa_extract(path_in = path_trade, files = file, path_out = path_trade,
-  name = name, extr = extr, col_types = col_types, stack = TRUE)
+# Select wood fuel, residues, charcoal, particle board, OSB, recovered fibre pulp
+baci12_sel <- baci12[grep("^(440[1,2][3,9].|44101.|470620)", baci12$k), ]
 
-baci_sel <- readRDS(baci_full)
-# Select fish (30___) and ethanol (2207__)
-baci_sel <- baci_sel[grep("^(30[1-5]..|2207..)", baci_sel$k), ]
+baci_sel <- rbind(baci92_sel[, .(t,i,j,k,v,q)], 
+                  baci12_sel[, .(t,i,j,k,v,q)])
+
 saveRDS(baci_sel, paste0(path_trade, "baci_sel.rds"))
-
 

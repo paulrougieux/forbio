@@ -95,14 +95,12 @@ fa_extract <- function(
 
   if(stack) {
     if(v) cat("Stacking CSV files via data.table::rbindlist()")
-    saveRDS(data.table::rbindlist(rds), dest_rds)
-  } else {
-    for(i in seq_along(csv)) saveRDS(rds[[i]], dest_rds[i])
-  }
+    rds <- data.table::rbindlist(rds)
+  } 
 
   if(rm) file.remove(csv)
 
-  dest_rds
+  rds
 }
 
 
