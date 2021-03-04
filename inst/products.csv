@@ -1,0 +1,21 @@
+com_code,item_name,item_code,unit
+c01,"Industrial roundwood, coniferous",1866,m3
+c02,"Industrial roundwood, non-coniferous",1867,m3
+c03,Wood fuel,1864,m3
+c04,"Sawnwood, coniferous",1632,m3
+c05,"Sawnwood, non-coniferous all",1633,m3
+c06,Veneer sheets,1634,m3
+c07,Plywood,1640,m3
+c08,Fibreboard,1874,m3
+c09,Particle board,1646,m3
+c09,Particle board,1697,m3
+c10,OSB,1606,m3
+c11,Wood pulp,1875,tonnes
+c12,Recovered paper,1669,tonnes
+c13,Recovered fibre pulp,1609,tonnes
+c14,Paper and paperboard,1876,tonnes
+c15,Wood pellets and other agglomerates,1696,tonnes
+c16,Wood charcoal,1630,tonnes
+c17,Wood chips and particles,1619,m3
+c18,Wood residues,1620,m3
+c19,Post-consumer wood,1600,tonnes

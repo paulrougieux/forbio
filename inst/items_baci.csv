@@ -1,0 +1,16 @@
+com_code,com_name,baci_code,conversion_factor,version92,version12,unit,unit_fao
+c03,Wood fuel,440110,1,92,92,tonnes,m3
+c09,Particle board,441010,swe,92,,tonnes,m3
+c09,Particle board,441011,swe,,12,tonnes,m3
+c10,OSB,441012,swe,,12,tonnes,m3
+c10,OSB,441019,swe,,12,tonnes,m3
+c12,Recovered paper,470710,1,92,92,tonnes,tonnes
+c12,Recovered paper,470720,1,92,92,tonnes,tonnes
+c12,Recovered paper,470730,1,92,92,tonnes,tonnes
+c12,Recovered paper,470790,1,92,92,tonnes,tonnes
+c13,Recovered fibre pulp,470620,1,,12,tonnes,tonnes
+c15,Wood pellets and other agglomerates,440131,1,,12,tonnes,tonnes
+c16,Wood charcoal,440200,1,92,,tonnes,tonnes
+c16,Wood charcoal,440290,1,,12,tonnes,tonnes
+c18,Wood residues,440130,1,92,,tonnes,m3
+c18,Wood residues,440139,1,,12,tonnes,m3
