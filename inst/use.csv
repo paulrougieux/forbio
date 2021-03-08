@@ -1,23 +1,23 @@
-proc_code,process,com_code,com_name,com_code_output,com_name_output,share
-p04,"Sawnmill industry, coniferous",c01,"Industrial roundwood, coniferous",c04,"Sawnwood, coniferous",1
-p05,"Sawnmill industry, non-coniferous",c02,"Industrial roundwood, non-coniferous",c05,"Sawnwood, non-coniferous all",1
-p06,Veneer production,c01,"Industrial roundwood, coniferous",c06,Veneer sheets,1
-p06,Veneer production,c02,"Industrial roundwood, non-coniferous",c06,Veneer sheets,1
-p07,Plywood production,c01,"Industrial roundwood, coniferous",c07,Plywood,1
-p07,Plywood production,c02,"Industrial roundwood, non-coniferous",c07,Plywood,1
-p08,Fibreboard production,c01,"Industrial roundwood, coniferous",c08,Fibreboard,0.5
-p08,Fibreboard production,c02,"Industrial roundwood, non-coniferous",c08,Fibreboard,0.5
+proc_code,process,com_code,item_name,com_code_output,item_name_output,share
+"p04,""Sawnmill industry, coniferous"",c01,""Industrial roundwood, coniferous"",c04,""Sawnwood, coniferous"",1"
+"p05,""Sawnmill industry, non-coniferous"",c02,""Industrial roundwood, non-coniferous"",c05,""Sawnwood, non-coniferous all"",1"
+"p06,Veneer production,c01,""Industrial roundwood, coniferous"",c06,Veneer sheets,1"
+"p06,Veneer production,c02,""Industrial roundwood, non-coniferous"",c06,Veneer sheets,1"
+"p07,Plywood production,c01,""Industrial roundwood, coniferous"",c07,Plywood,1"
+"p07,Plywood production,c02,""Industrial roundwood, non-coniferous"",c07,Plywood,1"
+"p08,Fibreboard production,c01,""Industrial roundwood, coniferous"",c08,Fibreboard,0.5"
+"p08,Fibreboard production,c02,""Industrial roundwood, non-coniferous"",c08,Fibreboard,0.5"
 p08,Fibreboard production,c13,Recovered fibre pulp,c08,Fibreboard,0
 p08,Fibreboard production,c17,Wood chips and particles,c08,Fibreboard,0.25
 p08,Fibreboard production,c18,Wood residues,c08,Fibreboard,0.25
-p09,Particle board production,c01,"Industrial roundwood, coniferous",c09,Particle board,0.25
-p09,Particle board production,c02,"Industrial roundwood, non-coniferous",c09,Particle board,0.25
-p09,Particle board production,c17,Wood chips and particles,c09,Particle board,0.5
-p09,Particle board production,c18,Wood residues,c09,Particle board,0.25
-p10,OSB production,c01,"Industrial roundwood, coniferous",c10,OSB,1
-p10,OSB production,c02,"Industrial roundwood, non-coniferous",c10,OSB,1
-p11,Pulp production,c01,"Industrial roundwood, coniferous",c11,Wood pulp,0.666666667
-p11,Pulp production,c02,"Industrial roundwood, non-coniferous",c11,Wood pulp,0.666666667
+"p09,Particle board production,c01,""Industrial roundwood, coniferous"",c09,Particle board ,0.25"
+"p09,Particle board production,c02,""Industrial roundwood, non-coniferous"",c09,Particle board ,0.25"
+p09,Particle board production,c17,Wood chips and particles,c09,Particle board ,0.5
+p09,Particle board production,c18,Wood residues,c09,Particle board ,0.25
+"p10,OSB production,c01,""Industrial roundwood, coniferous"",c10,OSB,1"
+"p10,OSB production,c02,""Industrial roundwood, non-coniferous"",c10,OSB,1"
+"p11,Pulp production,c01,""Industrial roundwood, coniferous"",c11,Wood pulp,0.666666667"
+"p11,Pulp production,c02,""Industrial roundwood, non-coniferous"",c11,Wood pulp,0.666666667"
 p11,Pulp production,c17,Wood chips and particles,c11,Wood pulp,0.333333333
 p11,Pulp production,c18,Wood residues,c11,Wood pulp,0
 p13,Recovered pulp production,c12,Recovered paper,c13,Recovered fibre pulp,1

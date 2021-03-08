@@ -1,4 +1,4 @@
-area_code;area;com_code;com_name;sub_com;unit;tcf
+area;name;com_code;item_name;sub_item;unit;conversion_factor
 1;Armenia;c01;Industrial roundwood, coniferous;;m3rw/m3p;1
 2;Afghanistan;c01;Industrial roundwood, coniferous;;m3rw/m3p;1
 3;Albania;c01;Industrial roundwood, coniferous;;m3rw/m3p;1
@@ -51,7 +51,6 @@ area_code;area;com_code;com_name;sub_com;unit;tcf
 59;Egypt;c01;Industrial roundwood, coniferous;;m3rw/m3p;1
 60;El Salvador;c01;Industrial roundwood, coniferous;;m3rw/m3p;1
 61;Equatorial Guinea;c01;Industrial roundwood, coniferous;;m3rw/m3p;1
-62;Ethiopia PDR;c01;Industrial roundwood, coniferous;;m3rw/m3p;1
 63;Estonia;c01;Industrial roundwood, coniferous;;m3rw/m3p;1
 64;Faroe Islands;c01;Industrial roundwood, coniferous;;m3rw/m3p;1
 65;Falkland Islands (Malvinas);c01;Industrial roundwood, coniferous;;m3rw/m3p;1
@@ -87,7 +86,7 @@ area_code;area;com_code;com_name;sub_com;unit;tcf
 104;Ireland;c01;Industrial roundwood, coniferous;;m3rw/m3p;1
 105;Israel;c01;Industrial roundwood, coniferous;;m3rw/m3p;1
 106;Italy;c01;Industrial roundwood, coniferous;;m3rw/m3p;1
-107;C?te d'Ivoire;c01;Industrial roundwood, coniferous;;m3rw/m3p;1
+107;Cote d'Ivoire;c01;Industrial roundwood, coniferous;;m3rw/m3p;1
 108;Kazakhstan;c01;Industrial roundwood, coniferous;;m3rw/m3p;1
 109;Jamaica;c01;Industrial roundwood, coniferous;;m3rw/m3p;1
 110;Japan;c01;Industrial roundwood, coniferous;;m3rw/m3p;1
@@ -150,7 +149,7 @@ area_code;area;com_code;com_name;sub_com;unit;tcf
 178;Eritrea;c01;Industrial roundwood, coniferous;;m3rw/m3p;1
 179;Qatar;c01;Industrial roundwood, coniferous;;m3rw/m3p;1
 181;Zimbabwe;c01;Industrial roundwood, coniferous;;m3rw/m3p;1
-182;R?union;c01;Industrial roundwood, coniferous;;m3rw/m3p;1
+182;Reunion;c01;Industrial roundwood, coniferous;;m3rw/m3p;1
 183;Romania;c01;Industrial roundwood, coniferous;;m3rw/m3p;1
 184;Rwanda;c01;Industrial roundwood, coniferous;;m3rw/m3p;1
 185;Russian Federation;c01;Industrial roundwood, coniferous;;m3rw/m3p;1
@@ -168,7 +167,6 @@ area_code;area;com_code;com_name;sub_com;unit;tcf
 200;Singapore;c01;Industrial roundwood, coniferous;;m3rw/m3p;1
 201;Somalia;c01;Industrial roundwood, coniferous;;m3rw/m3p;1
 202;South Africa;c01;Industrial roundwood, coniferous;;m3rw/m3p;1
-206;Sudan (former);c01;Industrial roundwood, coniferous;;m3rw/m3p;1
 203;Spain;c01;Industrial roundwood, coniferous;;m3rw/m3p;1
 207;Suriname;c01;Industrial roundwood, coniferous;;m3rw/m3p;1
 208;Tajikistan;c01;Industrial roundwood, coniferous;;m3rw/m3p;1
@@ -210,6 +208,40 @@ area_code;area;com_code;com_name;sub_com;unit;tcf
 273;Montenegro;c01;Industrial roundwood, coniferous;;m3rw/m3p;1
 276;Sudan;c01;Industrial roundwood, coniferous;;m3rw/m3p;1
 277;South Sudan;c01;Industrial roundwood, coniferous;;m3rw/m3p;1
+5;American Samoa;c01;Industrial roundwood, coniferous;;m3rw/m3p;1
+8;Antigua and Barbuda;c01;Industrial roundwood, coniferous;;m3rw/m3p;1
+17;Bermuda;c01;Industrial roundwood, coniferous;;m3rw/m3p;1
+24;British Indian Ocean Territory;c01;Industrial roundwood, coniferous;;m3rw/m3p;1
+36;Cayman Islands;c01;Industrial roundwood, coniferous;;m3rw/m3p;1
+43;Cocos (Keeling) Islands;c01;Industrial roundwood, coniferous;;m3rw/m3p;1
+71;French Southern and Antarctic Territories;c01;Industrial roundwood, coniferous;;m3rw/m3p;1
+85;Greenland;c01;Industrial roundwood, coniferous;;m3rw/m3p;1
+86;Grenada;c01;Industrial roundwood, coniferous;;m3rw/m3p;1
+88;Guam;c01;Industrial roundwood, coniferous;;m3rw/m3p;1
+94;Holy See;c01;Industrial roundwood, coniferous;;m3rw/m3p;1
+127;Marshall Islands;c01;Industrial roundwood, coniferous;;m3rw/m3p;1
+142;Montserrat;c01;Industrial roundwood, coniferous;;m3rw/m3p;1
+148;Nauru;c01;Industrial roundwood, coniferous;;m3rw/m3p;1
+163;Northern Mariana Islands;c01;Industrial roundwood, coniferous;;m3rw/m3p;1
+164;Pacific Islands Trust Territory;c01;Industrial roundwood, coniferous;;m3rw/m3p;1
+172;Pitcairn Islands;c01;Industrial roundwood, coniferous;;m3rw/m3p;1
+180;Palau;c01;Industrial roundwood, coniferous;;m3rw/m3p;1
+187;Saint Helena, Ascension and Tristan da Cunha;c01;Industrial roundwood, coniferous;;m3rw/m3p;1
+188;Saint Kitts and Nevis;c01;Industrial roundwood, coniferous;;m3rw/m3p;1
+192;San Marino;c01;Industrial roundwood, coniferous;;m3rw/m3p;1
+205;Western Sahara;c01;Industrial roundwood, coniferous;;m3rw/m3p;1
+218;Tokelau;c01;Industrial roundwood, coniferous;;m3rw/m3p;1
+227;Tuvalu;c01;Industrial roundwood, coniferous;;m3rw/m3p;1
+228;USSR;c01;Industrial roundwood, coniferous;;m3rw/m3p;1
+242;Wake Island;c01;Industrial roundwood, coniferous;;m3rw/m3p;1
+243;Wallis and Futuna Islands;c01;Industrial roundwood, coniferous;;m3rw/m3p;1
+248;Yugoslav SFR;c01;Industrial roundwood, coniferous;;m3rw/m3p;1
+258;Anguilla;c01;Industrial roundwood, coniferous;;m3rw/m3p;1
+279;Curaçao;c01;Industrial roundwood, coniferous;;m3rw/m3p;1
+281;Saint-Martin (French Part);c01;Industrial roundwood, coniferous;;m3rw/m3p;1
+299;Palestine;c01;Industrial roundwood, coniferous;;m3rw/m3p;1
+252;Unspecified Area;c01;Industrial roundwood, coniferous;;m3rw/m3p;1
+254;Others (adjustment);c01;Industrial roundwood, coniferous;;m3rw/m3p;1
 ;ASI;c01;Industrial roundwood, coniferous;;m3rw/m3p;1
 ;EUR;c01;Industrial roundwood, coniferous;;m3rw/m3p;1
 ;AFR;c01;Industrial roundwood, coniferous;;m3rw/m3p;1
@@ -268,7 +300,6 @@ area_code;area;com_code;com_name;sub_com;unit;tcf
 59;Egypt;c02;Industrial roundwood, non-coniferous;;m3rw/m3p;1
 60;El Salvador;c02;Industrial roundwood, non-coniferous;;m3rw/m3p;1
 61;Equatorial Guinea;c02;Industrial roundwood, non-coniferous;;m3rw/m3p;1
-62;Ethiopia PDR;c02;Industrial roundwood, non-coniferous;;m3rw/m3p;1
 63;Estonia;c02;Industrial roundwood, non-coniferous;;m3rw/m3p;1
 64;Faroe Islands;c02;Industrial roundwood, non-coniferous;;m3rw/m3p;1
 65;Falkland Islands (Malvinas);c02;Industrial roundwood, non-coniferous;;m3rw/m3p;1
@@ -304,7 +335,7 @@ area_code;area;com_code;com_name;sub_com;unit;tcf
 104;Ireland;c02;Industrial roundwood, non-coniferous;;m3rw/m3p;1
 105;Israel;c02;Industrial roundwood, non-coniferous;;m3rw/m3p;1
 106;Italy;c02;Industrial roundwood, non-coniferous;;m3rw/m3p;1
-107;C?te d'Ivoire;c02;Industrial roundwood, non-coniferous;;m3rw/m3p;1
+107;Cote d'Ivoire;c02;Industrial roundwood, non-coniferous;;m3rw/m3p;1
 108;Kazakhstan;c02;Industrial roundwood, non-coniferous;;m3rw/m3p;1
 109;Jamaica;c02;Industrial roundwood, non-coniferous;;m3rw/m3p;1
 110;Japan;c02;Industrial roundwood, non-coniferous;;m3rw/m3p;1
@@ -367,7 +398,7 @@ area_code;area;com_code;com_name;sub_com;unit;tcf
 178;Eritrea;c02;Industrial roundwood, non-coniferous;;m3rw/m3p;1
 179;Qatar;c02;Industrial roundwood, non-coniferous;;m3rw/m3p;1
 181;Zimbabwe;c02;Industrial roundwood, non-coniferous;;m3rw/m3p;1
-182;R?union;c02;Industrial roundwood, non-coniferous;;m3rw/m3p;1
+182;Reunion;c02;Industrial roundwood, non-coniferous;;m3rw/m3p;1
 183;Romania;c02;Industrial roundwood, non-coniferous;;m3rw/m3p;1
 184;Rwanda;c02;Industrial roundwood, non-coniferous;;m3rw/m3p;1
 185;Russian Federation;c02;Industrial roundwood, non-coniferous;;m3rw/m3p;1
@@ -385,7 +416,6 @@ area_code;area;com_code;com_name;sub_com;unit;tcf
 200;Singapore;c02;Industrial roundwood, non-coniferous;;m3rw/m3p;1
 201;Somalia;c02;Industrial roundwood, non-coniferous;;m3rw/m3p;1
 202;South Africa;c02;Industrial roundwood, non-coniferous;;m3rw/m3p;1
-206;Sudan (former);c02;Industrial roundwood, non-coniferous;;m3rw/m3p;1
 203;Spain;c02;Industrial roundwood, non-coniferous;;m3rw/m3p;1
 207;Suriname;c02;Industrial roundwood, non-coniferous;;m3rw/m3p;1
 208;Tajikistan;c02;Industrial roundwood, non-coniferous;;m3rw/m3p;1
@@ -427,6 +457,40 @@ area_code;area;com_code;com_name;sub_com;unit;tcf
 273;Montenegro;c02;Industrial roundwood, non-coniferous;;m3rw/m3p;1
 276;Sudan;c02;Industrial roundwood, non-coniferous;;m3rw/m3p;1
 277;South Sudan;c02;Industrial roundwood, non-coniferous;;m3rw/m3p;1
+5;American Samoa;c02;Industrial roundwood, non-coniferous;;m3rw/m3p;1
+8;Antigua and Barbuda;c02;Industrial roundwood, non-coniferous;;m3rw/m3p;1
+17;Bermuda;c02;Industrial roundwood, non-coniferous;;m3rw/m3p;1
+24;British Indian Ocean Territory;c02;Industrial roundwood, non-coniferous;;m3rw/m3p;1
+36;Cayman Islands;c02;Industrial roundwood, non-coniferous;;m3rw/m3p;1
+43;Cocos (Keeling) Islands;c02;Industrial roundwood, non-coniferous;;m3rw/m3p;1
+71;French Southern and Antarctic Territories;c02;Industrial roundwood, non-coniferous;;m3rw/m3p;1
+85;Greenland;c02;Industrial roundwood, non-coniferous;;m3rw/m3p;1
+86;Grenada;c02;Industrial roundwood, non-coniferous;;m3rw/m3p;1
+88;Guam;c02;Industrial roundwood, non-coniferous;;m3rw/m3p;1
+94;Holy See;c02;Industrial roundwood, non-coniferous;;m3rw/m3p;1
+127;Marshall Islands;c02;Industrial roundwood, non-coniferous;;m3rw/m3p;1
+142;Montserrat;c02;Industrial roundwood, non-coniferous;;m3rw/m3p;1
+148;Nauru;c02;Industrial roundwood, non-coniferous;;m3rw/m3p;1
+163;Northern Mariana Islands;c02;Industrial roundwood, non-coniferous;;m3rw/m3p;1
+164;Pacific Islands Trust Territory;c02;Industrial roundwood, non-coniferous;;m3rw/m3p;1
+172;Pitcairn Islands;c02;Industrial roundwood, non-coniferous;;m3rw/m3p;1
+180;Palau;c02;Industrial roundwood, non-coniferous;;m3rw/m3p;1
+187;Saint Helena, Ascension and Tristan da Cunha;c02;Industrial roundwood, non-coniferous;;m3rw/m3p;1
+188;Saint Kitts and Nevis;c02;Industrial roundwood, non-coniferous;;m3rw/m3p;1
+192;San Marino;c02;Industrial roundwood, non-coniferous;;m3rw/m3p;1
+205;Western Sahara;c02;Industrial roundwood, non-coniferous;;m3rw/m3p;1
+218;Tokelau;c02;Industrial roundwood, non-coniferous;;m3rw/m3p;1
+227;Tuvalu;c02;Industrial roundwood, non-coniferous;;m3rw/m3p;1
+228;USSR;c02;Industrial roundwood, non-coniferous;;m3rw/m3p;1
+242;Wake Island;c02;Industrial roundwood, non-coniferous;;m3rw/m3p;1
+243;Wallis and Futuna Islands;c02;Industrial roundwood, non-coniferous;;m3rw/m3p;1
+248;Yugoslav SFR;c02;Industrial roundwood, non-coniferous;;m3rw/m3p;1
+258;Anguilla;c02;Industrial roundwood, non-coniferous;;m3rw/m3p;1
+279;Curaçao;c02;Industrial roundwood, non-coniferous;;m3rw/m3p;1
+281;Saint-Martin (French Part);c02;Industrial roundwood, non-coniferous;;m3rw/m3p;1
+299;Palestine;c02;Industrial roundwood, non-coniferous;;m3rw/m3p;1
+252;Unspecified Area;c02;Industrial roundwood, non-coniferous;;m3rw/m3p;1
+254;Others (adjustment);c02;Industrial roundwood, non-coniferous;;m3rw/m3p;1
 ;ASI;c02;Industrial roundwood, non-coniferous;;m3rw/m3p;1
 ;EUR;c02;Industrial roundwood, non-coniferous;;m3rw/m3p;1
 ;AFR;c02;Industrial roundwood, non-coniferous;;m3rw/m3p;1
@@ -485,7 +549,6 @@ area_code;area;com_code;com_name;sub_com;unit;tcf
 59;Egypt;c03;Wood fuel;;m3rw/m3p;1
 60;El Salvador;c03;Wood fuel;;m3rw/m3p;1
 61;Equatorial Guinea;c03;Wood fuel;;m3rw/m3p;1
-62;Ethiopia PDR;c03;Wood fuel;;m3rw/m3p;1
 63;Estonia;c03;Wood fuel;;m3rw/m3p;1
 64;Faroe Islands;c03;Wood fuel;;m3rw/m3p;1
 65;Falkland Islands (Malvinas);c03;Wood fuel;;m3rw/m3p;1
@@ -521,7 +584,7 @@ area_code;area;com_code;com_name;sub_com;unit;tcf
 104;Ireland;c03;Wood fuel;;m3rw/m3p;1
 105;Israel;c03;Wood fuel;;m3rw/m3p;1
 106;Italy;c03;Wood fuel;;m3rw/m3p;1
-107;C?te d'Ivoire;c03;Wood fuel;;m3rw/m3p;1
+107;Cote d'Ivoire;c03;Wood fuel;;m3rw/m3p;1
 108;Kazakhstan;c03;Wood fuel;;m3rw/m3p;1
 109;Jamaica;c03;Wood fuel;;m3rw/m3p;1
 110;Japan;c03;Wood fuel;;m3rw/m3p;1
@@ -584,7 +647,7 @@ area_code;area;com_code;com_name;sub_com;unit;tcf
 178;Eritrea;c03;Wood fuel;;m3rw/m3p;1
 179;Qatar;c03;Wood fuel;;m3rw/m3p;1
 181;Zimbabwe;c03;Wood fuel;;m3rw/m3p;1
-182;R?union;c03;Wood fuel;;m3rw/m3p;1
+182;Reunion;c03;Wood fuel;;m3rw/m3p;1
 183;Romania;c03;Wood fuel;;m3rw/m3p;1
 184;Rwanda;c03;Wood fuel;;m3rw/m3p;1
 185;Russian Federation;c03;Wood fuel;;m3rw/m3p;1
@@ -602,7 +665,6 @@ area_code;area;com_code;com_name;sub_com;unit;tcf
 200;Singapore;c03;Wood fuel;;m3rw/m3p;1
 201;Somalia;c03;Wood fuel;;m3rw/m3p;1
 202;South Africa;c03;Wood fuel;;m3rw/m3p;1
-206;Sudan (former);c03;Wood fuel;;m3rw/m3p;1
 203;Spain;c03;Wood fuel;;m3rw/m3p;1
 207;Suriname;c03;Wood fuel;;m3rw/m3p;1
 208;Tajikistan;c03;Wood fuel;;m3rw/m3p;1
@@ -644,6 +706,40 @@ area_code;area;com_code;com_name;sub_com;unit;tcf
 273;Montenegro;c03;Wood fuel;;m3rw/m3p;1
 276;Sudan;c03;Wood fuel;;m3rw/m3p;1
 277;South Sudan;c03;Wood fuel;;m3rw/m3p;1
+5;American Samoa;c03;Wood fuel;;m3rw/m3p;1
+8;Antigua and Barbuda;c03;Wood fuel;;m3rw/m3p;1
+17;Bermuda;c03;Wood fuel;;m3rw/m3p;1
+24;British Indian Ocean Territory;c03;Wood fuel;;m3rw/m3p;1
+36;Cayman Islands;c03;Wood fuel;;m3rw/m3p;1
+43;Cocos (Keeling) Islands;c03;Wood fuel;;m3rw/m3p;1
+71;French Southern and Antarctic Territories;c03;Wood fuel;;m3rw/m3p;1
+85;Greenland;c03;Wood fuel;;m3rw/m3p;1
+86;Grenada;c03;Wood fuel;;m3rw/m3p;1
+88;Guam;c03;Wood fuel;;m3rw/m3p;1
+94;Holy See;c03;Wood fuel;;m3rw/m3p;1
+127;Marshall Islands;c03;Wood fuel;;m3rw/m3p;1
+142;Montserrat;c03;Wood fuel;;m3rw/m3p;1
+148;Nauru;c03;Wood fuel;;m3rw/m3p;1
+163;Northern Mariana Islands;c03;Wood fuel;;m3rw/m3p;1
+164;Pacific Islands Trust Territory;c03;Wood fuel;;m3rw/m3p;1
+172;Pitcairn Islands;c03;Wood fuel;;m3rw/m3p;1
+180;Palau;c03;Wood fuel;;m3rw/m3p;1
+187;Saint Helena, Ascension and Tristan da Cunha;c03;Wood fuel;;m3rw/m3p;1
+188;Saint Kitts and Nevis;c03;Wood fuel;;m3rw/m3p;1
+192;San Marino;c03;Wood fuel;;m3rw/m3p;1
+205;Western Sahara;c03;Wood fuel;;m3rw/m3p;1
+218;Tokelau;c03;Wood fuel;;m3rw/m3p;1
+227;Tuvalu;c03;Wood fuel;;m3rw/m3p;1
+228;USSR;c03;Wood fuel;;m3rw/m3p;1
+242;Wake Island;c03;Wood fuel;;m3rw/m3p;1
+243;Wallis and Futuna Islands;c03;Wood fuel;;m3rw/m3p;1
+248;Yugoslav SFR;c03;Wood fuel;;m3rw/m3p;1
+258;Anguilla;c03;Wood fuel;;m3rw/m3p;1
+279;Curaçao;c03;Wood fuel;;m3rw/m3p;1
+281;Saint-Martin (French Part);c03;Wood fuel;;m3rw/m3p;1
+299;Palestine;c03;Wood fuel;;m3rw/m3p;1
+252;Unspecified Area;c03;Wood fuel;;m3rw/m3p;1
+254;Others (adjustment);c03;Wood fuel;;m3rw/m3p;1
 ;ASI;c03;Wood fuel;;m3rw/m3p;1
 ;EUR;c03;Wood fuel;;m3rw/m3p;1
 ;AFR;c03;Wood fuel;;m3rw/m3p;1
@@ -702,7 +798,6 @@ area_code;area;com_code;com_name;sub_com;unit;tcf
 59;Egypt;c03;Wood fuel;;m3rw/tonne;0
 60;El Salvador;c03;Wood fuel;;m3rw/tonne;0
 61;Equatorial Guinea;c03;Wood fuel;;m3rw/tonne;0
-62;Ethiopia PDR;c03;Wood fuel;;m3rw/tonne;0
 63;Estonia;c03;Wood fuel;;m3rw/tonne;0
 64;Faroe Islands;c03;Wood fuel;;m3rw/tonne;0
 65;Falkland Islands (Malvinas);c03;Wood fuel;;m3rw/tonne;0
@@ -738,7 +833,7 @@ area_code;area;com_code;com_name;sub_com;unit;tcf
 104;Ireland;c03;Wood fuel;;m3rw/tonne;0
 105;Israel;c03;Wood fuel;;m3rw/tonne;0
 106;Italy;c03;Wood fuel;;m3rw/tonne;0
-107;C?te d'Ivoire;c03;Wood fuel;;m3rw/tonne;0
+107;Cote d'Ivoire;c03;Wood fuel;;m3rw/tonne;0
 108;Kazakhstan;c03;Wood fuel;;m3rw/tonne;0
 109;Jamaica;c03;Wood fuel;;m3rw/tonne;0
 110;Japan;c03;Wood fuel;;m3rw/tonne;0
@@ -801,7 +896,7 @@ area_code;area;com_code;com_name;sub_com;unit;tcf
 178;Eritrea;c03;Wood fuel;;m3rw/tonne;0
 179;Qatar;c03;Wood fuel;;m3rw/tonne;0
 181;Zimbabwe;c03;Wood fuel;;m3rw/tonne;0
-182;R?union;c03;Wood fuel;;m3rw/tonne;0
+182;Reunion;c03;Wood fuel;;m3rw/tonne;0
 183;Romania;c03;Wood fuel;;m3rw/tonne;0
 184;Rwanda;c03;Wood fuel;;m3rw/tonne;0
 185;Russian Federation;c03;Wood fuel;;m3rw/tonne;0
@@ -819,7 +914,6 @@ area_code;area;com_code;com_name;sub_com;unit;tcf
 200;Singapore;c03;Wood fuel;;m3rw/tonne;0
 201;Somalia;c03;Wood fuel;;m3rw/tonne;0
 202;South Africa;c03;Wood fuel;;m3rw/tonne;0
-206;Sudan (former);c03;Wood fuel;;m3rw/tonne;0
 203;Spain;c03;Wood fuel;;m3rw/tonne;0
 207;Suriname;c03;Wood fuel;;m3rw/tonne;0
 208;Tajikistan;c03;Wood fuel;;m3rw/tonne;0
@@ -861,6 +955,40 @@ area_code;area;com_code;com_name;sub_com;unit;tcf
 273;Montenegro;c03;Wood fuel;;m3rw/tonne;0
 276;Sudan;c03;Wood fuel;;m3rw/tonne;0
 277;South Sudan;c03;Wood fuel;;m3rw/tonne;0
+5;American Samoa;c03;Wood fuel;;m3rw/tonne;0
+8;Antigua and Barbuda;c03;Wood fuel;;m3rw/tonne;0
+17;Bermuda;c03;Wood fuel;;m3rw/tonne;0
+24;British Indian Ocean Territory;c03;Wood fuel;;m3rw/tonne;0
+36;Cayman Islands;c03;Wood fuel;;m3rw/tonne;0
+43;Cocos (Keeling) Islands;c03;Wood fuel;;m3rw/tonne;0
+71;French Southern and Antarctic Territories;c03;Wood fuel;;m3rw/tonne;0
+85;Greenland;c03;Wood fuel;;m3rw/tonne;0
+86;Grenada;c03;Wood fuel;;m3rw/tonne;0
+88;Guam;c03;Wood fuel;;m3rw/tonne;0
+94;Holy See;c03;Wood fuel;;m3rw/tonne;0
+127;Marshall Islands;c03;Wood fuel;;m3rw/tonne;0
+142;Montserrat;c03;Wood fuel;;m3rw/tonne;0
+148;Nauru;c03;Wood fuel;;m3rw/tonne;0
+163;Northern Mariana Islands;c03;Wood fuel;;m3rw/tonne;0
+164;Pacific Islands Trust Territory;c03;Wood fuel;;m3rw/tonne;0
+172;Pitcairn Islands;c03;Wood fuel;;m3rw/tonne;0
+180;Palau;c03;Wood fuel;;m3rw/tonne;0
+187;Saint Helena, Ascension and Tristan da Cunha;c03;Wood fuel;;m3rw/tonne;0
+188;Saint Kitts and Nevis;c03;Wood fuel;;m3rw/tonne;0
+192;San Marino;c03;Wood fuel;;m3rw/tonne;0
+205;Western Sahara;c03;Wood fuel;;m3rw/tonne;0
+218;Tokelau;c03;Wood fuel;;m3rw/tonne;0
+227;Tuvalu;c03;Wood fuel;;m3rw/tonne;0
+228;USSR;c03;Wood fuel;;m3rw/tonne;0
+242;Wake Island;c03;Wood fuel;;m3rw/tonne;0
+243;Wallis and Futuna Islands;c03;Wood fuel;;m3rw/tonne;0
+248;Yugoslav SFR;c03;Wood fuel;;m3rw/tonne;0
+258;Anguilla;c03;Wood fuel;;m3rw/tonne;0
+279;Curaçao;c03;Wood fuel;;m3rw/tonne;0
+281;Saint-Martin (French Part);c03;Wood fuel;;m3rw/tonne;0
+299;Palestine;c03;Wood fuel;;m3rw/tonne;0
+252;Unspecified Area;c03;Wood fuel;;m3rw/tonne;0
+254;Others (adjustment);c03;Wood fuel;;m3rw/tonne;0
 ;ASI;c03;Wood fuel;;m3rw/tonne;0
 ;EUR;c03;Wood fuel;;m3rw/tonne;1,263791667
 ;AFR;c03;Wood fuel;;m3rw/tonne;0
@@ -919,7 +1047,6 @@ area_code;area;com_code;com_name;sub_com;unit;tcf
 59;Egypt;c04;Sawnwood, coniferous;;m3rw/m3p;0
 60;El Salvador;c04;Sawnwood, coniferous;;m3rw/m3p;0
 61;Equatorial Guinea;c04;Sawnwood, coniferous;;m3rw/m3p;0
-62;Ethiopia PDR;c04;Sawnwood, coniferous;;m3rw/m3p;0
 63;Estonia;c04;Sawnwood, coniferous;;m3rw/m3p;0
 64;Faroe Islands;c04;Sawnwood, coniferous;;m3rw/m3p;0
 65;Falkland Islands (Malvinas);c04;Sawnwood, coniferous;;m3rw/m3p;0
@@ -955,7 +1082,7 @@ area_code;area;com_code;com_name;sub_com;unit;tcf
 104;Ireland;c04;Sawnwood, coniferous;;m3rw/m3p;1,89
 105;Israel;c04;Sawnwood, coniferous;;m3rw/m3p;0
 106;Italy;c04;Sawnwood, coniferous;;m3rw/m3p;0
-107;C?te d'Ivoire;c04;Sawnwood, coniferous;;m3rw/m3p;0
+107;Cote d'Ivoire;c04;Sawnwood, coniferous;;m3rw/m3p;0
 108;Kazakhstan;c04;Sawnwood, coniferous;;m3rw/m3p;0
 109;Jamaica;c04;Sawnwood, coniferous;;m3rw/m3p;0
 110;Japan;c04;Sawnwood, coniferous;;m3rw/m3p;1,57
@@ -1018,7 +1145,7 @@ area_code;area;com_code;com_name;sub_com;unit;tcf
 178;Eritrea;c04;Sawnwood, coniferous;;m3rw/m3p;0
 179;Qatar;c04;Sawnwood, coniferous;;m3rw/m3p;0
 181;Zimbabwe;c04;Sawnwood, coniferous;;m3rw/m3p;0
-182;R?union;c04;Sawnwood, coniferous;;m3rw/m3p;0
+182;Reunion;c04;Sawnwood, coniferous;;m3rw/m3p;0
 183;Romania;c04;Sawnwood, coniferous;;m3rw/m3p;0
 184;Rwanda;c04;Sawnwood, coniferous;;m3rw/m3p;0
 185;Russian Federation;c04;Sawnwood, coniferous;;m3rw/m3p;0
@@ -1036,7 +1163,6 @@ area_code;area;com_code;com_name;sub_com;unit;tcf
 200;Singapore;c04;Sawnwood, coniferous;;m3rw/m3p;0
 201;Somalia;c04;Sawnwood, coniferous;;m3rw/m3p;0
 202;South Africa;c04;Sawnwood, coniferous;;m3rw/m3p;2,08
-206;Sudan (former);c04;Sawnwood, coniferous;;m3rw/m3p;0
 203;Spain;c04;Sawnwood, coniferous;;m3rw/m3p;1,69
 207;Suriname;c04;Sawnwood, coniferous;;m3rw/m3p;0
 208;Tajikistan;c04;Sawnwood, coniferous;;m3rw/m3p;0
@@ -1078,6 +1204,40 @@ area_code;area;com_code;com_name;sub_com;unit;tcf
 273;Montenegro;c04;Sawnwood, coniferous;;m3rw/m3p;0
 276;Sudan;c04;Sawnwood, coniferous;;m3rw/m3p;0
 277;South Sudan;c04;Sawnwood, coniferous;;m3rw/m3p;0
+5;American Samoa;c04;Sawnwood, coniferous;;m3rw/m3p;0
+8;Antigua and Barbuda;c04;Sawnwood, coniferous;;m3rw/m3p;0
+17;Bermuda;c04;Sawnwood, coniferous;;m3rw/m3p;0
+24;British Indian Ocean Territory;c04;Sawnwood, coniferous;;m3rw/m3p;0
+36;Cayman Islands;c04;Sawnwood, coniferous;;m3rw/m3p;0
+43;Cocos (Keeling) Islands;c04;Sawnwood, coniferous;;m3rw/m3p;0
+71;French Southern and Antarctic Territories;c04;Sawnwood, coniferous;;m3rw/m3p;0
+85;Greenland;c04;Sawnwood, coniferous;;m3rw/m3p;0
+86;Grenada;c04;Sawnwood, coniferous;;m3rw/m3p;0
+88;Guam;c04;Sawnwood, coniferous;;m3rw/m3p;0
+94;Holy See;c04;Sawnwood, coniferous;;m3rw/m3p;0
+127;Marshall Islands;c04;Sawnwood, coniferous;;m3rw/m3p;0
+142;Montserrat;c04;Sawnwood, coniferous;;m3rw/m3p;0
+148;Nauru;c04;Sawnwood, coniferous;;m3rw/m3p;0
+163;Northern Mariana Islands;c04;Sawnwood, coniferous;;m3rw/m3p;0
+164;Pacific Islands Trust Territory;c04;Sawnwood, coniferous;;m3rw/m3p;0
+172;Pitcairn Islands;c04;Sawnwood, coniferous;;m3rw/m3p;0
+180;Palau;c04;Sawnwood, coniferous;;m3rw/m3p;0
+187;Saint Helena, Ascension and Tristan da Cunha;c04;Sawnwood, coniferous;;m3rw/m3p;0
+188;Saint Kitts and Nevis;c04;Sawnwood, coniferous;;m3rw/m3p;0
+192;San Marino;c04;Sawnwood, coniferous;;m3rw/m3p;0
+205;Western Sahara;c04;Sawnwood, coniferous;;m3rw/m3p;0
+218;Tokelau;c04;Sawnwood, coniferous;;m3rw/m3p;0
+227;Tuvalu;c04;Sawnwood, coniferous;;m3rw/m3p;0
+228;USSR;c04;Sawnwood, coniferous;;m3rw/m3p;0
+242;Wake Island;c04;Sawnwood, coniferous;;m3rw/m3p;0
+243;Wallis and Futuna Islands;c04;Sawnwood, coniferous;;m3rw/m3p;0
+248;Yugoslav SFR;c04;Sawnwood, coniferous;;m3rw/m3p;0
+258;Anguilla;c04;Sawnwood, coniferous;;m3rw/m3p;0
+279;Curaçao;c04;Sawnwood, coniferous;;m3rw/m3p;0
+281;Saint-Martin (French Part);c04;Sawnwood, coniferous;;m3rw/m3p;0
+299;Palestine;c04;Sawnwood, coniferous;;m3rw/m3p;0
+252;Unspecified Area;c04;Sawnwood, coniferous;;m3rw/m3p;0
+254;Others (adjustment);c04;Sawnwood, coniferous;;m3rw/m3p;0
 ;ASI;c04;Sawnwood, coniferous;;m3rw/m3p;1,86
 ;EUR;c04;Sawnwood, coniferous;;m3rw/m3p;1,82
 ;AFR;c04;Sawnwood, coniferous;;m3rw/m3p;2,08
@@ -1136,7 +1296,6 @@ area_code;area;com_code;com_name;sub_com;unit;tcf
 59;Egypt;c05;Sawnwood, non-coniferous all;;m3rw/m3p;0
 60;El Salvador;c05;Sawnwood, non-coniferous all;;m3rw/m3p;0
 61;Equatorial Guinea;c05;Sawnwood, non-coniferous all;;m3rw/m3p;0
-62;Ethiopia PDR;c05;Sawnwood, non-coniferous all;;m3rw/m3p;0
 63;Estonia;c05;Sawnwood, non-coniferous all;;m3rw/m3p;0
 64;Faroe Islands;c05;Sawnwood, non-coniferous all;;m3rw/m3p;0
 65;Falkland Islands (Malvinas);c05;Sawnwood, non-coniferous all;;m3rw/m3p;0
@@ -1172,7 +1331,7 @@ area_code;area;com_code;com_name;sub_com;unit;tcf
 104;Ireland;c05;Sawnwood, non-coniferous all;;m3rw/m3p;1,89
 105;Israel;c05;Sawnwood, non-coniferous all;;m3rw/m3p;0
 106;Italy;c05;Sawnwood, non-coniferous all;;m3rw/m3p;0
-107;C?te d'Ivoire;c05;Sawnwood, non-coniferous all;;m3rw/m3p;0
+107;Cote d'Ivoire;c05;Sawnwood, non-coniferous all;;m3rw/m3p;0
 108;Kazakhstan;c05;Sawnwood, non-coniferous all;;m3rw/m3p;0
 109;Jamaica;c05;Sawnwood, non-coniferous all;;m3rw/m3p;0
 110;Japan;c05;Sawnwood, non-coniferous all;;m3rw/m3p;1,59
@@ -1235,7 +1394,7 @@ area_code;area;com_code;com_name;sub_com;unit;tcf
 178;Eritrea;c05;Sawnwood, non-coniferous all;;m3rw/m3p;0
 179;Qatar;c05;Sawnwood, non-coniferous all;;m3rw/m3p;0
 181;Zimbabwe;c05;Sawnwood, non-coniferous all;;m3rw/m3p;0
-182;R?union;c05;Sawnwood, non-coniferous all;;m3rw/m3p;0
+182;Reunion;c05;Sawnwood, non-coniferous all;;m3rw/m3p;0
 183;Romania;c05;Sawnwood, non-coniferous all;;m3rw/m3p;0
 184;Rwanda;c05;Sawnwood, non-coniferous all;;m3rw/m3p;0
 185;Russian Federation;c05;Sawnwood, non-coniferous all;;m3rw/m3p;0
@@ -1253,7 +1412,6 @@ area_code;area;com_code;com_name;sub_com;unit;tcf
 200;Singapore;c05;Sawnwood, non-coniferous all;;m3rw/m3p;0
 201;Somalia;c05;Sawnwood, non-coniferous all;;m3rw/m3p;0
 202;South Africa;c05;Sawnwood, non-coniferous all;;m3rw/m3p;0
-206;Sudan (former);c05;Sawnwood, non-coniferous all;;m3rw/m3p;0
 203;Spain;c05;Sawnwood, non-coniferous all;;m3rw/m3p;1,89
 207;Suriname;c05;Sawnwood, non-coniferous all;;m3rw/m3p;2,29
 208;Tajikistan;c05;Sawnwood, non-coniferous all;;m3rw/m3p;0
@@ -1295,6 +1453,40 @@ area_code;area;com_code;com_name;sub_com;unit;tcf
 273;Montenegro;c05;Sawnwood, non-coniferous all;;m3rw/m3p;0
 276;Sudan;c05;Sawnwood, non-coniferous all;;m3rw/m3p;0
 277;South Sudan;c05;Sawnwood, non-coniferous all;;m3rw/m3p;0
+5;American Samoa;c05;Sawnwood, non-coniferous all;;m3rw/m3p;0
+8;Antigua and Barbuda;c05;Sawnwood, non-coniferous all;;m3rw/m3p;0
+17;Bermuda;c05;Sawnwood, non-coniferous all;;m3rw/m3p;0
+24;British Indian Ocean Territory;c05;Sawnwood, non-coniferous all;;m3rw/m3p;0
+36;Cayman Islands;c05;Sawnwood, non-coniferous all;;m3rw/m3p;0
+43;Cocos (Keeling) Islands;c05;Sawnwood, non-coniferous all;;m3rw/m3p;0
+71;French Southern and Antarctic Territories;c05;Sawnwood, non-coniferous all;;m3rw/m3p;0
+85;Greenland;c05;Sawnwood, non-coniferous all;;m3rw/m3p;0
+86;Grenada;c05;Sawnwood, non-coniferous all;;m3rw/m3p;0
+88;Guam;c05;Sawnwood, non-coniferous all;;m3rw/m3p;0
+94;Holy See;c05;Sawnwood, non-coniferous all;;m3rw/m3p;0
+127;Marshall Islands;c05;Sawnwood, non-coniferous all;;m3rw/m3p;0
+142;Montserrat;c05;Sawnwood, non-coniferous all;;m3rw/m3p;0
+148;Nauru;c05;Sawnwood, non-coniferous all;;m3rw/m3p;0
+163;Northern Mariana Islands;c05;Sawnwood, non-coniferous all;;m3rw/m3p;0
+164;Pacific Islands Trust Territory;c05;Sawnwood, non-coniferous all;;m3rw/m3p;0
+172;Pitcairn Islands;c05;Sawnwood, non-coniferous all;;m3rw/m3p;0
+180;Palau;c05;Sawnwood, non-coniferous all;;m3rw/m3p;0
+187;Saint Helena, Ascension and Tristan da Cunha;c05;Sawnwood, non-coniferous all;;m3rw/m3p;0
+188;Saint Kitts and Nevis;c05;Sawnwood, non-coniferous all;;m3rw/m3p;0
+192;San Marino;c05;Sawnwood, non-coniferous all;;m3rw/m3p;0
+205;Western Sahara;c05;Sawnwood, non-coniferous all;;m3rw/m3p;0
+218;Tokelau;c05;Sawnwood, non-coniferous all;;m3rw/m3p;0
+227;Tuvalu;c05;Sawnwood, non-coniferous all;;m3rw/m3p;0
+228;USSR;c05;Sawnwood, non-coniferous all;;m3rw/m3p;0
+242;Wake Island;c05;Sawnwood, non-coniferous all;;m3rw/m3p;0
+243;Wallis and Futuna Islands;c05;Sawnwood, non-coniferous all;;m3rw/m3p;0
+248;Yugoslav SFR;c05;Sawnwood, non-coniferous all;;m3rw/m3p;0
+258;Anguilla;c05;Sawnwood, non-coniferous all;;m3rw/m3p;0
+279;Curaçao;c05;Sawnwood, non-coniferous all;;m3rw/m3p;0
+281;Saint-Martin (French Part);c05;Sawnwood, non-coniferous all;;m3rw/m3p;0
+299;Palestine;c05;Sawnwood, non-coniferous all;;m3rw/m3p;0
+252;Unspecified Area;c05;Sawnwood, non-coniferous all;;m3rw/m3p;0
+254;Others (adjustment);c05;Sawnwood, non-coniferous all;;m3rw/m3p;0
 ;ASI;c05;Sawnwood, non-coniferous all;;m3rw/m3p;1,81
 ;EUR;c05;Sawnwood, non-coniferous all;;m3rw/m3p;1,95
 ;AFR;c05;Sawnwood, non-coniferous all;;m3rw/m3p;1,82
@@ -1353,7 +1545,6 @@ area_code;area;com_code;com_name;sub_com;unit;tcf
 59;Egypt;c06;Veneer sheets;;m3rw/m3p;0
 60;El Salvador;c06;Veneer sheets;;m3rw/m3p;0
 61;Equatorial Guinea;c06;Veneer sheets;;m3rw/m3p;0
-62;Ethiopia PDR;c06;Veneer sheets;;m3rw/m3p;0
 63;Estonia;c06;Veneer sheets;;m3rw/m3p;0
 64;Faroe Islands;c06;Veneer sheets;;m3rw/m3p;0
 65;Falkland Islands (Malvinas);c06;Veneer sheets;;m3rw/m3p;0
@@ -1389,7 +1580,7 @@ area_code;area;com_code;com_name;sub_com;unit;tcf
 104;Ireland;c06;Veneer sheets;;m3rw/m3p;0
 105;Israel;c06;Veneer sheets;;m3rw/m3p;0
 106;Italy;c06;Veneer sheets;;m3rw/m3p;0
-107;C?te d'Ivoire;c06;Veneer sheets;;m3rw/m3p;0
+107;Cote d'Ivoire;c06;Veneer sheets;;m3rw/m3p;0
 108;Kazakhstan;c06;Veneer sheets;;m3rw/m3p;0
 109;Jamaica;c06;Veneer sheets;;m3rw/m3p;0
 110;Japan;c06;Veneer sheets;;m3rw/m3p;1,62
@@ -1452,7 +1643,7 @@ area_code;area;com_code;com_name;sub_com;unit;tcf
 178;Eritrea;c06;Veneer sheets;;m3rw/m3p;0
 179;Qatar;c06;Veneer sheets;;m3rw/m3p;0
 181;Zimbabwe;c06;Veneer sheets;;m3rw/m3p;0
-182;R?union;c06;Veneer sheets;;m3rw/m3p;0
+182;Reunion;c06;Veneer sheets;;m3rw/m3p;0
 183;Romania;c06;Veneer sheets;;m3rw/m3p;0
 184;Rwanda;c06;Veneer sheets;;m3rw/m3p;0
 185;Russian Federation;c06;Veneer sheets;;m3rw/m3p;0
@@ -1470,7 +1661,6 @@ area_code;area;com_code;com_name;sub_com;unit;tcf
 200;Singapore;c06;Veneer sheets;;m3rw/m3p;0
 201;Somalia;c06;Veneer sheets;;m3rw/m3p;0
 202;South Africa;c06;Veneer sheets;;m3rw/m3p;1,85
-206;Sudan (former);c06;Veneer sheets;;m3rw/m3p;0
 203;Spain;c06;Veneer sheets;;m3rw/m3p;0
 207;Suriname;c06;Veneer sheets;;m3rw/m3p;0
 208;Tajikistan;c06;Veneer sheets;;m3rw/m3p;0
@@ -1512,6 +1702,40 @@ area_code;area;com_code;com_name;sub_com;unit;tcf
 273;Montenegro;c06;Veneer sheets;;m3rw/m3p;0
 276;Sudan;c06;Veneer sheets;;m3rw/m3p;0
 277;South Sudan;c06;Veneer sheets;;m3rw/m3p;0
+5;American Samoa;c06;Veneer sheets;;m3rw/m3p;0
+8;Antigua and Barbuda;c06;Veneer sheets;;m3rw/m3p;0
+17;Bermuda;c06;Veneer sheets;;m3rw/m3p;0
+24;British Indian Ocean Territory;c06;Veneer sheets;;m3rw/m3p;0
+36;Cayman Islands;c06;Veneer sheets;;m3rw/m3p;0
+43;Cocos (Keeling) Islands;c06;Veneer sheets;;m3rw/m3p;0
+71;French Southern and Antarctic Territories;c06;Veneer sheets;;m3rw/m3p;0
+85;Greenland;c06;Veneer sheets;;m3rw/m3p;0
+86;Grenada;c06;Veneer sheets;;m3rw/m3p;0
+88;Guam;c06;Veneer sheets;;m3rw/m3p;0
+94;Holy See;c06;Veneer sheets;;m3rw/m3p;0
+127;Marshall Islands;c06;Veneer sheets;;m3rw/m3p;0
+142;Montserrat;c06;Veneer sheets;;m3rw/m3p;0
+148;Nauru;c06;Veneer sheets;;m3rw/m3p;0
+163;Northern Mariana Islands;c06;Veneer sheets;;m3rw/m3p;0
+164;Pacific Islands Trust Territory;c06;Veneer sheets;;m3rw/m3p;0
+172;Pitcairn Islands;c06;Veneer sheets;;m3rw/m3p;0
+180;Palau;c06;Veneer sheets;;m3rw/m3p;0
+187;Saint Helena, Ascension and Tristan da Cunha;c06;Veneer sheets;;m3rw/m3p;0
+188;Saint Kitts and Nevis;c06;Veneer sheets;;m3rw/m3p;0
+192;San Marino;c06;Veneer sheets;;m3rw/m3p;0
+205;Western Sahara;c06;Veneer sheets;;m3rw/m3p;0
+218;Tokelau;c06;Veneer sheets;;m3rw/m3p;0
+227;Tuvalu;c06;Veneer sheets;;m3rw/m3p;0
+228;USSR;c06;Veneer sheets;;m3rw/m3p;0
+242;Wake Island;c06;Veneer sheets;;m3rw/m3p;0
+243;Wallis and Futuna Islands;c06;Veneer sheets;;m3rw/m3p;0
+248;Yugoslav SFR;c06;Veneer sheets;;m3rw/m3p;0
+258;Anguilla;c06;Veneer sheets;;m3rw/m3p;0
+279;Curaçao;c06;Veneer sheets;;m3rw/m3p;0
+281;Saint-Martin (French Part);c06;Veneer sheets;;m3rw/m3p;0
+299;Palestine;c06;Veneer sheets;;m3rw/m3p;0
+252;Unspecified Area;c06;Veneer sheets;;m3rw/m3p;0
+254;Others (adjustment);c06;Veneer sheets;;m3rw/m3p;0
 ;ASI;c06;Veneer sheets;;m3rw/m3p;1,916333333
 ;EUR;c06;Veneer sheets;;m3rw/m3p;2,250481818
 ;AFR;c06;Veneer sheets;;m3rw/m3p;1,85
@@ -1570,7 +1794,6 @@ area_code;area;com_code;com_name;sub_com;unit;tcf
 59;Egypt;c07;Plywood;;m3rw/m3p;0
 60;El Salvador;c07;Plywood;;m3rw/m3p;0
 61;Equatorial Guinea;c07;Plywood;;m3rw/m3p;0
-62;Ethiopia PDR;c07;Plywood;;m3rw/m3p;0
 63;Estonia;c07;Plywood;;m3rw/m3p;0
 64;Faroe Islands;c07;Plywood;;m3rw/m3p;0
 65;Falkland Islands (Malvinas);c07;Plywood;;m3rw/m3p;0
@@ -1606,7 +1829,7 @@ area_code;area;com_code;com_name;sub_com;unit;tcf
 104;Ireland;c07;Plywood;;m3rw/m3p;0
 105;Israel;c07;Plywood;;m3rw/m3p;0
 106;Italy;c07;Plywood;;m3rw/m3p;0
-107;C?te d'Ivoire;c07;Plywood;;m3rw/m3p;0
+107;Cote d'Ivoire;c07;Plywood;;m3rw/m3p;0
 108;Kazakhstan;c07;Plywood;;m3rw/m3p;0
 109;Jamaica;c07;Plywood;;m3rw/m3p;0
 110;Japan;c07;Plywood;;m3rw/m3p;1,62
@@ -1669,7 +1892,7 @@ area_code;area;com_code;com_name;sub_com;unit;tcf
 178;Eritrea;c07;Plywood;;m3rw/m3p;0
 179;Qatar;c07;Plywood;;m3rw/m3p;0
 181;Zimbabwe;c07;Plywood;;m3rw/m3p;0
-182;R?union;c07;Plywood;;m3rw/m3p;0
+182;Reunion;c07;Plywood;;m3rw/m3p;0
 183;Romania;c07;Plywood;;m3rw/m3p;0
 184;Rwanda;c07;Plywood;;m3rw/m3p;0
 185;Russian Federation;c07;Plywood;;m3rw/m3p;0
@@ -1687,7 +1910,6 @@ area_code;area;com_code;com_name;sub_com;unit;tcf
 200;Singapore;c07;Plywood;;m3rw/m3p;0
 201;Somalia;c07;Plywood;;m3rw/m3p;0
 202;South Africa;c07;Plywood;;m3rw/m3p;1,85
-206;Sudan (former);c07;Plywood;;m3rw/m3p;0
 203;Spain;c07;Plywood;;m3rw/m3p;0
 207;Suriname;c07;Plywood;;m3rw/m3p;0
 208;Tajikistan;c07;Plywood;;m3rw/m3p;0
@@ -1729,6 +1951,40 @@ area_code;area;com_code;com_name;sub_com;unit;tcf
 273;Montenegro;c07;Plywood;;m3rw/m3p;0
 276;Sudan;c07;Plywood;;m3rw/m3p;0
 277;South Sudan;c07;Plywood;;m3rw/m3p;0
+5;American Samoa;c07;Plywood;;m3rw/m3p;0
+8;Antigua and Barbuda;c07;Plywood;;m3rw/m3p;0
+17;Bermuda;c07;Plywood;;m3rw/m3p;0
+24;British Indian Ocean Territory;c07;Plywood;;m3rw/m3p;0
+36;Cayman Islands;c07;Plywood;;m3rw/m3p;0
+43;Cocos (Keeling) Islands;c07;Plywood;;m3rw/m3p;0
+71;French Southern and Antarctic Territories;c07;Plywood;;m3rw/m3p;0
+85;Greenland;c07;Plywood;;m3rw/m3p;0
+86;Grenada;c07;Plywood;;m3rw/m3p;0
+88;Guam;c07;Plywood;;m3rw/m3p;0
+94;Holy See;c07;Plywood;;m3rw/m3p;0
+127;Marshall Islands;c07;Plywood;;m3rw/m3p;0
+142;Montserrat;c07;Plywood;;m3rw/m3p;0
+148;Nauru;c07;Plywood;;m3rw/m3p;0
+163;Northern Mariana Islands;c07;Plywood;;m3rw/m3p;0
+164;Pacific Islands Trust Territory;c07;Plywood;;m3rw/m3p;0
+172;Pitcairn Islands;c07;Plywood;;m3rw/m3p;0
+180;Palau;c07;Plywood;;m3rw/m3p;0
+187;Saint Helena, Ascension and Tristan da Cunha;c07;Plywood;;m3rw/m3p;0
+188;Saint Kitts and Nevis;c07;Plywood;;m3rw/m3p;0
+192;San Marino;c07;Plywood;;m3rw/m3p;0
+205;Western Sahara;c07;Plywood;;m3rw/m3p;0
+218;Tokelau;c07;Plywood;;m3rw/m3p;0
+227;Tuvalu;c07;Plywood;;m3rw/m3p;0
+228;USSR;c07;Plywood;;m3rw/m3p;0
+242;Wake Island;c07;Plywood;;m3rw/m3p;0
+243;Wallis and Futuna Islands;c07;Plywood;;m3rw/m3p;0
+248;Yugoslav SFR;c07;Plywood;;m3rw/m3p;0
+258;Anguilla;c07;Plywood;;m3rw/m3p;0
+279;Curaçao;c07;Plywood;;m3rw/m3p;0
+281;Saint-Martin (French Part);c07;Plywood;;m3rw/m3p;0
+299;Palestine;c07;Plywood;;m3rw/m3p;0
+252;Unspecified Area;c07;Plywood;;m3rw/m3p;0
+254;Others (adjustment);c07;Plywood;;m3rw/m3p;0
 ;ASI;c07;Plywood;;m3rw/m3p;1,916333333
 ;EUR;c07;Plywood;;m3rw/m3p;2,250481818
 ;AFR;c07;Plywood;;m3rw/m3p;1,85
@@ -1787,7 +2043,6 @@ area_code;area;com_code;com_name;sub_com;unit;tcf
 59;Egypt;c08;Fibreboard;Hardboard;m3sw/m3p;0
 60;El Salvador;c08;Fibreboard;Hardboard;m3sw/m3p;0
 61;Equatorial Guinea;c08;Fibreboard;Hardboard;m3sw/m3p;0
-62;Ethiopia PDR;c08;Fibreboard;Hardboard;m3sw/m3p;0
 63;Estonia;c08;Fibreboard;Hardboard;m3sw/m3p;0
 64;Faroe Islands;c08;Fibreboard;Hardboard;m3sw/m3p;0
 65;Falkland Islands (Malvinas);c08;Fibreboard;Hardboard;m3sw/m3p;0
@@ -1823,7 +2078,7 @@ area_code;area;com_code;com_name;sub_com;unit;tcf
 104;Ireland;c08;Fibreboard;Hardboard;m3sw/m3p;1,93
 105;Israel;c08;Fibreboard;Hardboard;m3sw/m3p;0
 106;Italy;c08;Fibreboard;Hardboard;m3sw/m3p;0
-107;C?te d'Ivoire;c08;Fibreboard;Hardboard;m3sw/m3p;0
+107;Cote d'Ivoire;c08;Fibreboard;Hardboard;m3sw/m3p;0
 108;Kazakhstan;c08;Fibreboard;Hardboard;m3sw/m3p;0
 109;Jamaica;c08;Fibreboard;Hardboard;m3sw/m3p;0
 110;Japan;c08;Fibreboard;Hardboard;m3sw/m3p;0
@@ -1886,7 +2141,7 @@ area_code;area;com_code;com_name;sub_com;unit;tcf
 178;Eritrea;c08;Fibreboard;Hardboard;m3sw/m3p;0
 179;Qatar;c08;Fibreboard;Hardboard;m3sw/m3p;0
 181;Zimbabwe;c08;Fibreboard;Hardboard;m3sw/m3p;0
-182;R?union;c08;Fibreboard;Hardboard;m3sw/m3p;0
+182;Reunion;c08;Fibreboard;Hardboard;m3sw/m3p;0
 183;Romania;c08;Fibreboard;Hardboard;m3sw/m3p;0
 184;Rwanda;c08;Fibreboard;Hardboard;m3sw/m3p;0
 185;Russian Federation;c08;Fibreboard;Hardboard;m3sw/m3p;0
@@ -1904,7 +2159,6 @@ area_code;area;com_code;com_name;sub_com;unit;tcf
 200;Singapore;c08;Fibreboard;Hardboard;m3sw/m3p;0
 201;Somalia;c08;Fibreboard;Hardboard;m3sw/m3p;0
 202;South Africa;c08;Fibreboard;Hardboard;m3sw/m3p;0
-206;Sudan (former);c08;Fibreboard;Hardboard;m3sw/m3p;0
 203;Spain;c08;Fibreboard;Hardboard;m3sw/m3p;1,75
 207;Suriname;c08;Fibreboard;Hardboard;m3sw/m3p;0
 208;Tajikistan;c08;Fibreboard;Hardboard;m3sw/m3p;0
@@ -1946,6 +2200,40 @@ area_code;area;com_code;com_name;sub_com;unit;tcf
 273;Montenegro;c08;Fibreboard;Hardboard;m3sw/m3p;0
 276;Sudan;c08;Fibreboard;Hardboard;m3sw/m3p;0
 277;South Sudan;c08;Fibreboard;Hardboard;m3sw/m3p;0
+5;American Samoa;c08;Fibreboard;Hardboard;m3sw/m3p;0
+8;Antigua and Barbuda;c08;Fibreboard;Hardboard;m3sw/m3p;0
+17;Bermuda;c08;Fibreboard;Hardboard;m3sw/m3p;0
+24;British Indian Ocean Territory;c08;Fibreboard;Hardboard;m3sw/m3p;0
+36;Cayman Islands;c08;Fibreboard;Hardboard;m3sw/m3p;0
+43;Cocos (Keeling) Islands;c08;Fibreboard;Hardboard;m3sw/m3p;0
+71;French Southern and Antarctic Territories;c08;Fibreboard;Hardboard;m3sw/m3p;0
+85;Greenland;c08;Fibreboard;Hardboard;m3sw/m3p;0
+86;Grenada;c08;Fibreboard;Hardboard;m3sw/m3p;0
+88;Guam;c08;Fibreboard;Hardboard;m3sw/m3p;0
+94;Holy See;c08;Fibreboard;Hardboard;m3sw/m3p;0
+127;Marshall Islands;c08;Fibreboard;Hardboard;m3sw/m3p;0
+142;Montserrat;c08;Fibreboard;Hardboard;m3sw/m3p;0
+148;Nauru;c08;Fibreboard;Hardboard;m3sw/m3p;0
+163;Northern Mariana Islands;c08;Fibreboard;Hardboard;m3sw/m3p;0
+164;Pacific Islands Trust Territory;c08;Fibreboard;Hardboard;m3sw/m3p;0
+172;Pitcairn Islands;c08;Fibreboard;Hardboard;m3sw/m3p;0
+180;Palau;c08;Fibreboard;Hardboard;m3sw/m3p;0
+187;Saint Helena, Ascension and Tristan da Cunha;c08;Fibreboard;Hardboard;m3sw/m3p;0
+188;Saint Kitts and Nevis;c08;Fibreboard;Hardboard;m3sw/m3p;0
+192;San Marino;c08;Fibreboard;Hardboard;m3sw/m3p;0
+205;Western Sahara;c08;Fibreboard;Hardboard;m3sw/m3p;0
+218;Tokelau;c08;Fibreboard;Hardboard;m3sw/m3p;0
+227;Tuvalu;c08;Fibreboard;Hardboard;m3sw/m3p;0
+228;USSR;c08;Fibreboard;Hardboard;m3sw/m3p;0
+242;Wake Island;c08;Fibreboard;Hardboard;m3sw/m3p;0
+243;Wallis and Futuna Islands;c08;Fibreboard;Hardboard;m3sw/m3p;0
+248;Yugoslav SFR;c08;Fibreboard;Hardboard;m3sw/m3p;0
+258;Anguilla;c08;Fibreboard;Hardboard;m3sw/m3p;0
+279;Curaçao;c08;Fibreboard;Hardboard;m3sw/m3p;0
+281;Saint-Martin (French Part);c08;Fibreboard;Hardboard;m3sw/m3p;0
+299;Palestine;c08;Fibreboard;Hardboard;m3sw/m3p;0
+252;Unspecified Area;c08;Fibreboard;Hardboard;m3sw/m3p;0
+254;Others (adjustment);c08;Fibreboard;Hardboard;m3sw/m3p;0
 ;ASI;c08;Fibreboard;Hardboard;m3sw/m3p;1,8
 ;EUR;c08;Fibreboard;Hardboard;m3sw/m3p;2,12
 ;AFR;c08;Fibreboard;Hardboard;m3sw/m3p;0
@@ -2004,7 +2292,6 @@ area_code;area;com_code;com_name;sub_com;unit;tcf
 59;Egypt;c08;Fibreboard;MDF/HDF;m3sw/m3p;0
 60;El Salvador;c08;Fibreboard;MDF/HDF;m3sw/m3p;0
 61;Equatorial Guinea;c08;Fibreboard;MDF/HDF;m3sw/m3p;0
-62;Ethiopia PDR;c08;Fibreboard;MDF/HDF;m3sw/m3p;0
 63;Estonia;c08;Fibreboard;MDF/HDF;m3sw/m3p;0
 64;Faroe Islands;c08;Fibreboard;MDF/HDF;m3sw/m3p;0
 65;Falkland Islands (Malvinas);c08;Fibreboard;MDF/HDF;m3sw/m3p;0
@@ -2040,7 +2327,7 @@ area_code;area;com_code;com_name;sub_com;unit;tcf
 104;Ireland;c08;Fibreboard;MDF/HDF;m3sw/m3p;1,93
 105;Israel;c08;Fibreboard;MDF/HDF;m3sw/m3p;0
 106;Italy;c08;Fibreboard;MDF/HDF;m3sw/m3p;0
-107;C?te d'Ivoire;c08;Fibreboard;MDF/HDF;m3sw/m3p;0
+107;Cote d'Ivoire;c08;Fibreboard;MDF/HDF;m3sw/m3p;0
 108;Kazakhstan;c08;Fibreboard;MDF/HDF;m3sw/m3p;0
 109;Jamaica;c08;Fibreboard;MDF/HDF;m3sw/m3p;0
 110;Japan;c08;Fibreboard;MDF/HDF;m3sw/m3p;0
@@ -2103,7 +2390,7 @@ area_code;area;com_code;com_name;sub_com;unit;tcf
 178;Eritrea;c08;Fibreboard;MDF/HDF;m3sw/m3p;0
 179;Qatar;c08;Fibreboard;MDF/HDF;m3sw/m3p;0
 181;Zimbabwe;c08;Fibreboard;MDF/HDF;m3sw/m3p;0
-182;R?union;c08;Fibreboard;MDF/HDF;m3sw/m3p;0
+182;Reunion;c08;Fibreboard;MDF/HDF;m3sw/m3p;0
 183;Romania;c08;Fibreboard;MDF/HDF;m3sw/m3p;0
 184;Rwanda;c08;Fibreboard;MDF/HDF;m3sw/m3p;0
 185;Russian Federation;c08;Fibreboard;MDF/HDF;m3sw/m3p;0
@@ -2121,7 +2408,6 @@ area_code;area;com_code;com_name;sub_com;unit;tcf
 200;Singapore;c08;Fibreboard;MDF/HDF;m3sw/m3p;0
 201;Somalia;c08;Fibreboard;MDF/HDF;m3sw/m3p;0
 202;South Africa;c08;Fibreboard;MDF/HDF;m3sw/m3p;0
-206;Sudan (former);c08;Fibreboard;MDF/HDF;m3sw/m3p;0
 203;Spain;c08;Fibreboard;MDF/HDF;m3sw/m3p;1,75
 207;Suriname;c08;Fibreboard;MDF/HDF;m3sw/m3p;0
 208;Tajikistan;c08;Fibreboard;MDF/HDF;m3sw/m3p;0
@@ -2163,446 +2449,544 @@ area_code;area;com_code;com_name;sub_com;unit;tcf
 273;Montenegro;c08;Fibreboard;MDF/HDF;m3sw/m3p;0
 276;Sudan;c08;Fibreboard;MDF/HDF;m3sw/m3p;0
 277;South Sudan;c08;Fibreboard;MDF/HDF;m3sw/m3p;0
+5;American Samoa;c08;Fibreboard;MDF/HDF;m3sw/m3p;0
+8;Antigua and Barbuda;c08;Fibreboard;MDF/HDF;m3sw/m3p;0
+17;Bermuda;c08;Fibreboard;MDF/HDF;m3sw/m3p;0
+24;British Indian Ocean Territory;c08;Fibreboard;MDF/HDF;m3sw/m3p;0
+36;Cayman Islands;c08;Fibreboard;MDF/HDF;m3sw/m3p;0
+43;Cocos (Keeling) Islands;c08;Fibreboard;MDF/HDF;m3sw/m3p;0
+71;French Southern and Antarctic Territories;c08;Fibreboard;MDF/HDF;m3sw/m3p;0
+85;Greenland;c08;Fibreboard;MDF/HDF;m3sw/m3p;0
+86;Grenada;c08;Fibreboard;MDF/HDF;m3sw/m3p;0
+88;Guam;c08;Fibreboard;MDF/HDF;m3sw/m3p;0
+94;Holy See;c08;Fibreboard;MDF/HDF;m3sw/m3p;0
+127;Marshall Islands;c08;Fibreboard;MDF/HDF;m3sw/m3p;0
+142;Montserrat;c08;Fibreboard;MDF/HDF;m3sw/m3p;0
+148;Nauru;c08;Fibreboard;MDF/HDF;m3sw/m3p;0
+163;Northern Mariana Islands;c08;Fibreboard;MDF/HDF;m3sw/m3p;0
+164;Pacific Islands Trust Territory;c08;Fibreboard;MDF/HDF;m3sw/m3p;0
+172;Pitcairn Islands;c08;Fibreboard;MDF/HDF;m3sw/m3p;0
+180;Palau;c08;Fibreboard;MDF/HDF;m3sw/m3p;0
+187;Saint Helena, Ascension and Tristan da Cunha;c08;Fibreboard;MDF/HDF;m3sw/m3p;0
+188;Saint Kitts and Nevis;c08;Fibreboard;MDF/HDF;m3sw/m3p;0
+192;San Marino;c08;Fibreboard;MDF/HDF;m3sw/m3p;0
+205;Western Sahara;c08;Fibreboard;MDF/HDF;m3sw/m3p;0
+218;Tokelau;c08;Fibreboard;MDF/HDF;m3sw/m3p;0
+227;Tuvalu;c08;Fibreboard;MDF/HDF;m3sw/m3p;0
+228;USSR;c08;Fibreboard;MDF/HDF;m3sw/m3p;0
+242;Wake Island;c08;Fibreboard;MDF/HDF;m3sw/m3p;0
+243;Wallis and Futuna Islands;c08;Fibreboard;MDF/HDF;m3sw/m3p;0
+248;Yugoslav SFR;c08;Fibreboard;MDF/HDF;m3sw/m3p;0
+258;Anguilla;c08;Fibreboard;MDF/HDF;m3sw/m3p;0
+279;Curaçao;c08;Fibreboard;MDF/HDF;m3sw/m3p;0
+281;Saint-Martin (French Part);c08;Fibreboard;MDF/HDF;m3sw/m3p;0
+299;Palestine;c08;Fibreboard;MDF/HDF;m3sw/m3p;0
+252;Unspecified Area;c08;Fibreboard;MDF/HDF;m3sw/m3p;0
+254;Others (adjustment);c08;Fibreboard;MDF/HDF;m3sw/m3p;0
 ;ASI;c08;Fibreboard;MDF/HDF;m3sw/m3p;1,8
 ;EUR;c08;Fibreboard;MDF/HDF;m3sw/m3p;1,79
 ;AFR;c08;Fibreboard;MDF/HDF;m3sw/m3p;0
 ;LAM;c08;Fibreboard;MDF/HDF;m3sw/m3p;1,53
 ;OCE;c08;Fibreboard;MDF/HDF;m3sw/m3p;0
 ;NAM;c08;Fibreboard;MDF/HDF;m3sw/m3p;1,53
-1;Armenia;c09;Particle board;;m3sw/m3p;0
-2;Afghanistan;c09;Particle board;;m3sw/m3p;0
-3;Albania;c09;Particle board;;m3sw/m3p;0
-4;Algeria;c09;Particle board;;m3sw/m3p;0
-6;Andorra;c09;Particle board;;m3sw/m3p;0
-7;Angola;c09;Particle board;;m3sw/m3p;0
-9;Argentina;c09;Particle board;;m3sw/m3p;0
-10;Australia;c09;Particle board;;m3sw/m3p;0
-11;Austria;c09;Particle board;;m3sw/m3p;0
-12;Bahamas;c09;Particle board;;m3sw/m3p;0
-13;Bahrain;c09;Particle board;;m3sw/m3p;0
-14;Barbados;c09;Particle board;;m3sw/m3p;0
-15;Belgium-Luxembourg;c09;Particle board;;m3sw/m3p;0
-16;Bangladesh;c09;Particle board;;m3sw/m3p;0
-18;Bhutan;c09;Particle board;;m3sw/m3p;0
-19;Bolivia (Plurinational State of);c09;Particle board;;m3sw/m3p;0
-20;Botswana;c09;Particle board;;m3sw/m3p;0
-21;Brazil;c09;Particle board;;m3sw/m3p;0
-22;Aruba;c09;Particle board;;m3sw/m3p;0
-23;Belize;c09;Particle board;;m3sw/m3p;0
-25;Solomon Islands;c09;Particle board;;m3sw/m3p;0
-26;Brunei Darussalam;c09;Particle board;;m3sw/m3p;0
-27;Bulgaria;c09;Particle board;;m3sw/m3p;0
-28;Myanmar;c09;Particle board;;m3sw/m3p;0
-29;Burundi;c09;Particle board;;m3sw/m3p;0
-32;Cameroon;c09;Particle board;;m3sw/m3p;0
-33;Canada;c09;Particle board;;m3sw/m3p;1,48
-35;Cabo Verde;c09;Particle board;;m3sw/m3p;0
-37;Central African Republic;c09;Particle board;;m3sw/m3p;0
-38;Sri Lanka;c09;Particle board;;m3sw/m3p;0
-39;Chad;c09;Particle board;;m3sw/m3p;0
-40;Chile;c09;Particle board;;m3sw/m3p;1,58
-41;China, mainland;c09;Particle board;;m3sw/m3p;1,6
-42;Christmas Island;c09;Particle board;;m3sw/m3p;0
-44;Colombia;c09;Particle board;;m3sw/m3p;0
-45;Comoros;c09;Particle board;;m3sw/m3p;0
-46;Congo;c09;Particle board;;m3sw/m3p;0
-47;Cook Islands;c09;Particle board;;m3sw/m3p;0
-48;Costa Rica;c09;Particle board;;m3sw/m3p;0
-49;Cuba;c09;Particle board;;m3sw/m3p;0
-50;Cyprus;c09;Particle board;;m3sw/m3p;0
-51;Czechoslovakia;c09;Particle board;;m3sw/m3p;0
-52;Azerbaijan;c09;Particle board;;m3sw/m3p;0
-53;Benin;c09;Particle board;;m3sw/m3p;0
-54;Denmark;c09;Particle board;;m3sw/m3p;0
-55;Dominica;c09;Particle board;;m3sw/m3p;0
-56;Dominican Republic;c09;Particle board;;m3sw/m3p;0
-57;Belarus;c09;Particle board;;m3sw/m3p;0
-58;Ecuador;c09;Particle board;;m3sw/m3p;0
-59;Egypt;c09;Particle board;;m3sw/m3p;0
-60;El Salvador;c09;Particle board;;m3sw/m3p;0
-61;Equatorial Guinea;c09;Particle board;;m3sw/m3p;0
-62;Ethiopia PDR;c09;Particle board;;m3sw/m3p;0
-63;Estonia;c09;Particle board;;m3sw/m3p;0
-64;Faroe Islands;c09;Particle board;;m3sw/m3p;0
-65;Falkland Islands (Malvinas);c09;Particle board;;m3sw/m3p;0
-66;Fiji;c09;Particle board;;m3sw/m3p;0
-67;Finland;c09;Particle board;;m3sw/m3p;0
-68;France;c09;Particle board;;m3sw/m3p;1,7
-69;French Guyana;c09;Particle board;;m3sw/m3p;0
-70;French Polynesia;c09;Particle board;;m3sw/m3p;0
-72;Djibouti;c09;Particle board;;m3sw/m3p;0
-73;Georgia;c09;Particle board;;m3sw/m3p;0
-74;Gabon;c09;Particle board;;m3sw/m3p;0
-75;Gambia;c09;Particle board;;m3sw/m3p;0
-79;Germany;c09;Particle board;;m3sw/m3p;1,3
-80;Bosnia and Herzegovina;c09;Particle board;;m3sw/m3p;0
-81;Ghana;c09;Particle board;;m3sw/m3p;0
-82;Gibraltar;c09;Particle board;;m3sw/m3p;0
-83;Kiribati;c09;Particle board;;m3sw/m3p;0
-84;Greece;c09;Particle board;;m3sw/m3p;0
-87;Guadeloupe;c09;Particle board;;m3sw/m3p;0
-89;Guatemala;c09;Particle board;;m3sw/m3p;0
-90;Guinea;c09;Particle board;;m3sw/m3p;0
-91;Guyana;c09;Particle board;;m3sw/m3p;0
-93;Haiti;c09;Particle board;;m3sw/m3p;0
-95;Honduras;c09;Particle board;;m3sw/m3p;0
-96;China, Hong Kong SAR;c09;Particle board;;m3sw/m3p;0
-97;Hungary;c09;Particle board;;m3sw/m3p;0
-98;Croatia;c09;Particle board;;m3sw/m3p;0
-99;Iceland;c09;Particle board;;m3sw/m3p;0
-100;India;c09;Particle board;;m3sw/m3p;0
-101;Indonesia;c09;Particle board;;m3sw/m3p;1,6
-102;Iran (Islamic Republic of);c09;Particle board;;m3sw/m3p;0
-103;Iraq;c09;Particle board;;m3sw/m3p;0
-104;Ireland;c09;Particle board;;m3sw/m3p;1,93
-105;Israel;c09;Particle board;;m3sw/m3p;0
-106;Italy;c09;Particle board;;m3sw/m3p;0
-107;C?te d'Ivoire;c09;Particle board;;m3sw/m3p;0
-108;Kazakhstan;c09;Particle board;;m3sw/m3p;0
-109;Jamaica;c09;Particle board;;m3sw/m3p;0
-110;Japan;c09;Particle board;;m3sw/m3p;0
-112;Jordan;c09;Particle board;;m3sw/m3p;0
-113;Kyrgyzstan;c09;Particle board;;m3sw/m3p;0
-114;Kenya;c09;Particle board;;m3sw/m3p;0
-115;Cambodia;c09;Particle board;;m3sw/m3p;0
-116;Democratic People's Republic of Korea;c09;Particle board;;m3sw/m3p;0
-117;Republic of Korea;c09;Particle board;;m3sw/m3p;0
-118;Kuwait;c09;Particle board;;m3sw/m3p;0
-119;Latvia;c09;Particle board;;m3sw/m3p;0
-120;Lao People's Democratic Republic;c09;Particle board;;m3sw/m3p;0
-121;Lebanon;c09;Particle board;;m3sw/m3p;0
-122;Lesotho;c09;Particle board;;m3sw/m3p;0
-123;Liberia;c09;Particle board;;m3sw/m3p;0
-124;Libya;c09;Particle board;;m3sw/m3p;0
-125;Liechtenstein;c09;Particle board;;m3sw/m3p;0
-126;Lithuania;c09;Particle board;;m3sw/m3p;1,51
-128;China, Macao SAR;c09;Particle board;;m3sw/m3p;0
-129;Madagascar;c09;Particle board;;m3sw/m3p;0
-130;Malawi;c09;Particle board;;m3sw/m3p;0
-131;Malaysia;c09;Particle board;;m3sw/m3p;1,4
-132;Maldives;c09;Particle board;;m3sw/m3p;0
-133;Mali;c09;Particle board;;m3sw/m3p;0
-134;Malta;c09;Particle board;;m3sw/m3p;0
-135;Martinique;c09;Particle board;;m3sw/m3p;0
-136;Mauritania;c09;Particle board;;m3sw/m3p;0
-137;Mauritius;c09;Particle board;;m3sw/m3p;0
-138;Mexico;c09;Particle board;;m3sw/m3p;1,5
-141;Mongolia;c09;Particle board;;m3sw/m3p;0
-143;Morocco;c09;Particle board;;m3sw/m3p;0
-144;Mozambique;c09;Particle board;;m3sw/m3p;0
-145;Micronesia (Federated States of);c09;Particle board;;m3sw/m3p;0
-146;Republic of Moldova;c09;Particle board;;m3sw/m3p;0
-147;Namibia;c09;Particle board;;m3sw/m3p;0
-149;Nepal;c09;Particle board;;m3sw/m3p;0
-150;Netherlands;c09;Particle board;;m3sw/m3p;0
-151;Netherlands Antilles;c09;Particle board;;m3sw/m3p;0
-153;New Caledonia;c09;Particle board;;m3sw/m3p;0
-154;North Macedonia;c09;Particle board;;m3sw/m3p;0
-155;Vanuatu;c09;Particle board;;m3sw/m3p;0
-156;New Zealand;c09;Particle board;;m3sw/m3p;0
-157;Nicaragua;c09;Particle board;;m3sw/m3p;0
-158;Niger;c09;Particle board;;m3sw/m3p;0
-159;Nigeria;c09;Particle board;;m3sw/m3p;0
-160;Niue;c09;Particle board;;m3sw/m3p;0
-161;Norfolk Island;c09;Particle board;;m3sw/m3p;0
-162;Norway;c09;Particle board;;m3sw/m3p;1,5
-165;Pakistan;c09;Particle board;;m3sw/m3p;0
-166;Panama;c09;Particle board;;m3sw/m3p;0
-167;Czechia;c09;Particle board;;m3sw/m3p;0
-168;Papua New Guinea;c09;Particle board;;m3sw/m3p;0
-169;Paraguay;c09;Particle board;;m3sw/m3p;0
-170;Peru;c09;Particle board;;m3sw/m3p;0
-171;Philippines;c09;Particle board;;m3sw/m3p;0
-173;Poland;c09;Particle board;;m3sw/m3p;1,6
-174;Portugal;c09;Particle board;;m3sw/m3p;1,4
-175;Guinea-Bissau;c09;Particle board;;m3sw/m3p;0
-176;Timor-Leste;c09;Particle board;;m3sw/m3p;0
-178;Eritrea;c09;Particle board;;m3sw/m3p;0
-179;Qatar;c09;Particle board;;m3sw/m3p;0
-181;Zimbabwe;c09;Particle board;;m3sw/m3p;0
-182;R?union;c09;Particle board;;m3sw/m3p;0
-183;Romania;c09;Particle board;;m3sw/m3p;0
-184;Rwanda;c09;Particle board;;m3sw/m3p;0
-185;Russian Federation;c09;Particle board;;m3sw/m3p;0
-186;Serbia and Montenegro;c09;Particle board;;m3sw/m3p;0
-189;Saint Lucia;c09;Particle board;;m3sw/m3p;0
-190;Saint Pierre and Miquelon;c09;Particle board;;m3sw/m3p;0
-191;Saint Vincent and the Grenadines;c09;Particle board;;m3sw/m3p;0
-193;Sao Tome and Principe;c09;Particle board;;m3sw/m3p;0
-194;Saudi Arabia;c09;Particle board;;m3sw/m3p;0
-195;Senegal;c09;Particle board;;m3sw/m3p;0
-196;Seychelles;c09;Particle board;;m3sw/m3p;0
-197;Sierra Leone;c09;Particle board;;m3sw/m3p;0
-198;Slovenia;c09;Particle board;;m3sw/m3p;0
-199;Slovakia;c09;Particle board;;m3sw/m3p;1,2
-200;Singapore;c09;Particle board;;m3sw/m3p;0
-201;Somalia;c09;Particle board;;m3sw/m3p;0
-202;South Africa;c09;Particle board;;m3sw/m3p;0
-206;Sudan (former);c09;Particle board;;m3sw/m3p;0
-203;Spain;c09;Particle board;;m3sw/m3p;1,4
-207;Suriname;c09;Particle board;;m3sw/m3p;0
-208;Tajikistan;c09;Particle board;;m3sw/m3p;0
-209;Eswatini;c09;Particle board;;m3sw/m3p;0
-210;Sweden;c09;Particle board;;m3sw/m3p;1,5
-211;Switzerland;c09;Particle board;;m3sw/m3p;0
-212;Syrian Arab Republic;c09;Particle board;;m3sw/m3p;0
-213;Turkmenistan;c09;Particle board;;m3sw/m3p;0
-214;China, Taiwan Province of;c09;Particle board;;m3sw/m3p;0
-215;United Republic of Tanzania;c09;Particle board;;m3sw/m3p;0
-216;Thailand;c09;Particle board;;m3sw/m3p;0
-217;Togo;c09;Particle board;;m3sw/m3p;0
-219;Tonga;c09;Particle board;;m3sw/m3p;0
-220;Trinidad and Tobago;c09;Particle board;;m3sw/m3p;0
-221;Oman;c09;Particle board;;m3sw/m3p;0
-222;Tunisia;c09;Particle board;;m3sw/m3p;0
-223;Turkey;c09;Particle board;;m3sw/m3p;0
-224;Turks and Caicos Islands;c09;Particle board;;m3sw/m3p;0
-225;United Arab Emirates;c09;Particle board;;m3sw/m3p;0
-226;Uganda;c09;Particle board;;m3sw/m3p;0
-229;United Kingdom;c09;Particle board;;m3sw/m3p;1,51
-230;Ukraine;c09;Particle board;;m3sw/m3p;1,8
-231;United States of America;c09;Particle board;;m3sw/m3p;1,6
-233;Burkina Faso;c09;Particle board;;m3sw/m3p;0
-234;Uruguay;c09;Particle board;;m3sw/m3p;0
-235;Uzbekistan;c09;Particle board;;m3sw/m3p;0
-236;Venezuela (Bolivarian Republic of);c09;Particle board;;m3sw/m3p;0
-237;Viet Nam;c09;Particle board;;m3sw/m3p;0
-238;Ethiopia;c09;Particle board;;m3sw/m3p;0
-239;British Virgin Islands;c09;Particle board;;m3sw/m3p;0
-244;Samoa;c09;Particle board;;m3sw/m3p;0
-249;Yemen;c09;Particle board;;m3sw/m3p;0
-250;Democratic Republic of the Congo;c09;Particle board;;m3sw/m3p;0
-251;Zambia;c09;Particle board;;m3sw/m3p;0
-255;Belgium;c09;Particle board;;m3sw/m3p;0
-256;Luxembourg;c09;Particle board;;m3sw/m3p;0
-270;Mayotte;c09;Particle board;;m3sw/m3p;0
-272;Serbia;c09;Particle board;;m3sw/m3p;0
-273;Montenegro;c09;Particle board;;m3sw/m3p;0
-276;Sudan;c09;Particle board;;m3sw/m3p;0
-277;South Sudan;c09;Particle board;;m3sw/m3p;0
-;ASI;c09;Particle board;;m3sw/m3p;1,53
-;EUR;c09;Particle board;;m3sw/m3p;1,54
-;AFR;c09;Particle board;;m3sw/m3p;0
-;LAM;c09;Particle board;;m3sw/m3p;1,54
-;OCE;c09;Particle board;;m3sw/m3p;0
-;NAM;c09;Particle board;;m3sw/m3p;1,54
-1;Armenia;c09;Particle board;;kg/m3p;0
-2;Afghanistan;c09;Particle board;;kg/m3p;0
-3;Albania;c09;Particle board;;kg/m3p;0
-4;Algeria;c09;Particle board;;kg/m3p;0
-6;Andorra;c09;Particle board;;kg/m3p;0
-7;Angola;c09;Particle board;;kg/m3p;0
-9;Argentina;c09;Particle board;;kg/m3p;0
-10;Australia;c09;Particle board;;kg/m3p;0
-11;Austria;c09;Particle board;;kg/m3p;0
-12;Bahamas;c09;Particle board;;kg/m3p;0
-13;Bahrain;c09;Particle board;;kg/m3p;0
-14;Barbados;c09;Particle board;;kg/m3p;0
-15;Belgium-Luxembourg;c09;Particle board;;kg/m3p;0
-16;Bangladesh;c09;Particle board;;kg/m3p;0
-18;Bhutan;c09;Particle board;;kg/m3p;0
-19;Bolivia (Plurinational State of);c09;Particle board;;kg/m3p;0
-20;Botswana;c09;Particle board;;kg/m3p;0
-21;Brazil;c09;Particle board;;kg/m3p;640
-22;Aruba;c09;Particle board;;kg/m3p;0
-23;Belize;c09;Particle board;;kg/m3p;0
-25;Solomon Islands;c09;Particle board;;kg/m3p;0
-26;Brunei Darussalam;c09;Particle board;;kg/m3p;0
-27;Bulgaria;c09;Particle board;;kg/m3p;0
-28;Myanmar;c09;Particle board;;kg/m3p;0
-29;Burundi;c09;Particle board;;kg/m3p;0
-32;Cameroon;c09;Particle board;;kg/m3p;0
-33;Canada;c09;Particle board;;kg/m3p;0
-35;Cabo Verde;c09;Particle board;;kg/m3p;0
-37;Central African Republic;c09;Particle board;;kg/m3p;0
-38;Sri Lanka;c09;Particle board;;kg/m3p;0
-39;Chad;c09;Particle board;;kg/m3p;0
-40;Chile;c09;Particle board;;kg/m3p;640
-41;China, mainland;c09;Particle board;;kg/m3p;660
-42;Christmas Island;c09;Particle board;;kg/m3p;0
-44;Colombia;c09;Particle board;;kg/m3p;0
-45;Comoros;c09;Particle board;;kg/m3p;0
-46;Congo;c09;Particle board;;kg/m3p;0
-47;Cook Islands;c09;Particle board;;kg/m3p;0
-48;Costa Rica;c09;Particle board;;kg/m3p;0
-49;Cuba;c09;Particle board;;kg/m3p;0
-50;Cyprus;c09;Particle board;;kg/m3p;0
-51;Czechoslovakia;c09;Particle board;;kg/m3p;0
-52;Azerbaijan;c09;Particle board;;kg/m3p;0
-53;Benin;c09;Particle board;;kg/m3p;0
-54;Denmark;c09;Particle board;;kg/m3p;0
-55;Dominica;c09;Particle board;;kg/m3p;0
-56;Dominican Republic;c09;Particle board;;kg/m3p;0
-57;Belarus;c09;Particle board;;kg/m3p;0
-58;Ecuador;c09;Particle board;;kg/m3p;0
-59;Egypt;c09;Particle board;;kg/m3p;0
-60;El Salvador;c09;Particle board;;kg/m3p;0
-61;Equatorial Guinea;c09;Particle board;;kg/m3p;0
-62;Ethiopia PDR;c09;Particle board;;kg/m3p;0
-63;Estonia;c09;Particle board;;kg/m3p;0
-64;Faroe Islands;c09;Particle board;;kg/m3p;0
-65;Falkland Islands (Malvinas);c09;Particle board;;kg/m3p;0
-66;Fiji;c09;Particle board;;kg/m3p;0
-67;Finland;c09;Particle board;;kg/m3p;0
-68;France;c09;Particle board;;kg/m3p;650
-69;French Guyana;c09;Particle board;;kg/m3p;0
-70;French Polynesia;c09;Particle board;;kg/m3p;0
-72;Djibouti;c09;Particle board;;kg/m3p;0
-73;Georgia;c09;Particle board;;kg/m3p;0
-74;Gabon;c09;Particle board;;kg/m3p;0
-75;Gambia;c09;Particle board;;kg/m3p;0
-79;Germany;c09;Particle board;;kg/m3p;0
-80;Bosnia and Herzegovina;c09;Particle board;;kg/m3p;0
-81;Ghana;c09;Particle board;;kg/m3p;0
-82;Gibraltar;c09;Particle board;;kg/m3p;0
-83;Kiribati;c09;Particle board;;kg/m3p;0
-84;Greece;c09;Particle board;;kg/m3p;0
-87;Guadeloupe;c09;Particle board;;kg/m3p;0
-89;Guatemala;c09;Particle board;;kg/m3p;0
-90;Guinea;c09;Particle board;;kg/m3p;0
-91;Guyana;c09;Particle board;;kg/m3p;0
-93;Haiti;c09;Particle board;;kg/m3p;0
-95;Honduras;c09;Particle board;;kg/m3p;0
-96;China, Hong Kong SAR;c09;Particle board;;kg/m3p;0
-97;Hungary;c09;Particle board;;kg/m3p;0
-98;Croatia;c09;Particle board;;kg/m3p;0
-99;Iceland;c09;Particle board;;kg/m3p;0
-100;India;c09;Particle board;;kg/m3p;0
-101;Indonesia;c09;Particle board;;kg/m3p;700
-102;Iran (Islamic Republic of);c09;Particle board;;kg/m3p;0
-103;Iraq;c09;Particle board;;kg/m3p;0
-104;Ireland;c09;Particle board;;kg/m3p;625
-105;Israel;c09;Particle board;;kg/m3p;0
-106;Italy;c09;Particle board;;kg/m3p;0
-107;C?te d'Ivoire;c09;Particle board;;kg/m3p;0
-108;Kazakhstan;c09;Particle board;;kg/m3p;0
-109;Jamaica;c09;Particle board;;kg/m3p;0
-110;Japan;c09;Particle board;;kg/m3p;0
-112;Jordan;c09;Particle board;;kg/m3p;0
-113;Kyrgyzstan;c09;Particle board;;kg/m3p;0
-114;Kenya;c09;Particle board;;kg/m3p;0
-115;Cambodia;c09;Particle board;;kg/m3p;0
-116;Democratic People's Republic of Korea;c09;Particle board;;kg/m3p;0
-117;Republic of Korea;c09;Particle board;;kg/m3p;0
-118;Kuwait;c09;Particle board;;kg/m3p;0
-119;Latvia;c09;Particle board;;kg/m3p;0
-120;Lao People's Democratic Republic;c09;Particle board;;kg/m3p;0
-121;Lebanon;c09;Particle board;;kg/m3p;0
-122;Lesotho;c09;Particle board;;kg/m3p;0
-123;Liberia;c09;Particle board;;kg/m3p;0
-124;Libya;c09;Particle board;;kg/m3p;0
-125;Liechtenstein;c09;Particle board;;kg/m3p;0
-126;Lithuania;c09;Particle board;;kg/m3p;0
-128;China, Macao SAR;c09;Particle board;;kg/m3p;0
-129;Madagascar;c09;Particle board;;kg/m3p;0
-130;Malawi;c09;Particle board;;kg/m3p;0
-131;Malaysia;c09;Particle board;;kg/m3p;700
-132;Maldives;c09;Particle board;;kg/m3p;0
-133;Mali;c09;Particle board;;kg/m3p;0
-134;Malta;c09;Particle board;;kg/m3p;0
-135;Martinique;c09;Particle board;;kg/m3p;0
-136;Mauritania;c09;Particle board;;kg/m3p;0
-137;Mauritius;c09;Particle board;;kg/m3p;0
-138;Mexico;c09;Particle board;;kg/m3p;720
-141;Mongolia;c09;Particle board;;kg/m3p;0
-143;Morocco;c09;Particle board;;kg/m3p;0
-144;Mozambique;c09;Particle board;;kg/m3p;0
-145;Micronesia (Federated States of);c09;Particle board;;kg/m3p;0
-146;Republic of Moldova;c09;Particle board;;kg/m3p;0
-147;Namibia;c09;Particle board;;kg/m3p;0
-149;Nepal;c09;Particle board;;kg/m3p;0
-150;Netherlands;c09;Particle board;;kg/m3p;0
-151;Netherlands Antilles;c09;Particle board;;kg/m3p;0
-153;New Caledonia;c09;Particle board;;kg/m3p;0
-154;North Macedonia;c09;Particle board;;kg/m3p;0
-155;Vanuatu;c09;Particle board;;kg/m3p;0
-156;New Zealand;c09;Particle board;;kg/m3p;0
-157;Nicaragua;c09;Particle board;;kg/m3p;0
-158;Niger;c09;Particle board;;kg/m3p;0
-159;Nigeria;c09;Particle board;;kg/m3p;0
-160;Niue;c09;Particle board;;kg/m3p;0
-161;Norfolk Island;c09;Particle board;;kg/m3p;0
-162;Norway;c09;Particle board;;kg/m3p;665
-165;Pakistan;c09;Particle board;;kg/m3p;0
-166;Panama;c09;Particle board;;kg/m3p;0
-167;Czechia;c09;Particle board;;kg/m3p;668
-168;Papua New Guinea;c09;Particle board;;kg/m3p;0
-169;Paraguay;c09;Particle board;;kg/m3p;0
-170;Peru;c09;Particle board;;kg/m3p;0
-171;Philippines;c09;Particle board;;kg/m3p;0
-173;Poland;c09;Particle board;;kg/m3p;650
-174;Portugal;c09;Particle board;;kg/m3p;680
-175;Guinea-Bissau;c09;Particle board;;kg/m3p;0
-176;Timor-Leste;c09;Particle board;;kg/m3p;0
-178;Eritrea;c09;Particle board;;kg/m3p;0
-179;Qatar;c09;Particle board;;kg/m3p;0
-181;Zimbabwe;c09;Particle board;;kg/m3p;0
-182;R?union;c09;Particle board;;kg/m3p;0
-183;Romania;c09;Particle board;;kg/m3p;0
-184;Rwanda;c09;Particle board;;kg/m3p;0
-185;Russian Federation;c09;Particle board;;kg/m3p;0
-186;Serbia and Montenegro;c09;Particle board;;kg/m3p;0
-189;Saint Lucia;c09;Particle board;;kg/m3p;0
-190;Saint Pierre and Miquelon;c09;Particle board;;kg/m3p;0
-191;Saint Vincent and the Grenadines;c09;Particle board;;kg/m3p;0
-193;Sao Tome and Principe;c09;Particle board;;kg/m3p;0
-194;Saudi Arabia;c09;Particle board;;kg/m3p;0
-195;Senegal;c09;Particle board;;kg/m3p;0
-196;Seychelles;c09;Particle board;;kg/m3p;0
-197;Sierra Leone;c09;Particle board;;kg/m3p;0
-198;Slovenia;c09;Particle board;;kg/m3p;0
-199;Slovakia;c09;Particle board;;kg/m3p;650
-200;Singapore;c09;Particle board;;kg/m3p;0
-201;Somalia;c09;Particle board;;kg/m3p;0
-202;South Africa;c09;Particle board;;kg/m3p;0
-206;Sudan (former);c09;Particle board;;kg/m3p;0
-203;Spain;c09;Particle board;;kg/m3p;650
-207;Suriname;c09;Particle board;;kg/m3p;0
-208;Tajikistan;c09;Particle board;;kg/m3p;0
-209;Eswatini;c09;Particle board;;kg/m3p;0
-210;Sweden;c09;Particle board;;kg/m3p;0
-211;Switzerland;c09;Particle board;;kg/m3p;0
-212;Syrian Arab Republic;c09;Particle board;;kg/m3p;0
-213;Turkmenistan;c09;Particle board;;kg/m3p;0
-214;China, Taiwan Province of;c09;Particle board;;kg/m3p;0
-215;United Republic of Tanzania;c09;Particle board;;kg/m3p;0
-216;Thailand;c09;Particle board;;kg/m3p;0
-217;Togo;c09;Particle board;;kg/m3p;0
-219;Tonga;c09;Particle board;;kg/m3p;0
-220;Trinidad and Tobago;c09;Particle board;;kg/m3p;0
-221;Oman;c09;Particle board;;kg/m3p;0
-222;Tunisia;c09;Particle board;;kg/m3p;0
-223;Turkey;c09;Particle board;;kg/m3p;0
-224;Turks and Caicos Islands;c09;Particle board;;kg/m3p;0
-225;United Arab Emirates;c09;Particle board;;kg/m3p;0
-226;Uganda;c09;Particle board;;kg/m3p;0
-229;United Kingdom;c09;Particle board;;kg/m3p;650
-230;Ukraine;c09;Particle board;;kg/m3p;620
-231;United States of America;c09;Particle board;;kg/m3p;720
-233;Burkina Faso;c09;Particle board;;kg/m3p;0
-234;Uruguay;c09;Particle board;;kg/m3p;0
-235;Uzbekistan;c09;Particle board;;kg/m3p;0
-236;Venezuela (Bolivarian Republic of);c09;Particle board;;kg/m3p;0
-237;Viet Nam;c09;Particle board;;kg/m3p;0
-238;Ethiopia;c09;Particle board;;kg/m3p;0
-239;British Virgin Islands;c09;Particle board;;kg/m3p;0
-244;Samoa;c09;Particle board;;kg/m3p;0
-249;Yemen;c09;Particle board;;kg/m3p;0
-250;Democratic Republic of the Congo;c09;Particle board;;kg/m3p;0
-251;Zambia;c09;Particle board;;kg/m3p;0
-255;Belgium;c09;Particle board;;kg/m3p;0
-256;Luxembourg;c09;Particle board;;kg/m3p;0
-270;Mayotte;c09;Particle board;;kg/m3p;0
-272;Serbia;c09;Particle board;;kg/m3p;0
-273;Montenegro;c09;Particle board;;kg/m3p;0
-276;Sudan;c09;Particle board;;kg/m3p;0
-277;South Sudan;c09;Particle board;;kg/m3p;0
-;ASI;c09;Particle board;;kg/m3p;687
-;EUR;c09;Particle board;;kg/m3p;656
-;AFR;c09;Particle board;;kg/m3p;0
-;LAM;c09;Particle board;;kg/m3p;640
-;OCE;c09;Particle board;;kg/m3p;0
-;NAM;c09;Particle board;;kg/m3p;720
+1;Armenia;c09;Particle board ;;m3sw/m3p;0
+2;Afghanistan;c09;Particle board ;;m3sw/m3p;0
+3;Albania;c09;Particle board ;;m3sw/m3p;0
+4;Algeria;c09;Particle board ;;m3sw/m3p;0
+6;Andorra;c09;Particle board ;;m3sw/m3p;0
+7;Angola;c09;Particle board ;;m3sw/m3p;0
+9;Argentina;c09;Particle board ;;m3sw/m3p;0
+10;Australia;c09;Particle board ;;m3sw/m3p;0
+11;Austria;c09;Particle board ;;m3sw/m3p;0
+12;Bahamas;c09;Particle board ;;m3sw/m3p;0
+13;Bahrain;c09;Particle board ;;m3sw/m3p;0
+14;Barbados;c09;Particle board ;;m3sw/m3p;0
+15;Belgium-Luxembourg;c09;Particle board ;;m3sw/m3p;0
+16;Bangladesh;c09;Particle board ;;m3sw/m3p;0
+18;Bhutan;c09;Particle board ;;m3sw/m3p;0
+19;Bolivia (Plurinational State of);c09;Particle board ;;m3sw/m3p;0
+20;Botswana;c09;Particle board ;;m3sw/m3p;0
+21;Brazil;c09;Particle board ;;m3sw/m3p;0
+22;Aruba;c09;Particle board ;;m3sw/m3p;0
+23;Belize;c09;Particle board ;;m3sw/m3p;0
+25;Solomon Islands;c09;Particle board ;;m3sw/m3p;0
+26;Brunei Darussalam;c09;Particle board ;;m3sw/m3p;0
+27;Bulgaria;c09;Particle board ;;m3sw/m3p;0
+28;Myanmar;c09;Particle board ;;m3sw/m3p;0
+29;Burundi;c09;Particle board ;;m3sw/m3p;0
+32;Cameroon;c09;Particle board ;;m3sw/m3p;0
+33;Canada;c09;Particle board ;;m3sw/m3p;1,48
+35;Cabo Verde;c09;Particle board ;;m3sw/m3p;0
+37;Central African Republic;c09;Particle board ;;m3sw/m3p;0
+38;Sri Lanka;c09;Particle board ;;m3sw/m3p;0
+39;Chad;c09;Particle board ;;m3sw/m3p;0
+40;Chile;c09;Particle board ;;m3sw/m3p;1,58
+41;China, mainland;c09;Particle board ;;m3sw/m3p;1,6
+42;Christmas Island;c09;Particle board ;;m3sw/m3p;0
+44;Colombia;c09;Particle board ;;m3sw/m3p;0
+45;Comoros;c09;Particle board ;;m3sw/m3p;0
+46;Congo;c09;Particle board ;;m3sw/m3p;0
+47;Cook Islands;c09;Particle board ;;m3sw/m3p;0
+48;Costa Rica;c09;Particle board ;;m3sw/m3p;0
+49;Cuba;c09;Particle board ;;m3sw/m3p;0
+50;Cyprus;c09;Particle board ;;m3sw/m3p;0
+51;Czechoslovakia;c09;Particle board ;;m3sw/m3p;0
+52;Azerbaijan;c09;Particle board ;;m3sw/m3p;0
+53;Benin;c09;Particle board ;;m3sw/m3p;0
+54;Denmark;c09;Particle board ;;m3sw/m3p;0
+55;Dominica;c09;Particle board ;;m3sw/m3p;0
+56;Dominican Republic;c09;Particle board ;;m3sw/m3p;0
+57;Belarus;c09;Particle board ;;m3sw/m3p;0
+58;Ecuador;c09;Particle board ;;m3sw/m3p;0
+59;Egypt;c09;Particle board ;;m3sw/m3p;0
+60;El Salvador;c09;Particle board ;;m3sw/m3p;0
+61;Equatorial Guinea;c09;Particle board ;;m3sw/m3p;0
+63;Estonia;c09;Particle board ;;m3sw/m3p;0
+64;Faroe Islands;c09;Particle board ;;m3sw/m3p;0
+65;Falkland Islands (Malvinas);c09;Particle board ;;m3sw/m3p;0
+66;Fiji;c09;Particle board ;;m3sw/m3p;0
+67;Finland;c09;Particle board ;;m3sw/m3p;0
+68;France;c09;Particle board ;;m3sw/m3p;1,7
+69;French Guyana;c09;Particle board ;;m3sw/m3p;0
+70;French Polynesia;c09;Particle board ;;m3sw/m3p;0
+72;Djibouti;c09;Particle board ;;m3sw/m3p;0
+73;Georgia;c09;Particle board ;;m3sw/m3p;0
+74;Gabon;c09;Particle board ;;m3sw/m3p;0
+75;Gambia;c09;Particle board ;;m3sw/m3p;0
+79;Germany;c09;Particle board ;;m3sw/m3p;1,3
+80;Bosnia and Herzegovina;c09;Particle board ;;m3sw/m3p;0
+81;Ghana;c09;Particle board ;;m3sw/m3p;0
+82;Gibraltar;c09;Particle board ;;m3sw/m3p;0
+83;Kiribati;c09;Particle board ;;m3sw/m3p;0
+84;Greece;c09;Particle board ;;m3sw/m3p;0
+87;Guadeloupe;c09;Particle board ;;m3sw/m3p;0
+89;Guatemala;c09;Particle board ;;m3sw/m3p;0
+90;Guinea;c09;Particle board ;;m3sw/m3p;0
+91;Guyana;c09;Particle board ;;m3sw/m3p;0
+93;Haiti;c09;Particle board ;;m3sw/m3p;0
+95;Honduras;c09;Particle board ;;m3sw/m3p;0
+96;China, Hong Kong SAR;c09;Particle board ;;m3sw/m3p;0
+97;Hungary;c09;Particle board ;;m3sw/m3p;0
+98;Croatia;c09;Particle board ;;m3sw/m3p;0
+99;Iceland;c09;Particle board ;;m3sw/m3p;0
+100;India;c09;Particle board ;;m3sw/m3p;0
+101;Indonesia;c09;Particle board ;;m3sw/m3p;1,6
+102;Iran (Islamic Republic of);c09;Particle board ;;m3sw/m3p;0
+103;Iraq;c09;Particle board ;;m3sw/m3p;0
+104;Ireland;c09;Particle board ;;m3sw/m3p;1,93
+105;Israel;c09;Particle board ;;m3sw/m3p;0
+106;Italy;c09;Particle board ;;m3sw/m3p;0
+107;Cote d'Ivoire;c09;Particle board ;;m3sw/m3p;0
+108;Kazakhstan;c09;Particle board ;;m3sw/m3p;0
+109;Jamaica;c09;Particle board ;;m3sw/m3p;0
+110;Japan;c09;Particle board ;;m3sw/m3p;0
+112;Jordan;c09;Particle board ;;m3sw/m3p;0
+113;Kyrgyzstan;c09;Particle board ;;m3sw/m3p;0
+114;Kenya;c09;Particle board ;;m3sw/m3p;0
+115;Cambodia;c09;Particle board ;;m3sw/m3p;0
+116;Democratic People's Republic of Korea;c09;Particle board ;;m3sw/m3p;0
+117;Republic of Korea;c09;Particle board ;;m3sw/m3p;0
+118;Kuwait;c09;Particle board ;;m3sw/m3p;0
+119;Latvia;c09;Particle board ;;m3sw/m3p;0
+120;Lao People's Democratic Republic;c09;Particle board ;;m3sw/m3p;0
+121;Lebanon;c09;Particle board ;;m3sw/m3p;0
+122;Lesotho;c09;Particle board ;;m3sw/m3p;0
+123;Liberia;c09;Particle board ;;m3sw/m3p;0
+124;Libya;c09;Particle board ;;m3sw/m3p;0
+125;Liechtenstein;c09;Particle board ;;m3sw/m3p;0
+126;Lithuania;c09;Particle board ;;m3sw/m3p;1,51
+128;China, Macao SAR;c09;Particle board ;;m3sw/m3p;0
+129;Madagascar;c09;Particle board ;;m3sw/m3p;0
+130;Malawi;c09;Particle board ;;m3sw/m3p;0
+131;Malaysia;c09;Particle board ;;m3sw/m3p;1,4
+132;Maldives;c09;Particle board ;;m3sw/m3p;0
+133;Mali;c09;Particle board ;;m3sw/m3p;0
+134;Malta;c09;Particle board ;;m3sw/m3p;0
+135;Martinique;c09;Particle board ;;m3sw/m3p;0
+136;Mauritania;c09;Particle board ;;m3sw/m3p;0
+137;Mauritius;c09;Particle board ;;m3sw/m3p;0
+138;Mexico;c09;Particle board ;;m3sw/m3p;1,5
+141;Mongolia;c09;Particle board ;;m3sw/m3p;0
+143;Morocco;c09;Particle board ;;m3sw/m3p;0
+144;Mozambique;c09;Particle board ;;m3sw/m3p;0
+145;Micronesia (Federated States of);c09;Particle board ;;m3sw/m3p;0
+146;Republic of Moldova;c09;Particle board ;;m3sw/m3p;0
+147;Namibia;c09;Particle board ;;m3sw/m3p;0
+149;Nepal;c09;Particle board ;;m3sw/m3p;0
+150;Netherlands;c09;Particle board ;;m3sw/m3p;0
+151;Netherlands Antilles;c09;Particle board ;;m3sw/m3p;0
+153;New Caledonia;c09;Particle board ;;m3sw/m3p;0
+154;North Macedonia;c09;Particle board ;;m3sw/m3p;0
+155;Vanuatu;c09;Particle board ;;m3sw/m3p;0
+156;New Zealand;c09;Particle board ;;m3sw/m3p;0
+157;Nicaragua;c09;Particle board ;;m3sw/m3p;0
+158;Niger;c09;Particle board ;;m3sw/m3p;0
+159;Nigeria;c09;Particle board ;;m3sw/m3p;0
+160;Niue;c09;Particle board ;;m3sw/m3p;0
+161;Norfolk Island;c09;Particle board ;;m3sw/m3p;0
+162;Norway;c09;Particle board ;;m3sw/m3p;1,5
+165;Pakistan;c09;Particle board ;;m3sw/m3p;0
+166;Panama;c09;Particle board ;;m3sw/m3p;0
+167;Czechia;c09;Particle board ;;m3sw/m3p;0
+168;Papua New Guinea;c09;Particle board ;;m3sw/m3p;0
+169;Paraguay;c09;Particle board ;;m3sw/m3p;0
+170;Peru;c09;Particle board ;;m3sw/m3p;0
+171;Philippines;c09;Particle board ;;m3sw/m3p;0
+173;Poland;c09;Particle board ;;m3sw/m3p;1,6
+174;Portugal;c09;Particle board ;;m3sw/m3p;1,4
+175;Guinea-Bissau;c09;Particle board ;;m3sw/m3p;0
+176;Timor-Leste;c09;Particle board ;;m3sw/m3p;0
+178;Eritrea;c09;Particle board ;;m3sw/m3p;0
+179;Qatar;c09;Particle board ;;m3sw/m3p;0
+181;Zimbabwe;c09;Particle board ;;m3sw/m3p;0
+182;Reunion;c09;Particle board ;;m3sw/m3p;0
+183;Romania;c09;Particle board ;;m3sw/m3p;0
+184;Rwanda;c09;Particle board ;;m3sw/m3p;0
+185;Russian Federation;c09;Particle board ;;m3sw/m3p;0
+186;Serbia and Montenegro;c09;Particle board ;;m3sw/m3p;0
+189;Saint Lucia;c09;Particle board ;;m3sw/m3p;0
+190;Saint Pierre and Miquelon;c09;Particle board ;;m3sw/m3p;0
+191;Saint Vincent and the Grenadines;c09;Particle board ;;m3sw/m3p;0
+193;Sao Tome and Principe;c09;Particle board ;;m3sw/m3p;0
+194;Saudi Arabia;c09;Particle board ;;m3sw/m3p;0
+195;Senegal;c09;Particle board ;;m3sw/m3p;0
+196;Seychelles;c09;Particle board ;;m3sw/m3p;0
+197;Sierra Leone;c09;Particle board ;;m3sw/m3p;0
+198;Slovenia;c09;Particle board ;;m3sw/m3p;0
+199;Slovakia;c09;Particle board ;;m3sw/m3p;1,2
+200;Singapore;c09;Particle board ;;m3sw/m3p;0
+201;Somalia;c09;Particle board ;;m3sw/m3p;0
+202;South Africa;c09;Particle board ;;m3sw/m3p;0
+203;Spain;c09;Particle board ;;m3sw/m3p;1,4
+207;Suriname;c09;Particle board ;;m3sw/m3p;0
+208;Tajikistan;c09;Particle board ;;m3sw/m3p;0
+209;Eswatini;c09;Particle board ;;m3sw/m3p;0
+210;Sweden;c09;Particle board ;;m3sw/m3p;1,5
+211;Switzerland;c09;Particle board ;;m3sw/m3p;0
+212;Syrian Arab Republic;c09;Particle board ;;m3sw/m3p;0
+213;Turkmenistan;c09;Particle board ;;m3sw/m3p;0
+214;China, Taiwan Province of;c09;Particle board ;;m3sw/m3p;0
+215;United Republic of Tanzania;c09;Particle board ;;m3sw/m3p;0
+216;Thailand;c09;Particle board ;;m3sw/m3p;0
+217;Togo;c09;Particle board ;;m3sw/m3p;0
+219;Tonga;c09;Particle board ;;m3sw/m3p;0
+220;Trinidad and Tobago;c09;Particle board ;;m3sw/m3p;0
+221;Oman;c09;Particle board ;;m3sw/m3p;0
+222;Tunisia;c09;Particle board ;;m3sw/m3p;0
+223;Turkey;c09;Particle board ;;m3sw/m3p;0
+224;Turks and Caicos Islands;c09;Particle board ;;m3sw/m3p;0
+225;United Arab Emirates;c09;Particle board ;;m3sw/m3p;0
+226;Uganda;c09;Particle board ;;m3sw/m3p;0
+229;United Kingdom;c09;Particle board ;;m3sw/m3p;1,51
+230;Ukraine;c09;Particle board ;;m3sw/m3p;1,8
+231;United States of America;c09;Particle board ;;m3sw/m3p;1,6
+233;Burkina Faso;c09;Particle board ;;m3sw/m3p;0
+234;Uruguay;c09;Particle board ;;m3sw/m3p;0
+235;Uzbekistan;c09;Particle board ;;m3sw/m3p;0
+236;Venezuela (Bolivarian Republic of);c09;Particle board ;;m3sw/m3p;0
+237;Viet Nam;c09;Particle board ;;m3sw/m3p;0
+238;Ethiopia;c09;Particle board ;;m3sw/m3p;0
+239;British Virgin Islands;c09;Particle board ;;m3sw/m3p;0
+244;Samoa;c09;Particle board ;;m3sw/m3p;0
+249;Yemen;c09;Particle board ;;m3sw/m3p;0
+250;Democratic Republic of the Congo;c09;Particle board ;;m3sw/m3p;0
+251;Zambia;c09;Particle board ;;m3sw/m3p;0
+255;Belgium;c09;Particle board ;;m3sw/m3p;0
+256;Luxembourg;c09;Particle board ;;m3sw/m3p;0
+270;Mayotte;c09;Particle board ;;m3sw/m3p;0
+272;Serbia;c09;Particle board ;;m3sw/m3p;0
+273;Montenegro;c09;Particle board ;;m3sw/m3p;0
+276;Sudan;c09;Particle board ;;m3sw/m3p;0
+277;South Sudan;c09;Particle board ;;m3sw/m3p;0
+5;American Samoa;c09;Particle board ;;m3sw/m3p;0
+8;Antigua and Barbuda;c09;Particle board ;;m3sw/m3p;0
+17;Bermuda;c09;Particle board ;;m3sw/m3p;0
+24;British Indian Ocean Territory;c09;Particle board ;;m3sw/m3p;0
+36;Cayman Islands;c09;Particle board ;;m3sw/m3p;0
+43;Cocos (Keeling) Islands;c09;Particle board ;;m3sw/m3p;0
+71;French Southern and Antarctic Territories;c09;Particle board ;;m3sw/m3p;0
+85;Greenland;c09;Particle board ;;m3sw/m3p;0
+86;Grenada;c09;Particle board ;;m3sw/m3p;0
+88;Guam;c09;Particle board ;;m3sw/m3p;0
+94;Holy See;c09;Particle board ;;m3sw/m3p;0
+127;Marshall Islands;c09;Particle board ;;m3sw/m3p;0
+142;Montserrat;c09;Particle board ;;m3sw/m3p;0
+148;Nauru;c09;Particle board ;;m3sw/m3p;0
+163;Northern Mariana Islands;c09;Particle board ;;m3sw/m3p;0
+164;Pacific Islands Trust Territory;c09;Particle board ;;m3sw/m3p;0
+172;Pitcairn Islands;c09;Particle board ;;m3sw/m3p;0
+180;Palau;c09;Particle board ;;m3sw/m3p;0
+187;Saint Helena, Ascension and Tristan da Cunha;c09;Particle board ;;m3sw/m3p;0
+188;Saint Kitts and Nevis;c09;Particle board ;;m3sw/m3p;0
+192;San Marino;c09;Particle board ;;m3sw/m3p;0
+205;Western Sahara;c09;Particle board ;;m3sw/m3p;0
+218;Tokelau;c09;Particle board ;;m3sw/m3p;0
+227;Tuvalu;c09;Particle board ;;m3sw/m3p;0
+228;USSR;c09;Particle board ;;m3sw/m3p;0
+242;Wake Island;c09;Particle board ;;m3sw/m3p;0
+243;Wallis and Futuna Islands;c09;Particle board ;;m3sw/m3p;0
+248;Yugoslav SFR;c09;Particle board ;;m3sw/m3p;0
+258;Anguilla;c09;Particle board ;;m3sw/m3p;0
+279;Curaçao;c09;Particle board ;;m3sw/m3p;0
+281;Saint-Martin (French Part);c09;Particle board ;;m3sw/m3p;0
+299;Palestine;c09;Particle board ;;m3sw/m3p;0
+252;Unspecified Area;c09;Particle board ;;m3sw/m3p;0
+254;Others (adjustment);c09;Particle board ;;m3sw/m3p;0
+;ASI;c09;Particle board ;;m3sw/m3p;1,53
+;EUR;c09;Particle board ;;m3sw/m3p;1,54
+;AFR;c09;Particle board ;;m3sw/m3p;0
+;LAM;c09;Particle board ;;m3sw/m3p;1,54
+;OCE;c09;Particle board ;;m3sw/m3p;0
+;NAM;c09;Particle board ;;m3sw/m3p;1,54
+1;Armenia;c09;Particle board ;;kg/m3p;0
+2;Afghanistan;c09;Particle board ;;kg/m3p;0
+3;Albania;c09;Particle board ;;kg/m3p;0
+4;Algeria;c09;Particle board ;;kg/m3p;0
+6;Andorra;c09;Particle board ;;kg/m3p;0
+7;Angola;c09;Particle board ;;kg/m3p;0
+9;Argentina;c09;Particle board ;;kg/m3p;0
+10;Australia;c09;Particle board ;;kg/m3p;0
+11;Austria;c09;Particle board ;;kg/m3p;0
+12;Bahamas;c09;Particle board ;;kg/m3p;0
+13;Bahrain;c09;Particle board ;;kg/m3p;0
+14;Barbados;c09;Particle board ;;kg/m3p;0
+15;Belgium-Luxembourg;c09;Particle board ;;kg/m3p;0
+16;Bangladesh;c09;Particle board ;;kg/m3p;0
+18;Bhutan;c09;Particle board ;;kg/m3p;0
+19;Bolivia (Plurinational State of);c09;Particle board ;;kg/m3p;0
+20;Botswana;c09;Particle board ;;kg/m3p;0
+21;Brazil;c09;Particle board ;;kg/m3p;640
+22;Aruba;c09;Particle board ;;kg/m3p;0
+23;Belize;c09;Particle board ;;kg/m3p;0
+25;Solomon Islands;c09;Particle board ;;kg/m3p;0
+26;Brunei Darussalam;c09;Particle board ;;kg/m3p;0
+27;Bulgaria;c09;Particle board ;;kg/m3p;0
+28;Myanmar;c09;Particle board ;;kg/m3p;0
+29;Burundi;c09;Particle board ;;kg/m3p;0
+32;Cameroon;c09;Particle board ;;kg/m3p;0
+33;Canada;c09;Particle board ;;kg/m3p;0
+35;Cabo Verde;c09;Particle board ;;kg/m3p;0
+37;Central African Republic;c09;Particle board ;;kg/m3p;0
+38;Sri Lanka;c09;Particle board ;;kg/m3p;0
+39;Chad;c09;Particle board ;;kg/m3p;0
+40;Chile;c09;Particle board ;;kg/m3p;640
+41;China, mainland;c09;Particle board ;;kg/m3p;660
+42;Christmas Island;c09;Particle board ;;kg/m3p;0
+44;Colombia;c09;Particle board ;;kg/m3p;0
+45;Comoros;c09;Particle board ;;kg/m3p;0
+46;Congo;c09;Particle board ;;kg/m3p;0
+47;Cook Islands;c09;Particle board ;;kg/m3p;0
+48;Costa Rica;c09;Particle board ;;kg/m3p;0
+49;Cuba;c09;Particle board ;;kg/m3p;0
+50;Cyprus;c09;Particle board ;;kg/m3p;0
+51;Czechoslovakia;c09;Particle board ;;kg/m3p;0
+52;Azerbaijan;c09;Particle board ;;kg/m3p;0
+53;Benin;c09;Particle board ;;kg/m3p;0
+54;Denmark;c09;Particle board ;;kg/m3p;0
+55;Dominica;c09;Particle board ;;kg/m3p;0
+56;Dominican Republic;c09;Particle board ;;kg/m3p;0
+57;Belarus;c09;Particle board ;;kg/m3p;0
+58;Ecuador;c09;Particle board ;;kg/m3p;0
+59;Egypt;c09;Particle board ;;kg/m3p;0
+60;El Salvador;c09;Particle board ;;kg/m3p;0
+61;Equatorial Guinea;c09;Particle board ;;kg/m3p;0
+63;Estonia;c09;Particle board ;;kg/m3p;0
+64;Faroe Islands;c09;Particle board ;;kg/m3p;0
+65;Falkland Islands (Malvinas);c09;Particle board ;;kg/m3p;0
+66;Fiji;c09;Particle board ;;kg/m3p;0
+67;Finland;c09;Particle board ;;kg/m3p;0
+68;France;c09;Particle board ;;kg/m3p;650
+69;French Guyana;c09;Particle board ;;kg/m3p;0
+70;French Polynesia;c09;Particle board ;;kg/m3p;0
+72;Djibouti;c09;Particle board ;;kg/m3p;0
+73;Georgia;c09;Particle board ;;kg/m3p;0
+74;Gabon;c09;Particle board ;;kg/m3p;0
+75;Gambia;c09;Particle board ;;kg/m3p;0
+79;Germany;c09;Particle board ;;kg/m3p;0
+80;Bosnia and Herzegovina;c09;Particle board ;;kg/m3p;0
+81;Ghana;c09;Particle board ;;kg/m3p;0
+82;Gibraltar;c09;Particle board ;;kg/m3p;0
+83;Kiribati;c09;Particle board ;;kg/m3p;0
+84;Greece;c09;Particle board ;;kg/m3p;0
+87;Guadeloupe;c09;Particle board ;;kg/m3p;0
+89;Guatemala;c09;Particle board ;;kg/m3p;0
+90;Guinea;c09;Particle board ;;kg/m3p;0
+91;Guyana;c09;Particle board ;;kg/m3p;0
+93;Haiti;c09;Particle board ;;kg/m3p;0
+95;Honduras;c09;Particle board ;;kg/m3p;0
+96;China, Hong Kong SAR;c09;Particle board ;;kg/m3p;0
+97;Hungary;c09;Particle board ;;kg/m3p;0
+98;Croatia;c09;Particle board ;;kg/m3p;0
+99;Iceland;c09;Particle board ;;kg/m3p;0
+100;India;c09;Particle board ;;kg/m3p;0
+101;Indonesia;c09;Particle board ;;kg/m3p;700
+102;Iran (Islamic Republic of);c09;Particle board ;;kg/m3p;0
+103;Iraq;c09;Particle board ;;kg/m3p;0
+104;Ireland;c09;Particle board ;;kg/m3p;625
+105;Israel;c09;Particle board ;;kg/m3p;0
+106;Italy;c09;Particle board ;;kg/m3p;0
+107;Cote d'Ivoire;c09;Particle board ;;kg/m3p;0
+108;Kazakhstan;c09;Particle board ;;kg/m3p;0
+109;Jamaica;c09;Particle board ;;kg/m3p;0
+110;Japan;c09;Particle board ;;kg/m3p;0
+112;Jordan;c09;Particle board ;;kg/m3p;0
+113;Kyrgyzstan;c09;Particle board ;;kg/m3p;0
+114;Kenya;c09;Particle board ;;kg/m3p;0
+115;Cambodia;c09;Particle board ;;kg/m3p;0
+116;Democratic People's Republic of Korea;c09;Particle board ;;kg/m3p;0
+117;Republic of Korea;c09;Particle board ;;kg/m3p;0
+118;Kuwait;c09;Particle board ;;kg/m3p;0
+119;Latvia;c09;Particle board ;;kg/m3p;0
+120;Lao People's Democratic Republic;c09;Particle board ;;kg/m3p;0
+121;Lebanon;c09;Particle board ;;kg/m3p;0
+122;Lesotho;c09;Particle board ;;kg/m3p;0
+123;Liberia;c09;Particle board ;;kg/m3p;0
+124;Libya;c09;Particle board ;;kg/m3p;0
+125;Liechtenstein;c09;Particle board ;;kg/m3p;0
+126;Lithuania;c09;Particle board ;;kg/m3p;0
+128;China, Macao SAR;c09;Particle board ;;kg/m3p;0
+129;Madagascar;c09;Particle board ;;kg/m3p;0
+130;Malawi;c09;Particle board ;;kg/m3p;0
+131;Malaysia;c09;Particle board ;;kg/m3p;700
+132;Maldives;c09;Particle board ;;kg/m3p;0
+133;Mali;c09;Particle board ;;kg/m3p;0
+134;Malta;c09;Particle board ;;kg/m3p;0
+135;Martinique;c09;Particle board ;;kg/m3p;0
+136;Mauritania;c09;Particle board ;;kg/m3p;0
+137;Mauritius;c09;Particle board ;;kg/m3p;0
+138;Mexico;c09;Particle board ;;kg/m3p;720
+141;Mongolia;c09;Particle board ;;kg/m3p;0
+143;Morocco;c09;Particle board ;;kg/m3p;0
+144;Mozambique;c09;Particle board ;;kg/m3p;0
+145;Micronesia (Federated States of);c09;Particle board ;;kg/m3p;0
+146;Republic of Moldova;c09;Particle board ;;kg/m3p;0
+147;Namibia;c09;Particle board ;;kg/m3p;0
+149;Nepal;c09;Particle board ;;kg/m3p;0
+150;Netherlands;c09;Particle board ;;kg/m3p;0
+151;Netherlands Antilles;c09;Particle board ;;kg/m3p;0
+153;New Caledonia;c09;Particle board ;;kg/m3p;0
+154;North Macedonia;c09;Particle board ;;kg/m3p;0
+155;Vanuatu;c09;Particle board ;;kg/m3p;0
+156;New Zealand;c09;Particle board ;;kg/m3p;0
+157;Nicaragua;c09;Particle board ;;kg/m3p;0
+158;Niger;c09;Particle board ;;kg/m3p;0
+159;Nigeria;c09;Particle board ;;kg/m3p;0
+160;Niue;c09;Particle board ;;kg/m3p;0
+161;Norfolk Island;c09;Particle board ;;kg/m3p;0
+162;Norway;c09;Particle board ;;kg/m3p;665
+165;Pakistan;c09;Particle board ;;kg/m3p;0
+166;Panama;c09;Particle board ;;kg/m3p;0
+167;Czechia;c09;Particle board ;;kg/m3p;668
+168;Papua New Guinea;c09;Particle board ;;kg/m3p;0
+169;Paraguay;c09;Particle board ;;kg/m3p;0
+170;Peru;c09;Particle board ;;kg/m3p;0
+171;Philippines;c09;Particle board ;;kg/m3p;0
+173;Poland;c09;Particle board ;;kg/m3p;650
+174;Portugal;c09;Particle board ;;kg/m3p;680
+175;Guinea-Bissau;c09;Particle board ;;kg/m3p;0
+176;Timor-Leste;c09;Particle board ;;kg/m3p;0
+178;Eritrea;c09;Particle board ;;kg/m3p;0
+179;Qatar;c09;Particle board ;;kg/m3p;0
+181;Zimbabwe;c09;Particle board ;;kg/m3p;0
+182;Reunion;c09;Particle board ;;kg/m3p;0
+183;Romania;c09;Particle board ;;kg/m3p;0
+184;Rwanda;c09;Particle board ;;kg/m3p;0
+185;Russian Federation;c09;Particle board ;;kg/m3p;0
+186;Serbia and Montenegro;c09;Particle board ;;kg/m3p;0
+189;Saint Lucia;c09;Particle board ;;kg/m3p;0
+190;Saint Pierre and Miquelon;c09;Particle board ;;kg/m3p;0
+191;Saint Vincent and the Grenadines;c09;Particle board ;;kg/m3p;0
+193;Sao Tome and Principe;c09;Particle board ;;kg/m3p;0
+194;Saudi Arabia;c09;Particle board ;;kg/m3p;0
+195;Senegal;c09;Particle board ;;kg/m3p;0
+196;Seychelles;c09;Particle board ;;kg/m3p;0
+197;Sierra Leone;c09;Particle board ;;kg/m3p;0
+198;Slovenia;c09;Particle board ;;kg/m3p;0
+199;Slovakia;c09;Particle board ;;kg/m3p;650
+200;Singapore;c09;Particle board ;;kg/m3p;0
+201;Somalia;c09;Particle board ;;kg/m3p;0
+202;South Africa;c09;Particle board ;;kg/m3p;0
+203;Spain;c09;Particle board ;;kg/m3p;650
+207;Suriname;c09;Particle board ;;kg/m3p;0
+208;Tajikistan;c09;Particle board ;;kg/m3p;0
+209;Eswatini;c09;Particle board ;;kg/m3p;0
+210;Sweden;c09;Particle board ;;kg/m3p;0
+211;Switzerland;c09;Particle board ;;kg/m3p;0
+212;Syrian Arab Republic;c09;Particle board ;;kg/m3p;0
+213;Turkmenistan;c09;Particle board ;;kg/m3p;0
+214;China, Taiwan Province of;c09;Particle board ;;kg/m3p;0
+215;United Republic of Tanzania;c09;Particle board ;;kg/m3p;0
+216;Thailand;c09;Particle board ;;kg/m3p;0
+217;Togo;c09;Particle board ;;kg/m3p;0
+219;Tonga;c09;Particle board ;;kg/m3p;0
+220;Trinidad and Tobago;c09;Particle board ;;kg/m3p;0
+221;Oman;c09;Particle board ;;kg/m3p;0
+222;Tunisia;c09;Particle board ;;kg/m3p;0
+223;Turkey;c09;Particle board ;;kg/m3p;0
+224;Turks and Caicos Islands;c09;Particle board ;;kg/m3p;0
+225;United Arab Emirates;c09;Particle board ;;kg/m3p;0
+226;Uganda;c09;Particle board ;;kg/m3p;0
+229;United Kingdom;c09;Particle board ;;kg/m3p;650
+230;Ukraine;c09;Particle board ;;kg/m3p;620
+231;United States of America;c09;Particle board ;;kg/m3p;720
+233;Burkina Faso;c09;Particle board ;;kg/m3p;0
+234;Uruguay;c09;Particle board ;;kg/m3p;0
+235;Uzbekistan;c09;Particle board ;;kg/m3p;0
+236;Venezuela (Bolivarian Republic of);c09;Particle board ;;kg/m3p;0
+237;Viet Nam;c09;Particle board ;;kg/m3p;0
+238;Ethiopia;c09;Particle board ;;kg/m3p;0
+239;British Virgin Islands;c09;Particle board ;;kg/m3p;0
+244;Samoa;c09;Particle board ;;kg/m3p;0
+249;Yemen;c09;Particle board ;;kg/m3p;0
+250;Democratic Republic of the Congo;c09;Particle board ;;kg/m3p;0
+251;Zambia;c09;Particle board ;;kg/m3p;0
+255;Belgium;c09;Particle board ;;kg/m3p;0
+256;Luxembourg;c09;Particle board ;;kg/m3p;0
+270;Mayotte;c09;Particle board ;;kg/m3p;0
+272;Serbia;c09;Particle board ;;kg/m3p;0
+273;Montenegro;c09;Particle board ;;kg/m3p;0
+276;Sudan;c09;Particle board ;;kg/m3p;0
+277;South Sudan;c09;Particle board ;;kg/m3p;0
+5;American Samoa;c09;Particle board ;;kg/m3p;0
+8;Antigua and Barbuda;c09;Particle board ;;kg/m3p;0
+17;Bermuda;c09;Particle board ;;kg/m3p;0
+24;British Indian Ocean Territory;c09;Particle board ;;kg/m3p;0
+36;Cayman Islands;c09;Particle board ;;kg/m3p;0
+43;Cocos (Keeling) Islands;c09;Particle board ;;kg/m3p;0
+71;French Southern and Antarctic Territories;c09;Particle board ;;kg/m3p;0
+85;Greenland;c09;Particle board ;;kg/m3p;0
+86;Grenada;c09;Particle board ;;kg/m3p;0
+88;Guam;c09;Particle board ;;kg/m3p;0
+94;Holy See;c09;Particle board ;;kg/m3p;0
+127;Marshall Islands;c09;Particle board ;;kg/m3p;0
+142;Montserrat;c09;Particle board ;;kg/m3p;0
+148;Nauru;c09;Particle board ;;kg/m3p;0
+163;Northern Mariana Islands;c09;Particle board ;;kg/m3p;0
+164;Pacific Islands Trust Territory;c09;Particle board ;;kg/m3p;0
+172;Pitcairn Islands;c09;Particle board ;;kg/m3p;0
+180;Palau;c09;Particle board ;;kg/m3p;0
+187;Saint Helena, Ascension and Tristan da Cunha;c09;Particle board ;;kg/m3p;0
+188;Saint Kitts and Nevis;c09;Particle board ;;kg/m3p;0
+192;San Marino;c09;Particle board ;;kg/m3p;0
+205;Western Sahara;c09;Particle board ;;kg/m3p;0
+218;Tokelau;c09;Particle board ;;kg/m3p;0
+227;Tuvalu;c09;Particle board ;;kg/m3p;0
+228;USSR;c09;Particle board ;;kg/m3p;0
+242;Wake Island;c09;Particle board ;;kg/m3p;0
+243;Wallis and Futuna Islands;c09;Particle board ;;kg/m3p;0
+248;Yugoslav SFR;c09;Particle board ;;kg/m3p;0
+258;Anguilla;c09;Particle board ;;kg/m3p;0
+279;Curaçao;c09;Particle board ;;kg/m3p;0
+281;Saint-Martin (French Part);c09;Particle board ;;kg/m3p;0
+299;Palestine;c09;Particle board ;;kg/m3p;0
+252;Unspecified Area;c09;Particle board ;;kg/m3p;0
+254;Others (adjustment);c09;Particle board ;;kg/m3p;0
+;ASI;c09;Particle board ;;kg/m3p;687
+;EUR;c09;Particle board ;;kg/m3p;656
+;AFR;c09;Particle board ;;kg/m3p;0
+;LAM;c09;Particle board ;;kg/m3p;640
+;OCE;c09;Particle board ;;kg/m3p;0
+;NAM;c09;Particle board ;;kg/m3p;720
 1;Armenia;c10;OSB;;m3sw/m3p;0
 2;Afghanistan;c10;OSB;;m3sw/m3p;0
 3;Albania;c10;OSB;;m3sw/m3p;0
@@ -2655,7 +3039,6 @@ area_code;area;com_code;com_name;sub_com;unit;tcf
 59;Egypt;c10;OSB;;m3sw/m3p;0
 60;El Salvador;c10;OSB;;m3sw/m3p;0
 61;Equatorial Guinea;c10;OSB;;m3sw/m3p;0
-62;Ethiopia PDR;c10;OSB;;m3sw/m3p;0
 63;Estonia;c10;OSB;;m3sw/m3p;0
 64;Faroe Islands;c10;OSB;;m3sw/m3p;0
 65;Falkland Islands (Malvinas);c10;OSB;;m3sw/m3p;0
@@ -2691,7 +3074,7 @@ area_code;area;com_code;com_name;sub_com;unit;tcf
 104;Ireland;c10;OSB;;m3sw/m3p;1,93
 105;Israel;c10;OSB;;m3sw/m3p;0
 106;Italy;c10;OSB;;m3sw/m3p;0
-107;C?te d'Ivoire;c10;OSB;;m3sw/m3p;0
+107;Cote d'Ivoire;c10;OSB;;m3sw/m3p;0
 108;Kazakhstan;c10;OSB;;m3sw/m3p;0
 109;Jamaica;c10;OSB;;m3sw/m3p;0
 110;Japan;c10;OSB;;m3sw/m3p;0
@@ -2754,7 +3137,7 @@ area_code;area;com_code;com_name;sub_com;unit;tcf
 178;Eritrea;c10;OSB;;m3sw/m3p;0
 179;Qatar;c10;OSB;;m3sw/m3p;0
 181;Zimbabwe;c10;OSB;;m3sw/m3p;0
-182;R?union;c10;OSB;;m3sw/m3p;0
+182;Reunion;c10;OSB;;m3sw/m3p;0
 183;Romania;c10;OSB;;m3sw/m3p;0
 184;Rwanda;c10;OSB;;m3sw/m3p;0
 185;Russian Federation;c10;OSB;;m3sw/m3p;0
@@ -2772,7 +3155,6 @@ area_code;area;com_code;com_name;sub_com;unit;tcf
 200;Singapore;c10;OSB;;m3sw/m3p;0
 201;Somalia;c10;OSB;;m3sw/m3p;0
 202;South Africa;c10;OSB;;m3sw/m3p;0
-206;Sudan (former);c10;OSB;;m3sw/m3p;0
 203;Spain;c10;OSB;;m3sw/m3p;0
 207;Suriname;c10;OSB;;m3sw/m3p;0
 208;Tajikistan;c10;OSB;;m3sw/m3p;0
@@ -2814,6 +3196,40 @@ area_code;area;com_code;com_name;sub_com;unit;tcf
 273;Montenegro;c10;OSB;;m3sw/m3p;0
 276;Sudan;c10;OSB;;m3sw/m3p;0
 277;South Sudan;c10;OSB;;m3sw/m3p;0
+5;American Samoa;c10;OSB;;m3sw/m3p;0
+8;Antigua and Barbuda;c10;OSB;;m3sw/m3p;0
+17;Bermuda;c10;OSB;;m3sw/m3p;0
+24;British Indian Ocean Territory;c10;OSB;;m3sw/m3p;0
+36;Cayman Islands;c10;OSB;;m3sw/m3p;0
+43;Cocos (Keeling) Islands;c10;OSB;;m3sw/m3p;0
+71;French Southern and Antarctic Territories;c10;OSB;;m3sw/m3p;0
+85;Greenland;c10;OSB;;m3sw/m3p;0
+86;Grenada;c10;OSB;;m3sw/m3p;0
+88;Guam;c10;OSB;;m3sw/m3p;0
+94;Holy See;c10;OSB;;m3sw/m3p;0
+127;Marshall Islands;c10;OSB;;m3sw/m3p;0
+142;Montserrat;c10;OSB;;m3sw/m3p;0
+148;Nauru;c10;OSB;;m3sw/m3p;0
+163;Northern Mariana Islands;c10;OSB;;m3sw/m3p;0
+164;Pacific Islands Trust Territory;c10;OSB;;m3sw/m3p;0
+172;Pitcairn Islands;c10;OSB;;m3sw/m3p;0
+180;Palau;c10;OSB;;m3sw/m3p;0
+187;Saint Helena, Ascension and Tristan da Cunha;c10;OSB;;m3sw/m3p;0
+188;Saint Kitts and Nevis;c10;OSB;;m3sw/m3p;0
+192;San Marino;c10;OSB;;m3sw/m3p;0
+205;Western Sahara;c10;OSB;;m3sw/m3p;0
+218;Tokelau;c10;OSB;;m3sw/m3p;0
+227;Tuvalu;c10;OSB;;m3sw/m3p;0
+228;USSR;c10;OSB;;m3sw/m3p;0
+242;Wake Island;c10;OSB;;m3sw/m3p;0
+243;Wallis and Futuna Islands;c10;OSB;;m3sw/m3p;0
+248;Yugoslav SFR;c10;OSB;;m3sw/m3p;0
+258;Anguilla;c10;OSB;;m3sw/m3p;0
+279;Curaçao;c10;OSB;;m3sw/m3p;0
+281;Saint-Martin (French Part);c10;OSB;;m3sw/m3p;0
+299;Palestine;c10;OSB;;m3sw/m3p;0
+252;Unspecified Area;c10;OSB;;m3sw/m3p;0
+254;Others (adjustment);c10;OSB;;m3sw/m3p;0
 ;ASI;c10;OSB;;m3sw/m3p;1,68
 ;EUR;c10;OSB;;m3sw/m3p;1,68
 ;AFR;c10;OSB;;m3sw/m3p;0
@@ -2872,7 +3288,6 @@ area_code;area;com_code;com_name;sub_com;unit;tcf
 59;Egypt;c10;OSB;;kg/m3p;0
 60;El Salvador;c10;OSB;;kg/m3p;0
 61;Equatorial Guinea;c10;OSB;;kg/m3p;0
-62;Ethiopia PDR;c10;OSB;;kg/m3p;0
 63;Estonia;c10;OSB;;kg/m3p;0
 64;Faroe Islands;c10;OSB;;kg/m3p;0
 65;Falkland Islands (Malvinas);c10;OSB;;kg/m3p;0
@@ -2908,7 +3323,7 @@ area_code;area;com_code;com_name;sub_com;unit;tcf
 104;Ireland;c10;OSB;;kg/m3p;630
 105;Israel;c10;OSB;;kg/m3p;0
 106;Italy;c10;OSB;;kg/m3p;0
-107;C?te d'Ivoire;c10;OSB;;kg/m3p;0
+107;Cote d'Ivoire;c10;OSB;;kg/m3p;0
 108;Kazakhstan;c10;OSB;;kg/m3p;0
 109;Jamaica;c10;OSB;;kg/m3p;0
 110;Japan;c10;OSB;;kg/m3p;0
@@ -2971,7 +3386,7 @@ area_code;area;com_code;com_name;sub_com;unit;tcf
 178;Eritrea;c10;OSB;;kg/m3p;0
 179;Qatar;c10;OSB;;kg/m3p;0
 181;Zimbabwe;c10;OSB;;kg/m3p;0
-182;R?union;c10;OSB;;kg/m3p;0
+182;Reunion;c10;OSB;;kg/m3p;0
 183;Romania;c10;OSB;;kg/m3p;0
 184;Rwanda;c10;OSB;;kg/m3p;0
 185;Russian Federation;c10;OSB;;kg/m3p;0
@@ -2989,7 +3404,6 @@ area_code;area;com_code;com_name;sub_com;unit;tcf
 200;Singapore;c10;OSB;;kg/m3p;0
 201;Somalia;c10;OSB;;kg/m3p;0
 202;South Africa;c10;OSB;;kg/m3p;0
-206;Sudan (former);c10;OSB;;kg/m3p;0
 203;Spain;c10;OSB;;kg/m3p;0
 207;Suriname;c10;OSB;;kg/m3p;0
 208;Tajikistan;c10;OSB;;kg/m3p;0
@@ -3031,6 +3445,40 @@ area_code;area;com_code;com_name;sub_com;unit;tcf
 273;Montenegro;c10;OSB;;kg/m3p;0
 276;Sudan;c10;OSB;;kg/m3p;0
 277;South Sudan;c10;OSB;;kg/m3p;0
+5;American Samoa;c10;OSB;;kg/m3p;0
+8;Antigua and Barbuda;c10;OSB;;kg/m3p;0
+17;Bermuda;c10;OSB;;kg/m3p;0
+24;British Indian Ocean Territory;c10;OSB;;kg/m3p;0
+36;Cayman Islands;c10;OSB;;kg/m3p;0
+43;Cocos (Keeling) Islands;c10;OSB;;kg/m3p;0
+71;French Southern and Antarctic Territories;c10;OSB;;kg/m3p;0
+85;Greenland;c10;OSB;;kg/m3p;0
+86;Grenada;c10;OSB;;kg/m3p;0
+88;Guam;c10;OSB;;kg/m3p;0
+94;Holy See;c10;OSB;;kg/m3p;0
+127;Marshall Islands;c10;OSB;;kg/m3p;0
+142;Montserrat;c10;OSB;;kg/m3p;0
+148;Nauru;c10;OSB;;kg/m3p;0
+163;Northern Mariana Islands;c10;OSB;;kg/m3p;0
+164;Pacific Islands Trust Territory;c10;OSB;;kg/m3p;0
+172;Pitcairn Islands;c10;OSB;;kg/m3p;0
+180;Palau;c10;OSB;;kg/m3p;0
+187;Saint Helena, Ascension and Tristan da Cunha;c10;OSB;;kg/m3p;0
+188;Saint Kitts and Nevis;c10;OSB;;kg/m3p;0
+192;San Marino;c10;OSB;;kg/m3p;0
+205;Western Sahara;c10;OSB;;kg/m3p;0
+218;Tokelau;c10;OSB;;kg/m3p;0
+227;Tuvalu;c10;OSB;;kg/m3p;0
+228;USSR;c10;OSB;;kg/m3p;0
+242;Wake Island;c10;OSB;;kg/m3p;0
+243;Wallis and Futuna Islands;c10;OSB;;kg/m3p;0
+248;Yugoslav SFR;c10;OSB;;kg/m3p;0
+258;Anguilla;c10;OSB;;kg/m3p;0
+279;Curaçao;c10;OSB;;kg/m3p;0
+281;Saint-Martin (French Part);c10;OSB;;kg/m3p;0
+299;Palestine;c10;OSB;;kg/m3p;0
+252;Unspecified Area;c10;OSB;;kg/m3p;0
+254;Others (adjustment);c10;OSB;;kg/m3p;0
 ;ASI;c10;OSB;;kg/m3p;655
 ;EUR;c10;OSB;;kg/m3p;615
 ;AFR;c10;OSB;;kg/m3p;0
@@ -3089,7 +3537,6 @@ area_code;area;com_code;com_name;sub_com;unit;tcf
 59;Egypt;c11;Wood pulp;;m3sw/tonne;0
 60;El Salvador;c11;Wood pulp;;m3sw/tonne;0
 61;Equatorial Guinea;c11;Wood pulp;;m3sw/tonne;0
-62;Ethiopia PDR;c11;Wood pulp;;m3sw/tonne;0
 63;Estonia;c11;Wood pulp;;m3sw/tonne;0
 64;Faroe Islands;c11;Wood pulp;;m3sw/tonne;0
 65;Falkland Islands (Malvinas);c11;Wood pulp;;m3sw/tonne;0
@@ -3125,7 +3572,7 @@ area_code;area;com_code;com_name;sub_com;unit;tcf
 104;Ireland;c11;Wood pulp;;m3sw/tonne;0
 105;Israel;c11;Wood pulp;;m3sw/tonne;0
 106;Italy;c11;Wood pulp;;m3sw/tonne;0
-107;C?te d'Ivoire;c11;Wood pulp;;m3sw/tonne;0
+107;Cote d'Ivoire;c11;Wood pulp;;m3sw/tonne;0
 108;Kazakhstan;c11;Wood pulp;;m3sw/tonne;0
 109;Jamaica;c11;Wood pulp;;m3sw/tonne;0
 110;Japan;c11;Wood pulp;;m3sw/tonne;3,3
@@ -3188,7 +3635,7 @@ area_code;area;com_code;com_name;sub_com;unit;tcf
 178;Eritrea;c11;Wood pulp;;m3sw/tonne;0
 179;Qatar;c11;Wood pulp;;m3sw/tonne;0
 181;Zimbabwe;c11;Wood pulp;;m3sw/tonne;0
-182;R?union;c11;Wood pulp;;m3sw/tonne;0
+182;Reunion;c11;Wood pulp;;m3sw/tonne;0
 183;Romania;c11;Wood pulp;;m3sw/tonne;0
 184;Rwanda;c11;Wood pulp;;m3sw/tonne;0
 185;Russian Federation;c11;Wood pulp;;m3sw/tonne;3,76
@@ -3206,7 +3653,6 @@ area_code;area;com_code;com_name;sub_com;unit;tcf
 200;Singapore;c11;Wood pulp;;m3sw/tonne;0
 201;Somalia;c11;Wood pulp;;m3sw/tonne;0
 202;South Africa;c11;Wood pulp;;m3sw/tonne;0
-206;Sudan (former);c11;Wood pulp;;m3sw/tonne;0
 203;Spain;c11;Wood pulp;;m3sw/tonne;0
 207;Suriname;c11;Wood pulp;;m3sw/tonne;0
 208;Tajikistan;c11;Wood pulp;;m3sw/tonne;0
@@ -3248,6 +3694,40 @@ area_code;area;com_code;com_name;sub_com;unit;tcf
 273;Montenegro;c11;Wood pulp;;m3sw/tonne;0
 276;Sudan;c11;Wood pulp;;m3sw/tonne;0
 277;South Sudan;c11;Wood pulp;;m3sw/tonne;0
+5;American Samoa;c11;Wood pulp;;m3sw/tonne;0
+8;Antigua and Barbuda;c11;Wood pulp;;m3sw/tonne;0
+17;Bermuda;c11;Wood pulp;;m3sw/tonne;0
+24;British Indian Ocean Territory;c11;Wood pulp;;m3sw/tonne;0
+36;Cayman Islands;c11;Wood pulp;;m3sw/tonne;0
+43;Cocos (Keeling) Islands;c11;Wood pulp;;m3sw/tonne;0
+71;French Southern and Antarctic Territories;c11;Wood pulp;;m3sw/tonne;0
+85;Greenland;c11;Wood pulp;;m3sw/tonne;0
+86;Grenada;c11;Wood pulp;;m3sw/tonne;0
+88;Guam;c11;Wood pulp;;m3sw/tonne;0
+94;Holy See;c11;Wood pulp;;m3sw/tonne;0
+127;Marshall Islands;c11;Wood pulp;;m3sw/tonne;0
+142;Montserrat;c11;Wood pulp;;m3sw/tonne;0
+148;Nauru;c11;Wood pulp;;m3sw/tonne;0
+163;Northern Mariana Islands;c11;Wood pulp;;m3sw/tonne;0
+164;Pacific Islands Trust Territory;c11;Wood pulp;;m3sw/tonne;0
+172;Pitcairn Islands;c11;Wood pulp;;m3sw/tonne;0
+180;Palau;c11;Wood pulp;;m3sw/tonne;0
+187;Saint Helena, Ascension and Tristan da Cunha;c11;Wood pulp;;m3sw/tonne;0
+188;Saint Kitts and Nevis;c11;Wood pulp;;m3sw/tonne;0
+192;San Marino;c11;Wood pulp;;m3sw/tonne;0
+205;Western Sahara;c11;Wood pulp;;m3sw/tonne;0
+218;Tokelau;c11;Wood pulp;;m3sw/tonne;0
+227;Tuvalu;c11;Wood pulp;;m3sw/tonne;0
+228;USSR;c11;Wood pulp;;m3sw/tonne;0
+242;Wake Island;c11;Wood pulp;;m3sw/tonne;0
+243;Wallis and Futuna Islands;c11;Wood pulp;;m3sw/tonne;0
+248;Yugoslav SFR;c11;Wood pulp;;m3sw/tonne;0
+258;Anguilla;c11;Wood pulp;;m3sw/tonne;0
+279;Curaçao;c11;Wood pulp;;m3sw/tonne;0
+281;Saint-Martin (French Part);c11;Wood pulp;;m3sw/tonne;0
+299;Palestine;c11;Wood pulp;;m3sw/tonne;0
+252;Unspecified Area;c11;Wood pulp;;m3sw/tonne;0
+254;Others (adjustment);c11;Wood pulp;;m3sw/tonne;0
 ;ASI;c11;Wood pulp;;m3sw/tonne;3,7
 ;EUR;c11;Wood pulp;;m3sw/tonne;3,6
 ;AFR;c11;Wood pulp;;m3sw/tonne;0
@@ -3306,7 +3786,7 @@ area_code;area;com_code;com_name;sub_com;unit;tcf
 59;Egypt;c11;Wood pulp;Wood pulp, mechanical;m3sw/tonne;0
 60;El Salvador;c11;Wood pulp;Wood pulp, mechanical;m3sw/tonne;0
 61;Equatorial Guinea;c11;Wood pulp;Wood pulp, mechanical;m3sw/tonne;0
-62;Ethiopia PDR;c11;Wood pulp;Wood pulp, mechanical;m3sw/tonne;0
+62;;c11;Wood pulp;Wood pulp, mechanical;m3sw/tonne;0
 63;Estonia;c11;Wood pulp;Wood pulp, mechanical;m3sw/tonne;0
 64;Faroe Islands;c11;Wood pulp;Wood pulp, mechanical;m3sw/tonne;0
 65;Falkland Islands (Malvinas);c11;Wood pulp;Wood pulp, mechanical;m3sw/tonne;0
@@ -3342,7 +3822,7 @@ area_code;area;com_code;com_name;sub_com;unit;tcf
 104;Ireland;c11;Wood pulp;Wood pulp, mechanical;m3sw/tonne;0
 105;Israel;c11;Wood pulp;Wood pulp, mechanical;m3sw/tonne;0
 106;Italy;c11;Wood pulp;Wood pulp, mechanical;m3sw/tonne;0
-107;C?te d'Ivoire;c11;Wood pulp;Wood pulp, mechanical;m3sw/tonne;0
+107;Cote d'Ivoire;c11;Wood pulp;Wood pulp, mechanical;m3sw/tonne;0
 108;Kazakhstan;c11;Wood pulp;Wood pulp, mechanical;m3sw/tonne;0
 109;Jamaica;c11;Wood pulp;Wood pulp, mechanical;m3sw/tonne;0
 110;Japan;c11;Wood pulp;Wood pulp, mechanical;m3sw/tonne;0
@@ -3405,7 +3885,7 @@ area_code;area;com_code;com_name;sub_com;unit;tcf
 178;Eritrea;c11;Wood pulp;Wood pulp, mechanical;m3sw/tonne;0
 179;Qatar;c11;Wood pulp;Wood pulp, mechanical;m3sw/tonne;0
 181;Zimbabwe;c11;Wood pulp;Wood pulp, mechanical;m3sw/tonne;0
-182;R?union;c11;Wood pulp;Wood pulp, mechanical;m3sw/tonne;0
+182;Reunion;c11;Wood pulp;Wood pulp, mechanical;m3sw/tonne;0
 183;Romania;c11;Wood pulp;Wood pulp, mechanical;m3sw/tonne;0
 184;Rwanda;c11;Wood pulp;Wood pulp, mechanical;m3sw/tonne;0
 185;Russian Federation;c11;Wood pulp;Wood pulp, mechanical;m3sw/tonne;2,88
@@ -3423,7 +3903,6 @@ area_code;area;com_code;com_name;sub_com;unit;tcf
 200;Singapore;c11;Wood pulp;Wood pulp, mechanical;m3sw/tonne;0
 201;Somalia;c11;Wood pulp;Wood pulp, mechanical;m3sw/tonne;0
 202;South Africa;c11;Wood pulp;Wood pulp, mechanical;m3sw/tonne;2,55
-206;Sudan (former);c11;Wood pulp;Wood pulp, mechanical;m3sw/tonne;0
 203;Spain;c11;Wood pulp;Wood pulp, mechanical;m3sw/tonne;0
 207;Suriname;c11;Wood pulp;Wood pulp, mechanical;m3sw/tonne;0
 208;Tajikistan;c11;Wood pulp;Wood pulp, mechanical;m3sw/tonne;0
@@ -3465,6 +3944,40 @@ area_code;area;com_code;com_name;sub_com;unit;tcf
 273;Montenegro;c11;Wood pulp;Wood pulp, mechanical;m3sw/tonne;0
 276;Sudan;c11;Wood pulp;Wood pulp, mechanical;m3sw/tonne;0
 277;South Sudan;c11;Wood pulp;Wood pulp, mechanical;m3sw/tonne;0
+5;American Samoa;c11;Wood pulp;Wood pulp, mechanical;m3sw/tonne;0
+8;Antigua and Barbuda;c11;Wood pulp;Wood pulp, mechanical;m3sw/tonne;0
+17;Bermuda;c11;Wood pulp;Wood pulp, mechanical;m3sw/tonne;0
+24;British Indian Ocean Territory;c11;Wood pulp;Wood pulp, mechanical;m3sw/tonne;0
+36;Cayman Islands;c11;Wood pulp;Wood pulp, mechanical;m3sw/tonne;0
+43;Cocos (Keeling) Islands;c11;Wood pulp;Wood pulp, mechanical;m3sw/tonne;0
+71;French Southern and Antarctic Territories;c11;Wood pulp;Wood pulp, mechanical;m3sw/tonne;0
+85;Greenland;c11;Wood pulp;Wood pulp, mechanical;m3sw/tonne;0
+86;Grenada;c11;Wood pulp;Wood pulp, mechanical;m3sw/tonne;0
+88;Guam;c11;Wood pulp;Wood pulp, mechanical;m3sw/tonne;0
+94;Holy See;c11;Wood pulp;Wood pulp, mechanical;m3sw/tonne;0
+127;Marshall Islands;c11;Wood pulp;Wood pulp, mechanical;m3sw/tonne;0
+142;Montserrat;c11;Wood pulp;Wood pulp, mechanical;m3sw/tonne;0
+148;Nauru;c11;Wood pulp;Wood pulp, mechanical;m3sw/tonne;0
+163;Northern Mariana Islands;c11;Wood pulp;Wood pulp, mechanical;m3sw/tonne;0
+164;Pacific Islands Trust Territory;c11;Wood pulp;Wood pulp, mechanical;m3sw/tonne;0
+172;Pitcairn Islands;c11;Wood pulp;Wood pulp, mechanical;m3sw/tonne;0
+180;Palau;c11;Wood pulp;Wood pulp, mechanical;m3sw/tonne;0
+187;Saint Helena, Ascension and Tristan da Cunha;c11;Wood pulp;Wood pulp, mechanical;m3sw/tonne;0
+188;Saint Kitts and Nevis;c11;Wood pulp;Wood pulp, mechanical;m3sw/tonne;0
+192;San Marino;c11;Wood pulp;Wood pulp, mechanical;m3sw/tonne;0
+205;Western Sahara;c11;Wood pulp;Wood pulp, mechanical;m3sw/tonne;0
+218;Tokelau;c11;Wood pulp;Wood pulp, mechanical;m3sw/tonne;0
+227;Tuvalu;c11;Wood pulp;Wood pulp, mechanical;m3sw/tonne;0
+228;USSR;c11;Wood pulp;Wood pulp, mechanical;m3sw/tonne;0
+242;Wake Island;c11;Wood pulp;Wood pulp, mechanical;m3sw/tonne;0
+243;Wallis and Futuna Islands;c11;Wood pulp;Wood pulp, mechanical;m3sw/tonne;0
+248;Yugoslav SFR;c11;Wood pulp;Wood pulp, mechanical;m3sw/tonne;0
+258;Anguilla;c11;Wood pulp;Wood pulp, mechanical;m3sw/tonne;0
+279;Curaçao;c11;Wood pulp;Wood pulp, mechanical;m3sw/tonne;0
+281;Saint-Martin (French Part);c11;Wood pulp;Wood pulp, mechanical;m3sw/tonne;0
+299;Palestine;c11;Wood pulp;Wood pulp, mechanical;m3sw/tonne;0
+252;Unspecified Area;c11;Wood pulp;Wood pulp, mechanical;m3sw/tonne;0
+254;Others (adjustment);c11;Wood pulp;Wood pulp, mechanical;m3sw/tonne;0
 ;ASI;c11;Wood pulp;Wood pulp, mechanical;m3sw/tonne;2,5
 ;EUR;c11;Wood pulp;Wood pulp, mechanical;m3sw/tonne;2,56
 ;AFR;c11;Wood pulp;Wood pulp, mechanical;m3sw/tonne;2,55
@@ -3523,7 +4036,6 @@ area_code;area;com_code;com_name;sub_com;unit;tcf
 59;Egypt;c11;Wood pulp;Wood pulp, semi-chemical;m3sw/tonne;0
 60;El Salvador;c11;Wood pulp;Wood pulp, semi-chemical;m3sw/tonne;0
 61;Equatorial Guinea;c11;Wood pulp;Wood pulp, semi-chemical;m3sw/tonne;0
-62;Ethiopia PDR;c11;Wood pulp;Wood pulp, semi-chemical;m3sw/tonne;0
 63;Estonia;c11;Wood pulp;Wood pulp, semi-chemical;m3sw/tonne;0
 64;Faroe Islands;c11;Wood pulp;Wood pulp, semi-chemical;m3sw/tonne;0
 65;Falkland Islands (Malvinas);c11;Wood pulp;Wood pulp, semi-chemical;m3sw/tonne;0
@@ -3559,7 +4071,7 @@ area_code;area;com_code;com_name;sub_com;unit;tcf
 104;Ireland;c11;Wood pulp;Wood pulp, semi-chemical;m3sw/tonne;0
 105;Israel;c11;Wood pulp;Wood pulp, semi-chemical;m3sw/tonne;0
 106;Italy;c11;Wood pulp;Wood pulp, semi-chemical;m3sw/tonne;0
-107;C?te d'Ivoire;c11;Wood pulp;Wood pulp, semi-chemical;m3sw/tonne;0
+107;Cote d'Ivoire;c11;Wood pulp;Wood pulp, semi-chemical;m3sw/tonne;0
 108;Kazakhstan;c11;Wood pulp;Wood pulp, semi-chemical;m3sw/tonne;0
 109;Jamaica;c11;Wood pulp;Wood pulp, semi-chemical;m3sw/tonne;0
 110;Japan;c11;Wood pulp;Wood pulp, semi-chemical;m3sw/tonne;0
@@ -3622,7 +4134,7 @@ area_code;area;com_code;com_name;sub_com;unit;tcf
 178;Eritrea;c11;Wood pulp;Wood pulp, semi-chemical;m3sw/tonne;0
 179;Qatar;c11;Wood pulp;Wood pulp, semi-chemical;m3sw/tonne;0
 181;Zimbabwe;c11;Wood pulp;Wood pulp, semi-chemical;m3sw/tonne;0
-182;R?union;c11;Wood pulp;Wood pulp, semi-chemical;m3sw/tonne;0
+182;Reunion;c11;Wood pulp;Wood pulp, semi-chemical;m3sw/tonne;0
 183;Romania;c11;Wood pulp;Wood pulp, semi-chemical;m3sw/tonne;0
 184;Rwanda;c11;Wood pulp;Wood pulp, semi-chemical;m3sw/tonne;0
 185;Russian Federation;c11;Wood pulp;Wood pulp, semi-chemical;m3sw/tonne;3
@@ -3640,7 +4152,6 @@ area_code;area;com_code;com_name;sub_com;unit;tcf
 200;Singapore;c11;Wood pulp;Wood pulp, semi-chemical;m3sw/tonne;0
 201;Somalia;c11;Wood pulp;Wood pulp, semi-chemical;m3sw/tonne;0
 202;South Africa;c11;Wood pulp;Wood pulp, semi-chemical;m3sw/tonne;0
-206;Sudan (former);c11;Wood pulp;Wood pulp, semi-chemical;m3sw/tonne;0
 203;Spain;c11;Wood pulp;Wood pulp, semi-chemical;m3sw/tonne;0
 207;Suriname;c11;Wood pulp;Wood pulp, semi-chemical;m3sw/tonne;0
 208;Tajikistan;c11;Wood pulp;Wood pulp, semi-chemical;m3sw/tonne;0
@@ -3682,6 +4193,40 @@ area_code;area;com_code;com_name;sub_com;unit;tcf
 273;Montenegro;c11;Wood pulp;Wood pulp, semi-chemical;m3sw/tonne;0
 276;Sudan;c11;Wood pulp;Wood pulp, semi-chemical;m3sw/tonne;0
 277;South Sudan;c11;Wood pulp;Wood pulp, semi-chemical;m3sw/tonne;0
+5;American Samoa;c11;Wood pulp;Wood pulp, semi-chemical;m3sw/tonne;0
+8;Antigua and Barbuda;c11;Wood pulp;Wood pulp, semi-chemical;m3sw/tonne;0
+17;Bermuda;c11;Wood pulp;Wood pulp, semi-chemical;m3sw/tonne;0
+24;British Indian Ocean Territory;c11;Wood pulp;Wood pulp, semi-chemical;m3sw/tonne;0
+36;Cayman Islands;c11;Wood pulp;Wood pulp, semi-chemical;m3sw/tonne;0
+43;Cocos (Keeling) Islands;c11;Wood pulp;Wood pulp, semi-chemical;m3sw/tonne;0
+71;French Southern and Antarctic Territories;c11;Wood pulp;Wood pulp, semi-chemical;m3sw/tonne;0
+85;Greenland;c11;Wood pulp;Wood pulp, semi-chemical;m3sw/tonne;0
+86;Grenada;c11;Wood pulp;Wood pulp, semi-chemical;m3sw/tonne;0
+88;Guam;c11;Wood pulp;Wood pulp, semi-chemical;m3sw/tonne;0
+94;Holy See;c11;Wood pulp;Wood pulp, semi-chemical;m3sw/tonne;0
+127;Marshall Islands;c11;Wood pulp;Wood pulp, semi-chemical;m3sw/tonne;0
+142;Montserrat;c11;Wood pulp;Wood pulp, semi-chemical;m3sw/tonne;0
+148;Nauru;c11;Wood pulp;Wood pulp, semi-chemical;m3sw/tonne;0
+163;Northern Mariana Islands;c11;Wood pulp;Wood pulp, semi-chemical;m3sw/tonne;0
+164;Pacific Islands Trust Territory;c11;Wood pulp;Wood pulp, semi-chemical;m3sw/tonne;0
+172;Pitcairn Islands;c11;Wood pulp;Wood pulp, semi-chemical;m3sw/tonne;0
+180;Palau;c11;Wood pulp;Wood pulp, semi-chemical;m3sw/tonne;0
+187;Saint Helena, Ascension and Tristan da Cunha;c11;Wood pulp;Wood pulp, semi-chemical;m3sw/tonne;0
+188;Saint Kitts and Nevis;c11;Wood pulp;Wood pulp, semi-chemical;m3sw/tonne;0
+192;San Marino;c11;Wood pulp;Wood pulp, semi-chemical;m3sw/tonne;0
+205;Western Sahara;c11;Wood pulp;Wood pulp, semi-chemical;m3sw/tonne;0
+218;Tokelau;c11;Wood pulp;Wood pulp, semi-chemical;m3sw/tonne;0
+227;Tuvalu;c11;Wood pulp;Wood pulp, semi-chemical;m3sw/tonne;0
+228;USSR;c11;Wood pulp;Wood pulp, semi-chemical;m3sw/tonne;0
+242;Wake Island;c11;Wood pulp;Wood pulp, semi-chemical;m3sw/tonne;0
+243;Wallis and Futuna Islands;c11;Wood pulp;Wood pulp, semi-chemical;m3sw/tonne;0
+248;Yugoslav SFR;c11;Wood pulp;Wood pulp, semi-chemical;m3sw/tonne;0
+258;Anguilla;c11;Wood pulp;Wood pulp, semi-chemical;m3sw/tonne;0
+279;Curaçao;c11;Wood pulp;Wood pulp, semi-chemical;m3sw/tonne;0
+281;Saint-Martin (French Part);c11;Wood pulp;Wood pulp, semi-chemical;m3sw/tonne;0
+299;Palestine;c11;Wood pulp;Wood pulp, semi-chemical;m3sw/tonne;0
+252;Unspecified Area;c11;Wood pulp;Wood pulp, semi-chemical;m3sw/tonne;0
+254;Others (adjustment);c11;Wood pulp;Wood pulp, semi-chemical;m3sw/tonne;0
 ;ASI;c11;Wood pulp;Wood pulp, semi-chemical;m3sw/tonne;2,78
 ;EUR;c11;Wood pulp;Wood pulp, semi-chemical;m3sw/tonne;2,75
 ;AFR;c11;Wood pulp;Wood pulp, semi-chemical;m3sw/tonne;0
@@ -3740,7 +4285,6 @@ area_code;area;com_code;com_name;sub_com;unit;tcf
 59;Egypt;c11;Wood pulp;Wood pulp, chemical;m3sw/tonne;0
 60;El Salvador;c11;Wood pulp;Wood pulp, chemical;m3sw/tonne;0
 61;Equatorial Guinea;c11;Wood pulp;Wood pulp, chemical;m3sw/tonne;0
-62;Ethiopia PDR;c11;Wood pulp;Wood pulp, chemical;m3sw/tonne;0
 63;Estonia;c11;Wood pulp;Wood pulp, chemical;m3sw/tonne;0
 64;Faroe Islands;c11;Wood pulp;Wood pulp, chemical;m3sw/tonne;0
 65;Falkland Islands (Malvinas);c11;Wood pulp;Wood pulp, chemical;m3sw/tonne;0
@@ -3776,7 +4320,7 @@ area_code;area;com_code;com_name;sub_com;unit;tcf
 104;Ireland;c11;Wood pulp;Wood pulp, chemical;m3sw/tonne;0
 105;Israel;c11;Wood pulp;Wood pulp, chemical;m3sw/tonne;0
 106;Italy;c11;Wood pulp;Wood pulp, chemical;m3sw/tonne;0
-107;C?te d'Ivoire;c11;Wood pulp;Wood pulp, chemical;m3sw/tonne;0
+107;Cote d'Ivoire;c11;Wood pulp;Wood pulp, chemical;m3sw/tonne;0
 108;Kazakhstan;c11;Wood pulp;Wood pulp, chemical;m3sw/tonne;0
 109;Jamaica;c11;Wood pulp;Wood pulp, chemical;m3sw/tonne;0
 110;Japan;c11;Wood pulp;Wood pulp, chemical;m3sw/tonne;0
@@ -3839,7 +4383,7 @@ area_code;area;com_code;com_name;sub_com;unit;tcf
 178;Eritrea;c11;Wood pulp;Wood pulp, chemical;m3sw/tonne;0
 179;Qatar;c11;Wood pulp;Wood pulp, chemical;m3sw/tonne;0
 181;Zimbabwe;c11;Wood pulp;Wood pulp, chemical;m3sw/tonne;0
-182;R?union;c11;Wood pulp;Wood pulp, chemical;m3sw/tonne;0
+182;Reunion;c11;Wood pulp;Wood pulp, chemical;m3sw/tonne;0
 183;Romania;c11;Wood pulp;Wood pulp, chemical;m3sw/tonne;0
 184;Rwanda;c11;Wood pulp;Wood pulp, chemical;m3sw/tonne;0
 185;Russian Federation;c11;Wood pulp;Wood pulp, chemical;m3sw/tonne;4,1
@@ -3857,7 +4401,6 @@ area_code;area;com_code;com_name;sub_com;unit;tcf
 200;Singapore;c11;Wood pulp;Wood pulp, chemical;m3sw/tonne;0
 201;Somalia;c11;Wood pulp;Wood pulp, chemical;m3sw/tonne;0
 202;South Africa;c11;Wood pulp;Wood pulp, chemical;m3sw/tonne;4,27
-206;Sudan (former);c11;Wood pulp;Wood pulp, chemical;m3sw/tonne;0
 203;Spain;c11;Wood pulp;Wood pulp, chemical;m3sw/tonne;0
 207;Suriname;c11;Wood pulp;Wood pulp, chemical;m3sw/tonne;0
 208;Tajikistan;c11;Wood pulp;Wood pulp, chemical;m3sw/tonne;0
@@ -3899,6 +4442,40 @@ area_code;area;com_code;com_name;sub_com;unit;tcf
 273;Montenegro;c11;Wood pulp;Wood pulp, chemical;m3sw/tonne;0
 276;Sudan;c11;Wood pulp;Wood pulp, chemical;m3sw/tonne;0
 277;South Sudan;c11;Wood pulp;Wood pulp, chemical;m3sw/tonne;0
+5;American Samoa;c11;Wood pulp;Wood pulp, chemical;m3sw/tonne;0
+8;Antigua and Barbuda;c11;Wood pulp;Wood pulp, chemical;m3sw/tonne;0
+17;Bermuda;c11;Wood pulp;Wood pulp, chemical;m3sw/tonne;0
+24;British Indian Ocean Territory;c11;Wood pulp;Wood pulp, chemical;m3sw/tonne;0
+36;Cayman Islands;c11;Wood pulp;Wood pulp, chemical;m3sw/tonne;0
+43;Cocos (Keeling) Islands;c11;Wood pulp;Wood pulp, chemical;m3sw/tonne;0
+71;French Southern and Antarctic Territories;c11;Wood pulp;Wood pulp, chemical;m3sw/tonne;0
+85;Greenland;c11;Wood pulp;Wood pulp, chemical;m3sw/tonne;0
+86;Grenada;c11;Wood pulp;Wood pulp, chemical;m3sw/tonne;0
+88;Guam;c11;Wood pulp;Wood pulp, chemical;m3sw/tonne;0
+94;Holy See;c11;Wood pulp;Wood pulp, chemical;m3sw/tonne;0
+127;Marshall Islands;c11;Wood pulp;Wood pulp, chemical;m3sw/tonne;0
+142;Montserrat;c11;Wood pulp;Wood pulp, chemical;m3sw/tonne;0
+148;Nauru;c11;Wood pulp;Wood pulp, chemical;m3sw/tonne;0
+163;Northern Mariana Islands;c11;Wood pulp;Wood pulp, chemical;m3sw/tonne;0
+164;Pacific Islands Trust Territory;c11;Wood pulp;Wood pulp, chemical;m3sw/tonne;0
+172;Pitcairn Islands;c11;Wood pulp;Wood pulp, chemical;m3sw/tonne;0
+180;Palau;c11;Wood pulp;Wood pulp, chemical;m3sw/tonne;0
+187;Saint Helena, Ascension and Tristan da Cunha;c11;Wood pulp;Wood pulp, chemical;m3sw/tonne;0
+188;Saint Kitts and Nevis;c11;Wood pulp;Wood pulp, chemical;m3sw/tonne;0
+192;San Marino;c11;Wood pulp;Wood pulp, chemical;m3sw/tonne;0
+205;Western Sahara;c11;Wood pulp;Wood pulp, chemical;m3sw/tonne;0
+218;Tokelau;c11;Wood pulp;Wood pulp, chemical;m3sw/tonne;0
+227;Tuvalu;c11;Wood pulp;Wood pulp, chemical;m3sw/tonne;0
+228;USSR;c11;Wood pulp;Wood pulp, chemical;m3sw/tonne;0
+242;Wake Island;c11;Wood pulp;Wood pulp, chemical;m3sw/tonne;0
+243;Wallis and Futuna Islands;c11;Wood pulp;Wood pulp, chemical;m3sw/tonne;0
+248;Yugoslav SFR;c11;Wood pulp;Wood pulp, chemical;m3sw/tonne;0
+258;Anguilla;c11;Wood pulp;Wood pulp, chemical;m3sw/tonne;0
+279;Curaçao;c11;Wood pulp;Wood pulp, chemical;m3sw/tonne;0
+281;Saint-Martin (French Part);c11;Wood pulp;Wood pulp, chemical;m3sw/tonne;0
+299;Palestine;c11;Wood pulp;Wood pulp, chemical;m3sw/tonne;0
+252;Unspecified Area;c11;Wood pulp;Wood pulp, chemical;m3sw/tonne;0
+254;Others (adjustment);c11;Wood pulp;Wood pulp, chemical;m3sw/tonne;0
 ;ASI;c11;Wood pulp;Wood pulp, chemical;m3sw/tonne;4,36
 ;EUR;c11;Wood pulp;Wood pulp, chemical;m3sw/tonne;4,46
 ;AFR;c11;Wood pulp;Wood pulp, chemical;m3sw/tonne;4,27
@@ -3957,7 +4534,6 @@ area_code;area;com_code;com_name;sub_com;unit;tcf
 59;Egypt;c11;Wood pulp;Dissolving pulp;m3sw/tonne;0
 60;El Salvador;c11;Wood pulp;Dissolving pulp;m3sw/tonne;0
 61;Equatorial Guinea;c11;Wood pulp;Dissolving pulp;m3sw/tonne;0
-62;Ethiopia PDR;c11;Wood pulp;Dissolving pulp;m3sw/tonne;0
 63;Estonia;c11;Wood pulp;Dissolving pulp;m3sw/tonne;0
 64;Faroe Islands;c11;Wood pulp;Dissolving pulp;m3sw/tonne;0
 65;Falkland Islands (Malvinas);c11;Wood pulp;Dissolving pulp;m3sw/tonne;0
@@ -3993,7 +4569,7 @@ area_code;area;com_code;com_name;sub_com;unit;tcf
 104;Ireland;c11;Wood pulp;Dissolving pulp;m3sw/tonne;0
 105;Israel;c11;Wood pulp;Dissolving pulp;m3sw/tonne;0
 106;Italy;c11;Wood pulp;Dissolving pulp;m3sw/tonne;0
-107;C?te d'Ivoire;c11;Wood pulp;Dissolving pulp;m3sw/tonne;0
+107;Cote d'Ivoire;c11;Wood pulp;Dissolving pulp;m3sw/tonne;0
 108;Kazakhstan;c11;Wood pulp;Dissolving pulp;m3sw/tonne;0
 109;Jamaica;c11;Wood pulp;Dissolving pulp;m3sw/tonne;0
 110;Japan;c11;Wood pulp;Dissolving pulp;m3sw/tonne;0
@@ -4056,7 +4632,7 @@ area_code;area;com_code;com_name;sub_com;unit;tcf
 178;Eritrea;c11;Wood pulp;Dissolving pulp;m3sw/tonne;0
 179;Qatar;c11;Wood pulp;Dissolving pulp;m3sw/tonne;0
 181;Zimbabwe;c11;Wood pulp;Dissolving pulp;m3sw/tonne;0
-182;R?union;c11;Wood pulp;Dissolving pulp;m3sw/tonne;0
+182;Reunion;c11;Wood pulp;Dissolving pulp;m3sw/tonne;0
 183;Romania;c11;Wood pulp;Dissolving pulp;m3sw/tonne;0
 184;Rwanda;c11;Wood pulp;Dissolving pulp;m3sw/tonne;0
 185;Russian Federation;c11;Wood pulp;Dissolving pulp;m3sw/tonne;0
@@ -4074,7 +4650,6 @@ area_code;area;com_code;com_name;sub_com;unit;tcf
 200;Singapore;c11;Wood pulp;Dissolving pulp;m3sw/tonne;0
 201;Somalia;c11;Wood pulp;Dissolving pulp;m3sw/tonne;0
 202;South Africa;c11;Wood pulp;Dissolving pulp;m3sw/tonne;6,54
-206;Sudan (former);c11;Wood pulp;Dissolving pulp;m3sw/tonne;0
 203;Spain;c11;Wood pulp;Dissolving pulp;m3sw/tonne;0
 207;Suriname;c11;Wood pulp;Dissolving pulp;m3sw/tonne;0
 208;Tajikistan;c11;Wood pulp;Dissolving pulp;m3sw/tonne;0
@@ -4116,6 +4691,40 @@ area_code;area;com_code;com_name;sub_com;unit;tcf
 273;Montenegro;c11;Wood pulp;Dissolving pulp;m3sw/tonne;0
 276;Sudan;c11;Wood pulp;Dissolving pulp;m3sw/tonne;0
 277;South Sudan;c11;Wood pulp;Dissolving pulp;m3sw/tonne;0
+5;American Samoa;c11;Wood pulp;Dissolving pulp;m3sw/tonne;0
+8;Antigua and Barbuda;c11;Wood pulp;Dissolving pulp;m3sw/tonne;0
+17;Bermuda;c11;Wood pulp;Dissolving pulp;m3sw/tonne;0
+24;British Indian Ocean Territory;c11;Wood pulp;Dissolving pulp;m3sw/tonne;0
+36;Cayman Islands;c11;Wood pulp;Dissolving pulp;m3sw/tonne;0
+43;Cocos (Keeling) Islands;c11;Wood pulp;Dissolving pulp;m3sw/tonne;0
+71;French Southern and Antarctic Territories;c11;Wood pulp;Dissolving pulp;m3sw/tonne;0
+85;Greenland;c11;Wood pulp;Dissolving pulp;m3sw/tonne;0
+86;Grenada;c11;Wood pulp;Dissolving pulp;m3sw/tonne;0
+88;Guam;c11;Wood pulp;Dissolving pulp;m3sw/tonne;0
+94;Holy See;c11;Wood pulp;Dissolving pulp;m3sw/tonne;0
+127;Marshall Islands;c11;Wood pulp;Dissolving pulp;m3sw/tonne;0
+142;Montserrat;c11;Wood pulp;Dissolving pulp;m3sw/tonne;0
+148;Nauru;c11;Wood pulp;Dissolving pulp;m3sw/tonne;0
+163;Northern Mariana Islands;c11;Wood pulp;Dissolving pulp;m3sw/tonne;0
+164;Pacific Islands Trust Territory;c11;Wood pulp;Dissolving pulp;m3sw/tonne;0
+172;Pitcairn Islands;c11;Wood pulp;Dissolving pulp;m3sw/tonne;0
+180;Palau;c11;Wood pulp;Dissolving pulp;m3sw/tonne;0
+187;Saint Helena, Ascension and Tristan da Cunha;c11;Wood pulp;Dissolving pulp;m3sw/tonne;0
+188;Saint Kitts and Nevis;c11;Wood pulp;Dissolving pulp;m3sw/tonne;0
+192;San Marino;c11;Wood pulp;Dissolving pulp;m3sw/tonne;0
+205;Western Sahara;c11;Wood pulp;Dissolving pulp;m3sw/tonne;0
+218;Tokelau;c11;Wood pulp;Dissolving pulp;m3sw/tonne;0
+227;Tuvalu;c11;Wood pulp;Dissolving pulp;m3sw/tonne;0
+228;USSR;c11;Wood pulp;Dissolving pulp;m3sw/tonne;0
+242;Wake Island;c11;Wood pulp;Dissolving pulp;m3sw/tonne;0
+243;Wallis and Futuna Islands;c11;Wood pulp;Dissolving pulp;m3sw/tonne;0
+248;Yugoslav SFR;c11;Wood pulp;Dissolving pulp;m3sw/tonne;0
+258;Anguilla;c11;Wood pulp;Dissolving pulp;m3sw/tonne;0
+279;Curaçao;c11;Wood pulp;Dissolving pulp;m3sw/tonne;0
+281;Saint-Martin (French Part);c11;Wood pulp;Dissolving pulp;m3sw/tonne;0
+299;Palestine;c11;Wood pulp;Dissolving pulp;m3sw/tonne;0
+252;Unspecified Area;c11;Wood pulp;Dissolving pulp;m3sw/tonne;0
+254;Others (adjustment);c11;Wood pulp;Dissolving pulp;m3sw/tonne;0
 ;ASI;c11;Wood pulp;Dissolving pulp;m3sw/tonne;5,75
 ;EUR;c11;Wood pulp;Dissolving pulp;m3sw/tonne;5,86
 ;AFR;c11;Wood pulp;Dissolving pulp;m3sw/tonne;6,54
@@ -4174,7 +4783,6 @@ area_code;area;com_code;com_name;sub_com;unit;tcf
 59;Egypt;c12;Recovered paper;;mt/mt;0
 60;El Salvador;c12;Recovered paper;;mt/mt;0
 61;Equatorial Guinea;c12;Recovered paper;;mt/mt;0
-62;Ethiopia PDR;c12;Recovered paper;;mt/mt;0
 63;Estonia;c12;Recovered paper;;mt/mt;0
 64;Faroe Islands;c12;Recovered paper;;mt/mt;0
 65;Falkland Islands (Malvinas);c12;Recovered paper;;mt/mt;0
@@ -4210,7 +4818,7 @@ area_code;area;com_code;com_name;sub_com;unit;tcf
 104;Ireland;c12;Recovered paper;;mt/mt;0
 105;Israel;c12;Recovered paper;;mt/mt;0
 106;Italy;c12;Recovered paper;;mt/mt;0
-107;C?te d'Ivoire;c12;Recovered paper;;mt/mt;0
+107;Cote d'Ivoire;c12;Recovered paper;;mt/mt;0
 108;Kazakhstan;c12;Recovered paper;;mt/mt;0
 109;Jamaica;c12;Recovered paper;;mt/mt;0
 110;Japan;c12;Recovered paper;;mt/mt;0
@@ -4273,7 +4881,7 @@ area_code;area;com_code;com_name;sub_com;unit;tcf
 178;Eritrea;c12;Recovered paper;;mt/mt;0
 179;Qatar;c12;Recovered paper;;mt/mt;0
 181;Zimbabwe;c12;Recovered paper;;mt/mt;0
-182;R?union;c12;Recovered paper;;mt/mt;0
+182;Reunion;c12;Recovered paper;;mt/mt;0
 183;Romania;c12;Recovered paper;;mt/mt;0
 184;Rwanda;c12;Recovered paper;;mt/mt;0
 185;Russian Federation;c12;Recovered paper;;mt/mt;1,1
@@ -4291,7 +4899,6 @@ area_code;area;com_code;com_name;sub_com;unit;tcf
 200;Singapore;c12;Recovered paper;;mt/mt;0
 201;Somalia;c12;Recovered paper;;mt/mt;0
 202;South Africa;c12;Recovered paper;;mt/mt;0
-206;Sudan (former);c12;Recovered paper;;mt/mt;0
 203;Spain;c12;Recovered paper;;mt/mt;1,15
 207;Suriname;c12;Recovered paper;;mt/mt;0
 208;Tajikistan;c12;Recovered paper;;mt/mt;0
@@ -4333,6 +4940,40 @@ area_code;area;com_code;com_name;sub_com;unit;tcf
 273;Montenegro;c12;Recovered paper;;mt/mt;0
 276;Sudan;c12;Recovered paper;;mt/mt;0
 277;South Sudan;c12;Recovered paper;;mt/mt;0
+5;American Samoa;c12;Recovered paper;;mt/mt;0
+8;Antigua and Barbuda;c12;Recovered paper;;mt/mt;0
+17;Bermuda;c12;Recovered paper;;mt/mt;0
+24;British Indian Ocean Territory;c12;Recovered paper;;mt/mt;0
+36;Cayman Islands;c12;Recovered paper;;mt/mt;0
+43;Cocos (Keeling) Islands;c12;Recovered paper;;mt/mt;0
+71;French Southern and Antarctic Territories;c12;Recovered paper;;mt/mt;0
+85;Greenland;c12;Recovered paper;;mt/mt;0
+86;Grenada;c12;Recovered paper;;mt/mt;0
+88;Guam;c12;Recovered paper;;mt/mt;0
+94;Holy See;c12;Recovered paper;;mt/mt;0
+127;Marshall Islands;c12;Recovered paper;;mt/mt;0
+142;Montserrat;c12;Recovered paper;;mt/mt;0
+148;Nauru;c12;Recovered paper;;mt/mt;0
+163;Northern Mariana Islands;c12;Recovered paper;;mt/mt;0
+164;Pacific Islands Trust Territory;c12;Recovered paper;;mt/mt;0
+172;Pitcairn Islands;c12;Recovered paper;;mt/mt;0
+180;Palau;c12;Recovered paper;;mt/mt;0
+187;Saint Helena, Ascension and Tristan da Cunha;c12;Recovered paper;;mt/mt;0
+188;Saint Kitts and Nevis;c12;Recovered paper;;mt/mt;0
+192;San Marino;c12;Recovered paper;;mt/mt;0
+205;Western Sahara;c12;Recovered paper;;mt/mt;0
+218;Tokelau;c12;Recovered paper;;mt/mt;0
+227;Tuvalu;c12;Recovered paper;;mt/mt;0
+228;USSR;c12;Recovered paper;;mt/mt;0
+242;Wake Island;c12;Recovered paper;;mt/mt;0
+243;Wallis and Futuna Islands;c12;Recovered paper;;mt/mt;0
+248;Yugoslav SFR;c12;Recovered paper;;mt/mt;0
+258;Anguilla;c12;Recovered paper;;mt/mt;0
+279;Curaçao;c12;Recovered paper;;mt/mt;0
+281;Saint-Martin (French Part);c12;Recovered paper;;mt/mt;0
+299;Palestine;c12;Recovered paper;;mt/mt;0
+252;Unspecified Area;c12;Recovered paper;;mt/mt;0
+254;Others (adjustment);c12;Recovered paper;;mt/mt;0
 ;ASI;c12;Recovered paper;;mt/mt;1,26
 ;EUR;c12;Recovered paper;;mt/mt;1,19
 ;AFR;c12;Recovered paper;;mt/mt;0
@@ -4391,7 +5032,6 @@ area_code;area;com_code;com_name;sub_com;unit;tcf
 59;Egypt;c13;Recovered fibre pulp;;m3sw/tonne;0
 60;El Salvador;c13;Recovered fibre pulp;;m3sw/tonne;0
 61;Equatorial Guinea;c13;Recovered fibre pulp;;m3sw/tonne;0
-62;Ethiopia PDR;c13;Recovered fibre pulp;;m3sw/tonne;0
 63;Estonia;c13;Recovered fibre pulp;;m3sw/tonne;0
 64;Faroe Islands;c13;Recovered fibre pulp;;m3sw/tonne;0
 65;Falkland Islands (Malvinas);c13;Recovered fibre pulp;;m3sw/tonne;0
@@ -4427,7 +5067,7 @@ area_code;area;com_code;com_name;sub_com;unit;tcf
 104;Ireland;c13;Recovered fibre pulp;;m3sw/tonne;0
 105;Israel;c13;Recovered fibre pulp;;m3sw/tonne;0
 106;Italy;c13;Recovered fibre pulp;;m3sw/tonne;0
-107;C?te d'Ivoire;c13;Recovered fibre pulp;;m3sw/tonne;0
+107;Cote d'Ivoire;c13;Recovered fibre pulp;;m3sw/tonne;0
 108;Kazakhstan;c13;Recovered fibre pulp;;m3sw/tonne;0
 109;Jamaica;c13;Recovered fibre pulp;;m3sw/tonne;0
 110;Japan;c13;Recovered fibre pulp;;m3sw/tonne;0
@@ -4490,7 +5130,7 @@ area_code;area;com_code;com_name;sub_com;unit;tcf
 178;Eritrea;c13;Recovered fibre pulp;;m3sw/tonne;0
 179;Qatar;c13;Recovered fibre pulp;;m3sw/tonne;0
 181;Zimbabwe;c13;Recovered fibre pulp;;m3sw/tonne;0
-182;R?union;c13;Recovered fibre pulp;;m3sw/tonne;0
+182;Reunion;c13;Recovered fibre pulp;;m3sw/tonne;0
 183;Romania;c13;Recovered fibre pulp;;m3sw/tonne;0
 184;Rwanda;c13;Recovered fibre pulp;;m3sw/tonne;0
 185;Russian Federation;c13;Recovered fibre pulp;;m3sw/tonne;4,136
@@ -4508,7 +5148,6 @@ area_code;area;com_code;com_name;sub_com;unit;tcf
 200;Singapore;c13;Recovered fibre pulp;;m3sw/tonne;0
 201;Somalia;c13;Recovered fibre pulp;;m3sw/tonne;0
 202;South Africa;c13;Recovered fibre pulp;;m3sw/tonne;0
-206;Sudan (former);c13;Recovered fibre pulp;;m3sw/tonne;0
 203;Spain;c13;Recovered fibre pulp;;m3sw/tonne;0
 207;Suriname;c13;Recovered fibre pulp;;m3sw/tonne;0
 208;Tajikistan;c13;Recovered fibre pulp;;m3sw/tonne;0
@@ -4550,6 +5189,40 @@ area_code;area;com_code;com_name;sub_com;unit;tcf
 273;Montenegro;c13;Recovered fibre pulp;;m3sw/tonne;0
 276;Sudan;c13;Recovered fibre pulp;;m3sw/tonne;0
 277;South Sudan;c13;Recovered fibre pulp;;m3sw/tonne;0
+5;American Samoa;c13;Recovered fibre pulp;;m3sw/tonne;0
+8;Antigua and Barbuda;c13;Recovered fibre pulp;;m3sw/tonne;0
+17;Bermuda;c13;Recovered fibre pulp;;m3sw/tonne;0
+24;British Indian Ocean Territory;c13;Recovered fibre pulp;;m3sw/tonne;0
+36;Cayman Islands;c13;Recovered fibre pulp;;m3sw/tonne;0
+43;Cocos (Keeling) Islands;c13;Recovered fibre pulp;;m3sw/tonne;0
+71;French Southern and Antarctic Territories;c13;Recovered fibre pulp;;m3sw/tonne;0
+85;Greenland;c13;Recovered fibre pulp;;m3sw/tonne;0
+86;Grenada;c13;Recovered fibre pulp;;m3sw/tonne;0
+88;Guam;c13;Recovered fibre pulp;;m3sw/tonne;0
+94;Holy See;c13;Recovered fibre pulp;;m3sw/tonne;0
+127;Marshall Islands;c13;Recovered fibre pulp;;m3sw/tonne;0
+142;Montserrat;c13;Recovered fibre pulp;;m3sw/tonne;0
+148;Nauru;c13;Recovered fibre pulp;;m3sw/tonne;0
+163;Northern Mariana Islands;c13;Recovered fibre pulp;;m3sw/tonne;0
+164;Pacific Islands Trust Territory;c13;Recovered fibre pulp;;m3sw/tonne;0
+172;Pitcairn Islands;c13;Recovered fibre pulp;;m3sw/tonne;0
+180;Palau;c13;Recovered fibre pulp;;m3sw/tonne;0
+187;Saint Helena, Ascension and Tristan da Cunha;c13;Recovered fibre pulp;;m3sw/tonne;0
+188;Saint Kitts and Nevis;c13;Recovered fibre pulp;;m3sw/tonne;0
+192;San Marino;c13;Recovered fibre pulp;;m3sw/tonne;0
+205;Western Sahara;c13;Recovered fibre pulp;;m3sw/tonne;0
+218;Tokelau;c13;Recovered fibre pulp;;m3sw/tonne;0
+227;Tuvalu;c13;Recovered fibre pulp;;m3sw/tonne;0
+228;USSR;c13;Recovered fibre pulp;;m3sw/tonne;0
+242;Wake Island;c13;Recovered fibre pulp;;m3sw/tonne;0
+243;Wallis and Futuna Islands;c13;Recovered fibre pulp;;m3sw/tonne;0
+248;Yugoslav SFR;c13;Recovered fibre pulp;;m3sw/tonne;0
+258;Anguilla;c13;Recovered fibre pulp;;m3sw/tonne;0
+279;Curaçao;c13;Recovered fibre pulp;;m3sw/tonne;0
+281;Saint-Martin (French Part);c13;Recovered fibre pulp;;m3sw/tonne;0
+299;Palestine;c13;Recovered fibre pulp;;m3sw/tonne;0
+252;Unspecified Area;c13;Recovered fibre pulp;;m3sw/tonne;0
+254;Others (adjustment);c13;Recovered fibre pulp;;m3sw/tonne;0
 ;ASI;c13;Recovered fibre pulp;;m3sw/tonne;4,662
 ;EUR;c13;Recovered fibre pulp;;m3sw/tonne;4,284
 ;AFR;c13;Recovered fibre pulp;;m3sw/tonne;0
@@ -4608,7 +5281,6 @@ area_code;area;com_code;com_name;sub_com;unit;tcf
 59;Egypt;c14;Paper and Paperboard;;m3sw/tonne;0
 60;El Salvador;c14;Paper and Paperboard;;m3sw/tonne;0
 61;Equatorial Guinea;c14;Paper and Paperboard;;m3sw/tonne;0
-62;Ethiopia PDR;c14;Paper and Paperboard;;m3sw/tonne;0
 63;Estonia;c14;Paper and Paperboard;;m3sw/tonne;0
 64;Faroe Islands;c14;Paper and Paperboard;;m3sw/tonne;0
 65;Falkland Islands (Malvinas);c14;Paper and Paperboard;;m3sw/tonne;0
@@ -4644,7 +5316,7 @@ area_code;area;com_code;com_name;sub_com;unit;tcf
 104;Ireland;c14;Paper and Paperboard;;m3sw/tonne;0
 105;Israel;c14;Paper and Paperboard;;m3sw/tonne;0
 106;Italy;c14;Paper and Paperboard;;m3sw/tonne;0
-107;C?te d'Ivoire;c14;Paper and Paperboard;;m3sw/tonne;0
+107;Cote d'Ivoire;c14;Paper and Paperboard;;m3sw/tonne;0
 108;Kazakhstan;c14;Paper and Paperboard;;m3sw/tonne;0
 109;Jamaica;c14;Paper and Paperboard;;m3sw/tonne;0
 110;Japan;c14;Paper and Paperboard;;m3sw/tonne;0
@@ -4707,7 +5379,7 @@ area_code;area;com_code;com_name;sub_com;unit;tcf
 178;Eritrea;c14;Paper and Paperboard;;m3sw/tonne;0
 179;Qatar;c14;Paper and Paperboard;;m3sw/tonne;0
 181;Zimbabwe;c14;Paper and Paperboard;;m3sw/tonne;0
-182;R?union;c14;Paper and Paperboard;;m3sw/tonne;0
+182;Reunion;c14;Paper and Paperboard;;m3sw/tonne;0
 183;Romania;c14;Paper and Paperboard;;m3sw/tonne;0
 184;Rwanda;c14;Paper and Paperboard;;m3sw/tonne;0
 185;Russian Federation;c14;Paper and Paperboard;;m3sw/tonne;4,15
@@ -4725,7 +5397,6 @@ area_code;area;com_code;com_name;sub_com;unit;tcf
 200;Singapore;c14;Paper and Paperboard;;m3sw/tonne;0
 201;Somalia;c14;Paper and Paperboard;;m3sw/tonne;0
 202;South Africa;c14;Paper and Paperboard;;m3sw/tonne;0
-206;Sudan (former);c14;Paper and Paperboard;;m3sw/tonne;0
 203;Spain;c14;Paper and Paperboard;;m3sw/tonne;0
 207;Suriname;c14;Paper and Paperboard;;m3sw/tonne;0
 208;Tajikistan;c14;Paper and Paperboard;;m3sw/tonne;0
@@ -4767,6 +5438,40 @@ area_code;area;com_code;com_name;sub_com;unit;tcf
 273;Montenegro;c14;Paper and Paperboard;;m3sw/tonne;0
 276;Sudan;c14;Paper and Paperboard;;m3sw/tonne;0
 277;South Sudan;c14;Paper and Paperboard;;m3sw/tonne;0
+5;American Samoa;c14;Paper and Paperboard;;m3sw/tonne;0
+8;Antigua and Barbuda;c14;Paper and Paperboard;;m3sw/tonne;0
+17;Bermuda;c14;Paper and Paperboard;;m3sw/tonne;0
+24;British Indian Ocean Territory;c14;Paper and Paperboard;;m3sw/tonne;0
+36;Cayman Islands;c14;Paper and Paperboard;;m3sw/tonne;0
+43;Cocos (Keeling) Islands;c14;Paper and Paperboard;;m3sw/tonne;0
+71;French Southern and Antarctic Territories;c14;Paper and Paperboard;;m3sw/tonne;0
+85;Greenland;c14;Paper and Paperboard;;m3sw/tonne;0
+86;Grenada;c14;Paper and Paperboard;;m3sw/tonne;0
+88;Guam;c14;Paper and Paperboard;;m3sw/tonne;0
+94;Holy See;c14;Paper and Paperboard;;m3sw/tonne;0
+127;Marshall Islands;c14;Paper and Paperboard;;m3sw/tonne;0
+142;Montserrat;c14;Paper and Paperboard;;m3sw/tonne;0
+148;Nauru;c14;Paper and Paperboard;;m3sw/tonne;0
+163;Northern Mariana Islands;c14;Paper and Paperboard;;m3sw/tonne;0
+164;Pacific Islands Trust Territory;c14;Paper and Paperboard;;m3sw/tonne;0
+172;Pitcairn Islands;c14;Paper and Paperboard;;m3sw/tonne;0
+180;Palau;c14;Paper and Paperboard;;m3sw/tonne;0
+187;Saint Helena, Ascension and Tristan da Cunha;c14;Paper and Paperboard;;m3sw/tonne;0
+188;Saint Kitts and Nevis;c14;Paper and Paperboard;;m3sw/tonne;0
+192;San Marino;c14;Paper and Paperboard;;m3sw/tonne;0
+205;Western Sahara;c14;Paper and Paperboard;;m3sw/tonne;0
+218;Tokelau;c14;Paper and Paperboard;;m3sw/tonne;0
+227;Tuvalu;c14;Paper and Paperboard;;m3sw/tonne;0
+228;USSR;c14;Paper and Paperboard;;m3sw/tonne;0
+242;Wake Island;c14;Paper and Paperboard;;m3sw/tonne;0
+243;Wallis and Futuna Islands;c14;Paper and Paperboard;;m3sw/tonne;0
+248;Yugoslav SFR;c14;Paper and Paperboard;;m3sw/tonne;0
+258;Anguilla;c14;Paper and Paperboard;;m3sw/tonne;0
+279;Curaçao;c14;Paper and Paperboard;;m3sw/tonne;0
+281;Saint-Martin (French Part);c14;Paper and Paperboard;;m3sw/tonne;0
+299;Palestine;c14;Paper and Paperboard;;m3sw/tonne;0
+252;Unspecified Area;c14;Paper and Paperboard;;m3sw/tonne;0
+254;Others (adjustment);c14;Paper and Paperboard;;m3sw/tonne;0
 ;ASI;c14;Paper and Paperboard;;m3sw/tonne;3,5
 ;EUR;c14;Paper and Paperboard;;m3sw/tonne;3,95
 ;AFR;c14;Paper and Paperboard;;m3sw/tonne;0
@@ -4825,7 +5530,6 @@ area_code;area;com_code;com_name;sub_com;unit;tcf
 59;Egypt;c15;Wood pellets and other agglomerates;Wood pellets;m3sw/tonne;0
 60;El Salvador;c15;Wood pellets and other agglomerates;Wood pellets;m3sw/tonne;0
 61;Equatorial Guinea;c15;Wood pellets and other agglomerates;Wood pellets;m3sw/tonne;0
-62;Ethiopia PDR;c15;Wood pellets and other agglomerates;Wood pellets;m3sw/tonne;0
 63;Estonia;c15;Wood pellets and other agglomerates;Wood pellets;m3sw/tonne;0
 64;Faroe Islands;c15;Wood pellets and other agglomerates;Wood pellets;m3sw/tonne;0
 65;Falkland Islands (Malvinas);c15;Wood pellets and other agglomerates;Wood pellets;m3sw/tonne;0
@@ -4861,7 +5565,7 @@ area_code;area;com_code;com_name;sub_com;unit;tcf
 104;Ireland;c15;Wood pellets and other agglomerates;Wood pellets;m3sw/tonne;0
 105;Israel;c15;Wood pellets and other agglomerates;Wood pellets;m3sw/tonne;0
 106;Italy;c15;Wood pellets and other agglomerates;Wood pellets;m3sw/tonne;0
-107;C?te d'Ivoire;c15;Wood pellets and other agglomerates;Wood pellets;m3sw/tonne;0
+107;Cote d'Ivoire;c15;Wood pellets and other agglomerates;Wood pellets;m3sw/tonne;0
 108;Kazakhstan;c15;Wood pellets and other agglomerates;Wood pellets;m3sw/tonne;0
 109;Jamaica;c15;Wood pellets and other agglomerates;Wood pellets;m3sw/tonne;0
 110;Japan;c15;Wood pellets and other agglomerates;Wood pellets;m3sw/tonne;0
@@ -4924,7 +5628,7 @@ area_code;area;com_code;com_name;sub_com;unit;tcf
 178;Eritrea;c15;Wood pellets and other agglomerates;Wood pellets;m3sw/tonne;0
 179;Qatar;c15;Wood pellets and other agglomerates;Wood pellets;m3sw/tonne;0
 181;Zimbabwe;c15;Wood pellets and other agglomerates;Wood pellets;m3sw/tonne;0
-182;R?union;c15;Wood pellets and other agglomerates;Wood pellets;m3sw/tonne;0
+182;Reunion;c15;Wood pellets and other agglomerates;Wood pellets;m3sw/tonne;0
 183;Romania;c15;Wood pellets and other agglomerates;Wood pellets;m3sw/tonne;0
 184;Rwanda;c15;Wood pellets and other agglomerates;Wood pellets;m3sw/tonne;0
 185;Russian Federation;c15;Wood pellets and other agglomerates;Wood pellets;m3sw/tonne;0
@@ -4942,7 +5646,6 @@ area_code;area;com_code;com_name;sub_com;unit;tcf
 200;Singapore;c15;Wood pellets and other agglomerates;Wood pellets;m3sw/tonne;0
 201;Somalia;c15;Wood pellets and other agglomerates;Wood pellets;m3sw/tonne;0
 202;South Africa;c15;Wood pellets and other agglomerates;Wood pellets;m3sw/tonne;0
-206;Sudan (former);c15;Wood pellets and other agglomerates;Wood pellets;m3sw/tonne;0
 203;Spain;c15;Wood pellets and other agglomerates;Wood pellets;m3sw/tonne;0
 207;Suriname;c15;Wood pellets and other agglomerates;Wood pellets;m3sw/tonne;0
 208;Tajikistan;c15;Wood pellets and other agglomerates;Wood pellets;m3sw/tonne;0
@@ -4984,6 +5687,40 @@ area_code;area;com_code;com_name;sub_com;unit;tcf
 273;Montenegro;c15;Wood pellets and other agglomerates;Wood pellets;m3sw/tonne;0
 276;Sudan;c15;Wood pellets and other agglomerates;Wood pellets;m3sw/tonne;0
 277;South Sudan;c15;Wood pellets and other agglomerates;Wood pellets;m3sw/tonne;0
+5;American Samoa;c15;Wood pellets and other agglomerates;Wood pellets;m3sw/tonne;0
+8;Antigua and Barbuda;c15;Wood pellets and other agglomerates;Wood pellets;m3sw/tonne;0
+17;Bermuda;c15;Wood pellets and other agglomerates;Wood pellets;m3sw/tonne;0
+24;British Indian Ocean Territory;c15;Wood pellets and other agglomerates;Wood pellets;m3sw/tonne;0
+36;Cayman Islands;c15;Wood pellets and other agglomerates;Wood pellets;m3sw/tonne;0
+43;Cocos (Keeling) Islands;c15;Wood pellets and other agglomerates;Wood pellets;m3sw/tonne;0
+71;French Southern and Antarctic Territories;c15;Wood pellets and other agglomerates;Wood pellets;m3sw/tonne;0
+85;Greenland;c15;Wood pellets and other agglomerates;Wood pellets;m3sw/tonne;0
+86;Grenada;c15;Wood pellets and other agglomerates;Wood pellets;m3sw/tonne;0
+88;Guam;c15;Wood pellets and other agglomerates;Wood pellets;m3sw/tonne;0
+94;Holy See;c15;Wood pellets and other agglomerates;Wood pellets;m3sw/tonne;0
+127;Marshall Islands;c15;Wood pellets and other agglomerates;Wood pellets;m3sw/tonne;0
+142;Montserrat;c15;Wood pellets and other agglomerates;Wood pellets;m3sw/tonne;0
+148;Nauru;c15;Wood pellets and other agglomerates;Wood pellets;m3sw/tonne;0
+163;Northern Mariana Islands;c15;Wood pellets and other agglomerates;Wood pellets;m3sw/tonne;0
+164;Pacific Islands Trust Territory;c15;Wood pellets and other agglomerates;Wood pellets;m3sw/tonne;0
+172;Pitcairn Islands;c15;Wood pellets and other agglomerates;Wood pellets;m3sw/tonne;0
+180;Palau;c15;Wood pellets and other agglomerates;Wood pellets;m3sw/tonne;0
+187;Saint Helena, Ascension and Tristan da Cunha;c15;Wood pellets and other agglomerates;Wood pellets;m3sw/tonne;0
+188;Saint Kitts and Nevis;c15;Wood pellets and other agglomerates;Wood pellets;m3sw/tonne;0
+192;San Marino;c15;Wood pellets and other agglomerates;Wood pellets;m3sw/tonne;0
+205;Western Sahara;c15;Wood pellets and other agglomerates;Wood pellets;m3sw/tonne;0
+218;Tokelau;c15;Wood pellets and other agglomerates;Wood pellets;m3sw/tonne;0
+227;Tuvalu;c15;Wood pellets and other agglomerates;Wood pellets;m3sw/tonne;0
+228;USSR;c15;Wood pellets and other agglomerates;Wood pellets;m3sw/tonne;0
+242;Wake Island;c15;Wood pellets and other agglomerates;Wood pellets;m3sw/tonne;0
+243;Wallis and Futuna Islands;c15;Wood pellets and other agglomerates;Wood pellets;m3sw/tonne;0
+248;Yugoslav SFR;c15;Wood pellets and other agglomerates;Wood pellets;m3sw/tonne;0
+258;Anguilla;c15;Wood pellets and other agglomerates;Wood pellets;m3sw/tonne;0
+279;Curaçao;c15;Wood pellets and other agglomerates;Wood pellets;m3sw/tonne;0
+281;Saint-Martin (French Part);c15;Wood pellets and other agglomerates;Wood pellets;m3sw/tonne;0
+299;Palestine;c15;Wood pellets and other agglomerates;Wood pellets;m3sw/tonne;0
+252;Unspecified Area;c15;Wood pellets and other agglomerates;Wood pellets;m3sw/tonne;0
+254;Others (adjustment);c15;Wood pellets and other agglomerates;Wood pellets;m3sw/tonne;0
 ;ASI;c15;Wood pellets and other agglomerates;Wood pellets;m3sw/tonne;2,25
 ;EUR;c15;Wood pellets and other agglomerates;Wood pellets;m3sw/tonne;2,19
 ;AFR;c15;Wood pellets and other agglomerates;Wood pellets;m3sw/tonne;0
@@ -5042,7 +5779,6 @@ area_code;area;com_code;com_name;sub_com;unit;tcf
 59;Egypt;c15;Wood pellets and other agglomerates;Agglomerates;m3sw/tonne;0
 60;El Salvador;c15;Wood pellets and other agglomerates;Agglomerates;m3sw/tonne;0
 61;Equatorial Guinea;c15;Wood pellets and other agglomerates;Agglomerates;m3sw/tonne;0
-62;Ethiopia PDR;c15;Wood pellets and other agglomerates;Agglomerates;m3sw/tonne;0
 63;Estonia;c15;Wood pellets and other agglomerates;Agglomerates;m3sw/tonne;0
 64;Faroe Islands;c15;Wood pellets and other agglomerates;Agglomerates;m3sw/tonne;0
 65;Falkland Islands (Malvinas);c15;Wood pellets and other agglomerates;Agglomerates;m3sw/tonne;0
@@ -5078,7 +5814,7 @@ area_code;area;com_code;com_name;sub_com;unit;tcf
 104;Ireland;c15;Wood pellets and other agglomerates;Agglomerates;m3sw/tonne;0
 105;Israel;c15;Wood pellets and other agglomerates;Agglomerates;m3sw/tonne;0
 106;Italy;c15;Wood pellets and other agglomerates;Agglomerates;m3sw/tonne;0
-107;C?te d'Ivoire;c15;Wood pellets and other agglomerates;Agglomerates;m3sw/tonne;0
+107;Cote d'Ivoire;c15;Wood pellets and other agglomerates;Agglomerates;m3sw/tonne;0
 108;Kazakhstan;c15;Wood pellets and other agglomerates;Agglomerates;m3sw/tonne;0
 109;Jamaica;c15;Wood pellets and other agglomerates;Agglomerates;m3sw/tonne;0
 110;Japan;c15;Wood pellets and other agglomerates;Agglomerates;m3sw/tonne;0
@@ -5141,7 +5877,7 @@ area_code;area;com_code;com_name;sub_com;unit;tcf
 178;Eritrea;c15;Wood pellets and other agglomerates;Agglomerates;m3sw/tonne;0
 179;Qatar;c15;Wood pellets and other agglomerates;Agglomerates;m3sw/tonne;0
 181;Zimbabwe;c15;Wood pellets and other agglomerates;Agglomerates;m3sw/tonne;0
-182;R?union;c15;Wood pellets and other agglomerates;Agglomerates;m3sw/tonne;0
+182;Reunion;c15;Wood pellets and other agglomerates;Agglomerates;m3sw/tonne;0
 183;Romania;c15;Wood pellets and other agglomerates;Agglomerates;m3sw/tonne;0
 184;Rwanda;c15;Wood pellets and other agglomerates;Agglomerates;m3sw/tonne;0
 185;Russian Federation;c15;Wood pellets and other agglomerates;Agglomerates;m3sw/tonne;0
@@ -5159,7 +5895,6 @@ area_code;area;com_code;com_name;sub_com;unit;tcf
 200;Singapore;c15;Wood pellets and other agglomerates;Agglomerates;m3sw/tonne;0
 201;Somalia;c15;Wood pellets and other agglomerates;Agglomerates;m3sw/tonne;0
 202;South Africa;c15;Wood pellets and other agglomerates;Agglomerates;m3sw/tonne;0
-206;Sudan (former);c15;Wood pellets and other agglomerates;Agglomerates;m3sw/tonne;0
 203;Spain;c15;Wood pellets and other agglomerates;Agglomerates;m3sw/tonne;0
 207;Suriname;c15;Wood pellets and other agglomerates;Agglomerates;m3sw/tonne;0
 208;Tajikistan;c15;Wood pellets and other agglomerates;Agglomerates;m3sw/tonne;0
@@ -5201,6 +5936,40 @@ area_code;area;com_code;com_name;sub_com;unit;tcf
 273;Montenegro;c15;Wood pellets and other agglomerates;Agglomerates;m3sw/tonne;0
 276;Sudan;c15;Wood pellets and other agglomerates;Agglomerates;m3sw/tonne;0
 277;South Sudan;c15;Wood pellets and other agglomerates;Agglomerates;m3sw/tonne;0
+5;American Samoa;c15;Wood pellets and other agglomerates;Agglomerates;m3sw/tonne;0
+8;Antigua and Barbuda;c15;Wood pellets and other agglomerates;Agglomerates;m3sw/tonne;0
+17;Bermuda;c15;Wood pellets and other agglomerates;Agglomerates;m3sw/tonne;0
+24;British Indian Ocean Territory;c15;Wood pellets and other agglomerates;Agglomerates;m3sw/tonne;0
+36;Cayman Islands;c15;Wood pellets and other agglomerates;Agglomerates;m3sw/tonne;0
+43;Cocos (Keeling) Islands;c15;Wood pellets and other agglomerates;Agglomerates;m3sw/tonne;0
+71;French Southern and Antarctic Territories;c15;Wood pellets and other agglomerates;Agglomerates;m3sw/tonne;0
+85;Greenland;c15;Wood pellets and other agglomerates;Agglomerates;m3sw/tonne;0
+86;Grenada;c15;Wood pellets and other agglomerates;Agglomerates;m3sw/tonne;0
+88;Guam;c15;Wood pellets and other agglomerates;Agglomerates;m3sw/tonne;0
+94;Holy See;c15;Wood pellets and other agglomerates;Agglomerates;m3sw/tonne;0
+127;Marshall Islands;c15;Wood pellets and other agglomerates;Agglomerates;m3sw/tonne;0
+142;Montserrat;c15;Wood pellets and other agglomerates;Agglomerates;m3sw/tonne;0
+148;Nauru;c15;Wood pellets and other agglomerates;Agglomerates;m3sw/tonne;0
+163;Northern Mariana Islands;c15;Wood pellets and other agglomerates;Agglomerates;m3sw/tonne;0
+164;Pacific Islands Trust Territory;c15;Wood pellets and other agglomerates;Agglomerates;m3sw/tonne;0
+172;Pitcairn Islands;c15;Wood pellets and other agglomerates;Agglomerates;m3sw/tonne;0
+180;Palau;c15;Wood pellets and other agglomerates;Agglomerates;m3sw/tonne;0
+187;Saint Helena, Ascension and Tristan da Cunha;c15;Wood pellets and other agglomerates;Agglomerates;m3sw/tonne;0
+188;Saint Kitts and Nevis;c15;Wood pellets and other agglomerates;Agglomerates;m3sw/tonne;0
+192;San Marino;c15;Wood pellets and other agglomerates;Agglomerates;m3sw/tonne;0
+205;Western Sahara;c15;Wood pellets and other agglomerates;Agglomerates;m3sw/tonne;0
+218;Tokelau;c15;Wood pellets and other agglomerates;Agglomerates;m3sw/tonne;0
+227;Tuvalu;c15;Wood pellets and other agglomerates;Agglomerates;m3sw/tonne;0
+228;USSR;c15;Wood pellets and other agglomerates;Agglomerates;m3sw/tonne;0
+242;Wake Island;c15;Wood pellets and other agglomerates;Agglomerates;m3sw/tonne;0
+243;Wallis and Futuna Islands;c15;Wood pellets and other agglomerates;Agglomerates;m3sw/tonne;0
+248;Yugoslav SFR;c15;Wood pellets and other agglomerates;Agglomerates;m3sw/tonne;0
+258;Anguilla;c15;Wood pellets and other agglomerates;Agglomerates;m3sw/tonne;0
+279;Curaçao;c15;Wood pellets and other agglomerates;Agglomerates;m3sw/tonne;0
+281;Saint-Martin (French Part);c15;Wood pellets and other agglomerates;Agglomerates;m3sw/tonne;0
+299;Palestine;c15;Wood pellets and other agglomerates;Agglomerates;m3sw/tonne;0
+252;Unspecified Area;c15;Wood pellets and other agglomerates;Agglomerates;m3sw/tonne;0
+254;Others (adjustment);c15;Wood pellets and other agglomerates;Agglomerates;m3sw/tonne;0
 ;ASI;c15;Wood pellets and other agglomerates;Agglomerates;m3sw/tonne;0
 ;EUR;c15;Wood pellets and other agglomerates;Agglomerates;m3sw/tonne;1,83
 ;AFR;c15;Wood pellets and other agglomerates;Agglomerates;m3sw/tonne;0
@@ -5259,7 +6028,6 @@ area_code;area;com_code;com_name;sub_com;unit;tcf
 59;Egypt;c16;Wood charcoal;;m3sw/tonne;0
 60;El Salvador;c16;Wood charcoal;;m3sw/tonne;0
 61;Equatorial Guinea;c16;Wood charcoal;;m3sw/tonne;0
-62;Ethiopia PDR;c16;Wood charcoal;;m3sw/tonne;0
 63;Estonia;c16;Wood charcoal;;m3sw/tonne;0
 64;Faroe Islands;c16;Wood charcoal;;m3sw/tonne;0
 65;Falkland Islands (Malvinas);c16;Wood charcoal;;m3sw/tonne;0
@@ -5295,7 +6063,7 @@ area_code;area;com_code;com_name;sub_com;unit;tcf
 104;Ireland;c16;Wood charcoal;;m3sw/tonne;0
 105;Israel;c16;Wood charcoal;;m3sw/tonne;0
 106;Italy;c16;Wood charcoal;;m3sw/tonne;0
-107;C?te d'Ivoire;c16;Wood charcoal;;m3sw/tonne;0
+107;Cote d'Ivoire;c16;Wood charcoal;;m3sw/tonne;0
 108;Kazakhstan;c16;Wood charcoal;;m3sw/tonne;0
 109;Jamaica;c16;Wood charcoal;;m3sw/tonne;0
 110;Japan;c16;Wood charcoal;;m3sw/tonne;7,4
@@ -5358,7 +6126,7 @@ area_code;area;com_code;com_name;sub_com;unit;tcf
 178;Eritrea;c16;Wood charcoal;;m3sw/tonne;0
 179;Qatar;c16;Wood charcoal;;m3sw/tonne;0
 181;Zimbabwe;c16;Wood charcoal;;m3sw/tonne;0
-182;R?union;c16;Wood charcoal;;m3sw/tonne;0
+182;Reunion;c16;Wood charcoal;;m3sw/tonne;0
 183;Romania;c16;Wood charcoal;;m3sw/tonne;0
 184;Rwanda;c16;Wood charcoal;;m3sw/tonne;0
 185;Russian Federation;c16;Wood charcoal;;m3sw/tonne;0
@@ -5376,7 +6144,6 @@ area_code;area;com_code;com_name;sub_com;unit;tcf
 200;Singapore;c16;Wood charcoal;;m3sw/tonne;0
 201;Somalia;c16;Wood charcoal;;m3sw/tonne;0
 202;South Africa;c16;Wood charcoal;;m3sw/tonne;0
-206;Sudan (former);c16;Wood charcoal;;m3sw/tonne;0
 203;Spain;c16;Wood charcoal;;m3sw/tonne;0
 207;Suriname;c16;Wood charcoal;;m3sw/tonne;0
 208;Tajikistan;c16;Wood charcoal;;m3sw/tonne;0
@@ -5418,6 +6185,40 @@ area_code;area;com_code;com_name;sub_com;unit;tcf
 273;Montenegro;c16;Wood charcoal;;m3sw/tonne;0
 276;Sudan;c16;Wood charcoal;;m3sw/tonne;0
 277;South Sudan;c16;Wood charcoal;;m3sw/tonne;0
+5;American Samoa;c16;Wood charcoal;;m3sw/tonne;0
+8;Antigua and Barbuda;c16;Wood charcoal;;m3sw/tonne;0
+17;Bermuda;c16;Wood charcoal;;m3sw/tonne;0
+24;British Indian Ocean Territory;c16;Wood charcoal;;m3sw/tonne;0
+36;Cayman Islands;c16;Wood charcoal;;m3sw/tonne;0
+43;Cocos (Keeling) Islands;c16;Wood charcoal;;m3sw/tonne;0
+71;French Southern and Antarctic Territories;c16;Wood charcoal;;m3sw/tonne;0
+85;Greenland;c16;Wood charcoal;;m3sw/tonne;0
+86;Grenada;c16;Wood charcoal;;m3sw/tonne;0
+88;Guam;c16;Wood charcoal;;m3sw/tonne;0
+94;Holy See;c16;Wood charcoal;;m3sw/tonne;0
+127;Marshall Islands;c16;Wood charcoal;;m3sw/tonne;0
+142;Montserrat;c16;Wood charcoal;;m3sw/tonne;0
+148;Nauru;c16;Wood charcoal;;m3sw/tonne;0
+163;Northern Mariana Islands;c16;Wood charcoal;;m3sw/tonne;0
+164;Pacific Islands Trust Territory;c16;Wood charcoal;;m3sw/tonne;0
+172;Pitcairn Islands;c16;Wood charcoal;;m3sw/tonne;0
+180;Palau;c16;Wood charcoal;;m3sw/tonne;0
+187;Saint Helena, Ascension and Tristan da Cunha;c16;Wood charcoal;;m3sw/tonne;0
+188;Saint Kitts and Nevis;c16;Wood charcoal;;m3sw/tonne;0
+192;San Marino;c16;Wood charcoal;;m3sw/tonne;0
+205;Western Sahara;c16;Wood charcoal;;m3sw/tonne;0
+218;Tokelau;c16;Wood charcoal;;m3sw/tonne;0
+227;Tuvalu;c16;Wood charcoal;;m3sw/tonne;0
+228;USSR;c16;Wood charcoal;;m3sw/tonne;0
+242;Wake Island;c16;Wood charcoal;;m3sw/tonne;0
+243;Wallis and Futuna Islands;c16;Wood charcoal;;m3sw/tonne;0
+248;Yugoslav SFR;c16;Wood charcoal;;m3sw/tonne;0
+258;Anguilla;c16;Wood charcoal;;m3sw/tonne;0
+279;Curaçao;c16;Wood charcoal;;m3sw/tonne;0
+281;Saint-Martin (French Part);c16;Wood charcoal;;m3sw/tonne;0
+299;Palestine;c16;Wood charcoal;;m3sw/tonne;0
+252;Unspecified Area;c16;Wood charcoal;;m3sw/tonne;0
+254;Others (adjustment);c16;Wood charcoal;;m3sw/tonne;0
 ;ASI;c16;Wood charcoal;;m3sw/tonne;6,13
 ;EUR;c16;Wood charcoal;;m3sw/tonne;5,93
 ;AFR;c16;Wood charcoal;;m3sw/tonne;0
@@ -5476,7 +6277,6 @@ area_code;area;com_code;com_name;sub_com;unit;tcf
 59;Egypt;c17;Wood chips and particles;;m3p/m3sw;0
 60;El Salvador;c17;Wood chips and particles;;m3p/m3sw;0
 61;Equatorial Guinea;c17;Wood chips and particles;;m3p/m3sw;0
-62;Ethiopia PDR;c17;Wood chips and particles;;m3p/m3sw;0
 63;Estonia;c17;Wood chips and particles;;m3p/m3sw;0
 64;Faroe Islands;c17;Wood chips and particles;;m3p/m3sw;0
 65;Falkland Islands (Malvinas);c17;Wood chips and particles;;m3p/m3sw;0
@@ -5512,7 +6312,7 @@ area_code;area;com_code;com_name;sub_com;unit;tcf
 104;Ireland;c17;Wood chips and particles;;m3p/m3sw;2,7
 105;Israel;c17;Wood chips and particles;;m3p/m3sw;0
 106;Italy;c17;Wood chips and particles;;m3p/m3sw;0
-107;C?te d'Ivoire;c17;Wood chips and particles;;m3p/m3sw;0
+107;Cote d'Ivoire;c17;Wood chips and particles;;m3p/m3sw;0
 108;Kazakhstan;c17;Wood chips and particles;;m3p/m3sw;0
 109;Jamaica;c17;Wood chips and particles;;m3p/m3sw;0
 110;Japan;c17;Wood chips and particles;;m3p/m3sw;0
@@ -5575,7 +6375,7 @@ area_code;area;com_code;com_name;sub_com;unit;tcf
 178;Eritrea;c17;Wood chips and particles;;m3p/m3sw;0
 179;Qatar;c17;Wood chips and particles;;m3p/m3sw;0
 181;Zimbabwe;c17;Wood chips and particles;;m3p/m3sw;0
-182;R?union;c17;Wood chips and particles;;m3p/m3sw;0
+182;Reunion;c17;Wood chips and particles;;m3p/m3sw;0
 183;Romania;c17;Wood chips and particles;;m3p/m3sw;0
 184;Rwanda;c17;Wood chips and particles;;m3p/m3sw;0
 185;Russian Federation;c17;Wood chips and particles;;m3p/m3sw;2,78
@@ -5593,7 +6393,6 @@ area_code;area;com_code;com_name;sub_com;unit;tcf
 200;Singapore;c17;Wood chips and particles;;m3p/m3sw;0
 201;Somalia;c17;Wood chips and particles;;m3p/m3sw;0
 202;South Africa;c17;Wood chips and particles;;m3p/m3sw;3,76
-206;Sudan (former);c17;Wood chips and particles;;m3p/m3sw;0
 203;Spain;c17;Wood chips and particles;;m3p/m3sw;0
 207;Suriname;c17;Wood chips and particles;;m3p/m3sw;0
 208;Tajikistan;c17;Wood chips and particles;;m3p/m3sw;0
@@ -5635,6 +6434,40 @@ area_code;area;com_code;com_name;sub_com;unit;tcf
 273;Montenegro;c17;Wood chips and particles;;m3p/m3sw;0
 276;Sudan;c17;Wood chips and particles;;m3p/m3sw;0
 277;South Sudan;c17;Wood chips and particles;;m3p/m3sw;0
+5;American Samoa;c17;Wood chips and particles;;m3p/m3sw;0
+8;Antigua and Barbuda;c17;Wood chips and particles;;m3p/m3sw;0
+17;Bermuda;c17;Wood chips and particles;;m3p/m3sw;0
+24;British Indian Ocean Territory;c17;Wood chips and particles;;m3p/m3sw;0
+36;Cayman Islands;c17;Wood chips and particles;;m3p/m3sw;0
+43;Cocos (Keeling) Islands;c17;Wood chips and particles;;m3p/m3sw;0
+71;French Southern and Antarctic Territories;c17;Wood chips and particles;;m3p/m3sw;0
+85;Greenland;c17;Wood chips and particles;;m3p/m3sw;0
+86;Grenada;c17;Wood chips and particles;;m3p/m3sw;0
+88;Guam;c17;Wood chips and particles;;m3p/m3sw;0
+94;Holy See;c17;Wood chips and particles;;m3p/m3sw;0
+127;Marshall Islands;c17;Wood chips and particles;;m3p/m3sw;0
+142;Montserrat;c17;Wood chips and particles;;m3p/m3sw;0
+148;Nauru;c17;Wood chips and particles;;m3p/m3sw;0
+163;Northern Mariana Islands;c17;Wood chips and particles;;m3p/m3sw;0
+164;Pacific Islands Trust Territory;c17;Wood chips and particles;;m3p/m3sw;0
+172;Pitcairn Islands;c17;Wood chips and particles;;m3p/m3sw;0
+180;Palau;c17;Wood chips and particles;;m3p/m3sw;0
+187;Saint Helena, Ascension and Tristan da Cunha;c17;Wood chips and particles;;m3p/m3sw;0
+188;Saint Kitts and Nevis;c17;Wood chips and particles;;m3p/m3sw;0
+192;San Marino;c17;Wood chips and particles;;m3p/m3sw;0
+205;Western Sahara;c17;Wood chips and particles;;m3p/m3sw;0
+218;Tokelau;c17;Wood chips and particles;;m3p/m3sw;0
+227;Tuvalu;c17;Wood chips and particles;;m3p/m3sw;0
+228;USSR;c17;Wood chips and particles;;m3p/m3sw;0
+242;Wake Island;c17;Wood chips and particles;;m3p/m3sw;0
+243;Wallis and Futuna Islands;c17;Wood chips and particles;;m3p/m3sw;0
+248;Yugoslav SFR;c17;Wood chips and particles;;m3p/m3sw;0
+258;Anguilla;c17;Wood chips and particles;;m3p/m3sw;0
+279;Curaçao;c17;Wood chips and particles;;m3p/m3sw;0
+281;Saint-Martin (French Part);c17;Wood chips and particles;;m3p/m3sw;0
+299;Palestine;c17;Wood chips and particles;;m3p/m3sw;0
+252;Unspecified Area;c17;Wood chips and particles;;m3p/m3sw;0
+254;Others (adjustment);c17;Wood chips and particles;;m3p/m3sw;0
 ;ASI;c17;Wood chips and particles;;m3p/m3sw;2,88
 ;EUR;c17;Wood chips and particles;;m3p/m3sw;2,84
 ;AFR;c17;Wood chips and particles;;m3p/m3sw;3,76
@@ -5693,7 +6526,6 @@ area_code;area;com_code;com_name;sub_com;unit;tcf
 59;Egypt;c18;Wood residues;;m3p/m3sw;0
 60;El Salvador;c18;Wood residues;;m3p/m3sw;0
 61;Equatorial Guinea;c18;Wood residues;;m3p/m3sw;0
-62;Ethiopia PDR;c18;Wood residues;;m3p/m3sw;0
 63;Estonia;c18;Wood residues;;m3p/m3sw;0
 64;Faroe Islands;c18;Wood residues;;m3p/m3sw;0
 65;Falkland Islands (Malvinas);c18;Wood residues;;m3p/m3sw;0
@@ -5729,7 +6561,7 @@ area_code;area;com_code;com_name;sub_com;unit;tcf
 104;Ireland;c18;Wood residues;;m3p/m3sw;2,7
 105;Israel;c18;Wood residues;;m3p/m3sw;0
 106;Italy;c18;Wood residues;;m3p/m3sw;0
-107;C?te d'Ivoire;c18;Wood residues;;m3p/m3sw;0
+107;Cote d'Ivoire;c18;Wood residues;;m3p/m3sw;0
 108;Kazakhstan;c18;Wood residues;;m3p/m3sw;0
 109;Jamaica;c18;Wood residues;;m3p/m3sw;0
 110;Japan;c18;Wood residues;;m3p/m3sw;0
@@ -5792,7 +6624,7 @@ area_code;area;com_code;com_name;sub_com;unit;tcf
 178;Eritrea;c18;Wood residues;;m3p/m3sw;0
 179;Qatar;c18;Wood residues;;m3p/m3sw;0
 181;Zimbabwe;c18;Wood residues;;m3p/m3sw;0
-182;R?union;c18;Wood residues;;m3p/m3sw;0
+182;Reunion;c18;Wood residues;;m3p/m3sw;0
 183;Romania;c18;Wood residues;;m3p/m3sw;0
 184;Rwanda;c18;Wood residues;;m3p/m3sw;0
 185;Russian Federation;c18;Wood residues;;m3p/m3sw;3,03
@@ -5810,7 +6642,6 @@ area_code;area;com_code;com_name;sub_com;unit;tcf
 200;Singapore;c18;Wood residues;;m3p/m3sw;0
 201;Somalia;c18;Wood residues;;m3p/m3sw;0
 202;South Africa;c18;Wood residues;;m3p/m3sw;3,76
-206;Sudan (former);c18;Wood residues;;m3p/m3sw;0
 203;Spain;c18;Wood residues;;m3p/m3sw;0
 207;Suriname;c18;Wood residues;;m3p/m3sw;0
 208;Tajikistan;c18;Wood residues;;m3p/m3sw;0
@@ -5852,6 +6683,40 @@ area_code;area;com_code;com_name;sub_com;unit;tcf
 273;Montenegro;c18;Wood residues;;m3p/m3sw;0
 276;Sudan;c18;Wood residues;;m3p/m3sw;0
 277;South Sudan;c18;Wood residues;;m3p/m3sw;0
+5;American Samoa;c18;Wood residues;;m3p/m3sw;0
+8;Antigua and Barbuda;c18;Wood residues;;m3p/m3sw;0
+17;Bermuda;c18;Wood residues;;m3p/m3sw;0
+24;British Indian Ocean Territory;c18;Wood residues;;m3p/m3sw;0
+36;Cayman Islands;c18;Wood residues;;m3p/m3sw;0
+43;Cocos (Keeling) Islands;c18;Wood residues;;m3p/m3sw;0
+71;French Southern and Antarctic Territories;c18;Wood residues;;m3p/m3sw;0
+85;Greenland;c18;Wood residues;;m3p/m3sw;0
+86;Grenada;c18;Wood residues;;m3p/m3sw;0
+88;Guam;c18;Wood residues;;m3p/m3sw;0
+94;Holy See;c18;Wood residues;;m3p/m3sw;0
+127;Marshall Islands;c18;Wood residues;;m3p/m3sw;0
+142;Montserrat;c18;Wood residues;;m3p/m3sw;0
+148;Nauru;c18;Wood residues;;m3p/m3sw;0
+163;Northern Mariana Islands;c18;Wood residues;;m3p/m3sw;0
+164;Pacific Islands Trust Territory;c18;Wood residues;;m3p/m3sw;0
+172;Pitcairn Islands;c18;Wood residues;;m3p/m3sw;0
+180;Palau;c18;Wood residues;;m3p/m3sw;0
+187;Saint Helena, Ascension and Tristan da Cunha;c18;Wood residues;;m3p/m3sw;0
+188;Saint Kitts and Nevis;c18;Wood residues;;m3p/m3sw;0
+192;San Marino;c18;Wood residues;;m3p/m3sw;0
+205;Western Sahara;c18;Wood residues;;m3p/m3sw;0
+218;Tokelau;c18;Wood residues;;m3p/m3sw;0
+227;Tuvalu;c18;Wood residues;;m3p/m3sw;0
+228;USSR;c18;Wood residues;;m3p/m3sw;0
+242;Wake Island;c18;Wood residues;;m3p/m3sw;0
+243;Wallis and Futuna Islands;c18;Wood residues;;m3p/m3sw;0
+248;Yugoslav SFR;c18;Wood residues;;m3p/m3sw;0
+258;Anguilla;c18;Wood residues;;m3p/m3sw;0
+279;Curaçao;c18;Wood residues;;m3p/m3sw;0
+281;Saint-Martin (French Part);c18;Wood residues;;m3p/m3sw;0
+299;Palestine;c18;Wood residues;;m3p/m3sw;0
+252;Unspecified Area;c18;Wood residues;;m3p/m3sw;0
+254;Others (adjustment);c18;Wood residues;;m3p/m3sw;0
 ;ASI;c18;Wood residues;;m3p/m3sw;2,88
 ;EUR;c18;Wood residues;;m3p/m3sw;2,93
 ;AFR;c18;Wood residues;;m3p/m3sw;3,41
@@ -5910,7 +6775,6 @@ area_code;area;com_code;com_name;sub_com;unit;tcf
 59;Egypt;c18;Wood residues;;m3sw/tonne;0
 60;El Salvador;c18;Wood residues;;m3sw/tonne;0
 61;Equatorial Guinea;c18;Wood residues;;m3sw/tonne;0
-62;Ethiopia PDR;c18;Wood residues;;m3sw/tonne;0
 63;Estonia;c18;Wood residues;;m3sw/tonne;0
 64;Faroe Islands;c18;Wood residues;;m3sw/tonne;0
 65;Falkland Islands (Malvinas);c18;Wood residues;;m3sw/tonne;0
@@ -5946,7 +6810,7 @@ area_code;area;com_code;com_name;sub_com;unit;tcf
 104;Ireland;c18;Wood residues;;m3sw/tonne;5,8658
 105;Israel;c18;Wood residues;;m3sw/tonne;0
 106;Italy;c18;Wood residues;;m3sw/tonne;0
-107;C?te d'Ivoire;c18;Wood residues;;m3sw/tonne;0
+107;Cote d'Ivoire;c18;Wood residues;;m3sw/tonne;0
 108;Kazakhstan;c18;Wood residues;;m3sw/tonne;0
 109;Jamaica;c18;Wood residues;;m3sw/tonne;0
 110;Japan;c18;Wood residues;;m3sw/tonne;0
@@ -6009,7 +6873,7 @@ area_code;area;com_code;com_name;sub_com;unit;tcf
 178;Eritrea;c18;Wood residues;;m3sw/tonne;0
 179;Qatar;c18;Wood residues;;m3sw/tonne;0
 181;Zimbabwe;c18;Wood residues;;m3sw/tonne;0
-182;R?union;c18;Wood residues;;m3sw/tonne;0
+182;Reunion;c18;Wood residues;;m3sw/tonne;0
 183;Romania;c18;Wood residues;;m3sw/tonne;0
 184;Rwanda;c18;Wood residues;;m3sw/tonne;0
 185;Russian Federation;c18;Wood residues;;m3sw/tonne;0
@@ -6027,7 +6891,6 @@ area_code;area;com_code;com_name;sub_com;unit;tcf
 200;Singapore;c18;Wood residues;;m3sw/tonne;0
 201;Somalia;c18;Wood residues;;m3sw/tonne;0
 202;South Africa;c18;Wood residues;;m3sw/tonne;4,0748
-206;Sudan (former);c18;Wood residues;;m3sw/tonne;0
 203;Spain;c18;Wood residues;;m3sw/tonne;0
 207;Suriname;c18;Wood residues;;m3sw/tonne;0
 208;Tajikistan;c18;Wood residues;;m3sw/tonne;0
@@ -6069,6 +6932,40 @@ area_code;area;com_code;com_name;sub_com;unit;tcf
 273;Montenegro;c18;Wood residues;;m3sw/tonne;0
 276;Sudan;c18;Wood residues;;m3sw/tonne;0
 277;South Sudan;c18;Wood residues;;m3sw/tonne;0
+5;American Samoa;c18;Wood residues;;m3sw/tonne;0
+8;Antigua and Barbuda;c18;Wood residues;;m3sw/tonne;0
+17;Bermuda;c18;Wood residues;;m3sw/tonne;0
+24;British Indian Ocean Territory;c18;Wood residues;;m3sw/tonne;0
+36;Cayman Islands;c18;Wood residues;;m3sw/tonne;0
+43;Cocos (Keeling) Islands;c18;Wood residues;;m3sw/tonne;0
+71;French Southern and Antarctic Territories;c18;Wood residues;;m3sw/tonne;0
+85;Greenland;c18;Wood residues;;m3sw/tonne;0
+86;Grenada;c18;Wood residues;;m3sw/tonne;0
+88;Guam;c18;Wood residues;;m3sw/tonne;0
+94;Holy See;c18;Wood residues;;m3sw/tonne;0
+127;Marshall Islands;c18;Wood residues;;m3sw/tonne;0
+142;Montserrat;c18;Wood residues;;m3sw/tonne;0
+148;Nauru;c18;Wood residues;;m3sw/tonne;0
+163;Northern Mariana Islands;c18;Wood residues;;m3sw/tonne;0
+164;Pacific Islands Trust Territory;c18;Wood residues;;m3sw/tonne;0
+172;Pitcairn Islands;c18;Wood residues;;m3sw/tonne;0
+180;Palau;c18;Wood residues;;m3sw/tonne;0
+187;Saint Helena, Ascension and Tristan da Cunha;c18;Wood residues;;m3sw/tonne;0
+188;Saint Kitts and Nevis;c18;Wood residues;;m3sw/tonne;0
+192;San Marino;c18;Wood residues;;m3sw/tonne;0
+205;Western Sahara;c18;Wood residues;;m3sw/tonne;0
+218;Tokelau;c18;Wood residues;;m3sw/tonne;0
+227;Tuvalu;c18;Wood residues;;m3sw/tonne;0
+228;USSR;c18;Wood residues;;m3sw/tonne;0
+242;Wake Island;c18;Wood residues;;m3sw/tonne;0
+243;Wallis and Futuna Islands;c18;Wood residues;;m3sw/tonne;0
+248;Yugoslav SFR;c18;Wood residues;;m3sw/tonne;0
+258;Anguilla;c18;Wood residues;;m3sw/tonne;0
+279;Curaçao;c18;Wood residues;;m3sw/tonne;0
+281;Saint-Martin (French Part);c18;Wood residues;;m3sw/tonne;0
+299;Palestine;c18;Wood residues;;m3sw/tonne;0
+252;Unspecified Area;c18;Wood residues;;m3sw/tonne;0
+254;Others (adjustment);c18;Wood residues;;m3sw/tonne;0
 ;ASI;c18;Wood residues;;m3sw/tonne;3,9808
 ;EUR;c18;Wood residues;;m3sw/tonne;4,7671
 ;AFR;c18;Wood residues;;m3sw/tonne;3,64415
