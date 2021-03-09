@@ -15,7 +15,7 @@ fore <- readRDS("input/fore_prod_tidy.rds")
 btd <- readRDS("input/btd_tidy.rds")
 
 fore[, `:=`(com_code = items$com_code[match(fore$item_code, items$item_code)],
-  item = items$com_code[match(fore$item_code, items$item_code)],
+  item = items$item[match(fore$item_code, items$item_code)],
   item_code = NULL)]
 
 fore[, `:=`(total_supply = na_sum(production, imports),
