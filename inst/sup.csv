@@ -1,4 +1,4 @@
-proc_code,process,com_code,com_name,type
+proc_code,process,com_code,item,type
 p01,"Roundwood production, coniferous",c01,"Industrial roundwood, coniferous",100%
 p02,"Roundwood production, non-coniferous",c02,"Industrial roundwood, non-coniferous",100%
 p03,Wood fuel production,c03,Wood fuel,100%

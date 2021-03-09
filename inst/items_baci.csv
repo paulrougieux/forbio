@@ -1,4 +1,4 @@
-com_code,item_name,baci_code,conversion_factor,version92,version12,unit,unit_fao
+com_code,item,baci_code,conversion_factor,version92,version12,unit,unit_fao
 c03,Wood fuel,440110,1,92,92,tonnes,m3
 c09,Particle board,441010,swe,92,,tonnes,m3
 c09,Particle board,441011,swe,,12,tonnes,m3

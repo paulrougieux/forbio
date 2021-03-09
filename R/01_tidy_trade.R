@@ -32,10 +32,10 @@ baci[exporter == 736, exporter := 729]
 # Country concordance
 importer_match <- match(baci[["importer"]], regions[["baci_code"]])
 exporter_match <- match(baci[["exporter"]], regions[["baci_code"]])
-baci[, `:=`(importer = regions$name[importer_match],
-  importer_code = regions$code[importer_match],
-  exporter = regions$name[exporter_match],
-  exporter_code = regions$code[exporter_match])]
+baci[, `:=`(importer = regions$area[importer_match],
+  importer_code = regions$area_code[importer_match],
+  exporter = regions$area[exporter_match],
+  exporter_code = regions$area_code[exporter_match])]
 
 baci <- dt_filter(baci, !is.na(importer) & !is.na(exporter))
 
@@ -45,8 +45,6 @@ baci[, `:=`(usd = `1000 US$` * 1000, `1000 US$` = NULL)]
 # Introduce unit variable
 baci <- melt(baci, measure.vars = c("usd", "tonnes"),
   variable.name = "unit", variable.factor = FALSE)
-
-baci <- baci[unit != "usd"]
 
 # Store
 saveRDS(baci, "input/baci_tidy.rds")

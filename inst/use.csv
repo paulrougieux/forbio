@@ -1,4 +1,4 @@
-proc_code,process,com_code,item_name,com_code_output,item_name_output,share
+proc_code,process,com_code,item,com_code_output,item_output,share
 "p04,""Sawnmill industry, coniferous"",c01,""Industrial roundwood, coniferous"",c04,""Sawnwood, coniferous"",1"
 "p05,""Sawnmill industry, non-coniferous"",c02,""Industrial roundwood, non-coniferous"",c05,""Sawnwood, non-coniferous all"",1"
 "p06,Veneer production,c01,""Industrial roundwood, coniferous"",c06,Veneer sheets,1"

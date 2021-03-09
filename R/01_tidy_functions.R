@@ -79,7 +79,7 @@ area_fix <- function(x, regions, col = "area_code") {
 
   col_name <- gsub("(.*)_code", "\\1", col)
 
-  matched <- match(x[[col]], regions[["code"]])
+  matched <- match(x[[col]], regions[["area_code"]])
   if(any(is.na(matched))) {
     na_codes <- unique(x[[col]][is.na(matched)])
     if(all(na_codes >= 5000)) {
@@ -94,7 +94,7 @@ area_fix <- function(x, regions, col = "area_code") {
         ".\n")
     }
   }
-  x[[col_name]] <- regions[matched, name]
+  x[[col_name]] <- regions[matched, area]
 
   return(x)
 }

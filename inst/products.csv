@@ -1,4 +1,4 @@
-com_code,item_name,item_code,unit
+com_code,item,item_code,unit
 c01,"Industrial roundwood, coniferous",1866,m3
 c02,"Industrial roundwood, non-coniferous",1867,m3
 c03,Wood fuel,1864,m3

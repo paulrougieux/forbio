@@ -123,7 +123,7 @@ fore_trad[, imex := factor(gsub("^(Import|Export) (.*)$", "\\1", element))]
 cat("Aggregating forestry trade items to the level of forestry production.\n")
 item_match <- match(fore_trad[["item_code"]], items_trade[["trade_code"]])
 fore_trad[, `:=`(item_code = items_trade$item_code[item_match],
-  item = items_trade$item_name[item_match])]
+  item = items_trade$item[item_match])]
 fore_trad <- fore_trad[, list(value = na_sum(value)),
   by = .(reporter_code, reporter, partner_code, partner,
     item_code, item, year, imex, unit)]

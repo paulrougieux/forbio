@@ -3,14 +3,13 @@ library("data.table")
 library("Matrix")
 source("R/01_tidy_functions.R")
 
-years <- 1986:2013
 
 
 # BTD ---------------------------------------------------------------------
 
 cat("\nEstimating BTD from CBS.\n")
 
-cbs <- readRDS("data/cbs_full.rds")
+cbs <- readRDS("data/cbs.rds")
 
 # dt_replace(cbs, fun = is.na, value = 0, cols = c("imports", "exports"))
 

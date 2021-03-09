@@ -1,4 +1,4 @@
-"code","name","iso3c","continent","baci","baci_code"
+"area_code","area","iso3c","continent","baci","baci_code"
 1,"Armenia","ARM","ASI",TRUE,51
 2,"Afghanistan","AFG","ASI",TRUE,4
 3,"Albania","ALB","EUR",TRUE,8

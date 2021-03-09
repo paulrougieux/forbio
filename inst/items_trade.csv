@@ -1,4 +1,4 @@
-com_code,item_name,item_code,trade_code,unit
+com_code,item,item_code,trade_code,unit
 c01,"Industrial roundwood, coniferous",1866,1651,m3
 c02,"Industrial roundwood, non-coniferous",1867,1670,m3
 c02,"Industrial roundwood, non-coniferous",1867,1657,m3
