@@ -59,12 +59,7 @@ cat("\nPreparing to estimate trade shares. Around (16GB?) of RAM are required.\n
 # Spread exports according to import shares
 est_exp <- lapply(colnames(cbs_imp), spread_trade, cbs_imp, cbs_exp)
 names(est_exp) <- colnames(cbs_imp)
-
-##ZR: starting here I got an error, see #04_Error.R;
-##I then corrected sth earlier; it worked but I got warnings
-
 est_exp <- lapply(colnames(cbs_imp), build_estimates, est_exp, cbs_ids)
-
 est_exp <- rbindlist(est_exp)
 est_exp <- est_exp[, .(year, com_code,
   to_code = area_code, from_code = inp_code, exp_spread = value)]
@@ -76,37 +71,6 @@ est_imp <- lapply(colnames(cbs_exp), build_estimates, est_imp, cbs_ids)
 est_imp <- rbindlist(est_imp)
 est_imp <- est_imp[, .(year, com_code,
   from_code = area_code, to_code = inp_code, imp_spread = value)]
-
-##ZR: After this I got again warning "NAs introdcuted by coercion"
-## Error in eval(jsub, SDenv, parent.frame()) : object 'area' not found
-#6.eval(jsub, SDenv, parent.frame())
-#5.eval(jsub, SDenv, parent.frame())
-#4.`[.data.table`(out, , `:=`(year = as.integer(year), com_code = as.integer(com_code), 
-#                         area_code = as.integer(area_code), inp_code = as.integer(area)))
-#3.out[, `:=`(year = as.integer(year), com_code = as.integer(com_code), 
-#           area_code = as.integer(area_code), inp_code = as.integer(area))]
-#2.FUN(X[[i]], ...)
-#1.lapply(colnames(cbs_imp), build_estimates, est_exp, cbs_ids)
-
-## I think error is in this function
-# build_estimates <- function(name, list, ids, kick_0 = TRUE) {
-#   x <- list[[name]]
-#   out <- melt(cbind(ids, as.matrix(x)),
-#      id.vars = c("year", "com_code"), na.rm = TRUE,
-#      variable.name = "area_code", variable.factor = FALSE)
-#   if(nrow(out) == 0) {return(NULL)}
-#   # Make sure encoding is right, to reduce memory load
-#    out[, `:=`(year = as.integer(year), com_code = as.integer(com_code),
-#        area_code = as.integer(area_code), inp_code = as.integer(area))]
-#      # Consider not carrying over 0 values
-#      if(kick_0) {out[value != 0, ]} else{out}
-#      }
-## Exactly in this:
-# area_code = as.integer(area_code), inp_code = as.integer(area_code))]
-
-# but then I got other warning messages
-#Warning messages:
-# 1: In eval(jsub, SDenv, parent.frame()) : NAs introduced by coercion
 
 rm(cbs_exp, cbs_imp, cbs_ids); gc()
 
