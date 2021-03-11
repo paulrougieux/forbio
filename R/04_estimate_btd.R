@@ -14,19 +14,19 @@ cbs <- readRDS("data/cbs.rds")
 # dt_replace(cbs, fun = is.na, value = 0, cols = c("imports", "exports"))
 
 # Cast import and export columns
-cbs_imp <- data.table::dcast(cbs[year %in% years, c("area_code", "year", "item_code", "imports")],
-  year + item_code ~ area_code, value.var = "imports", fun.aggregate = na_sum,
+cbs_imp <- data.table::dcast(cbs[year %in% year, c("area_code", "year", "com_code", "imports")],
+  year + com_code ~ area_code, value.var = "imports", fun.aggregate = na_sum,
   fill = 0)
-cbs_exp <- data.table::dcast(cbs[year %in% years, c("area_code", "year", "item_code", "exports")],
-  year + item_code ~ area_code, value.var = "exports", fun.aggregate = na_sum,
+cbs_exp <- data.table::dcast(cbs[year %in% year, c("area_code", "year", "com_code", "exports")],
+  year + com_code ~ area_code, value.var = "exports", fun.aggregate = na_sum,
   fill = 0)
 
 rm(cbs); gc()
 
-# Check equivalence of year, item_code and areas.
+# Check equivalence of year, com_code and areas.
 stopifnot(all(cbs_exp[, c(1, 2)] == cbs_imp[, c(1, 2)]),
   all(names(cbs_exp) == names(cbs_imp)))
-cbs_ids <- cbs_imp[, c("year", "item_code")]
+cbs_ids <- cbs_imp[, c("year", "com_code")]
 
 # Use the Matrix package for efficient operations
 cbs_imp <- as(cbs_imp[, c(-1, -2)], "Matrix")
@@ -43,25 +43,25 @@ spread_trade <- function(x, split_matr, inp_matr) {
 build_estimates <- function(name, list, ids, kick_0 = TRUE) {
   x <- list[[name]]
   out <- melt(cbind(ids, as.matrix(x)),
-              id.vars = c("year", "item_code"), na.rm = TRUE,
+              id.vars = c("year", "com_code"), na.rm = TRUE,
               variable.name = "area_code", variable.factor = FALSE)
   if(nrow(out) == 0) {return(NULL)}
   # Make sure encoding is right, to reduce memory load
-  out[, `:=`(year = as.integer(year), item_code = as.integer(item_code),
+  out[, `:=`(year = as.integer(year), com_code = as.character(com_code),
     area_code = as.integer(area_code), inp_code = as.integer(name))]
   # Consider not carrying over 0 values
   if(kick_0) {out[value != 0, ]} else{out}
 }
 
 
-cat("\nPreparing to estimate trade shares. Around 16GB of RAM are required.\n")
+cat("\nPreparing to estimate trade shares. Around (16?)GB of RAM are required.\n")
 
 # Spread exports according to import shares
 est_exp <- lapply(colnames(cbs_imp), spread_trade, cbs_imp, cbs_exp)
 names(est_exp) <- colnames(cbs_imp)
 est_exp <- lapply(colnames(cbs_imp), build_estimates, est_exp, cbs_ids)
 est_exp <- rbindlist(est_exp)
-est_exp <- est_exp[, .(year, item_code,
+est_exp <- est_exp[, .(year, com_code,
   to_code = area_code, from_code = inp_code, exp_spread = value)]
 
 # Spread imports according to export shares
@@ -69,14 +69,15 @@ est_imp <- lapply(colnames(cbs_exp), spread_trade, cbs_exp, cbs_imp)
 names(est_imp) <- colnames(cbs_exp)
 est_imp <- lapply(colnames(cbs_exp), build_estimates, est_imp, cbs_ids)
 est_imp <- rbindlist(est_imp)
-est_imp <- est_imp[, .(year, item_code,
+est_imp <- est_imp[, .(year, com_code,
   from_code = area_code, to_code = inp_code, imp_spread = value)]
 
 rm(cbs_exp, cbs_imp, cbs_ids); gc()
 
 # Merge import-share and export-share based estimates
 btd_est <- merge(est_exp, est_imp,
-  by = c("year", "item_code", "from_code", "to_code"), all = TRUE)
+  by = c("year", "com_code", "from_code", "to_code"), all = TRUE)
+
 rm(est_exp, est_imp); gc()
 
 # Average the estimates - note that 0 estimates may be considered NA
@@ -85,3 +86,4 @@ btd_est[, `:=`(value = (imp_spread + exp_spread) / 2,
 
 # Store result ------------------------------------------------------------
 saveRDS(btd_est, "data/btd_est.rds")
+
