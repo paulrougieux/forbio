@@ -5,7 +5,7 @@ library("mipfp")
 
 source("R/01_tidy_functions.R")
 
-years <- 1992:2017
+years <- 1992:1993
 
 
 # BTD ---------------------------------------------------------------------
@@ -101,7 +101,7 @@ for(i in seq_along(years)) {
     split(mapping, by = "com_code", keep.by = FALSE),
     function(x) {
       out <- data.table::dcast(x, from_code ~ to_code,
-        fun.aggregate = sum, value.var = "value")[, -"com_code"]
+        fun.aggregate = sum, value.var = "value")[, -"from_code"]
       as(out, "Matrix")})
 
   # Run iterative proportional fitting per item
