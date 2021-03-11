@@ -307,11 +307,11 @@ split_tcf <- function(y, z, C, cap = TRUE) {
   }
   out <- data.table(as.matrix(P))
   colnames(out) <- colnames(C)
-  out[, item_code_proc := rownames(C)[exists]]
-  out <- melt(out, id.vars = "item_code_proc", variable.name = "item_code",
+  out[, com_code_proc := rownames(C)[exists]]
+  out <- melt(out, id.vars = "com_code_proc", variable.name = "com_code",
     variable.factor = FALSE)
-  out[, `:=`(item_code_proc = as.integer(item_code_proc),
-    item_code = as.integer(item_code))]
+  out[, `:=`(com_code_proc = as.integer(item_code_proc),
+    com_code = as.integer(com_code))]
 
   return(out)
 }
