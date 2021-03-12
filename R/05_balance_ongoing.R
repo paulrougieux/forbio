@@ -114,7 +114,7 @@ for(i in seq_along(years)) {
       target.data = constraint[com_code == j, .(round(exports), round(imports))])$x.hat
   }
 
-  # ZR: I changed here com_code = as.character(name) - it was integer before
+  ## ZR: I changed here com_code = as.character(name) - it was integer before
   btd_bal[[i]] <- lapply(names(mapping_ras), function(name) {
     out <- mapping_ras[[name]]
     out <- data.table(from_code = colnames(out), as.matrix(out))
@@ -125,6 +125,12 @@ for(i in seq_along(years)) {
 
   cat("Calculated year ", y, ".\n", sep = "")
 }
+
+## In Ipfp(mapping_ras[[j]], target.list = list(1,2), iter = 100,.. :
+## IPFP did not converged after 100 iteration(s)!
+## This might be due to 0 cells in the seed, maximum number
+## of iteration too low or tolerance too small
+
 
 # One datatable per year
 btd_bal <- lapply(btd_bal, rbindlist)
