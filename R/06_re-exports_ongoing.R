@@ -10,7 +10,7 @@ years <- 1992:2017
 # BTD ---------------------------------------------------------------------
 
 btd <- readRDS("data/btd_bal.rds")
-cbs <- readRDS("data/cbs_full.rds")
+cbs <- readRDS("data/cbs.rds")
 
 areas <- sort(unique(cbs$area_code))
 items <- unique(cbs$com_code)
@@ -103,7 +103,7 @@ btd_final <- lapply(btd_final, rbindlist)
 # One datatable
 btd_final <- rbindlist(btd_final)
 # Add commodity codes
-items <- fread("inst/items_full.csv")
+items <- fread("inst/products.csv")
 btd_final[, com_code := items$com_code[match(btd_final$com_code, items$com_code)]]
 
 

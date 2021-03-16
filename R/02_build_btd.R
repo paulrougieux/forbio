@@ -1,5 +1,6 @@
 
 library("data.table")
+library(tidyverse)
 source("R/01_tidy_functions.R")
 
 regions <- fread("inst/regions.csv")
@@ -52,7 +53,7 @@ baci[, item_code := NULL]
 
 
 
-# Merge and save ----------------------------------------------------------
+# Merge -------------------------------------------------------------------
 
 btd <- rbindlist(list(btd, baci), use.names = TRUE)
 
@@ -65,6 +66,21 @@ btd <- rbindlist(list(btd, baci), use.names = TRUE)
 btd <- btd[, list(value = na_sum(value)), by = c("com_code", "item",
   "from", "from_code", "to", "to_code", "year", "unit")]
 
+
+# Change units from tonnes to m3
+# for wood fuel, particle board, OSB, wood residues
+tcf <- fread("inst/tcf_use_tidy.csv")
+tcf <- rbind(tcf[com_code == "c03" & unit == "m3sw/tonne",],
+  tcf[com_code == "c09" & unit == "kg/m3p",],
+  tcf[com_code == "c10" & unit == "kg/m3p",])
+
+btd <- merge(btd, tcf[, .(com_code, unit_tcf = unit, from = area, tcf)],
+  all.x = TRUE, by = c("com_code", "from"))
+
+btd[com_code == "c03", `:=`(value = value * tcf, unit = "m3")]
+btd[com_code %in% c("c09", "c10"), `:=`(value = value / tcf * 1000,
+                                        unit = "m3")]
+btd[com_code == "c18", `:=`(value = value * 1.5, unit = "m3")]
 
 
 # Store -------------------------------------------------------------------

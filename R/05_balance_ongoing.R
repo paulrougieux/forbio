@@ -6,10 +6,8 @@ library("mipfp")
 source("R/01_tidy_functions.R")
 
 #The actual years
-yearsF <- 1992:2017
+years <- 1992:2017
 
-#To test
-years <- 1992:1993
 
 # BTD ---------------------------------------------------------------------
 
@@ -35,30 +33,6 @@ btd_est <- btd_est[year %in% years & com_code %in% items &
 #   value == 0, value := 1]
 
 
-## ZR: Before getting the info on target trade from CBS, units must coincide for each item
-# i.e. c03 wood fuel, c09 particle board, c10 OSB and c18 wood residues
-# TCFs are in the tcf_use:
-# c03 unit m3sw/tonne
-# c09 unit kg/m3p (but also sw)
-# c10 unit kg/m3p (but also sw)
-# c18 unit m3sw/tonne
-# c18 unit m3p/m3sw
-#
-# Step 1: Read and select
-# tcf_use <- fread("inst/tcf_use_tidy.csv")
-#tcf_use_sel <- tcf_use[grep("c03|c09|c10|c18", tcf_use$com_code), ]
-#tcf_use_sel <- tcf_use_sel[grep("m3sw/tonne|kg/m3p", tcf_use_sel$unit), ]
-#
-# Step 2: Convert TCFs from kg to tonnes
-# tcf_use_sel %>% 
-# filter (com_code == c09, c10)
-# %>% tcf == tcf / 1000
-# %>% rename (unit == tonne/m3p)
-#
-# Step 3: Convert flows in CBS into m³sw (c03, c18) and/or m³p (c09, c10)
-# In case of c18, flows in BTD need to be converted to m³sw as well.
-
-
 # Get info on target trade from CBS
 target <- cbs[year %in% years, c("year", "area_code", "com_code", "exports", "imports")]
 
@@ -76,7 +50,7 @@ constr_templ <- data.table(
 # Note that we loop this over years, so memory requirements can easily be
 # reduced if necessary.
 btd_bal <- vector("list", length(years))
-names(btd_bal) <- years
+names(btd_bal) <- as.character(years)
 
 for(i in seq_along(years)) {
   y <- years[i]
@@ -133,33 +107,22 @@ for(i in seq_along(years)) {
       as(out, "Matrix")})
 
   # Run iterative proportional fitting per item
-    for(j in as.character(items)) {
+  for(j in items) {
     mapping_ras[[j]] <- Ipfp(mapping_ras[[j]],
       target.list = list(1, 2), iter = 100, tol.margins = 1E5,
       target.data = constraint[com_code == j, .(round(exports), round(imports))])$x.hat
   }
 
-  ## ZR: I changed here com_code = as.character(name) - it was integer before
   btd_bal[[i]] <- lapply(names(mapping_ras), function(name) {
     out <- mapping_ras[[name]]
     out <- data.table(from_code = colnames(out), as.matrix(out))
     out <- melt(out, id.vars = c("from_code"), variable.name = "to_code", variable.factor = FALSE)
-    out[, .(year = y, com_code = as.character(name),
+    out[, .(year = y, com_code = name,
       from_code = as.integer(from_code), to_code = as.integer(to_code), value)]
   })
 
   cat("Calculated year ", y, ".\n", sep = "")
 }
-
-## ZR: 
-# Warning messages: 
-# In Ipfp(mapping_ras[[j]], target.list = list(1,2), iter = 100,.. :
-# IPFP did not converged after 100 iteration(s)!
-# This might be due to 0 cells in the seed, maximum number
-# of iteration too low or tolerance too small
-# I think error is due to differente units
-# See line 38
-
 
 
 # One datatable per year
