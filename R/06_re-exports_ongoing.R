@@ -58,7 +58,8 @@ for(i in seq_along(years)) {
 
   # Run re-export reallocation per item
   # ZR: " & com_code==as.character(j)," instead of integer
-  for(j in as.character(items)) {
+  # ZR: I eliminated "as.character, because in 05_balance we did so
+  for(j in items) {
     data <- merge(data.table(area_code = areas),
                   cbs[year==y & com_code==as.character(j),
                       .(area_code, production, dom_use, total_use, dom_share = production / total_use)],
