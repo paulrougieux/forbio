@@ -82,6 +82,13 @@ btd[com_code %in% c("c09", "c10"), `:=`(value = value / tcf * 1000,
                                         unit = "m3")]
 btd[com_code == "c18", `:=`(value = value * 1.5, unit = "m3")]
 
+btd[, `:=`(unit_tcf = NULL, tcf = NULL)]
+
+
+# Remove outliers ---------------------------------------------------------
+
+btd[from_code==108 & com_code=="c02" & to_code==254 & year %in% 2000:2001, value := 0]
+
 
 # Store -------------------------------------------------------------------
 
