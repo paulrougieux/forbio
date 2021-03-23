@@ -3,17 +3,17 @@ p01,"Roundwood production, coniferous",c01,"Industrial roundwood, coniferous",10
 p02,"Roundwood production, non-coniferous",c02,"Industrial roundwood, non-coniferous",100%
 p03,Wood fuel production,c03,Wood fuel,100%
 p04,"Sawnmill industry, coniferous",c04,"Sawnwood, coniferous",100%
-p04,"Sawnmill industry, coniferous",c18,Wood chips and particles,tcf
-p04,"Sawnmill industry, coniferous",c19,Wood residues,tcf
+p04,"Sawnmill industry, coniferous",c17,Wood chips and particles,tcf
+p04,"Sawnmill industry, coniferous",c18,Wood residues,tcf
 p05,"Sawnmill industry, non-coniferous",c05,"Sawnwood, non-coniferous all",100%
-p05,"Sawnmill industry, non-coniferous",c18,Wood chips and particles,tcf
-p05,"Sawnmill industry, non-coniferous",c19,Wood residues,tcf
+p05,"Sawnmill industry, non-coniferous",c17,Wood chips and particles,tcf
+p05,"Sawnmill industry, non-coniferous",c18,Wood residues,tcf
 p06,Veneer production,c06,Veneer sheets,100%
-p06,Veneer production,c18,Wood chips and particles,tcf
-p06,Veneer production,c19,Wood residues,tcf
+p06,Veneer production,c17,Wood chips and particles,tcf
+p06,Veneer production,c18,Wood residues,tcf
 p07,Plywood production,c07,Plywood,100%
-p07,Plywood production,c18,Wood chips and particles,tcf
-p07,Plywood production,c19,Wood residues,tcf
+p07,Plywood production,c17,Wood chips and particles,tcf
+p07,Plywood production,c18,Wood residues,tcf
 p08,Fibreboard production,c08,Fibreboard,100%
 p09,Particle board production,c09,Particle board,100%
 p10,OSB production,c10,OSB,100%

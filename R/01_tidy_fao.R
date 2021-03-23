@@ -75,6 +75,13 @@ fore_prod <- area_merge(fore_prod, orig = 62, dest = 238, pattern = "Ethiopia")
 fore_prod <- area_merge(fore_prod, orig = 206, dest = 276, pattern = "Sudan")
 fore_prod <- area_fix(fore_prod, regions)
 
+## Belgium-Luxembourg before 2000 together
+#fore_prod[area_code==255 & area=="Belgium" & year<2000,
+#     `:=`(area_code=15, area="Belgium-Luxembourg")]
+#fore_prod[area_code==256 & area=="Luxembourg" & year<2000,
+#     `:=`(area_code=15, area="Belgium-Luxembourg")]
+
+
 # Cut down to certain products
 fore_prod <- dt_filter(fore_prod, item_code %in% products$item_code)
 fore_prod <- dt_filter(fore_prod, value >= 0)
@@ -92,7 +99,7 @@ fore_prod <- dt_rename(fore_prod, rename, drop = FALSE)
 saveRDS(fore_prod, "input/fore_prod_tidy.rds")
 rm(fore_prod)
 
-#
+
 # Trade
 fore_trad <- readRDS("input/fore_trad.rds")
 items_trade <- fread("inst/items_trade.csv")
@@ -111,6 +118,16 @@ for(col in c("reporter_code", "partner_code")) {
     pattern = "Sudan", col = col)
   fore_trad <- area_fix(fore_trad, regions, col = col)
 }
+
+## Belgium-Luxembourg before 2000 together
+#fore_trad[reporter_code==255 & reporter=="Belgium" & year<2000,
+#     `:=`(reporter_code=15, reporter="Belgium-Luxembourg")]
+#fore_trad[partner_code==255 & partner=="Belgium" & year<2000,
+#     `:=`(partner_code=15, partner="Belgium-Luxembourg")]
+#fore_trad[reporter_code==256 & reporter=="Luxembourg" & year<2000,
+#     `:=`(reporter_code=15, reporter="Belgium-Luxembourg")]
+#fore_trad[partner_code==256 & partner=="Luxembourg" & year<2000,
+#     `:=`(partner_code=15, partner="Belgium-Luxembourg")]
 
 # Cut down to certain products
 fore_trad <- dt_filter(fore_trad, item_code %in% items_trade$trade_code)
@@ -133,6 +150,3 @@ cat("Aggregation from", length(item_match), "to",
 # Store
 saveRDS(fore_trad, "input/fore_trad_tidy.rds")
 rm(fore_trad, item_match)
-
-
-
