@@ -1,36 +1,57 @@
 
 library("data.table")
 
-regions <- fread("inst/regions_full.csv")
-items <- fread("inst/items_full.csv")
+regions <- fread("inst/regions.csv")
+items <- fread("inst/products.csv")
 
 
 # Supply ------------------------------------------------------------------
 
-btd <- readRDS("data/btd_full.rds")
-cbs <- readRDS("data/cbs_full.rds")
-sup <- fread("inst/items_supply.csv")
+btd <- readRDS("data/btd_final.rds")
+cbs <- readRDS("data/cbs.rds")
+sup <- fread("inst/sup.csv")
+shares <- fread("inst/tcf_sup_tidy.csv")
+
 
 cat("Allocate production to supplying processes.\n")
 
-# Add grazing placeholder to the CBS
-grazing <- unique(cbs[, c("year", "area", "area_code")])
-grazing[, `:=`(item = "Grazing", item_code = 2001)]
-cbs <- rbindlist(list(cbs, grazing), use.names = TRUE, fill = TRUE)
+shares <- merge(shares, sup[type=="100%", c("proc_code", "com_code")],
+  by = "proc_code", all.x = TRUE)
 
 # Allocate production to supplying processes including double-counting
 sup <- merge(
-  cbs[, c("area_code", "area", "year", "item_code", "item", "production")],
-  sup[item_code %in% unique(cbs$item_code)],
-  by = c("item_code", "item"), all = TRUE, allow.cartesian = TRUE)
+  cbs[, c("area_code", "area", "year", "com_code", "item", "production")],
+  sup[com_code %in% unique(cbs$com_code)],
+  by = c("com_code", "item"), all = TRUE, allow.cartesian = TRUE)
 
 # Downscale double-counted production
-cat("Calculate supply shares for livestock products.\n")
-shares <- fread("inst/items_supply-shares.csv")
-live <- readRDS("data/tidy/live_tidy.rds")
+cat("Calculate supply shares for multi-output processes.\n")
 
-shares <- merge(shares[source == "live"], live[element == "Production"],
-  by.x = c("base_code", "base"), by.y = c("item_code", "item"))
+shares <- merge(shares, cbs[, c("area_code", "year", "com_code", "production")],
+  by = c("area_code", "com_code"), allow.cartesian = TRUE)
+# derive round wood equivalents (rwe)
+shares[, rwe := production / product]
+shares[, `:=`(chips = round(chips * rwe), residues = round(residues * rwe),
+  product = production, production = NULL, rwe = NULL)]
+shares <- merge(shares,
+  shares[, list(chips_total = sum(chips, na.rm = TRUE),
+  residues_total = sum(residues, na.rm = TRUE)),
+  by = c("area_code","year")],
+  by = c("area_code","year"), all.x = TRUE)
+shares <- merge(shares, cbs[com_code=="c17", .(area_code, year, chips_cbs = production)],
+  by = c("area_code","year"), all.x = TRUE)
+shares <- merge(shares, cbs[com_code=="c18", .(area_code, year, residues_cbs = production)],
+  by = c("area_code","year"), all.x = TRUE)
+shares[, `:=`(chips_scale = chips_cbs / chips_total,
+  residues_scale = residues_cbs / residues_total)]
+
+
+## ------------------------------------
+
+
+sup <- merge(sup, shares[, .(area_code, proc_code, year, product, chips, residues)], 
+  by = c("area_code", "proc_code", "year"), all.x = TRUE)
+
 
 # Add regions to RoW if not included in CBS
 shares[, `:=`(area = ifelse(!area_code %in% regions$code[regions$cbs], "RoW", area),
@@ -74,62 +95,62 @@ sup[, share_o := NULL]
 sup[, share := NULL]
 
 
-# Fill prices using BTD ---------------------------------------------------
-
-prices <- as.data.table(data.table::dcast(btd, from + from_code + to + to_code +
-  item + item_code + year ~ unit, value.var = "value"))
-prices <- prices[!is.na(usd) & usd > 0,
-  list(usd = sum(usd, na.rm = TRUE), head = sum(head, na.rm = TRUE),
-    tonnes = sum(tonnes, na.rm = TRUE)),
-    by = list(from, from_code, item_code, item, year)]
-
-prices[, price := ifelse(tonnes != 0 & !is.na(tonnes), usd / tonnes,
-  ifelse(head != 0 & !is.na(head), usd / head, NA))]
-
-# Cap prices at 5th and 95th quantiles.
-# We might want to add a yearly element.
-caps <- prices[, list(price_q95 = quantile(price, .95, na.rm = TRUE),
-  price_q50 = quantile(price, .50, na.rm = TRUE),
-  price_q05 = quantile(price, .05, na.rm = TRUE)),
-  by = list(item)]
-prices <- merge(prices, caps, by = "item", all.x = TRUE)
-
-cat("Capping ", prices[price > price_q95 | price < price_q05, .N],
-  " prices at the specific item's 95th and 5th quantiles.\n", sep = "")
-prices[, price := ifelse(price > price_q95, price_q95,
-  ifelse(price < price_q05, price_q05, price))]
-
-# Get worldprices to fill gaps
-na_sum <- function(x) {ifelse(all(is.na(x)), NA_real_, sum(x, na.rm = TRUE))}
-prices_world <- prices[!is.na(usd), list(usd = na_sum(usd),
-  tonnes = na_sum(tonnes), head = na_sum(head)),
-  by = list(item, item_code, year)]
-prices_world[, price_world := ifelse(head != 0, usd / head,
-  usd / tonnes)]
-prices <- merge(
-  prices, prices_world[, c("year", "item_code", "item", "price_world")],
-  by = c("year", "item_code", "item"), all.x = TRUE)
-
-cat("Filling ", prices[is.na(price) & !is.na(price_world), .N],
-  " missing prices with worldprices.\n", sep = "")
-prices[is.na(price), price := price_world]
-
-cat("Filling ", prices[!is.finite(price) & !is.na(price_q50), .N],
-  " missing prices with median item prices.\n", sep = "")
-prices[!is.finite(price), price := price_q50]
-
-sup <- merge(sup, all.x = TRUE,
-  prices[, c("from_code", "from", "item", "item_code", "year", "price")],
-  by.x = c("area_code", "area", "item", "item_code", "year"),
-  by.y = c("from_code", "from", "item", "item_code", "year"))
-
-# apply world average price where price is NA
-sup <- merge(sup, all.x = TRUE,
-  prices_world[, c("item", "item_code", "year", "price_world")],
-  by.x = c("item", "item_code", "year"),
-  by.y = c("item", "item_code", "year"))
-sup[, `:=`(price = ifelse(is.na(price), price_world, price),
-           price_world = NULL)]
+# # Fill prices using BTD ---------------------------------------------------
+# 
+# prices <- as.data.table(data.table::dcast(btd, from + from_code + to + to_code +
+#   item + item_code + year ~ unit, value.var = "value"))
+# prices <- prices[!is.na(usd) & usd > 0,
+#   list(usd = sum(usd, na.rm = TRUE), head = sum(head, na.rm = TRUE),
+#     tonnes = sum(tonnes, na.rm = TRUE)),
+#     by = list(from, from_code, item_code, item, year)]
+# 
+# prices[, price := ifelse(tonnes != 0 & !is.na(tonnes), usd / tonnes,
+#   ifelse(head != 0 & !is.na(head), usd / head, NA))]
+# 
+# # Cap prices at 5th and 95th quantiles.
+# # We might want to add a yearly element.
+# caps <- prices[, list(price_q95 = quantile(price, .95, na.rm = TRUE),
+#   price_q50 = quantile(price, .50, na.rm = TRUE),
+#   price_q05 = quantile(price, .05, na.rm = TRUE)),
+#   by = list(item)]
+# prices <- merge(prices, caps, by = "item", all.x = TRUE)
+# 
+# cat("Capping ", prices[price > price_q95 | price < price_q05, .N],
+#   " prices at the specific item's 95th and 5th quantiles.\n", sep = "")
+# prices[, price := ifelse(price > price_q95, price_q95,
+#   ifelse(price < price_q05, price_q05, price))]
+# 
+# # Get worldprices to fill gaps
+# na_sum <- function(x) {ifelse(all(is.na(x)), NA_real_, sum(x, na.rm = TRUE))}
+# prices_world <- prices[!is.na(usd), list(usd = na_sum(usd),
+#   tonnes = na_sum(tonnes), head = na_sum(head)),
+#   by = list(item, item_code, year)]
+# prices_world[, price_world := ifelse(head != 0, usd / head,
+#   usd / tonnes)]
+# prices <- merge(
+#   prices, prices_world[, c("year", "item_code", "item", "price_world")],
+#   by = c("year", "item_code", "item"), all.x = TRUE)
+# 
+# cat("Filling ", prices[is.na(price) & !is.na(price_world), .N],
+#   " missing prices with worldprices.\n", sep = "")
+# prices[is.na(price), price := price_world]
+# 
+# cat("Filling ", prices[!is.finite(price) & !is.na(price_q50), .N],
+#   " missing prices with median item prices.\n", sep = "")
+# prices[!is.finite(price), price := price_q50]
+# 
+# sup <- merge(sup, all.x = TRUE,
+#   prices[, c("from_code", "from", "item", "item_code", "year", "price")],
+#   by.x = c("area_code", "area", "item", "item_code", "year"),
+#   by.y = c("from_code", "from", "item", "item_code", "year"))
+# 
+# # apply world average price where price is NA
+# sup <- merge(sup, all.x = TRUE,
+#   prices_world[, c("item", "item_code", "year", "price_world")],
+#   by.x = c("item", "item_code", "year"),
+#   by.y = c("item", "item_code", "year"))
+# sup[, `:=`(price = ifelse(is.na(price), price_world, price),
+#            price_world = NULL)]
 
 
 # Store results -----------------------------------------------------------
