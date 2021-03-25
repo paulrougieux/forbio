@@ -1,5 +1,6 @@
 
 library("data.table")
+library(tidyverse)
 
 regions <- fread("inst/regions.csv")
 items <- fread("inst/products.csv")
@@ -29,21 +30,44 @@ cat("Calculate supply shares for multi-output processes.\n")
 
 shares <- merge(shares, cbs[, c("area_code", "year", "com_code", "production")],
   by = c("area_code", "com_code"), allow.cartesian = TRUE)
-# derive round wood equivalents (rwe)
+
+# derive roundwood equivalents (rwe)
 shares[, rwe := production / product]
 shares[, `:=`(chips = round(chips * rwe), residues = round(residues * rwe),
   product = production, production = NULL, rwe = NULL)]
+
+# ZR: Change units from m3rw to m3p
+# for chips and residues
+tcf <- fread("inst/tcf_use_tidy.csv")
+tcf <- rbind(tcf[com_code == "c17" & unit == "m3p/m3sw",],
+             tcf[com_code == "c18" & unit == "m3p/m3sw",])
+tcf = subset(tcf, select = -c(item) )
+tcf_wide <- pivot_wider(tcf, names_from = com_code, values_from = tcf)
+names(tcf_wide)[names(tcf_wide) == "c17"] <- "tcf_chips"
+names(tcf_wide)[names(tcf_wide) == "c18"] <- "tcf_residues"
+
+# merge 
+shares <- merge(shares, tcf_wide[, c("tcf_chips", "tcf_residues")],
+                by = c("area_code"), all.x = TRUE, allow.cartesian = TRUE)
+# Error: Elements listed in 'by' must be valid column names in x and y
+
 shares <- merge(shares,
   shares[, list(chips_total = sum(chips, na.rm = TRUE),
   residues_total = sum(residues, na.rm = TRUE)),
   by = c("area_code","year")],
   by = c("area_code","year"), all.x = TRUE)
+
 shares <- merge(shares, cbs[com_code=="c17", .(area_code, year, chips_cbs = production)],
   by = c("area_code","year"), all.x = TRUE)
+
 shares <- merge(shares, cbs[com_code=="c18", .(area_code, year, residues_cbs = production)],
   by = c("area_code","year"), all.x = TRUE)
+
 shares[, `:=`(chips_scale = chips_cbs / chips_total,
   residues_scale = residues_cbs / residues_total)]
+
+# Annahme: if scale < 1 : rescale
+# if scale > 1 : use own estimation, and difference is allocation to p01 and p02
 
 
 ## ------------------------------------

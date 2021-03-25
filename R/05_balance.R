@@ -5,7 +5,7 @@ library("mipfp")
 
 source("R/01_tidy_functions.R")
 
-#The actual years
+
 years <- 1997:2017
 
 

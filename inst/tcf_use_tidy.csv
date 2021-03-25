@@ -37,12 +37,14 @@ c01,m3rw/m3p,AFR,178,Eritrea,"Industrial roundwood, coniferous",1
 c01,m3rw/m3p,AFR,181,Zimbabwe,"Industrial roundwood, coniferous",1
 c01,m3rw/m3p,AFR,182,Reunion,"Industrial roundwood, coniferous",1
 c01,m3rw/m3p,AFR,184,Rwanda,"Industrial roundwood, coniferous",1
+c01,m3rw/m3p,AFR,187,"Saint Helena, Ascension and Tristan da Cunha","Industrial roundwood, coniferous",1
 c01,m3rw/m3p,AFR,193,Sao Tome and Principe,"Industrial roundwood, coniferous",1
 c01,m3rw/m3p,AFR,195,Senegal,"Industrial roundwood, coniferous",1
 c01,m3rw/m3p,AFR,196,Seychelles,"Industrial roundwood, coniferous",1
 c01,m3rw/m3p,AFR,197,Sierra Leone,"Industrial roundwood, coniferous",1
 c01,m3rw/m3p,AFR,201,Somalia,"Industrial roundwood, coniferous",1
 c01,m3rw/m3p,AFR,202,South Africa,"Industrial roundwood, coniferous",1
+c01,m3rw/m3p,AFR,205,Western Sahara,"Industrial roundwood, coniferous",1
 c01,m3rw/m3p,AFR,209,Eswatini,"Industrial roundwood, coniferous",1
 c01,m3rw/m3p,AFR,215,United Republic of Tanzania,"Industrial roundwood, coniferous",1
 c01,m3rw/m3p,AFR,217,Togo,"Industrial roundwood, coniferous",1
@@ -61,6 +63,7 @@ c01,m3rw/m3p,ASI,2,Afghanistan,"Industrial roundwood, coniferous",1
 c01,m3rw/m3p,ASI,13,Bahrain,"Industrial roundwood, coniferous",1
 c01,m3rw/m3p,ASI,16,Bangladesh,"Industrial roundwood, coniferous",1
 c01,m3rw/m3p,ASI,18,Bhutan,"Industrial roundwood, coniferous",1
+c01,m3rw/m3p,ASI,24,British Indian Ocean Territory,"Industrial roundwood, coniferous",1
 c01,m3rw/m3p,ASI,26,Brunei Darussalam,"Industrial roundwood, coniferous",1
 c01,m3rw/m3p,ASI,28,Myanmar,"Industrial roundwood, coniferous",1
 c01,m3rw/m3p,ASI,38,Sri Lanka,"Industrial roundwood, coniferous",1
@@ -88,6 +91,7 @@ c01,m3rw/m3p,ASI,131,Malaysia,"Industrial roundwood, coniferous",1
 c01,m3rw/m3p,ASI,132,Maldives,"Industrial roundwood, coniferous",1
 c01,m3rw/m3p,ASI,141,Mongolia,"Industrial roundwood, coniferous",1
 c01,m3rw/m3p,ASI,149,Nepal,"Industrial roundwood, coniferous",1
+c01,m3rw/m3p,ASI,164,Pacific Islands Trust Territory,"Industrial roundwood, coniferous",1
 c01,m3rw/m3p,ASI,165,Pakistan,"Industrial roundwood, coniferous",1
 c01,m3rw/m3p,ASI,171,Philippines,"Industrial roundwood, coniferous",1
 c01,m3rw/m3p,ASI,176,Timor-Leste,"Industrial roundwood, coniferous",1
@@ -102,9 +106,11 @@ c01,m3rw/m3p,ASI,214,"China, Taiwan Province of","Industrial roundwood, conifero
 c01,m3rw/m3p,ASI,216,Thailand,"Industrial roundwood, coniferous",1
 c01,m3rw/m3p,ASI,221,Oman,"Industrial roundwood, coniferous",1
 c01,m3rw/m3p,ASI,225,United Arab Emirates,"Industrial roundwood, coniferous",1
+c01,m3rw/m3p,ASI,228,USSR,"Industrial roundwood, coniferous",1
 c01,m3rw/m3p,ASI,235,Uzbekistan,"Industrial roundwood, coniferous",1
 c01,m3rw/m3p,ASI,237,Viet Nam,"Industrial roundwood, coniferous",1
 c01,m3rw/m3p,ASI,249,Yemen,"Industrial roundwood, coniferous",1
+c01,m3rw/m3p,ASI,299,Palestine,"Industrial roundwood, coniferous",1
 c01,m3rw/m3p,EUR,3,Albania,"Industrial roundwood, coniferous",1
 c01,m3rw/m3p,EUR,6,Andorra,"Industrial roundwood, coniferous",1
 c01,m3rw/m3p,EUR,11,Austria,"Industrial roundwood, coniferous",1
@@ -122,6 +128,8 @@ c01,m3rw/m3p,EUR,79,Germany,"Industrial roundwood, coniferous",1
 c01,m3rw/m3p,EUR,80,Bosnia and Herzegovina,"Industrial roundwood, coniferous",1
 c01,m3rw/m3p,EUR,82,Gibraltar,"Industrial roundwood, coniferous",1
 c01,m3rw/m3p,EUR,84,Greece,"Industrial roundwood, coniferous",1
+c01,m3rw/m3p,EUR,85,Greenland,"Industrial roundwood, coniferous",1
+c01,m3rw/m3p,EUR,94,Holy See,"Industrial roundwood, coniferous",1
 c01,m3rw/m3p,EUR,97,Hungary,"Industrial roundwood, coniferous",1
 c01,m3rw/m3p,EUR,98,Croatia,"Industrial roundwood, coniferous",1
 c01,m3rw/m3p,EUR,99,Iceland,"Industrial roundwood, coniferous",1
@@ -140,6 +148,7 @@ c01,m3rw/m3p,EUR,173,Poland,"Industrial roundwood, coniferous",1
 c01,m3rw/m3p,EUR,174,Portugal,"Industrial roundwood, coniferous",1
 c01,m3rw/m3p,EUR,183,Romania,"Industrial roundwood, coniferous",1
 c01,m3rw/m3p,EUR,186,Serbia and Montenegro,"Industrial roundwood, coniferous",1
+c01,m3rw/m3p,EUR,192,San Marino,"Industrial roundwood, coniferous",1
 c01,m3rw/m3p,EUR,198,Slovenia,"Industrial roundwood, coniferous",1
 c01,m3rw/m3p,EUR,199,Slovakia,"Industrial roundwood, coniferous",1
 c01,m3rw/m3p,EUR,203,Spain,"Industrial roundwood, coniferous",1
@@ -148,17 +157,21 @@ c01,m3rw/m3p,EUR,211,Switzerland,"Industrial roundwood, coniferous",1
 c01,m3rw/m3p,EUR,223,Turkey,"Industrial roundwood, coniferous",1
 c01,m3rw/m3p,EUR,229,United Kingdom,"Industrial roundwood, coniferous",1
 c01,m3rw/m3p,EUR,230,Ukraine,"Industrial roundwood, coniferous",1
+c01,m3rw/m3p,EUR,248,Yugoslav SFR,"Industrial roundwood, coniferous",1
 c01,m3rw/m3p,EUR,255,Belgium,"Industrial roundwood, coniferous",1
 c01,m3rw/m3p,EUR,256,Luxembourg,"Industrial roundwood, coniferous",1
 c01,m3rw/m3p,EUR,272,Serbia,"Industrial roundwood, coniferous",1
 c01,m3rw/m3p,EUR,273,Montenegro,"Industrial roundwood, coniferous",1
+c01,m3rw/m3p,LAM,8,Antigua and Barbuda,"Industrial roundwood, coniferous",1
 c01,m3rw/m3p,LAM,9,Argentina,"Industrial roundwood, coniferous",1
 c01,m3rw/m3p,LAM,12,Bahamas,"Industrial roundwood, coniferous",1
 c01,m3rw/m3p,LAM,14,Barbados,"Industrial roundwood, coniferous",1
+c01,m3rw/m3p,LAM,17,Bermuda,"Industrial roundwood, coniferous",1
 c01,m3rw/m3p,LAM,19,Bolivia (Plurinational State of),"Industrial roundwood, coniferous",1
 c01,m3rw/m3p,LAM,21,Brazil,"Industrial roundwood, coniferous",1
 c01,m3rw/m3p,LAM,22,Aruba,"Industrial roundwood, coniferous",1
 c01,m3rw/m3p,LAM,23,Belize,"Industrial roundwood, coniferous",1
+c01,m3rw/m3p,LAM,36,Cayman Islands,"Industrial roundwood, coniferous",1
 c01,m3rw/m3p,LAM,40,Chile,"Industrial roundwood, coniferous",1
 c01,m3rw/m3p,LAM,44,Colombia,"Industrial roundwood, coniferous",1
 c01,m3rw/m3p,LAM,48,Costa Rica,"Industrial roundwood, coniferous",1
@@ -169,6 +182,7 @@ c01,m3rw/m3p,LAM,58,Ecuador,"Industrial roundwood, coniferous",1
 c01,m3rw/m3p,LAM,60,El Salvador,"Industrial roundwood, coniferous",1
 c01,m3rw/m3p,LAM,65,Falkland Islands (Malvinas),"Industrial roundwood, coniferous",1
 c01,m3rw/m3p,LAM,69,French Guyana,"Industrial roundwood, coniferous",1
+c01,m3rw/m3p,LAM,86,Grenada,"Industrial roundwood, coniferous",1
 c01,m3rw/m3p,LAM,87,Guadeloupe,"Industrial roundwood, coniferous",1
 c01,m3rw/m3p,LAM,89,Guatemala,"Industrial roundwood, coniferous",1
 c01,m3rw/m3p,LAM,91,Guyana,"Industrial roundwood, coniferous",1
@@ -177,11 +191,13 @@ c01,m3rw/m3p,LAM,95,Honduras,"Industrial roundwood, coniferous",1
 c01,m3rw/m3p,LAM,109,Jamaica,"Industrial roundwood, coniferous",1
 c01,m3rw/m3p,LAM,135,Martinique,"Industrial roundwood, coniferous",1
 c01,m3rw/m3p,LAM,138,Mexico,"Industrial roundwood, coniferous",1
+c01,m3rw/m3p,LAM,142,Montserrat,"Industrial roundwood, coniferous",1
 c01,m3rw/m3p,LAM,151,Netherlands Antilles,"Industrial roundwood, coniferous",1
 c01,m3rw/m3p,LAM,157,Nicaragua,"Industrial roundwood, coniferous",1
 c01,m3rw/m3p,LAM,166,Panama,"Industrial roundwood, coniferous",1
 c01,m3rw/m3p,LAM,169,Paraguay,"Industrial roundwood, coniferous",1
 c01,m3rw/m3p,LAM,170,Peru,"Industrial roundwood, coniferous",1
+c01,m3rw/m3p,LAM,188,Saint Kitts and Nevis,"Industrial roundwood, coniferous",1
 c01,m3rw/m3p,LAM,189,Saint Lucia,"Industrial roundwood, coniferous",1
 c01,m3rw/m3p,LAM,191,Saint Vincent and the Grenadines,"Industrial roundwood, coniferous",1
 c01,m3rw/m3p,LAM,207,Suriname,"Industrial roundwood, coniferous",1
@@ -190,24 +206,42 @@ c01,m3rw/m3p,LAM,224,Turks and Caicos Islands,"Industrial roundwood, coniferous"
 c01,m3rw/m3p,LAM,234,Uruguay,"Industrial roundwood, coniferous",1
 c01,m3rw/m3p,LAM,236,Venezuela (Bolivarian Republic of),"Industrial roundwood, coniferous",1
 c01,m3rw/m3p,LAM,239,British Virgin Islands,"Industrial roundwood, coniferous",1
+c01,m3rw/m3p,LAM,258,Anguilla,"Industrial roundwood, coniferous",1
+c01,m3rw/m3p,LAM,279,Curaçao,"Industrial roundwood, coniferous",1
+c01,m3rw/m3p,LAM,281,Saint-Martin (French Part),"Industrial roundwood, coniferous",1
 c01,m3rw/m3p,NAM,33,Canada,"Industrial roundwood, coniferous",1
 c01,m3rw/m3p,NAM,190,Saint Pierre and Miquelon,"Industrial roundwood, coniferous",1
 c01,m3rw/m3p,NAM,231,United States of America,"Industrial roundwood, coniferous",1
+c01,m3rw/m3p,OCE,5,American Samoa,"Industrial roundwood, coniferous",1
 c01,m3rw/m3p,OCE,10,Australia,"Industrial roundwood, coniferous",1
 c01,m3rw/m3p,OCE,25,Solomon Islands,"Industrial roundwood, coniferous",1
 c01,m3rw/m3p,OCE,42,Christmas Island,"Industrial roundwood, coniferous",1
+c01,m3rw/m3p,OCE,43,Cocos (Keeling) Islands,"Industrial roundwood, coniferous",1
 c01,m3rw/m3p,OCE,47,Cook Islands,"Industrial roundwood, coniferous",1
 c01,m3rw/m3p,OCE,66,Fiji,"Industrial roundwood, coniferous",1
 c01,m3rw/m3p,OCE,70,French Polynesia,"Industrial roundwood, coniferous",1
+c01,m3rw/m3p,OCE,71,French Southern and Antarctic Territories,"Industrial roundwood, coniferous",1
 c01,m3rw/m3p,OCE,83,Kiribati,"Industrial roundwood, coniferous",1
+c01,m3rw/m3p,OCE,88,Guam,"Industrial roundwood, coniferous",1
+c01,m3rw/m3p,OCE,127,Marshall Islands,"Industrial roundwood, coniferous",1
 c01,m3rw/m3p,OCE,145,Micronesia (Federated States of),"Industrial roundwood, coniferous",1
+c01,m3rw/m3p,OCE,148,Nauru,"Industrial roundwood, coniferous",1
 c01,m3rw/m3p,OCE,153,New Caledonia,"Industrial roundwood, coniferous",1
 c01,m3rw/m3p,OCE,155,Vanuatu,"Industrial roundwood, coniferous",1
 c01,m3rw/m3p,OCE,156,New Zealand,"Industrial roundwood, coniferous",1
 c01,m3rw/m3p,OCE,160,Niue,"Industrial roundwood, coniferous",1
 c01,m3rw/m3p,OCE,161,Norfolk Island,"Industrial roundwood, coniferous",1
+c01,m3rw/m3p,OCE,163,Northern Mariana Islands,"Industrial roundwood, coniferous",1
 c01,m3rw/m3p,OCE,168,Papua New Guinea,"Industrial roundwood, coniferous",1
+c01,m3rw/m3p,OCE,172,Pitcairn Islands,"Industrial roundwood, coniferous",1
+c01,m3rw/m3p,OCE,180,Palau,"Industrial roundwood, coniferous",1
+c01,m3rw/m3p,OCE,218,Tokelau,"Industrial roundwood, coniferous",1
+c01,m3rw/m3p,OCE,227,Tuvalu,"Industrial roundwood, coniferous",1
+c01,m3rw/m3p,OCE,242,Wake Island,"Industrial roundwood, coniferous",1
+c01,m3rw/m3p,OCE,243,Wallis and Futuna Islands,"Industrial roundwood, coniferous",1
 c01,m3rw/m3p,OCE,244,Samoa,"Industrial roundwood, coniferous",1
+c01,m3rw/m3p,XXX,252,Unspecified Area,"Industrial roundwood, coniferous",1
+c01,m3rw/m3p,XXX,254,Others (adjustment),"Industrial roundwood, coniferous",1
 c02,m3rw/m3p,AFR,4,Algeria,"Industrial roundwood, non-coniferous",1
 c02,m3rw/m3p,AFR,7,Angola,"Industrial roundwood, non-coniferous",1
 c02,m3rw/m3p,AFR,20,Botswana,"Industrial roundwood, non-coniferous",1
@@ -246,12 +280,14 @@ c02,m3rw/m3p,AFR,178,Eritrea,"Industrial roundwood, non-coniferous",1
 c02,m3rw/m3p,AFR,181,Zimbabwe,"Industrial roundwood, non-coniferous",1
 c02,m3rw/m3p,AFR,182,Reunion,"Industrial roundwood, non-coniferous",1
 c02,m3rw/m3p,AFR,184,Rwanda,"Industrial roundwood, non-coniferous",1
+c02,m3rw/m3p,AFR,187,"Saint Helena, Ascension and Tristan da Cunha","Industrial roundwood, non-coniferous",1
 c02,m3rw/m3p,AFR,193,Sao Tome and Principe,"Industrial roundwood, non-coniferous",1
 c02,m3rw/m3p,AFR,195,Senegal,"Industrial roundwood, non-coniferous",1
 c02,m3rw/m3p,AFR,196,Seychelles,"Industrial roundwood, non-coniferous",1
 c02,m3rw/m3p,AFR,197,Sierra Leone,"Industrial roundwood, non-coniferous",1
 c02,m3rw/m3p,AFR,201,Somalia,"Industrial roundwood, non-coniferous",1
 c02,m3rw/m3p,AFR,202,South Africa,"Industrial roundwood, non-coniferous",1
+c02,m3rw/m3p,AFR,205,Western Sahara,"Industrial roundwood, non-coniferous",1
 c02,m3rw/m3p,AFR,209,Eswatini,"Industrial roundwood, non-coniferous",1
 c02,m3rw/m3p,AFR,215,United Republic of Tanzania,"Industrial roundwood, non-coniferous",1
 c02,m3rw/m3p,AFR,217,Togo,"Industrial roundwood, non-coniferous",1
@@ -270,6 +306,7 @@ c02,m3rw/m3p,ASI,2,Afghanistan,"Industrial roundwood, non-coniferous",1
 c02,m3rw/m3p,ASI,13,Bahrain,"Industrial roundwood, non-coniferous",1
 c02,m3rw/m3p,ASI,16,Bangladesh,"Industrial roundwood, non-coniferous",1
 c02,m3rw/m3p,ASI,18,Bhutan,"Industrial roundwood, non-coniferous",1
+c02,m3rw/m3p,ASI,24,British Indian Ocean Territory,"Industrial roundwood, non-coniferous",1
 c02,m3rw/m3p,ASI,26,Brunei Darussalam,"Industrial roundwood, non-coniferous",1
 c02,m3rw/m3p,ASI,28,Myanmar,"Industrial roundwood, non-coniferous",1
 c02,m3rw/m3p,ASI,38,Sri Lanka,"Industrial roundwood, non-coniferous",1
@@ -297,6 +334,7 @@ c02,m3rw/m3p,ASI,131,Malaysia,"Industrial roundwood, non-coniferous",1
 c02,m3rw/m3p,ASI,132,Maldives,"Industrial roundwood, non-coniferous",1
 c02,m3rw/m3p,ASI,141,Mongolia,"Industrial roundwood, non-coniferous",1
 c02,m3rw/m3p,ASI,149,Nepal,"Industrial roundwood, non-coniferous",1
+c02,m3rw/m3p,ASI,164,Pacific Islands Trust Territory,"Industrial roundwood, non-coniferous",1
 c02,m3rw/m3p,ASI,165,Pakistan,"Industrial roundwood, non-coniferous",1
 c02,m3rw/m3p,ASI,171,Philippines,"Industrial roundwood, non-coniferous",1
 c02,m3rw/m3p,ASI,176,Timor-Leste,"Industrial roundwood, non-coniferous",1
@@ -311,9 +349,11 @@ c02,m3rw/m3p,ASI,214,"China, Taiwan Province of","Industrial roundwood, non-coni
 c02,m3rw/m3p,ASI,216,Thailand,"Industrial roundwood, non-coniferous",1
 c02,m3rw/m3p,ASI,221,Oman,"Industrial roundwood, non-coniferous",1
 c02,m3rw/m3p,ASI,225,United Arab Emirates,"Industrial roundwood, non-coniferous",1
+c02,m3rw/m3p,ASI,228,USSR,"Industrial roundwood, non-coniferous",1
 c02,m3rw/m3p,ASI,235,Uzbekistan,"Industrial roundwood, non-coniferous",1
 c02,m3rw/m3p,ASI,237,Viet Nam,"Industrial roundwood, non-coniferous",1
 c02,m3rw/m3p,ASI,249,Yemen,"Industrial roundwood, non-coniferous",1
+c02,m3rw/m3p,ASI,299,Palestine,"Industrial roundwood, non-coniferous",1
 c02,m3rw/m3p,EUR,3,Albania,"Industrial roundwood, non-coniferous",1
 c02,m3rw/m3p,EUR,6,Andorra,"Industrial roundwood, non-coniferous",1
 c02,m3rw/m3p,EUR,11,Austria,"Industrial roundwood, non-coniferous",1
@@ -331,6 +371,8 @@ c02,m3rw/m3p,EUR,79,Germany,"Industrial roundwood, non-coniferous",1
 c02,m3rw/m3p,EUR,80,Bosnia and Herzegovina,"Industrial roundwood, non-coniferous",1
 c02,m3rw/m3p,EUR,82,Gibraltar,"Industrial roundwood, non-coniferous",1
 c02,m3rw/m3p,EUR,84,Greece,"Industrial roundwood, non-coniferous",1
+c02,m3rw/m3p,EUR,85,Greenland,"Industrial roundwood, non-coniferous",1
+c02,m3rw/m3p,EUR,94,Holy See,"Industrial roundwood, non-coniferous",1
 c02,m3rw/m3p,EUR,97,Hungary,"Industrial roundwood, non-coniferous",1
 c02,m3rw/m3p,EUR,98,Croatia,"Industrial roundwood, non-coniferous",1
 c02,m3rw/m3p,EUR,99,Iceland,"Industrial roundwood, non-coniferous",1
@@ -349,6 +391,7 @@ c02,m3rw/m3p,EUR,173,Poland,"Industrial roundwood, non-coniferous",1
 c02,m3rw/m3p,EUR,174,Portugal,"Industrial roundwood, non-coniferous",1
 c02,m3rw/m3p,EUR,183,Romania,"Industrial roundwood, non-coniferous",1
 c02,m3rw/m3p,EUR,186,Serbia and Montenegro,"Industrial roundwood, non-coniferous",1
+c02,m3rw/m3p,EUR,192,San Marino,"Industrial roundwood, non-coniferous",1
 c02,m3rw/m3p,EUR,198,Slovenia,"Industrial roundwood, non-coniferous",1
 c02,m3rw/m3p,EUR,199,Slovakia,"Industrial roundwood, non-coniferous",1
 c02,m3rw/m3p,EUR,203,Spain,"Industrial roundwood, non-coniferous",1
@@ -357,17 +400,21 @@ c02,m3rw/m3p,EUR,211,Switzerland,"Industrial roundwood, non-coniferous",1
 c02,m3rw/m3p,EUR,223,Turkey,"Industrial roundwood, non-coniferous",1
 c02,m3rw/m3p,EUR,229,United Kingdom,"Industrial roundwood, non-coniferous",1
 c02,m3rw/m3p,EUR,230,Ukraine,"Industrial roundwood, non-coniferous",1
+c02,m3rw/m3p,EUR,248,Yugoslav SFR,"Industrial roundwood, non-coniferous",1
 c02,m3rw/m3p,EUR,255,Belgium,"Industrial roundwood, non-coniferous",1
 c02,m3rw/m3p,EUR,256,Luxembourg,"Industrial roundwood, non-coniferous",1
 c02,m3rw/m3p,EUR,272,Serbia,"Industrial roundwood, non-coniferous",1
 c02,m3rw/m3p,EUR,273,Montenegro,"Industrial roundwood, non-coniferous",1
+c02,m3rw/m3p,LAM,8,Antigua and Barbuda,"Industrial roundwood, non-coniferous",1
 c02,m3rw/m3p,LAM,9,Argentina,"Industrial roundwood, non-coniferous",1
 c02,m3rw/m3p,LAM,12,Bahamas,"Industrial roundwood, non-coniferous",1
 c02,m3rw/m3p,LAM,14,Barbados,"Industrial roundwood, non-coniferous",1
+c02,m3rw/m3p,LAM,17,Bermuda,"Industrial roundwood, non-coniferous",1
 c02,m3rw/m3p,LAM,19,Bolivia (Plurinational State of),"Industrial roundwood, non-coniferous",1
 c02,m3rw/m3p,LAM,21,Brazil,"Industrial roundwood, non-coniferous",1
 c02,m3rw/m3p,LAM,22,Aruba,"Industrial roundwood, non-coniferous",1
 c02,m3rw/m3p,LAM,23,Belize,"Industrial roundwood, non-coniferous",1
+c02,m3rw/m3p,LAM,36,Cayman Islands,"Industrial roundwood, non-coniferous",1
 c02,m3rw/m3p,LAM,40,Chile,"Industrial roundwood, non-coniferous",1
 c02,m3rw/m3p,LAM,44,Colombia,"Industrial roundwood, non-coniferous",1
 c02,m3rw/m3p,LAM,48,Costa Rica,"Industrial roundwood, non-coniferous",1
@@ -378,6 +425,7 @@ c02,m3rw/m3p,LAM,58,Ecuador,"Industrial roundwood, non-coniferous",1
 c02,m3rw/m3p,LAM,60,El Salvador,"Industrial roundwood, non-coniferous",1
 c02,m3rw/m3p,LAM,65,Falkland Islands (Malvinas),"Industrial roundwood, non-coniferous",1
 c02,m3rw/m3p,LAM,69,French Guyana,"Industrial roundwood, non-coniferous",1
+c02,m3rw/m3p,LAM,86,Grenada,"Industrial roundwood, non-coniferous",1
 c02,m3rw/m3p,LAM,87,Guadeloupe,"Industrial roundwood, non-coniferous",1
 c02,m3rw/m3p,LAM,89,Guatemala,"Industrial roundwood, non-coniferous",1
 c02,m3rw/m3p,LAM,91,Guyana,"Industrial roundwood, non-coniferous",1
@@ -386,11 +434,13 @@ c02,m3rw/m3p,LAM,95,Honduras,"Industrial roundwood, non-coniferous",1
 c02,m3rw/m3p,LAM,109,Jamaica,"Industrial roundwood, non-coniferous",1
 c02,m3rw/m3p,LAM,135,Martinique,"Industrial roundwood, non-coniferous",1
 c02,m3rw/m3p,LAM,138,Mexico,"Industrial roundwood, non-coniferous",1
+c02,m3rw/m3p,LAM,142,Montserrat,"Industrial roundwood, non-coniferous",1
 c02,m3rw/m3p,LAM,151,Netherlands Antilles,"Industrial roundwood, non-coniferous",1
 c02,m3rw/m3p,LAM,157,Nicaragua,"Industrial roundwood, non-coniferous",1
 c02,m3rw/m3p,LAM,166,Panama,"Industrial roundwood, non-coniferous",1
 c02,m3rw/m3p,LAM,169,Paraguay,"Industrial roundwood, non-coniferous",1
 c02,m3rw/m3p,LAM,170,Peru,"Industrial roundwood, non-coniferous",1
+c02,m3rw/m3p,LAM,188,Saint Kitts and Nevis,"Industrial roundwood, non-coniferous",1
 c02,m3rw/m3p,LAM,189,Saint Lucia,"Industrial roundwood, non-coniferous",1
 c02,m3rw/m3p,LAM,191,Saint Vincent and the Grenadines,"Industrial roundwood, non-coniferous",1
 c02,m3rw/m3p,LAM,207,Suriname,"Industrial roundwood, non-coniferous",1
@@ -399,24 +449,42 @@ c02,m3rw/m3p,LAM,224,Turks and Caicos Islands,"Industrial roundwood, non-conifer
 c02,m3rw/m3p,LAM,234,Uruguay,"Industrial roundwood, non-coniferous",1
 c02,m3rw/m3p,LAM,236,Venezuela (Bolivarian Republic of),"Industrial roundwood, non-coniferous",1
 c02,m3rw/m3p,LAM,239,British Virgin Islands,"Industrial roundwood, non-coniferous",1
+c02,m3rw/m3p,LAM,258,Anguilla,"Industrial roundwood, non-coniferous",1
+c02,m3rw/m3p,LAM,279,Curaçao,"Industrial roundwood, non-coniferous",1
+c02,m3rw/m3p,LAM,281,Saint-Martin (French Part),"Industrial roundwood, non-coniferous",1
 c02,m3rw/m3p,NAM,33,Canada,"Industrial roundwood, non-coniferous",1
 c02,m3rw/m3p,NAM,190,Saint Pierre and Miquelon,"Industrial roundwood, non-coniferous",1
 c02,m3rw/m3p,NAM,231,United States of America,"Industrial roundwood, non-coniferous",1
+c02,m3rw/m3p,OCE,5,American Samoa,"Industrial roundwood, non-coniferous",1
 c02,m3rw/m3p,OCE,10,Australia,"Industrial roundwood, non-coniferous",1
 c02,m3rw/m3p,OCE,25,Solomon Islands,"Industrial roundwood, non-coniferous",1
 c02,m3rw/m3p,OCE,42,Christmas Island,"Industrial roundwood, non-coniferous",1
+c02,m3rw/m3p,OCE,43,Cocos (Keeling) Islands,"Industrial roundwood, non-coniferous",1
 c02,m3rw/m3p,OCE,47,Cook Islands,"Industrial roundwood, non-coniferous",1
 c02,m3rw/m3p,OCE,66,Fiji,"Industrial roundwood, non-coniferous",1
 c02,m3rw/m3p,OCE,70,French Polynesia,"Industrial roundwood, non-coniferous",1
+c02,m3rw/m3p,OCE,71,French Southern and Antarctic Territories,"Industrial roundwood, non-coniferous",1
 c02,m3rw/m3p,OCE,83,Kiribati,"Industrial roundwood, non-coniferous",1
+c02,m3rw/m3p,OCE,88,Guam,"Industrial roundwood, non-coniferous",1
+c02,m3rw/m3p,OCE,127,Marshall Islands,"Industrial roundwood, non-coniferous",1
 c02,m3rw/m3p,OCE,145,Micronesia (Federated States of),"Industrial roundwood, non-coniferous",1
+c02,m3rw/m3p,OCE,148,Nauru,"Industrial roundwood, non-coniferous",1
 c02,m3rw/m3p,OCE,153,New Caledonia,"Industrial roundwood, non-coniferous",1
 c02,m3rw/m3p,OCE,155,Vanuatu,"Industrial roundwood, non-coniferous",1
 c02,m3rw/m3p,OCE,156,New Zealand,"Industrial roundwood, non-coniferous",1
 c02,m3rw/m3p,OCE,160,Niue,"Industrial roundwood, non-coniferous",1
 c02,m3rw/m3p,OCE,161,Norfolk Island,"Industrial roundwood, non-coniferous",1
+c02,m3rw/m3p,OCE,163,Northern Mariana Islands,"Industrial roundwood, non-coniferous",1
 c02,m3rw/m3p,OCE,168,Papua New Guinea,"Industrial roundwood, non-coniferous",1
+c02,m3rw/m3p,OCE,172,Pitcairn Islands,"Industrial roundwood, non-coniferous",1
+c02,m3rw/m3p,OCE,180,Palau,"Industrial roundwood, non-coniferous",1
+c02,m3rw/m3p,OCE,218,Tokelau,"Industrial roundwood, non-coniferous",1
+c02,m3rw/m3p,OCE,227,Tuvalu,"Industrial roundwood, non-coniferous",1
+c02,m3rw/m3p,OCE,242,Wake Island,"Industrial roundwood, non-coniferous",1
+c02,m3rw/m3p,OCE,243,Wallis and Futuna Islands,"Industrial roundwood, non-coniferous",1
 c02,m3rw/m3p,OCE,244,Samoa,"Industrial roundwood, non-coniferous",1
+c02,m3rw/m3p,XXX,252,Unspecified Area,"Industrial roundwood, non-coniferous",1
+c02,m3rw/m3p,XXX,254,Others (adjustment),"Industrial roundwood, non-coniferous",1
 c03,m3rw/m3p,AFR,4,Algeria,Wood fuel,1
 c03,m3rw/m3p,AFR,7,Angola,Wood fuel,1
 c03,m3rw/m3p,AFR,20,Botswana,Wood fuel,1
@@ -455,12 +523,14 @@ c03,m3rw/m3p,AFR,178,Eritrea,Wood fuel,1
 c03,m3rw/m3p,AFR,181,Zimbabwe,Wood fuel,1
 c03,m3rw/m3p,AFR,182,Reunion,Wood fuel,1
 c03,m3rw/m3p,AFR,184,Rwanda,Wood fuel,1
+c03,m3rw/m3p,AFR,187,"Saint Helena, Ascension and Tristan da Cunha",Wood fuel,1
 c03,m3rw/m3p,AFR,193,Sao Tome and Principe,Wood fuel,1
 c03,m3rw/m3p,AFR,195,Senegal,Wood fuel,1
 c03,m3rw/m3p,AFR,196,Seychelles,Wood fuel,1
 c03,m3rw/m3p,AFR,197,Sierra Leone,Wood fuel,1
 c03,m3rw/m3p,AFR,201,Somalia,Wood fuel,1
 c03,m3rw/m3p,AFR,202,South Africa,Wood fuel,1
+c03,m3rw/m3p,AFR,205,Western Sahara,Wood fuel,1
 c03,m3rw/m3p,AFR,209,Eswatini,Wood fuel,1
 c03,m3rw/m3p,AFR,215,United Republic of Tanzania,Wood fuel,1
 c03,m3rw/m3p,AFR,217,Togo,Wood fuel,1
@@ -479,6 +549,7 @@ c03,m3rw/m3p,ASI,2,Afghanistan,Wood fuel,1
 c03,m3rw/m3p,ASI,13,Bahrain,Wood fuel,1
 c03,m3rw/m3p,ASI,16,Bangladesh,Wood fuel,1
 c03,m3rw/m3p,ASI,18,Bhutan,Wood fuel,1
+c03,m3rw/m3p,ASI,24,British Indian Ocean Territory,Wood fuel,1
 c03,m3rw/m3p,ASI,26,Brunei Darussalam,Wood fuel,1
 c03,m3rw/m3p,ASI,28,Myanmar,Wood fuel,1
 c03,m3rw/m3p,ASI,38,Sri Lanka,Wood fuel,1
@@ -506,6 +577,7 @@ c03,m3rw/m3p,ASI,131,Malaysia,Wood fuel,1
 c03,m3rw/m3p,ASI,132,Maldives,Wood fuel,1
 c03,m3rw/m3p,ASI,141,Mongolia,Wood fuel,1
 c03,m3rw/m3p,ASI,149,Nepal,Wood fuel,1
+c03,m3rw/m3p,ASI,164,Pacific Islands Trust Territory,Wood fuel,1
 c03,m3rw/m3p,ASI,165,Pakistan,Wood fuel,1
 c03,m3rw/m3p,ASI,171,Philippines,Wood fuel,1
 c03,m3rw/m3p,ASI,176,Timor-Leste,Wood fuel,1
@@ -520,9 +592,11 @@ c03,m3rw/m3p,ASI,214,"China, Taiwan Province of",Wood fuel,1
 c03,m3rw/m3p,ASI,216,Thailand,Wood fuel,1
 c03,m3rw/m3p,ASI,221,Oman,Wood fuel,1
 c03,m3rw/m3p,ASI,225,United Arab Emirates,Wood fuel,1
+c03,m3rw/m3p,ASI,228,USSR,Wood fuel,1
 c03,m3rw/m3p,ASI,235,Uzbekistan,Wood fuel,1
 c03,m3rw/m3p,ASI,237,Viet Nam,Wood fuel,1
 c03,m3rw/m3p,ASI,249,Yemen,Wood fuel,1
+c03,m3rw/m3p,ASI,299,Palestine,Wood fuel,1
 c03,m3rw/m3p,EUR,3,Albania,Wood fuel,1
 c03,m3rw/m3p,EUR,6,Andorra,Wood fuel,1
 c03,m3rw/m3p,EUR,11,Austria,Wood fuel,1
@@ -540,6 +614,8 @@ c03,m3rw/m3p,EUR,79,Germany,Wood fuel,1
 c03,m3rw/m3p,EUR,80,Bosnia and Herzegovina,Wood fuel,1
 c03,m3rw/m3p,EUR,82,Gibraltar,Wood fuel,1
 c03,m3rw/m3p,EUR,84,Greece,Wood fuel,1
+c03,m3rw/m3p,EUR,85,Greenland,Wood fuel,1
+c03,m3rw/m3p,EUR,94,Holy See,Wood fuel,1
 c03,m3rw/m3p,EUR,97,Hungary,Wood fuel,1
 c03,m3rw/m3p,EUR,98,Croatia,Wood fuel,1
 c03,m3rw/m3p,EUR,99,Iceland,Wood fuel,1
@@ -558,6 +634,7 @@ c03,m3rw/m3p,EUR,173,Poland,Wood fuel,1
 c03,m3rw/m3p,EUR,174,Portugal,Wood fuel,1
 c03,m3rw/m3p,EUR,183,Romania,Wood fuel,1
 c03,m3rw/m3p,EUR,186,Serbia and Montenegro,Wood fuel,1
+c03,m3rw/m3p,EUR,192,San Marino,Wood fuel,1
 c03,m3rw/m3p,EUR,198,Slovenia,Wood fuel,1
 c03,m3rw/m3p,EUR,199,Slovakia,Wood fuel,1
 c03,m3rw/m3p,EUR,203,Spain,Wood fuel,1
@@ -566,17 +643,21 @@ c03,m3rw/m3p,EUR,211,Switzerland,Wood fuel,1
 c03,m3rw/m3p,EUR,223,Turkey,Wood fuel,1
 c03,m3rw/m3p,EUR,229,United Kingdom,Wood fuel,1
 c03,m3rw/m3p,EUR,230,Ukraine,Wood fuel,1
+c03,m3rw/m3p,EUR,248,Yugoslav SFR,Wood fuel,1
 c03,m3rw/m3p,EUR,255,Belgium,Wood fuel,1
 c03,m3rw/m3p,EUR,256,Luxembourg,Wood fuel,1
 c03,m3rw/m3p,EUR,272,Serbia,Wood fuel,1
 c03,m3rw/m3p,EUR,273,Montenegro,Wood fuel,1
+c03,m3rw/m3p,LAM,8,Antigua and Barbuda,Wood fuel,1
 c03,m3rw/m3p,LAM,9,Argentina,Wood fuel,1
 c03,m3rw/m3p,LAM,12,Bahamas,Wood fuel,1
 c03,m3rw/m3p,LAM,14,Barbados,Wood fuel,1
+c03,m3rw/m3p,LAM,17,Bermuda,Wood fuel,1
 c03,m3rw/m3p,LAM,19,Bolivia (Plurinational State of),Wood fuel,1
 c03,m3rw/m3p,LAM,21,Brazil,Wood fuel,1
 c03,m3rw/m3p,LAM,22,Aruba,Wood fuel,1
 c03,m3rw/m3p,LAM,23,Belize,Wood fuel,1
+c03,m3rw/m3p,LAM,36,Cayman Islands,Wood fuel,1
 c03,m3rw/m3p,LAM,40,Chile,Wood fuel,1
 c03,m3rw/m3p,LAM,44,Colombia,Wood fuel,1
 c03,m3rw/m3p,LAM,48,Costa Rica,Wood fuel,1
@@ -587,6 +668,7 @@ c03,m3rw/m3p,LAM,58,Ecuador,Wood fuel,1
 c03,m3rw/m3p,LAM,60,El Salvador,Wood fuel,1
 c03,m3rw/m3p,LAM,65,Falkland Islands (Malvinas),Wood fuel,1
 c03,m3rw/m3p,LAM,69,French Guyana,Wood fuel,1
+c03,m3rw/m3p,LAM,86,Grenada,Wood fuel,1
 c03,m3rw/m3p,LAM,87,Guadeloupe,Wood fuel,1
 c03,m3rw/m3p,LAM,89,Guatemala,Wood fuel,1
 c03,m3rw/m3p,LAM,91,Guyana,Wood fuel,1
@@ -595,11 +677,13 @@ c03,m3rw/m3p,LAM,95,Honduras,Wood fuel,1
 c03,m3rw/m3p,LAM,109,Jamaica,Wood fuel,1
 c03,m3rw/m3p,LAM,135,Martinique,Wood fuel,1
 c03,m3rw/m3p,LAM,138,Mexico,Wood fuel,1
+c03,m3rw/m3p,LAM,142,Montserrat,Wood fuel,1
 c03,m3rw/m3p,LAM,151,Netherlands Antilles,Wood fuel,1
 c03,m3rw/m3p,LAM,157,Nicaragua,Wood fuel,1
 c03,m3rw/m3p,LAM,166,Panama,Wood fuel,1
 c03,m3rw/m3p,LAM,169,Paraguay,Wood fuel,1
 c03,m3rw/m3p,LAM,170,Peru,Wood fuel,1
+c03,m3rw/m3p,LAM,188,Saint Kitts and Nevis,Wood fuel,1
 c03,m3rw/m3p,LAM,189,Saint Lucia,Wood fuel,1
 c03,m3rw/m3p,LAM,191,Saint Vincent and the Grenadines,Wood fuel,1
 c03,m3rw/m3p,LAM,207,Suriname,Wood fuel,1
@@ -608,24 +692,42 @@ c03,m3rw/m3p,LAM,224,Turks and Caicos Islands,Wood fuel,1
 c03,m3rw/m3p,LAM,234,Uruguay,Wood fuel,1
 c03,m3rw/m3p,LAM,236,Venezuela (Bolivarian Republic of),Wood fuel,1
 c03,m3rw/m3p,LAM,239,British Virgin Islands,Wood fuel,1
+c03,m3rw/m3p,LAM,258,Anguilla,Wood fuel,1
+c03,m3rw/m3p,LAM,279,Curaçao,Wood fuel,1
+c03,m3rw/m3p,LAM,281,Saint-Martin (French Part),Wood fuel,1
 c03,m3rw/m3p,NAM,33,Canada,Wood fuel,1
 c03,m3rw/m3p,NAM,190,Saint Pierre and Miquelon,Wood fuel,1
 c03,m3rw/m3p,NAM,231,United States of America,Wood fuel,1
+c03,m3rw/m3p,OCE,5,American Samoa,Wood fuel,1
 c03,m3rw/m3p,OCE,10,Australia,Wood fuel,1
 c03,m3rw/m3p,OCE,25,Solomon Islands,Wood fuel,1
 c03,m3rw/m3p,OCE,42,Christmas Island,Wood fuel,1
+c03,m3rw/m3p,OCE,43,Cocos (Keeling) Islands,Wood fuel,1
 c03,m3rw/m3p,OCE,47,Cook Islands,Wood fuel,1
 c03,m3rw/m3p,OCE,66,Fiji,Wood fuel,1
 c03,m3rw/m3p,OCE,70,French Polynesia,Wood fuel,1
+c03,m3rw/m3p,OCE,71,French Southern and Antarctic Territories,Wood fuel,1
 c03,m3rw/m3p,OCE,83,Kiribati,Wood fuel,1
+c03,m3rw/m3p,OCE,88,Guam,Wood fuel,1
+c03,m3rw/m3p,OCE,127,Marshall Islands,Wood fuel,1
 c03,m3rw/m3p,OCE,145,Micronesia (Federated States of),Wood fuel,1
+c03,m3rw/m3p,OCE,148,Nauru,Wood fuel,1
 c03,m3rw/m3p,OCE,153,New Caledonia,Wood fuel,1
 c03,m3rw/m3p,OCE,155,Vanuatu,Wood fuel,1
 c03,m3rw/m3p,OCE,156,New Zealand,Wood fuel,1
 c03,m3rw/m3p,OCE,160,Niue,Wood fuel,1
 c03,m3rw/m3p,OCE,161,Norfolk Island,Wood fuel,1
+c03,m3rw/m3p,OCE,163,Northern Mariana Islands,Wood fuel,1
 c03,m3rw/m3p,OCE,168,Papua New Guinea,Wood fuel,1
+c03,m3rw/m3p,OCE,172,Pitcairn Islands,Wood fuel,1
+c03,m3rw/m3p,OCE,180,Palau,Wood fuel,1
+c03,m3rw/m3p,OCE,218,Tokelau,Wood fuel,1
+c03,m3rw/m3p,OCE,227,Tuvalu,Wood fuel,1
+c03,m3rw/m3p,OCE,242,Wake Island,Wood fuel,1
+c03,m3rw/m3p,OCE,243,Wallis and Futuna Islands,Wood fuel,1
 c03,m3rw/m3p,OCE,244,Samoa,Wood fuel,1
+c03,m3rw/m3p,XXX,252,Unspecified Area,Wood fuel,1
+c03,m3rw/m3p,XXX,254,Others (adjustment),Wood fuel,1
 c03,m3sw/tonne,AFR,4,Algeria,Wood fuel,1.4458708335
 c03,m3sw/tonne,AFR,7,Angola,Wood fuel,1.4458708335
 c03,m3sw/tonne,AFR,20,Botswana,Wood fuel,1.4458708335
@@ -664,12 +766,14 @@ c03,m3sw/tonne,AFR,178,Eritrea,Wood fuel,1.4458708335
 c03,m3sw/tonne,AFR,181,Zimbabwe,Wood fuel,1.4458708335
 c03,m3sw/tonne,AFR,182,Reunion,Wood fuel,1.4458708335
 c03,m3sw/tonne,AFR,184,Rwanda,Wood fuel,1.4458708335
+c03,m3sw/tonne,AFR,187,"Saint Helena, Ascension and Tristan da Cunha",Wood fuel,1
 c03,m3sw/tonne,AFR,193,Sao Tome and Principe,Wood fuel,1.4458708335
 c03,m3sw/tonne,AFR,195,Senegal,Wood fuel,1.4458708335
 c03,m3sw/tonne,AFR,196,Seychelles,Wood fuel,1.4458708335
 c03,m3sw/tonne,AFR,197,Sierra Leone,Wood fuel,1.4458708335
 c03,m3sw/tonne,AFR,201,Somalia,Wood fuel,1.4458708335
 c03,m3sw/tonne,AFR,202,South Africa,Wood fuel,1.4458708335
+c03,m3sw/tonne,AFR,205,Western Sahara,Wood fuel,1
 c03,m3sw/tonne,AFR,209,Eswatini,Wood fuel,1.4458708335
 c03,m3sw/tonne,AFR,215,United Republic of Tanzania,Wood fuel,1.4458708335
 c03,m3sw/tonne,AFR,217,Togo,Wood fuel,1.4458708335
@@ -688,6 +792,7 @@ c03,m3sw/tonne,ASI,2,Afghanistan,Wood fuel,1.4458708335
 c03,m3sw/tonne,ASI,13,Bahrain,Wood fuel,1.4458708335
 c03,m3sw/tonne,ASI,16,Bangladesh,Wood fuel,1.4458708335
 c03,m3sw/tonne,ASI,18,Bhutan,Wood fuel,1.4458708335
+c03,m3sw/tonne,ASI,24,British Indian Ocean Territory,Wood fuel,1
 c03,m3sw/tonne,ASI,26,Brunei Darussalam,Wood fuel,1.4458708335
 c03,m3sw/tonne,ASI,28,Myanmar,Wood fuel,1.4458708335
 c03,m3sw/tonne,ASI,38,Sri Lanka,Wood fuel,1.4458708335
@@ -715,6 +820,7 @@ c03,m3sw/tonne,ASI,131,Malaysia,Wood fuel,1.4458708335
 c03,m3sw/tonne,ASI,132,Maldives,Wood fuel,1.4458708335
 c03,m3sw/tonne,ASI,141,Mongolia,Wood fuel,1.4458708335
 c03,m3sw/tonne,ASI,149,Nepal,Wood fuel,1.4458708335
+c03,m3sw/tonne,ASI,164,Pacific Islands Trust Territory,Wood fuel,1
 c03,m3sw/tonne,ASI,165,Pakistan,Wood fuel,1.4458708335
 c03,m3sw/tonne,ASI,171,Philippines,Wood fuel,1.4458708335
 c03,m3sw/tonne,ASI,176,Timor-Leste,Wood fuel,1.4458708335
@@ -729,9 +835,11 @@ c03,m3sw/tonne,ASI,214,"China, Taiwan Province of",Wood fuel,1.4458708335
 c03,m3sw/tonne,ASI,216,Thailand,Wood fuel,1.4458708335
 c03,m3sw/tonne,ASI,221,Oman,Wood fuel,1.4458708335
 c03,m3sw/tonne,ASI,225,United Arab Emirates,Wood fuel,1.4458708335
+c03,m3sw/tonne,ASI,228,USSR,Wood fuel,1
 c03,m3sw/tonne,ASI,235,Uzbekistan,Wood fuel,1.4458708335
 c03,m3sw/tonne,ASI,237,Viet Nam,Wood fuel,1.4458708335
 c03,m3sw/tonne,ASI,249,Yemen,Wood fuel,1.4458708335
+c03,m3sw/tonne,ASI,299,Palestine,Wood fuel,1
 c03,m3sw/tonne,EUR,3,Albania,Wood fuel,1.263791667
 c03,m3sw/tonne,EUR,6,Andorra,Wood fuel,1.263791667
 c03,m3sw/tonne,EUR,11,Austria,Wood fuel,1.263791667
@@ -749,6 +857,8 @@ c03,m3sw/tonne,EUR,79,Germany,Wood fuel,1.263791667
 c03,m3sw/tonne,EUR,80,Bosnia and Herzegovina,Wood fuel,1.263791667
 c03,m3sw/tonne,EUR,82,Gibraltar,Wood fuel,1.263791667
 c03,m3sw/tonne,EUR,84,Greece,Wood fuel,1.263791667
+c03,m3sw/tonne,EUR,85,Greenland,Wood fuel,1
+c03,m3sw/tonne,EUR,94,Holy See,Wood fuel,1
 c03,m3sw/tonne,EUR,97,Hungary,Wood fuel,1.263791667
 c03,m3sw/tonne,EUR,98,Croatia,Wood fuel,1
 c03,m3sw/tonne,EUR,99,Iceland,Wood fuel,1.263791667
@@ -767,6 +877,7 @@ c03,m3sw/tonne,EUR,173,Poland,Wood fuel,1.32915
 c03,m3sw/tonne,EUR,174,Portugal,Wood fuel,1.263791667
 c03,m3sw/tonne,EUR,183,Romania,Wood fuel,1.263791667
 c03,m3sw/tonne,EUR,186,Serbia and Montenegro,Wood fuel,1.263791667
+c03,m3sw/tonne,EUR,192,San Marino,Wood fuel,1
 c03,m3sw/tonne,EUR,198,Slovenia,Wood fuel,1.49
 c03,m3sw/tonne,EUR,199,Slovakia,Wood fuel,1.263791667
 c03,m3sw/tonne,EUR,203,Spain,Wood fuel,1.263791667
@@ -775,17 +886,21 @@ c03,m3sw/tonne,EUR,211,Switzerland,Wood fuel,1.263791667
 c03,m3sw/tonne,EUR,223,Turkey,Wood fuel,1.263791667
 c03,m3sw/tonne,EUR,229,United Kingdom,Wood fuel,1.263791667
 c03,m3sw/tonne,EUR,230,Ukraine,Wood fuel,1.263791667
+c03,m3sw/tonne,EUR,248,Yugoslav SFR,Wood fuel,1
 c03,m3sw/tonne,EUR,255,Belgium,Wood fuel,1.263791667
 c03,m3sw/tonne,EUR,256,Luxembourg,Wood fuel,1.263791667
 c03,m3sw/tonne,EUR,272,Serbia,Wood fuel,1.263791667
 c03,m3sw/tonne,EUR,273,Montenegro,Wood fuel,1.263791667
+c03,m3sw/tonne,LAM,8,Antigua and Barbuda,Wood fuel,1
 c03,m3sw/tonne,LAM,9,Argentina,Wood fuel,1.62795
 c03,m3sw/tonne,LAM,12,Bahamas,Wood fuel,1.62795
 c03,m3sw/tonne,LAM,14,Barbados,Wood fuel,1.62795
+c03,m3sw/tonne,LAM,17,Bermuda,Wood fuel,1
 c03,m3sw/tonne,LAM,19,Bolivia (Plurinational State of),Wood fuel,1.62795
 c03,m3sw/tonne,LAM,21,Brazil,Wood fuel,1.62795
 c03,m3sw/tonne,LAM,22,Aruba,Wood fuel,1.62795
 c03,m3sw/tonne,LAM,23,Belize,Wood fuel,1.62795
+c03,m3sw/tonne,LAM,36,Cayman Islands,Wood fuel,1
 c03,m3sw/tonne,LAM,40,Chile,Wood fuel,1.7
 c03,m3sw/tonne,LAM,44,Colombia,Wood fuel,1.62795
 c03,m3sw/tonne,LAM,48,Costa Rica,Wood fuel,1.62795
@@ -796,6 +911,7 @@ c03,m3sw/tonne,LAM,58,Ecuador,Wood fuel,1.62795
 c03,m3sw/tonne,LAM,60,El Salvador,Wood fuel,1.62795
 c03,m3sw/tonne,LAM,65,Falkland Islands (Malvinas),Wood fuel,1.62795
 c03,m3sw/tonne,LAM,69,French Guyana,Wood fuel,1.62795
+c03,m3sw/tonne,LAM,86,Grenada,Wood fuel,1
 c03,m3sw/tonne,LAM,87,Guadeloupe,Wood fuel,1.62795
 c03,m3sw/tonne,LAM,89,Guatemala,Wood fuel,1.62795
 c03,m3sw/tonne,LAM,91,Guyana,Wood fuel,1.62795
@@ -804,11 +920,13 @@ c03,m3sw/tonne,LAM,95,Honduras,Wood fuel,1.62795
 c03,m3sw/tonne,LAM,109,Jamaica,Wood fuel,1.62795
 c03,m3sw/tonne,LAM,135,Martinique,Wood fuel,1.62795
 c03,m3sw/tonne,LAM,138,Mexico,Wood fuel,1.62795
+c03,m3sw/tonne,LAM,142,Montserrat,Wood fuel,1
 c03,m3sw/tonne,LAM,151,Netherlands Antilles,Wood fuel,1.62795
 c03,m3sw/tonne,LAM,157,Nicaragua,Wood fuel,1.62795
 c03,m3sw/tonne,LAM,166,Panama,Wood fuel,1.62795
 c03,m3sw/tonne,LAM,169,Paraguay,Wood fuel,1.62795
 c03,m3sw/tonne,LAM,170,Peru,Wood fuel,1.62795
+c03,m3sw/tonne,LAM,188,Saint Kitts and Nevis,Wood fuel,1
 c03,m3sw/tonne,LAM,189,Saint Lucia,Wood fuel,1.62795
 c03,m3sw/tonne,LAM,191,Saint Vincent and the Grenadines,Wood fuel,1.62795
 c03,m3sw/tonne,LAM,207,Suriname,Wood fuel,1.62795
@@ -817,26 +935,45 @@ c03,m3sw/tonne,LAM,224,Turks and Caicos Islands,Wood fuel,1.62795
 c03,m3sw/tonne,LAM,234,Uruguay,Wood fuel,1.5
 c03,m3sw/tonne,LAM,236,Venezuela (Bolivarian Republic of),Wood fuel,1.62795
 c03,m3sw/tonne,LAM,239,British Virgin Islands,Wood fuel,1.62795
+c03,m3sw/tonne,LAM,258,Anguilla,Wood fuel,1
+c03,m3sw/tonne,LAM,279,Curaçao,Wood fuel,1
+c03,m3sw/tonne,LAM,281,Saint-Martin (French Part),Wood fuel,1
 c03,m3sw/tonne,NAM,33,Canada,Wood fuel,1.4458708335
 c03,m3sw/tonne,NAM,190,Saint Pierre and Miquelon,Wood fuel,1.4458708335
 c03,m3sw/tonne,NAM,231,United States of America,Wood fuel,1.4458708335
+c03,m3sw/tonne,OCE,5,American Samoa,Wood fuel,1
 c03,m3sw/tonne,OCE,10,Australia,Wood fuel,1.4458708335
 c03,m3sw/tonne,OCE,25,Solomon Islands,Wood fuel,1.4458708335
 c03,m3sw/tonne,OCE,42,Christmas Island,Wood fuel,1.4458708335
+c03,m3sw/tonne,OCE,43,Cocos (Keeling) Islands,Wood fuel,1
 c03,m3sw/tonne,OCE,47,Cook Islands,Wood fuel,1.4458708335
 c03,m3sw/tonne,OCE,66,Fiji,Wood fuel,1.4458708335
 c03,m3sw/tonne,OCE,70,French Polynesia,Wood fuel,1.4458708335
+c03,m3sw/tonne,OCE,71,French Southern and Antarctic Territories,Wood fuel,1
 c03,m3sw/tonne,OCE,83,Kiribati,Wood fuel,1.4458708335
+c03,m3sw/tonne,OCE,88,Guam,Wood fuel,1
+c03,m3sw/tonne,OCE,127,Marshall Islands,Wood fuel,1
 c03,m3sw/tonne,OCE,145,Micronesia (Federated States of),Wood fuel,1.4458708335
+c03,m3sw/tonne,OCE,148,Nauru,Wood fuel,1
 c03,m3sw/tonne,OCE,153,New Caledonia,Wood fuel,1.4458708335
 c03,m3sw/tonne,OCE,155,Vanuatu,Wood fuel,1.4458708335
 c03,m3sw/tonne,OCE,156,New Zealand,Wood fuel,1.4458708335
 c03,m3sw/tonne,OCE,160,Niue,Wood fuel,1.4458708335
 c03,m3sw/tonne,OCE,161,Norfolk Island,Wood fuel,1.4458708335
+c03,m3sw/tonne,OCE,163,Northern Mariana Islands,Wood fuel,1
 c03,m3sw/tonne,OCE,168,Papua New Guinea,Wood fuel,1.4458708335
+c03,m3sw/tonne,OCE,172,Pitcairn Islands,Wood fuel,1
+c03,m3sw/tonne,OCE,180,Palau,Wood fuel,1
+c03,m3sw/tonne,OCE,218,Tokelau,Wood fuel,1
+c03,m3sw/tonne,OCE,227,Tuvalu,Wood fuel,1
+c03,m3sw/tonne,OCE,242,Wake Island,Wood fuel,1
+c03,m3sw/tonne,OCE,243,Wallis and Futuna Islands,Wood fuel,1
 c03,m3sw/tonne,OCE,244,Samoa,Wood fuel,1.4458708335
+c03,m3sw/tonne,XXX,252,Unspecified Area,Wood fuel,1
+c03,m3sw/tonne,XXX,254,Others (adjustment),Wood fuel,1
 c04,m3rw/m3p,AFR,4,Algeria,"Sawnwood, coniferous",2.08
 c04,m3rw/m3p,AFR,7,Angola,"Sawnwood, coniferous",2.08
+c04,m3rw/m3p,AFR,7,Bermuda,"Sawnwood, coniferous",2.08
 c04,m3rw/m3p,AFR,20,Botswana,"Sawnwood, coniferous",2.08
 c04,m3rw/m3p,AFR,29,Burundi,"Sawnwood, coniferous",2.08
 c04,m3rw/m3p,AFR,32,Cameroon,"Sawnwood, coniferous",2.08
@@ -849,6 +986,7 @@ c04,m3rw/m3p,AFR,53,Benin,"Sawnwood, coniferous",2.08
 c04,m3rw/m3p,AFR,59,Egypt,"Sawnwood, coniferous",2.08
 c04,m3rw/m3p,AFR,61,Equatorial Guinea,"Sawnwood, coniferous",2.08
 c04,m3rw/m3p,AFR,72,Djibouti,"Sawnwood, coniferous",2.08
+c04,m3rw/m3p,AFR,72,Pitcairn Islands,"Sawnwood, coniferous",2.08
 c04,m3rw/m3p,AFR,74,Gabon,"Sawnwood, coniferous",2.08
 c04,m3rw/m3p,AFR,75,Gambia,"Sawnwood, coniferous",2.08
 c04,m3rw/m3p,AFR,81,Ghana,"Sawnwood, coniferous",2.08
@@ -879,6 +1017,7 @@ c04,m3rw/m3p,AFR,196,Seychelles,"Sawnwood, coniferous",2.08
 c04,m3rw/m3p,AFR,197,Sierra Leone,"Sawnwood, coniferous",2.08
 c04,m3rw/m3p,AFR,201,Somalia,"Sawnwood, coniferous",2.08
 c04,m3rw/m3p,AFR,202,South Africa,"Sawnwood, coniferous",2.08
+c04,m3rw/m3p,AFR,205,Western Sahara,"Sawnwood, coniferous",2.08
 c04,m3rw/m3p,AFR,209,Eswatini,"Sawnwood, coniferous",2.08
 c04,m3rw/m3p,AFR,215,United Republic of Tanzania,"Sawnwood, coniferous",2.08
 c04,m3rw/m3p,AFR,217,Togo,"Sawnwood, coniferous",2.08
@@ -897,6 +1036,7 @@ c04,m3rw/m3p,ASI,2,Afghanistan,"Sawnwood, coniferous",1.86
 c04,m3rw/m3p,ASI,13,Bahrain,"Sawnwood, coniferous",1.86
 c04,m3rw/m3p,ASI,16,Bangladesh,"Sawnwood, coniferous",1.86
 c04,m3rw/m3p,ASI,18,Bhutan,"Sawnwood, coniferous",1.86
+c04,m3rw/m3p,ASI,24,British Indian Ocean Territory,"Sawnwood, coniferous",1.86
 c04,m3rw/m3p,ASI,26,Brunei Darussalam,"Sawnwood, coniferous",1.86
 c04,m3rw/m3p,ASI,28,Myanmar,"Sawnwood, coniferous",1.86
 c04,m3rw/m3p,ASI,38,Sri Lanka,"Sawnwood, coniferous",1.86
@@ -932,32 +1072,41 @@ c04,m3rw/m3p,ASI,185,Russian Federation,"Sawnwood, coniferous",1.86
 c04,m3rw/m3p,ASI,194,Saudi Arabia,"Sawnwood, coniferous",1.86
 c04,m3rw/m3p,ASI,200,Singapore,"Sawnwood, coniferous",1.86
 c04,m3rw/m3p,ASI,208,Tajikistan,"Sawnwood, coniferous",1.86
+c04,m3rw/m3p,ASI,208,Tokelau,"Sawnwood, coniferous",1.86
 c04,m3rw/m3p,ASI,212,Syrian Arab Republic,"Sawnwood, coniferous",1.86
 c04,m3rw/m3p,ASI,213,Turkmenistan,"Sawnwood, coniferous",1.86
 c04,m3rw/m3p,ASI,214,"China, Taiwan Province of","Sawnwood, coniferous",1.86
 c04,m3rw/m3p,ASI,216,Thailand,"Sawnwood, coniferous",1.86
 c04,m3rw/m3p,ASI,221,Oman,"Sawnwood, coniferous",1.86
 c04,m3rw/m3p,ASI,225,United Arab Emirates,"Sawnwood, coniferous",1.86
+c04,m3rw/m3p,ASI,228,USSR,"Sawnwood, coniferous",1.86
 c04,m3rw/m3p,ASI,235,Uzbekistan,"Sawnwood, coniferous",1.86
 c04,m3rw/m3p,ASI,237,Viet Nam,"Sawnwood, coniferous",1.86
 c04,m3rw/m3p,ASI,249,Yemen,"Sawnwood, coniferous",1.86
+c04,m3rw/m3p,ASI,299,Palestine,"Sawnwood, coniferous",1.86
 c04,m3rw/m3p,EUR,3,Albania,"Sawnwood, coniferous",1.82
 c04,m3rw/m3p,EUR,6,Andorra,"Sawnwood, coniferous",1.82
 c04,m3rw/m3p,EUR,11,Austria,"Sawnwood, coniferous",1.66
 c04,m3rw/m3p,EUR,15,Belgium-Luxembourg,"Sawnwood, coniferous",1.82
 c04,m3rw/m3p,EUR,27,Bulgaria,"Sawnwood, coniferous",1.82
+c04,m3rw/m3p,EUR,27,Marshall Islands,"Sawnwood, coniferous",1.82
 c04,m3rw/m3p,EUR,50,Cyprus,"Sawnwood, coniferous",1.82
 c04,m3rw/m3p,EUR,51,Czechoslovakia,"Sawnwood, coniferous",1.82
 c04,m3rw/m3p,EUR,54,Denmark,"Sawnwood, coniferous",1.92
 c04,m3rw/m3p,EUR,57,Belarus,"Sawnwood, coniferous",1.82
 c04,m3rw/m3p,EUR,63,Estonia,"Sawnwood, coniferous",1.82
+c04,m3rw/m3p,EUR,63,Northern Mariana Islands,"Sawnwood, coniferous",1.82
 c04,m3rw/m3p,EUR,64,Faroe Islands,"Sawnwood, coniferous",1.82
+c04,m3rw/m3p,EUR,64,Pacific Islands Trust Territory,"Sawnwood, coniferous",1.82
 c04,m3rw/m3p,EUR,67,Finland,"Sawnwood, coniferous",2
 c04,m3rw/m3p,EUR,68,France,"Sawnwood, coniferous",1.81
 c04,m3rw/m3p,EUR,79,Germany,"Sawnwood, coniferous",1.67
 c04,m3rw/m3p,EUR,80,Bosnia and Herzegovina,"Sawnwood, coniferous",1.82
+c04,m3rw/m3p,EUR,80,Palau,"Sawnwood, coniferous",1.82
 c04,m3rw/m3p,EUR,82,Gibraltar,"Sawnwood, coniferous",1.82
 c04,m3rw/m3p,EUR,84,Greece,"Sawnwood, coniferous",1.82
+c04,m3rw/m3p,EUR,85,Greenland,"Sawnwood, coniferous",1.82
+c04,m3rw/m3p,EUR,94,Holy See,"Sawnwood, coniferous",1.82
 c04,m3rw/m3p,EUR,97,Hungary,"Sawnwood, coniferous",1.82
 c04,m3rw/m3p,EUR,98,Croatia,"Sawnwood, coniferous",1.54
 c04,m3rw/m3p,EUR,99,Iceland,"Sawnwood, coniferous",1.82
@@ -984,10 +1133,12 @@ c04,m3rw/m3p,EUR,211,Switzerland,"Sawnwood, coniferous",1.82
 c04,m3rw/m3p,EUR,223,Turkey,"Sawnwood, coniferous",1.82
 c04,m3rw/m3p,EUR,229,United Kingdom,"Sawnwood, coniferous",1.85
 c04,m3rw/m3p,EUR,230,Ukraine,"Sawnwood, coniferous",1.78
+c04,m3rw/m3p,EUR,248,Yugoslav SFR,"Sawnwood, coniferous",1.82
 c04,m3rw/m3p,EUR,255,Belgium,"Sawnwood, coniferous",1.82
 c04,m3rw/m3p,EUR,256,Luxembourg,"Sawnwood, coniferous",1.82
 c04,m3rw/m3p,EUR,272,Serbia,"Sawnwood, coniferous",1.82
 c04,m3rw/m3p,EUR,273,Montenegro,"Sawnwood, coniferous",1.82
+c04,m3rw/m3p,LAM,8,Antigua and Barbuda,"Sawnwood, coniferous",2.12
 c04,m3rw/m3p,LAM,9,Argentina,"Sawnwood, coniferous",2.12
 c04,m3rw/m3p,LAM,12,Bahamas,"Sawnwood, coniferous",2.12
 c04,m3rw/m3p,LAM,14,Barbados,"Sawnwood, coniferous",2.12
@@ -995,9 +1146,11 @@ c04,m3rw/m3p,LAM,19,Bolivia (Plurinational State of),"Sawnwood, coniferous",2.12
 c04,m3rw/m3p,LAM,21,Brazil,"Sawnwood, coniferous",2.22
 c04,m3rw/m3p,LAM,22,Aruba,"Sawnwood, coniferous",2.12
 c04,m3rw/m3p,LAM,23,Belize,"Sawnwood, coniferous",2.12
+c04,m3rw/m3p,LAM,36,Cayman Islands,"Sawnwood, coniferous",2.12
 c04,m3rw/m3p,LAM,40,Chile,"Sawnwood, coniferous",2.12
 c04,m3rw/m3p,LAM,44,Colombia,"Sawnwood, coniferous",2.12
 c04,m3rw/m3p,LAM,48,Costa Rica,"Sawnwood, coniferous",2.12
+c04,m3rw/m3p,LAM,48,Nauru,"Sawnwood, coniferous",2.12
 c04,m3rw/m3p,LAM,49,Cuba,"Sawnwood, coniferous",2.12
 c04,m3rw/m3p,LAM,55,Dominica,"Sawnwood, coniferous",2.12
 c04,m3rw/m3p,LAM,56,Dominican Republic,"Sawnwood, coniferous",2.12
@@ -1005,7 +1158,9 @@ c04,m3rw/m3p,LAM,58,Ecuador,"Sawnwood, coniferous",2.12
 c04,m3rw/m3p,LAM,60,El Salvador,"Sawnwood, coniferous",2.12
 c04,m3rw/m3p,LAM,65,Falkland Islands (Malvinas),"Sawnwood, coniferous",2.12
 c04,m3rw/m3p,LAM,69,French Guyana,"Sawnwood, coniferous",2.12
+c04,m3rw/m3p,LAM,86,Grenada,"Sawnwood, coniferous",2.12
 c04,m3rw/m3p,LAM,87,Guadeloupe,"Sawnwood, coniferous",2.12
+c04,m3rw/m3p,LAM,87,"Saint Helena, Ascension and Tristan da Cunha","Sawnwood, coniferous",2.12
 c04,m3rw/m3p,LAM,89,Guatemala,"Sawnwood, coniferous",2.12
 c04,m3rw/m3p,LAM,91,Guyana,"Sawnwood, coniferous",2.12
 c04,m3rw/m3p,LAM,93,Haiti,"Sawnwood, coniferous",2.12
@@ -1026,16 +1181,24 @@ c04,m3rw/m3p,LAM,224,Turks and Caicos Islands,"Sawnwood, coniferous",2.12
 c04,m3rw/m3p,LAM,234,Uruguay,"Sawnwood, coniferous",2.02
 c04,m3rw/m3p,LAM,236,Venezuela (Bolivarian Republic of),"Sawnwood, coniferous",2.12
 c04,m3rw/m3p,LAM,239,British Virgin Islands,"Sawnwood, coniferous",2.12
+c04,m3rw/m3p,LAM,258,Anguilla,"Sawnwood, coniferous",2.12
+c04,m3rw/m3p,LAM,279,Curaçao,"Sawnwood, coniferous",2.12
 c04,m3rw/m3p,NAM,33,Canada,"Sawnwood, coniferous",2.22
 c04,m3rw/m3p,NAM,190,Saint Pierre and Miquelon,"Sawnwood, coniferous",2.13
 c04,m3rw/m3p,NAM,231,United States of America,"Sawnwood, coniferous",2.04
+c04,m3rw/m3p,OCE,5,American Samoa,"Sawnwood, coniferous",1.81
 c04,m3rw/m3p,OCE,10,Australia,"Sawnwood, coniferous",1.81
 c04,m3rw/m3p,OCE,25,Solomon Islands,"Sawnwood, coniferous",1.81
 c04,m3rw/m3p,OCE,42,Christmas Island,"Sawnwood, coniferous",1.81
+c04,m3rw/m3p,OCE,42,Montserrat,"Sawnwood, coniferous",1.81
+c04,m3rw/m3p,OCE,43,Cocos (Keeling) Islands,"Sawnwood, coniferous",1.81
 c04,m3rw/m3p,OCE,47,Cook Islands,"Sawnwood, coniferous",1.81
 c04,m3rw/m3p,OCE,66,Fiji,"Sawnwood, coniferous",1.81
 c04,m3rw/m3p,OCE,70,French Polynesia,"Sawnwood, coniferous",1.81
+c04,m3rw/m3p,OCE,70,French Southern and Antarctic Territories,"Sawnwood, coniferous",1.81
 c04,m3rw/m3p,OCE,83,Kiribati,"Sawnwood, coniferous",1.81
+c04,m3rw/m3p,OCE,88,Guam,"Sawnwood, coniferous",1.81
+c04,m3rw/m3p,OCE,88,Saint Kitts and Nevis,"Sawnwood, coniferous",1.81
 c04,m3rw/m3p,OCE,145,Micronesia (Federated States of),"Sawnwood, coniferous",1.81
 c04,m3rw/m3p,OCE,153,New Caledonia,"Sawnwood, coniferous",1.81
 c04,m3rw/m3p,OCE,155,Vanuatu,"Sawnwood, coniferous",1.81
@@ -1043,9 +1206,15 @@ c04,m3rw/m3p,OCE,156,New Zealand,"Sawnwood, coniferous",1.81
 c04,m3rw/m3p,OCE,160,Niue,"Sawnwood, coniferous",1.81
 c04,m3rw/m3p,OCE,161,Norfolk Island,"Sawnwood, coniferous",1.81
 c04,m3rw/m3p,OCE,168,Papua New Guinea,"Sawnwood, coniferous",1.81
+c04,m3rw/m3p,OCE,227,Tuvalu,"Sawnwood, coniferous",1.81
+c04,m3rw/m3p,OCE,242,Wake Island,"Sawnwood, coniferous",1.81
+c04,m3rw/m3p,OCE,243,Wallis and Futuna Islands,"Sawnwood, coniferous",1.81
 c04,m3rw/m3p,OCE,244,Samoa,"Sawnwood, coniferous",1.81
+c04,m3rw/m3p,XXX,252,Unspecified Area,"Sawnwood, coniferous",1.97
+c04,m3rw/m3p,XXX,254,Others (adjustment),"Sawnwood, coniferous",1.97
 c05,m3rw/m3p,AFR,4,Algeria,"Sawnwood, non-coniferous all",1.82
 c05,m3rw/m3p,AFR,7,Angola,"Sawnwood, non-coniferous all",1.82
+c05,m3rw/m3p,AFR,7,Bermuda,"Sawnwood, non-coniferous all",1.82
 c05,m3rw/m3p,AFR,20,Botswana,"Sawnwood, non-coniferous all",1.82
 c05,m3rw/m3p,AFR,29,Burundi,"Sawnwood, non-coniferous all",1.82
 c05,m3rw/m3p,AFR,32,Cameroon,"Sawnwood, non-coniferous all",1.82
@@ -1058,6 +1227,7 @@ c05,m3rw/m3p,AFR,53,Benin,"Sawnwood, non-coniferous all",1.82
 c05,m3rw/m3p,AFR,59,Egypt,"Sawnwood, non-coniferous all",1.82
 c05,m3rw/m3p,AFR,61,Equatorial Guinea,"Sawnwood, non-coniferous all",1.82
 c05,m3rw/m3p,AFR,72,Djibouti,"Sawnwood, non-coniferous all",1.82
+c05,m3rw/m3p,AFR,72,Pitcairn Islands,"Sawnwood, non-coniferous all",1.82
 c05,m3rw/m3p,AFR,74,Gabon,"Sawnwood, non-coniferous all",1.82
 c05,m3rw/m3p,AFR,75,Gambia,"Sawnwood, non-coniferous all",1.82
 c05,m3rw/m3p,AFR,81,Ghana,"Sawnwood, non-coniferous all",1.82
@@ -1088,6 +1258,7 @@ c05,m3rw/m3p,AFR,196,Seychelles,"Sawnwood, non-coniferous all",1.82
 c05,m3rw/m3p,AFR,197,Sierra Leone,"Sawnwood, non-coniferous all",1.82
 c05,m3rw/m3p,AFR,201,Somalia,"Sawnwood, non-coniferous all",1.82
 c05,m3rw/m3p,AFR,202,South Africa,"Sawnwood, non-coniferous all",1.82
+c05,m3rw/m3p,AFR,205,Western Sahara,"Sawnwood, non-coniferous all",1.82
 c05,m3rw/m3p,AFR,209,Eswatini,"Sawnwood, non-coniferous all",1.82
 c05,m3rw/m3p,AFR,215,United Republic of Tanzania,"Sawnwood, non-coniferous all",1.82
 c05,m3rw/m3p,AFR,217,Togo,"Sawnwood, non-coniferous all",1.82
@@ -1106,6 +1277,7 @@ c05,m3rw/m3p,ASI,2,Afghanistan,"Sawnwood, non-coniferous all",1.81
 c05,m3rw/m3p,ASI,13,Bahrain,"Sawnwood, non-coniferous all",1.81
 c05,m3rw/m3p,ASI,16,Bangladesh,"Sawnwood, non-coniferous all",1.81
 c05,m3rw/m3p,ASI,18,Bhutan,"Sawnwood, non-coniferous all",1.81
+c05,m3rw/m3p,ASI,24,British Indian Ocean Territory,"Sawnwood, non-coniferous all",1.81
 c05,m3rw/m3p,ASI,26,Brunei Darussalam,"Sawnwood, non-coniferous all",1.81
 c05,m3rw/m3p,ASI,28,Myanmar,"Sawnwood, non-coniferous all",1.81
 c05,m3rw/m3p,ASI,38,Sri Lanka,"Sawnwood, non-coniferous all",1.81
@@ -1141,32 +1313,41 @@ c05,m3rw/m3p,ASI,185,Russian Federation,"Sawnwood, non-coniferous all",1.81
 c05,m3rw/m3p,ASI,194,Saudi Arabia,"Sawnwood, non-coniferous all",1.81
 c05,m3rw/m3p,ASI,200,Singapore,"Sawnwood, non-coniferous all",1.81
 c05,m3rw/m3p,ASI,208,Tajikistan,"Sawnwood, non-coniferous all",1.81
+c05,m3rw/m3p,ASI,208,Tokelau,"Sawnwood, non-coniferous all",1.81
 c05,m3rw/m3p,ASI,212,Syrian Arab Republic,"Sawnwood, non-coniferous all",1.81
 c05,m3rw/m3p,ASI,213,Turkmenistan,"Sawnwood, non-coniferous all",1.81
 c05,m3rw/m3p,ASI,214,"China, Taiwan Province of","Sawnwood, non-coniferous all",1.81
 c05,m3rw/m3p,ASI,216,Thailand,"Sawnwood, non-coniferous all",1.81
 c05,m3rw/m3p,ASI,221,Oman,"Sawnwood, non-coniferous all",1.81
 c05,m3rw/m3p,ASI,225,United Arab Emirates,"Sawnwood, non-coniferous all",1.81
+c05,m3rw/m3p,ASI,228,USSR,"Sawnwood, non-coniferous all",1.81
 c05,m3rw/m3p,ASI,235,Uzbekistan,"Sawnwood, non-coniferous all",1.81
 c05,m3rw/m3p,ASI,237,Viet Nam,"Sawnwood, non-coniferous all",1.81
 c05,m3rw/m3p,ASI,249,Yemen,"Sawnwood, non-coniferous all",1.81
+c05,m3rw/m3p,ASI,299,Palestine,"Sawnwood, non-coniferous all",1.81
 c05,m3rw/m3p,EUR,3,Albania,"Sawnwood, non-coniferous all",1.95
 c05,m3rw/m3p,EUR,6,Andorra,"Sawnwood, non-coniferous all",1.95
 c05,m3rw/m3p,EUR,11,Austria,"Sawnwood, non-coniferous all",2.81
 c05,m3rw/m3p,EUR,15,Belgium-Luxembourg,"Sawnwood, non-coniferous all",1.95
 c05,m3rw/m3p,EUR,27,Bulgaria,"Sawnwood, non-coniferous all",1.95
+c05,m3rw/m3p,EUR,27,Marshall Islands,"Sawnwood, non-coniferous all",1.95
 c05,m3rw/m3p,EUR,50,Cyprus,"Sawnwood, non-coniferous all",1.95
 c05,m3rw/m3p,EUR,51,Czechoslovakia,"Sawnwood, non-coniferous all",1.95
 c05,m3rw/m3p,EUR,54,Denmark,"Sawnwood, non-coniferous all",2.1
 c05,m3rw/m3p,EUR,57,Belarus,"Sawnwood, non-coniferous all",1.95
 c05,m3rw/m3p,EUR,63,Estonia,"Sawnwood, non-coniferous all",1.95
+c05,m3rw/m3p,EUR,63,Northern Mariana Islands,"Sawnwood, non-coniferous all",1.95
 c05,m3rw/m3p,EUR,64,Faroe Islands,"Sawnwood, non-coniferous all",1.95
+c05,m3rw/m3p,EUR,64,Pacific Islands Trust Territory,"Sawnwood, non-coniferous all",1.95
 c05,m3rw/m3p,EUR,67,Finland,"Sawnwood, non-coniferous all",1.85
 c05,m3rw/m3p,EUR,68,France,"Sawnwood, non-coniferous all",2.13
 c05,m3rw/m3p,EUR,79,Germany,"Sawnwood, non-coniferous all",1.66
 c05,m3rw/m3p,EUR,80,Bosnia and Herzegovina,"Sawnwood, non-coniferous all",1.95
+c05,m3rw/m3p,EUR,80,Palau,"Sawnwood, non-coniferous all",1.95
 c05,m3rw/m3p,EUR,82,Gibraltar,"Sawnwood, non-coniferous all",1.95
 c05,m3rw/m3p,EUR,84,Greece,"Sawnwood, non-coniferous all",1.95
+c05,m3rw/m3p,EUR,85,Greenland,"Sawnwood, non-coniferous all",1.95
+c05,m3rw/m3p,EUR,94,Holy See,"Sawnwood, non-coniferous all",1.95
 c05,m3rw/m3p,EUR,97,Hungary,"Sawnwood, non-coniferous all",1.95
 c05,m3rw/m3p,EUR,98,Croatia,"Sawnwood, non-coniferous all",2
 c05,m3rw/m3p,EUR,99,Iceland,"Sawnwood, non-coniferous all",1.95
@@ -1193,10 +1374,12 @@ c05,m3rw/m3p,EUR,211,Switzerland,"Sawnwood, non-coniferous all",1.95
 c05,m3rw/m3p,EUR,223,Turkey,"Sawnwood, non-coniferous all",1.95
 c05,m3rw/m3p,EUR,229,United Kingdom,"Sawnwood, non-coniferous all",2.5
 c05,m3rw/m3p,EUR,230,Ukraine,"Sawnwood, non-coniferous all",1.62
+c05,m3rw/m3p,EUR,248,Yugoslav SFR,"Sawnwood, non-coniferous all",1.95
 c05,m3rw/m3p,EUR,255,Belgium,"Sawnwood, non-coniferous all",1.95
 c05,m3rw/m3p,EUR,256,Luxembourg,"Sawnwood, non-coniferous all",1.95
 c05,m3rw/m3p,EUR,272,Serbia,"Sawnwood, non-coniferous all",1.95
 c05,m3rw/m3p,EUR,273,Montenegro,"Sawnwood, non-coniferous all",1.95
+c05,m3rw/m3p,LAM,8,Antigua and Barbuda,"Sawnwood, non-coniferous all",2.1
 c05,m3rw/m3p,LAM,9,Argentina,"Sawnwood, non-coniferous all",2.1
 c05,m3rw/m3p,LAM,12,Bahamas,"Sawnwood, non-coniferous all",2.1
 c05,m3rw/m3p,LAM,14,Barbados,"Sawnwood, non-coniferous all",2.1
@@ -1204,9 +1387,11 @@ c05,m3rw/m3p,LAM,19,Bolivia (Plurinational State of),"Sawnwood, non-coniferous a
 c05,m3rw/m3p,LAM,21,Brazil,"Sawnwood, non-coniferous all",2.1
 c05,m3rw/m3p,LAM,22,Aruba,"Sawnwood, non-coniferous all",2.1
 c05,m3rw/m3p,LAM,23,Belize,"Sawnwood, non-coniferous all",2.1
+c05,m3rw/m3p,LAM,36,Cayman Islands,"Sawnwood, non-coniferous all",2.1
 c05,m3rw/m3p,LAM,40,Chile,"Sawnwood, non-coniferous all",2.1
 c05,m3rw/m3p,LAM,44,Colombia,"Sawnwood, non-coniferous all",2.1
 c05,m3rw/m3p,LAM,48,Costa Rica,"Sawnwood, non-coniferous all",2.1
+c05,m3rw/m3p,LAM,48,Nauru,"Sawnwood, non-coniferous all",2.1
 c05,m3rw/m3p,LAM,49,Cuba,"Sawnwood, non-coniferous all",2.1
 c05,m3rw/m3p,LAM,55,Dominica,"Sawnwood, non-coniferous all",2.1
 c05,m3rw/m3p,LAM,56,Dominican Republic,"Sawnwood, non-coniferous all",2.1
@@ -1214,7 +1399,9 @@ c05,m3rw/m3p,LAM,58,Ecuador,"Sawnwood, non-coniferous all",2.1
 c05,m3rw/m3p,LAM,60,El Salvador,"Sawnwood, non-coniferous all",2.1
 c05,m3rw/m3p,LAM,65,Falkland Islands (Malvinas),"Sawnwood, non-coniferous all",2.1
 c05,m3rw/m3p,LAM,69,French Guyana,"Sawnwood, non-coniferous all",2.1
+c05,m3rw/m3p,LAM,86,Grenada,"Sawnwood, non-coniferous all",2.1
 c05,m3rw/m3p,LAM,87,Guadeloupe,"Sawnwood, non-coniferous all",2.1
+c05,m3rw/m3p,LAM,87,"Saint Helena, Ascension and Tristan da Cunha","Sawnwood, non-coniferous all",2.1
 c05,m3rw/m3p,LAM,89,Guatemala,"Sawnwood, non-coniferous all",2.1
 c05,m3rw/m3p,LAM,91,Guyana,"Sawnwood, non-coniferous all",2.1
 c05,m3rw/m3p,LAM,93,Haiti,"Sawnwood, non-coniferous all",2.1
@@ -1235,16 +1422,24 @@ c05,m3rw/m3p,LAM,224,Turks and Caicos Islands,"Sawnwood, non-coniferous all",2.1
 c05,m3rw/m3p,LAM,234,Uruguay,"Sawnwood, non-coniferous all",1.91
 c05,m3rw/m3p,LAM,236,Venezuela (Bolivarian Republic of),"Sawnwood, non-coniferous all",2.1
 c05,m3rw/m3p,LAM,239,British Virgin Islands,"Sawnwood, non-coniferous all",2.1
+c05,m3rw/m3p,LAM,258,Anguilla,"Sawnwood, non-coniferous all",2.1
+c05,m3rw/m3p,LAM,279,Curaçao,"Sawnwood, non-coniferous all",2.1
 c05,m3rw/m3p,NAM,33,Canada,"Sawnwood, non-coniferous all",1.96
 c05,m3rw/m3p,NAM,190,Saint Pierre and Miquelon,"Sawnwood, non-coniferous all",1.91
 c05,m3rw/m3p,NAM,231,United States of America,"Sawnwood, non-coniferous all",1.85
+c05,m3rw/m3p,OCE,5,American Samoa,"Sawnwood, non-coniferous all",1.918
 c05,m3rw/m3p,OCE,10,Australia,"Sawnwood, non-coniferous all",1.918
 c05,m3rw/m3p,OCE,25,Solomon Islands,"Sawnwood, non-coniferous all",1.918
 c05,m3rw/m3p,OCE,42,Christmas Island,"Sawnwood, non-coniferous all",1.918
+c05,m3rw/m3p,OCE,42,Montserrat,"Sawnwood, non-coniferous all",1.918
+c05,m3rw/m3p,OCE,43,Cocos (Keeling) Islands,"Sawnwood, non-coniferous all",1.918
 c05,m3rw/m3p,OCE,47,Cook Islands,"Sawnwood, non-coniferous all",1.918
 c05,m3rw/m3p,OCE,66,Fiji,"Sawnwood, non-coniferous all",1.918
 c05,m3rw/m3p,OCE,70,French Polynesia,"Sawnwood, non-coniferous all",1.918
+c05,m3rw/m3p,OCE,70,French Southern and Antarctic Territories,"Sawnwood, non-coniferous all",1.918
 c05,m3rw/m3p,OCE,83,Kiribati,"Sawnwood, non-coniferous all",1.918
+c05,m3rw/m3p,OCE,88,Guam,"Sawnwood, non-coniferous all",1.918
+c05,m3rw/m3p,OCE,88,Saint Kitts and Nevis,"Sawnwood, non-coniferous all",1.918
 c05,m3rw/m3p,OCE,145,Micronesia (Federated States of),"Sawnwood, non-coniferous all",1.918
 c05,m3rw/m3p,OCE,153,New Caledonia,"Sawnwood, non-coniferous all",1.918
 c05,m3rw/m3p,OCE,155,Vanuatu,"Sawnwood, non-coniferous all",1.918
@@ -1252,9 +1447,15 @@ c05,m3rw/m3p,OCE,156,New Zealand,"Sawnwood, non-coniferous all",1.918
 c05,m3rw/m3p,OCE,160,Niue,"Sawnwood, non-coniferous all",1.918
 c05,m3rw/m3p,OCE,161,Norfolk Island,"Sawnwood, non-coniferous all",1.918
 c05,m3rw/m3p,OCE,168,Papua New Guinea,"Sawnwood, non-coniferous all",1.918
+c05,m3rw/m3p,OCE,227,Tuvalu,"Sawnwood, non-coniferous all",1.918
+c05,m3rw/m3p,OCE,242,Wake Island,"Sawnwood, non-coniferous all",1.918
+c05,m3rw/m3p,OCE,243,Wallis and Futuna Islands,"Sawnwood, non-coniferous all",1.918
 c05,m3rw/m3p,OCE,244,Samoa,"Sawnwood, non-coniferous all",1.918
+c05,m3rw/m3p,XXX,252,Unspecified Area,"Sawnwood, non-coniferous all",1.918
+c05,m3rw/m3p,XXX,254,Others (adjustment),"Sawnwood, non-coniferous all",1.918
 c06,m3rw/m3p,AFR,4,Algeria,Veneer sheets,1.85
 c06,m3rw/m3p,AFR,7,Angola,Veneer sheets,1.85
+c06,m3rw/m3p,AFR,7,Bermuda,Veneer sheets,1.85
 c06,m3rw/m3p,AFR,20,Botswana,Veneer sheets,1.85
 c06,m3rw/m3p,AFR,29,Burundi,Veneer sheets,1.85
 c06,m3rw/m3p,AFR,32,Cameroon,Veneer sheets,1.85
@@ -1267,6 +1468,7 @@ c06,m3rw/m3p,AFR,53,Benin,Veneer sheets,1.85
 c06,m3rw/m3p,AFR,59,Egypt,Veneer sheets,1.85
 c06,m3rw/m3p,AFR,61,Equatorial Guinea,Veneer sheets,1.85
 c06,m3rw/m3p,AFR,72,Djibouti,Veneer sheets,1.85
+c06,m3rw/m3p,AFR,72,Pitcairn Islands,Veneer sheets,1.85
 c06,m3rw/m3p,AFR,74,Gabon,Veneer sheets,1.85
 c06,m3rw/m3p,AFR,75,Gambia,Veneer sheets,1.85
 c06,m3rw/m3p,AFR,81,Ghana,Veneer sheets,1.85
@@ -1297,6 +1499,7 @@ c06,m3rw/m3p,AFR,196,Seychelles,Veneer sheets,1.85
 c06,m3rw/m3p,AFR,197,Sierra Leone,Veneer sheets,1.85
 c06,m3rw/m3p,AFR,201,Somalia,Veneer sheets,1.85
 c06,m3rw/m3p,AFR,202,South Africa,Veneer sheets,1.85
+c06,m3rw/m3p,AFR,205,Western Sahara,Veneer sheets,1.85
 c06,m3rw/m3p,AFR,209,Eswatini,Veneer sheets,1.85
 c06,m3rw/m3p,AFR,215,United Republic of Tanzania,Veneer sheets,1.85
 c06,m3rw/m3p,AFR,217,Togo,Veneer sheets,1.85
@@ -1315,6 +1518,7 @@ c06,m3rw/m3p,ASI,2,Afghanistan,Veneer sheets,1.916333333
 c06,m3rw/m3p,ASI,13,Bahrain,Veneer sheets,1.916333333
 c06,m3rw/m3p,ASI,16,Bangladesh,Veneer sheets,1.916333333
 c06,m3rw/m3p,ASI,18,Bhutan,Veneer sheets,1.916333333
+c06,m3rw/m3p,ASI,24,British Indian Ocean Territory,Veneer sheets,1.916333333
 c06,m3rw/m3p,ASI,26,Brunei Darussalam,Veneer sheets,1.916333333
 c06,m3rw/m3p,ASI,28,Myanmar,Veneer sheets,1.916333333
 c06,m3rw/m3p,ASI,38,Sri Lanka,Veneer sheets,1.916333333
@@ -1350,32 +1554,41 @@ c06,m3rw/m3p,ASI,185,Russian Federation,Veneer sheets,1.916333333
 c06,m3rw/m3p,ASI,194,Saudi Arabia,Veneer sheets,1.916333333
 c06,m3rw/m3p,ASI,200,Singapore,Veneer sheets,1.916333333
 c06,m3rw/m3p,ASI,208,Tajikistan,Veneer sheets,1.916333333
+c06,m3rw/m3p,ASI,208,Tokelau,Veneer sheets,1.916333333
 c06,m3rw/m3p,ASI,212,Syrian Arab Republic,Veneer sheets,1.916333333
 c06,m3rw/m3p,ASI,213,Turkmenistan,Veneer sheets,1.916333333
 c06,m3rw/m3p,ASI,214,"China, Taiwan Province of",Veneer sheets,1.916333333
 c06,m3rw/m3p,ASI,216,Thailand,Veneer sheets,1.916333333
 c06,m3rw/m3p,ASI,221,Oman,Veneer sheets,1.916333333
 c06,m3rw/m3p,ASI,225,United Arab Emirates,Veneer sheets,1.916333333
+c06,m3rw/m3p,ASI,228,USSR,Veneer sheets,1.916333333
 c06,m3rw/m3p,ASI,235,Uzbekistan,Veneer sheets,1.916333333
 c06,m3rw/m3p,ASI,237,Viet Nam,Veneer sheets,1.916333333
 c06,m3rw/m3p,ASI,249,Yemen,Veneer sheets,1.916333333
+c06,m3rw/m3p,ASI,299,Palestine,Veneer sheets,1.916333333
 c06,m3rw/m3p,EUR,3,Albania,Veneer sheets,2.250481818
 c06,m3rw/m3p,EUR,6,Andorra,Veneer sheets,2.250481818
 c06,m3rw/m3p,EUR,11,Austria,Veneer sheets,2.250481818
 c06,m3rw/m3p,EUR,15,Belgium-Luxembourg,Veneer sheets,2.250481818
 c06,m3rw/m3p,EUR,27,Bulgaria,Veneer sheets,2.250481818
+c06,m3rw/m3p,EUR,27,Marshall Islands,Veneer sheets,2.250481818
 c06,m3rw/m3p,EUR,50,Cyprus,Veneer sheets,2.250481818
 c06,m3rw/m3p,EUR,51,Czechoslovakia,Veneer sheets,2.250481818
 c06,m3rw/m3p,EUR,54,Denmark,Veneer sheets,2.250481818
 c06,m3rw/m3p,EUR,57,Belarus,Veneer sheets,2.250481818
 c06,m3rw/m3p,EUR,63,Estonia,Veneer sheets,2.250481818
+c06,m3rw/m3p,EUR,63,Northern Mariana Islands,Veneer sheets,2.250481818
 c06,m3rw/m3p,EUR,64,Faroe Islands,Veneer sheets,2.250481818
+c06,m3rw/m3p,EUR,64,Pacific Islands Trust Territory,Veneer sheets,2.250481818
 c06,m3rw/m3p,EUR,67,Finland,Veneer sheets,2.250481818
 c06,m3rw/m3p,EUR,68,France,Veneer sheets,2.250481818
 c06,m3rw/m3p,EUR,79,Germany,Veneer sheets,2.250481818
 c06,m3rw/m3p,EUR,80,Bosnia and Herzegovina,Veneer sheets,2.250481818
+c06,m3rw/m3p,EUR,80,Palau,Veneer sheets,2.250481818
 c06,m3rw/m3p,EUR,82,Gibraltar,Veneer sheets,2.250481818
 c06,m3rw/m3p,EUR,84,Greece,Veneer sheets,2.250481818
+c06,m3rw/m3p,EUR,85,Greenland,Veneer sheets,2.250481818
+c06,m3rw/m3p,EUR,94,Holy See,Veneer sheets,2.250481818
 c06,m3rw/m3p,EUR,97,Hungary,Veneer sheets,2.250481818
 c06,m3rw/m3p,EUR,98,Croatia,Veneer sheets,2.250481818
 c06,m3rw/m3p,EUR,99,Iceland,Veneer sheets,2.250481818
@@ -1402,10 +1615,12 @@ c06,m3rw/m3p,EUR,211,Switzerland,Veneer sheets,2.250481818
 c06,m3rw/m3p,EUR,223,Turkey,Veneer sheets,2.250481818
 c06,m3rw/m3p,EUR,229,United Kingdom,Veneer sheets,2.250481818
 c06,m3rw/m3p,EUR,230,Ukraine,Veneer sheets,2.250481818
+c06,m3rw/m3p,EUR,248,Yugoslav SFR,Veneer sheets,2.250481818
 c06,m3rw/m3p,EUR,255,Belgium,Veneer sheets,2.250481818
 c06,m3rw/m3p,EUR,256,Luxembourg,Veneer sheets,2.250481818
 c06,m3rw/m3p,EUR,272,Serbia,Veneer sheets,2.250481818
 c06,m3rw/m3p,EUR,273,Montenegro,Veneer sheets,2.250481818
+c06,m3rw/m3p,LAM,8,Antigua and Barbuda,Veneer sheets,2.235
 c06,m3rw/m3p,LAM,9,Argentina,Veneer sheets,2.235
 c06,m3rw/m3p,LAM,12,Bahamas,Veneer sheets,2.235
 c06,m3rw/m3p,LAM,14,Barbados,Veneer sheets,2.235
@@ -1413,9 +1628,11 @@ c06,m3rw/m3p,LAM,19,Bolivia (Plurinational State of),Veneer sheets,2.235
 c06,m3rw/m3p,LAM,21,Brazil,Veneer sheets,2.235
 c06,m3rw/m3p,LAM,22,Aruba,Veneer sheets,2.235
 c06,m3rw/m3p,LAM,23,Belize,Veneer sheets,2.235
+c06,m3rw/m3p,LAM,36,Cayman Islands,Veneer sheets,2.235
 c06,m3rw/m3p,LAM,40,Chile,Veneer sheets,2.235
 c06,m3rw/m3p,LAM,44,Colombia,Veneer sheets,2.235
 c06,m3rw/m3p,LAM,48,Costa Rica,Veneer sheets,2.235
+c06,m3rw/m3p,LAM,48,Nauru,Veneer sheets,2.235
 c06,m3rw/m3p,LAM,49,Cuba,Veneer sheets,2.235
 c06,m3rw/m3p,LAM,55,Dominica,Veneer sheets,2.235
 c06,m3rw/m3p,LAM,56,Dominican Republic,Veneer sheets,2.235
@@ -1423,7 +1640,9 @@ c06,m3rw/m3p,LAM,58,Ecuador,Veneer sheets,2.235
 c06,m3rw/m3p,LAM,60,El Salvador,Veneer sheets,2.235
 c06,m3rw/m3p,LAM,65,Falkland Islands (Malvinas),Veneer sheets,2.235
 c06,m3rw/m3p,LAM,69,French Guyana,Veneer sheets,2.235
+c06,m3rw/m3p,LAM,86,Grenada,Veneer sheets,2.235
 c06,m3rw/m3p,LAM,87,Guadeloupe,Veneer sheets,2.235
+c06,m3rw/m3p,LAM,87,"Saint Helena, Ascension and Tristan da Cunha",Veneer sheets,2.235
 c06,m3rw/m3p,LAM,89,Guatemala,Veneer sheets,2.235
 c06,m3rw/m3p,LAM,91,Guyana,Veneer sheets,2.235
 c06,m3rw/m3p,LAM,93,Haiti,Veneer sheets,2.235
@@ -1444,16 +1663,24 @@ c06,m3rw/m3p,LAM,224,Turks and Caicos Islands,Veneer sheets,2.235
 c06,m3rw/m3p,LAM,234,Uruguay,Veneer sheets,2.235
 c06,m3rw/m3p,LAM,236,Venezuela (Bolivarian Republic of),Veneer sheets,2.235
 c06,m3rw/m3p,LAM,239,British Virgin Islands,Veneer sheets,2.235
+c06,m3rw/m3p,LAM,258,Anguilla,Veneer sheets,2.235
+c06,m3rw/m3p,LAM,279,Curaçao,Veneer sheets,2.235
 c06,m3rw/m3p,NAM,33,Canada,Veneer sheets,1.9073
 c06,m3rw/m3p,NAM,190,Saint Pierre and Miquelon,Veneer sheets,1.9073
 c06,m3rw/m3p,NAM,231,United States of America,Veneer sheets,1.9073
+c06,m3rw/m3p,OCE,5,American Samoa,Veneer sheets,1.79
 c06,m3rw/m3p,OCE,10,Australia,Veneer sheets,1.79
 c06,m3rw/m3p,OCE,25,Solomon Islands,Veneer sheets,1.79
 c06,m3rw/m3p,OCE,42,Christmas Island,Veneer sheets,1.79
+c06,m3rw/m3p,OCE,42,Montserrat,Veneer sheets,1.79
+c06,m3rw/m3p,OCE,43,Cocos (Keeling) Islands,Veneer sheets,1.79
 c06,m3rw/m3p,OCE,47,Cook Islands,Veneer sheets,1.79
 c06,m3rw/m3p,OCE,66,Fiji,Veneer sheets,1.79
 c06,m3rw/m3p,OCE,70,French Polynesia,Veneer sheets,1.79
+c06,m3rw/m3p,OCE,70,French Southern and Antarctic Territories,Veneer sheets,1.79
 c06,m3rw/m3p,OCE,83,Kiribati,Veneer sheets,1.79
+c06,m3rw/m3p,OCE,88,Guam,Veneer sheets,1.79
+c06,m3rw/m3p,OCE,88,Saint Kitts and Nevis,Veneer sheets,1.79
 c06,m3rw/m3p,OCE,145,Micronesia (Federated States of),Veneer sheets,1.79
 c06,m3rw/m3p,OCE,153,New Caledonia,Veneer sheets,1.79
 c06,m3rw/m3p,OCE,155,Vanuatu,Veneer sheets,1.79
@@ -1461,9 +1688,15 @@ c06,m3rw/m3p,OCE,156,New Zealand,Veneer sheets,1.79
 c06,m3rw/m3p,OCE,160,Niue,Veneer sheets,1.79
 c06,m3rw/m3p,OCE,161,Norfolk Island,Veneer sheets,1.79
 c06,m3rw/m3p,OCE,168,Papua New Guinea,Veneer sheets,1.79
+c06,m3rw/m3p,OCE,227,Tuvalu,Veneer sheets,1.79
+c06,m3rw/m3p,OCE,242,Wake Island,Veneer sheets,1.79
+c06,m3rw/m3p,OCE,243,Wallis and Futuna Islands,Veneer sheets,1.79
 c06,m3rw/m3p,OCE,244,Samoa,Veneer sheets,1.79
+c06,m3rw/m3p,XXX,252,Unspecified Area,Veneer sheets,1.99151919183333
+c06,m3rw/m3p,XXX,254,Others (adjustment),Veneer sheets,1.99151919183333
 c07,m3rw/m3p,AFR,4,Algeria,Plywood,1.85
 c07,m3rw/m3p,AFR,7,Angola,Plywood,1.85
+c07,m3rw/m3p,AFR,7,Bermuda,Plywood,1.85
 c07,m3rw/m3p,AFR,20,Botswana,Plywood,1.85
 c07,m3rw/m3p,AFR,29,Burundi,Plywood,1.85
 c07,m3rw/m3p,AFR,32,Cameroon,Plywood,1.85
@@ -1476,6 +1709,7 @@ c07,m3rw/m3p,AFR,53,Benin,Plywood,1.85
 c07,m3rw/m3p,AFR,59,Egypt,Plywood,1.85
 c07,m3rw/m3p,AFR,61,Equatorial Guinea,Plywood,1.85
 c07,m3rw/m3p,AFR,72,Djibouti,Plywood,1.85
+c07,m3rw/m3p,AFR,72,Pitcairn Islands,Plywood,1.85
 c07,m3rw/m3p,AFR,74,Gabon,Plywood,1.85
 c07,m3rw/m3p,AFR,75,Gambia,Plywood,1.85
 c07,m3rw/m3p,AFR,81,Ghana,Plywood,1.85
@@ -1506,6 +1740,7 @@ c07,m3rw/m3p,AFR,196,Seychelles,Plywood,1.85
 c07,m3rw/m3p,AFR,197,Sierra Leone,Plywood,1.85
 c07,m3rw/m3p,AFR,201,Somalia,Plywood,1.85
 c07,m3rw/m3p,AFR,202,South Africa,Plywood,1.85
+c07,m3rw/m3p,AFR,205,Western Sahara,Plywood,1.85
 c07,m3rw/m3p,AFR,209,Eswatini,Plywood,1.85
 c07,m3rw/m3p,AFR,215,United Republic of Tanzania,Plywood,1.85
 c07,m3rw/m3p,AFR,217,Togo,Plywood,1.85
@@ -1524,6 +1759,7 @@ c07,m3rw/m3p,ASI,2,Afghanistan,Plywood,1.916333333
 c07,m3rw/m3p,ASI,13,Bahrain,Plywood,1.916333333
 c07,m3rw/m3p,ASI,16,Bangladesh,Plywood,1.916333333
 c07,m3rw/m3p,ASI,18,Bhutan,Plywood,1.916333333
+c07,m3rw/m3p,ASI,24,British Indian Ocean Territory,Plywood,1.916333333
 c07,m3rw/m3p,ASI,26,Brunei Darussalam,Plywood,1.916333333
 c07,m3rw/m3p,ASI,28,Myanmar,Plywood,1.916333333
 c07,m3rw/m3p,ASI,38,Sri Lanka,Plywood,1.916333333
@@ -1559,32 +1795,41 @@ c07,m3rw/m3p,ASI,185,Russian Federation,Plywood,1.916333333
 c07,m3rw/m3p,ASI,194,Saudi Arabia,Plywood,1.916333333
 c07,m3rw/m3p,ASI,200,Singapore,Plywood,1.916333333
 c07,m3rw/m3p,ASI,208,Tajikistan,Plywood,1.916333333
+c07,m3rw/m3p,ASI,208,Tokelau,Plywood,1.916333333
 c07,m3rw/m3p,ASI,212,Syrian Arab Republic,Plywood,1.916333333
 c07,m3rw/m3p,ASI,213,Turkmenistan,Plywood,1.916333333
 c07,m3rw/m3p,ASI,214,"China, Taiwan Province of",Plywood,1.916333333
 c07,m3rw/m3p,ASI,216,Thailand,Plywood,1.916333333
 c07,m3rw/m3p,ASI,221,Oman,Plywood,1.916333333
 c07,m3rw/m3p,ASI,225,United Arab Emirates,Plywood,1.916333333
+c07,m3rw/m3p,ASI,228,USSR,Plywood,1.916333333
 c07,m3rw/m3p,ASI,235,Uzbekistan,Plywood,1.916333333
 c07,m3rw/m3p,ASI,237,Viet Nam,Plywood,1.916333333
 c07,m3rw/m3p,ASI,249,Yemen,Plywood,1.916333333
+c07,m3rw/m3p,ASI,299,Palestine,Plywood,1.916333333
 c07,m3rw/m3p,EUR,3,Albania,Plywood,2.250481818
 c07,m3rw/m3p,EUR,6,Andorra,Plywood,2.250481818
 c07,m3rw/m3p,EUR,11,Austria,Plywood,2.250481818
 c07,m3rw/m3p,EUR,15,Belgium-Luxembourg,Plywood,2.250481818
 c07,m3rw/m3p,EUR,27,Bulgaria,Plywood,2.250481818
+c07,m3rw/m3p,EUR,27,Marshall Islands,Plywood,2.250481818
 c07,m3rw/m3p,EUR,50,Cyprus,Plywood,2.250481818
 c07,m3rw/m3p,EUR,51,Czechoslovakia,Plywood,2.250481818
 c07,m3rw/m3p,EUR,54,Denmark,Plywood,2.250481818
 c07,m3rw/m3p,EUR,57,Belarus,Plywood,2.250481818
 c07,m3rw/m3p,EUR,63,Estonia,Plywood,2.250481818
+c07,m3rw/m3p,EUR,63,Northern Mariana Islands,Plywood,2.250481818
 c07,m3rw/m3p,EUR,64,Faroe Islands,Plywood,2.250481818
+c07,m3rw/m3p,EUR,64,Pacific Islands Trust Territory,Plywood,2.250481818
 c07,m3rw/m3p,EUR,67,Finland,Plywood,2.250481818
 c07,m3rw/m3p,EUR,68,France,Plywood,2.250481818
 c07,m3rw/m3p,EUR,79,Germany,Plywood,2.250481818
 c07,m3rw/m3p,EUR,80,Bosnia and Herzegovina,Plywood,2.250481818
+c07,m3rw/m3p,EUR,80,Palau,Plywood,2.250481818
 c07,m3rw/m3p,EUR,82,Gibraltar,Plywood,2.250481818
 c07,m3rw/m3p,EUR,84,Greece,Plywood,2.250481818
+c07,m3rw/m3p,EUR,85,Greenland,Plywood,2.250481818
+c07,m3rw/m3p,EUR,94,Holy See,Plywood,2.250481818
 c07,m3rw/m3p,EUR,97,Hungary,Plywood,2.250481818
 c07,m3rw/m3p,EUR,98,Croatia,Plywood,2.250481818
 c07,m3rw/m3p,EUR,99,Iceland,Plywood,2.250481818
@@ -1611,10 +1856,12 @@ c07,m3rw/m3p,EUR,211,Switzerland,Plywood,2.250481818
 c07,m3rw/m3p,EUR,223,Turkey,Plywood,2.250481818
 c07,m3rw/m3p,EUR,229,United Kingdom,Plywood,2.250481818
 c07,m3rw/m3p,EUR,230,Ukraine,Plywood,2.250481818
+c07,m3rw/m3p,EUR,248,Yugoslav SFR,Plywood,2.250481818
 c07,m3rw/m3p,EUR,255,Belgium,Plywood,2.250481818
 c07,m3rw/m3p,EUR,256,Luxembourg,Plywood,2.250481818
 c07,m3rw/m3p,EUR,272,Serbia,Plywood,2.250481818
 c07,m3rw/m3p,EUR,273,Montenegro,Plywood,2.250481818
+c07,m3rw/m3p,LAM,8,Antigua and Barbuda,Plywood,2.235
 c07,m3rw/m3p,LAM,9,Argentina,Plywood,2.235
 c07,m3rw/m3p,LAM,12,Bahamas,Plywood,2.235
 c07,m3rw/m3p,LAM,14,Barbados,Plywood,2.235
@@ -1622,9 +1869,11 @@ c07,m3rw/m3p,LAM,19,Bolivia (Plurinational State of),Plywood,2.235
 c07,m3rw/m3p,LAM,21,Brazil,Plywood,2.235
 c07,m3rw/m3p,LAM,22,Aruba,Plywood,2.235
 c07,m3rw/m3p,LAM,23,Belize,Plywood,2.235
+c07,m3rw/m3p,LAM,36,Cayman Islands,Plywood,2.235
 c07,m3rw/m3p,LAM,40,Chile,Plywood,2.235
 c07,m3rw/m3p,LAM,44,Colombia,Plywood,2.235
 c07,m3rw/m3p,LAM,48,Costa Rica,Plywood,2.235
+c07,m3rw/m3p,LAM,48,Nauru,Plywood,2.235
 c07,m3rw/m3p,LAM,49,Cuba,Plywood,2.235
 c07,m3rw/m3p,LAM,55,Dominica,Plywood,2.235
 c07,m3rw/m3p,LAM,56,Dominican Republic,Plywood,2.235
@@ -1632,7 +1881,9 @@ c07,m3rw/m3p,LAM,58,Ecuador,Plywood,2.235
 c07,m3rw/m3p,LAM,60,El Salvador,Plywood,2.235
 c07,m3rw/m3p,LAM,65,Falkland Islands (Malvinas),Plywood,2.235
 c07,m3rw/m3p,LAM,69,French Guyana,Plywood,2.235
+c07,m3rw/m3p,LAM,86,Grenada,Plywood,2.235
 c07,m3rw/m3p,LAM,87,Guadeloupe,Plywood,2.235
+c07,m3rw/m3p,LAM,87,"Saint Helena, Ascension and Tristan da Cunha",Plywood,2.235
 c07,m3rw/m3p,LAM,89,Guatemala,Plywood,2.235
 c07,m3rw/m3p,LAM,91,Guyana,Plywood,2.235
 c07,m3rw/m3p,LAM,93,Haiti,Plywood,2.235
@@ -1653,16 +1904,24 @@ c07,m3rw/m3p,LAM,224,Turks and Caicos Islands,Plywood,2.235
 c07,m3rw/m3p,LAM,234,Uruguay,Plywood,2.235
 c07,m3rw/m3p,LAM,236,Venezuela (Bolivarian Republic of),Plywood,2.235
 c07,m3rw/m3p,LAM,239,British Virgin Islands,Plywood,2.235
+c07,m3rw/m3p,LAM,258,Anguilla,Plywood,2.235
+c07,m3rw/m3p,LAM,279,Curaçao,Plywood,2.235
 c07,m3rw/m3p,NAM,33,Canada,Plywood,1.9073
 c07,m3rw/m3p,NAM,190,Saint Pierre and Miquelon,Plywood,1.9073
 c07,m3rw/m3p,NAM,231,United States of America,Plywood,1.9073
+c07,m3rw/m3p,OCE,5,American Samoa,Plywood,1.79
 c07,m3rw/m3p,OCE,10,Australia,Plywood,1.79
 c07,m3rw/m3p,OCE,25,Solomon Islands,Plywood,1.79
 c07,m3rw/m3p,OCE,42,Christmas Island,Plywood,1.79
+c07,m3rw/m3p,OCE,42,Montserrat,Plywood,1.79
+c07,m3rw/m3p,OCE,43,Cocos (Keeling) Islands,Plywood,1.79
 c07,m3rw/m3p,OCE,47,Cook Islands,Plywood,1.79
 c07,m3rw/m3p,OCE,66,Fiji,Plywood,1.79
 c07,m3rw/m3p,OCE,70,French Polynesia,Plywood,1.79
+c07,m3rw/m3p,OCE,70,French Southern and Antarctic Territories,Plywood,1.79
 c07,m3rw/m3p,OCE,83,Kiribati,Plywood,1.79
+c07,m3rw/m3p,OCE,88,Guam,Plywood,1.79
+c07,m3rw/m3p,OCE,88,Saint Kitts and Nevis,Plywood,1.79
 c07,m3rw/m3p,OCE,145,Micronesia (Federated States of),Plywood,1.79
 c07,m3rw/m3p,OCE,153,New Caledonia,Plywood,1.79
 c07,m3rw/m3p,OCE,155,Vanuatu,Plywood,1.79
@@ -1670,7 +1929,44 @@ c07,m3rw/m3p,OCE,156,New Zealand,Plywood,1.79
 c07,m3rw/m3p,OCE,160,Niue,Plywood,1.79
 c07,m3rw/m3p,OCE,161,Norfolk Island,Plywood,1.79
 c07,m3rw/m3p,OCE,168,Papua New Guinea,Plywood,1.79
+c07,m3rw/m3p,OCE,227,Tuvalu,Plywood,1.79
+c07,m3rw/m3p,OCE,242,Wake Island,Plywood,1.79
+c07,m3rw/m3p,OCE,243,Wallis and Futuna Islands,Plywood,1.79
 c07,m3rw/m3p,OCE,244,Samoa,Plywood,1.79
+c07,m3rw/m3p,XXX,252,Unspecified Area,Plywood,1.99151919183333
+c07,m3rw/m3p,XXX,254,Others (adjustment),Plywood,1.99151919183333
+c08,m3rw/m3p,AFR,7,Bermuda,Fibreboard,
+c08,m3rw/m3p,AFR,72,Pitcairn Islands,Fibreboard,
+c08,m3rw/m3p,AFR,205,Western Sahara,Fibreboard,
+c08,m3rw/m3p,ASI,24,British Indian Ocean Territory,Fibreboard,
+c08,m3rw/m3p,ASI,208,Tokelau,Fibreboard,
+c08,m3rw/m3p,ASI,228,USSR,Fibreboard,
+c08,m3rw/m3p,ASI,299,Palestine,Fibreboard,
+c08,m3rw/m3p,EUR,27,Marshall Islands,Fibreboard,
+c08,m3rw/m3p,EUR,63,Northern Mariana Islands,Fibreboard,
+c08,m3rw/m3p,EUR,64,Pacific Islands Trust Territory,Fibreboard,
+c08,m3rw/m3p,EUR,80,Palau,Fibreboard,
+c08,m3rw/m3p,EUR,85,Greenland,Fibreboard,
+c08,m3rw/m3p,EUR,94,Holy See,Fibreboard,
+c08,m3rw/m3p,EUR,248,Yugoslav SFR,Fibreboard,
+c08,m3rw/m3p,LAM,8,Antigua and Barbuda,Fibreboard,
+c08,m3rw/m3p,LAM,36,Cayman Islands,Fibreboard,
+c08,m3rw/m3p,LAM,48,Nauru,Fibreboard,
+c08,m3rw/m3p,LAM,86,Grenada,Fibreboard,
+c08,m3rw/m3p,LAM,87,"Saint Helena, Ascension and Tristan da Cunha",Fibreboard,
+c08,m3rw/m3p,LAM,258,Anguilla,Fibreboard,
+c08,m3rw/m3p,LAM,279,Curaçao,Fibreboard,
+c08,m3rw/m3p,OCE,5,American Samoa,Fibreboard,
+c08,m3rw/m3p,OCE,42,Montserrat,Fibreboard,
+c08,m3rw/m3p,OCE,43,Cocos (Keeling) Islands,Fibreboard,
+c08,m3rw/m3p,OCE,70,French Southern and Antarctic Territories,Fibreboard,
+c08,m3rw/m3p,OCE,88,Guam,Fibreboard,
+c08,m3rw/m3p,OCE,88,Saint Kitts and Nevis,Fibreboard,
+c08,m3rw/m3p,OCE,227,Tuvalu,Fibreboard,
+c08,m3rw/m3p,OCE,242,Wake Island,Fibreboard,
+c08,m3rw/m3p,OCE,243,Wallis and Futuna Islands,Fibreboard,
+c08,m3rw/m3p,XXX,252,Unspecified Area,Fibreboard,
+c08,m3rw/m3p,XXX,254,Others (adjustment),Fibreboard,
 c08,m3sw/m3p,AFR,4,Algeria,Fibreboard,1.81
 c08,m3sw/m3p,AFR,7,Angola,Fibreboard,1.81
 c08,m3sw/m3p,AFR,20,Botswana,Fibreboard,1.81
@@ -1882,6 +2178,7 @@ c08,m3sw/m3p,OCE,168,Papua New Guinea,Fibreboard,1.81
 c08,m3sw/m3p,OCE,244,Samoa,Fibreboard,1.81
 c09,kg/m3p,AFR,4,Algeria,Particle board,675.75
 c09,kg/m3p,AFR,7,Angola,Particle board,675.75
+c09,kg/m3p,AFR,7,Bermuda,Particle board,675.75
 c09,kg/m3p,AFR,20,Botswana,Particle board,675.75
 c09,kg/m3p,AFR,29,Burundi,Particle board,675.75
 c09,kg/m3p,AFR,32,Cameroon,Particle board,675.75
@@ -1894,6 +2191,7 @@ c09,kg/m3p,AFR,53,Benin,Particle board,675.75
 c09,kg/m3p,AFR,59,Egypt,Particle board,675.75
 c09,kg/m3p,AFR,61,Equatorial Guinea,Particle board,675.75
 c09,kg/m3p,AFR,72,Djibouti,Particle board,675.75
+c09,kg/m3p,AFR,72,Pitcairn Islands,Particle board,675.75
 c09,kg/m3p,AFR,74,Gabon,Particle board,675.75
 c09,kg/m3p,AFR,75,Gambia,Particle board,675.75
 c09,kg/m3p,AFR,81,Ghana,Particle board,675.75
@@ -1924,6 +2222,7 @@ c09,kg/m3p,AFR,196,Seychelles,Particle board,675.75
 c09,kg/m3p,AFR,197,Sierra Leone,Particle board,675.75
 c09,kg/m3p,AFR,201,Somalia,Particle board,675.75
 c09,kg/m3p,AFR,202,South Africa,Particle board,675.75
+c09,kg/m3p,AFR,205,Western Sahara,Particle board,675.75
 c09,kg/m3p,AFR,209,Eswatini,Particle board,675.75
 c09,kg/m3p,AFR,215,United Republic of Tanzania,Particle board,675.75
 c09,kg/m3p,AFR,217,Togo,Particle board,675.75
@@ -1942,6 +2241,7 @@ c09,kg/m3p,ASI,2,Afghanistan,Particle board,687
 c09,kg/m3p,ASI,13,Bahrain,Particle board,687
 c09,kg/m3p,ASI,16,Bangladesh,Particle board,687
 c09,kg/m3p,ASI,18,Bhutan,Particle board,687
+c09,kg/m3p,ASI,24,British Indian Ocean Territory,Particle board,687
 c09,kg/m3p,ASI,26,Brunei Darussalam,Particle board,687
 c09,kg/m3p,ASI,28,Myanmar,Particle board,687
 c09,kg/m3p,ASI,38,Sri Lanka,Particle board,687
@@ -1977,32 +2277,41 @@ c09,kg/m3p,ASI,185,Russian Federation,Particle board,687
 c09,kg/m3p,ASI,194,Saudi Arabia,Particle board,687
 c09,kg/m3p,ASI,200,Singapore,Particle board,687
 c09,kg/m3p,ASI,208,Tajikistan,Particle board,687
+c09,kg/m3p,ASI,208,Tokelau,Particle board,687
 c09,kg/m3p,ASI,212,Syrian Arab Republic,Particle board,687
 c09,kg/m3p,ASI,213,Turkmenistan,Particle board,687
 c09,kg/m3p,ASI,214,"China, Taiwan Province of",Particle board,687
 c09,kg/m3p,ASI,216,Thailand,Particle board,687
 c09,kg/m3p,ASI,221,Oman,Particle board,687
 c09,kg/m3p,ASI,225,United Arab Emirates,Particle board,687
+c09,kg/m3p,ASI,228,USSR,Particle board,687
 c09,kg/m3p,ASI,235,Uzbekistan,Particle board,687
 c09,kg/m3p,ASI,237,Viet Nam,Particle board,687
 c09,kg/m3p,ASI,249,Yemen,Particle board,687
+c09,kg/m3p,ASI,299,Palestine,Particle board,687
 c09,kg/m3p,EUR,3,Albania,Particle board,656
 c09,kg/m3p,EUR,6,Andorra,Particle board,656
 c09,kg/m3p,EUR,11,Austria,Particle board,656
 c09,kg/m3p,EUR,15,Belgium-Luxembourg,Particle board,656
 c09,kg/m3p,EUR,27,Bulgaria,Particle board,656
+c09,kg/m3p,EUR,27,Marshall Islands,Particle board,656
 c09,kg/m3p,EUR,50,Cyprus,Particle board,656
 c09,kg/m3p,EUR,51,Czechoslovakia,Particle board,656
 c09,kg/m3p,EUR,54,Denmark,Particle board,656
 c09,kg/m3p,EUR,57,Belarus,Particle board,656
 c09,kg/m3p,EUR,63,Estonia,Particle board,656
+c09,kg/m3p,EUR,63,Northern Mariana Islands,Particle board,656
 c09,kg/m3p,EUR,64,Faroe Islands,Particle board,656
+c09,kg/m3p,EUR,64,Pacific Islands Trust Territory,Particle board,656
 c09,kg/m3p,EUR,67,Finland,Particle board,656
 c09,kg/m3p,EUR,68,France,Particle board,650
 c09,kg/m3p,EUR,79,Germany,Particle board,656
 c09,kg/m3p,EUR,80,Bosnia and Herzegovina,Particle board,656
+c09,kg/m3p,EUR,80,Palau,Particle board,656
 c09,kg/m3p,EUR,82,Gibraltar,Particle board,656
 c09,kg/m3p,EUR,84,Greece,Particle board,656
+c09,kg/m3p,EUR,85,Greenland,Particle board,656
+c09,kg/m3p,EUR,94,Holy See,Particle board,656
 c09,kg/m3p,EUR,97,Hungary,Particle board,656
 c09,kg/m3p,EUR,98,Croatia,Particle board,656
 c09,kg/m3p,EUR,99,Iceland,Particle board,656
@@ -2029,10 +2338,12 @@ c09,kg/m3p,EUR,211,Switzerland,Particle board,656
 c09,kg/m3p,EUR,223,Turkey,Particle board,656
 c09,kg/m3p,EUR,229,United Kingdom,Particle board,650
 c09,kg/m3p,EUR,230,Ukraine,Particle board,620
+c09,kg/m3p,EUR,248,Yugoslav SFR,Particle board,656
 c09,kg/m3p,EUR,255,Belgium,Particle board,656
 c09,kg/m3p,EUR,256,Luxembourg,Particle board,656
 c09,kg/m3p,EUR,272,Serbia,Particle board,656
 c09,kg/m3p,EUR,273,Montenegro,Particle board,656
+c09,kg/m3p,LAM,8,Antigua and Barbuda,Particle board,640
 c09,kg/m3p,LAM,9,Argentina,Particle board,640
 c09,kg/m3p,LAM,12,Bahamas,Particle board,640
 c09,kg/m3p,LAM,14,Barbados,Particle board,640
@@ -2040,9 +2351,11 @@ c09,kg/m3p,LAM,19,Bolivia (Plurinational State of),Particle board,640
 c09,kg/m3p,LAM,21,Brazil,Particle board,640
 c09,kg/m3p,LAM,22,Aruba,Particle board,640
 c09,kg/m3p,LAM,23,Belize,Particle board,640
+c09,kg/m3p,LAM,36,Cayman Islands,Particle board,640
 c09,kg/m3p,LAM,40,Chile,Particle board,640
 c09,kg/m3p,LAM,44,Colombia,Particle board,640
 c09,kg/m3p,LAM,48,Costa Rica,Particle board,640
+c09,kg/m3p,LAM,48,Nauru,Particle board,640
 c09,kg/m3p,LAM,49,Cuba,Particle board,640
 c09,kg/m3p,LAM,55,Dominica,Particle board,640
 c09,kg/m3p,LAM,56,Dominican Republic,Particle board,640
@@ -2050,7 +2363,9 @@ c09,kg/m3p,LAM,58,Ecuador,Particle board,640
 c09,kg/m3p,LAM,60,El Salvador,Particle board,640
 c09,kg/m3p,LAM,65,Falkland Islands (Malvinas),Particle board,640
 c09,kg/m3p,LAM,69,French Guyana,Particle board,640
+c09,kg/m3p,LAM,86,Grenada,Particle board,640
 c09,kg/m3p,LAM,87,Guadeloupe,Particle board,640
+c09,kg/m3p,LAM,87,"Saint Helena, Ascension and Tristan da Cunha",Particle board,640
 c09,kg/m3p,LAM,89,Guatemala,Particle board,640
 c09,kg/m3p,LAM,91,Guyana,Particle board,640
 c09,kg/m3p,LAM,93,Haiti,Particle board,640
@@ -2071,16 +2386,24 @@ c09,kg/m3p,LAM,224,Turks and Caicos Islands,Particle board,640
 c09,kg/m3p,LAM,234,Uruguay,Particle board,640
 c09,kg/m3p,LAM,236,Venezuela (Bolivarian Republic of),Particle board,640
 c09,kg/m3p,LAM,239,British Virgin Islands,Particle board,640
+c09,kg/m3p,LAM,258,Anguilla,Particle board,640
+c09,kg/m3p,LAM,279,Curaçao,Particle board,640
 c09,kg/m3p,NAM,33,Canada,Particle board,720
 c09,kg/m3p,NAM,190,Saint Pierre and Miquelon,Particle board,720
 c09,kg/m3p,NAM,231,United States of America,Particle board,720
+c09,kg/m3p,OCE,5,American Samoa,Particle board,675.75
 c09,kg/m3p,OCE,10,Australia,Particle board,675.75
 c09,kg/m3p,OCE,25,Solomon Islands,Particle board,675.75
 c09,kg/m3p,OCE,42,Christmas Island,Particle board,675.75
+c09,kg/m3p,OCE,42,Montserrat,Particle board,675.75
+c09,kg/m3p,OCE,43,Cocos (Keeling) Islands,Particle board,675.75
 c09,kg/m3p,OCE,47,Cook Islands,Particle board,675.75
 c09,kg/m3p,OCE,66,Fiji,Particle board,675.75
 c09,kg/m3p,OCE,70,French Polynesia,Particle board,675.75
+c09,kg/m3p,OCE,70,French Southern and Antarctic Territories,Particle board,675.75
 c09,kg/m3p,OCE,83,Kiribati,Particle board,675.75
+c09,kg/m3p,OCE,88,Guam,Particle board,675.75
+c09,kg/m3p,OCE,88,Saint Kitts and Nevis,Particle board,675.75
 c09,kg/m3p,OCE,145,Micronesia (Federated States of),Particle board,675.75
 c09,kg/m3p,OCE,153,New Caledonia,Particle board,675.75
 c09,kg/m3p,OCE,155,Vanuatu,Particle board,675.75
@@ -2088,7 +2411,44 @@ c09,kg/m3p,OCE,156,New Zealand,Particle board,675.75
 c09,kg/m3p,OCE,160,Niue,Particle board,675.75
 c09,kg/m3p,OCE,161,Norfolk Island,Particle board,675.75
 c09,kg/m3p,OCE,168,Papua New Guinea,Particle board,675.75
+c09,kg/m3p,OCE,227,Tuvalu,Particle board,675.75
+c09,kg/m3p,OCE,242,Wake Island,Particle board,675.75
+c09,kg/m3p,OCE,243,Wallis and Futuna Islands,Particle board,675.75
 c09,kg/m3p,OCE,244,Samoa,Particle board,675.75
+c09,kg/m3p,XXX,252,Unspecified Area,Particle board,675.75
+c09,kg/m3p,XXX,254,Others (adjustment),Particle board,675.75
+c09,m3rw/m3p,AFR,7,Bermuda,Particle board,
+c09,m3rw/m3p,AFR,72,Pitcairn Islands,Particle board,
+c09,m3rw/m3p,AFR,205,Western Sahara,Particle board,
+c09,m3rw/m3p,ASI,24,British Indian Ocean Territory,Particle board,
+c09,m3rw/m3p,ASI,208,Tokelau,Particle board,
+c09,m3rw/m3p,ASI,228,USSR,Particle board,
+c09,m3rw/m3p,ASI,299,Palestine,Particle board,
+c09,m3rw/m3p,EUR,27,Marshall Islands,Particle board,
+c09,m3rw/m3p,EUR,63,Northern Mariana Islands,Particle board,
+c09,m3rw/m3p,EUR,64,Pacific Islands Trust Territory,Particle board,
+c09,m3rw/m3p,EUR,80,Palau,Particle board,
+c09,m3rw/m3p,EUR,85,Greenland,Particle board,
+c09,m3rw/m3p,EUR,94,Holy See,Particle board,
+c09,m3rw/m3p,EUR,248,Yugoslav SFR,Particle board,
+c09,m3rw/m3p,LAM,8,Antigua and Barbuda,Particle board,
+c09,m3rw/m3p,LAM,36,Cayman Islands,Particle board,
+c09,m3rw/m3p,LAM,48,Nauru,Particle board,
+c09,m3rw/m3p,LAM,86,Grenada,Particle board,
+c09,m3rw/m3p,LAM,87,"Saint Helena, Ascension and Tristan da Cunha",Particle board,
+c09,m3rw/m3p,LAM,258,Anguilla,Particle board,
+c09,m3rw/m3p,LAM,279,Curaçao,Particle board,
+c09,m3rw/m3p,OCE,5,American Samoa,Particle board,
+c09,m3rw/m3p,OCE,42,Montserrat,Particle board,
+c09,m3rw/m3p,OCE,43,Cocos (Keeling) Islands,Particle board,
+c09,m3rw/m3p,OCE,70,French Southern and Antarctic Territories,Particle board,
+c09,m3rw/m3p,OCE,88,Guam,Particle board,
+c09,m3rw/m3p,OCE,88,Saint Kitts and Nevis,Particle board,
+c09,m3rw/m3p,OCE,227,Tuvalu,Particle board,
+c09,m3rw/m3p,OCE,242,Wake Island,Particle board,
+c09,m3rw/m3p,OCE,243,Wallis and Futuna Islands,Particle board,
+c09,m3rw/m3p,XXX,252,Unspecified Area,Particle board,
+c09,m3rw/m3p,XXX,254,Others (adjustment),Particle board,
 c09,m3sw/m3p,AFR,4,Algeria,Particle board,1.5375
 c09,m3sw/m3p,AFR,7,Angola,Particle board,1.5375
 c09,m3sw/m3p,AFR,20,Botswana,Particle board,1.5375
@@ -2300,6 +2660,7 @@ c09,m3sw/m3p,OCE,168,Papua New Guinea,Particle board,1.5375
 c09,m3sw/m3p,OCE,244,Samoa,Particle board,1.5375
 c10,kg/m3p,AFR,4,Algeria,OSB,587.5
 c10,kg/m3p,AFR,7,Angola,OSB,587.5
+c10,kg/m3p,AFR,7,Bermuda,OSB,587.5
 c10,kg/m3p,AFR,20,Botswana,OSB,587.5
 c10,kg/m3p,AFR,29,Burundi,OSB,587.5
 c10,kg/m3p,AFR,32,Cameroon,OSB,587.5
@@ -2312,6 +2673,7 @@ c10,kg/m3p,AFR,53,Benin,OSB,587.5
 c10,kg/m3p,AFR,59,Egypt,OSB,587.5
 c10,kg/m3p,AFR,61,Equatorial Guinea,OSB,587.5
 c10,kg/m3p,AFR,72,Djibouti,OSB,587.5
+c10,kg/m3p,AFR,72,Pitcairn Islands,OSB,587.5
 c10,kg/m3p,AFR,74,Gabon,OSB,587.5
 c10,kg/m3p,AFR,75,Gambia,OSB,587.5
 c10,kg/m3p,AFR,81,Ghana,OSB,587.5
@@ -2342,6 +2704,7 @@ c10,kg/m3p,AFR,196,Seychelles,OSB,587.5
 c10,kg/m3p,AFR,197,Sierra Leone,OSB,587.5
 c10,kg/m3p,AFR,201,Somalia,OSB,587.5
 c10,kg/m3p,AFR,202,South Africa,OSB,587.5
+c10,kg/m3p,AFR,205,Western Sahara,OSB,587.5
 c10,kg/m3p,AFR,209,Eswatini,OSB,587.5
 c10,kg/m3p,AFR,215,United Republic of Tanzania,OSB,587.5
 c10,kg/m3p,AFR,217,Togo,OSB,587.5
@@ -2360,6 +2723,7 @@ c10,kg/m3p,ASI,2,Afghanistan,OSB,655
 c10,kg/m3p,ASI,13,Bahrain,OSB,655
 c10,kg/m3p,ASI,16,Bangladesh,OSB,655
 c10,kg/m3p,ASI,18,Bhutan,OSB,655
+c10,kg/m3p,ASI,24,British Indian Ocean Territory,OSB,655
 c10,kg/m3p,ASI,26,Brunei Darussalam,OSB,655
 c10,kg/m3p,ASI,28,Myanmar,OSB,655
 c10,kg/m3p,ASI,38,Sri Lanka,OSB,655
@@ -2395,32 +2759,41 @@ c10,kg/m3p,ASI,185,Russian Federation,OSB,655
 c10,kg/m3p,ASI,194,Saudi Arabia,OSB,655
 c10,kg/m3p,ASI,200,Singapore,OSB,655
 c10,kg/m3p,ASI,208,Tajikistan,OSB,655
+c10,kg/m3p,ASI,208,Tokelau,OSB,655
 c10,kg/m3p,ASI,212,Syrian Arab Republic,OSB,655
 c10,kg/m3p,ASI,213,Turkmenistan,OSB,655
 c10,kg/m3p,ASI,214,"China, Taiwan Province of",OSB,655
 c10,kg/m3p,ASI,216,Thailand,OSB,655
 c10,kg/m3p,ASI,221,Oman,OSB,655
 c10,kg/m3p,ASI,225,United Arab Emirates,OSB,655
+c10,kg/m3p,ASI,228,USSR,OSB,655
 c10,kg/m3p,ASI,235,Uzbekistan,OSB,655
 c10,kg/m3p,ASI,237,Viet Nam,OSB,655
 c10,kg/m3p,ASI,249,Yemen,OSB,655
+c10,kg/m3p,ASI,299,Palestine,OSB,655
 c10,kg/m3p,EUR,3,Albania,OSB,615
 c10,kg/m3p,EUR,6,Andorra,OSB,615
 c10,kg/m3p,EUR,11,Austria,OSB,615
 c10,kg/m3p,EUR,15,Belgium-Luxembourg,OSB,615
 c10,kg/m3p,EUR,27,Bulgaria,OSB,615
+c10,kg/m3p,EUR,27,Marshall Islands,OSB,615
 c10,kg/m3p,EUR,50,Cyprus,OSB,615
 c10,kg/m3p,EUR,51,Czechoslovakia,OSB,615
 c10,kg/m3p,EUR,54,Denmark,OSB,615
 c10,kg/m3p,EUR,57,Belarus,OSB,615
 c10,kg/m3p,EUR,63,Estonia,OSB,615
+c10,kg/m3p,EUR,63,Northern Mariana Islands,OSB,615
 c10,kg/m3p,EUR,64,Faroe Islands,OSB,615
+c10,kg/m3p,EUR,64,Pacific Islands Trust Territory,OSB,615
 c10,kg/m3p,EUR,67,Finland,OSB,615
 c10,kg/m3p,EUR,68,France,OSB,610
 c10,kg/m3p,EUR,79,Germany,OSB,615
 c10,kg/m3p,EUR,80,Bosnia and Herzegovina,OSB,615
+c10,kg/m3p,EUR,80,Palau,OSB,615
 c10,kg/m3p,EUR,82,Gibraltar,OSB,615
 c10,kg/m3p,EUR,84,Greece,OSB,615
+c10,kg/m3p,EUR,85,Greenland,OSB,615
+c10,kg/m3p,EUR,94,Holy See,OSB,615
 c10,kg/m3p,EUR,97,Hungary,OSB,615
 c10,kg/m3p,EUR,98,Croatia,OSB,615
 c10,kg/m3p,EUR,99,Iceland,OSB,615
@@ -2447,10 +2820,12 @@ c10,kg/m3p,EUR,211,Switzerland,OSB,615
 c10,kg/m3p,EUR,223,Turkey,OSB,615
 c10,kg/m3p,EUR,229,United Kingdom,OSB,620
 c10,kg/m3p,EUR,230,Ukraine,OSB,615
+c10,kg/m3p,EUR,248,Yugoslav SFR,OSB,615
 c10,kg/m3p,EUR,255,Belgium,OSB,615
 c10,kg/m3p,EUR,256,Luxembourg,OSB,615
 c10,kg/m3p,EUR,272,Serbia,OSB,615
 c10,kg/m3p,EUR,273,Montenegro,OSB,615
+c10,kg/m3p,LAM,8,Antigua and Barbuda,OSB,673
 c10,kg/m3p,LAM,9,Argentina,OSB,673
 c10,kg/m3p,LAM,12,Bahamas,OSB,673
 c10,kg/m3p,LAM,14,Barbados,OSB,673
@@ -2458,9 +2833,11 @@ c10,kg/m3p,LAM,19,Bolivia (Plurinational State of),OSB,673
 c10,kg/m3p,LAM,21,Brazil,OSB,640
 c10,kg/m3p,LAM,22,Aruba,OSB,673
 c10,kg/m3p,LAM,23,Belize,OSB,673
+c10,kg/m3p,LAM,36,Cayman Islands,OSB,673
 c10,kg/m3p,LAM,40,Chile,OSB,705
 c10,kg/m3p,LAM,44,Colombia,OSB,673
 c10,kg/m3p,LAM,48,Costa Rica,OSB,673
+c10,kg/m3p,LAM,48,Nauru,OSB,673
 c10,kg/m3p,LAM,49,Cuba,OSB,673
 c10,kg/m3p,LAM,55,Dominica,OSB,673
 c10,kg/m3p,LAM,56,Dominican Republic,OSB,673
@@ -2468,7 +2845,9 @@ c10,kg/m3p,LAM,58,Ecuador,OSB,673
 c10,kg/m3p,LAM,60,El Salvador,OSB,673
 c10,kg/m3p,LAM,65,Falkland Islands (Malvinas),OSB,673
 c10,kg/m3p,LAM,69,French Guyana,OSB,673
+c10,kg/m3p,LAM,86,Grenada,OSB,673
 c10,kg/m3p,LAM,87,Guadeloupe,OSB,673
+c10,kg/m3p,LAM,87,"Saint Helena, Ascension and Tristan da Cunha",OSB,673
 c10,kg/m3p,LAM,89,Guatemala,OSB,673
 c10,kg/m3p,LAM,91,Guyana,OSB,673
 c10,kg/m3p,LAM,93,Haiti,OSB,673
@@ -2489,16 +2868,24 @@ c10,kg/m3p,LAM,224,Turks and Caicos Islands,OSB,673
 c10,kg/m3p,LAM,234,Uruguay,OSB,673
 c10,kg/m3p,LAM,236,Venezuela (Bolivarian Republic of),OSB,673
 c10,kg/m3p,LAM,239,British Virgin Islands,OSB,673
+c10,kg/m3p,LAM,258,Anguilla,OSB,673
+c10,kg/m3p,LAM,279,Curaçao,OSB,673
 c10,kg/m3p,NAM,33,Canada,OSB,407
 c10,kg/m3p,NAM,190,Saint Pierre and Miquelon,OSB,407
 c10,kg/m3p,NAM,231,United States of America,OSB,407
+c10,kg/m3p,OCE,5,American Samoa,OSB,587.5
 c10,kg/m3p,OCE,10,Australia,OSB,587.5
 c10,kg/m3p,OCE,25,Solomon Islands,OSB,587.5
 c10,kg/m3p,OCE,42,Christmas Island,OSB,587.5
+c10,kg/m3p,OCE,42,Montserrat,OSB,587.5
+c10,kg/m3p,OCE,43,Cocos (Keeling) Islands,OSB,587.5
 c10,kg/m3p,OCE,47,Cook Islands,OSB,587.5
 c10,kg/m3p,OCE,66,Fiji,OSB,587.5
 c10,kg/m3p,OCE,70,French Polynesia,OSB,587.5
+c10,kg/m3p,OCE,70,French Southern and Antarctic Territories,OSB,587.5
 c10,kg/m3p,OCE,83,Kiribati,OSB,587.5
+c10,kg/m3p,OCE,88,Guam,OSB,587.5
+c10,kg/m3p,OCE,88,Saint Kitts and Nevis,OSB,587.5
 c10,kg/m3p,OCE,145,Micronesia (Federated States of),OSB,587.5
 c10,kg/m3p,OCE,153,New Caledonia,OSB,587.5
 c10,kg/m3p,OCE,155,Vanuatu,OSB,587.5
@@ -2506,9 +2893,15 @@ c10,kg/m3p,OCE,156,New Zealand,OSB,587.5
 c10,kg/m3p,OCE,160,Niue,OSB,587.5
 c10,kg/m3p,OCE,161,Norfolk Island,OSB,587.5
 c10,kg/m3p,OCE,168,Papua New Guinea,OSB,587.5
+c10,kg/m3p,OCE,227,Tuvalu,OSB,587.5
+c10,kg/m3p,OCE,242,Wake Island,OSB,587.5
+c10,kg/m3p,OCE,243,Wallis and Futuna Islands,OSB,587.5
 c10,kg/m3p,OCE,244,Samoa,OSB,587.5
+c10,kg/m3p,XXX,252,Unspecified Area,OSB,587.5
+c10,kg/m3p,XXX,254,Others (adjustment),OSB,587.5
 c10,m3sw/m3p,AFR,4,Algeria,OSB,1.6
 c10,m3sw/m3p,AFR,7,Angola,OSB,1.6
+c10,m3sw/m3p,AFR,7,Bermuda,OSB,1.6
 c10,m3sw/m3p,AFR,20,Botswana,OSB,1.6
 c10,m3sw/m3p,AFR,29,Burundi,OSB,1.6
 c10,m3sw/m3p,AFR,32,Cameroon,OSB,1.6
@@ -2521,6 +2914,7 @@ c10,m3sw/m3p,AFR,53,Benin,OSB,1.6
 c10,m3sw/m3p,AFR,59,Egypt,OSB,1.6
 c10,m3sw/m3p,AFR,61,Equatorial Guinea,OSB,1.6
 c10,m3sw/m3p,AFR,72,Djibouti,OSB,1.6
+c10,m3sw/m3p,AFR,72,Pitcairn Islands,OSB,1.6
 c10,m3sw/m3p,AFR,74,Gabon,OSB,1.6
 c10,m3sw/m3p,AFR,75,Gambia,OSB,1.6
 c10,m3sw/m3p,AFR,81,Ghana,OSB,1.6
@@ -2551,6 +2945,7 @@ c10,m3sw/m3p,AFR,196,Seychelles,OSB,1.6
 c10,m3sw/m3p,AFR,197,Sierra Leone,OSB,1.6
 c10,m3sw/m3p,AFR,201,Somalia,OSB,1.6
 c10,m3sw/m3p,AFR,202,South Africa,OSB,1.6
+c10,m3sw/m3p,AFR,205,Western Sahara,OSB,1.6
 c10,m3sw/m3p,AFR,209,Eswatini,OSB,1.6
 c10,m3sw/m3p,AFR,215,United Republic of Tanzania,OSB,1.6
 c10,m3sw/m3p,AFR,217,Togo,OSB,1.6
@@ -2569,6 +2964,7 @@ c10,m3sw/m3p,ASI,2,Afghanistan,OSB,1.68
 c10,m3sw/m3p,ASI,13,Bahrain,OSB,1.68
 c10,m3sw/m3p,ASI,16,Bangladesh,OSB,1.68
 c10,m3sw/m3p,ASI,18,Bhutan,OSB,1.68
+c10,m3sw/m3p,ASI,24,British Indian Ocean Territory,OSB,1.68
 c10,m3sw/m3p,ASI,26,Brunei Darussalam,OSB,1.68
 c10,m3sw/m3p,ASI,28,Myanmar,OSB,1.68
 c10,m3sw/m3p,ASI,38,Sri Lanka,OSB,1.68
@@ -2604,32 +3000,41 @@ c10,m3sw/m3p,ASI,185,Russian Federation,OSB,1.68
 c10,m3sw/m3p,ASI,194,Saudi Arabia,OSB,1.68
 c10,m3sw/m3p,ASI,200,Singapore,OSB,1.68
 c10,m3sw/m3p,ASI,208,Tajikistan,OSB,1.68
+c10,m3sw/m3p,ASI,208,Tokelau,OSB,1.68
 c10,m3sw/m3p,ASI,212,Syrian Arab Republic,OSB,1.68
 c10,m3sw/m3p,ASI,213,Turkmenistan,OSB,1.68
 c10,m3sw/m3p,ASI,214,"China, Taiwan Province of",OSB,1.68
 c10,m3sw/m3p,ASI,216,Thailand,OSB,1.68
 c10,m3sw/m3p,ASI,221,Oman,OSB,1.68
 c10,m3sw/m3p,ASI,225,United Arab Emirates,OSB,1.68
+c10,m3sw/m3p,ASI,228,USSR,OSB,1.68
 c10,m3sw/m3p,ASI,235,Uzbekistan,OSB,1.68
 c10,m3sw/m3p,ASI,237,Viet Nam,OSB,1.68
 c10,m3sw/m3p,ASI,249,Yemen,OSB,1.68
+c10,m3sw/m3p,ASI,299,Palestine,OSB,1.68
 c10,m3sw/m3p,EUR,3,Albania,OSB,1.68
 c10,m3sw/m3p,EUR,6,Andorra,OSB,1.68
 c10,m3sw/m3p,EUR,11,Austria,OSB,1.68
 c10,m3sw/m3p,EUR,15,Belgium-Luxembourg,OSB,1.68
 c10,m3sw/m3p,EUR,27,Bulgaria,OSB,1.68
+c10,m3sw/m3p,EUR,27,Marshall Islands,OSB,1.68
 c10,m3sw/m3p,EUR,50,Cyprus,OSB,1.68
 c10,m3sw/m3p,EUR,51,Czechoslovakia,OSB,1.68
 c10,m3sw/m3p,EUR,54,Denmark,OSB,1.68
 c10,m3sw/m3p,EUR,57,Belarus,OSB,1.68
 c10,m3sw/m3p,EUR,63,Estonia,OSB,1.68
+c10,m3sw/m3p,EUR,63,Northern Mariana Islands,OSB,1.68
 c10,m3sw/m3p,EUR,64,Faroe Islands,OSB,1.68
+c10,m3sw/m3p,EUR,64,Pacific Islands Trust Territory,OSB,1.68
 c10,m3sw/m3p,EUR,67,Finland,OSB,1.68
 c10,m3sw/m3p,EUR,68,France,OSB,1.9
 c10,m3sw/m3p,EUR,79,Germany,OSB,1.3
 c10,m3sw/m3p,EUR,80,Bosnia and Herzegovina,OSB,1.68
+c10,m3sw/m3p,EUR,80,Palau,OSB,1.68
 c10,m3sw/m3p,EUR,82,Gibraltar,OSB,1.68
 c10,m3sw/m3p,EUR,84,Greece,OSB,1.68
+c10,m3sw/m3p,EUR,85,Greenland,OSB,1.68
+c10,m3sw/m3p,EUR,94,Holy See,OSB,1.68
 c10,m3sw/m3p,EUR,97,Hungary,OSB,1.68
 c10,m3sw/m3p,EUR,98,Croatia,OSB,1.68
 c10,m3sw/m3p,EUR,99,Iceland,OSB,1.68
@@ -2656,10 +3061,12 @@ c10,m3sw/m3p,EUR,211,Switzerland,OSB,1.68
 c10,m3sw/m3p,EUR,223,Turkey,OSB,1.68
 c10,m3sw/m3p,EUR,229,United Kingdom,OSB,1.72
 c10,m3sw/m3p,EUR,230,Ukraine,OSB,1.68
+c10,m3sw/m3p,EUR,248,Yugoslav SFR,OSB,1.68
 c10,m3sw/m3p,EUR,255,Belgium,OSB,1.68
 c10,m3sw/m3p,EUR,256,Luxembourg,OSB,1.68
 c10,m3sw/m3p,EUR,272,Serbia,OSB,1.68
 c10,m3sw/m3p,EUR,273,Montenegro,OSB,1.68
+c10,m3sw/m3p,LAM,8,Antigua and Barbuda,OSB,1.41
 c10,m3sw/m3p,LAM,9,Argentina,OSB,1.41
 c10,m3sw/m3p,LAM,12,Bahamas,OSB,1.41
 c10,m3sw/m3p,LAM,14,Barbados,OSB,1.41
@@ -2667,9 +3074,11 @@ c10,m3sw/m3p,LAM,19,Bolivia (Plurinational State of),OSB,1.41
 c10,m3sw/m3p,LAM,21,Brazil,OSB,1.41
 c10,m3sw/m3p,LAM,22,Aruba,OSB,1.41
 c10,m3sw/m3p,LAM,23,Belize,OSB,1.41
+c10,m3sw/m3p,LAM,36,Cayman Islands,OSB,1.41
 c10,m3sw/m3p,LAM,40,Chile,OSB,1.41
 c10,m3sw/m3p,LAM,44,Colombia,OSB,1.41
 c10,m3sw/m3p,LAM,48,Costa Rica,OSB,1.41
+c10,m3sw/m3p,LAM,48,Nauru,OSB,1.41
 c10,m3sw/m3p,LAM,49,Cuba,OSB,1.41
 c10,m3sw/m3p,LAM,55,Dominica,OSB,1.41
 c10,m3sw/m3p,LAM,56,Dominican Republic,OSB,1.41
@@ -2677,7 +3086,9 @@ c10,m3sw/m3p,LAM,58,Ecuador,OSB,1.41
 c10,m3sw/m3p,LAM,60,El Salvador,OSB,1.41
 c10,m3sw/m3p,LAM,65,Falkland Islands (Malvinas),OSB,1.41
 c10,m3sw/m3p,LAM,69,French Guyana,OSB,1.41
+c10,m3sw/m3p,LAM,86,Grenada,OSB,1.41
 c10,m3sw/m3p,LAM,87,Guadeloupe,OSB,1.41
+c10,m3sw/m3p,LAM,87,"Saint Helena, Ascension and Tristan da Cunha",OSB,1.41
 c10,m3sw/m3p,LAM,89,Guatemala,OSB,1.41
 c10,m3sw/m3p,LAM,91,Guyana,OSB,1.41
 c10,m3sw/m3p,LAM,93,Haiti,OSB,1.41
@@ -2698,16 +3109,24 @@ c10,m3sw/m3p,LAM,224,Turks and Caicos Islands,OSB,1.41
 c10,m3sw/m3p,LAM,234,Uruguay,OSB,1.41
 c10,m3sw/m3p,LAM,236,Venezuela (Bolivarian Republic of),OSB,1.41
 c10,m3sw/m3p,LAM,239,British Virgin Islands,OSB,1.41
+c10,m3sw/m3p,LAM,258,Anguilla,OSB,1.41
+c10,m3sw/m3p,LAM,279,Curaçao,OSB,1.41
 c10,m3sw/m3p,NAM,33,Canada,OSB,1.61
 c10,m3sw/m3p,NAM,190,Saint Pierre and Miquelon,OSB,1.63
 c10,m3sw/m3p,NAM,231,United States of America,OSB,1.65
+c10,m3sw/m3p,OCE,5,American Samoa,OSB,1.6
 c10,m3sw/m3p,OCE,10,Australia,OSB,1.6
 c10,m3sw/m3p,OCE,25,Solomon Islands,OSB,1.6
 c10,m3sw/m3p,OCE,42,Christmas Island,OSB,1.6
+c10,m3sw/m3p,OCE,42,Montserrat,OSB,1.6
+c10,m3sw/m3p,OCE,43,Cocos (Keeling) Islands,OSB,1.6
 c10,m3sw/m3p,OCE,47,Cook Islands,OSB,1.6
 c10,m3sw/m3p,OCE,66,Fiji,OSB,1.6
 c10,m3sw/m3p,OCE,70,French Polynesia,OSB,1.6
+c10,m3sw/m3p,OCE,70,French Southern and Antarctic Territories,OSB,1.6
 c10,m3sw/m3p,OCE,83,Kiribati,OSB,1.6
+c10,m3sw/m3p,OCE,88,Guam,OSB,1.6
+c10,m3sw/m3p,OCE,88,Saint Kitts and Nevis,OSB,1.6
 c10,m3sw/m3p,OCE,145,Micronesia (Federated States of),OSB,1.6
 c10,m3sw/m3p,OCE,153,New Caledonia,OSB,1.6
 c10,m3sw/m3p,OCE,155,Vanuatu,OSB,1.6
@@ -2715,9 +3134,15 @@ c10,m3sw/m3p,OCE,156,New Zealand,OSB,1.6
 c10,m3sw/m3p,OCE,160,Niue,OSB,1.6
 c10,m3sw/m3p,OCE,161,Norfolk Island,OSB,1.6
 c10,m3sw/m3p,OCE,168,Papua New Guinea,OSB,1.6
+c10,m3sw/m3p,OCE,227,Tuvalu,OSB,1.6
+c10,m3sw/m3p,OCE,242,Wake Island,OSB,1.6
+c10,m3sw/m3p,OCE,243,Wallis and Futuna Islands,OSB,1.6
 c10,m3sw/m3p,OCE,244,Samoa,OSB,1.6
+c10,m3sw/m3p,XXX,252,Unspecified Area,OSB,1.6
+c10,m3sw/m3p,XXX,254,Others (adjustment),OSB,1.6
 c11,m3sw/tonne,AFR,4,Algeria,Wood pulp,3.57666666666667
 c11,m3sw/tonne,AFR,7,Angola,Wood pulp,3.57666666666667
+c11,m3sw/tonne,AFR,7,Bermuda,Wood pulp,3.57666666666667
 c11,m3sw/tonne,AFR,20,Botswana,Wood pulp,3.57666666666667
 c11,m3sw/tonne,AFR,29,Burundi,Wood pulp,3.57666666666667
 c11,m3sw/tonne,AFR,32,Cameroon,Wood pulp,3.57666666666667
@@ -2730,6 +3155,7 @@ c11,m3sw/tonne,AFR,53,Benin,Wood pulp,3.57666666666667
 c11,m3sw/tonne,AFR,59,Egypt,Wood pulp,3.57666666666667
 c11,m3sw/tonne,AFR,61,Equatorial Guinea,Wood pulp,3.57666666666667
 c11,m3sw/tonne,AFR,72,Djibouti,Wood pulp,3.57666666666667
+c11,m3sw/tonne,AFR,72,Pitcairn Islands,Wood pulp,3.57666666666667
 c11,m3sw/tonne,AFR,74,Gabon,Wood pulp,3.57666666666667
 c11,m3sw/tonne,AFR,75,Gambia,Wood pulp,3.57666666666667
 c11,m3sw/tonne,AFR,81,Ghana,Wood pulp,3.57666666666667
@@ -2760,6 +3186,7 @@ c11,m3sw/tonne,AFR,196,Seychelles,Wood pulp,3.57666666666667
 c11,m3sw/tonne,AFR,197,Sierra Leone,Wood pulp,3.57666666666667
 c11,m3sw/tonne,AFR,201,Somalia,Wood pulp,3.57666666666667
 c11,m3sw/tonne,AFR,202,South Africa,Wood pulp,3.57666666666667
+c11,m3sw/tonne,AFR,205,Western Sahara,Wood pulp,3.57666666666667
 c11,m3sw/tonne,AFR,209,Eswatini,Wood pulp,3.57666666666667
 c11,m3sw/tonne,AFR,215,United Republic of Tanzania,Wood pulp,3.57666666666667
 c11,m3sw/tonne,AFR,217,Togo,Wood pulp,3.57666666666667
@@ -2778,6 +3205,7 @@ c11,m3sw/tonne,ASI,2,Afghanistan,Wood pulp,3.7
 c11,m3sw/tonne,ASI,13,Bahrain,Wood pulp,3.7
 c11,m3sw/tonne,ASI,16,Bangladesh,Wood pulp,3.7
 c11,m3sw/tonne,ASI,18,Bhutan,Wood pulp,3.7
+c11,m3sw/tonne,ASI,24,British Indian Ocean Territory,Wood pulp,3.7
 c11,m3sw/tonne,ASI,26,Brunei Darussalam,Wood pulp,3.7
 c11,m3sw/tonne,ASI,28,Myanmar,Wood pulp,3.7
 c11,m3sw/tonne,ASI,38,Sri Lanka,Wood pulp,3.7
@@ -2813,32 +3241,41 @@ c11,m3sw/tonne,ASI,185,Russian Federation,Wood pulp,3.76
 c11,m3sw/tonne,ASI,194,Saudi Arabia,Wood pulp,3.7
 c11,m3sw/tonne,ASI,200,Singapore,Wood pulp,3.7
 c11,m3sw/tonne,ASI,208,Tajikistan,Wood pulp,3.7
+c11,m3sw/tonne,ASI,208,Tokelau,Wood pulp,3.7
 c11,m3sw/tonne,ASI,212,Syrian Arab Republic,Wood pulp,3.7
 c11,m3sw/tonne,ASI,213,Turkmenistan,Wood pulp,3.7
 c11,m3sw/tonne,ASI,214,"China, Taiwan Province of",Wood pulp,3.7
 c11,m3sw/tonne,ASI,216,Thailand,Wood pulp,3.7
 c11,m3sw/tonne,ASI,221,Oman,Wood pulp,3.7
 c11,m3sw/tonne,ASI,225,United Arab Emirates,Wood pulp,3.7
+c11,m3sw/tonne,ASI,228,USSR,Wood pulp,3.7
 c11,m3sw/tonne,ASI,235,Uzbekistan,Wood pulp,3.7
 c11,m3sw/tonne,ASI,237,Viet Nam,Wood pulp,3.7
 c11,m3sw/tonne,ASI,249,Yemen,Wood pulp,3.7
+c11,m3sw/tonne,ASI,299,Palestine,Wood pulp,3.7
 c11,m3sw/tonne,EUR,3,Albania,Wood pulp,3.6
 c11,m3sw/tonne,EUR,6,Andorra,Wood pulp,3.6
 c11,m3sw/tonne,EUR,11,Austria,Wood pulp,4.06
 c11,m3sw/tonne,EUR,15,Belgium-Luxembourg,Wood pulp,3.6
 c11,m3sw/tonne,EUR,27,Bulgaria,Wood pulp,3.6
+c11,m3sw/tonne,EUR,27,Marshall Islands,Wood pulp,3.6
 c11,m3sw/tonne,EUR,50,Cyprus,Wood pulp,3.6
 c11,m3sw/tonne,EUR,51,Czechoslovakia,Wood pulp,3.6
 c11,m3sw/tonne,EUR,54,Denmark,Wood pulp,3.6
 c11,m3sw/tonne,EUR,57,Belarus,Wood pulp,3.6
 c11,m3sw/tonne,EUR,63,Estonia,Wood pulp,3.6
+c11,m3sw/tonne,EUR,63,Northern Mariana Islands,Wood pulp,3.6
 c11,m3sw/tonne,EUR,64,Faroe Islands,Wood pulp,3.6
+c11,m3sw/tonne,EUR,64,Pacific Islands Trust Territory,Wood pulp,3.6
 c11,m3sw/tonne,EUR,67,Finland,Wood pulp,3.6
 c11,m3sw/tonne,EUR,68,France,Wood pulp,3.6
 c11,m3sw/tonne,EUR,79,Germany,Wood pulp,3.6
 c11,m3sw/tonne,EUR,80,Bosnia and Herzegovina,Wood pulp,3.6
+c11,m3sw/tonne,EUR,80,Palau,Wood pulp,3.6
 c11,m3sw/tonne,EUR,82,Gibraltar,Wood pulp,3.6
 c11,m3sw/tonne,EUR,84,Greece,Wood pulp,3.6
+c11,m3sw/tonne,EUR,85,Greenland,Wood pulp,3.6
+c11,m3sw/tonne,EUR,94,Holy See,Wood pulp,3.6
 c11,m3sw/tonne,EUR,97,Hungary,Wood pulp,3.6
 c11,m3sw/tonne,EUR,98,Croatia,Wood pulp,3.6
 c11,m3sw/tonne,EUR,99,Iceland,Wood pulp,3.6
@@ -2865,10 +3302,12 @@ c11,m3sw/tonne,EUR,211,Switzerland,Wood pulp,3.6
 c11,m3sw/tonne,EUR,223,Turkey,Wood pulp,3.6
 c11,m3sw/tonne,EUR,229,United Kingdom,Wood pulp,3.6
 c11,m3sw/tonne,EUR,230,Ukraine,Wood pulp,3.6
+c11,m3sw/tonne,EUR,248,Yugoslav SFR,Wood pulp,3.6
 c11,m3sw/tonne,EUR,255,Belgium,Wood pulp,3.6
 c11,m3sw/tonne,EUR,256,Luxembourg,Wood pulp,3.6
 c11,m3sw/tonne,EUR,272,Serbia,Wood pulp,3.6
 c11,m3sw/tonne,EUR,273,Montenegro,Wood pulp,3.6
+c11,m3sw/tonne,LAM,8,Antigua and Barbuda,Wood pulp,3.43
 c11,m3sw/tonne,LAM,9,Argentina,Wood pulp,3.43
 c11,m3sw/tonne,LAM,12,Bahamas,Wood pulp,3.43
 c11,m3sw/tonne,LAM,14,Barbados,Wood pulp,3.43
@@ -2876,9 +3315,11 @@ c11,m3sw/tonne,LAM,19,Bolivia (Plurinational State of),Wood pulp,3.43
 c11,m3sw/tonne,LAM,21,Brazil,Wood pulp,3.43
 c11,m3sw/tonne,LAM,22,Aruba,Wood pulp,3.43
 c11,m3sw/tonne,LAM,23,Belize,Wood pulp,3.43
+c11,m3sw/tonne,LAM,36,Cayman Islands,Wood pulp,3.43
 c11,m3sw/tonne,LAM,40,Chile,Wood pulp,3.43
 c11,m3sw/tonne,LAM,44,Colombia,Wood pulp,3.43
 c11,m3sw/tonne,LAM,48,Costa Rica,Wood pulp,3.43
+c11,m3sw/tonne,LAM,48,Nauru,Wood pulp,3.43
 c11,m3sw/tonne,LAM,49,Cuba,Wood pulp,3.43
 c11,m3sw/tonne,LAM,55,Dominica,Wood pulp,3.43
 c11,m3sw/tonne,LAM,56,Dominican Republic,Wood pulp,3.43
@@ -2886,7 +3327,9 @@ c11,m3sw/tonne,LAM,58,Ecuador,Wood pulp,3.43
 c11,m3sw/tonne,LAM,60,El Salvador,Wood pulp,3.43
 c11,m3sw/tonne,LAM,65,Falkland Islands (Malvinas),Wood pulp,3.43
 c11,m3sw/tonne,LAM,69,French Guyana,Wood pulp,3.43
+c11,m3sw/tonne,LAM,86,Grenada,Wood pulp,3.43
 c11,m3sw/tonne,LAM,87,Guadeloupe,Wood pulp,3.43
+c11,m3sw/tonne,LAM,87,"Saint Helena, Ascension and Tristan da Cunha",Wood pulp,3.43
 c11,m3sw/tonne,LAM,89,Guatemala,Wood pulp,3.43
 c11,m3sw/tonne,LAM,91,Guyana,Wood pulp,3.43
 c11,m3sw/tonne,LAM,93,Haiti,Wood pulp,3.43
@@ -2907,16 +3350,24 @@ c11,m3sw/tonne,LAM,224,Turks and Caicos Islands,Wood pulp,3.43
 c11,m3sw/tonne,LAM,234,Uruguay,Wood pulp,3.43
 c11,m3sw/tonne,LAM,236,Venezuela (Bolivarian Republic of),Wood pulp,3.43
 c11,m3sw/tonne,LAM,239,British Virgin Islands,Wood pulp,3.43
+c11,m3sw/tonne,LAM,258,Anguilla,Wood pulp,3.43
+c11,m3sw/tonne,LAM,279,Curaçao,Wood pulp,3.43
 c11,m3sw/tonne,NAM,33,Canada,Wood pulp,3.57666666666667
 c11,m3sw/tonne,NAM,190,Saint Pierre and Miquelon,Wood pulp,3.57666666666667
 c11,m3sw/tonne,NAM,231,United States of America,Wood pulp,3.57666666666667
+c11,m3sw/tonne,OCE,5,American Samoa,Wood pulp,3.57666666666667
 c11,m3sw/tonne,OCE,10,Australia,Wood pulp,3.57666666666667
 c11,m3sw/tonne,OCE,25,Solomon Islands,Wood pulp,3.57666666666667
 c11,m3sw/tonne,OCE,42,Christmas Island,Wood pulp,3.57666666666667
+c11,m3sw/tonne,OCE,42,Montserrat,Wood pulp,3.57666666666667
+c11,m3sw/tonne,OCE,43,Cocos (Keeling) Islands,Wood pulp,3.57666666666667
 c11,m3sw/tonne,OCE,47,Cook Islands,Wood pulp,3.57666666666667
 c11,m3sw/tonne,OCE,66,Fiji,Wood pulp,3.57666666666667
 c11,m3sw/tonne,OCE,70,French Polynesia,Wood pulp,3.57666666666667
+c11,m3sw/tonne,OCE,70,French Southern and Antarctic Territories,Wood pulp,3.57666666666667
 c11,m3sw/tonne,OCE,83,Kiribati,Wood pulp,3.57666666666667
+c11,m3sw/tonne,OCE,88,Guam,Wood pulp,3.57666666666667
+c11,m3sw/tonne,OCE,88,Saint Kitts and Nevis,Wood pulp,3.57666666666667
 c11,m3sw/tonne,OCE,145,Micronesia (Federated States of),Wood pulp,3.57666666666667
 c11,m3sw/tonne,OCE,153,New Caledonia,Wood pulp,3.57666666666667
 c11,m3sw/tonne,OCE,155,Vanuatu,Wood pulp,3.57666666666667
@@ -2924,9 +3375,15 @@ c11,m3sw/tonne,OCE,156,New Zealand,Wood pulp,3.57666666666667
 c11,m3sw/tonne,OCE,160,Niue,Wood pulp,3.57666666666667
 c11,m3sw/tonne,OCE,161,Norfolk Island,Wood pulp,3.57666666666667
 c11,m3sw/tonne,OCE,168,Papua New Guinea,Wood pulp,3.57666666666667
+c11,m3sw/tonne,OCE,227,Tuvalu,Wood pulp,3.57666666666667
+c11,m3sw/tonne,OCE,242,Wake Island,Wood pulp,3.57666666666667
+c11,m3sw/tonne,OCE,243,Wallis and Futuna Islands,Wood pulp,3.57666666666667
 c11,m3sw/tonne,OCE,244,Samoa,Wood pulp,3.57666666666667
+c11,m3sw/tonne,XXX,252,Unspecified Area,Wood pulp,3.57666666666667
+c11,m3sw/tonne,XXX,254,Others (adjustment),Wood pulp,3.57666666666667
 c12,mt/mt,AFR,4,Algeria,Recovered paper,1.21666666666667
 c12,mt/mt,AFR,7,Angola,Recovered paper,1.21666666666667
+c12,mt/mt,AFR,7,Bermuda,Recovered paper,1.21666666666667
 c12,mt/mt,AFR,20,Botswana,Recovered paper,1.21666666666667
 c12,mt/mt,AFR,29,Burundi,Recovered paper,1.21666666666667
 c12,mt/mt,AFR,32,Cameroon,Recovered paper,1.21666666666667
@@ -2939,6 +3396,7 @@ c12,mt/mt,AFR,53,Benin,Recovered paper,1.21666666666667
 c12,mt/mt,AFR,59,Egypt,Recovered paper,1.21666666666667
 c12,mt/mt,AFR,61,Equatorial Guinea,Recovered paper,1.21666666666667
 c12,mt/mt,AFR,72,Djibouti,Recovered paper,1.21666666666667
+c12,mt/mt,AFR,72,Pitcairn Islands,Recovered paper,1.21666666666667
 c12,mt/mt,AFR,74,Gabon,Recovered paper,1.21666666666667
 c12,mt/mt,AFR,75,Gambia,Recovered paper,1.21666666666667
 c12,mt/mt,AFR,81,Ghana,Recovered paper,1.21666666666667
@@ -2969,6 +3427,7 @@ c12,mt/mt,AFR,196,Seychelles,Recovered paper,1.21666666666667
 c12,mt/mt,AFR,197,Sierra Leone,Recovered paper,1.21666666666667
 c12,mt/mt,AFR,201,Somalia,Recovered paper,1.21666666666667
 c12,mt/mt,AFR,202,South Africa,Recovered paper,1.21666666666667
+c12,mt/mt,AFR,205,Western Sahara,Recovered paper,1.21666666666667
 c12,mt/mt,AFR,209,Eswatini,Recovered paper,1.21666666666667
 c12,mt/mt,AFR,215,United Republic of Tanzania,Recovered paper,1.21666666666667
 c12,mt/mt,AFR,217,Togo,Recovered paper,1.21666666666667
@@ -2987,6 +3446,7 @@ c12,mt/mt,ASI,2,Afghanistan,Recovered paper,1.26
 c12,mt/mt,ASI,13,Bahrain,Recovered paper,1.26
 c12,mt/mt,ASI,16,Bangladesh,Recovered paper,1.26
 c12,mt/mt,ASI,18,Bhutan,Recovered paper,1.26
+c12,mt/mt,ASI,24,British Indian Ocean Territory,Recovered paper,1.26
 c12,mt/mt,ASI,26,Brunei Darussalam,Recovered paper,1.26
 c12,mt/mt,ASI,28,Myanmar,Recovered paper,1.26
 c12,mt/mt,ASI,38,Sri Lanka,Recovered paper,1.26
@@ -3022,32 +3482,41 @@ c12,mt/mt,ASI,185,Russian Federation,Recovered paper,1.1
 c12,mt/mt,ASI,194,Saudi Arabia,Recovered paper,1.26
 c12,mt/mt,ASI,200,Singapore,Recovered paper,1.26
 c12,mt/mt,ASI,208,Tajikistan,Recovered paper,1.26
+c12,mt/mt,ASI,208,Tokelau,Recovered paper,1.26
 c12,mt/mt,ASI,212,Syrian Arab Republic,Recovered paper,1.26
 c12,mt/mt,ASI,213,Turkmenistan,Recovered paper,1.26
 c12,mt/mt,ASI,214,"China, Taiwan Province of",Recovered paper,1.26
 c12,mt/mt,ASI,216,Thailand,Recovered paper,1.26
 c12,mt/mt,ASI,221,Oman,Recovered paper,1.26
 c12,mt/mt,ASI,225,United Arab Emirates,Recovered paper,1.26
+c12,mt/mt,ASI,228,USSR,Recovered paper,1.26
 c12,mt/mt,ASI,235,Uzbekistan,Recovered paper,1.26
 c12,mt/mt,ASI,237,Viet Nam,Recovered paper,1.26
 c12,mt/mt,ASI,249,Yemen,Recovered paper,1.26
+c12,mt/mt,ASI,299,Palestine,Recovered paper,1.26
 c12,mt/mt,EUR,3,Albania,Recovered paper,1.19
 c12,mt/mt,EUR,6,Andorra,Recovered paper,1.19
 c12,mt/mt,EUR,11,Austria,Recovered paper,1.19
 c12,mt/mt,EUR,15,Belgium-Luxembourg,Recovered paper,1.19
 c12,mt/mt,EUR,27,Bulgaria,Recovered paper,1.19
+c12,mt/mt,EUR,27,Marshall Islands,Recovered paper,1.19
 c12,mt/mt,EUR,50,Cyprus,Recovered paper,1.19
 c12,mt/mt,EUR,51,Czechoslovakia,Recovered paper,1.19
 c12,mt/mt,EUR,54,Denmark,Recovered paper,1.19
 c12,mt/mt,EUR,57,Belarus,Recovered paper,1.19
 c12,mt/mt,EUR,63,Estonia,Recovered paper,1.19
+c12,mt/mt,EUR,63,Northern Mariana Islands,Recovered paper,1.19
 c12,mt/mt,EUR,64,Faroe Islands,Recovered paper,1.19
+c12,mt/mt,EUR,64,Pacific Islands Trust Territory,Recovered paper,1.19
 c12,mt/mt,EUR,67,Finland,Recovered paper,1.3
 c12,mt/mt,EUR,68,France,Recovered paper,1.19
 c12,mt/mt,EUR,79,Germany,Recovered paper,1.2
 c12,mt/mt,EUR,80,Bosnia and Herzegovina,Recovered paper,1.19
+c12,mt/mt,EUR,80,Palau,Recovered paper,1.19
 c12,mt/mt,EUR,82,Gibraltar,Recovered paper,1.19
 c12,mt/mt,EUR,84,Greece,Recovered paper,1.19
+c12,mt/mt,EUR,85,Greenland,Recovered paper,1.19
+c12,mt/mt,EUR,94,Holy See,Recovered paper,1.19
 c12,mt/mt,EUR,97,Hungary,Recovered paper,1.19
 c12,mt/mt,EUR,98,Croatia,Recovered paper,1.19
 c12,mt/mt,EUR,99,Iceland,Recovered paper,1.19
@@ -3074,10 +3543,12 @@ c12,mt/mt,EUR,211,Switzerland,Recovered paper,1.19
 c12,mt/mt,EUR,223,Turkey,Recovered paper,1.19
 c12,mt/mt,EUR,229,United Kingdom,Recovered paper,1.19
 c12,mt/mt,EUR,230,Ukraine,Recovered paper,1.19
+c12,mt/mt,EUR,248,Yugoslav SFR,Recovered paper,1.19
 c12,mt/mt,EUR,255,Belgium,Recovered paper,1.19
 c12,mt/mt,EUR,256,Luxembourg,Recovered paper,1.19
 c12,mt/mt,EUR,272,Serbia,Recovered paper,1.19
 c12,mt/mt,EUR,273,Montenegro,Recovered paper,1.19
+c12,mt/mt,LAM,8,Antigua and Barbuda,Recovered paper,1.2
 c12,mt/mt,LAM,9,Argentina,Recovered paper,1.2
 c12,mt/mt,LAM,12,Bahamas,Recovered paper,1.2
 c12,mt/mt,LAM,14,Barbados,Recovered paper,1.2
@@ -3085,9 +3556,11 @@ c12,mt/mt,LAM,19,Bolivia (Plurinational State of),Recovered paper,1.2
 c12,mt/mt,LAM,21,Brazil,Recovered paper,1.2
 c12,mt/mt,LAM,22,Aruba,Recovered paper,1.2
 c12,mt/mt,LAM,23,Belize,Recovered paper,1.2
+c12,mt/mt,LAM,36,Cayman Islands,Recovered paper,1.2
 c12,mt/mt,LAM,40,Chile,Recovered paper,1.2
 c12,mt/mt,LAM,44,Colombia,Recovered paper,1.2
 c12,mt/mt,LAM,48,Costa Rica,Recovered paper,1.2
+c12,mt/mt,LAM,48,Nauru,Recovered paper,1.2
 c12,mt/mt,LAM,49,Cuba,Recovered paper,1.2
 c12,mt/mt,LAM,55,Dominica,Recovered paper,1.2
 c12,mt/mt,LAM,56,Dominican Republic,Recovered paper,1.2
@@ -3095,7 +3568,9 @@ c12,mt/mt,LAM,58,Ecuador,Recovered paper,1.2
 c12,mt/mt,LAM,60,El Salvador,Recovered paper,1.2
 c12,mt/mt,LAM,65,Falkland Islands (Malvinas),Recovered paper,1.2
 c12,mt/mt,LAM,69,French Guyana,Recovered paper,1.2
+c12,mt/mt,LAM,86,Grenada,Recovered paper,1.2
 c12,mt/mt,LAM,87,Guadeloupe,Recovered paper,1.2
+c12,mt/mt,LAM,87,"Saint Helena, Ascension and Tristan da Cunha",Recovered paper,1.2
 c12,mt/mt,LAM,89,Guatemala,Recovered paper,1.2
 c12,mt/mt,LAM,91,Guyana,Recovered paper,1.2
 c12,mt/mt,LAM,93,Haiti,Recovered paper,1.2
@@ -3116,16 +3591,24 @@ c12,mt/mt,LAM,224,Turks and Caicos Islands,Recovered paper,1.2
 c12,mt/mt,LAM,234,Uruguay,Recovered paper,1.2
 c12,mt/mt,LAM,236,Venezuela (Bolivarian Republic of),Recovered paper,1.2
 c12,mt/mt,LAM,239,British Virgin Islands,Recovered paper,1.2
+c12,mt/mt,LAM,258,Anguilla,Recovered paper,1.2
+c12,mt/mt,LAM,279,Curaçao,Recovered paper,1.2
 c12,mt/mt,NAM,33,Canada,Recovered paper,1.21666666666667
 c12,mt/mt,NAM,190,Saint Pierre and Miquelon,Recovered paper,1.21666666666667
 c12,mt/mt,NAM,231,United States of America,Recovered paper,1.21666666666667
+c12,mt/mt,OCE,5,American Samoa,Recovered paper,1.21666666666667
 c12,mt/mt,OCE,10,Australia,Recovered paper,1.21666666666667
 c12,mt/mt,OCE,25,Solomon Islands,Recovered paper,1.21666666666667
 c12,mt/mt,OCE,42,Christmas Island,Recovered paper,1.21666666666667
+c12,mt/mt,OCE,42,Montserrat,Recovered paper,1.21666666666667
+c12,mt/mt,OCE,43,Cocos (Keeling) Islands,Recovered paper,1.21666666666667
 c12,mt/mt,OCE,47,Cook Islands,Recovered paper,1.21666666666667
 c12,mt/mt,OCE,66,Fiji,Recovered paper,1.21666666666667
 c12,mt/mt,OCE,70,French Polynesia,Recovered paper,1.21666666666667
+c12,mt/mt,OCE,70,French Southern and Antarctic Territories,Recovered paper,1.21666666666667
 c12,mt/mt,OCE,83,Kiribati,Recovered paper,1.21666666666667
+c12,mt/mt,OCE,88,Guam,Recovered paper,1.21666666666667
+c12,mt/mt,OCE,88,Saint Kitts and Nevis,Recovered paper,1.21666666666667
 c12,mt/mt,OCE,145,Micronesia (Federated States of),Recovered paper,1.21666666666667
 c12,mt/mt,OCE,153,New Caledonia,Recovered paper,1.21666666666667
 c12,mt/mt,OCE,155,Vanuatu,Recovered paper,1.21666666666667
@@ -3133,9 +3616,15 @@ c12,mt/mt,OCE,156,New Zealand,Recovered paper,1.21666666666667
 c12,mt/mt,OCE,160,Niue,Recovered paper,1.21666666666667
 c12,mt/mt,OCE,161,Norfolk Island,Recovered paper,1.21666666666667
 c12,mt/mt,OCE,168,Papua New Guinea,Recovered paper,1.21666666666667
+c12,mt/mt,OCE,227,Tuvalu,Recovered paper,1.21666666666667
+c12,mt/mt,OCE,242,Wake Island,Recovered paper,1.21666666666667
+c12,mt/mt,OCE,243,Wallis and Futuna Islands,Recovered paper,1.21666666666667
 c12,mt/mt,OCE,244,Samoa,Recovered paper,1.21666666666667
+c12,mt/mt,XXX,252,Unspecified Area,Recovered paper,1.21666666666667
+c12,mt/mt,XXX,254,Others (adjustment),Recovered paper,1.21666666666667
 c13,m3sw/tonne,AFR,4,Algeria,Recovered fibre pulp,4.354
 c13,m3sw/tonne,AFR,7,Angola,Recovered fibre pulp,4.354
+c13,m3sw/tonne,AFR,7,Bermuda,Recovered fibre pulp,4.354
 c13,m3sw/tonne,AFR,20,Botswana,Recovered fibre pulp,4.354
 c13,m3sw/tonne,AFR,29,Burundi,Recovered fibre pulp,4.354
 c13,m3sw/tonne,AFR,32,Cameroon,Recovered fibre pulp,4.354
@@ -3148,6 +3637,7 @@ c13,m3sw/tonne,AFR,53,Benin,Recovered fibre pulp,4.354
 c13,m3sw/tonne,AFR,59,Egypt,Recovered fibre pulp,4.354
 c13,m3sw/tonne,AFR,61,Equatorial Guinea,Recovered fibre pulp,4.354
 c13,m3sw/tonne,AFR,72,Djibouti,Recovered fibre pulp,4.354
+c13,m3sw/tonne,AFR,72,Pitcairn Islands,Recovered fibre pulp,4.354
 c13,m3sw/tonne,AFR,74,Gabon,Recovered fibre pulp,4.354
 c13,m3sw/tonne,AFR,75,Gambia,Recovered fibre pulp,4.354
 c13,m3sw/tonne,AFR,81,Ghana,Recovered fibre pulp,4.354
@@ -3178,6 +3668,7 @@ c13,m3sw/tonne,AFR,196,Seychelles,Recovered fibre pulp,4.354
 c13,m3sw/tonne,AFR,197,Sierra Leone,Recovered fibre pulp,4.354
 c13,m3sw/tonne,AFR,201,Somalia,Recovered fibre pulp,4.354
 c13,m3sw/tonne,AFR,202,South Africa,Recovered fibre pulp,4.354
+c13,m3sw/tonne,AFR,205,Western Sahara,Recovered fibre pulp,4.354
 c13,m3sw/tonne,AFR,209,Eswatini,Recovered fibre pulp,4.354
 c13,m3sw/tonne,AFR,215,United Republic of Tanzania,Recovered fibre pulp,4.354
 c13,m3sw/tonne,AFR,217,Togo,Recovered fibre pulp,4.354
@@ -3196,6 +3687,7 @@ c13,m3sw/tonne,ASI,2,Afghanistan,Recovered fibre pulp,4.662
 c13,m3sw/tonne,ASI,13,Bahrain,Recovered fibre pulp,4.662
 c13,m3sw/tonne,ASI,16,Bangladesh,Recovered fibre pulp,4.662
 c13,m3sw/tonne,ASI,18,Bhutan,Recovered fibre pulp,4.662
+c13,m3sw/tonne,ASI,24,British Indian Ocean Territory,Recovered fibre pulp,4.662
 c13,m3sw/tonne,ASI,26,Brunei Darussalam,Recovered fibre pulp,4.662
 c13,m3sw/tonne,ASI,28,Myanmar,Recovered fibre pulp,4.662
 c13,m3sw/tonne,ASI,38,Sri Lanka,Recovered fibre pulp,4.662
@@ -3231,32 +3723,41 @@ c13,m3sw/tonne,ASI,185,Russian Federation,Recovered fibre pulp,4.136
 c13,m3sw/tonne,ASI,194,Saudi Arabia,Recovered fibre pulp,4.662
 c13,m3sw/tonne,ASI,200,Singapore,Recovered fibre pulp,4.662
 c13,m3sw/tonne,ASI,208,Tajikistan,Recovered fibre pulp,4.662
+c13,m3sw/tonne,ASI,208,Tokelau,Recovered fibre pulp,4.662
 c13,m3sw/tonne,ASI,212,Syrian Arab Republic,Recovered fibre pulp,4.662
 c13,m3sw/tonne,ASI,213,Turkmenistan,Recovered fibre pulp,4.662
 c13,m3sw/tonne,ASI,214,"China, Taiwan Province of",Recovered fibre pulp,4.662
 c13,m3sw/tonne,ASI,216,Thailand,Recovered fibre pulp,4.662
 c13,m3sw/tonne,ASI,221,Oman,Recovered fibre pulp,4.662
 c13,m3sw/tonne,ASI,225,United Arab Emirates,Recovered fibre pulp,4.662
+c13,m3sw/tonne,ASI,228,USSR,Recovered fibre pulp,4.662
 c13,m3sw/tonne,ASI,235,Uzbekistan,Recovered fibre pulp,4.662
 c13,m3sw/tonne,ASI,237,Viet Nam,Recovered fibre pulp,4.662
 c13,m3sw/tonne,ASI,249,Yemen,Recovered fibre pulp,4.662
+c13,m3sw/tonne,ASI,299,Palestine,Recovered fibre pulp,4.662
 c13,m3sw/tonne,EUR,3,Albania,Recovered fibre pulp,4.284
 c13,m3sw/tonne,EUR,6,Andorra,Recovered fibre pulp,4.284
 c13,m3sw/tonne,EUR,11,Austria,Recovered fibre pulp,4.284
 c13,m3sw/tonne,EUR,15,Belgium-Luxembourg,Recovered fibre pulp,4.284
 c13,m3sw/tonne,EUR,27,Bulgaria,Recovered fibre pulp,4.284
+c13,m3sw/tonne,EUR,27,Marshall Islands,Recovered fibre pulp,4.284
 c13,m3sw/tonne,EUR,50,Cyprus,Recovered fibre pulp,4.284
 c13,m3sw/tonne,EUR,51,Czechoslovakia,Recovered fibre pulp,4.284
 c13,m3sw/tonne,EUR,54,Denmark,Recovered fibre pulp,4.284
 c13,m3sw/tonne,EUR,57,Belarus,Recovered fibre pulp,4.284
 c13,m3sw/tonne,EUR,63,Estonia,Recovered fibre pulp,4.284
+c13,m3sw/tonne,EUR,63,Northern Mariana Islands,Recovered fibre pulp,4.284
 c13,m3sw/tonne,EUR,64,Faroe Islands,Recovered fibre pulp,4.284
+c13,m3sw/tonne,EUR,64,Pacific Islands Trust Territory,Recovered fibre pulp,4.284
 c13,m3sw/tonne,EUR,67,Finland,Recovered fibre pulp,4.284
 c13,m3sw/tonne,EUR,68,France,Recovered fibre pulp,4.284
 c13,m3sw/tonne,EUR,79,Germany,Recovered fibre pulp,4.284
 c13,m3sw/tonne,EUR,80,Bosnia and Herzegovina,Recovered fibre pulp,4.284
+c13,m3sw/tonne,EUR,80,Palau,Recovered fibre pulp,4.284
 c13,m3sw/tonne,EUR,82,Gibraltar,Recovered fibre pulp,4.284
 c13,m3sw/tonne,EUR,84,Greece,Recovered fibre pulp,4.284
+c13,m3sw/tonne,EUR,85,Greenland,Recovered fibre pulp,4.284
+c13,m3sw/tonne,EUR,94,Holy See,Recovered fibre pulp,4.284
 c13,m3sw/tonne,EUR,97,Hungary,Recovered fibre pulp,4.284
 c13,m3sw/tonne,EUR,98,Croatia,Recovered fibre pulp,4.284
 c13,m3sw/tonne,EUR,99,Iceland,Recovered fibre pulp,4.284
@@ -3283,10 +3784,12 @@ c13,m3sw/tonne,EUR,211,Switzerland,Recovered fibre pulp,4.284
 c13,m3sw/tonne,EUR,223,Turkey,Recovered fibre pulp,4.284
 c13,m3sw/tonne,EUR,229,United Kingdom,Recovered fibre pulp,4.284
 c13,m3sw/tonne,EUR,230,Ukraine,Recovered fibre pulp,4.284
+c13,m3sw/tonne,EUR,248,Yugoslav SFR,Recovered fibre pulp,4.284
 c13,m3sw/tonne,EUR,255,Belgium,Recovered fibre pulp,4.284
 c13,m3sw/tonne,EUR,256,Luxembourg,Recovered fibre pulp,4.284
 c13,m3sw/tonne,EUR,272,Serbia,Recovered fibre pulp,4.284
 c13,m3sw/tonne,EUR,273,Montenegro,Recovered fibre pulp,4.284
+c13,m3sw/tonne,LAM,8,Antigua and Barbuda,Recovered fibre pulp,4.116
 c13,m3sw/tonne,LAM,9,Argentina,Recovered fibre pulp,4.116
 c13,m3sw/tonne,LAM,12,Bahamas,Recovered fibre pulp,4.116
 c13,m3sw/tonne,LAM,14,Barbados,Recovered fibre pulp,4.116
@@ -3294,9 +3797,11 @@ c13,m3sw/tonne,LAM,19,Bolivia (Plurinational State of),Recovered fibre pulp,4.11
 c13,m3sw/tonne,LAM,21,Brazil,Recovered fibre pulp,4.116
 c13,m3sw/tonne,LAM,22,Aruba,Recovered fibre pulp,4.116
 c13,m3sw/tonne,LAM,23,Belize,Recovered fibre pulp,4.116
+c13,m3sw/tonne,LAM,36,Cayman Islands,Recovered fibre pulp,4.116
 c13,m3sw/tonne,LAM,40,Chile,Recovered fibre pulp,4.116
 c13,m3sw/tonne,LAM,44,Colombia,Recovered fibre pulp,4.116
 c13,m3sw/tonne,LAM,48,Costa Rica,Recovered fibre pulp,4.116
+c13,m3sw/tonne,LAM,48,Nauru,Recovered fibre pulp,4.116
 c13,m3sw/tonne,LAM,49,Cuba,Recovered fibre pulp,4.116
 c13,m3sw/tonne,LAM,55,Dominica,Recovered fibre pulp,4.116
 c13,m3sw/tonne,LAM,56,Dominican Republic,Recovered fibre pulp,4.116
@@ -3304,7 +3809,9 @@ c13,m3sw/tonne,LAM,58,Ecuador,Recovered fibre pulp,4.116
 c13,m3sw/tonne,LAM,60,El Salvador,Recovered fibre pulp,4.116
 c13,m3sw/tonne,LAM,65,Falkland Islands (Malvinas),Recovered fibre pulp,4.116
 c13,m3sw/tonne,LAM,69,French Guyana,Recovered fibre pulp,4.116
+c13,m3sw/tonne,LAM,86,Grenada,Recovered fibre pulp,4.116
 c13,m3sw/tonne,LAM,87,Guadeloupe,Recovered fibre pulp,4.116
+c13,m3sw/tonne,LAM,87,"Saint Helena, Ascension and Tristan da Cunha",Recovered fibre pulp,4.116
 c13,m3sw/tonne,LAM,89,Guatemala,Recovered fibre pulp,4.116
 c13,m3sw/tonne,LAM,91,Guyana,Recovered fibre pulp,4.116
 c13,m3sw/tonne,LAM,93,Haiti,Recovered fibre pulp,4.116
@@ -3325,16 +3832,24 @@ c13,m3sw/tonne,LAM,224,Turks and Caicos Islands,Recovered fibre pulp,4.116
 c13,m3sw/tonne,LAM,234,Uruguay,Recovered fibre pulp,4.116
 c13,m3sw/tonne,LAM,236,Venezuela (Bolivarian Republic of),Recovered fibre pulp,4.116
 c13,m3sw/tonne,LAM,239,British Virgin Islands,Recovered fibre pulp,4.116
+c13,m3sw/tonne,LAM,258,Anguilla,Recovered fibre pulp,4.116
+c13,m3sw/tonne,LAM,279,Curaçao,Recovered fibre pulp,4.116
 c13,m3sw/tonne,NAM,33,Canada,Recovered fibre pulp,4.354
 c13,m3sw/tonne,NAM,190,Saint Pierre and Miquelon,Recovered fibre pulp,4.354
 c13,m3sw/tonne,NAM,231,United States of America,Recovered fibre pulp,4.354
+c13,m3sw/tonne,OCE,5,American Samoa,Recovered fibre pulp,4.354
 c13,m3sw/tonne,OCE,10,Australia,Recovered fibre pulp,4.354
 c13,m3sw/tonne,OCE,25,Solomon Islands,Recovered fibre pulp,4.354
 c13,m3sw/tonne,OCE,42,Christmas Island,Recovered fibre pulp,4.354
+c13,m3sw/tonne,OCE,42,Montserrat,Recovered fibre pulp,4.354
+c13,m3sw/tonne,OCE,43,Cocos (Keeling) Islands,Recovered fibre pulp,4.354
 c13,m3sw/tonne,OCE,47,Cook Islands,Recovered fibre pulp,4.354
 c13,m3sw/tonne,OCE,66,Fiji,Recovered fibre pulp,4.354
 c13,m3sw/tonne,OCE,70,French Polynesia,Recovered fibre pulp,4.354
+c13,m3sw/tonne,OCE,70,French Southern and Antarctic Territories,Recovered fibre pulp,4.354
 c13,m3sw/tonne,OCE,83,Kiribati,Recovered fibre pulp,4.354
+c13,m3sw/tonne,OCE,88,Guam,Recovered fibre pulp,4.354
+c13,m3sw/tonne,OCE,88,Saint Kitts and Nevis,Recovered fibre pulp,4.354
 c13,m3sw/tonne,OCE,145,Micronesia (Federated States of),Recovered fibre pulp,4.354
 c13,m3sw/tonne,OCE,153,New Caledonia,Recovered fibre pulp,4.354
 c13,m3sw/tonne,OCE,155,Vanuatu,Recovered fibre pulp,4.354
@@ -3342,9 +3857,15 @@ c13,m3sw/tonne,OCE,156,New Zealand,Recovered fibre pulp,4.354
 c13,m3sw/tonne,OCE,160,Niue,Recovered fibre pulp,4.354
 c13,m3sw/tonne,OCE,161,Norfolk Island,Recovered fibre pulp,4.354
 c13,m3sw/tonne,OCE,168,Papua New Guinea,Recovered fibre pulp,4.354
+c13,m3sw/tonne,OCE,227,Tuvalu,Recovered fibre pulp,4.354
+c13,m3sw/tonne,OCE,242,Wake Island,Recovered fibre pulp,4.354
+c13,m3sw/tonne,OCE,243,Wallis and Futuna Islands,Recovered fibre pulp,4.354
 c13,m3sw/tonne,OCE,244,Samoa,Recovered fibre pulp,4.354
+c13,m3sw/tonne,XXX,252,Unspecified Area,Recovered fibre pulp,4.354
+c13,m3sw/tonne,XXX,254,Others (adjustment),Recovered fibre pulp,4.354
 c14,m3sw/tonne,AFR,4,Algeria,Paper and Paperboard,3.725
 c14,m3sw/tonne,AFR,7,Angola,Paper and Paperboard,3.725
+c14,m3sw/tonne,AFR,7,Bermuda,Paper and Paperboard,3.725
 c14,m3sw/tonne,AFR,20,Botswana,Paper and Paperboard,3.725
 c14,m3sw/tonne,AFR,29,Burundi,Paper and Paperboard,3.725
 c14,m3sw/tonne,AFR,32,Cameroon,Paper and Paperboard,3.725
@@ -3357,6 +3878,7 @@ c14,m3sw/tonne,AFR,53,Benin,Paper and Paperboard,3.725
 c14,m3sw/tonne,AFR,59,Egypt,Paper and Paperboard,3.725
 c14,m3sw/tonne,AFR,61,Equatorial Guinea,Paper and Paperboard,3.725
 c14,m3sw/tonne,AFR,72,Djibouti,Paper and Paperboard,3.725
+c14,m3sw/tonne,AFR,72,Pitcairn Islands,Paper and Paperboard,3.725
 c14,m3sw/tonne,AFR,74,Gabon,Paper and Paperboard,3.725
 c14,m3sw/tonne,AFR,75,Gambia,Paper and Paperboard,3.725
 c14,m3sw/tonne,AFR,81,Ghana,Paper and Paperboard,3.725
@@ -3387,6 +3909,7 @@ c14,m3sw/tonne,AFR,196,Seychelles,Paper and Paperboard,3.725
 c14,m3sw/tonne,AFR,197,Sierra Leone,Paper and Paperboard,3.725
 c14,m3sw/tonne,AFR,201,Somalia,Paper and Paperboard,3.725
 c14,m3sw/tonne,AFR,202,South Africa,Paper and Paperboard,3.725
+c14,m3sw/tonne,AFR,205,Western Sahara,Paper and Paperboard,3.725
 c14,m3sw/tonne,AFR,209,Eswatini,Paper and Paperboard,3.725
 c14,m3sw/tonne,AFR,215,United Republic of Tanzania,Paper and Paperboard,3.725
 c14,m3sw/tonne,AFR,217,Togo,Paper and Paperboard,3.725
@@ -3405,6 +3928,7 @@ c14,m3sw/tonne,ASI,2,Afghanistan,Paper and Paperboard,3.5
 c14,m3sw/tonne,ASI,13,Bahrain,Paper and Paperboard,3.5
 c14,m3sw/tonne,ASI,16,Bangladesh,Paper and Paperboard,3.5
 c14,m3sw/tonne,ASI,18,Bhutan,Paper and Paperboard,3.5
+c14,m3sw/tonne,ASI,24,British Indian Ocean Territory,Paper and Paperboard,3.5
 c14,m3sw/tonne,ASI,26,Brunei Darussalam,Paper and Paperboard,3.5
 c14,m3sw/tonne,ASI,28,Myanmar,Paper and Paperboard,3.5
 c14,m3sw/tonne,ASI,38,Sri Lanka,Paper and Paperboard,3.5
@@ -3440,32 +3964,41 @@ c14,m3sw/tonne,ASI,185,Russian Federation,Paper and Paperboard,4.15
 c14,m3sw/tonne,ASI,194,Saudi Arabia,Paper and Paperboard,3.5
 c14,m3sw/tonne,ASI,200,Singapore,Paper and Paperboard,3.5
 c14,m3sw/tonne,ASI,208,Tajikistan,Paper and Paperboard,3.5
+c14,m3sw/tonne,ASI,208,Tokelau,Paper and Paperboard,3.5
 c14,m3sw/tonne,ASI,212,Syrian Arab Republic,Paper and Paperboard,3.5
 c14,m3sw/tonne,ASI,213,Turkmenistan,Paper and Paperboard,3.5
 c14,m3sw/tonne,ASI,214,"China, Taiwan Province of",Paper and Paperboard,3.5
 c14,m3sw/tonne,ASI,216,Thailand,Paper and Paperboard,3.5
 c14,m3sw/tonne,ASI,221,Oman,Paper and Paperboard,3.5
 c14,m3sw/tonne,ASI,225,United Arab Emirates,Paper and Paperboard,3.5
+c14,m3sw/tonne,ASI,228,USSR,Paper and Paperboard,3.5
 c14,m3sw/tonne,ASI,235,Uzbekistan,Paper and Paperboard,3.5
 c14,m3sw/tonne,ASI,237,Viet Nam,Paper and Paperboard,3.5
 c14,m3sw/tonne,ASI,249,Yemen,Paper and Paperboard,3.5
+c14,m3sw/tonne,ASI,299,Palestine,Paper and Paperboard,3.5
 c14,m3sw/tonne,EUR,3,Albania,Paper and Paperboard,3.95
 c14,m3sw/tonne,EUR,6,Andorra,Paper and Paperboard,3.95
 c14,m3sw/tonne,EUR,11,Austria,Paper and Paperboard,3.95
 c14,m3sw/tonne,EUR,15,Belgium-Luxembourg,Paper and Paperboard,3.95
 c14,m3sw/tonne,EUR,27,Bulgaria,Paper and Paperboard,3.95
+c14,m3sw/tonne,EUR,27,Marshall Islands,Paper and Paperboard,3.95
 c14,m3sw/tonne,EUR,50,Cyprus,Paper and Paperboard,3.95
 c14,m3sw/tonne,EUR,51,Czechoslovakia,Paper and Paperboard,3.95
 c14,m3sw/tonne,EUR,54,Denmark,Paper and Paperboard,3.95
 c14,m3sw/tonne,EUR,57,Belarus,Paper and Paperboard,3.95
 c14,m3sw/tonne,EUR,63,Estonia,Paper and Paperboard,3.95
+c14,m3sw/tonne,EUR,63,Northern Mariana Islands,Paper and Paperboard,3.95
 c14,m3sw/tonne,EUR,64,Faroe Islands,Paper and Paperboard,3.95
+c14,m3sw/tonne,EUR,64,Pacific Islands Trust Territory,Paper and Paperboard,3.95
 c14,m3sw/tonne,EUR,67,Finland,Paper and Paperboard,3.95
 c14,m3sw/tonne,EUR,68,France,Paper and Paperboard,3.95
 c14,m3sw/tonne,EUR,79,Germany,Paper and Paperboard,3.95
 c14,m3sw/tonne,EUR,80,Bosnia and Herzegovina,Paper and Paperboard,3.95
+c14,m3sw/tonne,EUR,80,Palau,Paper and Paperboard,3.95
 c14,m3sw/tonne,EUR,82,Gibraltar,Paper and Paperboard,3.95
 c14,m3sw/tonne,EUR,84,Greece,Paper and Paperboard,3.95
+c14,m3sw/tonne,EUR,85,Greenland,Paper and Paperboard,3.95
+c14,m3sw/tonne,EUR,94,Holy See,Paper and Paperboard,3.95
 c14,m3sw/tonne,EUR,97,Hungary,Paper and Paperboard,3.95
 c14,m3sw/tonne,EUR,98,Croatia,Paper and Paperboard,3.95
 c14,m3sw/tonne,EUR,99,Iceland,Paper and Paperboard,3.95
@@ -3492,10 +4025,12 @@ c14,m3sw/tonne,EUR,211,Switzerland,Paper and Paperboard,3.95
 c14,m3sw/tonne,EUR,223,Turkey,Paper and Paperboard,3.95
 c14,m3sw/tonne,EUR,229,United Kingdom,Paper and Paperboard,3.95
 c14,m3sw/tonne,EUR,230,Ukraine,Paper and Paperboard,3.95
+c14,m3sw/tonne,EUR,248,Yugoslav SFR,Paper and Paperboard,3.95
 c14,m3sw/tonne,EUR,255,Belgium,Paper and Paperboard,3.95
 c14,m3sw/tonne,EUR,256,Luxembourg,Paper and Paperboard,3.95
 c14,m3sw/tonne,EUR,272,Serbia,Paper and Paperboard,3.95
 c14,m3sw/tonne,EUR,273,Montenegro,Paper and Paperboard,3.95
+c14,m3sw/tonne,LAM,8,Antigua and Barbuda,Paper and Paperboard,3.725
 c14,m3sw/tonne,LAM,9,Argentina,Paper and Paperboard,3.725
 c14,m3sw/tonne,LAM,12,Bahamas,Paper and Paperboard,3.725
 c14,m3sw/tonne,LAM,14,Barbados,Paper and Paperboard,3.725
@@ -3503,9 +4038,11 @@ c14,m3sw/tonne,LAM,19,Bolivia (Plurinational State of),Paper and Paperboard,3.72
 c14,m3sw/tonne,LAM,21,Brazil,Paper and Paperboard,3.725
 c14,m3sw/tonne,LAM,22,Aruba,Paper and Paperboard,3.725
 c14,m3sw/tonne,LAM,23,Belize,Paper and Paperboard,3.725
+c14,m3sw/tonne,LAM,36,Cayman Islands,Paper and Paperboard,3.725
 c14,m3sw/tonne,LAM,40,Chile,Paper and Paperboard,3.725
 c14,m3sw/tonne,LAM,44,Colombia,Paper and Paperboard,3.725
 c14,m3sw/tonne,LAM,48,Costa Rica,Paper and Paperboard,3.725
+c14,m3sw/tonne,LAM,48,Nauru,Paper and Paperboard,3.725
 c14,m3sw/tonne,LAM,49,Cuba,Paper and Paperboard,3.725
 c14,m3sw/tonne,LAM,55,Dominica,Paper and Paperboard,3.725
 c14,m3sw/tonne,LAM,56,Dominican Republic,Paper and Paperboard,3.725
@@ -3513,7 +4050,9 @@ c14,m3sw/tonne,LAM,58,Ecuador,Paper and Paperboard,3.725
 c14,m3sw/tonne,LAM,60,El Salvador,Paper and Paperboard,3.725
 c14,m3sw/tonne,LAM,65,Falkland Islands (Malvinas),Paper and Paperboard,3.725
 c14,m3sw/tonne,LAM,69,French Guyana,Paper and Paperboard,3.725
+c14,m3sw/tonne,LAM,86,Grenada,Paper and Paperboard,3.725
 c14,m3sw/tonne,LAM,87,Guadeloupe,Paper and Paperboard,3.725
+c14,m3sw/tonne,LAM,87,"Saint Helena, Ascension and Tristan da Cunha",Paper and Paperboard,3.725
 c14,m3sw/tonne,LAM,89,Guatemala,Paper and Paperboard,3.725
 c14,m3sw/tonne,LAM,91,Guyana,Paper and Paperboard,3.725
 c14,m3sw/tonne,LAM,93,Haiti,Paper and Paperboard,3.725
@@ -3534,16 +4073,24 @@ c14,m3sw/tonne,LAM,224,Turks and Caicos Islands,Paper and Paperboard,3.725
 c14,m3sw/tonne,LAM,234,Uruguay,Paper and Paperboard,3.725
 c14,m3sw/tonne,LAM,236,Venezuela (Bolivarian Republic of),Paper and Paperboard,3.725
 c14,m3sw/tonne,LAM,239,British Virgin Islands,Paper and Paperboard,3.725
+c14,m3sw/tonne,LAM,258,Anguilla,Paper and Paperboard,3.725
+c14,m3sw/tonne,LAM,279,Curaçao,Paper and Paperboard,3.725
 c14,m3sw/tonne,NAM,33,Canada,Paper and Paperboard,3.725
 c14,m3sw/tonne,NAM,190,Saint Pierre and Miquelon,Paper and Paperboard,3.725
 c14,m3sw/tonne,NAM,231,United States of America,Paper and Paperboard,3.725
+c14,m3sw/tonne,OCE,5,American Samoa,Paper and Paperboard,3.725
 c14,m3sw/tonne,OCE,10,Australia,Paper and Paperboard,3.725
 c14,m3sw/tonne,OCE,25,Solomon Islands,Paper and Paperboard,3.725
 c14,m3sw/tonne,OCE,42,Christmas Island,Paper and Paperboard,3.725
+c14,m3sw/tonne,OCE,42,Montserrat,Paper and Paperboard,3.725
+c14,m3sw/tonne,OCE,43,Cocos (Keeling) Islands,Paper and Paperboard,3.725
 c14,m3sw/tonne,OCE,47,Cook Islands,Paper and Paperboard,3.725
 c14,m3sw/tonne,OCE,66,Fiji,Paper and Paperboard,3.725
 c14,m3sw/tonne,OCE,70,French Polynesia,Paper and Paperboard,3.725
+c14,m3sw/tonne,OCE,70,French Southern and Antarctic Territories,Paper and Paperboard,3.725
 c14,m3sw/tonne,OCE,83,Kiribati,Paper and Paperboard,3.725
+c14,m3sw/tonne,OCE,88,Guam,Paper and Paperboard,3.725
+c14,m3sw/tonne,OCE,88,Saint Kitts and Nevis,Paper and Paperboard,3.725
 c14,m3sw/tonne,OCE,145,Micronesia (Federated States of),Paper and Paperboard,3.725
 c14,m3sw/tonne,OCE,153,New Caledonia,Paper and Paperboard,3.725
 c14,m3sw/tonne,OCE,155,Vanuatu,Paper and Paperboard,3.725
@@ -3551,9 +4098,15 @@ c14,m3sw/tonne,OCE,156,New Zealand,Paper and Paperboard,3.725
 c14,m3sw/tonne,OCE,160,Niue,Paper and Paperboard,3.725
 c14,m3sw/tonne,OCE,161,Norfolk Island,Paper and Paperboard,3.725
 c14,m3sw/tonne,OCE,168,Papua New Guinea,Paper and Paperboard,3.725
+c14,m3sw/tonne,OCE,227,Tuvalu,Paper and Paperboard,3.725
+c14,m3sw/tonne,OCE,242,Wake Island,Paper and Paperboard,3.725
+c14,m3sw/tonne,OCE,243,Wallis and Futuna Islands,Paper and Paperboard,3.725
 c14,m3sw/tonne,OCE,244,Samoa,Paper and Paperboard,3.725
+c14,m3sw/tonne,XXX,252,Unspecified Area,Paper and Paperboard,3.725
+c14,m3sw/tonne,XXX,254,Others (adjustment),Paper and Paperboard,3.725
 c15,m3sw/tonne,AFR,4,Algeria,Wood pellets and other agglomerates,1.97
 c15,m3sw/tonne,AFR,7,Angola,Wood pellets and other agglomerates,1.97
+c15,m3sw/tonne,AFR,7,Bermuda,Wood pellets and other agglomerates,1.97
 c15,m3sw/tonne,AFR,20,Botswana,Wood pellets and other agglomerates,1.97
 c15,m3sw/tonne,AFR,29,Burundi,Wood pellets and other agglomerates,1.97
 c15,m3sw/tonne,AFR,32,Cameroon,Wood pellets and other agglomerates,1.97
@@ -3566,6 +4119,7 @@ c15,m3sw/tonne,AFR,53,Benin,Wood pellets and other agglomerates,1.97
 c15,m3sw/tonne,AFR,59,Egypt,Wood pellets and other agglomerates,1.97
 c15,m3sw/tonne,AFR,61,Equatorial Guinea,Wood pellets and other agglomerates,1.97
 c15,m3sw/tonne,AFR,72,Djibouti,Wood pellets and other agglomerates,1.97
+c15,m3sw/tonne,AFR,72,Pitcairn Islands,Wood pellets and other agglomerates,1.97
 c15,m3sw/tonne,AFR,74,Gabon,Wood pellets and other agglomerates,1.97
 c15,m3sw/tonne,AFR,75,Gambia,Wood pellets and other agglomerates,1.97
 c15,m3sw/tonne,AFR,81,Ghana,Wood pellets and other agglomerates,1.97
@@ -3596,6 +4150,7 @@ c15,m3sw/tonne,AFR,196,Seychelles,Wood pellets and other agglomerates,1.97
 c15,m3sw/tonne,AFR,197,Sierra Leone,Wood pellets and other agglomerates,1.97
 c15,m3sw/tonne,AFR,201,Somalia,Wood pellets and other agglomerates,1.97
 c15,m3sw/tonne,AFR,202,South Africa,Wood pellets and other agglomerates,1.97
+c15,m3sw/tonne,AFR,205,Western Sahara,Wood pellets and other agglomerates,1.97
 c15,m3sw/tonne,AFR,209,Eswatini,Wood pellets and other agglomerates,1.97
 c15,m3sw/tonne,AFR,215,United Republic of Tanzania,Wood pellets and other agglomerates,1.97
 c15,m3sw/tonne,AFR,217,Togo,Wood pellets and other agglomerates,1.97
@@ -3614,6 +4169,7 @@ c15,m3sw/tonne,ASI,2,Afghanistan,Wood pellets and other agglomerates,2.25
 c15,m3sw/tonne,ASI,13,Bahrain,Wood pellets and other agglomerates,2.25
 c15,m3sw/tonne,ASI,16,Bangladesh,Wood pellets and other agglomerates,2.25
 c15,m3sw/tonne,ASI,18,Bhutan,Wood pellets and other agglomerates,2.25
+c15,m3sw/tonne,ASI,24,British Indian Ocean Territory,Wood pellets and other agglomerates,2.25
 c15,m3sw/tonne,ASI,26,Brunei Darussalam,Wood pellets and other agglomerates,2.25
 c15,m3sw/tonne,ASI,28,Myanmar,Wood pellets and other agglomerates,2.25
 c15,m3sw/tonne,ASI,38,Sri Lanka,Wood pellets and other agglomerates,2.25
@@ -3649,32 +4205,41 @@ c15,m3sw/tonne,ASI,185,Russian Federation,Wood pellets and other agglomerates,2.
 c15,m3sw/tonne,ASI,194,Saudi Arabia,Wood pellets and other agglomerates,2.25
 c15,m3sw/tonne,ASI,200,Singapore,Wood pellets and other agglomerates,2.25
 c15,m3sw/tonne,ASI,208,Tajikistan,Wood pellets and other agglomerates,2.25
+c15,m3sw/tonne,ASI,208,Tokelau,Wood pellets and other agglomerates,2.25
 c15,m3sw/tonne,ASI,212,Syrian Arab Republic,Wood pellets and other agglomerates,2.25
 c15,m3sw/tonne,ASI,213,Turkmenistan,Wood pellets and other agglomerates,2.25
 c15,m3sw/tonne,ASI,214,"China, Taiwan Province of",Wood pellets and other agglomerates,2.25
 c15,m3sw/tonne,ASI,216,Thailand,Wood pellets and other agglomerates,2.25
 c15,m3sw/tonne,ASI,221,Oman,Wood pellets and other agglomerates,2.25
 c15,m3sw/tonne,ASI,225,United Arab Emirates,Wood pellets and other agglomerates,2.25
+c15,m3sw/tonne,ASI,228,USSR,Wood pellets and other agglomerates,2.25
 c15,m3sw/tonne,ASI,235,Uzbekistan,Wood pellets and other agglomerates,2.25
 c15,m3sw/tonne,ASI,237,Viet Nam,Wood pellets and other agglomerates,2.25
 c15,m3sw/tonne,ASI,249,Yemen,Wood pellets and other agglomerates,2.25
+c15,m3sw/tonne,ASI,299,Palestine,Wood pellets and other agglomerates,2.25
 c15,m3sw/tonne,EUR,3,Albania,Wood pellets and other agglomerates,2.01
 c15,m3sw/tonne,EUR,6,Andorra,Wood pellets and other agglomerates,2.01
 c15,m3sw/tonne,EUR,11,Austria,Wood pellets and other agglomerates,2.21
 c15,m3sw/tonne,EUR,15,Belgium-Luxembourg,Wood pellets and other agglomerates,2.01
 c15,m3sw/tonne,EUR,27,Bulgaria,Wood pellets and other agglomerates,2.01
+c15,m3sw/tonne,EUR,27,Marshall Islands,Wood pellets and other agglomerates,2.01
 c15,m3sw/tonne,EUR,50,Cyprus,Wood pellets and other agglomerates,2.01
 c15,m3sw/tonne,EUR,51,Czechoslovakia,Wood pellets and other agglomerates,2.01
 c15,m3sw/tonne,EUR,54,Denmark,Wood pellets and other agglomerates,2.01
 c15,m3sw/tonne,EUR,57,Belarus,Wood pellets and other agglomerates,2.01
 c15,m3sw/tonne,EUR,63,Estonia,Wood pellets and other agglomerates,2.01
+c15,m3sw/tonne,EUR,63,Northern Mariana Islands,Wood pellets and other agglomerates,2.01
 c15,m3sw/tonne,EUR,64,Faroe Islands,Wood pellets and other agglomerates,2.01
+c15,m3sw/tonne,EUR,64,Pacific Islands Trust Territory,Wood pellets and other agglomerates,2.01
 c15,m3sw/tonne,EUR,67,Finland,Wood pellets and other agglomerates,2.32
 c15,m3sw/tonne,EUR,68,France,Wood pellets and other agglomerates,2.345
 c15,m3sw/tonne,EUR,79,Germany,Wood pellets and other agglomerates,2.125
 c15,m3sw/tonne,EUR,80,Bosnia and Herzegovina,Wood pellets and other agglomerates,2.01
+c15,m3sw/tonne,EUR,80,Palau,Wood pellets and other agglomerates,2.01
 c15,m3sw/tonne,EUR,82,Gibraltar,Wood pellets and other agglomerates,2.01
 c15,m3sw/tonne,EUR,84,Greece,Wood pellets and other agglomerates,2.01
+c15,m3sw/tonne,EUR,85,Greenland,Wood pellets and other agglomerates,2.01
+c15,m3sw/tonne,EUR,94,Holy See,Wood pellets and other agglomerates,2.01
 c15,m3sw/tonne,EUR,97,Hungary,Wood pellets and other agglomerates,2.01
 c15,m3sw/tonne,EUR,98,Croatia,Wood pellets and other agglomerates,2.01
 c15,m3sw/tonne,EUR,99,Iceland,Wood pellets and other agglomerates,2.01
@@ -3701,10 +4266,12 @@ c15,m3sw/tonne,EUR,211,Switzerland,Wood pellets and other agglomerates,2.01
 c15,m3sw/tonne,EUR,223,Turkey,Wood pellets and other agglomerates,2.01
 c15,m3sw/tonne,EUR,229,United Kingdom,Wood pellets and other agglomerates,2.01
 c15,m3sw/tonne,EUR,230,Ukraine,Wood pellets and other agglomerates,2.36
+c15,m3sw/tonne,EUR,248,Yugoslav SFR,Wood pellets and other agglomerates,2.01
 c15,m3sw/tonne,EUR,255,Belgium,Wood pellets and other agglomerates,2.01
 c15,m3sw/tonne,EUR,256,Luxembourg,Wood pellets and other agglomerates,2.01
 c15,m3sw/tonne,EUR,272,Serbia,Wood pellets and other agglomerates,2.01
 c15,m3sw/tonne,EUR,273,Montenegro,Wood pellets and other agglomerates,2.01
+c15,m3sw/tonne,LAM,8,Antigua and Barbuda,Wood pellets and other agglomerates,1.53
 c15,m3sw/tonne,LAM,9,Argentina,Wood pellets and other agglomerates,1.53
 c15,m3sw/tonne,LAM,12,Bahamas,Wood pellets and other agglomerates,1.53
 c15,m3sw/tonne,LAM,14,Barbados,Wood pellets and other agglomerates,1.53
@@ -3712,9 +4279,11 @@ c15,m3sw/tonne,LAM,19,Bolivia (Plurinational State of),Wood pellets and other ag
 c15,m3sw/tonne,LAM,21,Brazil,Wood pellets and other agglomerates,1.53
 c15,m3sw/tonne,LAM,22,Aruba,Wood pellets and other agglomerates,1.53
 c15,m3sw/tonne,LAM,23,Belize,Wood pellets and other agglomerates,1.53
+c15,m3sw/tonne,LAM,36,Cayman Islands,Wood pellets and other agglomerates,1.53
 c15,m3sw/tonne,LAM,40,Chile,Wood pellets and other agglomerates,1.53
 c15,m3sw/tonne,LAM,44,Colombia,Wood pellets and other agglomerates,1.53
 c15,m3sw/tonne,LAM,48,Costa Rica,Wood pellets and other agglomerates,1.53
+c15,m3sw/tonne,LAM,48,Nauru,Wood pellets and other agglomerates,1.53
 c15,m3sw/tonne,LAM,49,Cuba,Wood pellets and other agglomerates,1.53
 c15,m3sw/tonne,LAM,55,Dominica,Wood pellets and other agglomerates,1.53
 c15,m3sw/tonne,LAM,56,Dominican Republic,Wood pellets and other agglomerates,1.53
@@ -3722,7 +4291,9 @@ c15,m3sw/tonne,LAM,58,Ecuador,Wood pellets and other agglomerates,1.53
 c15,m3sw/tonne,LAM,60,El Salvador,Wood pellets and other agglomerates,1.53
 c15,m3sw/tonne,LAM,65,Falkland Islands (Malvinas),Wood pellets and other agglomerates,1.53
 c15,m3sw/tonne,LAM,69,French Guyana,Wood pellets and other agglomerates,1.53
+c15,m3sw/tonne,LAM,86,Grenada,Wood pellets and other agglomerates,1.53
 c15,m3sw/tonne,LAM,87,Guadeloupe,Wood pellets and other agglomerates,1.53
+c15,m3sw/tonne,LAM,87,"Saint Helena, Ascension and Tristan da Cunha",Wood pellets and other agglomerates,1.53
 c15,m3sw/tonne,LAM,89,Guatemala,Wood pellets and other agglomerates,1.53
 c15,m3sw/tonne,LAM,91,Guyana,Wood pellets and other agglomerates,1.53
 c15,m3sw/tonne,LAM,93,Haiti,Wood pellets and other agglomerates,1.53
@@ -3743,16 +4314,24 @@ c15,m3sw/tonne,LAM,224,Turks and Caicos Islands,Wood pellets and other agglomera
 c15,m3sw/tonne,LAM,234,Uruguay,Wood pellets and other agglomerates,1.53
 c15,m3sw/tonne,LAM,236,Venezuela (Bolivarian Republic of),Wood pellets and other agglomerates,1.53
 c15,m3sw/tonne,LAM,239,British Virgin Islands,Wood pellets and other agglomerates,1.53
+c15,m3sw/tonne,LAM,258,Anguilla,Wood pellets and other agglomerates,1.53
+c15,m3sw/tonne,LAM,279,Curaçao,Wood pellets and other agglomerates,1.53
 c15,m3sw/tonne,NAM,33,Canada,Wood pellets and other agglomerates,2.09
 c15,m3sw/tonne,NAM,190,Saint Pierre and Miquelon,Wood pellets and other agglomerates,2.09
 c15,m3sw/tonne,NAM,231,United States of America,Wood pellets and other agglomerates,2.09
+c15,m3sw/tonne,OCE,5,American Samoa,Wood pellets and other agglomerates,1.97
 c15,m3sw/tonne,OCE,10,Australia,Wood pellets and other agglomerates,1.97
 c15,m3sw/tonne,OCE,25,Solomon Islands,Wood pellets and other agglomerates,1.97
 c15,m3sw/tonne,OCE,42,Christmas Island,Wood pellets and other agglomerates,1.97
+c15,m3sw/tonne,OCE,42,Montserrat,Wood pellets and other agglomerates,1.97
+c15,m3sw/tonne,OCE,43,Cocos (Keeling) Islands,Wood pellets and other agglomerates,1.97
 c15,m3sw/tonne,OCE,47,Cook Islands,Wood pellets and other agglomerates,1.97
 c15,m3sw/tonne,OCE,66,Fiji,Wood pellets and other agglomerates,1.97
 c15,m3sw/tonne,OCE,70,French Polynesia,Wood pellets and other agglomerates,1.97
+c15,m3sw/tonne,OCE,70,French Southern and Antarctic Territories,Wood pellets and other agglomerates,1.97
 c15,m3sw/tonne,OCE,83,Kiribati,Wood pellets and other agglomerates,1.97
+c15,m3sw/tonne,OCE,88,Guam,Wood pellets and other agglomerates,1.97
+c15,m3sw/tonne,OCE,88,Saint Kitts and Nevis,Wood pellets and other agglomerates,1.97
 c15,m3sw/tonne,OCE,145,Micronesia (Federated States of),Wood pellets and other agglomerates,1.97
 c15,m3sw/tonne,OCE,153,New Caledonia,Wood pellets and other agglomerates,1.97
 c15,m3sw/tonne,OCE,155,Vanuatu,Wood pellets and other agglomerates,1.97
@@ -3760,9 +4339,15 @@ c15,m3sw/tonne,OCE,156,New Zealand,Wood pellets and other agglomerates,1.97
 c15,m3sw/tonne,OCE,160,Niue,Wood pellets and other agglomerates,1.97
 c15,m3sw/tonne,OCE,161,Norfolk Island,Wood pellets and other agglomerates,1.97
 c15,m3sw/tonne,OCE,168,Papua New Guinea,Wood pellets and other agglomerates,1.97
+c15,m3sw/tonne,OCE,227,Tuvalu,Wood pellets and other agglomerates,1.97
+c15,m3sw/tonne,OCE,242,Wake Island,Wood pellets and other agglomerates,1.97
+c15,m3sw/tonne,OCE,243,Wallis and Futuna Islands,Wood pellets and other agglomerates,1.97
 c15,m3sw/tonne,OCE,244,Samoa,Wood pellets and other agglomerates,1.97
+c15,m3sw/tonne,XXX,252,Unspecified Area,Wood pellets and other agglomerates,1.97
+c15,m3sw/tonne,XXX,254,Others (adjustment),Wood pellets and other agglomerates,1.97
 c16,m3sw/tonne,AFR,4,Algeria,Wood charcoal,6.02
 c16,m3sw/tonne,AFR,7,Angola,Wood charcoal,6.02
+c16,m3sw/tonne,AFR,7,Bermuda,Wood charcoal,6.02
 c16,m3sw/tonne,AFR,20,Botswana,Wood charcoal,6.02
 c16,m3sw/tonne,AFR,29,Burundi,Wood charcoal,6.02
 c16,m3sw/tonne,AFR,32,Cameroon,Wood charcoal,6.02
@@ -3775,6 +4360,7 @@ c16,m3sw/tonne,AFR,53,Benin,Wood charcoal,6.02
 c16,m3sw/tonne,AFR,59,Egypt,Wood charcoal,6.02
 c16,m3sw/tonne,AFR,61,Equatorial Guinea,Wood charcoal,6.02
 c16,m3sw/tonne,AFR,72,Djibouti,Wood charcoal,6.02
+c16,m3sw/tonne,AFR,72,Pitcairn Islands,Wood charcoal,6.02
 c16,m3sw/tonne,AFR,74,Gabon,Wood charcoal,6.02
 c16,m3sw/tonne,AFR,75,Gambia,Wood charcoal,6.02
 c16,m3sw/tonne,AFR,81,Ghana,Wood charcoal,6.02
@@ -3805,6 +4391,7 @@ c16,m3sw/tonne,AFR,196,Seychelles,Wood charcoal,6.02
 c16,m3sw/tonne,AFR,197,Sierra Leone,Wood charcoal,6.02
 c16,m3sw/tonne,AFR,201,Somalia,Wood charcoal,6.02
 c16,m3sw/tonne,AFR,202,South Africa,Wood charcoal,6.02
+c16,m3sw/tonne,AFR,205,Western Sahara,Wood charcoal,6.02
 c16,m3sw/tonne,AFR,209,Eswatini,Wood charcoal,6.02
 c16,m3sw/tonne,AFR,215,United Republic of Tanzania,Wood charcoal,6.02
 c16,m3sw/tonne,AFR,217,Togo,Wood charcoal,6.02
@@ -3823,6 +4410,7 @@ c16,m3sw/tonne,ASI,2,Afghanistan,Wood charcoal,6.13
 c16,m3sw/tonne,ASI,13,Bahrain,Wood charcoal,6.13
 c16,m3sw/tonne,ASI,16,Bangladesh,Wood charcoal,6.13
 c16,m3sw/tonne,ASI,18,Bhutan,Wood charcoal,6.13
+c16,m3sw/tonne,ASI,24,British Indian Ocean Territory,Wood charcoal,6.13
 c16,m3sw/tonne,ASI,26,Brunei Darussalam,Wood charcoal,6.13
 c16,m3sw/tonne,ASI,28,Myanmar,Wood charcoal,6.13
 c16,m3sw/tonne,ASI,38,Sri Lanka,Wood charcoal,6.13
@@ -3858,32 +4446,41 @@ c16,m3sw/tonne,ASI,185,Russian Federation,Wood charcoal,6.13
 c16,m3sw/tonne,ASI,194,Saudi Arabia,Wood charcoal,6.13
 c16,m3sw/tonne,ASI,200,Singapore,Wood charcoal,6.13
 c16,m3sw/tonne,ASI,208,Tajikistan,Wood charcoal,6.13
+c16,m3sw/tonne,ASI,208,Tokelau,Wood charcoal,6.13
 c16,m3sw/tonne,ASI,212,Syrian Arab Republic,Wood charcoal,6.13
 c16,m3sw/tonne,ASI,213,Turkmenistan,Wood charcoal,6.13
 c16,m3sw/tonne,ASI,214,"China, Taiwan Province of",Wood charcoal,6.13
 c16,m3sw/tonne,ASI,216,Thailand,Wood charcoal,6.13
 c16,m3sw/tonne,ASI,221,Oman,Wood charcoal,6.13
 c16,m3sw/tonne,ASI,225,United Arab Emirates,Wood charcoal,6.13
+c16,m3sw/tonne,ASI,228,USSR,Wood charcoal,6.13
 c16,m3sw/tonne,ASI,235,Uzbekistan,Wood charcoal,6.13
 c16,m3sw/tonne,ASI,237,Viet Nam,Wood charcoal,6.13
 c16,m3sw/tonne,ASI,249,Yemen,Wood charcoal,6.13
+c16,m3sw/tonne,ASI,299,Palestine,Wood charcoal,6.13
 c16,m3sw/tonne,EUR,3,Albania,Wood charcoal,5.93
 c16,m3sw/tonne,EUR,6,Andorra,Wood charcoal,5.93
 c16,m3sw/tonne,EUR,11,Austria,Wood charcoal,5.93
 c16,m3sw/tonne,EUR,15,Belgium-Luxembourg,Wood charcoal,5.93
 c16,m3sw/tonne,EUR,27,Bulgaria,Wood charcoal,5.93
+c16,m3sw/tonne,EUR,27,Marshall Islands,Wood charcoal,5.93
 c16,m3sw/tonne,EUR,50,Cyprus,Wood charcoal,5.93
 c16,m3sw/tonne,EUR,51,Czechoslovakia,Wood charcoal,5.93
 c16,m3sw/tonne,EUR,54,Denmark,Wood charcoal,5.93
 c16,m3sw/tonne,EUR,57,Belarus,Wood charcoal,5.93
 c16,m3sw/tonne,EUR,63,Estonia,Wood charcoal,5.93
+c16,m3sw/tonne,EUR,63,Northern Mariana Islands,Wood charcoal,5.93
 c16,m3sw/tonne,EUR,64,Faroe Islands,Wood charcoal,5.93
+c16,m3sw/tonne,EUR,64,Pacific Islands Trust Territory,Wood charcoal,5.93
 c16,m3sw/tonne,EUR,67,Finland,Wood charcoal,6.1
 c16,m3sw/tonne,EUR,68,France,Wood charcoal,7
 c16,m3sw/tonne,EUR,79,Germany,Wood charcoal,5
 c16,m3sw/tonne,EUR,80,Bosnia and Herzegovina,Wood charcoal,5.93
+c16,m3sw/tonne,EUR,80,Palau,Wood charcoal,5.93
 c16,m3sw/tonne,EUR,82,Gibraltar,Wood charcoal,5.93
 c16,m3sw/tonne,EUR,84,Greece,Wood charcoal,5.93
+c16,m3sw/tonne,EUR,85,Greenland,Wood charcoal,5.93
+c16,m3sw/tonne,EUR,94,Holy See,Wood charcoal,5.93
 c16,m3sw/tonne,EUR,97,Hungary,Wood charcoal,5.93
 c16,m3sw/tonne,EUR,98,Croatia,Wood charcoal,5.7
 c16,m3sw/tonne,EUR,99,Iceland,Wood charcoal,5.93
@@ -3910,10 +4507,12 @@ c16,m3sw/tonne,EUR,211,Switzerland,Wood charcoal,5.93
 c16,m3sw/tonne,EUR,223,Turkey,Wood charcoal,5.93
 c16,m3sw/tonne,EUR,229,United Kingdom,Wood charcoal,6
 c16,m3sw/tonne,EUR,230,Ukraine,Wood charcoal,5.93
+c16,m3sw/tonne,EUR,248,Yugoslav SFR,Wood charcoal,5.93
 c16,m3sw/tonne,EUR,255,Belgium,Wood charcoal,5.93
 c16,m3sw/tonne,EUR,256,Luxembourg,Wood charcoal,5.93
 c16,m3sw/tonne,EUR,272,Serbia,Wood charcoal,5.93
 c16,m3sw/tonne,EUR,273,Montenegro,Wood charcoal,5.93
+c16,m3sw/tonne,LAM,8,Antigua and Barbuda,Wood charcoal,6
 c16,m3sw/tonne,LAM,9,Argentina,Wood charcoal,6
 c16,m3sw/tonne,LAM,12,Bahamas,Wood charcoal,6
 c16,m3sw/tonne,LAM,14,Barbados,Wood charcoal,6
@@ -3921,9 +4520,11 @@ c16,m3sw/tonne,LAM,19,Bolivia (Plurinational State of),Wood charcoal,6
 c16,m3sw/tonne,LAM,21,Brazil,Wood charcoal,6
 c16,m3sw/tonne,LAM,22,Aruba,Wood charcoal,6
 c16,m3sw/tonne,LAM,23,Belize,Wood charcoal,6
+c16,m3sw/tonne,LAM,36,Cayman Islands,Wood charcoal,6
 c16,m3sw/tonne,LAM,40,Chile,Wood charcoal,6
 c16,m3sw/tonne,LAM,44,Colombia,Wood charcoal,6
 c16,m3sw/tonne,LAM,48,Costa Rica,Wood charcoal,6
+c16,m3sw/tonne,LAM,48,Nauru,Wood charcoal,6
 c16,m3sw/tonne,LAM,49,Cuba,Wood charcoal,6
 c16,m3sw/tonne,LAM,55,Dominica,Wood charcoal,6
 c16,m3sw/tonne,LAM,56,Dominican Republic,Wood charcoal,6
@@ -3931,7 +4532,9 @@ c16,m3sw/tonne,LAM,58,Ecuador,Wood charcoal,6
 c16,m3sw/tonne,LAM,60,El Salvador,Wood charcoal,6
 c16,m3sw/tonne,LAM,65,Falkland Islands (Malvinas),Wood charcoal,6
 c16,m3sw/tonne,LAM,69,French Guyana,Wood charcoal,6
+c16,m3sw/tonne,LAM,86,Grenada,Wood charcoal,6
 c16,m3sw/tonne,LAM,87,Guadeloupe,Wood charcoal,6
+c16,m3sw/tonne,LAM,87,"Saint Helena, Ascension and Tristan da Cunha",Wood charcoal,6
 c16,m3sw/tonne,LAM,89,Guatemala,Wood charcoal,6
 c16,m3sw/tonne,LAM,91,Guyana,Wood charcoal,6
 c16,m3sw/tonne,LAM,93,Haiti,Wood charcoal,6
@@ -3952,16 +4555,24 @@ c16,m3sw/tonne,LAM,224,Turks and Caicos Islands,Wood charcoal,6
 c16,m3sw/tonne,LAM,234,Uruguay,Wood charcoal,6
 c16,m3sw/tonne,LAM,236,Venezuela (Bolivarian Republic of),Wood charcoal,6
 c16,m3sw/tonne,LAM,239,British Virgin Islands,Wood charcoal,6
+c16,m3sw/tonne,LAM,258,Anguilla,Wood charcoal,6
+c16,m3sw/tonne,LAM,279,Curaçao,Wood charcoal,6
 c16,m3sw/tonne,NAM,33,Canada,Wood charcoal,6.02
 c16,m3sw/tonne,NAM,190,Saint Pierre and Miquelon,Wood charcoal,6.02
 c16,m3sw/tonne,NAM,231,United States of America,Wood charcoal,6.02
+c16,m3sw/tonne,OCE,5,American Samoa,Wood charcoal,6.02
 c16,m3sw/tonne,OCE,10,Australia,Wood charcoal,6.02
 c16,m3sw/tonne,OCE,25,Solomon Islands,Wood charcoal,6.02
 c16,m3sw/tonne,OCE,42,Christmas Island,Wood charcoal,6.02
+c16,m3sw/tonne,OCE,42,Montserrat,Wood charcoal,6.02
+c16,m3sw/tonne,OCE,43,Cocos (Keeling) Islands,Wood charcoal,6.02
 c16,m3sw/tonne,OCE,47,Cook Islands,Wood charcoal,6.02
 c16,m3sw/tonne,OCE,66,Fiji,Wood charcoal,6.02
 c16,m3sw/tonne,OCE,70,French Polynesia,Wood charcoal,6.02
+c16,m3sw/tonne,OCE,70,French Southern and Antarctic Territories,Wood charcoal,6.02
 c16,m3sw/tonne,OCE,83,Kiribati,Wood charcoal,6.02
+c16,m3sw/tonne,OCE,88,Guam,Wood charcoal,6.02
+c16,m3sw/tonne,OCE,88,Saint Kitts and Nevis,Wood charcoal,6.02
 c16,m3sw/tonne,OCE,145,Micronesia (Federated States of),Wood charcoal,6.02
 c16,m3sw/tonne,OCE,153,New Caledonia,Wood charcoal,6.02
 c16,m3sw/tonne,OCE,155,Vanuatu,Wood charcoal,6.02
@@ -3969,9 +4580,15 @@ c16,m3sw/tonne,OCE,156,New Zealand,Wood charcoal,6.02
 c16,m3sw/tonne,OCE,160,Niue,Wood charcoal,6.02
 c16,m3sw/tonne,OCE,161,Norfolk Island,Wood charcoal,6.02
 c16,m3sw/tonne,OCE,168,Papua New Guinea,Wood charcoal,6.02
+c16,m3sw/tonne,OCE,227,Tuvalu,Wood charcoal,6.02
+c16,m3sw/tonne,OCE,242,Wake Island,Wood charcoal,6.02
+c16,m3sw/tonne,OCE,243,Wallis and Futuna Islands,Wood charcoal,6.02
 c16,m3sw/tonne,OCE,244,Samoa,Wood charcoal,6.02
+c16,m3sw/tonne,XXX,252,Unspecified Area,Wood charcoal,6.02
+c16,m3sw/tonne,XXX,254,Others (adjustment),Wood charcoal,6.02
 c17,m3p/m3sw,AFR,4,Algeria,Wood chips and particles,3.76
 c17,m3p/m3sw,AFR,7,Angola,Wood chips and particles,3.76
+c17,m3p/m3sw,AFR,7,Bermuda,Wood chips and particles,3.76
 c17,m3p/m3sw,AFR,20,Botswana,Wood chips and particles,3.76
 c17,m3p/m3sw,AFR,29,Burundi,Wood chips and particles,3.76
 c17,m3p/m3sw,AFR,32,Cameroon,Wood chips and particles,3.76
@@ -3984,6 +4601,7 @@ c17,m3p/m3sw,AFR,53,Benin,Wood chips and particles,3.76
 c17,m3p/m3sw,AFR,59,Egypt,Wood chips and particles,3.76
 c17,m3p/m3sw,AFR,61,Equatorial Guinea,Wood chips and particles,3.76
 c17,m3p/m3sw,AFR,72,Djibouti,Wood chips and particles,3.76
+c17,m3p/m3sw,AFR,72,Pitcairn Islands,Wood chips and particles,3.76
 c17,m3p/m3sw,AFR,74,Gabon,Wood chips and particles,3.76
 c17,m3p/m3sw,AFR,75,Gambia,Wood chips and particles,3.76
 c17,m3p/m3sw,AFR,81,Ghana,Wood chips and particles,3.76
@@ -4014,6 +4632,7 @@ c17,m3p/m3sw,AFR,196,Seychelles,Wood chips and particles,3.76
 c17,m3p/m3sw,AFR,197,Sierra Leone,Wood chips and particles,3.76
 c17,m3p/m3sw,AFR,201,Somalia,Wood chips and particles,3.76
 c17,m3p/m3sw,AFR,202,South Africa,Wood chips and particles,3.76
+c17,m3p/m3sw,AFR,205,Western Sahara,Wood chips and particles,3.76
 c17,m3p/m3sw,AFR,209,Eswatini,Wood chips and particles,3.76
 c17,m3p/m3sw,AFR,215,United Republic of Tanzania,Wood chips and particles,3.76
 c17,m3p/m3sw,AFR,217,Togo,Wood chips and particles,3.76
@@ -4032,6 +4651,7 @@ c17,m3p/m3sw,ASI,2,Afghanistan,Wood chips and particles,2.88
 c17,m3p/m3sw,ASI,13,Bahrain,Wood chips and particles,2.88
 c17,m3p/m3sw,ASI,16,Bangladesh,Wood chips and particles,2.88
 c17,m3p/m3sw,ASI,18,Bhutan,Wood chips and particles,2.88
+c17,m3p/m3sw,ASI,24,British Indian Ocean Territory,Wood chips and particles,2.88
 c17,m3p/m3sw,ASI,26,Brunei Darussalam,Wood chips and particles,2.88
 c17,m3p/m3sw,ASI,28,Myanmar,Wood chips and particles,2.88
 c17,m3p/m3sw,ASI,38,Sri Lanka,Wood chips and particles,2.88
@@ -4067,32 +4687,41 @@ c17,m3p/m3sw,ASI,185,Russian Federation,Wood chips and particles,2.78
 c17,m3p/m3sw,ASI,194,Saudi Arabia,Wood chips and particles,2.88
 c17,m3p/m3sw,ASI,200,Singapore,Wood chips and particles,2.88
 c17,m3p/m3sw,ASI,208,Tajikistan,Wood chips and particles,2.88
+c17,m3p/m3sw,ASI,208,Tokelau,Wood chips and particles,2.88
 c17,m3p/m3sw,ASI,212,Syrian Arab Republic,Wood chips and particles,2.88
 c17,m3p/m3sw,ASI,213,Turkmenistan,Wood chips and particles,2.88
 c17,m3p/m3sw,ASI,214,"China, Taiwan Province of",Wood chips and particles,2.88
 c17,m3p/m3sw,ASI,216,Thailand,Wood chips and particles,2.88
 c17,m3p/m3sw,ASI,221,Oman,Wood chips and particles,2.88
 c17,m3p/m3sw,ASI,225,United Arab Emirates,Wood chips and particles,2.88
+c17,m3p/m3sw,ASI,228,USSR,Wood chips and particles,2.88
 c17,m3p/m3sw,ASI,235,Uzbekistan,Wood chips and particles,2.88
 c17,m3p/m3sw,ASI,237,Viet Nam,Wood chips and particles,2.88
 c17,m3p/m3sw,ASI,249,Yemen,Wood chips and particles,2.88
+c17,m3p/m3sw,ASI,299,Palestine,Wood chips and particles,2.88
 c17,m3p/m3sw,EUR,3,Albania,Wood chips and particles,2.84
 c17,m3p/m3sw,EUR,6,Andorra,Wood chips and particles,2.84
 c17,m3p/m3sw,EUR,11,Austria,Wood chips and particles,2.84
 c17,m3p/m3sw,EUR,15,Belgium-Luxembourg,Wood chips and particles,2.84
 c17,m3p/m3sw,EUR,27,Bulgaria,Wood chips and particles,2.84
+c17,m3p/m3sw,EUR,27,Marshall Islands,Wood chips and particles,2.84
 c17,m3p/m3sw,EUR,50,Cyprus,Wood chips and particles,2.84
 c17,m3p/m3sw,EUR,51,Czechoslovakia,Wood chips and particles,2.84
 c17,m3p/m3sw,EUR,54,Denmark,Wood chips and particles,2.7
 c17,m3p/m3sw,EUR,57,Belarus,Wood chips and particles,2.84
 c17,m3p/m3sw,EUR,63,Estonia,Wood chips and particles,2.84
+c17,m3p/m3sw,EUR,63,Northern Mariana Islands,Wood chips and particles,2.84
 c17,m3p/m3sw,EUR,64,Faroe Islands,Wood chips and particles,2.84
+c17,m3p/m3sw,EUR,64,Pacific Islands Trust Territory,Wood chips and particles,2.84
 c17,m3p/m3sw,EUR,67,Finland,Wood chips and particles,2.55
 c17,m3p/m3sw,EUR,68,France,Wood chips and particles,2.5
 c17,m3p/m3sw,EUR,79,Germany,Wood chips and particles,2.84
 c17,m3p/m3sw,EUR,80,Bosnia and Herzegovina,Wood chips and particles,2.84
+c17,m3p/m3sw,EUR,80,Palau,Wood chips and particles,2.84
 c17,m3p/m3sw,EUR,82,Gibraltar,Wood chips and particles,2.84
 c17,m3p/m3sw,EUR,84,Greece,Wood chips and particles,2.84
+c17,m3p/m3sw,EUR,85,Greenland,Wood chips and particles,2.84
+c17,m3p/m3sw,EUR,94,Holy See,Wood chips and particles,2.84
 c17,m3p/m3sw,EUR,97,Hungary,Wood chips and particles,2.84
 c17,m3p/m3sw,EUR,98,Croatia,Wood chips and particles,2.84
 c17,m3p/m3sw,EUR,99,Iceland,Wood chips and particles,2.84
@@ -4119,10 +4748,12 @@ c17,m3p/m3sw,EUR,211,Switzerland,Wood chips and particles,2.8
 c17,m3p/m3sw,EUR,223,Turkey,Wood chips and particles,2.84
 c17,m3p/m3sw,EUR,229,United Kingdom,Wood chips and particles,2.84
 c17,m3p/m3sw,EUR,230,Ukraine,Wood chips and particles,2.84
+c17,m3p/m3sw,EUR,248,Yugoslav SFR,Wood chips and particles,2.84
 c17,m3p/m3sw,EUR,255,Belgium,Wood chips and particles,2.84
 c17,m3p/m3sw,EUR,256,Luxembourg,Wood chips and particles,2.84
 c17,m3p/m3sw,EUR,272,Serbia,Wood chips and particles,2.84
 c17,m3p/m3sw,EUR,273,Montenegro,Wood chips and particles,2.84
+c17,m3p/m3sw,LAM,8,Antigua and Barbuda,Wood chips and particles,2.6
 c17,m3p/m3sw,LAM,9,Argentina,Wood chips and particles,2.6
 c17,m3p/m3sw,LAM,12,Bahamas,Wood chips and particles,2.6
 c17,m3p/m3sw,LAM,14,Barbados,Wood chips and particles,2.6
@@ -4130,9 +4761,11 @@ c17,m3p/m3sw,LAM,19,Bolivia (Plurinational State of),Wood chips and particles,2.
 c17,m3p/m3sw,LAM,21,Brazil,Wood chips and particles,2.6
 c17,m3p/m3sw,LAM,22,Aruba,Wood chips and particles,2.6
 c17,m3p/m3sw,LAM,23,Belize,Wood chips and particles,2.6
+c17,m3p/m3sw,LAM,36,Cayman Islands,Wood chips and particles,2.6
 c17,m3p/m3sw,LAM,40,Chile,Wood chips and particles,2.33
 c17,m3p/m3sw,LAM,44,Colombia,Wood chips and particles,2.6
 c17,m3p/m3sw,LAM,48,Costa Rica,Wood chips and particles,2.6
+c17,m3p/m3sw,LAM,48,Nauru,Wood chips and particles,2.6
 c17,m3p/m3sw,LAM,49,Cuba,Wood chips and particles,2.6
 c17,m3p/m3sw,LAM,55,Dominica,Wood chips and particles,2.6
 c17,m3p/m3sw,LAM,56,Dominican Republic,Wood chips and particles,2.6
@@ -4140,7 +4773,9 @@ c17,m3p/m3sw,LAM,58,Ecuador,Wood chips and particles,2.6
 c17,m3p/m3sw,LAM,60,El Salvador,Wood chips and particles,2.6
 c17,m3p/m3sw,LAM,65,Falkland Islands (Malvinas),Wood chips and particles,2.6
 c17,m3p/m3sw,LAM,69,French Guyana,Wood chips and particles,2.6
+c17,m3p/m3sw,LAM,86,Grenada,Wood chips and particles,2.6
 c17,m3p/m3sw,LAM,87,Guadeloupe,Wood chips and particles,2.6
+c17,m3p/m3sw,LAM,87,"Saint Helena, Ascension and Tristan da Cunha",Wood chips and particles,2.6
 c17,m3p/m3sw,LAM,89,Guatemala,Wood chips and particles,2.6
 c17,m3p/m3sw,LAM,91,Guyana,Wood chips and particles,2.6
 c17,m3p/m3sw,LAM,93,Haiti,Wood chips and particles,2.6
@@ -4161,16 +4796,24 @@ c17,m3p/m3sw,LAM,224,Turks and Caicos Islands,Wood chips and particles,2.6
 c17,m3p/m3sw,LAM,234,Uruguay,Wood chips and particles,2.6
 c17,m3p/m3sw,LAM,236,Venezuela (Bolivarian Republic of),Wood chips and particles,2.6
 c17,m3p/m3sw,LAM,239,British Virgin Islands,Wood chips and particles,2.6
+c17,m3p/m3sw,LAM,258,Anguilla,Wood chips and particles,2.6
+c17,m3p/m3sw,LAM,279,Curaçao,Wood chips and particles,2.6
 c17,m3p/m3sw,NAM,33,Canada,Wood chips and particles,3.02
 c17,m3p/m3sw,NAM,190,Saint Pierre and Miquelon,Wood chips and particles,3.02
 c17,m3p/m3sw,NAM,231,United States of America,Wood chips and particles,3.04
+c17,m3p/m3sw,OCE,5,American Samoa,Wood chips and particles,3.02
 c17,m3p/m3sw,OCE,10,Australia,Wood chips and particles,3.02
 c17,m3p/m3sw,OCE,25,Solomon Islands,Wood chips and particles,3.02
 c17,m3p/m3sw,OCE,42,Christmas Island,Wood chips and particles,3.02
+c17,m3p/m3sw,OCE,42,Montserrat,Wood chips and particles,3.02
+c17,m3p/m3sw,OCE,43,Cocos (Keeling) Islands,Wood chips and particles,3.02
 c17,m3p/m3sw,OCE,47,Cook Islands,Wood chips and particles,3.02
 c17,m3p/m3sw,OCE,66,Fiji,Wood chips and particles,3.02
 c17,m3p/m3sw,OCE,70,French Polynesia,Wood chips and particles,3.02
+c17,m3p/m3sw,OCE,70,French Southern and Antarctic Territories,Wood chips and particles,3.02
 c17,m3p/m3sw,OCE,83,Kiribati,Wood chips and particles,3.02
+c17,m3p/m3sw,OCE,88,Guam,Wood chips and particles,3.02
+c17,m3p/m3sw,OCE,88,Saint Kitts and Nevis,Wood chips and particles,3.02
 c17,m3p/m3sw,OCE,145,Micronesia (Federated States of),Wood chips and particles,3.02
 c17,m3p/m3sw,OCE,153,New Caledonia,Wood chips and particles,3.02
 c17,m3p/m3sw,OCE,155,Vanuatu,Wood chips and particles,3.02
@@ -4178,9 +4821,15 @@ c17,m3p/m3sw,OCE,156,New Zealand,Wood chips and particles,3.02
 c17,m3p/m3sw,OCE,160,Niue,Wood chips and particles,3.02
 c17,m3p/m3sw,OCE,161,Norfolk Island,Wood chips and particles,3.02
 c17,m3p/m3sw,OCE,168,Papua New Guinea,Wood chips and particles,3.02
+c17,m3p/m3sw,OCE,227,Tuvalu,Wood chips and particles,3.02
+c17,m3p/m3sw,OCE,242,Wake Island,Wood chips and particles,3.02
+c17,m3p/m3sw,OCE,243,Wallis and Futuna Islands,Wood chips and particles,3.02
 c17,m3p/m3sw,OCE,244,Samoa,Wood chips and particles,3.02
+c17,m3p/m3sw,XXX,252,Unspecified Area,Wood chips and particles,3.02
+c17,m3p/m3sw,XXX,254,Others (adjustment),Wood chips and particles,3.02
 c18,m3p/m3sw,AFR,4,Algeria,Wood residues,3.41
 c18,m3p/m3sw,AFR,7,Angola,Wood residues,3.41
+c18,m3p/m3sw,AFR,7,Bermuda,Wood residues,3.41
 c18,m3p/m3sw,AFR,20,Botswana,Wood residues,3.41
 c18,m3p/m3sw,AFR,29,Burundi,Wood residues,3.41
 c18,m3p/m3sw,AFR,32,Cameroon,Wood residues,3.41
@@ -4193,6 +4842,7 @@ c18,m3p/m3sw,AFR,53,Benin,Wood residues,3.41
 c18,m3p/m3sw,AFR,59,Egypt,Wood residues,3.41
 c18,m3p/m3sw,AFR,61,Equatorial Guinea,Wood residues,3.41
 c18,m3p/m3sw,AFR,72,Djibouti,Wood residues,3.41
+c18,m3p/m3sw,AFR,72,Pitcairn Islands,Wood residues,3.41
 c18,m3p/m3sw,AFR,74,Gabon,Wood residues,3.41
 c18,m3p/m3sw,AFR,75,Gambia,Wood residues,3.41
 c18,m3p/m3sw,AFR,81,Ghana,Wood residues,3.41
@@ -4223,6 +4873,7 @@ c18,m3p/m3sw,AFR,196,Seychelles,Wood residues,3.41
 c18,m3p/m3sw,AFR,197,Sierra Leone,Wood residues,3.41
 c18,m3p/m3sw,AFR,201,Somalia,Wood residues,3.41
 c18,m3p/m3sw,AFR,202,South Africa,Wood residues,3.76
+c18,m3p/m3sw,AFR,205,Western Sahara,Wood residues,3.41
 c18,m3p/m3sw,AFR,209,Eswatini,Wood residues,3.41
 c18,m3p/m3sw,AFR,215,United Republic of Tanzania,Wood residues,3.41
 c18,m3p/m3sw,AFR,217,Togo,Wood residues,3.41
@@ -4241,6 +4892,7 @@ c18,m3p/m3sw,ASI,2,Afghanistan,Wood residues,2.88
 c18,m3p/m3sw,ASI,13,Bahrain,Wood residues,2.88
 c18,m3p/m3sw,ASI,16,Bangladesh,Wood residues,2.88
 c18,m3p/m3sw,ASI,18,Bhutan,Wood residues,2.88
+c18,m3p/m3sw,ASI,24,British Indian Ocean Territory,Wood residues,2.88
 c18,m3p/m3sw,ASI,26,Brunei Darussalam,Wood residues,2.88
 c18,m3p/m3sw,ASI,28,Myanmar,Wood residues,2.88
 c18,m3p/m3sw,ASI,38,Sri Lanka,Wood residues,2.88
@@ -4276,32 +4928,41 @@ c18,m3p/m3sw,ASI,185,Russian Federation,Wood residues,3.03
 c18,m3p/m3sw,ASI,194,Saudi Arabia,Wood residues,2.88
 c18,m3p/m3sw,ASI,200,Singapore,Wood residues,2.88
 c18,m3p/m3sw,ASI,208,Tajikistan,Wood residues,2.88
+c18,m3p/m3sw,ASI,208,Tokelau,Wood residues,2.88
 c18,m3p/m3sw,ASI,212,Syrian Arab Republic,Wood residues,2.88
 c18,m3p/m3sw,ASI,213,Turkmenistan,Wood residues,2.88
 c18,m3p/m3sw,ASI,214,"China, Taiwan Province of",Wood residues,2.88
 c18,m3p/m3sw,ASI,216,Thailand,Wood residues,2.88
 c18,m3p/m3sw,ASI,221,Oman,Wood residues,2.88
 c18,m3p/m3sw,ASI,225,United Arab Emirates,Wood residues,2.88
+c18,m3p/m3sw,ASI,228,USSR,Wood residues,2.88
 c18,m3p/m3sw,ASI,235,Uzbekistan,Wood residues,2.88
 c18,m3p/m3sw,ASI,237,Viet Nam,Wood residues,2.88
 c18,m3p/m3sw,ASI,249,Yemen,Wood residues,2.88
+c18,m3p/m3sw,ASI,299,Palestine,Wood residues,2.88
 c18,m3p/m3sw,EUR,3,Albania,Wood residues,2.93
 c18,m3p/m3sw,EUR,6,Andorra,Wood residues,2.93
 c18,m3p/m3sw,EUR,11,Austria,Wood residues,2.93
 c18,m3p/m3sw,EUR,15,Belgium-Luxembourg,Wood residues,2.93
 c18,m3p/m3sw,EUR,27,Bulgaria,Wood residues,2.93
+c18,m3p/m3sw,EUR,27,Marshall Islands,Wood residues,2.93
 c18,m3p/m3sw,EUR,50,Cyprus,Wood residues,2.93
 c18,m3p/m3sw,EUR,51,Czechoslovakia,Wood residues,2.93
 c18,m3p/m3sw,EUR,54,Denmark,Wood residues,2.93
 c18,m3p/m3sw,EUR,57,Belarus,Wood residues,2.93
 c18,m3p/m3sw,EUR,63,Estonia,Wood residues,2.93
+c18,m3p/m3sw,EUR,63,Northern Mariana Islands,Wood residues,2.93
 c18,m3p/m3sw,EUR,64,Faroe Islands,Wood residues,2.93
+c18,m3p/m3sw,EUR,64,Pacific Islands Trust Territory,Wood residues,2.93
 c18,m3p/m3sw,EUR,67,Finland,Wood residues,2.55
 c18,m3p/m3sw,EUR,68,France,Wood residues,3
 c18,m3p/m3sw,EUR,79,Germany,Wood residues,2.93
 c18,m3p/m3sw,EUR,80,Bosnia and Herzegovina,Wood residues,2.93
+c18,m3p/m3sw,EUR,80,Palau,Wood residues,2.93
 c18,m3p/m3sw,EUR,82,Gibraltar,Wood residues,2.93
 c18,m3p/m3sw,EUR,84,Greece,Wood residues,2.93
+c18,m3p/m3sw,EUR,85,Greenland,Wood residues,2.93
+c18,m3p/m3sw,EUR,94,Holy See,Wood residues,2.93
 c18,m3p/m3sw,EUR,97,Hungary,Wood residues,2.93
 c18,m3p/m3sw,EUR,98,Croatia,Wood residues,2.93
 c18,m3p/m3sw,EUR,99,Iceland,Wood residues,2.93
@@ -4328,10 +4989,12 @@ c18,m3p/m3sw,EUR,211,Switzerland,Wood residues,2.93
 c18,m3p/m3sw,EUR,223,Turkey,Wood residues,2.93
 c18,m3p/m3sw,EUR,229,United Kingdom,Wood residues,2.93
 c18,m3p/m3sw,EUR,230,Ukraine,Wood residues,2.93
+c18,m3p/m3sw,EUR,248,Yugoslav SFR,Wood residues,2.93
 c18,m3p/m3sw,EUR,255,Belgium,Wood residues,2.93
 c18,m3p/m3sw,EUR,256,Luxembourg,Wood residues,2.93
 c18,m3p/m3sw,EUR,272,Serbia,Wood residues,2.93
 c18,m3p/m3sw,EUR,273,Montenegro,Wood residues,2.93
+c18,m3p/m3sw,LAM,8,Antigua and Barbuda,Wood residues,3.05
 c18,m3p/m3sw,LAM,9,Argentina,Wood residues,3.05
 c18,m3p/m3sw,LAM,12,Bahamas,Wood residues,3.05
 c18,m3p/m3sw,LAM,14,Barbados,Wood residues,3.05
@@ -4339,9 +5002,11 @@ c18,m3p/m3sw,LAM,19,Bolivia (Plurinational State of),Wood residues,3.05
 c18,m3p/m3sw,LAM,21,Brazil,Wood residues,3.05
 c18,m3p/m3sw,LAM,22,Aruba,Wood residues,3.05
 c18,m3p/m3sw,LAM,23,Belize,Wood residues,3.05
+c18,m3p/m3sw,LAM,36,Cayman Islands,Wood residues,3.05
 c18,m3p/m3sw,LAM,40,Chile,Wood residues,3.23
 c18,m3p/m3sw,LAM,44,Colombia,Wood residues,3.05
 c18,m3p/m3sw,LAM,48,Costa Rica,Wood residues,3.05
+c18,m3p/m3sw,LAM,48,Nauru,Wood residues,3.05
 c18,m3p/m3sw,LAM,49,Cuba,Wood residues,3.05
 c18,m3p/m3sw,LAM,55,Dominica,Wood residues,3.05
 c18,m3p/m3sw,LAM,56,Dominican Republic,Wood residues,3.05
@@ -4349,7 +5014,9 @@ c18,m3p/m3sw,LAM,58,Ecuador,Wood residues,3.05
 c18,m3p/m3sw,LAM,60,El Salvador,Wood residues,3.05
 c18,m3p/m3sw,LAM,65,Falkland Islands (Malvinas),Wood residues,3.05
 c18,m3p/m3sw,LAM,69,French Guyana,Wood residues,3.05
+c18,m3p/m3sw,LAM,86,Grenada,Wood residues,3.05
 c18,m3p/m3sw,LAM,87,Guadeloupe,Wood residues,3.05
+c18,m3p/m3sw,LAM,87,"Saint Helena, Ascension and Tristan da Cunha",Wood residues,3.05
 c18,m3p/m3sw,LAM,89,Guatemala,Wood residues,3.05
 c18,m3p/m3sw,LAM,91,Guyana,Wood residues,3.05
 c18,m3p/m3sw,LAM,93,Haiti,Wood residues,3.05
@@ -4370,16 +5037,24 @@ c18,m3p/m3sw,LAM,224,Turks and Caicos Islands,Wood residues,3.05
 c18,m3p/m3sw,LAM,234,Uruguay,Wood residues,3.05
 c18,m3p/m3sw,LAM,236,Venezuela (Bolivarian Republic of),Wood residues,3.05
 c18,m3p/m3sw,LAM,239,British Virgin Islands,Wood residues,3.05
+c18,m3p/m3sw,LAM,258,Anguilla,Wood residues,3.05
+c18,m3p/m3sw,LAM,279,Curaçao,Wood residues,3.05
 c18,m3p/m3sw,NAM,33,Canada,Wood residues,3.04
 c18,m3p/m3sw,NAM,190,Saint Pierre and Miquelon,Wood residues,3.04
 c18,m3p/m3sw,NAM,231,United States of America,Wood residues,3.04
+c18,m3p/m3sw,OCE,5,American Samoa,Wood residues,3.062
 c18,m3p/m3sw,OCE,10,Australia,Wood residues,3.062
 c18,m3p/m3sw,OCE,25,Solomon Islands,Wood residues,3.062
 c18,m3p/m3sw,OCE,42,Christmas Island,Wood residues,3.062
+c18,m3p/m3sw,OCE,42,Montserrat,Wood residues,3.062
+c18,m3p/m3sw,OCE,43,Cocos (Keeling) Islands,Wood residues,3.062
 c18,m3p/m3sw,OCE,47,Cook Islands,Wood residues,3.062
 c18,m3p/m3sw,OCE,66,Fiji,Wood residues,3.062
 c18,m3p/m3sw,OCE,70,French Polynesia,Wood residues,3.062
+c18,m3p/m3sw,OCE,70,French Southern and Antarctic Territories,Wood residues,3.062
 c18,m3p/m3sw,OCE,83,Kiribati,Wood residues,3.062
+c18,m3p/m3sw,OCE,88,Guam,Wood residues,3.062
+c18,m3p/m3sw,OCE,88,Saint Kitts and Nevis,Wood residues,3.062
 c18,m3p/m3sw,OCE,145,Micronesia (Federated States of),Wood residues,3.062
 c18,m3p/m3sw,OCE,153,New Caledonia,Wood residues,3.062
 c18,m3p/m3sw,OCE,155,Vanuatu,Wood residues,3.062
@@ -4387,9 +5062,15 @@ c18,m3p/m3sw,OCE,156,New Zealand,Wood residues,3.062
 c18,m3p/m3sw,OCE,160,Niue,Wood residues,3.062
 c18,m3p/m3sw,OCE,161,Norfolk Island,Wood residues,3.062
 c18,m3p/m3sw,OCE,168,Papua New Guinea,Wood residues,3.062
+c18,m3p/m3sw,OCE,227,Tuvalu,Wood residues,3.062
+c18,m3p/m3sw,OCE,242,Wake Island,Wood residues,3.062
+c18,m3p/m3sw,OCE,243,Wallis and Futuna Islands,Wood residues,3.062
 c18,m3p/m3sw,OCE,244,Samoa,Wood residues,3.062
+c18,m3p/m3sw,XXX,252,Unspecified Area,Wood residues,3.062
+c18,m3p/m3sw,XXX,254,Others (adjustment),Wood residues,3.062
 c18,m3sw/tonne,AFR,4,Algeria,Wood residues,3.64415
 c18,m3sw/tonne,AFR,7,Angola,Wood residues,3.64415
+c18,m3sw/tonne,AFR,7,Bermuda,Wood residues,3.64415
 c18,m3sw/tonne,AFR,20,Botswana,Wood residues,3.64415
 c18,m3sw/tonne,AFR,29,Burundi,Wood residues,3.64415
 c18,m3sw/tonne,AFR,32,Cameroon,Wood residues,3.64415
@@ -4402,6 +5083,7 @@ c18,m3sw/tonne,AFR,53,Benin,Wood residues,3.64415
 c18,m3sw/tonne,AFR,59,Egypt,Wood residues,3.64415
 c18,m3sw/tonne,AFR,61,Equatorial Guinea,Wood residues,3.64415
 c18,m3sw/tonne,AFR,72,Djibouti,Wood residues,3.64415
+c18,m3sw/tonne,AFR,72,Pitcairn Islands,Wood residues,3.64415
 c18,m3sw/tonne,AFR,74,Gabon,Wood residues,3.64415
 c18,m3sw/tonne,AFR,75,Gambia,Wood residues,3.64415
 c18,m3sw/tonne,AFR,81,Ghana,Wood residues,3.64415
@@ -4432,6 +5114,7 @@ c18,m3sw/tonne,AFR,196,Seychelles,Wood residues,3.64415
 c18,m3sw/tonne,AFR,197,Sierra Leone,Wood residues,3.64415
 c18,m3sw/tonne,AFR,201,Somalia,Wood residues,3.64415
 c18,m3sw/tonne,AFR,202,South Africa,Wood residues,4.0748
+c18,m3sw/tonne,AFR,205,Western Sahara,Wood residues,3.64415
 c18,m3sw/tonne,AFR,209,Eswatini,Wood residues,3.64415
 c18,m3sw/tonne,AFR,215,United Republic of Tanzania,Wood residues,3.64415
 c18,m3sw/tonne,AFR,217,Togo,Wood residues,3.64415
@@ -4450,6 +5133,7 @@ c18,m3sw/tonne,ASI,2,Afghanistan,Wood residues,3.9808
 c18,m3sw/tonne,ASI,13,Bahrain,Wood residues,3.9808
 c18,m3sw/tonne,ASI,16,Bangladesh,Wood residues,3.9808
 c18,m3sw/tonne,ASI,18,Bhutan,Wood residues,3.9808
+c18,m3sw/tonne,ASI,24,British Indian Ocean Territory,Wood residues,3.9808
 c18,m3sw/tonne,ASI,26,Brunei Darussalam,Wood residues,3.9808
 c18,m3sw/tonne,ASI,28,Myanmar,Wood residues,3.9808
 c18,m3sw/tonne,ASI,38,Sri Lanka,Wood residues,3.9808
@@ -4485,32 +5169,41 @@ c18,m3sw/tonne,ASI,185,Russian Federation,Wood residues,3.9808
 c18,m3sw/tonne,ASI,194,Saudi Arabia,Wood residues,3.9808
 c18,m3sw/tonne,ASI,200,Singapore,Wood residues,3.9808
 c18,m3sw/tonne,ASI,208,Tajikistan,Wood residues,3.9808
+c18,m3sw/tonne,ASI,208,Tokelau,Wood residues,3.9808
 c18,m3sw/tonne,ASI,212,Syrian Arab Republic,Wood residues,3.9808
 c18,m3sw/tonne,ASI,213,Turkmenistan,Wood residues,3.9808
 c18,m3sw/tonne,ASI,214,"China, Taiwan Province of",Wood residues,3.9808
 c18,m3sw/tonne,ASI,216,Thailand,Wood residues,3.9808
 c18,m3sw/tonne,ASI,221,Oman,Wood residues,3.9808
 c18,m3sw/tonne,ASI,225,United Arab Emirates,Wood residues,3.9808
+c18,m3sw/tonne,ASI,228,USSR,Wood residues,3.9808
 c18,m3sw/tonne,ASI,235,Uzbekistan,Wood residues,3.9808
 c18,m3sw/tonne,ASI,237,Viet Nam,Wood residues,3.9808
 c18,m3sw/tonne,ASI,249,Yemen,Wood residues,3.9808
+c18,m3sw/tonne,ASI,299,Palestine,Wood residues,3.9808
 c18,m3sw/tonne,EUR,3,Albania,Wood residues,4.7671
 c18,m3sw/tonne,EUR,6,Andorra,Wood residues,4.7671
 c18,m3sw/tonne,EUR,11,Austria,Wood residues,4.7671
 c18,m3sw/tonne,EUR,15,Belgium-Luxembourg,Wood residues,4.7671
 c18,m3sw/tonne,EUR,27,Bulgaria,Wood residues,4.7671
+c18,m3sw/tonne,EUR,27,Marshall Islands,Wood residues,4.7671
 c18,m3sw/tonne,EUR,50,Cyprus,Wood residues,4.7671
 c18,m3sw/tonne,EUR,51,Czechoslovakia,Wood residues,4.7671
 c18,m3sw/tonne,EUR,54,Denmark,Wood residues,4.7671
 c18,m3sw/tonne,EUR,57,Belarus,Wood residues,4.7671
 c18,m3sw/tonne,EUR,63,Estonia,Wood residues,4.7671
+c18,m3sw/tonne,EUR,63,Northern Mariana Islands,Wood residues,4.7671
 c18,m3sw/tonne,EUR,64,Faroe Islands,Wood residues,4.7671
+c18,m3sw/tonne,EUR,64,Pacific Islands Trust Territory,Wood residues,4.7671
 c18,m3sw/tonne,EUR,67,Finland,Wood residues,4.8
 c18,m3sw/tonne,EUR,68,France,Wood residues,3.375
 c18,m3sw/tonne,EUR,79,Germany,Wood residues,4.7671
 c18,m3sw/tonne,EUR,80,Bosnia and Herzegovina,Wood residues,4.7671
+c18,m3sw/tonne,EUR,80,Palau,Wood residues,4.7671
 c18,m3sw/tonne,EUR,82,Gibraltar,Wood residues,4.7671
 c18,m3sw/tonne,EUR,84,Greece,Wood residues,4.7671
+c18,m3sw/tonne,EUR,85,Greenland,Wood residues,4.7671
+c18,m3sw/tonne,EUR,94,Holy See,Wood residues,4.7671
 c18,m3sw/tonne,EUR,97,Hungary,Wood residues,4.7671
 c18,m3sw/tonne,EUR,98,Croatia,Wood residues,4.7671
 c18,m3sw/tonne,EUR,99,Iceland,Wood residues,4.7671
@@ -4537,10 +5230,12 @@ c18,m3sw/tonne,EUR,211,Switzerland,Wood residues,6.3
 c18,m3sw/tonne,EUR,223,Turkey,Wood residues,4.7671
 c18,m3sw/tonne,EUR,229,United Kingdom,Wood residues,4.7671
 c18,m3sw/tonne,EUR,230,Ukraine,Wood residues,4.7671
+c18,m3sw/tonne,EUR,248,Yugoslav SFR,Wood residues,4.7671
 c18,m3sw/tonne,EUR,255,Belgium,Wood residues,4.7671
 c18,m3sw/tonne,EUR,256,Luxembourg,Wood residues,4.7671
 c18,m3sw/tonne,EUR,272,Serbia,Wood residues,4.7671
 c18,m3sw/tonne,EUR,273,Montenegro,Wood residues,4.7671
+c18,m3sw/tonne,LAM,8,Antigua and Barbuda,Wood residues,2.5645
 c18,m3sw/tonne,LAM,9,Argentina,Wood residues,2.5645
 c18,m3sw/tonne,LAM,12,Bahamas,Wood residues,2.5645
 c18,m3sw/tonne,LAM,14,Barbados,Wood residues,2.5645
@@ -4548,9 +5243,11 @@ c18,m3sw/tonne,LAM,19,Bolivia (Plurinational State of),Wood residues,2.5645
 c18,m3sw/tonne,LAM,21,Brazil,Wood residues,2.5645
 c18,m3sw/tonne,LAM,22,Aruba,Wood residues,2.5645
 c18,m3sw/tonne,LAM,23,Belize,Wood residues,2.5645
+c18,m3sw/tonne,LAM,36,Cayman Islands,Wood residues,2.5645
 c18,m3sw/tonne,LAM,40,Chile,Wood residues,2.5645
 c18,m3sw/tonne,LAM,44,Colombia,Wood residues,2.5645
 c18,m3sw/tonne,LAM,48,Costa Rica,Wood residues,2.5645
+c18,m3sw/tonne,LAM,48,Nauru,Wood residues,2.5645
 c18,m3sw/tonne,LAM,49,Cuba,Wood residues,2.5645
 c18,m3sw/tonne,LAM,55,Dominica,Wood residues,2.5645
 c18,m3sw/tonne,LAM,56,Dominican Republic,Wood residues,2.5645
@@ -4558,7 +5255,9 @@ c18,m3sw/tonne,LAM,58,Ecuador,Wood residues,2.5645
 c18,m3sw/tonne,LAM,60,El Salvador,Wood residues,2.5645
 c18,m3sw/tonne,LAM,65,Falkland Islands (Malvinas),Wood residues,2.5645
 c18,m3sw/tonne,LAM,69,French Guyana,Wood residues,2.5645
+c18,m3sw/tonne,LAM,86,Grenada,Wood residues,2.5645
 c18,m3sw/tonne,LAM,87,Guadeloupe,Wood residues,2.5645
+c18,m3sw/tonne,LAM,87,"Saint Helena, Ascension and Tristan da Cunha",Wood residues,2.5645
 c18,m3sw/tonne,LAM,89,Guatemala,Wood residues,2.5645
 c18,m3sw/tonne,LAM,91,Guyana,Wood residues,2.5645
 c18,m3sw/tonne,LAM,93,Haiti,Wood residues,2.5645
@@ -4579,16 +5278,24 @@ c18,m3sw/tonne,LAM,224,Turks and Caicos Islands,Wood residues,2.5645
 c18,m3sw/tonne,LAM,234,Uruguay,Wood residues,2.5645
 c18,m3sw/tonne,LAM,236,Venezuela (Bolivarian Republic of),Wood residues,2.5645
 c18,m3sw/tonne,LAM,239,British Virgin Islands,Wood residues,2.5645
+c18,m3sw/tonne,LAM,258,Anguilla,Wood residues,2.5645
+c18,m3sw/tonne,LAM,279,Curaçao,Wood residues,2.5645
 c18,m3sw/tonne,NAM,33,Canada,Wood residues,3.8115
 c18,m3sw/tonne,NAM,190,Saint Pierre and Miquelon,Wood residues,3.8115
 c18,m3sw/tonne,NAM,231,United States of America,Wood residues,3.8115
+c18,m3sw/tonne,OCE,5,American Samoa,Wood residues,3.75361
 c18,m3sw/tonne,OCE,10,Australia,Wood residues,3.75361
 c18,m3sw/tonne,OCE,25,Solomon Islands,Wood residues,3.75361
 c18,m3sw/tonne,OCE,42,Christmas Island,Wood residues,3.75361
+c18,m3sw/tonne,OCE,42,Montserrat,Wood residues,3.75361
+c18,m3sw/tonne,OCE,43,Cocos (Keeling) Islands,Wood residues,3.75361
 c18,m3sw/tonne,OCE,47,Cook Islands,Wood residues,3.75361
 c18,m3sw/tonne,OCE,66,Fiji,Wood residues,3.75361
 c18,m3sw/tonne,OCE,70,French Polynesia,Wood residues,3.75361
+c18,m3sw/tonne,OCE,70,French Southern and Antarctic Territories,Wood residues,3.75361
 c18,m3sw/tonne,OCE,83,Kiribati,Wood residues,3.75361
+c18,m3sw/tonne,OCE,88,Guam,Wood residues,3.75361
+c18,m3sw/tonne,OCE,88,Saint Kitts and Nevis,Wood residues,3.75361
 c18,m3sw/tonne,OCE,145,Micronesia (Federated States of),Wood residues,3.75361
 c18,m3sw/tonne,OCE,153,New Caledonia,Wood residues,3.75361
 c18,m3sw/tonne,OCE,155,Vanuatu,Wood residues,3.75361
@@ -4596,4 +5303,9 @@ c18,m3sw/tonne,OCE,156,New Zealand,Wood residues,3.75361
 c18,m3sw/tonne,OCE,160,Niue,Wood residues,3.75361
 c18,m3sw/tonne,OCE,161,Norfolk Island,Wood residues,3.75361
 c18,m3sw/tonne,OCE,168,Papua New Guinea,Wood residues,3.75361
+c18,m3sw/tonne,OCE,227,Tuvalu,Wood residues,3.75361
+c18,m3sw/tonne,OCE,242,Wake Island,Wood residues,3.75361
+c18,m3sw/tonne,OCE,243,Wallis and Futuna Islands,Wood residues,3.75361
 c18,m3sw/tonne,OCE,244,Samoa,Wood residues,3.75361
+c18,m3sw/tonne,XXX,252,Unspecified Area,Wood residues,3.75361
+c18,m3sw/tonne,XXX,254,Others (adjustment),Wood residues,3.75361
