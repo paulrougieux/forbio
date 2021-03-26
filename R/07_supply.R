@@ -39,144 +39,90 @@ shares[, `:=`(chips = round(chips * rwe), residues = round(residues * rwe),
 # Comparison with CBS data
 shares <- merge(shares,
   shares[, list(chips_total = sum(chips, na.rm = TRUE),
-  residues_total = sum(residues, na.rm = TRUE)),
-  by = c("area_code","year")],
-  by = c("area_code","year"), all.x = TRUE)
+    residues_total = sum(residues, na.rm = TRUE)),
+      by = c("area_code","year")],
+    by = c("area_code","year"), all.x = TRUE)
 shares <- merge(shares, cbs[com_code=="c17", .(area_code, year, chips_cbs = production)],
   by = c("area_code","year"), all.x = TRUE)
 shares <- merge(shares, cbs[com_code=="c18", .(area_code, year, residues_cbs = production)],
   by = c("area_code","year"), all.x = TRUE)
 
-# ZR: Change units chips_cbs and residues_cbs from m3p to m3sw 
+# Change units chips_cbs and residues_cbs from m3p to m3sw 
 tcf <- fread("inst/tcf_use_tidy.csv")
-tcf <- rbind(tcf[com_code == "c17" & unit == "m3p/m3sw",],
-             tcf[com_code == "c18" & unit == "m3p/m3sw",])
-tcf = subset(tcf, select = -c(item) )
-tcf_wide <- pivot_wider(tcf, names_from = com_code, values_from = tcf)
-names(tcf_wide)[names(tcf_wide) == "c17"] <- "tcf_chips"
-names(tcf_wide)[names(tcf_wide) == "c18"] <- "tcf_residues"
-shares <- merge(shares, tcf_wide[, c("tcf_chips", "tcf_residues", "area_code")],
-                by = c("area_code"), all = TRUE, allow.cartesian = TRUE)
-# Scale chips and residues
+tcf <- tcf[com_code %in% c("c17", "c18") & unit == "m3p/m3sw",
+  .(com_code, area_code, area, tcf)]
+tcf[, com_code := ifelse(com_code=="c17", "tcf_chips", "tcf_residues")]
+tcf <- pivot_wider(tcf, names_from = com_code, values_from = tcf)
+# delete later:
+tcf$area_code <- regions$area_code[match(tcf$area,regions$area)]
+tcf$area <- NULL
+
+shares <- merge(shares, tcf, by = c("area_code"), all.x = TRUE)
 shares[, `:=`(chips_cbs = round(chips_cbs / tcf_chips),
-              residues_cbs = round(residues_cbs / tcf_residues),
-              tcf_chips = NULL, tcf_residues = NULL)]
+  residues_cbs = round(residues_cbs / tcf_residues))]
 shares[, `:=`(chips_scale = chips_cbs / chips_total,
   residues_scale = residues_cbs / residues_total)]
-# Scale byproducts (sum of chips and residues)
-shares[, `:=`(byprod_total = chips_total + residues_total,
-              byprod_cbs = residues_cbs + residues_total)]
-shares[, `:=`(byprod_scale = byprod_cbs / byprod_total)]
+
+# Scale chips and residues
+shares[, `:=`(chips_final = chips * chips_scale,
+  residues_final = residues * residues_scale,
+  chips_diff = chips_total - chips_cbs,
+  residues_diff = residues_cbs - residues_total)]
+shares[, `:=`(chips_final = ifelse(chips_cbs > chips_total, chips_final / chips_cbs * chips_total, chips_final),
+  residues_final = ifelse(residues_cbs > residues_total, residues_final / residues_cbs * residues_total, residues_final))]
+
+# Add residues if less chips produced than expected
+shares[, `:=`(residues_final = residues_final + 
+  ifelse(chips_diff > 0 & residues_diff > 0, ifelse(residues_diff > chips_diff, 
+  chips_diff / residues_total * residues, residues_diff / residues_total * residues), 0))]
+
+# Calculate remainders of chips and residues
+shares <- merge(shares, shares[, list(chips_rest = sum(chips_final, na.rm = TRUE), 
+  residues_rest = sum(residues_final, na.rm = TRUE)), by = c("area_code", "year")], 
+  all.x = TRUE, by = c("area_code", "year"))
+shares[, `:=`(chips_rest = chips_cbs - chips_rest, residues_rest = residues_cbs - residues_rest)]
+
+# Convert chips and residues into m3p
+shares[, `:=`(chips_final = round(chips_final * tcf_chips), residues_final = round(residues_final * tcf_residues), 
+  chips_rest = round(chips_rest * tcf_chips), residues_rest = round(residues_rest * tcf_residues))]
+
+remainders <- shares[com_code=="c04", .(area_code, area, year, chips = chips_rest, residues = residues_rest)]
 
 
-# Assumption: if scale < 1 : rescale
-# if scale > 1 : use own estimation, and difference is allocation to p01 and p02
-
-## ------------------------------------
-
-
-sup <- merge(sup, shares[, .(area_code, proc_code, year, product, chips, residues)], 
+## Merge chips and residues supply ------------------------------------
+sup <- merge(sup, shares[, .(area_code, proc_code, year, chips = chips_final, residues = residues_final)], 
   by = c("area_code", "proc_code", "year"), all.x = TRUE)
+sup[proc_code %in% c("p04","p05","p06","p07") & com_code=="c17", production := chips]
+sup[proc_code %in% c("p04","p05","p06","p07") & com_code=="c18", production := residues]
+sup[, `:=`(chips = NULL, residues = NULL)]
+
+## Merge chips and residues remainders ------------------------------------
+sup <- merge(sup, remainders[, .(area_code, year, chips, residues)], 
+  by = c("area_code", "year"), all.x = TRUE)
+sup <- merge(sup, sup[proc_code %in% c("p01","p02"), 
+  list(roundwood = sum(production, na.rm = TRUE)), by = c("area_code", "year")], 
+  all.x = TRUE, by = c("area_code", "year"))
+sup[, `:=`(chips = round(chips / roundwood * production), 
+  residues = round(residues / roundwood * production))]
+chips <- sup[proc_code %in% c("p01","p02"), 
+  .(area_code, year, proc_code, com_code = "c17", item = items$item[items$com_code=="c17"], 
+    area, production = chips, process, type)]
+residues <- sup[proc_code %in% c("p01","p02"), 
+  .(area_code, year, proc_code, com_code = "c18", item = items$item[items$com_code=="c18"], 
+    area, production = residues, process, type)]
+sup[, `:=`(chips = NULL, residues = NULL, roundwood = NULL)]
+sup <- rbindlist(list(sup, chips, residues))
 
 
-# Add regions to RoW if not included in CBS
-shares[, `:=`(area = ifelse(!area_code %in% regions$code[regions$cbs], "RoW", area),
-              area_code = ifelse(!area_code %in% regions$code[regions$cbs], 999, area_code))]
-
-# Aggregate values
-shares <- shares[, list(value = sum(value, na.rm = TRUE)),
-  by = list(area_code, area, year, proc_code, proc,
-    comm_code, item_code, item)]
-# Add totals
-shares <- merge(
-  shares, all.x = TRUE,
-  shares[, list(total = sum(value, na.rm = TRUE)),
-    by = list(area_code, area, year, comm_code, item_code, item)])
-
-shares[, share := value / total]
-
-sup <- merge(sup,
-  shares[, c("area_code", "area", "year", "comm_code", "proc_code", "share")],
-  by = c("area_code", "area", "year", "comm_code", "proc_code"), all.x = TRUE)
-
-cat("Applying livestock shares to",
-  sup[comm_code %in% shares$comm_code, .N], "observations.\n")
-sup[is.na(share) & comm_code %in% shares$comm_code, production := 0]
-sup[!is.na(share) & comm_code %in% shares$comm_code,
-  production := production * share]
-
-cat("Applying oil extraction shares to",
-  sup[comm_code %in% c("c090"), .N],
-  "observations of oilseed cakes.\n")
-shares_o <- sup[comm_code %in% c("c079", "c080", "c081"),
-  list(proc, share_o = production / sum(production, na.rm = TRUE)),
-  by = list(area_code, year)]
-
-sup <- merge(sup, shares_o, by = c("area_code", "year", "proc"), all.x = TRUE)
-sup[is.na(share_o), share_o := 0]
-sup[is.na(share) & comm_code %in% c("c090"),
-  `:=`(production = production * share_o)]
-sup[, share_o := NULL]
-
-sup[, share := NULL]
-
-
-# # Fill prices using BTD ---------------------------------------------------
-# 
-# prices <- as.data.table(data.table::dcast(btd, from + from_code + to + to_code +
-#   item + item_code + year ~ unit, value.var = "value"))
-# prices <- prices[!is.na(usd) & usd > 0,
-#   list(usd = sum(usd, na.rm = TRUE), head = sum(head, na.rm = TRUE),
-#     tonnes = sum(tonnes, na.rm = TRUE)),
-#     by = list(from, from_code, item_code, item, year)]
-# 
-# prices[, price := ifelse(tonnes != 0 & !is.na(tonnes), usd / tonnes,
-#   ifelse(head != 0 & !is.na(head), usd / head, NA))]
-# 
-# # Cap prices at 5th and 95th quantiles.
-# # We might want to add a yearly element.
-# caps <- prices[, list(price_q95 = quantile(price, .95, na.rm = TRUE),
-#   price_q50 = quantile(price, .50, na.rm = TRUE),
-#   price_q05 = quantile(price, .05, na.rm = TRUE)),
-#   by = list(item)]
-# prices <- merge(prices, caps, by = "item", all.x = TRUE)
-# 
-# cat("Capping ", prices[price > price_q95 | price < price_q05, .N],
-#   " prices at the specific item's 95th and 5th quantiles.\n", sep = "")
-# prices[, price := ifelse(price > price_q95, price_q95,
-#   ifelse(price < price_q05, price_q05, price))]
-# 
-# # Get worldprices to fill gaps
-# na_sum <- function(x) {ifelse(all(is.na(x)), NA_real_, sum(x, na.rm = TRUE))}
-# prices_world <- prices[!is.na(usd), list(usd = na_sum(usd),
-#   tonnes = na_sum(tonnes), head = na_sum(head)),
-#   by = list(item, item_code, year)]
-# prices_world[, price_world := ifelse(head != 0, usd / head,
-#   usd / tonnes)]
-# prices <- merge(
-#   prices, prices_world[, c("year", "item_code", "item", "price_world")],
-#   by = c("year", "item_code", "item"), all.x = TRUE)
-# 
-# cat("Filling ", prices[is.na(price) & !is.na(price_world), .N],
-#   " missing prices with worldprices.\n", sep = "")
-# prices[is.na(price), price := price_world]
-# 
-# cat("Filling ", prices[!is.finite(price) & !is.na(price_q50), .N],
-#   " missing prices with median item prices.\n", sep = "")
-# prices[!is.finite(price), price := price_q50]
-# 
-# sup <- merge(sup, all.x = TRUE,
-#   prices[, c("from_code", "from", "item", "item_code", "year", "price")],
-#   by.x = c("area_code", "area", "item", "item_code", "year"),
-#   by.y = c("from_code", "from", "item", "item_code", "year"))
-# 
-# # apply world average price where price is NA
-# sup <- merge(sup, all.x = TRUE,
-#   prices_world[, c("item", "item_code", "year", "price_world")],
-#   by.x = c("item", "item_code", "year"),
-#   by.y = c("item", "item_code", "year"))
-# sup[, `:=`(price = ifelse(is.na(price), price_world, price),
-#            price_world = NULL)]
+# data <- sup[proc_code %in% c("p01","p02") & com_code %in% c("c17","c18")]
+# data <- merge(data, tcf, by = "area_code", all.x = TRUE)
+# data[com_code=="c17", `:=`(production = production / tcf_chips)]
+# data[com_code=="c18", `:=`(production = production / tcf_residues)]
+# data <- data[, list(production = round(sum(production, na.rm = TRUE))), by = c("year", "area_code", "area")]
+# data <- merge(data, sup[com_code=="c03", .(area_code, year, woodfuel = production)], all.x = TRUE, by = c("year", "area_code"))
+# data[, diff := woodfuel - production]
+# data[, diff_percentage := round(diff / woodfuel * 100)]
+# data <- data[is.finite(production) & production != 0 & woodfuel != 0]
 
 
 # Store results -----------------------------------------------------------

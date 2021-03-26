@@ -4,6 +4,7 @@
 library("data.table")
 source("R/00_prep_functions.R")
 path_trade <- "input/"
+path_baci <- "~/wu_shares/WU/Projekte/GRU/04_Daten/Socio-Economic data/BACI/"
 
 
 # BACI ------------------------------------------------------------------
@@ -14,11 +15,11 @@ files <- c(c("baci_hs92" = "BACI_HS92_V202001.zip"),
 
 for(file in 1:2){
   file <- files[file]
-  extr <- unzip(paste0(path_trade, file), list = TRUE)[[1]]
+  extr <- unzip(paste0(path_baci, file), list = TRUE)[[1]]
   name <- names(file)
   col_types <- rep(list(c("integer", "integer", "integer", "integer",
     "numeric", "numeric")), length(extr))
-  baci <- fa_extract(path_in = path_trade, files = file, path_out = path_trade,
+  baci <- fa_extract(path_in = path_baci, files = file, path_out = path_trade,
     name = name, extr = extr, col_types = col_types, stack = TRUE)
   baci[, version := substr(name, 6, 9)]
   saveRDS(baci, paste0(path_trade, name))
