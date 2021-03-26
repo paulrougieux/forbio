@@ -36,8 +36,18 @@ shares[, rwe := production / product]
 shares[, `:=`(chips = round(chips * rwe), residues = round(residues * rwe),
   product = production, production = NULL, rwe = NULL)]
 
-# ZR: Change units from m3rw to m3p
-# for chips and residues
+# Comparison with CBS data
+shares <- merge(shares,
+  shares[, list(chips_total = sum(chips, na.rm = TRUE),
+  residues_total = sum(residues, na.rm = TRUE)),
+  by = c("area_code","year")],
+  by = c("area_code","year"), all.x = TRUE)
+shares <- merge(shares, cbs[com_code=="c17", .(area_code, year, chips_cbs = production)],
+  by = c("area_code","year"), all.x = TRUE)
+shares <- merge(shares, cbs[com_code=="c18", .(area_code, year, residues_cbs = production)],
+  by = c("area_code","year"), all.x = TRUE)
+
+# ZR: Change units chips_cbs and residues_cbs from m3p to m3sw 
 tcf <- fread("inst/tcf_use_tidy.csv")
 tcf <- rbind(tcf[com_code == "c17" & unit == "m3p/m3sw",],
              tcf[com_code == "c18" & unit == "m3p/m3sw",])
@@ -45,30 +55,22 @@ tcf = subset(tcf, select = -c(item) )
 tcf_wide <- pivot_wider(tcf, names_from = com_code, values_from = tcf)
 names(tcf_wide)[names(tcf_wide) == "c17"] <- "tcf_chips"
 names(tcf_wide)[names(tcf_wide) == "c18"] <- "tcf_residues"
-
-# merge 
-shares <- merge(shares, tcf_wide[, c("tcf_chips", "tcf_residues")],
-                by = c("area_code"), all.x = TRUE, allow.cartesian = TRUE)
-# Error: Elements listed in 'by' must be valid column names in x and y
-
-shares <- merge(shares,
-  shares[, list(chips_total = sum(chips, na.rm = TRUE),
-  residues_total = sum(residues, na.rm = TRUE)),
-  by = c("area_code","year")],
-  by = c("area_code","year"), all.x = TRUE)
-
-shares <- merge(shares, cbs[com_code=="c17", .(area_code, year, chips_cbs = production)],
-  by = c("area_code","year"), all.x = TRUE)
-
-shares <- merge(shares, cbs[com_code=="c18", .(area_code, year, residues_cbs = production)],
-  by = c("area_code","year"), all.x = TRUE)
-
+shares <- merge(shares, tcf_wide[, c("tcf_chips", "tcf_residues", "area_code")],
+                by = c("area_code"), all = TRUE, allow.cartesian = TRUE)
+# Scale chips and residues
+shares[, `:=`(chips_cbs = round(chips_cbs / tcf_chips),
+              residues_cbs = round(residues_cbs / tcf_residues),
+              tcf_chips = NULL, tcf_residues = NULL)]
 shares[, `:=`(chips_scale = chips_cbs / chips_total,
   residues_scale = residues_cbs / residues_total)]
+# Scale byproducts (sum of chips and residues)
+shares[, `:=`(byprod_total = chips_total + residues_total,
+              byprod_cbs = residues_cbs + residues_total)]
+shares[, `:=`(byprod_scale = byprod_cbs / byprod_total)]
 
-# Annahme: if scale < 1 : rescale
+
+# Assumption: if scale < 1 : rescale
 # if scale > 1 : use own estimation, and difference is allocation to p01 and p02
-
 
 ## ------------------------------------
 
