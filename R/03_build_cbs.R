@@ -29,9 +29,15 @@ fore[use < 0, `:=`(balancing = use, use = 0)]
 
 # Handle supply gaps ------------------------------------------------------
 
-fore[balancing < 0, `:=`(production = na_sum(production, -balancing),
-  total_supply = na_sum(production, imports),
-  use = na_sum(production, imports, -exports))]
+## ZR: Not sure why this code wasn't working, I just split it and it works now
+#fore[balancing < 0, `:=`(production = na_sum(production, -balancing),
+#  total_supply = na_sum(production, imports),
+#  use = na_sum(production, imports, -exports))]
+
+fore[balancing < 0, `:=`(production = na_sum(production, -balancing))]
+fore[, `:=`(total_supply = na_sum(production, imports))]
+fore[, `:=`(use = na_sum(production, imports, -exports))]
+
 
 
 

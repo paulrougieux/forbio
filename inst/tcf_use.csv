@@ -1206,27 +1206,27 @@ area_code;area;com_code;item;unit;tcf
 277;South Sudan;c04;Sawnwood, coniferous;m3rw/m3p;0
 5;American Samoa;c04;Sawnwood, coniferous;m3rw/m3p;0
 8;Antigua and Barbuda;c04;Sawnwood, coniferous;m3rw/m3p;0
-7;Bermuda;c04;Sawnwood, coniferous;m3rw/m3p;0
+17;Bermuda;c04;Sawnwood, coniferous;m3rw/m3p;0
 24;British Indian Ocean Territory;c04;Sawnwood, coniferous;m3rw/m3p;0
 36;Cayman Islands;c04;Sawnwood, coniferous;m3rw/m3p;0
 43;Cocos (Keeling) Islands;c04;Sawnwood, coniferous;m3rw/m3p;0
-70;French Southern and Antarctic Territories;c04;Sawnwood, coniferous;m3rw/m3p;0
+71;French Southern and Antarctic Territories;c04;Sawnwood, coniferous;m3rw/m3p;0
 85;Greenland;c04;Sawnwood, coniferous;m3rw/m3p;0
 86;Grenada;c04;Sawnwood, coniferous;m3rw/m3p;0
 88;Guam;c04;Sawnwood, coniferous;m3rw/m3p;0
 94;Holy See;c04;Sawnwood, coniferous;m3rw/m3p;0
-27;Marshall Islands;c04;Sawnwood, coniferous;m3rw/m3p;0
-42;Montserrat;c04;Sawnwood, coniferous;m3rw/m3p;0
-48;Nauru;c04;Sawnwood, coniferous;m3rw/m3p;0
-63;Northern Mariana Islands;c04;Sawnwood, coniferous;m3rw/m3p;0
-64;Pacific Islands Trust Territory;c04;Sawnwood, coniferous;m3rw/m3p;0
-72;Pitcairn Islands;c04;Sawnwood, coniferous;m3rw/m3p;0
-80;Palau;c04;Sawnwood, coniferous;m3rw/m3p;0
-87;Saint Helena, Ascension and Tristan da Cunha;c04;Sawnwood, coniferous;m3rw/m3p;0
-88;Saint Kitts and Nevis;c04;Sawnwood, coniferous;m3rw/m3p;0
-92;San Marino;c04;Sawnwood, coniferous;m3rw/m3p;0
+127;Marshall Islands;c04;Sawnwood, coniferous;m3rw/m3p;0
+142;Montserrat;c04;Sawnwood, coniferous;m3rw/m3p;0
+148;Nauru;c04;Sawnwood, coniferous;m3rw/m3p;0
+163;Northern Mariana Islands;c04;Sawnwood, coniferous;m3rw/m3p;0
+164;Pacific Islands Trust Territory;c04;Sawnwood, coniferous;m3rw/m3p;0
+172;Pitcairn Islands;c04;Sawnwood, coniferous;m3rw/m3p;0
+180;Palau;c04;Sawnwood, coniferous;m3rw/m3p;0
+187;Saint Helena, Ascension and Tristan da Cunha;c04;Sawnwood, coniferous;m3rw/m3p;0
+188;Saint Kitts and Nevis;c04;Sawnwood, coniferous;m3rw/m3p;0
+192;San Marino;c04;Sawnwood, coniferous;m3rw/m3p;0
 205;Western Sahara;c04;Sawnwood, coniferous;m3rw/m3p;0
-208;Tokelau;c04;Sawnwood, coniferous;m3rw/m3p;0
+218;Tokelau;c04;Sawnwood, coniferous;m3rw/m3p;0
 227;Tuvalu;c04;Sawnwood, coniferous;m3rw/m3p;0
 228;USSR;c04;Sawnwood, coniferous;m3rw/m3p;0
 242;Wake Island;c04;Sawnwood, coniferous;m3rw/m3p;0
@@ -1455,27 +1455,27 @@ area_code;area;com_code;item;unit;tcf
 277;South Sudan;c05;Sawnwood, non-coniferous all;m3rw/m3p;0
 5;American Samoa;c05;Sawnwood, non-coniferous all;m3rw/m3p;0
 8;Antigua and Barbuda;c05;Sawnwood, non-coniferous all;m3rw/m3p;0
-7;Bermuda;c05;Sawnwood, non-coniferous all;m3rw/m3p;0
+17;Bermuda;c05;Sawnwood, non-coniferous all;m3rw/m3p;0
 24;British Indian Ocean Territory;c05;Sawnwood, non-coniferous all;m3rw/m3p;0
 36;Cayman Islands;c05;Sawnwood, non-coniferous all;m3rw/m3p;0
 43;Cocos (Keeling) Islands;c05;Sawnwood, non-coniferous all;m3rw/m3p;0
-70;French Southern and Antarctic Territories;c05;Sawnwood, non-coniferous all;m3rw/m3p;0
+71;French Southern and Antarctic Territories;c05;Sawnwood, non-coniferous all;m3rw/m3p;0
 85;Greenland;c05;Sawnwood, non-coniferous all;m3rw/m3p;0
 86;Grenada;c05;Sawnwood, non-coniferous all;m3rw/m3p;0
 88;Guam;c05;Sawnwood, non-coniferous all;m3rw/m3p;0
 94;Holy See;c05;Sawnwood, non-coniferous all;m3rw/m3p;0
-27;Marshall Islands;c05;Sawnwood, non-coniferous all;m3rw/m3p;0
-42;Montserrat;c05;Sawnwood, non-coniferous all;m3rw/m3p;0
-48;Nauru;c05;Sawnwood, non-coniferous all;m3rw/m3p;0
-63;Northern Mariana Islands;c05;Sawnwood, non-coniferous all;m3rw/m3p;0
-64;Pacific Islands Trust Territory;c05;Sawnwood, non-coniferous all;m3rw/m3p;0
-72;Pitcairn Islands;c05;Sawnwood, non-coniferous all;m3rw/m3p;0
-80;Palau;c05;Sawnwood, non-coniferous all;m3rw/m3p;0
-87;Saint Helena, Ascension and Tristan da Cunha;c05;Sawnwood, non-coniferous all;m3rw/m3p;0
-88;Saint Kitts and Nevis;c05;Sawnwood, non-coniferous all;m3rw/m3p;0
-92;San Marino;c05;Sawnwood, non-coniferous all;m3rw/m3p;0
+127;Marshall Islands;c05;Sawnwood, non-coniferous all;m3rw/m3p;0
+142;Montserrat;c05;Sawnwood, non-coniferous all;m3rw/m3p;0
+148;Nauru;c05;Sawnwood, non-coniferous all;m3rw/m3p;0
+163;Northern Mariana Islands;c05;Sawnwood, non-coniferous all;m3rw/m3p;0
+164;Pacific Islands Trust Territory;c05;Sawnwood, non-coniferous all;m3rw/m3p;0
+172;Pitcairn Islands;c05;Sawnwood, non-coniferous all;m3rw/m3p;0
+180;Palau;c05;Sawnwood, non-coniferous all;m3rw/m3p;0
+187;Saint Helena, Ascension and Tristan da Cunha;c05;Sawnwood, non-coniferous all;m3rw/m3p;0
+188;Saint Kitts and Nevis;c05;Sawnwood, non-coniferous all;m3rw/m3p;0
+192;San Marino;c05;Sawnwood, non-coniferous all;m3rw/m3p;0
 205;Western Sahara;c05;Sawnwood, non-coniferous all;m3rw/m3p;0
-208;Tokelau;c05;Sawnwood, non-coniferous all;m3rw/m3p;0
+218;Tokelau;c05;Sawnwood, non-coniferous all;m3rw/m3p;0
 227;Tuvalu;c05;Sawnwood, non-coniferous all;m3rw/m3p;0
 228;USSR;c05;Sawnwood, non-coniferous all;m3rw/m3p;0
 242;Wake Island;c05;Sawnwood, non-coniferous all;m3rw/m3p;0
@@ -1704,27 +1704,27 @@ area_code;area;com_code;item;unit;tcf
 277;South Sudan;c06;Veneer sheets;m3rw/m3p;0
 5;American Samoa;c06;Veneer sheets;m3rw/m3p;0
 8;Antigua and Barbuda;c06;Veneer sheets;m3rw/m3p;0
-7;Bermuda;c06;Veneer sheets;m3rw/m3p;0
+17;Bermuda;c06;Veneer sheets;m3rw/m3p;0
 24;British Indian Ocean Territory;c06;Veneer sheets;m3rw/m3p;0
 36;Cayman Islands;c06;Veneer sheets;m3rw/m3p;0
 43;Cocos (Keeling) Islands;c06;Veneer sheets;m3rw/m3p;0
-70;French Southern and Antarctic Territories;c06;Veneer sheets;m3rw/m3p;0
+71;French Southern and Antarctic Territories;c06;Veneer sheets;m3rw/m3p;0
 85;Greenland;c06;Veneer sheets;m3rw/m3p;0
 86;Grenada;c06;Veneer sheets;m3rw/m3p;0
 88;Guam;c06;Veneer sheets;m3rw/m3p;0
 94;Holy See;c06;Veneer sheets;m3rw/m3p;0
-27;Marshall Islands;c06;Veneer sheets;m3rw/m3p;0
-42;Montserrat;c06;Veneer sheets;m3rw/m3p;0
-48;Nauru;c06;Veneer sheets;m3rw/m3p;0
-63;Northern Mariana Islands;c06;Veneer sheets;m3rw/m3p;0
-64;Pacific Islands Trust Territory;c06;Veneer sheets;m3rw/m3p;0
-72;Pitcairn Islands;c06;Veneer sheets;m3rw/m3p;0
-80;Palau;c06;Veneer sheets;m3rw/m3p;0
-87;Saint Helena, Ascension and Tristan da Cunha;c06;Veneer sheets;m3rw/m3p;0
-88;Saint Kitts and Nevis;c06;Veneer sheets;m3rw/m3p;0
-92;San Marino;c06;Veneer sheets;m3rw/m3p;0
+127;Marshall Islands;c06;Veneer sheets;m3rw/m3p;0
+142;Montserrat;c06;Veneer sheets;m3rw/m3p;0
+148;Nauru;c06;Veneer sheets;m3rw/m3p;0
+163;Northern Mariana Islands;c06;Veneer sheets;m3rw/m3p;0
+164;Pacific Islands Trust Territory;c06;Veneer sheets;m3rw/m3p;0
+172;Pitcairn Islands;c06;Veneer sheets;m3rw/m3p;0
+180;Palau;c06;Veneer sheets;m3rw/m3p;0
+187;Saint Helena, Ascension and Tristan da Cunha;c06;Veneer sheets;m3rw/m3p;0
+188;Saint Kitts and Nevis;c06;Veneer sheets;m3rw/m3p;0
+192;San Marino;c06;Veneer sheets;m3rw/m3p;0
 205;Western Sahara;c06;Veneer sheets;m3rw/m3p;0
-208;Tokelau;c06;Veneer sheets;m3rw/m3p;0
+218;Tokelau;c06;Veneer sheets;m3rw/m3p;0
 227;Tuvalu;c06;Veneer sheets;m3rw/m3p;0
 228;USSR;c06;Veneer sheets;m3rw/m3p;0
 242;Wake Island;c06;Veneer sheets;m3rw/m3p;0
@@ -1953,27 +1953,27 @@ area_code;area;com_code;item;unit;tcf
 277;South Sudan;c07;Plywood;m3rw/m3p;0
 5;American Samoa;c07;Plywood;m3rw/m3p;0
 8;Antigua and Barbuda;c07;Plywood;m3rw/m3p;0
-7;Bermuda;c07;Plywood;m3rw/m3p;0
+17;Bermuda;c07;Plywood;m3rw/m3p;0
 24;British Indian Ocean Territory;c07;Plywood;m3rw/m3p;0
 36;Cayman Islands;c07;Plywood;m3rw/m3p;0
 43;Cocos (Keeling) Islands;c07;Plywood;m3rw/m3p;0
-70;French Southern and Antarctic Territories;c07;Plywood;m3rw/m3p;0
+71;French Southern and Antarctic Territories;c07;Plywood;m3rw/m3p;0
 85;Greenland;c07;Plywood;m3rw/m3p;0
 86;Grenada;c07;Plywood;m3rw/m3p;0
 88;Guam;c07;Plywood;m3rw/m3p;0
 94;Holy See;c07;Plywood;m3rw/m3p;0
-27;Marshall Islands;c07;Plywood;m3rw/m3p;0
-42;Montserrat;c07;Plywood;m3rw/m3p;0
-48;Nauru;c07;Plywood;m3rw/m3p;0
-63;Northern Mariana Islands;c07;Plywood;m3rw/m3p;0
-64;Pacific Islands Trust Territory;c07;Plywood;m3rw/m3p;0
-72;Pitcairn Islands;c07;Plywood;m3rw/m3p;0
-80;Palau;c07;Plywood;m3rw/m3p;0
-87;Saint Helena, Ascension and Tristan da Cunha;c07;Plywood;m3rw/m3p;0
-88;Saint Kitts and Nevis;c07;Plywood;m3rw/m3p;0
-92;San Marino;c07;Plywood;m3rw/m3p;0
+127;Marshall Islands;c07;Plywood;m3rw/m3p;0
+142;Montserrat;c07;Plywood;m3rw/m3p;0
+148;Nauru;c07;Plywood;m3rw/m3p;0
+163;Northern Mariana Islands;c07;Plywood;m3rw/m3p;0
+164;Pacific Islands Trust Territory;c07;Plywood;m3rw/m3p;0
+172;Pitcairn Islands;c07;Plywood;m3rw/m3p;0
+180;Palau;c07;Plywood;m3rw/m3p;0
+187;Saint Helena, Ascension and Tristan da Cunha;c07;Plywood;m3rw/m3p;0
+188;Saint Kitts and Nevis;c07;Plywood;m3rw/m3p;0
+192;San Marino;c07;Plywood;m3rw/m3p;0
 205;Western Sahara;c07;Plywood;m3rw/m3p;0
-208;Tokelau;c07;Plywood;m3rw/m3p;0
+218;Tokelau;c07;Plywood;m3rw/m3p;0
 227;Tuvalu;c07;Plywood;m3rw/m3p;0
 228;USSR;c07;Plywood;m3rw/m3p;0
 242;Wake Island;c07;Plywood;m3rw/m3p;0
@@ -2202,27 +2202,27 @@ area_code;area;com_code;item;unit;tcf
 277;South Sudan;c08;Fibreboard;m3sw/m3p;0
 5;American Samoa;c08;Fibreboard;m3rw/m3p;0
 8;Antigua and Barbuda;c08;Fibreboard;m3rw/m3p;0
-7;Bermuda;c08;Fibreboard;m3rw/m3p;0
+17;Bermuda;c08;Fibreboard;m3rw/m3p;0
 24;British Indian Ocean Territory;c08;Fibreboard;m3rw/m3p;0
 36;Cayman Islands;c08;Fibreboard;m3rw/m3p;0
 43;Cocos (Keeling) Islands;c08;Fibreboard;m3rw/m3p;0
-70;French Southern and Antarctic Territories;c08;Fibreboard;m3rw/m3p;0
+71;French Southern and Antarctic Territories;c08;Fibreboard;m3rw/m3p;0
 85;Greenland;c08;Fibreboard;m3rw/m3p;0
 86;Grenada;c08;Fibreboard;m3rw/m3p;0
 88;Guam;c08;Fibreboard;m3rw/m3p;0
 94;Holy See;c08;Fibreboard;m3rw/m3p;0
-27;Marshall Islands;c08;Fibreboard;m3rw/m3p;0
-42;Montserrat;c08;Fibreboard;m3rw/m3p;0
-48;Nauru;c08;Fibreboard;m3rw/m3p;0
-63;Northern Mariana Islands;c08;Fibreboard;m3rw/m3p;0
-64;Pacific Islands Trust Territory;c08;Fibreboard;m3rw/m3p;0
-72;Pitcairn Islands;c08;Fibreboard;m3rw/m3p;0
-80;Palau;c08;Fibreboard;m3rw/m3p;0
-87;Saint Helena, Ascension and Tristan da Cunha;c08;Fibreboard;m3rw/m3p;0
-88;Saint Kitts and Nevis;c08;Fibreboard;m3rw/m3p;0
-92;San Marino;c08;Fibreboard;m3rw/m3p;0
+127;Marshall Islands;c08;Fibreboard;m3rw/m3p;0
+142;Montserrat;c08;Fibreboard;m3rw/m3p;0
+148;Nauru;c08;Fibreboard;m3rw/m3p;0
+163;Northern Mariana Islands;c08;Fibreboard;m3rw/m3p;0
+164;Pacific Islands Trust Territory;c08;Fibreboard;m3rw/m3p;0
+172;Pitcairn Islands;c08;Fibreboard;m3rw/m3p;0
+180;Palau;c08;Fibreboard;m3rw/m3p;0
+187;Saint Helena, Ascension and Tristan da Cunha;c08;Fibreboard;m3rw/m3p;0
+188;Saint Kitts and Nevis;c08;Fibreboard;m3rw/m3p;0
+192;San Marino;c08;Fibreboard;m3rw/m3p;0
 205;Western Sahara;c08;Fibreboard;m3rw/m3p;0
-208;Tokelau;c08;Fibreboard;m3rw/m3p;0
+218;Tokelau;c08;Fibreboard;m3rw/m3p;0
 227;Tuvalu;c08;Fibreboard;m3rw/m3p;0
 228;USSR;c08;Fibreboard;m3rw/m3p;0
 242;Wake Island;c08;Fibreboard;m3rw/m3p;0
@@ -2451,27 +2451,27 @@ area_code;area;com_code;item;unit;tcf
 277;South Sudan;c09;Particle board ;m3sw/m3p;0
 5;American Samoa;c09;Particle board;m3rw/m3p;0
 8;Antigua and Barbuda;c09;Particle board;m3rw/m3p;0
-7;Bermuda;c09;Particle board;m3rw/m3p;0
+17;Bermuda;c09;Particle board;m3rw/m3p;0
 24;British Indian Ocean Territory;c09;Particle board;m3rw/m3p;0
 36;Cayman Islands;c09;Particle board;m3rw/m3p;0
 43;Cocos (Keeling) Islands;c09;Particle board;m3rw/m3p;0
-70;French Southern and Antarctic Territories;c09;Particle board;m3rw/m3p;0
+71;French Southern and Antarctic Territories;c09;Particle board;m3rw/m3p;0
 85;Greenland;c09;Particle board;m3rw/m3p;0
 86;Grenada;c09;Particle board;m3rw/m3p;0
 88;Guam;c09;Particle board;m3rw/m3p;0
 94;Holy See;c09;Particle board;m3rw/m3p;0
-27;Marshall Islands;c09;Particle board;m3rw/m3p;0
-42;Montserrat;c09;Particle board;m3rw/m3p;0
-48;Nauru;c09;Particle board;m3rw/m3p;0
-63;Northern Mariana Islands;c09;Particle board;m3rw/m3p;0
-64;Pacific Islands Trust Territory;c09;Particle board;m3rw/m3p;0
-72;Pitcairn Islands;c09;Particle board;m3rw/m3p;0
-80;Palau;c09;Particle board;m3rw/m3p;0
-87;Saint Helena, Ascension and Tristan da Cunha;c09;Particle board;m3rw/m3p;0
-88;Saint Kitts and Nevis;c09;Particle board;m3rw/m3p;0
-92;San Marino;c09;Particle board;m3rw/m3p;0
+127;Marshall Islands;c09;Particle board;m3rw/m3p;0
+142;Montserrat;c09;Particle board;m3rw/m3p;0
+148;Nauru;c09;Particle board;m3rw/m3p;0
+163;Northern Mariana Islands;c09;Particle board;m3rw/m3p;0
+164;Pacific Islands Trust Territory;c09;Particle board;m3rw/m3p;0
+172;Pitcairn Islands;c09;Particle board;m3rw/m3p;0
+180;Palau;c09;Particle board;m3rw/m3p;0
+187;Saint Helena, Ascension and Tristan da Cunha;c09;Particle board;m3rw/m3p;0
+188;Saint Kitts and Nevis;c09;Particle board;m3rw/m3p;0
+192;San Marino;c09;Particle board;m3rw/m3p;0
 205;Western Sahara;c09;Particle board;m3rw/m3p;0
-208;Tokelau;c09;Particle board;m3rw/m3p;0
+218;Tokelau;c09;Particle board;m3rw/m3p;0
 227;Tuvalu;c09;Particle board;m3rw/m3p;0
 228;USSR;c09;Particle board;m3rw/m3p;0
 242;Wake Island;c09;Particle board;m3rw/m3p;0
@@ -2700,27 +2700,27 @@ area_code;area;com_code;item;unit;tcf
 277;South Sudan;c09;Particle board ;kg/m3p;0
 5;American Samoa;c09;Particle board;kg/m3p;0
 8;Antigua and Barbuda;c09;Particle board;kg/m3p;0
-7;Bermuda;c09;Particle board;kg/m3p;0
+17;Bermuda;c09;Particle board;kg/m3p;0
 24;British Indian Ocean Territory;c09;Particle board;kg/m3p;0
 36;Cayman Islands;c09;Particle board;kg/m3p;0
 43;Cocos (Keeling) Islands;c09;Particle board;kg/m3p;0
-70;French Southern and Antarctic Territories;c09;Particle board;kg/m3p;0
+71;French Southern and Antarctic Territories;c09;Particle board;kg/m3p;0
 85;Greenland;c09;Particle board;kg/m3p;0
 86;Grenada;c09;Particle board;kg/m3p;0
 88;Guam;c09;Particle board;kg/m3p;0
 94;Holy See;c09;Particle board;kg/m3p;0
-27;Marshall Islands;c09;Particle board;kg/m3p;0
-42;Montserrat;c09;Particle board;kg/m3p;0
-48;Nauru;c09;Particle board;kg/m3p;0
-63;Northern Mariana Islands;c09;Particle board;kg/m3p;0
-64;Pacific Islands Trust Territory;c09;Particle board;kg/m3p;0
-72;Pitcairn Islands;c09;Particle board;kg/m3p;0
-80;Palau;c09;Particle board;kg/m3p;0
-87;Saint Helena, Ascension and Tristan da Cunha;c09;Particle board;kg/m3p;0
-88;Saint Kitts and Nevis;c09;Particle board;kg/m3p;0
-92;San Marino;c09;Particle board;kg/m3p;0
+127;Marshall Islands;c09;Particle board;kg/m3p;0
+142;Montserrat;c09;Particle board;kg/m3p;0
+148;Nauru;c09;Particle board;kg/m3p;0
+163;Northern Mariana Islands;c09;Particle board;kg/m3p;0
+164;Pacific Islands Trust Territory;c09;Particle board;kg/m3p;0
+172;Pitcairn Islands;c09;Particle board;kg/m3p;0
+180;Palau;c09;Particle board;kg/m3p;0
+187;Saint Helena, Ascension and Tristan da Cunha;c09;Particle board;kg/m3p;0
+188;Saint Kitts and Nevis;c09;Particle board;kg/m3p;0
+192;San Marino;c09;Particle board;kg/m3p;0
 205;Western Sahara;c09;Particle board;kg/m3p;0
-208;Tokelau;c09;Particle board;kg/m3p;0
+218;Tokelau;c09;Particle board;kg/m3p;0
 227;Tuvalu;c09;Particle board;kg/m3p;0
 228;USSR;c09;Particle board;kg/m3p;0
 242;Wake Island;c09;Particle board;kg/m3p;0
@@ -2949,27 +2949,27 @@ area_code;area;com_code;item;unit;tcf
 277;South Sudan;c10;OSB;m3sw/m3p;0
 5;American Samoa;c10;OSB;m3sw/m3p;0
 8;Antigua and Barbuda;c10;OSB;m3sw/m3p;0
-7;Bermuda;c10;OSB;m3sw/m3p;0
+17;Bermuda;c10;OSB;m3sw/m3p;0
 24;British Indian Ocean Territory;c10;OSB;m3sw/m3p;0
 36;Cayman Islands;c10;OSB;m3sw/m3p;0
 43;Cocos (Keeling) Islands;c10;OSB;m3sw/m3p;0
-70;French Southern and Antarctic Territories;c10;OSB;m3sw/m3p;0
+71;French Southern and Antarctic Territories;c10;OSB;m3sw/m3p;0
 85;Greenland;c10;OSB;m3sw/m3p;0
 86;Grenada;c10;OSB;m3sw/m3p;0
 88;Guam;c10;OSB;m3sw/m3p;0
 94;Holy See;c10;OSB;m3sw/m3p;0
-27;Marshall Islands;c10;OSB;m3sw/m3p;0
-42;Montserrat;c10;OSB;m3sw/m3p;0
-48;Nauru;c10;OSB;m3sw/m3p;0
-63;Northern Mariana Islands;c10;OSB;m3sw/m3p;0
-64;Pacific Islands Trust Territory;c10;OSB;m3sw/m3p;0
-72;Pitcairn Islands;c10;OSB;m3sw/m3p;0
-80;Palau;c10;OSB;m3sw/m3p;0
-87;Saint Helena, Ascension and Tristan da Cunha;c10;OSB;m3sw/m3p;0
-88;Saint Kitts and Nevis;c10;OSB;m3sw/m3p;0
-92;San Marino;c10;OSB;m3sw/m3p;0
+127;Marshall Islands;c10;OSB;m3sw/m3p;0
+142;Montserrat;c10;OSB;m3sw/m3p;0
+148;Nauru;c10;OSB;m3sw/m3p;0
+163;Northern Mariana Islands;c10;OSB;m3sw/m3p;0
+164;Pacific Islands Trust Territory;c10;OSB;m3sw/m3p;0
+172;Pitcairn Islands;c10;OSB;m3sw/m3p;0
+180;Palau;c10;OSB;m3sw/m3p;0
+187;Saint Helena, Ascension and Tristan da Cunha;c10;OSB;m3sw/m3p;0
+188;Saint Kitts and Nevis;c10;OSB;m3sw/m3p;0
+192;San Marino;c10;OSB;m3sw/m3p;0
 205;Western Sahara;c10;OSB;m3sw/m3p;0
-208;Tokelau;c10;OSB;m3sw/m3p;0
+218;Tokelau;c10;OSB;m3sw/m3p;0
 227;Tuvalu;c10;OSB;m3sw/m3p;0
 228;USSR;c10;OSB;m3sw/m3p;0
 242;Wake Island;c10;OSB;m3sw/m3p;0
@@ -3198,27 +3198,27 @@ area_code;area;com_code;item;unit;tcf
 277;South Sudan;c10;OSB;kg/m3p;0
 5;American Samoa;c10;OSB;kg/m3p;0
 8;Antigua and Barbuda;c10;OSB;kg/m3p;0
-7;Bermuda;c10;OSB;kg/m3p;0
+17;Bermuda;c10;OSB;kg/m3p;0
 24;British Indian Ocean Territory;c10;OSB;kg/m3p;0
 36;Cayman Islands;c10;OSB;kg/m3p;0
 43;Cocos (Keeling) Islands;c10;OSB;kg/m3p;0
-70;French Southern and Antarctic Territories;c10;OSB;kg/m3p;0
+71;French Southern and Antarctic Territories;c10;OSB;kg/m3p;0
 85;Greenland;c10;OSB;kg/m3p;0
 86;Grenada;c10;OSB;kg/m3p;0
 88;Guam;c10;OSB;kg/m3p;0
 94;Holy See;c10;OSB;kg/m3p;0
-27;Marshall Islands;c10;OSB;kg/m3p;0
-42;Montserrat;c10;OSB;kg/m3p;0
-48;Nauru;c10;OSB;kg/m3p;0
-63;Northern Mariana Islands;c10;OSB;kg/m3p;0
-64;Pacific Islands Trust Territory;c10;OSB;kg/m3p;0
-72;Pitcairn Islands;c10;OSB;kg/m3p;0
-80;Palau;c10;OSB;kg/m3p;0
-87;Saint Helena, Ascension and Tristan da Cunha;c10;OSB;kg/m3p;0
-88;Saint Kitts and Nevis;c10;OSB;kg/m3p;0
-92;San Marino;c10;OSB;kg/m3p;0
+127;Marshall Islands;c10;OSB;kg/m3p;0
+142;Montserrat;c10;OSB;kg/m3p;0
+148;Nauru;c10;OSB;kg/m3p;0
+163;Northern Mariana Islands;c10;OSB;kg/m3p;0
+164;Pacific Islands Trust Territory;c10;OSB;kg/m3p;0
+172;Pitcairn Islands;c10;OSB;kg/m3p;0
+180;Palau;c10;OSB;kg/m3p;0
+187;Saint Helena, Ascension and Tristan da Cunha;c10;OSB;kg/m3p;0
+188;Saint Kitts and Nevis;c10;OSB;kg/m3p;0
+192;San Marino;c10;OSB;kg/m3p;0
 205;Western Sahara;c10;OSB;kg/m3p;0
-208;Tokelau;c10;OSB;kg/m3p;0
+218;Tokelau;c10;OSB;kg/m3p;0
 227;Tuvalu;c10;OSB;kg/m3p;0
 228;USSR;c10;OSB;kg/m3p;0
 242;Wake Island;c10;OSB;kg/m3p;0
@@ -3447,27 +3447,27 @@ area_code;area;com_code;item;unit;tcf
 277;South Sudan;c11;Wood pulp;m3sw/tonne;0
 5;American Samoa;c11;Wood pulp;m3sw/tonne;0
 8;Antigua and Barbuda;c11;Wood pulp;m3sw/tonne;0
-7;Bermuda;c11;Wood pulp;m3sw/tonne;0
+17;Bermuda;c11;Wood pulp;m3sw/tonne;0
 24;British Indian Ocean Territory;c11;Wood pulp;m3sw/tonne;0
 36;Cayman Islands;c11;Wood pulp;m3sw/tonne;0
 43;Cocos (Keeling) Islands;c11;Wood pulp;m3sw/tonne;0
-70;French Southern and Antarctic Territories;c11;Wood pulp;m3sw/tonne;0
+71;French Southern and Antarctic Territories;c11;Wood pulp;m3sw/tonne;0
 85;Greenland;c11;Wood pulp;m3sw/tonne;0
 86;Grenada;c11;Wood pulp;m3sw/tonne;0
 88;Guam;c11;Wood pulp;m3sw/tonne;0
 94;Holy See;c11;Wood pulp;m3sw/tonne;0
-27;Marshall Islands;c11;Wood pulp;m3sw/tonne;0
-42;Montserrat;c11;Wood pulp;m3sw/tonne;0
-48;Nauru;c11;Wood pulp;m3sw/tonne;0
-63;Northern Mariana Islands;c11;Wood pulp;m3sw/tonne;0
-64;Pacific Islands Trust Territory;c11;Wood pulp;m3sw/tonne;0
-72;Pitcairn Islands;c11;Wood pulp;m3sw/tonne;0
-80;Palau;c11;Wood pulp;m3sw/tonne;0
-87;Saint Helena, Ascension and Tristan da Cunha;c11;Wood pulp;m3sw/tonne;0
-88;Saint Kitts and Nevis;c11;Wood pulp;m3sw/tonne;0
-92;San Marino;c11;Wood pulp;m3sw/tonne;0
+127;Marshall Islands;c11;Wood pulp;m3sw/tonne;0
+142;Montserrat;c11;Wood pulp;m3sw/tonne;0
+148;Nauru;c11;Wood pulp;m3sw/tonne;0
+163;Northern Mariana Islands;c11;Wood pulp;m3sw/tonne;0
+164;Pacific Islands Trust Territory;c11;Wood pulp;m3sw/tonne;0
+172;Pitcairn Islands;c11;Wood pulp;m3sw/tonne;0
+180;Palau;c11;Wood pulp;m3sw/tonne;0
+187;Saint Helena, Ascension and Tristan da Cunha;c11;Wood pulp;m3sw/tonne;0
+188;Saint Kitts and Nevis;c11;Wood pulp;m3sw/tonne;0
+192;San Marino;c11;Wood pulp;m3sw/tonne;0
 205;Western Sahara;c11;Wood pulp;m3sw/tonne;0
-208;Tokelau;c11;Wood pulp;m3sw/tonne;0
+218;Tokelau;c11;Wood pulp;m3sw/tonne;0
 227;Tuvalu;c11;Wood pulp;m3sw/tonne;0
 228;USSR;c11;Wood pulp;m3sw/tonne;0
 242;Wake Island;c11;Wood pulp;m3sw/tonne;0
@@ -3696,27 +3696,27 @@ area_code;area;com_code;item;unit;tcf
 277;South Sudan;c12;Recovered paper;mt/mt;0
 5;American Samoa;c12;Recovered paper;mt/mt;0
 8;Antigua and Barbuda;c12;Recovered paper;mt/mt;0
-7;Bermuda;c12;Recovered paper;mt/mt;0
+17;Bermuda;c12;Recovered paper;mt/mt;0
 24;British Indian Ocean Territory;c12;Recovered paper;mt/mt;0
 36;Cayman Islands;c12;Recovered paper;mt/mt;0
 43;Cocos (Keeling) Islands;c12;Recovered paper;mt/mt;0
-70;French Southern and Antarctic Territories;c12;Recovered paper;mt/mt;0
+71;French Southern and Antarctic Territories;c12;Recovered paper;mt/mt;0
 85;Greenland;c12;Recovered paper;mt/mt;0
 86;Grenada;c12;Recovered paper;mt/mt;0
 88;Guam;c12;Recovered paper;mt/mt;0
 94;Holy See;c12;Recovered paper;mt/mt;0
-27;Marshall Islands;c12;Recovered paper;mt/mt;0
-42;Montserrat;c12;Recovered paper;mt/mt;0
-48;Nauru;c12;Recovered paper;mt/mt;0
-63;Northern Mariana Islands;c12;Recovered paper;mt/mt;0
-64;Pacific Islands Trust Territory;c12;Recovered paper;mt/mt;0
-72;Pitcairn Islands;c12;Recovered paper;mt/mt;0
-80;Palau;c12;Recovered paper;mt/mt;0
-87;Saint Helena, Ascension and Tristan da Cunha;c12;Recovered paper;mt/mt;0
-88;Saint Kitts and Nevis;c12;Recovered paper;mt/mt;0
-92;San Marino;c12;Recovered paper;mt/mt;0
+127;Marshall Islands;c12;Recovered paper;mt/mt;0
+142;Montserrat;c12;Recovered paper;mt/mt;0
+148;Nauru;c12;Recovered paper;mt/mt;0
+163;Northern Mariana Islands;c12;Recovered paper;mt/mt;0
+164;Pacific Islands Trust Territory;c12;Recovered paper;mt/mt;0
+172;Pitcairn Islands;c12;Recovered paper;mt/mt;0
+180;Palau;c12;Recovered paper;mt/mt;0
+187;Saint Helena, Ascension and Tristan da Cunha;c12;Recovered paper;mt/mt;0
+188;Saint Kitts and Nevis;c12;Recovered paper;mt/mt;0
+192;San Marino;c12;Recovered paper;mt/mt;0
 205;Western Sahara;c12;Recovered paper;mt/mt;0
-208;Tokelau;c12;Recovered paper;mt/mt;0
+218;Tokelau;c12;Recovered paper;mt/mt;0
 227;Tuvalu;c12;Recovered paper;mt/mt;0
 228;USSR;c12;Recovered paper;mt/mt;0
 242;Wake Island;c12;Recovered paper;mt/mt;0
@@ -3945,27 +3945,27 @@ area_code;area;com_code;item;unit;tcf
 277;South Sudan;c13;Recovered fibre pulp;m3sw/tonne;0
 5;American Samoa;c13;Recovered fibre pulp;m3sw/tonne;0
 8;Antigua and Barbuda;c13;Recovered fibre pulp;m3sw/tonne;0
-7;Bermuda;c13;Recovered fibre pulp;m3sw/tonne;0
+17;Bermuda;c13;Recovered fibre pulp;m3sw/tonne;0
 24;British Indian Ocean Territory;c13;Recovered fibre pulp;m3sw/tonne;0
 36;Cayman Islands;c13;Recovered fibre pulp;m3sw/tonne;0
 43;Cocos (Keeling) Islands;c13;Recovered fibre pulp;m3sw/tonne;0
-70;French Southern and Antarctic Territories;c13;Recovered fibre pulp;m3sw/tonne;0
+71;French Southern and Antarctic Territories;c13;Recovered fibre pulp;m3sw/tonne;0
 85;Greenland;c13;Recovered fibre pulp;m3sw/tonne;0
 86;Grenada;c13;Recovered fibre pulp;m3sw/tonne;0
 88;Guam;c13;Recovered fibre pulp;m3sw/tonne;0
 94;Holy See;c13;Recovered fibre pulp;m3sw/tonne;0
-27;Marshall Islands;c13;Recovered fibre pulp;m3sw/tonne;0
-42;Montserrat;c13;Recovered fibre pulp;m3sw/tonne;0
-48;Nauru;c13;Recovered fibre pulp;m3sw/tonne;0
-63;Northern Mariana Islands;c13;Recovered fibre pulp;m3sw/tonne;0
-64;Pacific Islands Trust Territory;c13;Recovered fibre pulp;m3sw/tonne;0
-72;Pitcairn Islands;c13;Recovered fibre pulp;m3sw/tonne;0
-80;Palau;c13;Recovered fibre pulp;m3sw/tonne;0
-87;Saint Helena, Ascension and Tristan da Cunha;c13;Recovered fibre pulp;m3sw/tonne;0
-88;Saint Kitts and Nevis;c13;Recovered fibre pulp;m3sw/tonne;0
-92;San Marino;c13;Recovered fibre pulp;m3sw/tonne;0
+127;Marshall Islands;c13;Recovered fibre pulp;m3sw/tonne;0
+142;Montserrat;c13;Recovered fibre pulp;m3sw/tonne;0
+148;Nauru;c13;Recovered fibre pulp;m3sw/tonne;0
+163;Northern Mariana Islands;c13;Recovered fibre pulp;m3sw/tonne;0
+164;Pacific Islands Trust Territory;c13;Recovered fibre pulp;m3sw/tonne;0
+172;Pitcairn Islands;c13;Recovered fibre pulp;m3sw/tonne;0
+180;Palau;c13;Recovered fibre pulp;m3sw/tonne;0
+187;Saint Helena, Ascension and Tristan da Cunha;c13;Recovered fibre pulp;m3sw/tonne;0
+188;Saint Kitts and Nevis;c13;Recovered fibre pulp;m3sw/tonne;0
+192;San Marino;c13;Recovered fibre pulp;m3sw/tonne;0
 205;Western Sahara;c13;Recovered fibre pulp;m3sw/tonne;0
-208;Tokelau;c13;Recovered fibre pulp;m3sw/tonne;0
+218;Tokelau;c13;Recovered fibre pulp;m3sw/tonne;0
 227;Tuvalu;c13;Recovered fibre pulp;m3sw/tonne;0
 228;USSR;c13;Recovered fibre pulp;m3sw/tonne;0
 242;Wake Island;c13;Recovered fibre pulp;m3sw/tonne;0
@@ -4194,27 +4194,27 @@ area_code;area;com_code;item;unit;tcf
 277;South Sudan;c14;Paper and Paperboard;m3sw/tonne;0
 5;American Samoa;c14;Paper and Paperboard;m3sw/tonne;0
 8;Antigua and Barbuda;c14;Paper and Paperboard;m3sw/tonne;0
-7;Bermuda;c14;Paper and Paperboard;m3sw/tonne;0
+17;Bermuda;c14;Paper and Paperboard;m3sw/tonne;0
 24;British Indian Ocean Territory;c14;Paper and Paperboard;m3sw/tonne;0
 36;Cayman Islands;c14;Paper and Paperboard;m3sw/tonne;0
 43;Cocos (Keeling) Islands;c14;Paper and Paperboard;m3sw/tonne;0
-70;French Southern and Antarctic Territories;c14;Paper and Paperboard;m3sw/tonne;0
+71;French Southern and Antarctic Territories;c14;Paper and Paperboard;m3sw/tonne;0
 85;Greenland;c14;Paper and Paperboard;m3sw/tonne;0
 86;Grenada;c14;Paper and Paperboard;m3sw/tonne;0
 88;Guam;c14;Paper and Paperboard;m3sw/tonne;0
 94;Holy See;c14;Paper and Paperboard;m3sw/tonne;0
-27;Marshall Islands;c14;Paper and Paperboard;m3sw/tonne;0
-42;Montserrat;c14;Paper and Paperboard;m3sw/tonne;0
-48;Nauru;c14;Paper and Paperboard;m3sw/tonne;0
-63;Northern Mariana Islands;c14;Paper and Paperboard;m3sw/tonne;0
-64;Pacific Islands Trust Territory;c14;Paper and Paperboard;m3sw/tonne;0
-72;Pitcairn Islands;c14;Paper and Paperboard;m3sw/tonne;0
-80;Palau;c14;Paper and Paperboard;m3sw/tonne;0
-87;Saint Helena, Ascension and Tristan da Cunha;c14;Paper and Paperboard;m3sw/tonne;0
-88;Saint Kitts and Nevis;c14;Paper and Paperboard;m3sw/tonne;0
-92;San Marino;c14;Paper and Paperboard;m3sw/tonne;0
+127;Marshall Islands;c14;Paper and Paperboard;m3sw/tonne;0
+142;Montserrat;c14;Paper and Paperboard;m3sw/tonne;0
+148;Nauru;c14;Paper and Paperboard;m3sw/tonne;0
+163;Northern Mariana Islands;c14;Paper and Paperboard;m3sw/tonne;0
+164;Pacific Islands Trust Territory;c14;Paper and Paperboard;m3sw/tonne;0
+172;Pitcairn Islands;c14;Paper and Paperboard;m3sw/tonne;0
+180;Palau;c14;Paper and Paperboard;m3sw/tonne;0
+187;Saint Helena, Ascension and Tristan da Cunha;c14;Paper and Paperboard;m3sw/tonne;0
+188;Saint Kitts and Nevis;c14;Paper and Paperboard;m3sw/tonne;0
+192;San Marino;c14;Paper and Paperboard;m3sw/tonne;0
 205;Western Sahara;c14;Paper and Paperboard;m3sw/tonne;0
-208;Tokelau;c14;Paper and Paperboard;m3sw/tonne;0
+218;Tokelau;c14;Paper and Paperboard;m3sw/tonne;0
 227;Tuvalu;c14;Paper and Paperboard;m3sw/tonne;0
 228;USSR;c14;Paper and Paperboard;m3sw/tonne;0
 242;Wake Island;c14;Paper and Paperboard;m3sw/tonne;0
@@ -4443,27 +4443,27 @@ area_code;area;com_code;item;unit;tcf
 277;South Sudan;c15;Wood pellets and other agglomerates;m3sw/tonne;0
 5;American Samoa;c15;Wood pellets and other agglomerates;m3sw/tonne;0
 8;Antigua and Barbuda;c15;Wood pellets and other agglomerates;m3sw/tonne;0
-7;Bermuda;c15;Wood pellets and other agglomerates;m3sw/tonne;0
+17;Bermuda;c15;Wood pellets and other agglomerates;m3sw/tonne;0
 24;British Indian Ocean Territory;c15;Wood pellets and other agglomerates;m3sw/tonne;0
 36;Cayman Islands;c15;Wood pellets and other agglomerates;m3sw/tonne;0
 43;Cocos (Keeling) Islands;c15;Wood pellets and other agglomerates;m3sw/tonne;0
-70;French Southern and Antarctic Territories;c15;Wood pellets and other agglomerates;m3sw/tonne;0
+71;French Southern and Antarctic Territories;c15;Wood pellets and other agglomerates;m3sw/tonne;0
 85;Greenland;c15;Wood pellets and other agglomerates;m3sw/tonne;0
 86;Grenada;c15;Wood pellets and other agglomerates;m3sw/tonne;0
 88;Guam;c15;Wood pellets and other agglomerates;m3sw/tonne;0
 94;Holy See;c15;Wood pellets and other agglomerates;m3sw/tonne;0
-27;Marshall Islands;c15;Wood pellets and other agglomerates;m3sw/tonne;0
-42;Montserrat;c15;Wood pellets and other agglomerates;m3sw/tonne;0
-48;Nauru;c15;Wood pellets and other agglomerates;m3sw/tonne;0
-63;Northern Mariana Islands;c15;Wood pellets and other agglomerates;m3sw/tonne;0
-64;Pacific Islands Trust Territory;c15;Wood pellets and other agglomerates;m3sw/tonne;0
-72;Pitcairn Islands;c15;Wood pellets and other agglomerates;m3sw/tonne;0
-80;Palau;c15;Wood pellets and other agglomerates;m3sw/tonne;0
-87;Saint Helena, Ascension and Tristan da Cunha;c15;Wood pellets and other agglomerates;m3sw/tonne;0
-88;Saint Kitts and Nevis;c15;Wood pellets and other agglomerates;m3sw/tonne;0
-92;San Marino;c15;Wood pellets and other agglomerates;m3sw/tonne;0
+127;Marshall Islands;c15;Wood pellets and other agglomerates;m3sw/tonne;0
+142;Montserrat;c15;Wood pellets and other agglomerates;m3sw/tonne;0
+148;Nauru;c15;Wood pellets and other agglomerates;m3sw/tonne;0
+163;Northern Mariana Islands;c15;Wood pellets and other agglomerates;m3sw/tonne;0
+164;Pacific Islands Trust Territory;c15;Wood pellets and other agglomerates;m3sw/tonne;0
+172;Pitcairn Islands;c15;Wood pellets and other agglomerates;m3sw/tonne;0
+180;Palau;c15;Wood pellets and other agglomerates;m3sw/tonne;0
+187;Saint Helena, Ascension and Tristan da Cunha;c15;Wood pellets and other agglomerates;m3sw/tonne;0
+188;Saint Kitts and Nevis;c15;Wood pellets and other agglomerates;m3sw/tonne;0
+192;San Marino;c15;Wood pellets and other agglomerates;m3sw/tonne;0
 205;Western Sahara;c15;Wood pellets and other agglomerates;m3sw/tonne;0
-208;Tokelau;c15;Wood pellets and other agglomerates;m3sw/tonne;0
+218;Tokelau;c15;Wood pellets and other agglomerates;m3sw/tonne;0
 227;Tuvalu;c15;Wood pellets and other agglomerates;m3sw/tonne;0
 228;USSR;c15;Wood pellets and other agglomerates;m3sw/tonne;0
 242;Wake Island;c15;Wood pellets and other agglomerates;m3sw/tonne;0
@@ -4692,27 +4692,27 @@ area_code;area;com_code;item;unit;tcf
 277;South Sudan;c16;Wood charcoal;m3sw/tonne;0
 5;American Samoa;c16;Wood charcoal;m3sw/tonne;0
 8;Antigua and Barbuda;c16;Wood charcoal;m3sw/tonne;0
-7;Bermuda;c16;Wood charcoal;m3sw/tonne;0
+17;Bermuda;c16;Wood charcoal;m3sw/tonne;0
 24;British Indian Ocean Territory;c16;Wood charcoal;m3sw/tonne;0
 36;Cayman Islands;c16;Wood charcoal;m3sw/tonne;0
 43;Cocos (Keeling) Islands;c16;Wood charcoal;m3sw/tonne;0
-70;French Southern and Antarctic Territories;c16;Wood charcoal;m3sw/tonne;0
+71;French Southern and Antarctic Territories;c16;Wood charcoal;m3sw/tonne;0
 85;Greenland;c16;Wood charcoal;m3sw/tonne;0
 86;Grenada;c16;Wood charcoal;m3sw/tonne;0
 88;Guam;c16;Wood charcoal;m3sw/tonne;0
 94;Holy See;c16;Wood charcoal;m3sw/tonne;0
-27;Marshall Islands;c16;Wood charcoal;m3sw/tonne;0
-42;Montserrat;c16;Wood charcoal;m3sw/tonne;0
-48;Nauru;c16;Wood charcoal;m3sw/tonne;0
-63;Northern Mariana Islands;c16;Wood charcoal;m3sw/tonne;0
-64;Pacific Islands Trust Territory;c16;Wood charcoal;m3sw/tonne;0
-72;Pitcairn Islands;c16;Wood charcoal;m3sw/tonne;0
-80;Palau;c16;Wood charcoal;m3sw/tonne;0
-87;Saint Helena, Ascension and Tristan da Cunha;c16;Wood charcoal;m3sw/tonne;0
-88;Saint Kitts and Nevis;c16;Wood charcoal;m3sw/tonne;0
-92;San Marino;c16;Wood charcoal;m3sw/tonne;0
+127;Marshall Islands;c16;Wood charcoal;m3sw/tonne;0
+142;Montserrat;c16;Wood charcoal;m3sw/tonne;0
+148;Nauru;c16;Wood charcoal;m3sw/tonne;0
+163;Northern Mariana Islands;c16;Wood charcoal;m3sw/tonne;0
+164;Pacific Islands Trust Territory;c16;Wood charcoal;m3sw/tonne;0
+172;Pitcairn Islands;c16;Wood charcoal;m3sw/tonne;0
+180;Palau;c16;Wood charcoal;m3sw/tonne;0
+187;Saint Helena, Ascension and Tristan da Cunha;c16;Wood charcoal;m3sw/tonne;0
+188;Saint Kitts and Nevis;c16;Wood charcoal;m3sw/tonne;0
+192;San Marino;c16;Wood charcoal;m3sw/tonne;0
 205;Western Sahara;c16;Wood charcoal;m3sw/tonne;0
-208;Tokelau;c16;Wood charcoal;m3sw/tonne;0
+218;Tokelau;c16;Wood charcoal;m3sw/tonne;0
 227;Tuvalu;c16;Wood charcoal;m3sw/tonne;0
 228;USSR;c16;Wood charcoal;m3sw/tonne;0
 242;Wake Island;c16;Wood charcoal;m3sw/tonne;0
@@ -4941,27 +4941,27 @@ area_code;area;com_code;item;unit;tcf
 277;South Sudan;c17;Wood chips and particles;m3p/m3sw;0
 5;American Samoa;c17;Wood chips and particles;m3p/m3sw;0
 8;Antigua and Barbuda;c17;Wood chips and particles;m3p/m3sw;0
-7;Bermuda;c17;Wood chips and particles;m3p/m3sw;0
+17;Bermuda;c17;Wood chips and particles;m3p/m3sw;0
 24;British Indian Ocean Territory;c17;Wood chips and particles;m3p/m3sw;0
 36;Cayman Islands;c17;Wood chips and particles;m3p/m3sw;0
 43;Cocos (Keeling) Islands;c17;Wood chips and particles;m3p/m3sw;0
-70;French Southern and Antarctic Territories;c17;Wood chips and particles;m3p/m3sw;0
+71;French Southern and Antarctic Territories;c17;Wood chips and particles;m3p/m3sw;0
 85;Greenland;c17;Wood chips and particles;m3p/m3sw;0
 86;Grenada;c17;Wood chips and particles;m3p/m3sw;0
 88;Guam;c17;Wood chips and particles;m3p/m3sw;0
 94;Holy See;c17;Wood chips and particles;m3p/m3sw;0
-27;Marshall Islands;c17;Wood chips and particles;m3p/m3sw;0
-42;Montserrat;c17;Wood chips and particles;m3p/m3sw;0
-48;Nauru;c17;Wood chips and particles;m3p/m3sw;0
-63;Northern Mariana Islands;c17;Wood chips and particles;m3p/m3sw;0
-64;Pacific Islands Trust Territory;c17;Wood chips and particles;m3p/m3sw;0
-72;Pitcairn Islands;c17;Wood chips and particles;m3p/m3sw;0
-80;Palau;c17;Wood chips and particles;m3p/m3sw;0
-87;Saint Helena, Ascension and Tristan da Cunha;c17;Wood chips and particles;m3p/m3sw;0
-88;Saint Kitts and Nevis;c17;Wood chips and particles;m3p/m3sw;0
-92;San Marino;c17;Wood chips and particles;m3p/m3sw;0
+127;Marshall Islands;c17;Wood chips and particles;m3p/m3sw;0
+142;Montserrat;c17;Wood chips and particles;m3p/m3sw;0
+148;Nauru;c17;Wood chips and particles;m3p/m3sw;0
+163;Northern Mariana Islands;c17;Wood chips and particles;m3p/m3sw;0
+164;Pacific Islands Trust Territory;c17;Wood chips and particles;m3p/m3sw;0
+172;Pitcairn Islands;c17;Wood chips and particles;m3p/m3sw;0
+180;Palau;c17;Wood chips and particles;m3p/m3sw;0
+187;Saint Helena, Ascension and Tristan da Cunha;c17;Wood chips and particles;m3p/m3sw;0
+188;Saint Kitts and Nevis;c17;Wood chips and particles;m3p/m3sw;0
+192;San Marino;c17;Wood chips and particles;m3p/m3sw;0
 205;Western Sahara;c17;Wood chips and particles;m3p/m3sw;0
-208;Tokelau;c17;Wood chips and particles;m3p/m3sw;0
+218;Tokelau;c17;Wood chips and particles;m3p/m3sw;0
 227;Tuvalu;c17;Wood chips and particles;m3p/m3sw;0
 228;USSR;c17;Wood chips and particles;m3p/m3sw;0
 242;Wake Island;c17;Wood chips and particles;m3p/m3sw;0
@@ -5190,27 +5190,27 @@ area_code;area;com_code;item;unit;tcf
 277;South Sudan;c18;Wood residues;m3p/m3sw;0
 5;American Samoa;c18;Wood residues;m3p/m3sw;0
 8;Antigua and Barbuda;c18;Wood residues;m3p/m3sw;0
-7;Bermuda;c18;Wood residues;m3p/m3sw;0
+17;Bermuda;c18;Wood residues;m3p/m3sw;0
 24;British Indian Ocean Territory;c18;Wood residues;m3p/m3sw;0
 36;Cayman Islands;c18;Wood residues;m3p/m3sw;0
 43;Cocos (Keeling) Islands;c18;Wood residues;m3p/m3sw;0
-70;French Southern and Antarctic Territories;c18;Wood residues;m3p/m3sw;0
+71;French Southern and Antarctic Territories;c18;Wood residues;m3p/m3sw;0
 85;Greenland;c18;Wood residues;m3p/m3sw;0
 86;Grenada;c18;Wood residues;m3p/m3sw;0
 88;Guam;c18;Wood residues;m3p/m3sw;0
 94;Holy See;c18;Wood residues;m3p/m3sw;0
-27;Marshall Islands;c18;Wood residues;m3p/m3sw;0
-42;Montserrat;c18;Wood residues;m3p/m3sw;0
-48;Nauru;c18;Wood residues;m3p/m3sw;0
-63;Northern Mariana Islands;c18;Wood residues;m3p/m3sw;0
-64;Pacific Islands Trust Territory;c18;Wood residues;m3p/m3sw;0
-72;Pitcairn Islands;c18;Wood residues;m3p/m3sw;0
-80;Palau;c18;Wood residues;m3p/m3sw;0
-87;Saint Helena, Ascension and Tristan da Cunha;c18;Wood residues;m3p/m3sw;0
-88;Saint Kitts and Nevis;c18;Wood residues;m3p/m3sw;0
-92;San Marino;c18;Wood residues;m3p/m3sw;0
+127;Marshall Islands;c18;Wood residues;m3p/m3sw;0
+142;Montserrat;c18;Wood residues;m3p/m3sw;0
+148;Nauru;c18;Wood residues;m3p/m3sw;0
+163;Northern Mariana Islands;c18;Wood residues;m3p/m3sw;0
+164;Pacific Islands Trust Territory;c18;Wood residues;m3p/m3sw;0
+172;Pitcairn Islands;c18;Wood residues;m3p/m3sw;0
+180;Palau;c18;Wood residues;m3p/m3sw;0
+187;Saint Helena, Ascension and Tristan da Cunha;c18;Wood residues;m3p/m3sw;0
+188;Saint Kitts and Nevis;c18;Wood residues;m3p/m3sw;0
+192;San Marino;c18;Wood residues;m3p/m3sw;0
 205;Western Sahara;c18;Wood residues;m3p/m3sw;0
-208;Tokelau;c18;Wood residues;m3p/m3sw;0
+218;Tokelau;c18;Wood residues;m3p/m3sw;0
 227;Tuvalu;c18;Wood residues;m3p/m3sw;0
 228;USSR;c18;Wood residues;m3p/m3sw;0
 242;Wake Island;c18;Wood residues;m3p/m3sw;0
@@ -5439,27 +5439,27 @@ area_code;area;com_code;item;unit;tcf
 277;South Sudan;c18;Wood residues;m3sw/tonne;0
 5;American Samoa;c18;Wood residues;m3sw/tonne;0
 8;Antigua and Barbuda;c18;Wood residues;m3sw/tonne;0
-7;Bermuda;c18;Wood residues;m3sw/tonne;0
+17;Bermuda;c18;Wood residues;m3sw/tonne;0
 24;British Indian Ocean Territory;c18;Wood residues;m3sw/tonne;0
 36;Cayman Islands;c18;Wood residues;m3sw/tonne;0
 43;Cocos (Keeling) Islands;c18;Wood residues;m3sw/tonne;0
-70;French Southern and Antarctic Territories;c18;Wood residues;m3sw/tonne;0
+71;French Southern and Antarctic Territories;c18;Wood residues;m3sw/tonne;0
 85;Greenland;c18;Wood residues;m3sw/tonne;0
 86;Grenada;c18;Wood residues;m3sw/tonne;0
 88;Guam;c18;Wood residues;m3sw/tonne;0
 94;Holy See;c18;Wood residues;m3sw/tonne;0
-27;Marshall Islands;c18;Wood residues;m3sw/tonne;0
-42;Montserrat;c18;Wood residues;m3sw/tonne;0
-48;Nauru;c18;Wood residues;m3sw/tonne;0
-63;Northern Mariana Islands;c18;Wood residues;m3sw/tonne;0
-64;Pacific Islands Trust Territory;c18;Wood residues;m3sw/tonne;0
-72;Pitcairn Islands;c18;Wood residues;m3sw/tonne;0
-80;Palau;c18;Wood residues;m3sw/tonne;0
-87;Saint Helena, Ascension and Tristan da Cunha;c18;Wood residues;m3sw/tonne;0
-88;Saint Kitts and Nevis;c18;Wood residues;m3sw/tonne;0
-92;San Marino;c18;Wood residues;m3sw/tonne;0
+127;Marshall Islands;c18;Wood residues;m3sw/tonne;0
+142;Montserrat;c18;Wood residues;m3sw/tonne;0
+148;Nauru;c18;Wood residues;m3sw/tonne;0
+163;Northern Mariana Islands;c18;Wood residues;m3sw/tonne;0
+164;Pacific Islands Trust Territory;c18;Wood residues;m3sw/tonne;0
+172;Pitcairn Islands;c18;Wood residues;m3sw/tonne;0
+180;Palau;c18;Wood residues;m3sw/tonne;0
+187;Saint Helena, Ascension and Tristan da Cunha;c18;Wood residues;m3sw/tonne;0
+188;Saint Kitts and Nevis;c18;Wood residues;m3sw/tonne;0
+192;San Marino;c18;Wood residues;m3sw/tonne;0
 205;Western Sahara;c18;Wood residues;m3sw/tonne;0
-208;Tokelau;c18;Wood residues;m3sw/tonne;0
+218;Tokelau;c18;Wood residues;m3sw/tonne;0
 227;Tuvalu;c18;Wood residues;m3sw/tonne;0
 228;USSR;c18;Wood residues;m3sw/tonne;0
 242;Wake Island;c18;Wood residues;m3sw/tonne;0

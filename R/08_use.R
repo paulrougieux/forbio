@@ -3,55 +3,56 @@ library("data.table")
 library("Matrix")
 source("R/01_tidy_functions.R")
 
-regions <- fread("inst/regions_full.csv")
-items <- fread("inst/items_full.csv")
+regions <- fread("inst/regions.csv")
+items <- fread("inst/products.csv")
 
-cbs <- readRDS("data/cbs_full.rds")
+cbs <- readRDS("data/cbs.rds")
 sup <- readRDS("data/sup.rds")
 
-use_items <- fread("inst/items_use.csv")
+use_items <- fread("inst/use.csv")
 
 
 # Use ---------------------------------------------------------------------
 
-# Add grazing to the CBS (later filled with feed requirements)
-grazing <- unique(cbs[, c("year", "area", "area_code")])
-grazing[, `:=`(item = "Grazing", item_code = 2001, comm_code = "c062")]
-cbs <- rbindlist(list(cbs, grazing), use.names = TRUE, fill = TRUE)
+## Add grazing to the CBS (later filled with feed requirements)
+#grazing <- unique(cbs[, c("year", "area", "area_code")])
+#grazing[, `:=`(item = "Grazing", item_code = 2001, comm_code = "c062")]
+#cbs <- rbindlist(list(cbs, grazing), use.names = TRUE, fill = TRUE)
 
 # Create long use table
 use <- merge(
-  cbs[, c("area_code", "area", "year", "item_code", "item", "production", "processing")],
-  use_items[item_code %in% unique(cbs$item_code)],
-  by = c("item_code", "item"), all = TRUE, allow.cartesian = TRUE)
+  cbs[, c("area_code", "area", "year", "com_code", "item", "production", "process")],
+  use_items[com_code %in% unique(cbs$com_code)],
+  by = c("com_code", "item"), all = TRUE, allow.cartesian = TRUE)
 use[, use := NA_real_]
 
 # 100% processes
-cat("Allocating crops going directly to a process. Applies to items:\n\t",
+cat("Allocating items going directly to a process.",
   paste0(unique(use[type == "100%", item]), collapse = "; "),
   ".\n", sep = "")
 use[type == "100%", `:=`(use = processing, processing = 0)]
+
 # Reduce processing in CBS
 cbs <- merge(cbs, use[type == "100%" & !is.na(use) & use > 0,
-  c("area_code", "year", "item_code", "use")],
-  by = c("area_code", "year", "item_code"), all.x = TRUE)
-cbs[!is.na(use), processing := na_sum(processing, -use)]
+  c("area_code", "year", "com_code", "use")],
+  by = c("area_code", "year", "com_code"), all.x = TRUE)
+cbs[!is.na(use), process := na_sum(process, -use)]
 cbs[, use := NULL]
 
-# Slaughtering
-cat("Allocating live animals to slaughtering use. Applies to items:\n\t",
-  paste0(unique(use[type == "slaughtering", item]), collapse = "; "),
-  ".\n", sep = "")
-use[type == "slaughtering", `:=`(use = processing, processing = 0)]
-# Reduce processing
-cbs <- merge(cbs, use[type == "slaughtering" & !is.na(use) & use > 0,
-  c("area_code", "year", "item_code", "use")],
-  by = c("area_code", "year", "item_code"), all.x = TRUE)
-cbs[!is.na(use), processing := na_sum(processing, -use)]
-cbs[, use := NULL]
+## Slaughtering
+#cat("Allocating live animals to slaughtering use. Applies to items:\n\t",
+#  paste0(unique(use[type == "slaughtering", item]), collapse = "; "),
+#  ".\n", sep = "")
+#use[type == "slaughtering", `:=`(use = processing, processing = 0)]
+## Reduce processing
+#cbs <- merge(cbs, use[type == "slaughtering" & !is.na(use) & use > 0,
+#  c("area_code", "year", "item_code", "use")],
+#  by = c("area_code", "year", "item_code"), all.x = TRUE)
+#cbs[!is.na(use), processing := na_sum(processing, -use)]
+#cbs[, use := NULL]
 
 
-# Crop TCF ---
+# ??? TCF ---
 
 cat("Allocating part of the TCF crops to TCF use. Applies to items:\n\t",
   paste0(unique(use[type == "TCF", item]), collapse = "; "),
