@@ -9,7 +9,7 @@ items <- fread("inst/products.csv")
 cbs <- readRDS("data/cbs.rds")
 sup <- readRDS("data/sup.rds")
 
-use_items <- fread("inst/use.csv")
+use_items <- fread("inst/use_corr.csv")
 
 
 # Use ---------------------------------------------------------------------
@@ -19,12 +19,22 @@ use_items <- fread("inst/use.csv")
 #grazing[, `:=`(item = "Grazing", item_code = 2001, comm_code = "c062")]
 #cbs <- rbindlist(list(cbs, grazing), use.names = TRUE, fill = TRUE)
 
+
 # Create long use table
+# I deleted "processing" because none in our cbs
+# but maybe we need to merge first "process" by com_code
+#use <- merge(
+#  cbs[, c("area_code", "area", "year", "com_code", "item", "production", "processing")],
+#  use_items[com_code %in% unique(cbs$com_code)],
+#  by = c("com_code", "item"), all = TRUE, allow.cartesian = TRUE)
+#use[, use := NA_real_]
+
 use <- merge(
-  cbs[, c("area_code", "area", "year", "com_code", "item", "production", "process")],
+  cbs[, c("area_code", "area", "year", "com_code", "item", "production")],
   use_items[com_code %in% unique(cbs$com_code)],
   by = c("com_code", "item"), all = TRUE, allow.cartesian = TRUE)
 use[, use := NA_real_]
+
 
 # 100% processes
 cat("Allocating items going directly to a process.",
@@ -36,7 +46,7 @@ use[type == "100%", `:=`(use = processing, processing = 0)]
 cbs <- merge(cbs, use[type == "100%" & !is.na(use) & use > 0,
   c("area_code", "year", "com_code", "use")],
   by = c("area_code", "year", "com_code"), all.x = TRUE)
-cbs[!is.na(use), process := na_sum(process, -use)]
+cbs[!is.na(use), processing := na_sum(processing, -use)]
 cbs[, use := NULL]
 
 ## Slaughtering
