@@ -1939,39 +1939,6 @@ c07,m3rw/m3p,OCE,243,Wallis and Futuna Islands,Plywood,1.79
 c07,m3rw/m3p,OCE,244,Samoa,Plywood,1.79
 c07,m3rw/m3p,XXX,252,Unspecified Area,Plywood,1.99151919183333
 c07,m3rw/m3p,XXX,254,Others (adjustment),Plywood,1.99151919183333
-c08,m3rw/m3p,AFR,187,"Saint Helena, Ascension and Tristan da Cunha",Fibreboard,
-c08,m3rw/m3p,AFR,205,Western Sahara,Fibreboard,
-c08,m3rw/m3p,ASI,24,British Indian Ocean Territory,Fibreboard,
-c08,m3rw/m3p,ASI,164,Pacific Islands Trust Territory,Fibreboard,
-c08,m3rw/m3p,ASI,228,USSR,Fibreboard,
-c08,m3rw/m3p,ASI,299,Palestine,Fibreboard,
-c08,m3rw/m3p,EUR,85,Greenland,Fibreboard,
-c08,m3rw/m3p,EUR,94,Holy See,Fibreboard,
-c08,m3rw/m3p,EUR,192,San Marino,Fibreboard,
-c08,m3rw/m3p,EUR,248,Yugoslav SFR,Fibreboard,
-c08,m3rw/m3p,LAM,8,Antigua and Barbuda,Fibreboard,
-c08,m3rw/m3p,LAM,17,Bermuda,Fibreboard,
-c08,m3rw/m3p,LAM,36,Cayman Islands,Fibreboard,
-c08,m3rw/m3p,LAM,86,Grenada,Fibreboard,
-c08,m3rw/m3p,LAM,142,Montserrat,Fibreboard,
-c08,m3rw/m3p,LAM,188,Saint Kitts and Nevis,Fibreboard,
-c08,m3rw/m3p,LAM,258,Anguilla,Fibreboard,
-c08,m3rw/m3p,LAM,279,Curaçao,Fibreboard,
-c08,m3rw/m3p,OCE,5,American Samoa,Fibreboard,
-c08,m3rw/m3p,OCE,43,Cocos (Keeling) Islands,Fibreboard,
-c08,m3rw/m3p,OCE,71,French Southern and Antarctic Territories,Fibreboard,
-c08,m3rw/m3p,OCE,88,Guam,Fibreboard,
-c08,m3rw/m3p,OCE,127,Marshall Islands,Fibreboard,
-c08,m3rw/m3p,OCE,148,Nauru,Fibreboard,
-c08,m3rw/m3p,OCE,163,Northern Mariana Islands,Fibreboard,
-c08,m3rw/m3p,OCE,172,Pitcairn Islands,Fibreboard,
-c08,m3rw/m3p,OCE,180,Palau,Fibreboard,
-c08,m3rw/m3p,OCE,218,Tokelau,Fibreboard,
-c08,m3rw/m3p,OCE,227,Tuvalu,Fibreboard,
-c08,m3rw/m3p,OCE,242,Wake Island,Fibreboard,
-c08,m3rw/m3p,OCE,243,Wallis and Futuna Islands,Fibreboard,
-c08,m3rw/m3p,XXX,252,Unspecified Area,Fibreboard,
-c08,m3rw/m3p,XXX,254,Others (adjustment),Fibreboard,
 c08,m3sw/m3p,AFR,4,Algeria,Fibreboard,1.81
 c08,m3sw/m3p,AFR,7,Angola,Fibreboard,1.81
 c08,m3sw/m3p,AFR,20,Botswana,Fibreboard,1.81
@@ -2010,12 +1977,14 @@ c08,m3sw/m3p,AFR,178,Eritrea,Fibreboard,1.81
 c08,m3sw/m3p,AFR,181,Zimbabwe,Fibreboard,1.81
 c08,m3sw/m3p,AFR,182,Reunion,Fibreboard,1.81
 c08,m3sw/m3p,AFR,184,Rwanda,Fibreboard,1.81
+c08,m3sw/m3p,AFR,187,"Saint Helena, Ascension and Tristan da Cunha",Fibreboard,1.81
 c08,m3sw/m3p,AFR,193,Sao Tome and Principe,Fibreboard,1.81
 c08,m3sw/m3p,AFR,195,Senegal,Fibreboard,1.81
 c08,m3sw/m3p,AFR,196,Seychelles,Fibreboard,1.81
 c08,m3sw/m3p,AFR,197,Sierra Leone,Fibreboard,1.81
 c08,m3sw/m3p,AFR,201,Somalia,Fibreboard,1.81
 c08,m3sw/m3p,AFR,202,South Africa,Fibreboard,1.81
+c08,m3sw/m3p,AFR,205,Western Sahara,Fibreboard,1.81
 c08,m3sw/m3p,AFR,209,Eswatini,Fibreboard,1.81
 c08,m3sw/m3p,AFR,215,United Republic of Tanzania,Fibreboard,1.81
 c08,m3sw/m3p,AFR,217,Togo,Fibreboard,1.81
@@ -2034,6 +2003,7 @@ c08,m3sw/m3p,ASI,2,Afghanistan,Fibreboard,1.8
 c08,m3sw/m3p,ASI,13,Bahrain,Fibreboard,1.8
 c08,m3sw/m3p,ASI,16,Bangladesh,Fibreboard,1.8
 c08,m3sw/m3p,ASI,18,Bhutan,Fibreboard,1.8
+c08,m3sw/m3p,ASI,24,British Indian Ocean Territory,Fibreboard,1.8
 c08,m3sw/m3p,ASI,26,Brunei Darussalam,Fibreboard,1.8
 c08,m3sw/m3p,ASI,28,Myanmar,Fibreboard,1.8
 c08,m3sw/m3p,ASI,38,Sri Lanka,Fibreboard,1.8
@@ -2061,6 +2031,7 @@ c08,m3sw/m3p,ASI,131,Malaysia,Fibreboard,1.8
 c08,m3sw/m3p,ASI,132,Maldives,Fibreboard,1.8
 c08,m3sw/m3p,ASI,141,Mongolia,Fibreboard,1.8
 c08,m3sw/m3p,ASI,149,Nepal,Fibreboard,1.8
+c08,m3sw/m3p,ASI,164,Pacific Islands Trust Territory,Fibreboard,1.8
 c08,m3sw/m3p,ASI,165,Pakistan,Fibreboard,1.8
 c08,m3sw/m3p,ASI,171,Philippines,Fibreboard,1.8
 c08,m3sw/m3p,ASI,176,Timor-Leste,Fibreboard,1.8
@@ -2075,9 +2046,11 @@ c08,m3sw/m3p,ASI,214,"China, Taiwan Province of",Fibreboard,1.8
 c08,m3sw/m3p,ASI,216,Thailand,Fibreboard,1.8
 c08,m3sw/m3p,ASI,221,Oman,Fibreboard,1.8
 c08,m3sw/m3p,ASI,225,United Arab Emirates,Fibreboard,1.8
+c08,m3sw/m3p,ASI,228,USSR,Fibreboard,1.8
 c08,m3sw/m3p,ASI,235,Uzbekistan,Fibreboard,1.8
 c08,m3sw/m3p,ASI,237,Viet Nam,Fibreboard,1.8
 c08,m3sw/m3p,ASI,249,Yemen,Fibreboard,1.8
+c08,m3sw/m3p,ASI,299,Palestine,Fibreboard,1.8
 c08,m3sw/m3p,EUR,3,Albania,Fibreboard,1.955
 c08,m3sw/m3p,EUR,6,Andorra,Fibreboard,1.955
 c08,m3sw/m3p,EUR,11,Austria,Fibreboard,1.955
@@ -2095,6 +2068,8 @@ c08,m3sw/m3p,EUR,79,Germany,Fibreboard,2.05
 c08,m3sw/m3p,EUR,80,Bosnia and Herzegovina,Fibreboard,1.955
 c08,m3sw/m3p,EUR,82,Gibraltar,Fibreboard,1.955
 c08,m3sw/m3p,EUR,84,Greece,Fibreboard,1.955
+c08,m3sw/m3p,EUR,85,Greenland,Fibreboard,1.955
+c08,m3sw/m3p,EUR,94,Holy See,Fibreboard,1.955
 c08,m3sw/m3p,EUR,97,Hungary,Fibreboard,1.955
 c08,m3sw/m3p,EUR,98,Croatia,Fibreboard,1.955
 c08,m3sw/m3p,EUR,99,Iceland,Fibreboard,1.955
@@ -2113,6 +2088,7 @@ c08,m3sw/m3p,EUR,173,Poland,Fibreboard,2.1
 c08,m3sw/m3p,EUR,174,Portugal,Fibreboard,1.9
 c08,m3sw/m3p,EUR,183,Romania,Fibreboard,1.955
 c08,m3sw/m3p,EUR,186,Serbia and Montenegro,Fibreboard,1.955
+c08,m3sw/m3p,EUR,192,San Marino,Fibreboard,1.955
 c08,m3sw/m3p,EUR,198,Slovenia,Fibreboard,1.8
 c08,m3sw/m3p,EUR,199,Slovakia,Fibreboard,1.955
 c08,m3sw/m3p,EUR,203,Spain,Fibreboard,1.75
@@ -2121,17 +2097,21 @@ c08,m3sw/m3p,EUR,211,Switzerland,Fibreboard,1.955
 c08,m3sw/m3p,EUR,223,Turkey,Fibreboard,1.955
 c08,m3sw/m3p,EUR,229,United Kingdom,Fibreboard,2.11
 c08,m3sw/m3p,EUR,230,Ukraine,Fibreboard,2.3
+c08,m3sw/m3p,EUR,248,Yugoslav SFR,Fibreboard,1.955
 c08,m3sw/m3p,EUR,255,Belgium,Fibreboard,1.955
 c08,m3sw/m3p,EUR,256,Luxembourg,Fibreboard,1.955
 c08,m3sw/m3p,EUR,272,Serbia,Fibreboard,1.955
 c08,m3sw/m3p,EUR,273,Montenegro,Fibreboard,1.955
+c08,m3sw/m3p,LAM,8,Antigua and Barbuda,Fibreboard,1.835
 c08,m3sw/m3p,LAM,9,Argentina,Fibreboard,1.835
 c08,m3sw/m3p,LAM,12,Bahamas,Fibreboard,1.835
 c08,m3sw/m3p,LAM,14,Barbados,Fibreboard,1.835
+c08,m3sw/m3p,LAM,17,Bermuda,Fibreboard,1.835
 c08,m3sw/m3p,LAM,19,Bolivia (Plurinational State of),Fibreboard,1.835
 c08,m3sw/m3p,LAM,21,Brazil,Fibreboard,1.835
 c08,m3sw/m3p,LAM,22,Aruba,Fibreboard,1.835
 c08,m3sw/m3p,LAM,23,Belize,Fibreboard,1.835
+c08,m3sw/m3p,LAM,36,Cayman Islands,Fibreboard,1.835
 c08,m3sw/m3p,LAM,40,Chile,Fibreboard,1.95
 c08,m3sw/m3p,LAM,44,Colombia,Fibreboard,1.835
 c08,m3sw/m3p,LAM,48,Costa Rica,Fibreboard,1.835
@@ -2142,6 +2122,7 @@ c08,m3sw/m3p,LAM,58,Ecuador,Fibreboard,1.835
 c08,m3sw/m3p,LAM,60,El Salvador,Fibreboard,1.835
 c08,m3sw/m3p,LAM,65,Falkland Islands (Malvinas),Fibreboard,1.835
 c08,m3sw/m3p,LAM,69,French Guyana,Fibreboard,1.835
+c08,m3sw/m3p,LAM,86,Grenada,Fibreboard,1.835
 c08,m3sw/m3p,LAM,87,Guadeloupe,Fibreboard,1.835
 c08,m3sw/m3p,LAM,89,Guatemala,Fibreboard,1.835
 c08,m3sw/m3p,LAM,91,Guyana,Fibreboard,1.835
@@ -2150,11 +2131,13 @@ c08,m3sw/m3p,LAM,95,Honduras,Fibreboard,1.835
 c08,m3sw/m3p,LAM,109,Jamaica,Fibreboard,1.835
 c08,m3sw/m3p,LAM,135,Martinique,Fibreboard,1.835
 c08,m3sw/m3p,LAM,138,Mexico,Fibreboard,1.9
+c08,m3sw/m3p,LAM,142,Montserrat,Fibreboard,1.835
 c08,m3sw/m3p,LAM,151,Netherlands Antilles,Fibreboard,1.835
 c08,m3sw/m3p,LAM,157,Nicaragua,Fibreboard,1.835
 c08,m3sw/m3p,LAM,166,Panama,Fibreboard,1.835
 c08,m3sw/m3p,LAM,169,Paraguay,Fibreboard,1.835
 c08,m3sw/m3p,LAM,170,Peru,Fibreboard,1.835
+c08,m3sw/m3p,LAM,188,Saint Kitts and Nevis,Fibreboard,1.835
 c08,m3sw/m3p,LAM,189,Saint Lucia,Fibreboard,1.835
 c08,m3sw/m3p,LAM,191,Saint Vincent and the Grenadines,Fibreboard,1.835
 c08,m3sw/m3p,LAM,207,Suriname,Fibreboard,1.835
@@ -2163,24 +2146,41 @@ c08,m3sw/m3p,LAM,224,Turks and Caicos Islands,Fibreboard,1.835
 c08,m3sw/m3p,LAM,234,Uruguay,Fibreboard,1.835
 c08,m3sw/m3p,LAM,236,Venezuela (Bolivarian Republic of),Fibreboard,1.835
 c08,m3sw/m3p,LAM,239,British Virgin Islands,Fibreboard,1.835
+c08,m3sw/m3p,LAM,258,Anguilla,Fibreboard,1.835
+c08,m3sw/m3p,LAM,279,Curaçao,Fibreboard,1.835
 c08,m3sw/m3p,NAM,33,Canada,Fibreboard,1.62
 c08,m3sw/m3p,NAM,190,Saint Pierre and Miquelon,Fibreboard,1.65
 c08,m3sw/m3p,NAM,231,United States of America,Fibreboard,1.675
+c08,m3sw/m3p,OCE,5,American Samoa,Fibreboard,1.81
 c08,m3sw/m3p,OCE,10,Australia,Fibreboard,1.81
 c08,m3sw/m3p,OCE,25,Solomon Islands,Fibreboard,1.81
 c08,m3sw/m3p,OCE,42,Christmas Island,Fibreboard,1.81
+c08,m3sw/m3p,OCE,43,Cocos (Keeling) Islands,Fibreboard,1.81
 c08,m3sw/m3p,OCE,47,Cook Islands,Fibreboard,1.81
 c08,m3sw/m3p,OCE,66,Fiji,Fibreboard,1.81
 c08,m3sw/m3p,OCE,70,French Polynesia,Fibreboard,1.81
+c08,m3sw/m3p,OCE,71,French Southern and Antarctic Territories,Fibreboard,1.81
 c08,m3sw/m3p,OCE,83,Kiribati,Fibreboard,1.81
+c08,m3sw/m3p,OCE,88,Guam,Fibreboard,1.81
+c08,m3sw/m3p,OCE,127,Marshall Islands,Fibreboard,1.81
 c08,m3sw/m3p,OCE,145,Micronesia (Federated States of),Fibreboard,1.81
+c08,m3sw/m3p,OCE,148,Nauru,Fibreboard,1.81
 c08,m3sw/m3p,OCE,153,New Caledonia,Fibreboard,1.81
 c08,m3sw/m3p,OCE,155,Vanuatu,Fibreboard,1.81
 c08,m3sw/m3p,OCE,156,New Zealand,Fibreboard,1.81
 c08,m3sw/m3p,OCE,160,Niue,Fibreboard,1.81
 c08,m3sw/m3p,OCE,161,Norfolk Island,Fibreboard,1.81
+c08,m3sw/m3p,OCE,163,Northern Mariana Islands,Fibreboard,1.81
 c08,m3sw/m3p,OCE,168,Papua New Guinea,Fibreboard,1.81
+c08,m3sw/m3p,OCE,172,Pitcairn Islands,Fibreboard,1.81
+c08,m3sw/m3p,OCE,180,Palau,Fibreboard,1.81
+c08,m3sw/m3p,OCE,218,Tokelau,Fibreboard,1.81
+c08,m3sw/m3p,OCE,227,Tuvalu,Fibreboard,1.81
+c08,m3sw/m3p,OCE,242,Wake Island,Fibreboard,1.81
+c08,m3sw/m3p,OCE,243,Wallis and Futuna Islands,Fibreboard,1.81
 c08,m3sw/m3p,OCE,244,Samoa,Fibreboard,1.81
+c08,m3sw/m3p,XXX,252,Unspecified Area,Fibreboard,1.81
+c08,m3sw/m3p,XXX,254,Others (adjustment),Fibreboard,1.81
 c09,kg/m3p,AFR,4,Algeria,Particle board,675.75
 c09,kg/m3p,AFR,7,Angola,Particle board,675.75
 c09,kg/m3p,AFR,20,Botswana,Particle board,675.75
@@ -2423,39 +2423,6 @@ c09,kg/m3p,OCE,243,Wallis and Futuna Islands,Particle board,675.75
 c09,kg/m3p,OCE,244,Samoa,Particle board,675.75
 c09,kg/m3p,XXX,252,Unspecified Area,Particle board,675.75
 c09,kg/m3p,XXX,254,Others (adjustment),Particle board,675.75
-c09,m3rw/m3p,AFR,187,"Saint Helena, Ascension and Tristan da Cunha",Particle board,
-c09,m3rw/m3p,AFR,205,Western Sahara,Particle board,
-c09,m3rw/m3p,ASI,24,British Indian Ocean Territory,Particle board,
-c09,m3rw/m3p,ASI,164,Pacific Islands Trust Territory,Particle board,
-c09,m3rw/m3p,ASI,228,USSR,Particle board,
-c09,m3rw/m3p,ASI,299,Palestine,Particle board,
-c09,m3rw/m3p,EUR,85,Greenland,Particle board,
-c09,m3rw/m3p,EUR,94,Holy See,Particle board,
-c09,m3rw/m3p,EUR,192,San Marino,Particle board,
-c09,m3rw/m3p,EUR,248,Yugoslav SFR,Particle board,
-c09,m3rw/m3p,LAM,8,Antigua and Barbuda,Particle board,
-c09,m3rw/m3p,LAM,17,Bermuda,Particle board,
-c09,m3rw/m3p,LAM,36,Cayman Islands,Particle board,
-c09,m3rw/m3p,LAM,86,Grenada,Particle board,
-c09,m3rw/m3p,LAM,142,Montserrat,Particle board,
-c09,m3rw/m3p,LAM,188,Saint Kitts and Nevis,Particle board,
-c09,m3rw/m3p,LAM,258,Anguilla,Particle board,
-c09,m3rw/m3p,LAM,279,Curaçao,Particle board,
-c09,m3rw/m3p,OCE,5,American Samoa,Particle board,
-c09,m3rw/m3p,OCE,43,Cocos (Keeling) Islands,Particle board,
-c09,m3rw/m3p,OCE,71,French Southern and Antarctic Territories,Particle board,
-c09,m3rw/m3p,OCE,88,Guam,Particle board,
-c09,m3rw/m3p,OCE,127,Marshall Islands,Particle board,
-c09,m3rw/m3p,OCE,148,Nauru,Particle board,
-c09,m3rw/m3p,OCE,163,Northern Mariana Islands,Particle board,
-c09,m3rw/m3p,OCE,172,Pitcairn Islands,Particle board,
-c09,m3rw/m3p,OCE,180,Palau,Particle board,
-c09,m3rw/m3p,OCE,218,Tokelau,Particle board,
-c09,m3rw/m3p,OCE,227,Tuvalu,Particle board,
-c09,m3rw/m3p,OCE,242,Wake Island,Particle board,
-c09,m3rw/m3p,OCE,243,Wallis and Futuna Islands,Particle board,
-c09,m3rw/m3p,XXX,252,Unspecified Area,Particle board,
-c09,m3rw/m3p,XXX,254,Others (adjustment),Particle board,
 c09,m3sw/m3p,AFR,4,Algeria,Particle board,1.5375
 c09,m3sw/m3p,AFR,7,Angola,Particle board,1.5375
 c09,m3sw/m3p,AFR,20,Botswana,Particle board,1.5375
@@ -2494,12 +2461,14 @@ c09,m3sw/m3p,AFR,178,Eritrea,Particle board,1.5375
 c09,m3sw/m3p,AFR,181,Zimbabwe,Particle board,1.5375
 c09,m3sw/m3p,AFR,182,Reunion,Particle board,1.5375
 c09,m3sw/m3p,AFR,184,Rwanda,Particle board,1.5375
+c09,m3sw/m3p,AFR,187,"Saint Helena, Ascension and Tristan da Cunha",Particle board,1.5375
 c09,m3sw/m3p,AFR,193,Sao Tome and Principe,Particle board,1.5375
 c09,m3sw/m3p,AFR,195,Senegal,Particle board,1.5375
 c09,m3sw/m3p,AFR,196,Seychelles,Particle board,1.5375
 c09,m3sw/m3p,AFR,197,Sierra Leone,Particle board,1.5375
 c09,m3sw/m3p,AFR,201,Somalia,Particle board,1.5375
 c09,m3sw/m3p,AFR,202,South Africa,Particle board,1.5375
+c09,m3sw/m3p,AFR,205,Western Sahara,Particle board,1.5375
 c09,m3sw/m3p,AFR,209,Eswatini,Particle board,1.5375
 c09,m3sw/m3p,AFR,215,United Republic of Tanzania,Particle board,1.5375
 c09,m3sw/m3p,AFR,217,Togo,Particle board,1.5375
@@ -2518,6 +2487,7 @@ c09,m3sw/m3p,ASI,2,Afghanistan,Particle board,1.53
 c09,m3sw/m3p,ASI,13,Bahrain,Particle board,1.53
 c09,m3sw/m3p,ASI,16,Bangladesh,Particle board,1.53
 c09,m3sw/m3p,ASI,18,Bhutan,Particle board,1.53
+c09,m3sw/m3p,ASI,24,British Indian Ocean Territory,Particle board,1.53
 c09,m3sw/m3p,ASI,26,Brunei Darussalam,Particle board,1.53
 c09,m3sw/m3p,ASI,28,Myanmar,Particle board,1.53
 c09,m3sw/m3p,ASI,38,Sri Lanka,Particle board,1.53
@@ -2545,6 +2515,7 @@ c09,m3sw/m3p,ASI,131,Malaysia,Particle board,1.4
 c09,m3sw/m3p,ASI,132,Maldives,Particle board,1.53
 c09,m3sw/m3p,ASI,141,Mongolia,Particle board,1.53
 c09,m3sw/m3p,ASI,149,Nepal,Particle board,1.53
+c09,m3sw/m3p,ASI,164,Pacific Islands Trust Territory,Particle board,1.53
 c09,m3sw/m3p,ASI,165,Pakistan,Particle board,1.53
 c09,m3sw/m3p,ASI,171,Philippines,Particle board,1.53
 c09,m3sw/m3p,ASI,176,Timor-Leste,Particle board,1.53
@@ -2559,9 +2530,11 @@ c09,m3sw/m3p,ASI,214,"China, Taiwan Province of",Particle board,1.53
 c09,m3sw/m3p,ASI,216,Thailand,Particle board,1.53
 c09,m3sw/m3p,ASI,221,Oman,Particle board,1.53
 c09,m3sw/m3p,ASI,225,United Arab Emirates,Particle board,1.53
+c09,m3sw/m3p,ASI,228,USSR,Particle board,1.53
 c09,m3sw/m3p,ASI,235,Uzbekistan,Particle board,1.53
 c09,m3sw/m3p,ASI,237,Viet Nam,Particle board,1.53
 c09,m3sw/m3p,ASI,249,Yemen,Particle board,1.53
+c09,m3sw/m3p,ASI,299,Palestine,Particle board,1.53
 c09,m3sw/m3p,EUR,3,Albania,Particle board,1.54
 c09,m3sw/m3p,EUR,6,Andorra,Particle board,1.54
 c09,m3sw/m3p,EUR,11,Austria,Particle board,1.54
@@ -2579,6 +2552,8 @@ c09,m3sw/m3p,EUR,79,Germany,Particle board,1.3
 c09,m3sw/m3p,EUR,80,Bosnia and Herzegovina,Particle board,1.54
 c09,m3sw/m3p,EUR,82,Gibraltar,Particle board,1.54
 c09,m3sw/m3p,EUR,84,Greece,Particle board,1.54
+c09,m3sw/m3p,EUR,85,Greenland,Particle board,1.54
+c09,m3sw/m3p,EUR,94,Holy See,Particle board,1.54
 c09,m3sw/m3p,EUR,97,Hungary,Particle board,1.54
 c09,m3sw/m3p,EUR,98,Croatia,Particle board,1.54
 c09,m3sw/m3p,EUR,99,Iceland,Particle board,1.54
@@ -2597,6 +2572,7 @@ c09,m3sw/m3p,EUR,173,Poland,Particle board,1.6
 c09,m3sw/m3p,EUR,174,Portugal,Particle board,1.4
 c09,m3sw/m3p,EUR,183,Romania,Particle board,1.54
 c09,m3sw/m3p,EUR,186,Serbia and Montenegro,Particle board,1.54
+c09,m3sw/m3p,EUR,192,San Marino,Particle board,1.54
 c09,m3sw/m3p,EUR,198,Slovenia,Particle board,1.54
 c09,m3sw/m3p,EUR,199,Slovakia,Particle board,1.2
 c09,m3sw/m3p,EUR,203,Spain,Particle board,1.4
@@ -2605,17 +2581,21 @@ c09,m3sw/m3p,EUR,211,Switzerland,Particle board,1.54
 c09,m3sw/m3p,EUR,223,Turkey,Particle board,1.54
 c09,m3sw/m3p,EUR,229,United Kingdom,Particle board,1.51
 c09,m3sw/m3p,EUR,230,Ukraine,Particle board,1.8
+c09,m3sw/m3p,EUR,248,Yugoslav SFR,Particle board,1.54
 c09,m3sw/m3p,EUR,255,Belgium,Particle board,1.54
 c09,m3sw/m3p,EUR,256,Luxembourg,Particle board,1.54
 c09,m3sw/m3p,EUR,272,Serbia,Particle board,1.54
 c09,m3sw/m3p,EUR,273,Montenegro,Particle board,1.54
+c09,m3sw/m3p,LAM,8,Antigua and Barbuda,Particle board,1.54
 c09,m3sw/m3p,LAM,9,Argentina,Particle board,1.54
 c09,m3sw/m3p,LAM,12,Bahamas,Particle board,1.54
 c09,m3sw/m3p,LAM,14,Barbados,Particle board,1.54
+c09,m3sw/m3p,LAM,17,Bermuda,Particle board,1.54
 c09,m3sw/m3p,LAM,19,Bolivia (Plurinational State of),Particle board,1.54
 c09,m3sw/m3p,LAM,21,Brazil,Particle board,1.54
 c09,m3sw/m3p,LAM,22,Aruba,Particle board,1.54
 c09,m3sw/m3p,LAM,23,Belize,Particle board,1.54
+c09,m3sw/m3p,LAM,36,Cayman Islands,Particle board,1.54
 c09,m3sw/m3p,LAM,40,Chile,Particle board,1.58
 c09,m3sw/m3p,LAM,44,Colombia,Particle board,1.54
 c09,m3sw/m3p,LAM,48,Costa Rica,Particle board,1.54
@@ -2626,6 +2606,7 @@ c09,m3sw/m3p,LAM,58,Ecuador,Particle board,1.54
 c09,m3sw/m3p,LAM,60,El Salvador,Particle board,1.54
 c09,m3sw/m3p,LAM,65,Falkland Islands (Malvinas),Particle board,1.54
 c09,m3sw/m3p,LAM,69,French Guyana,Particle board,1.54
+c09,m3sw/m3p,LAM,86,Grenada,Particle board,1.54
 c09,m3sw/m3p,LAM,87,Guadeloupe,Particle board,1.54
 c09,m3sw/m3p,LAM,89,Guatemala,Particle board,1.54
 c09,m3sw/m3p,LAM,91,Guyana,Particle board,1.54
@@ -2634,11 +2615,13 @@ c09,m3sw/m3p,LAM,95,Honduras,Particle board,1.54
 c09,m3sw/m3p,LAM,109,Jamaica,Particle board,1.54
 c09,m3sw/m3p,LAM,135,Martinique,Particle board,1.54
 c09,m3sw/m3p,LAM,138,Mexico,Particle board,1.5
+c09,m3sw/m3p,LAM,142,Montserrat,Particle board,1.54
 c09,m3sw/m3p,LAM,151,Netherlands Antilles,Particle board,1.54
 c09,m3sw/m3p,LAM,157,Nicaragua,Particle board,1.54
 c09,m3sw/m3p,LAM,166,Panama,Particle board,1.54
 c09,m3sw/m3p,LAM,169,Paraguay,Particle board,1.54
 c09,m3sw/m3p,LAM,170,Peru,Particle board,1.54
+c09,m3sw/m3p,LAM,188,Saint Kitts and Nevis,Particle board,1.54
 c09,m3sw/m3p,LAM,189,Saint Lucia,Particle board,1.54
 c09,m3sw/m3p,LAM,191,Saint Vincent and the Grenadines,Particle board,1.54
 c09,m3sw/m3p,LAM,207,Suriname,Particle board,1.54
@@ -2647,24 +2630,41 @@ c09,m3sw/m3p,LAM,224,Turks and Caicos Islands,Particle board,1.54
 c09,m3sw/m3p,LAM,234,Uruguay,Particle board,1.54
 c09,m3sw/m3p,LAM,236,Venezuela (Bolivarian Republic of),Particle board,1.54
 c09,m3sw/m3p,LAM,239,British Virgin Islands,Particle board,1.54
+c09,m3sw/m3p,LAM,258,Anguilla,Particle board,1.54
+c09,m3sw/m3p,LAM,279,Curaçao,Particle board,1.54
 c09,m3sw/m3p,NAM,33,Canada,Particle board,1.48
 c09,m3sw/m3p,NAM,190,Saint Pierre and Miquelon,Particle board,1.54
 c09,m3sw/m3p,NAM,231,United States of America,Particle board,1.6
+c09,m3sw/m3p,OCE,5,American Samoa,Particle board,1.5375
 c09,m3sw/m3p,OCE,10,Australia,Particle board,1.5375
 c09,m3sw/m3p,OCE,25,Solomon Islands,Particle board,1.5375
 c09,m3sw/m3p,OCE,42,Christmas Island,Particle board,1.5375
+c09,m3sw/m3p,OCE,43,Cocos (Keeling) Islands,Particle board,1.5375
 c09,m3sw/m3p,OCE,47,Cook Islands,Particle board,1.5375
 c09,m3sw/m3p,OCE,66,Fiji,Particle board,1.5375
 c09,m3sw/m3p,OCE,70,French Polynesia,Particle board,1.5375
+c09,m3sw/m3p,OCE,71,French Southern and Antarctic Territories,Particle board,1.5375
 c09,m3sw/m3p,OCE,83,Kiribati,Particle board,1.5375
+c09,m3sw/m3p,OCE,88,Guam,Particle board,1.5375
+c09,m3sw/m3p,OCE,127,Marshall Islands,Particle board,1.5375
 c09,m3sw/m3p,OCE,145,Micronesia (Federated States of),Particle board,1.5375
+c09,m3sw/m3p,OCE,148,Nauru,Particle board,1.5375
 c09,m3sw/m3p,OCE,153,New Caledonia,Particle board,1.5375
 c09,m3sw/m3p,OCE,155,Vanuatu,Particle board,1.5375
 c09,m3sw/m3p,OCE,156,New Zealand,Particle board,1.5375
 c09,m3sw/m3p,OCE,160,Niue,Particle board,1.5375
 c09,m3sw/m3p,OCE,161,Norfolk Island,Particle board,1.5375
+c09,m3sw/m3p,OCE,163,Northern Mariana Islands,Particle board,1.5375
 c09,m3sw/m3p,OCE,168,Papua New Guinea,Particle board,1.5375
+c09,m3sw/m3p,OCE,172,Pitcairn Islands,Particle board,1.5375
+c09,m3sw/m3p,OCE,180,Palau,Particle board,1.5375
+c09,m3sw/m3p,OCE,218,Tokelau,Particle board,1.5375
+c09,m3sw/m3p,OCE,227,Tuvalu,Particle board,1.5375
+c09,m3sw/m3p,OCE,242,Wake Island,Particle board,1.5375
+c09,m3sw/m3p,OCE,243,Wallis and Futuna Islands,Particle board,1.5375
 c09,m3sw/m3p,OCE,244,Samoa,Particle board,1.5375
+c09,m3sw/m3p,XXX,252,Unspecified Area,Particle board,1.5375
+c09,m3sw/m3p,XXX,254,Others (adjustment),Particle board,1.5375
 c10,kg/m3p,AFR,4,Algeria,OSB,587.5
 c10,kg/m3p,AFR,7,Angola,OSB,587.5
 c10,kg/m3p,AFR,20,Botswana,OSB,587.5
@@ -3391,248 +3391,6 @@ c11,m3sw/tonne,OCE,243,Wallis and Futuna Islands,Wood pulp,3.57666666666667
 c11,m3sw/tonne,OCE,244,Samoa,Wood pulp,3.57666666666667
 c11,m3sw/tonne,XXX,252,Unspecified Area,Wood pulp,3.57666666666667
 c11,m3sw/tonne,XXX,254,Others (adjustment),Wood pulp,3.57666666666667
-c12,mt/mt,AFR,4,Algeria,Recovered paper,1.21666666666667
-c12,mt/mt,AFR,7,Angola,Recovered paper,1.21666666666667
-c12,mt/mt,AFR,20,Botswana,Recovered paper,1.21666666666667
-c12,mt/mt,AFR,29,Burundi,Recovered paper,1.21666666666667
-c12,mt/mt,AFR,32,Cameroon,Recovered paper,1.21666666666667
-c12,mt/mt,AFR,35,Cabo Verde,Recovered paper,1.21666666666667
-c12,mt/mt,AFR,37,Central African Republic,Recovered paper,1.21666666666667
-c12,mt/mt,AFR,39,Chad,Recovered paper,1.21666666666667
-c12,mt/mt,AFR,45,Comoros,Recovered paper,1.21666666666667
-c12,mt/mt,AFR,46,Congo,Recovered paper,1.21666666666667
-c12,mt/mt,AFR,53,Benin,Recovered paper,1.21666666666667
-c12,mt/mt,AFR,59,Egypt,Recovered paper,1.21666666666667
-c12,mt/mt,AFR,61,Equatorial Guinea,Recovered paper,1.21666666666667
-c12,mt/mt,AFR,72,Djibouti,Recovered paper,1.21666666666667
-c12,mt/mt,AFR,74,Gabon,Recovered paper,1.21666666666667
-c12,mt/mt,AFR,75,Gambia,Recovered paper,1.21666666666667
-c12,mt/mt,AFR,81,Ghana,Recovered paper,1.21666666666667
-c12,mt/mt,AFR,90,Guinea,Recovered paper,1.21666666666667
-c12,mt/mt,AFR,107,Cote d'Ivoire,Recovered paper,1.21666666666667
-c12,mt/mt,AFR,114,Kenya,Recovered paper,1.21666666666667
-c12,mt/mt,AFR,122,Lesotho,Recovered paper,1.21666666666667
-c12,mt/mt,AFR,123,Liberia,Recovered paper,1.21666666666667
-c12,mt/mt,AFR,124,Libya,Recovered paper,1.21666666666667
-c12,mt/mt,AFR,129,Madagascar,Recovered paper,1.21666666666667
-c12,mt/mt,AFR,130,Malawi,Recovered paper,1.21666666666667
-c12,mt/mt,AFR,133,Mali,Recovered paper,1.21666666666667
-c12,mt/mt,AFR,136,Mauritania,Recovered paper,1.21666666666667
-c12,mt/mt,AFR,137,Mauritius,Recovered paper,1.21666666666667
-c12,mt/mt,AFR,143,Morocco,Recovered paper,1.21666666666667
-c12,mt/mt,AFR,144,Mozambique,Recovered paper,1.21666666666667
-c12,mt/mt,AFR,147,Namibia,Recovered paper,1.21666666666667
-c12,mt/mt,AFR,158,Niger,Recovered paper,1.21666666666667
-c12,mt/mt,AFR,159,Nigeria,Recovered paper,1.21666666666667
-c12,mt/mt,AFR,175,Guinea-Bissau,Recovered paper,1.21666666666667
-c12,mt/mt,AFR,178,Eritrea,Recovered paper,1.21666666666667
-c12,mt/mt,AFR,181,Zimbabwe,Recovered paper,1.21666666666667
-c12,mt/mt,AFR,182,Reunion,Recovered paper,1.21666666666667
-c12,mt/mt,AFR,184,Rwanda,Recovered paper,1.21666666666667
-c12,mt/mt,AFR,187,"Saint Helena, Ascension and Tristan da Cunha",Recovered paper,1.21666666666667
-c12,mt/mt,AFR,193,Sao Tome and Principe,Recovered paper,1.21666666666667
-c12,mt/mt,AFR,195,Senegal,Recovered paper,1.21666666666667
-c12,mt/mt,AFR,196,Seychelles,Recovered paper,1.21666666666667
-c12,mt/mt,AFR,197,Sierra Leone,Recovered paper,1.21666666666667
-c12,mt/mt,AFR,201,Somalia,Recovered paper,1.21666666666667
-c12,mt/mt,AFR,202,South Africa,Recovered paper,1.21666666666667
-c12,mt/mt,AFR,205,Western Sahara,Recovered paper,1.21666666666667
-c12,mt/mt,AFR,209,Eswatini,Recovered paper,1.21666666666667
-c12,mt/mt,AFR,215,United Republic of Tanzania,Recovered paper,1.21666666666667
-c12,mt/mt,AFR,217,Togo,Recovered paper,1.21666666666667
-c12,mt/mt,AFR,219,Tonga,Recovered paper,1.21666666666667
-c12,mt/mt,AFR,222,Tunisia,Recovered paper,1.21666666666667
-c12,mt/mt,AFR,226,Uganda,Recovered paper,1.21666666666667
-c12,mt/mt,AFR,233,Burkina Faso,Recovered paper,1.21666666666667
-c12,mt/mt,AFR,238,Ethiopia,Recovered paper,1.21666666666667
-c12,mt/mt,AFR,250,Democratic Republic of the Congo,Recovered paper,1.21666666666667
-c12,mt/mt,AFR,251,Zambia,Recovered paper,1.21666666666667
-c12,mt/mt,AFR,270,Mayotte,Recovered paper,1.21666666666667
-c12,mt/mt,AFR,276,Sudan,Recovered paper,1.21666666666667
-c12,mt/mt,AFR,277,South Sudan,Recovered paper,1.21666666666667
-c12,mt/mt,ASI,1,Armenia,Recovered paper,1.26
-c12,mt/mt,ASI,2,Afghanistan,Recovered paper,1.26
-c12,mt/mt,ASI,13,Bahrain,Recovered paper,1.26
-c12,mt/mt,ASI,16,Bangladesh,Recovered paper,1.26
-c12,mt/mt,ASI,18,Bhutan,Recovered paper,1.26
-c12,mt/mt,ASI,24,British Indian Ocean Territory,Recovered paper,1.26
-c12,mt/mt,ASI,26,Brunei Darussalam,Recovered paper,1.26
-c12,mt/mt,ASI,28,Myanmar,Recovered paper,1.26
-c12,mt/mt,ASI,38,Sri Lanka,Recovered paper,1.26
-c12,mt/mt,ASI,41,"China, mainland",Recovered paper,1.22
-c12,mt/mt,ASI,52,Azerbaijan,Recovered paper,1.26
-c12,mt/mt,ASI,73,Georgia,Recovered paper,1.26
-c12,mt/mt,ASI,96,"China, Hong Kong SAR",Recovered paper,1.26
-c12,mt/mt,ASI,100,India,Recovered paper,1.26
-c12,mt/mt,ASI,101,Indonesia,Recovered paper,1.25
-c12,mt/mt,ASI,102,Iran (Islamic Republic of),Recovered paper,1.26
-c12,mt/mt,ASI,103,Iraq,Recovered paper,1.26
-c12,mt/mt,ASI,105,Israel,Recovered paper,1.26
-c12,mt/mt,ASI,108,Kazakhstan,Recovered paper,1.26
-c12,mt/mt,ASI,110,Japan,Recovered paper,1.26
-c12,mt/mt,ASI,112,Jordan,Recovered paper,1.26
-c12,mt/mt,ASI,113,Kyrgyzstan,Recovered paper,1.26
-c12,mt/mt,ASI,115,Cambodia,Recovered paper,1.26
-c12,mt/mt,ASI,116,Democratic People's Republic of Korea,Recovered paper,1.26
-c12,mt/mt,ASI,117,Republic of Korea,Recovered paper,1.26
-c12,mt/mt,ASI,118,Kuwait,Recovered paper,1.26
-c12,mt/mt,ASI,120,Lao People's Democratic Republic,Recovered paper,1.26
-c12,mt/mt,ASI,121,Lebanon,Recovered paper,1.26
-c12,mt/mt,ASI,128,"China, Macao SAR",Recovered paper,1.26
-c12,mt/mt,ASI,131,Malaysia,Recovered paper,1.3
-c12,mt/mt,ASI,132,Maldives,Recovered paper,1.26
-c12,mt/mt,ASI,141,Mongolia,Recovered paper,1.26
-c12,mt/mt,ASI,149,Nepal,Recovered paper,1.26
-c12,mt/mt,ASI,164,Pacific Islands Trust Territory,Recovered paper,1.26
-c12,mt/mt,ASI,165,Pakistan,Recovered paper,1.26
-c12,mt/mt,ASI,171,Philippines,Recovered paper,1.26
-c12,mt/mt,ASI,176,Timor-Leste,Recovered paper,1.26
-c12,mt/mt,ASI,179,Qatar,Recovered paper,1.26
-c12,mt/mt,ASI,185,Russian Federation,Recovered paper,1.1
-c12,mt/mt,ASI,194,Saudi Arabia,Recovered paper,1.26
-c12,mt/mt,ASI,200,Singapore,Recovered paper,1.26
-c12,mt/mt,ASI,208,Tajikistan,Recovered paper,1.26
-c12,mt/mt,ASI,212,Syrian Arab Republic,Recovered paper,1.26
-c12,mt/mt,ASI,213,Turkmenistan,Recovered paper,1.26
-c12,mt/mt,ASI,214,"China, Taiwan Province of",Recovered paper,1.26
-c12,mt/mt,ASI,216,Thailand,Recovered paper,1.26
-c12,mt/mt,ASI,221,Oman,Recovered paper,1.26
-c12,mt/mt,ASI,225,United Arab Emirates,Recovered paper,1.26
-c12,mt/mt,ASI,228,USSR,Recovered paper,1.26
-c12,mt/mt,ASI,235,Uzbekistan,Recovered paper,1.26
-c12,mt/mt,ASI,237,Viet Nam,Recovered paper,1.26
-c12,mt/mt,ASI,249,Yemen,Recovered paper,1.26
-c12,mt/mt,ASI,299,Palestine,Recovered paper,1.26
-c12,mt/mt,EUR,3,Albania,Recovered paper,1.19
-c12,mt/mt,EUR,6,Andorra,Recovered paper,1.19
-c12,mt/mt,EUR,11,Austria,Recovered paper,1.19
-c12,mt/mt,EUR,15,Belgium-Luxembourg,Recovered paper,1.19
-c12,mt/mt,EUR,27,Bulgaria,Recovered paper,1.19
-c12,mt/mt,EUR,50,Cyprus,Recovered paper,1.19
-c12,mt/mt,EUR,51,Czechoslovakia,Recovered paper,1.19
-c12,mt/mt,EUR,54,Denmark,Recovered paper,1.19
-c12,mt/mt,EUR,57,Belarus,Recovered paper,1.19
-c12,mt/mt,EUR,63,Estonia,Recovered paper,1.19
-c12,mt/mt,EUR,64,Faroe Islands,Recovered paper,1.19
-c12,mt/mt,EUR,67,Finland,Recovered paper,1.3
-c12,mt/mt,EUR,68,France,Recovered paper,1.19
-c12,mt/mt,EUR,79,Germany,Recovered paper,1.2
-c12,mt/mt,EUR,80,Bosnia and Herzegovina,Recovered paper,1.19
-c12,mt/mt,EUR,82,Gibraltar,Recovered paper,1.19
-c12,mt/mt,EUR,84,Greece,Recovered paper,1.19
-c12,mt/mt,EUR,85,Greenland,Recovered paper,1.19
-c12,mt/mt,EUR,94,Holy See,Recovered paper,1.19
-c12,mt/mt,EUR,97,Hungary,Recovered paper,1.19
-c12,mt/mt,EUR,98,Croatia,Recovered paper,1.19
-c12,mt/mt,EUR,99,Iceland,Recovered paper,1.19
-c12,mt/mt,EUR,104,Ireland,Recovered paper,1.19
-c12,mt/mt,EUR,106,Italy,Recovered paper,1.19
-c12,mt/mt,EUR,119,Latvia,Recovered paper,1.19
-c12,mt/mt,EUR,125,Liechtenstein,Recovered paper,1.19
-c12,mt/mt,EUR,126,Lithuania,Recovered paper,1.19
-c12,mt/mt,EUR,134,Malta,Recovered paper,1.19
-c12,mt/mt,EUR,146,Republic of Moldova,Recovered paper,1.19
-c12,mt/mt,EUR,150,Netherlands,Recovered paper,1.19
-c12,mt/mt,EUR,154,North Macedonia,Recovered paper,1.19
-c12,mt/mt,EUR,162,Norway,Recovered paper,1.19
-c12,mt/mt,EUR,167,Czechia,Recovered paper,1.19
-c12,mt/mt,EUR,173,Poland,Recovered paper,1.1
-c12,mt/mt,EUR,174,Portugal,Recovered paper,1.19
-c12,mt/mt,EUR,183,Romania,Recovered paper,1.19
-c12,mt/mt,EUR,186,Serbia and Montenegro,Recovered paper,1.19
-c12,mt/mt,EUR,192,San Marino,Recovered paper,1.19
-c12,mt/mt,EUR,198,Slovenia,Recovered paper,1.2
-c12,mt/mt,EUR,199,Slovakia,Recovered paper,1.3
-c12,mt/mt,EUR,203,Spain,Recovered paper,1.15
-c12,mt/mt,EUR,210,Sweden,Recovered paper,1.19
-c12,mt/mt,EUR,211,Switzerland,Recovered paper,1.19
-c12,mt/mt,EUR,223,Turkey,Recovered paper,1.19
-c12,mt/mt,EUR,229,United Kingdom,Recovered paper,1.19
-c12,mt/mt,EUR,230,Ukraine,Recovered paper,1.19
-c12,mt/mt,EUR,248,Yugoslav SFR,Recovered paper,1.19
-c12,mt/mt,EUR,255,Belgium,Recovered paper,1.19
-c12,mt/mt,EUR,256,Luxembourg,Recovered paper,1.19
-c12,mt/mt,EUR,272,Serbia,Recovered paper,1.19
-c12,mt/mt,EUR,273,Montenegro,Recovered paper,1.19
-c12,mt/mt,LAM,8,Antigua and Barbuda,Recovered paper,1.2
-c12,mt/mt,LAM,9,Argentina,Recovered paper,1.2
-c12,mt/mt,LAM,12,Bahamas,Recovered paper,1.2
-c12,mt/mt,LAM,14,Barbados,Recovered paper,1.2
-c12,mt/mt,LAM,17,Bermuda,Recovered paper,1.2
-c12,mt/mt,LAM,19,Bolivia (Plurinational State of),Recovered paper,1.2
-c12,mt/mt,LAM,21,Brazil,Recovered paper,1.2
-c12,mt/mt,LAM,22,Aruba,Recovered paper,1.2
-c12,mt/mt,LAM,23,Belize,Recovered paper,1.2
-c12,mt/mt,LAM,36,Cayman Islands,Recovered paper,1.2
-c12,mt/mt,LAM,40,Chile,Recovered paper,1.2
-c12,mt/mt,LAM,44,Colombia,Recovered paper,1.2
-c12,mt/mt,LAM,48,Costa Rica,Recovered paper,1.2
-c12,mt/mt,LAM,49,Cuba,Recovered paper,1.2
-c12,mt/mt,LAM,55,Dominica,Recovered paper,1.2
-c12,mt/mt,LAM,56,Dominican Republic,Recovered paper,1.2
-c12,mt/mt,LAM,58,Ecuador,Recovered paper,1.2
-c12,mt/mt,LAM,60,El Salvador,Recovered paper,1.2
-c12,mt/mt,LAM,65,Falkland Islands (Malvinas),Recovered paper,1.2
-c12,mt/mt,LAM,69,French Guyana,Recovered paper,1.2
-c12,mt/mt,LAM,86,Grenada,Recovered paper,1.2
-c12,mt/mt,LAM,87,Guadeloupe,Recovered paper,1.2
-c12,mt/mt,LAM,89,Guatemala,Recovered paper,1.2
-c12,mt/mt,LAM,91,Guyana,Recovered paper,1.2
-c12,mt/mt,LAM,93,Haiti,Recovered paper,1.2
-c12,mt/mt,LAM,95,Honduras,Recovered paper,1.2
-c12,mt/mt,LAM,109,Jamaica,Recovered paper,1.2
-c12,mt/mt,LAM,135,Martinique,Recovered paper,1.2
-c12,mt/mt,LAM,138,Mexico,Recovered paper,1.2
-c12,mt/mt,LAM,142,Montserrat,Recovered paper,1.2
-c12,mt/mt,LAM,151,Netherlands Antilles,Recovered paper,1.2
-c12,mt/mt,LAM,157,Nicaragua,Recovered paper,1.2
-c12,mt/mt,LAM,166,Panama,Recovered paper,1.2
-c12,mt/mt,LAM,169,Paraguay,Recovered paper,1.2
-c12,mt/mt,LAM,170,Peru,Recovered paper,1.2
-c12,mt/mt,LAM,188,Saint Kitts and Nevis,Recovered paper,1.2
-c12,mt/mt,LAM,189,Saint Lucia,Recovered paper,1.2
-c12,mt/mt,LAM,191,Saint Vincent and the Grenadines,Recovered paper,1.2
-c12,mt/mt,LAM,207,Suriname,Recovered paper,1.2
-c12,mt/mt,LAM,220,Trinidad and Tobago,Recovered paper,1.2
-c12,mt/mt,LAM,224,Turks and Caicos Islands,Recovered paper,1.2
-c12,mt/mt,LAM,234,Uruguay,Recovered paper,1.2
-c12,mt/mt,LAM,236,Venezuela (Bolivarian Republic of),Recovered paper,1.2
-c12,mt/mt,LAM,239,British Virgin Islands,Recovered paper,1.2
-c12,mt/mt,LAM,258,Anguilla,Recovered paper,1.2
-c12,mt/mt,LAM,279,Curaçao,Recovered paper,1.2
-c12,mt/mt,NAM,33,Canada,Recovered paper,1.21666666666667
-c12,mt/mt,NAM,190,Saint Pierre and Miquelon,Recovered paper,1.21666666666667
-c12,mt/mt,NAM,231,United States of America,Recovered paper,1.21666666666667
-c12,mt/mt,OCE,5,American Samoa,Recovered paper,1.21666666666667
-c12,mt/mt,OCE,10,Australia,Recovered paper,1.21666666666667
-c12,mt/mt,OCE,25,Solomon Islands,Recovered paper,1.21666666666667
-c12,mt/mt,OCE,42,Christmas Island,Recovered paper,1.21666666666667
-c12,mt/mt,OCE,43,Cocos (Keeling) Islands,Recovered paper,1.21666666666667
-c12,mt/mt,OCE,47,Cook Islands,Recovered paper,1.21666666666667
-c12,mt/mt,OCE,66,Fiji,Recovered paper,1.21666666666667
-c12,mt/mt,OCE,70,French Polynesia,Recovered paper,1.21666666666667
-c12,mt/mt,OCE,71,French Southern and Antarctic Territories,Recovered paper,1.21666666666667
-c12,mt/mt,OCE,83,Kiribati,Recovered paper,1.21666666666667
-c12,mt/mt,OCE,88,Guam,Recovered paper,1.21666666666667
-c12,mt/mt,OCE,127,Marshall Islands,Recovered paper,1.21666666666667
-c12,mt/mt,OCE,145,Micronesia (Federated States of),Recovered paper,1.21666666666667
-c12,mt/mt,OCE,148,Nauru,Recovered paper,1.21666666666667
-c12,mt/mt,OCE,153,New Caledonia,Recovered paper,1.21666666666667
-c12,mt/mt,OCE,155,Vanuatu,Recovered paper,1.21666666666667
-c12,mt/mt,OCE,156,New Zealand,Recovered paper,1.21666666666667
-c12,mt/mt,OCE,160,Niue,Recovered paper,1.21666666666667
-c12,mt/mt,OCE,161,Norfolk Island,Recovered paper,1.21666666666667
-c12,mt/mt,OCE,163,Northern Mariana Islands,Recovered paper,1.21666666666667
-c12,mt/mt,OCE,168,Papua New Guinea,Recovered paper,1.21666666666667
-c12,mt/mt,OCE,172,Pitcairn Islands,Recovered paper,1.21666666666667
-c12,mt/mt,OCE,180,Palau,Recovered paper,1.21666666666667
-c12,mt/mt,OCE,218,Tokelau,Recovered paper,1.21666666666667
-c12,mt/mt,OCE,227,Tuvalu,Recovered paper,1.21666666666667
-c12,mt/mt,OCE,242,Wake Island,Recovered paper,1.21666666666667
-c12,mt/mt,OCE,243,Wallis and Futuna Islands,Recovered paper,1.21666666666667
-c12,mt/mt,OCE,244,Samoa,Recovered paper,1.21666666666667
-c12,mt/mt,XXX,252,Unspecified Area,Recovered paper,1.21666666666667
-c12,mt/mt,XXX,254,Others (adjustment),Recovered paper,1.21666666666667
 c13,m3sw/tonne,AFR,4,Algeria,Recovered fibre pulp,4.354
 c13,m3sw/tonne,AFR,7,Angola,Recovered fibre pulp,4.354
 c13,m3sw/tonne,AFR,20,Botswana,Recovered fibre pulp,4.354
@@ -3875,6 +3633,248 @@ c13,m3sw/tonne,OCE,243,Wallis and Futuna Islands,Recovered fibre pulp,4.354
 c13,m3sw/tonne,OCE,244,Samoa,Recovered fibre pulp,4.354
 c13,m3sw/tonne,XXX,252,Unspecified Area,Recovered fibre pulp,4.354
 c13,m3sw/tonne,XXX,254,Others (adjustment),Recovered fibre pulp,4.354
+c13,mt/mt,AFR,4,Algeria,Recovered fibre pulp,1.21666666666667
+c13,mt/mt,AFR,7,Angola,Recovered fibre pulp,1.21666666666667
+c13,mt/mt,AFR,20,Botswana,Recovered fibre pulp,1.21666666666667
+c13,mt/mt,AFR,29,Burundi,Recovered fibre pulp,1.21666666666667
+c13,mt/mt,AFR,32,Cameroon,Recovered fibre pulp,1.21666666666667
+c13,mt/mt,AFR,35,Cabo Verde,Recovered fibre pulp,1.21666666666667
+c13,mt/mt,AFR,37,Central African Republic,Recovered fibre pulp,1.21666666666667
+c13,mt/mt,AFR,39,Chad,Recovered fibre pulp,1.21666666666667
+c13,mt/mt,AFR,45,Comoros,Recovered fibre pulp,1.21666666666667
+c13,mt/mt,AFR,46,Congo,Recovered fibre pulp,1.21666666666667
+c13,mt/mt,AFR,53,Benin,Recovered fibre pulp,1.21666666666667
+c13,mt/mt,AFR,59,Egypt,Recovered fibre pulp,1.21666666666667
+c13,mt/mt,AFR,61,Equatorial Guinea,Recovered fibre pulp,1.21666666666667
+c13,mt/mt,AFR,72,Djibouti,Recovered fibre pulp,1.21666666666667
+c13,mt/mt,AFR,74,Gabon,Recovered fibre pulp,1.21666666666667
+c13,mt/mt,AFR,75,Gambia,Recovered fibre pulp,1.21666666666667
+c13,mt/mt,AFR,81,Ghana,Recovered fibre pulp,1.21666666666667
+c13,mt/mt,AFR,90,Guinea,Recovered fibre pulp,1.21666666666667
+c13,mt/mt,AFR,107,Cote d'Ivoire,Recovered fibre pulp,1.21666666666667
+c13,mt/mt,AFR,114,Kenya,Recovered fibre pulp,1.21666666666667
+c13,mt/mt,AFR,122,Lesotho,Recovered fibre pulp,1.21666666666667
+c13,mt/mt,AFR,123,Liberia,Recovered fibre pulp,1.21666666666667
+c13,mt/mt,AFR,124,Libya,Recovered fibre pulp,1.21666666666667
+c13,mt/mt,AFR,129,Madagascar,Recovered fibre pulp,1.21666666666667
+c13,mt/mt,AFR,130,Malawi,Recovered fibre pulp,1.21666666666667
+c13,mt/mt,AFR,133,Mali,Recovered fibre pulp,1.21666666666667
+c13,mt/mt,AFR,136,Mauritania,Recovered fibre pulp,1.21666666666667
+c13,mt/mt,AFR,137,Mauritius,Recovered fibre pulp,1.21666666666667
+c13,mt/mt,AFR,143,Morocco,Recovered fibre pulp,1.21666666666667
+c13,mt/mt,AFR,144,Mozambique,Recovered fibre pulp,1.21666666666667
+c13,mt/mt,AFR,147,Namibia,Recovered fibre pulp,1.21666666666667
+c13,mt/mt,AFR,158,Niger,Recovered fibre pulp,1.21666666666667
+c13,mt/mt,AFR,159,Nigeria,Recovered fibre pulp,1.21666666666667
+c13,mt/mt,AFR,175,Guinea-Bissau,Recovered fibre pulp,1.21666666666667
+c13,mt/mt,AFR,178,Eritrea,Recovered fibre pulp,1.21666666666667
+c13,mt/mt,AFR,181,Zimbabwe,Recovered fibre pulp,1.21666666666667
+c13,mt/mt,AFR,182,Reunion,Recovered fibre pulp,1.21666666666667
+c13,mt/mt,AFR,184,Rwanda,Recovered fibre pulp,1.21666666666667
+c13,mt/mt,AFR,187,"Saint Helena, Ascension and Tristan da Cunha",Recovered fibre pulp,1.21666666666667
+c13,mt/mt,AFR,193,Sao Tome and Principe,Recovered fibre pulp,1.21666666666667
+c13,mt/mt,AFR,195,Senegal,Recovered fibre pulp,1.21666666666667
+c13,mt/mt,AFR,196,Seychelles,Recovered fibre pulp,1.21666666666667
+c13,mt/mt,AFR,197,Sierra Leone,Recovered fibre pulp,1.21666666666667
+c13,mt/mt,AFR,201,Somalia,Recovered fibre pulp,1.21666666666667
+c13,mt/mt,AFR,202,South Africa,Recovered fibre pulp,1.21666666666667
+c13,mt/mt,AFR,205,Western Sahara,Recovered fibre pulp,1.21666666666667
+c13,mt/mt,AFR,209,Eswatini,Recovered fibre pulp,1.21666666666667
+c13,mt/mt,AFR,215,United Republic of Tanzania,Recovered fibre pulp,1.21666666666667
+c13,mt/mt,AFR,217,Togo,Recovered fibre pulp,1.21666666666667
+c13,mt/mt,AFR,219,Tonga,Recovered fibre pulp,1.21666666666667
+c13,mt/mt,AFR,222,Tunisia,Recovered fibre pulp,1.21666666666667
+c13,mt/mt,AFR,226,Uganda,Recovered fibre pulp,1.21666666666667
+c13,mt/mt,AFR,233,Burkina Faso,Recovered fibre pulp,1.21666666666667
+c13,mt/mt,AFR,238,Ethiopia,Recovered fibre pulp,1.21666666666667
+c13,mt/mt,AFR,250,Democratic Republic of the Congo,Recovered fibre pulp,1.21666666666667
+c13,mt/mt,AFR,251,Zambia,Recovered fibre pulp,1.21666666666667
+c13,mt/mt,AFR,270,Mayotte,Recovered fibre pulp,1.21666666666667
+c13,mt/mt,AFR,276,Sudan,Recovered fibre pulp,1.21666666666667
+c13,mt/mt,AFR,277,South Sudan,Recovered fibre pulp,1.21666666666667
+c13,mt/mt,ASI,1,Armenia,Recovered fibre pulp,1.26
+c13,mt/mt,ASI,2,Afghanistan,Recovered fibre pulp,1.26
+c13,mt/mt,ASI,13,Bahrain,Recovered fibre pulp,1.26
+c13,mt/mt,ASI,16,Bangladesh,Recovered fibre pulp,1.26
+c13,mt/mt,ASI,18,Bhutan,Recovered fibre pulp,1.26
+c13,mt/mt,ASI,24,British Indian Ocean Territory,Recovered fibre pulp,1.26
+c13,mt/mt,ASI,26,Brunei Darussalam,Recovered fibre pulp,1.26
+c13,mt/mt,ASI,28,Myanmar,Recovered fibre pulp,1.26
+c13,mt/mt,ASI,38,Sri Lanka,Recovered fibre pulp,1.26
+c13,mt/mt,ASI,41,"China, mainland",Recovered fibre pulp,1.22
+c13,mt/mt,ASI,52,Azerbaijan,Recovered fibre pulp,1.26
+c13,mt/mt,ASI,73,Georgia,Recovered fibre pulp,1.26
+c13,mt/mt,ASI,96,"China, Hong Kong SAR",Recovered fibre pulp,1.26
+c13,mt/mt,ASI,100,India,Recovered fibre pulp,1.26
+c13,mt/mt,ASI,101,Indonesia,Recovered fibre pulp,1.25
+c13,mt/mt,ASI,102,Iran (Islamic Republic of),Recovered fibre pulp,1.26
+c13,mt/mt,ASI,103,Iraq,Recovered fibre pulp,1.26
+c13,mt/mt,ASI,105,Israel,Recovered fibre pulp,1.26
+c13,mt/mt,ASI,108,Kazakhstan,Recovered fibre pulp,1.26
+c13,mt/mt,ASI,110,Japan,Recovered fibre pulp,1.26
+c13,mt/mt,ASI,112,Jordan,Recovered fibre pulp,1.26
+c13,mt/mt,ASI,113,Kyrgyzstan,Recovered fibre pulp,1.26
+c13,mt/mt,ASI,115,Cambodia,Recovered fibre pulp,1.26
+c13,mt/mt,ASI,116,Democratic People's Republic of Korea,Recovered fibre pulp,1.26
+c13,mt/mt,ASI,117,Republic of Korea,Recovered fibre pulp,1.26
+c13,mt/mt,ASI,118,Kuwait,Recovered fibre pulp,1.26
+c13,mt/mt,ASI,120,Lao People's Democratic Republic,Recovered fibre pulp,1.26
+c13,mt/mt,ASI,121,Lebanon,Recovered fibre pulp,1.26
+c13,mt/mt,ASI,128,"China, Macao SAR",Recovered fibre pulp,1.26
+c13,mt/mt,ASI,131,Malaysia,Recovered fibre pulp,1.3
+c13,mt/mt,ASI,132,Maldives,Recovered fibre pulp,1.26
+c13,mt/mt,ASI,141,Mongolia,Recovered fibre pulp,1.26
+c13,mt/mt,ASI,149,Nepal,Recovered fibre pulp,1.26
+c13,mt/mt,ASI,164,Pacific Islands Trust Territory,Recovered fibre pulp,1.26
+c13,mt/mt,ASI,165,Pakistan,Recovered fibre pulp,1.26
+c13,mt/mt,ASI,171,Philippines,Recovered fibre pulp,1.26
+c13,mt/mt,ASI,176,Timor-Leste,Recovered fibre pulp,1.26
+c13,mt/mt,ASI,179,Qatar,Recovered fibre pulp,1.26
+c13,mt/mt,ASI,185,Russian Federation,Recovered fibre pulp,1.1
+c13,mt/mt,ASI,194,Saudi Arabia,Recovered fibre pulp,1.26
+c13,mt/mt,ASI,200,Singapore,Recovered fibre pulp,1.26
+c13,mt/mt,ASI,208,Tajikistan,Recovered fibre pulp,1.26
+c13,mt/mt,ASI,212,Syrian Arab Republic,Recovered fibre pulp,1.26
+c13,mt/mt,ASI,213,Turkmenistan,Recovered fibre pulp,1.26
+c13,mt/mt,ASI,214,"China, Taiwan Province of",Recovered fibre pulp,1.26
+c13,mt/mt,ASI,216,Thailand,Recovered fibre pulp,1.26
+c13,mt/mt,ASI,221,Oman,Recovered fibre pulp,1.26
+c13,mt/mt,ASI,225,United Arab Emirates,Recovered fibre pulp,1.26
+c13,mt/mt,ASI,228,USSR,Recovered fibre pulp,1.26
+c13,mt/mt,ASI,235,Uzbekistan,Recovered fibre pulp,1.26
+c13,mt/mt,ASI,237,Viet Nam,Recovered fibre pulp,1.26
+c13,mt/mt,ASI,249,Yemen,Recovered fibre pulp,1.26
+c13,mt/mt,ASI,299,Palestine,Recovered fibre pulp,1.26
+c13,mt/mt,EUR,3,Albania,Recovered fibre pulp,1.19
+c13,mt/mt,EUR,6,Andorra,Recovered fibre pulp,1.19
+c13,mt/mt,EUR,11,Austria,Recovered fibre pulp,1.19
+c13,mt/mt,EUR,15,Belgium-Luxembourg,Recovered fibre pulp,1.19
+c13,mt/mt,EUR,27,Bulgaria,Recovered fibre pulp,1.19
+c13,mt/mt,EUR,50,Cyprus,Recovered fibre pulp,1.19
+c13,mt/mt,EUR,51,Czechoslovakia,Recovered fibre pulp,1.19
+c13,mt/mt,EUR,54,Denmark,Recovered fibre pulp,1.19
+c13,mt/mt,EUR,57,Belarus,Recovered fibre pulp,1.19
+c13,mt/mt,EUR,63,Estonia,Recovered fibre pulp,1.19
+c13,mt/mt,EUR,64,Faroe Islands,Recovered fibre pulp,1.19
+c13,mt/mt,EUR,67,Finland,Recovered fibre pulp,1.3
+c13,mt/mt,EUR,68,France,Recovered fibre pulp,1.19
+c13,mt/mt,EUR,79,Germany,Recovered fibre pulp,1.2
+c13,mt/mt,EUR,80,Bosnia and Herzegovina,Recovered fibre pulp,1.19
+c13,mt/mt,EUR,82,Gibraltar,Recovered fibre pulp,1.19
+c13,mt/mt,EUR,84,Greece,Recovered fibre pulp,1.19
+c13,mt/mt,EUR,85,Greenland,Recovered fibre pulp,1.19
+c13,mt/mt,EUR,94,Holy See,Recovered fibre pulp,1.19
+c13,mt/mt,EUR,97,Hungary,Recovered fibre pulp,1.19
+c13,mt/mt,EUR,98,Croatia,Recovered fibre pulp,1.19
+c13,mt/mt,EUR,99,Iceland,Recovered fibre pulp,1.19
+c13,mt/mt,EUR,104,Ireland,Recovered fibre pulp,1.19
+c13,mt/mt,EUR,106,Italy,Recovered fibre pulp,1.19
+c13,mt/mt,EUR,119,Latvia,Recovered fibre pulp,1.19
+c13,mt/mt,EUR,125,Liechtenstein,Recovered fibre pulp,1.19
+c13,mt/mt,EUR,126,Lithuania,Recovered fibre pulp,1.19
+c13,mt/mt,EUR,134,Malta,Recovered fibre pulp,1.19
+c13,mt/mt,EUR,146,Republic of Moldova,Recovered fibre pulp,1.19
+c13,mt/mt,EUR,150,Netherlands,Recovered fibre pulp,1.19
+c13,mt/mt,EUR,154,North Macedonia,Recovered fibre pulp,1.19
+c13,mt/mt,EUR,162,Norway,Recovered fibre pulp,1.19
+c13,mt/mt,EUR,167,Czechia,Recovered fibre pulp,1.19
+c13,mt/mt,EUR,173,Poland,Recovered fibre pulp,1.1
+c13,mt/mt,EUR,174,Portugal,Recovered fibre pulp,1.19
+c13,mt/mt,EUR,183,Romania,Recovered fibre pulp,1.19
+c13,mt/mt,EUR,186,Serbia and Montenegro,Recovered fibre pulp,1.19
+c13,mt/mt,EUR,192,San Marino,Recovered fibre pulp,1.19
+c13,mt/mt,EUR,198,Slovenia,Recovered fibre pulp,1.2
+c13,mt/mt,EUR,199,Slovakia,Recovered fibre pulp,1.3
+c13,mt/mt,EUR,203,Spain,Recovered fibre pulp,1.15
+c13,mt/mt,EUR,210,Sweden,Recovered fibre pulp,1.19
+c13,mt/mt,EUR,211,Switzerland,Recovered fibre pulp,1.19
+c13,mt/mt,EUR,223,Turkey,Recovered fibre pulp,1.19
+c13,mt/mt,EUR,229,United Kingdom,Recovered fibre pulp,1.19
+c13,mt/mt,EUR,230,Ukraine,Recovered fibre pulp,1.19
+c13,mt/mt,EUR,248,Yugoslav SFR,Recovered fibre pulp,1.19
+c13,mt/mt,EUR,255,Belgium,Recovered fibre pulp,1.19
+c13,mt/mt,EUR,256,Luxembourg,Recovered fibre pulp,1.19
+c13,mt/mt,EUR,272,Serbia,Recovered fibre pulp,1.19
+c13,mt/mt,EUR,273,Montenegro,Recovered fibre pulp,1.19
+c13,mt/mt,LAM,8,Antigua and Barbuda,Recovered fibre pulp,1.2
+c13,mt/mt,LAM,9,Argentina,Recovered fibre pulp,1.2
+c13,mt/mt,LAM,12,Bahamas,Recovered fibre pulp,1.2
+c13,mt/mt,LAM,14,Barbados,Recovered fibre pulp,1.2
+c13,mt/mt,LAM,17,Bermuda,Recovered fibre pulp,1.2
+c13,mt/mt,LAM,19,Bolivia (Plurinational State of),Recovered fibre pulp,1.2
+c13,mt/mt,LAM,21,Brazil,Recovered fibre pulp,1.2
+c13,mt/mt,LAM,22,Aruba,Recovered fibre pulp,1.2
+c13,mt/mt,LAM,23,Belize,Recovered fibre pulp,1.2
+c13,mt/mt,LAM,36,Cayman Islands,Recovered fibre pulp,1.2
+c13,mt/mt,LAM,40,Chile,Recovered fibre pulp,1.2
+c13,mt/mt,LAM,44,Colombia,Recovered fibre pulp,1.2
+c13,mt/mt,LAM,48,Costa Rica,Recovered fibre pulp,1.2
+c13,mt/mt,LAM,49,Cuba,Recovered fibre pulp,1.2
+c13,mt/mt,LAM,55,Dominica,Recovered fibre pulp,1.2
+c13,mt/mt,LAM,56,Dominican Republic,Recovered fibre pulp,1.2
+c13,mt/mt,LAM,58,Ecuador,Recovered fibre pulp,1.2
+c13,mt/mt,LAM,60,El Salvador,Recovered fibre pulp,1.2
+c13,mt/mt,LAM,65,Falkland Islands (Malvinas),Recovered fibre pulp,1.2
+c13,mt/mt,LAM,69,French Guyana,Recovered fibre pulp,1.2
+c13,mt/mt,LAM,86,Grenada,Recovered fibre pulp,1.2
+c13,mt/mt,LAM,87,Guadeloupe,Recovered fibre pulp,1.2
+c13,mt/mt,LAM,89,Guatemala,Recovered fibre pulp,1.2
+c13,mt/mt,LAM,91,Guyana,Recovered fibre pulp,1.2
+c13,mt/mt,LAM,93,Haiti,Recovered fibre pulp,1.2
+c13,mt/mt,LAM,95,Honduras,Recovered fibre pulp,1.2
+c13,mt/mt,LAM,109,Jamaica,Recovered fibre pulp,1.2
+c13,mt/mt,LAM,135,Martinique,Recovered fibre pulp,1.2
+c13,mt/mt,LAM,138,Mexico,Recovered fibre pulp,1.2
+c13,mt/mt,LAM,142,Montserrat,Recovered fibre pulp,1.2
+c13,mt/mt,LAM,151,Netherlands Antilles,Recovered fibre pulp,1.2
+c13,mt/mt,LAM,157,Nicaragua,Recovered fibre pulp,1.2
+c13,mt/mt,LAM,166,Panama,Recovered fibre pulp,1.2
+c13,mt/mt,LAM,169,Paraguay,Recovered fibre pulp,1.2
+c13,mt/mt,LAM,170,Peru,Recovered fibre pulp,1.2
+c13,mt/mt,LAM,188,Saint Kitts and Nevis,Recovered fibre pulp,1.2
+c13,mt/mt,LAM,189,Saint Lucia,Recovered fibre pulp,1.2
+c13,mt/mt,LAM,191,Saint Vincent and the Grenadines,Recovered fibre pulp,1.2
+c13,mt/mt,LAM,207,Suriname,Recovered fibre pulp,1.2
+c13,mt/mt,LAM,220,Trinidad and Tobago,Recovered fibre pulp,1.2
+c13,mt/mt,LAM,224,Turks and Caicos Islands,Recovered fibre pulp,1.2
+c13,mt/mt,LAM,234,Uruguay,Recovered fibre pulp,1.2
+c13,mt/mt,LAM,236,Venezuela (Bolivarian Republic of),Recovered fibre pulp,1.2
+c13,mt/mt,LAM,239,British Virgin Islands,Recovered fibre pulp,1.2
+c13,mt/mt,LAM,258,Anguilla,Recovered fibre pulp,1.2
+c13,mt/mt,LAM,279,Curaçao,Recovered fibre pulp,1.2
+c13,mt/mt,NAM,33,Canada,Recovered fibre pulp,1.21666666666667
+c13,mt/mt,NAM,190,Saint Pierre and Miquelon,Recovered fibre pulp,1.21666666666667
+c13,mt/mt,NAM,231,United States of America,Recovered fibre pulp,1.21666666666667
+c13,mt/mt,OCE,5,American Samoa,Recovered fibre pulp,1.21666666666667
+c13,mt/mt,OCE,10,Australia,Recovered fibre pulp,1.21666666666667
+c13,mt/mt,OCE,25,Solomon Islands,Recovered fibre pulp,1.21666666666667
+c13,mt/mt,OCE,42,Christmas Island,Recovered fibre pulp,1.21666666666667
+c13,mt/mt,OCE,43,Cocos (Keeling) Islands,Recovered fibre pulp,1.21666666666667
+c13,mt/mt,OCE,47,Cook Islands,Recovered fibre pulp,1.21666666666667
+c13,mt/mt,OCE,66,Fiji,Recovered fibre pulp,1.21666666666667
+c13,mt/mt,OCE,70,French Polynesia,Recovered fibre pulp,1.21666666666667
+c13,mt/mt,OCE,71,French Southern and Antarctic Territories,Recovered fibre pulp,1.21666666666667
+c13,mt/mt,OCE,83,Kiribati,Recovered fibre pulp,1.21666666666667
+c13,mt/mt,OCE,88,Guam,Recovered fibre pulp,1.21666666666667
+c13,mt/mt,OCE,127,Marshall Islands,Recovered fibre pulp,1.21666666666667
+c13,mt/mt,OCE,145,Micronesia (Federated States of),Recovered fibre pulp,1.21666666666667
+c13,mt/mt,OCE,148,Nauru,Recovered fibre pulp,1.21666666666667
+c13,mt/mt,OCE,153,New Caledonia,Recovered fibre pulp,1.21666666666667
+c13,mt/mt,OCE,155,Vanuatu,Recovered fibre pulp,1.21666666666667
+c13,mt/mt,OCE,156,New Zealand,Recovered fibre pulp,1.21666666666667
+c13,mt/mt,OCE,160,Niue,Recovered fibre pulp,1.21666666666667
+c13,mt/mt,OCE,161,Norfolk Island,Recovered fibre pulp,1.21666666666667
+c13,mt/mt,OCE,163,Northern Mariana Islands,Recovered fibre pulp,1.21666666666667
+c13,mt/mt,OCE,168,Papua New Guinea,Recovered fibre pulp,1.21666666666667
+c13,mt/mt,OCE,172,Pitcairn Islands,Recovered fibre pulp,1.21666666666667
+c13,mt/mt,OCE,180,Palau,Recovered fibre pulp,1.21666666666667
+c13,mt/mt,OCE,218,Tokelau,Recovered fibre pulp,1.21666666666667
+c13,mt/mt,OCE,227,Tuvalu,Recovered fibre pulp,1.21666666666667
+c13,mt/mt,OCE,242,Wake Island,Recovered fibre pulp,1.21666666666667
+c13,mt/mt,OCE,243,Wallis and Futuna Islands,Recovered fibre pulp,1.21666666666667
+c13,mt/mt,OCE,244,Samoa,Recovered fibre pulp,1.21666666666667
+c13,mt/mt,XXX,252,Unspecified Area,Recovered fibre pulp,1.21666666666667
+c13,mt/mt,XXX,254,Others (adjustment),Recovered fibre pulp,1.21666666666667
 c14,m3sw/tonne,AFR,4,Algeria,Paper and Paperboard,3.725
 c14,m3sw/tonne,AFR,7,Angola,Paper and Paperboard,3.725
 c14,m3sw/tonne,AFR,20,Botswana,Paper and Paperboard,3.725

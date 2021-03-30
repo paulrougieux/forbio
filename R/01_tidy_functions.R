@@ -285,33 +285,32 @@ fill_tcf <- function(y, z, C, cap = TRUE) {
 
 # Split processing use over processes
 split_tcf <- function(y, z, C, cap = TRUE) {
-  Z <- diag(z)
-  X <- C %*% Z
+  Y <- diag(y)
+  X <- t(C) %*% Y
   x <- rowSums(X)
   exists <- x != 0 # exists kicks 0 potential outputs
   if(!any(exists)) {return(NA)}
-  P <- ((X[exists, ] / x[exists]) * y[exists]) / C[exists,]
-  P[is.na(P)] <- 0
+  # P <- ((X[exists, ] / x[exists]) * y[exists]) / C[exists,]
+  # P[is.na(P)] <- 0
   # P <- .sparseDiagonal(sum(exists), y[exists] / x[exists]) %*%
   #   (X[exists, ] / x[exists]) %*% Z
   if(cap) {
     cap <- rep(0, length(z))
     exists_inp <- z != 0
-    if(class(P)!="numeric") {
-      cap[exists_inp] <- colSums(P)[exists_inp] / z[exists_inp]
-    } else {
-      cap[exists_inp] <- P[exists_inp] / z[exists_inp]
-    }
+    # if(class(X)!="numeric") {
+      cap[exists_inp] <- rowSums(X)[exists_inp] / z[exists_inp]
+    # } else {
+    #   cap[exists_inp] <- X[exists_inp] / z[exists_inp]
+    # }
     cap[cap < 1] <- 1 # Don't want to scale up
-    P <- P %*% diag(1 / cap)
+    X <- t(t(X) %*% diag(1 / cap))
   }
-  out <- data.table(as.matrix(P))
-  colnames(out) <- colnames(C)
-  out[, com_code_proc := rownames(C)[exists]]
+  out <- data.table(as.matrix(X))
+  rownames(out) <- colnames(C)
+  colnames(out) <- rownames(C)
+  out[, com_code_proc := rownames(out)]
   out <- melt(out, id.vars = "com_code_proc", variable.name = "com_code",
     variable.factor = FALSE)
-  out[, `:=`(com_code_proc = as.integer(item_code_proc),
-    com_code = as.integer(com_code))]
-
+  
   return(out)
 }
