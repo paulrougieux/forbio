@@ -10,27 +10,45 @@ items <- fread("inst/products.csv")
 cbs <- readRDS("data/cbs.rds")
 sup <- readRDS("data/sup.rds")
 
-use_items <- fread("inst/use.csv")
-
+#use_items <- fread("inst/use.csv")
+#ZR: use_new.csv excludes item_output, com_code_output.
+use_items <- fread("inst/use_new.csv")
 
 # Use ---------------------------------------------------------------------
 
-# split use in energy and nonenergy
+# Split use in energy and nonenergy
 cbs[, energy := 0]
 cbs <- rename(cbs, "processing" = "use")
 cbs[com_code %in% c("c15","c16"), `:=`(energy = processing, processing = 0)]
 cbs[com_code %in% c("c03","c17","c18"), `:=`(energy = processing * 0.5, processing = processing * 0.5)]
 
 
-# Create long use table
+# ZR: Create long use table
 use <- merge(
   cbs[, c("area_code", "area", "year", "com_code", "item", "production", "processing", "energy")],
-  use_items[, .(proc_code, process, com_code, item, share, type)],
+  use_items[, .(proc_code, process, com_code, item, type)],
   by = c("com_code", "item"), all = TRUE, allow.cartesian = TRUE)
 use[, use := NA_real_]
 
+# OLD FORBIO 
+# Create long use table
+# use <- merge(
+#   cbs[, c("area_code", "area", "year", "com_code", "item", "production", "processing", "energy")],
+#   use_items[, .(proc_code, process, com_code, item, share, type)],
+#   by = c("com_code", "item"), all = TRUE, allow.cartesian = TRUE)
+# use[, use := NA_real_]
 
-# TCF ---------------------------------------------------------
+# FABIO
+# use <- merge(
+#   cbs[, c("area_code", "area", "year", "item_code", "item", "production", "processing")],
+#   use_items[item_code %in% unique(cbs$item_code)],
+#   by = c("item_code", "item"), all = TRUE, allow.cartesian = TRUE)
+# use[, use := NA_real_]
+
+
+
+
+# TCF ---------------------------------------------------------------------
 
 cat("Allocating part of the TCF commodities to TCF use. Applies to items:\n\t",
   paste0(unique(use[type == "tcf", item]), collapse = "; "),
@@ -40,20 +58,56 @@ cat("Allocating part of the TCF commodities to TCF use. Applies to items:\n\t",
 
 tcf <- fread("inst/tcf_use_tidy.csv")
 tcf <- tcf[!(com_code=="c13" & unit=="m3sw/tonne")]
-tcf <- merge(use_items[type=="tcf", .(proc_code, process, com_code, item, com_code_output, item_output)], 
-  tcf[, .(com_code_output = com_code, item_output = item, area_code, area, unit, tcf)], 
-  by = c("com_code_output", "item_output"), all.x = TRUE)
 
-tcf_codes <- list(sort(unique(cbs$area_code[cbs$area_code %in% tcf$area_code])), sort(unique(tcf$com_code_output)),
-  sort(unique(tcf$com_code)))
+# ZR: Basically the same old use.csv with FABIO names and without "share"
+source_use <- fread("inst/source_use.csv")
+
+# ZR: Merge tcf and estimates_use to get a similar structure as FABIO's tcf_cbs
+tcf <- merge(source_use[type=="tcf", .(proc_code, process, source_code, source, com_code, item)], 
+             tcf[, .(com_code, item, area_code, area, unit, tcf)], 
+             by = c("com_code", "item"), all.x = TRUE)
+
+# # OLD FORBIO
+# tcf <- merge(use_items[type=="tcf", .(proc_code, process, com_code, item, com_code_output, item_output)], 
+#   tcf[, .(com_code_output = com_code, item_output = item, area_code, area, unit, tcf)], 
+#   by = c("com_code_output", "item_output"), all.x = TRUE)
+
+# ZR 
+tcf_codes <- list(sort(unique(cbs$area_code[cbs$area_code %in% tcf$area_code])), sort(unique(tcf$com_code)),
+  sort(unique(tcf$source_code)))
 Cs <- lapply(tcf_codes[[1]], function(x) {
-  out <- data.table::dcast(tcf[area_code == x], com_code_output ~ com_code, fill = 0,
+  out <- data.table::dcast(tcf[area_code == x], com_code ~ source_code, fill = 0,
     fun.aggregate = na_sum, value.var = "tcf")
-  setkey(out, com_code_output)
+  setkey(out, com_code)
   out <- as(out[, -1], "Matrix")
 })
 Cs <- lapply(Cs, `dimnames<-`, list(tcf_codes[[2]], tcf_codes[[3]]))
 names(Cs) <- tcf_codes[[1]]
+
+# # OLD FORBIO
+# tcf_codes <- list(sort(unique(cbs$area_code[cbs$area_code %in% tcf$area_code])), sort(unique(tcf$com_code_output)),
+#   sort(unique(tcf$com_code)))
+# Cs <- lapply(tcf_codes[[1]], function(x) {
+#   out <- data.table::dcast(tcf[area_code == x], com_code_output ~ com_code, fill = 0,
+#     fun.aggregate = na_sum, value.var = "tcf")
+#   setkey(out, com_code_output)
+#   out <- as(out[, -1], "Matrix")
+# })
+# Cs <- lapply(Cs, `dimnames<-`, list(tcf_codes[[2]], tcf_codes[[3]]))
+# names(Cs) <- tcf_codes[[1]]
+
+# FABIO
+# tcf_codes <- list(sort(unique(cbs$area_code[cbs$area_code %in% tcf_cbs$area_code])), sort(unique(tcf_cbs$item_code)),
+#                   sort(unique(tcf_cbs$source_code)))
+# Cs <- lapply(tcf_codes[[1]], function(x) {
+#   out <- data.table::dcast(tcf_cbs[area_code == x], item_code ~ source_code, fill = 0,
+#                            fun.aggregate = na_sum, value.var = "tcf")
+#   setkey(out, item_code)
+#   out <- as(out[, -1], "Matrix")
+# })
+# Cs <- lapply(Cs, `dimnames<-`, list(tcf_codes[[2]], tcf_codes[[3]]))
+#names(Cs) <- tcf_codes[[1]]
+
 
 tcf_data <- use[area_code %in% tcf_codes[[1]] &
   (com_code %in% tcf_codes[[2]] | com_code %in% tcf_codes[[3]]),
@@ -63,11 +117,29 @@ setkey(tcf_data, year, area_code, com_code)
 years <- sort(unique(tcf_data$year))
 areas <- tcf_codes[[1]]
 
+# FABIO
+# tcf_data <- use[area_code %in% tcf_codes[[1]] &
+#                   (item_code %in% c(tcf_codes[[2]]) | item_code %in% tcf_codes[[3]]),
+#                 .(year, area_code, item_code, production, processing)]
+# tcf_data <- tcf_data[!duplicated(tcf_data), ] # Duplicates from proc_code
+# setkey(tcf_data, year, area_code, item_code)
+# years <- sort(unique(tcf_data$year))
+# areas <- tcf_codes[[1]]
+
+
 # Production in processes
 output <- tcf_data[data.table(expand.grid(year = years,
   area_code = areas, com_code = tcf_codes[[2]]))]
 output[, `:=`(value = production, production = NULL, processing = NULL)]
 dt_replace(output, is.na, 0, cols = "value")
+
+# FABIO
+# # Production in processes
+# output <- tcf_data[data.table(expand.grid(year = years,
+#                                           area_code = areas, item_code = tcf_codes[[2]]))]
+# output[, `:=`(value = production, production = NULL, processing = NULL)]
+# dt_replace(output, is.na, 0, cols = "value")
+
 
 # Processing of source items
 input <- tcf_data[data.table(expand.grid(year = years,
@@ -75,11 +147,27 @@ input <- tcf_data[data.table(expand.grid(year = years,
 input[, `:=`(value = processing, production = NULL, processing = NULL)]
 dt_replace(input, is.na, 0, cols = "value")
 
+# FABIO
+# # Processing of source items
+# input <- tcf_data[data.table(expand.grid(year = years,
+#                                          area_code = areas, item_code = tcf_codes[[3]]))]
+# input[, `:=`(value = processing, production = NULL, processing = NULL)]
+# dt_replace(input, is.na, 0, cols = "value")
+
+
 # Processing per process - to fill
 results <- tcf_data[data.table(expand.grid(year = years, area_code = areas,
   com_code = tcf_codes[[2]], com_code_proc = tcf_codes[[3]]))]
 setkey(results, com_code, com_code_proc)
 results[, `:=`(value = 0, production = NULL, processing = NULL)]
+
+# FABIO
+# # Processing per process - to fill
+# results <- tcf_data[data.table(expand.grid(year = years, area_code = areas,
+#                                            item_code = tcf_codes[[3]], item_code_proc = tcf_codes[[2]]))]
+# setkey(results, item_code, item_code_proc)
+# results[, `:=`(value = 0, production = NULL, processing = NULL)]
+
 
 for(x in years) {
   cat(paste0("Calculating processing inputs for ", x, "."))
@@ -99,30 +187,88 @@ for(x in years) {
   }
 }
 
-results <- results[paste(com_code,com_code_proc) %in% 
-  paste(use_items$com_code_output, use_items$com_code)]
+# FABIO
+# for(x in years) {
+#   output_x <- output[year == x, ]
+#   input_x <- input[year == x, ]
+#   for(y in areas) {
+#     output_y <- output_x[area_code == y, value]
+#     input_y <- input_x[area_code == y, value]
+#     # Skip if no data is available
+#     if(all(output_y == 0) || all(input_y == 0)) {next}
+#     out <- split_tcf(y = output_y, z = input_y,
+#                      C = Cs[[as.character(y)]], cap = TRUE)
+#     if(length(out) == 1 && is.na(out)) {next}
+#     results[year == x & area_code == y &
+#               item_code_proc %in% out$item_code_proc, # item_code is always ordered
+#             value := out$value]
+#   }
+# }
+
+# ZR: Starting here is not working...
+results <- results[paste(com_code,com_code_proc) %in%
+  paste(use_items$com_code, use_items$source_code)]
 
 results[, `:=`(proc_code =
-  use_items$proc_code[match(paste(results$com_code_proc, results$com_code), 
-  paste(use_items$com_code, use_items$com_code_output))])]
+   use_items$proc_code[match(paste(results$com_code_proc, results$com_code),
+  paste(use_items$source_code, use_items$com_code))])]
+
+
+# OLD FORBIO
+# results <- results[paste(com_code,com_code_proc) %in% 
+#   paste(use_items$com_code_output, use_items$com_code)]
+# 
+# results[, `:=`(proc_code =
+#   use_items$proc_code[match(paste(results$com_code_proc, results$com_code), 
+#   paste(use_items$com_code, use_items$com_code_output))])]
+
+# FABIO 
+# results[, `:=`(proc_code =
+#                  tcf_cbs[match(results$item_code_proc, tcf_cbs$item_code), proc_code],
+#                item_code_proc = NULL)]
 
 # Add to use (per item and process)
 use <- merge(use, results[, .(year, area_code, proc_code, com_code = com_code_proc, value)],
-  by = c("year", "area_code", "proc_code", "com_code"), all.x = TRUE)
+             by = c("year", "area_code", "proc_code", "com_code"), all.x = TRUE)
 use[!is.na(value), `:=`(use = value)]
 use[, value := NULL]
 
+# FABIO 
+# # Add to use (per item and process)
+# use <- merge(use, results,
+#              by = c("year", "area_code", "proc_code", "item_code"), all.x = TRUE)
+# use[!is.na(value), `:=`(use = value)]
+# use[, value := NULL]
+
+# ZR
 # Subtract from cbs processing (per item)
 cbs <- merge(cbs, results[, list(value = na_sum(value)),
-  by = c("year", "area_code", "com_code_proc")],
-  by.x = c("area_code", "year", "com_code"), 
-  by.y = c("area_code", "year", "com_code_proc"), all.x = TRUE)
+                          by = c("year", "area_code", "com_code")],
+             by = c("area_code", "year", "com_code"), all.x = TRUE)
 cbs[!is.na(value), processing := round(na_sum(processing, -value))]
 cbs[, value := NULL]
 
+# # Subtract from cbs processing (per item)
+# cbs <- merge(cbs, results[, list(value = na_sum(value)),
+#   by = c("year", "area_code", "com_code_proc")],
+#   by.x = c("area_code", "year", "com_code"), 
+#   by.y = c("area_code", "year", "com_code_proc"), all.x = TRUE)
+# cbs[!is.na(value), processing := round(na_sum(processing, -value))]
+# cbs[, value := NULL]
+
+# FABIO 
+# # Subtract from cbs processing (per item)
+# cbs <- merge(cbs, results[, list(value = na_sum(value)),
+#                           by = c("year", "area_code", "item_code")],
+#              by = c("area_code", "year", "item_code"), all.x = TRUE)
+# cbs[!is.na(value), processing := round(na_sum(processing, -value))]
+# cbs[, value := NULL]
 
 rm(tcf, tcf_codes, tcf_data, years, areas, out,
-  results, Cs, input, output, input_x, output_x, input_y, output_y)
+   results, Cs, input, output, input_x, output_x, input_y, output_y)
+
+# rm(tcf, tcf_codes, tcf_data, years, areas, out,
+  # results, Cs, input, output, input_x, output_x, input_y, output_y)
 
 
 
@@ -133,6 +279,7 @@ rm(tcf, tcf_codes, tcf_data, years, areas, out,
 
 
 # 100% processes ------------------------------------------------------
+
 cat("Allocating items going directly to a process.",
     paste0(unique(use[type == "100%", item]), collapse = "; "),
     ".\n", sep = "")
@@ -157,6 +304,7 @@ cbs[, use := NULL]
 
 
 # Optimise  ------------------------------------------------------
+
 # Allocate feedstocks to the production of alcoholic beverages and sweeteners
 opt_tcf <- fread("inst/tcf_optim.csv")
 opt_in <- fread("inst/optim_in.csv")
