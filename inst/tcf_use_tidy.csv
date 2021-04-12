@@ -1180,6 +1180,7 @@ c04,m3rw/m3p,LAM,236,Venezuela (Bolivarian Republic of),"Sawnwood, coniferous",2
 c04,m3rw/m3p,LAM,239,British Virgin Islands,"Sawnwood, coniferous",2.12
 c04,m3rw/m3p,LAM,258,Anguilla,"Sawnwood, coniferous",2.12
 c04,m3rw/m3p,LAM,279,Curaçao,"Sawnwood, coniferous",2.12
+c04,m3rw/m3p,LAM,281,Saint-Martin (French Part),"Sawnwood, coniferous",2.12
 c04,m3rw/m3p,NAM,33,Canada,"Sawnwood, coniferous",2.22
 c04,m3rw/m3p,NAM,190,Saint Pierre and Miquelon,"Sawnwood, coniferous",2.13
 c04,m3rw/m3p,NAM,231,United States of America,"Sawnwood, coniferous",2.04
@@ -1422,6 +1423,7 @@ c05,m3rw/m3p,LAM,236,Venezuela (Bolivarian Republic of),"Sawnwood, non-coniferou
 c05,m3rw/m3p,LAM,239,British Virgin Islands,"Sawnwood, non-coniferous all",2.1
 c05,m3rw/m3p,LAM,258,Anguilla,"Sawnwood, non-coniferous all",2.1
 c05,m3rw/m3p,LAM,279,Curaçao,"Sawnwood, non-coniferous all",2.1
+c05,m3rw/m3p,LAM,281,Saint-Martin (French Part),"Sawnwood, non-coniferous all",2.1
 c05,m3rw/m3p,NAM,33,Canada,"Sawnwood, non-coniferous all",1.96
 c05,m3rw/m3p,NAM,190,Saint Pierre and Miquelon,"Sawnwood, non-coniferous all",1.91
 c05,m3rw/m3p,NAM,231,United States of America,"Sawnwood, non-coniferous all",1.85
@@ -1664,6 +1666,7 @@ c06,m3rw/m3p,LAM,236,Venezuela (Bolivarian Republic of),Veneer sheets,2.235
 c06,m3rw/m3p,LAM,239,British Virgin Islands,Veneer sheets,2.235
 c06,m3rw/m3p,LAM,258,Anguilla,Veneer sheets,2.235
 c06,m3rw/m3p,LAM,279,Curaçao,Veneer sheets,2.235
+c06,m3rw/m3p,LAM,281,Saint-Martin (French Part),Veneer sheets,2.235
 c06,m3rw/m3p,NAM,33,Canada,Veneer sheets,1.9073
 c06,m3rw/m3p,NAM,190,Saint Pierre and Miquelon,Veneer sheets,1.9073
 c06,m3rw/m3p,NAM,231,United States of America,Veneer sheets,1.9073
@@ -1906,6 +1909,7 @@ c07,m3rw/m3p,LAM,236,Venezuela (Bolivarian Republic of),Plywood,2.235
 c07,m3rw/m3p,LAM,239,British Virgin Islands,Plywood,2.235
 c07,m3rw/m3p,LAM,258,Anguilla,Plywood,2.235
 c07,m3rw/m3p,LAM,279,Curaçao,Plywood,2.235
+c07,m3rw/m3p,LAM,281,Saint-Martin (French Part),Plywood,2.235
 c07,m3rw/m3p,NAM,33,Canada,Plywood,1.9073
 c07,m3rw/m3p,NAM,190,Saint Pierre and Miquelon,Plywood,1.9073
 c07,m3rw/m3p,NAM,231,United States of America,Plywood,1.9073
@@ -2148,6 +2152,7 @@ c08,m3sw/m3p,LAM,236,Venezuela (Bolivarian Republic of),Fibreboard,1.835
 c08,m3sw/m3p,LAM,239,British Virgin Islands,Fibreboard,1.835
 c08,m3sw/m3p,LAM,258,Anguilla,Fibreboard,1.835
 c08,m3sw/m3p,LAM,279,Curaçao,Fibreboard,1.835
+c08,m3sw/m3p,LAM,281,Saint-Martin (French Part),Fibreboard,1.835
 c08,m3sw/m3p,NAM,33,Canada,Fibreboard,1.62
 c08,m3sw/m3p,NAM,190,Saint Pierre and Miquelon,Fibreboard,1.65
 c08,m3sw/m3p,NAM,231,United States of America,Fibreboard,1.675
@@ -2390,6 +2395,7 @@ c09,kg/m3p,LAM,236,Venezuela (Bolivarian Republic of),Particle board,640
 c09,kg/m3p,LAM,239,British Virgin Islands,Particle board,640
 c09,kg/m3p,LAM,258,Anguilla,Particle board,640
 c09,kg/m3p,LAM,279,Curaçao,Particle board,640
+c09,kg/m3p,LAM,281,Saint-Martin (French Part),Particle board,640
 c09,kg/m3p,NAM,33,Canada,Particle board,720
 c09,kg/m3p,NAM,190,Saint Pierre and Miquelon,Particle board,720
 c09,kg/m3p,NAM,231,United States of America,Particle board,720
@@ -2632,6 +2638,7 @@ c09,m3sw/m3p,LAM,236,Venezuela (Bolivarian Republic of),Particle board,1.54
 c09,m3sw/m3p,LAM,239,British Virgin Islands,Particle board,1.54
 c09,m3sw/m3p,LAM,258,Anguilla,Particle board,1.54
 c09,m3sw/m3p,LAM,279,Curaçao,Particle board,1.54
+c09,m3sw/m3p,LAM,281,Saint-Martin (French Part),Particle board,1.54
 c09,m3sw/m3p,NAM,33,Canada,Particle board,1.48
 c09,m3sw/m3p,NAM,190,Saint Pierre and Miquelon,Particle board,1.54
 c09,m3sw/m3p,NAM,231,United States of America,Particle board,1.6
@@ -2874,6 +2881,7 @@ c10,kg/m3p,LAM,236,Venezuela (Bolivarian Republic of),OSB,673
 c10,kg/m3p,LAM,239,British Virgin Islands,OSB,673
 c10,kg/m3p,LAM,258,Anguilla,OSB,673
 c10,kg/m3p,LAM,279,Curaçao,OSB,673
+c10,kg/m3p,LAM,281,Saint-Martin (French Part),OSB,673
 c10,kg/m3p,NAM,33,Canada,OSB,407
 c10,kg/m3p,NAM,190,Saint Pierre and Miquelon,OSB,407
 c10,kg/m3p,NAM,231,United States of America,OSB,407
@@ -3116,6 +3124,7 @@ c10,m3sw/m3p,LAM,236,Venezuela (Bolivarian Republic of),OSB,1.41
 c10,m3sw/m3p,LAM,239,British Virgin Islands,OSB,1.41
 c10,m3sw/m3p,LAM,258,Anguilla,OSB,1.41
 c10,m3sw/m3p,LAM,279,Curaçao,OSB,1.41
+c10,m3sw/m3p,LAM,281,Saint-Martin (French Part),OSB,1.41
 c10,m3sw/m3p,NAM,33,Canada,OSB,1.61
 c10,m3sw/m3p,NAM,190,Saint Pierre and Miquelon,OSB,1.63
 c10,m3sw/m3p,NAM,231,United States of America,OSB,1.65
@@ -3358,6 +3367,7 @@ c11,m3sw/tonne,LAM,236,Venezuela (Bolivarian Republic of),Wood pulp,3.43
 c11,m3sw/tonne,LAM,239,British Virgin Islands,Wood pulp,3.43
 c11,m3sw/tonne,LAM,258,Anguilla,Wood pulp,3.43
 c11,m3sw/tonne,LAM,279,Curaçao,Wood pulp,3.43
+c11,m3sw/tonne,LAM,281,Saint-Martin (French Part),Wood pulp,3.43
 c11,m3sw/tonne,NAM,33,Canada,Wood pulp,3.57666666666667
 c11,m3sw/tonne,NAM,190,Saint Pierre and Miquelon,Wood pulp,3.57666666666667
 c11,m3sw/tonne,NAM,231,United States of America,Wood pulp,3.57666666666667
@@ -3600,6 +3610,7 @@ c13,m3sw/tonne,LAM,236,Venezuela (Bolivarian Republic of),Recovered fibre pulp,4
 c13,m3sw/tonne,LAM,239,British Virgin Islands,Recovered fibre pulp,4.116
 c13,m3sw/tonne,LAM,258,Anguilla,Recovered fibre pulp,4.116
 c13,m3sw/tonne,LAM,279,Curaçao,Recovered fibre pulp,4.116
+c13,m3sw/tonne,LAM,281,Saint-Martin (French Part),Recovered fibre pulp,4.116
 c13,m3sw/tonne,NAM,33,Canada,Recovered fibre pulp,4.354
 c13,m3sw/tonne,NAM,190,Saint Pierre and Miquelon,Recovered fibre pulp,4.354
 c13,m3sw/tonne,NAM,231,United States of America,Recovered fibre pulp,4.354
@@ -3842,6 +3853,7 @@ c13,mt/mt,LAM,236,Venezuela (Bolivarian Republic of),Recovered fibre pulp,1.2
 c13,mt/mt,LAM,239,British Virgin Islands,Recovered fibre pulp,1.2
 c13,mt/mt,LAM,258,Anguilla,Recovered fibre pulp,1.2
 c13,mt/mt,LAM,279,Curaçao,Recovered fibre pulp,1.2
+c13,mt/mt,LAM,281,Saint-Martin (French Part),Recovered fibre pulp,1.2
 c13,mt/mt,NAM,33,Canada,Recovered fibre pulp,1.21666666666667
 c13,mt/mt,NAM,190,Saint Pierre and Miquelon,Recovered fibre pulp,1.21666666666667
 c13,mt/mt,NAM,231,United States of America,Recovered fibre pulp,1.21666666666667
@@ -4084,6 +4096,7 @@ c14,m3sw/tonne,LAM,236,Venezuela (Bolivarian Republic of),Paper and Paperboard,3
 c14,m3sw/tonne,LAM,239,British Virgin Islands,Paper and Paperboard,3.725
 c14,m3sw/tonne,LAM,258,Anguilla,Paper and Paperboard,3.725
 c14,m3sw/tonne,LAM,279,Curaçao,Paper and Paperboard,3.725
+c14,m3sw/tonne,LAM,281,Saint-Martin (French Part),Paper and Paperboard,3.725
 c14,m3sw/tonne,NAM,33,Canada,Paper and Paperboard,3.725
 c14,m3sw/tonne,NAM,190,Saint Pierre and Miquelon,Paper and Paperboard,3.725
 c14,m3sw/tonne,NAM,231,United States of America,Paper and Paperboard,3.725
@@ -4326,6 +4339,7 @@ c15,m3sw/tonne,LAM,236,Venezuela (Bolivarian Republic of),Wood pellets and other
 c15,m3sw/tonne,LAM,239,British Virgin Islands,Wood pellets and other agglomerates,1.53
 c15,m3sw/tonne,LAM,258,Anguilla,Wood pellets and other agglomerates,1.53
 c15,m3sw/tonne,LAM,279,Curaçao,Wood pellets and other agglomerates,1.53
+c15,m3sw/tonne,LAM,281,Saint-Martin (French Part),Wood pellets and other agglomerates,1.53
 c15,m3sw/tonne,NAM,33,Canada,Wood pellets and other agglomerates,2.09
 c15,m3sw/tonne,NAM,190,Saint Pierre and Miquelon,Wood pellets and other agglomerates,2.09
 c15,m3sw/tonne,NAM,231,United States of America,Wood pellets and other agglomerates,2.09
@@ -4568,6 +4582,7 @@ c16,m3sw/tonne,LAM,236,Venezuela (Bolivarian Republic of),Wood charcoal,6
 c16,m3sw/tonne,LAM,239,British Virgin Islands,Wood charcoal,6
 c16,m3sw/tonne,LAM,258,Anguilla,Wood charcoal,6
 c16,m3sw/tonne,LAM,279,Curaçao,Wood charcoal,6
+c16,m3sw/tonne,LAM,281,Saint-Martin (French Part),Wood charcoal,6
 c16,m3sw/tonne,NAM,33,Canada,Wood charcoal,6.02
 c16,m3sw/tonne,NAM,190,Saint Pierre and Miquelon,Wood charcoal,6.02
 c16,m3sw/tonne,NAM,231,United States of America,Wood charcoal,6.02
@@ -4810,6 +4825,7 @@ c17,m3p/m3sw,LAM,236,Venezuela (Bolivarian Republic of),Wood chips and particles
 c17,m3p/m3sw,LAM,239,British Virgin Islands,Wood chips and particles,2.6
 c17,m3p/m3sw,LAM,258,Anguilla,Wood chips and particles,2.6
 c17,m3p/m3sw,LAM,279,Curaçao,Wood chips and particles,2.6
+c17,m3p/m3sw,LAM,281,Saint-Martin (French Part),Wood chips and particles,2.6
 c17,m3p/m3sw,NAM,33,Canada,Wood chips and particles,3.02
 c17,m3p/m3sw,NAM,190,Saint Pierre and Miquelon,Wood chips and particles,3.02
 c17,m3p/m3sw,NAM,231,United States of America,Wood chips and particles,3.04
@@ -5052,6 +5068,7 @@ c18,m3p/m3sw,LAM,236,Venezuela (Bolivarian Republic of),Wood residues,3.05
 c18,m3p/m3sw,LAM,239,British Virgin Islands,Wood residues,3.05
 c18,m3p/m3sw,LAM,258,Anguilla,Wood residues,3.05
 c18,m3p/m3sw,LAM,279,Curaçao,Wood residues,3.05
+c18,m3p/m3sw,LAM,281,Saint-Martin (French Part),Wood residues,3.05
 c18,m3p/m3sw,NAM,33,Canada,Wood residues,3.04
 c18,m3p/m3sw,NAM,190,Saint Pierre and Miquelon,Wood residues,3.04
 c18,m3p/m3sw,NAM,231,United States of America,Wood residues,3.04
@@ -5294,6 +5311,7 @@ c18,m3sw/tonne,LAM,236,Venezuela (Bolivarian Republic of),Wood residues,2.5645
 c18,m3sw/tonne,LAM,239,British Virgin Islands,Wood residues,2.5645
 c18,m3sw/tonne,LAM,258,Anguilla,Wood residues,2.5645
 c18,m3sw/tonne,LAM,279,Curaçao,Wood residues,2.5645
+c18,m3sw/tonne,LAM,281,Saint-Martin (French Part),Wood residues,2.5645
 c18,m3sw/tonne,NAM,33,Canada,Wood residues,3.8115
 c18,m3sw/tonne,NAM,190,Saint Pierre and Miquelon,Wood residues,3.8115
 c18,m3sw/tonne,NAM,231,United States of America,Wood residues,3.8115
