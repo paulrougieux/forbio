@@ -66,23 +66,22 @@ use[continent == "EU", continent := "EUR"]
 
 # calculate world averages
 use_wrld <- use_cont %>% 
-  group_by(com_code, unit) %>% 
+  group_by(com_code, source_code, unit) %>% 
   summarize(w_tcf = mean(tcf, na.rm = TRUE)) %>% 
   ungroup()
 
 # apply continental average tcf where no country-specific value available
-use <- merge(use, use_cont[, .(continent = area, com_code, unit, c_tcf = tcf)], 
-             by = c("continent", "com_code", "unit"), all.x = TRUE)
+use <- merge(use, use_cont[, .(continent = area, com_code, source_code, unit, c_tcf = tcf)], 
+             by = c("continent", "com_code", "source_code", "unit"), all.x = TRUE)
 
 # apply world average tcf where no continental average available
 use <- merge(use, use_wrld,
-  by = c("com_code", "unit"), all.x = TRUE)
+  by = c("com_code", "source_code", "unit"), all.x = TRUE)
 
 use[, `:=`(tcf = ifelse(!is.na(tcf), tcf, 
   ifelse(!is.na(c_tcf), c_tcf, w_tcf)), 
   c_tcf = NULL, w_tcf = NULL)]
 
+use <- use[, c("continent", "area_code", "area", "com_code","item","source_code","source","unit","tcf")]
+
 fwrite(use, "inst/tcf_use_tidy.csv")
-
-
-

@@ -21,7 +21,7 @@ p11;Pulp production;c02;Industrial roundwood, non-coniferous;0.666666667;optim
 p11;Pulp production;c17;Wood chips and particles;0.333333333;optim
 p11;Pulp production;c18;Wood residues;0;optim
 p13;Recovered pulp production;c12;Recovered paper;1;tcf
-p14;Paper and paperboard production;1;100%
+p14;Paper and paperboard production;c11;Wood pulp;1;100%
 p14;Paper and paperboard production;c12;Recovered paper;0;100%
 p14;Paper and paperboard production;c13;Recovered fibre pulp;1;tcf_fill
 p15;Pellet production;c03;Wood fuel;0.15;optim
