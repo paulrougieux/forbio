@@ -285,8 +285,7 @@ fill_tcf <- function(y, z, C, cap = TRUE) {
 
 # Split processing use over processes
 split_tcf <- function(y, z, C, cap = TRUE) {
-  Y <- diag(y)
-  X <- t(C) %*% Y
+  X <- C * y
   x <- rowSums(X)
   exists <- x != 0 # exists kicks 0 potential outputs
   if(!any(exists)) {return(NA)}
@@ -306,9 +305,9 @@ split_tcf <- function(y, z, C, cap = TRUE) {
     X <- t(t(X) %*% diag(1 / cap))
   }
   out <- data.table(as.matrix(X))
-  rownames(out) <- colnames(C)
-  colnames(out) <- rownames(C)
-  out[, com_code_proc := rownames(out)]
+  # rownames(out) <- rownames(C)
+  # colnames(out) <- colnames(C)
+  out[, com_code_proc := rownames(C)]
   out <- melt(out, id.vars = "com_code_proc", variable.name = "com_code",
     variable.factor = FALSE)
   
