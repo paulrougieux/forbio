@@ -11,7 +11,7 @@ items <- fread("inst/products.csv")
 btd <- readRDS("data/btd_final.rds")
 cbs <- readRDS("data/cbs.rds")
 sup <- fread("inst/sup.csv")
-shares <- fread("inst/tcf_sup_tidy.csv")
+shares <- fread("inst/mb_sup_tidy.csv")
 
 
 cat("Allocate production to supplying processes.\n")

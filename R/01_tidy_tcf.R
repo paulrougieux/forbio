@@ -7,18 +7,17 @@ regions <- fread("inst/regions.csv")
 products <- fread("inst/products.csv")
 
 
-cat("\nTidying technical conversion factors.\n")
+# MB SUP ----------------------------------------------------------------
 
+cat("\nTidying material balances for supply tables.\n")
 
-# TCF SUP ----------------------------------------------------------------
-
-sup <- fread("inst/tcf_sup.csv")
+sup <- fread("inst/mb_sup.csv")
 sup_cont <- sup[is.na(area_code)]
 sup <- merge(sup, regions[, .(area_code, continent)],
   by = "area_code")
 sup[continent == "EU", continent := "EUR"]
 
-# apply continental average tcf where no country-specific value available
+# apply continental average MB where no country-specific value available
 sup <- merge(sup, sup_cont[, .(continent = area, proc_code, 
   c_product = product, c_chips = chips, c_residues = residues)],
   by = c("continent", "proc_code"), all.x = TRUE)
@@ -30,7 +29,7 @@ sup[is.na(product),
     `:=`(product = c_product, chips = c_chips, residues = c_residues)]
 sup[, `:=`(c_product = NULL, c_chips = NULL, c_residues = NULL, c_losses = NULL)]
 
-# apply world average tcf where no continental average available
+# apply world average MB where no continental average available
 sup_wrld <- sup_cont %>% 
   group_by(proc_code) %>% 
   summarize(w_product = mean(product, na.rm = TRUE),
@@ -50,12 +49,14 @@ sup[, `:=`(product = product / total,
            residues = residues / total,
            total = NULL)]
 
-fwrite(sup, "inst/tcf_sup_tidy.csv")
+fwrite(sup, "inst/mb_sup_tidy.csv")
 rm(sup, sup_cont, sup_wrld)
 
 
 
 # TCF USE ----------------------------------------------------------------
+
+cat("\nTidying technical conversion factors for use tables.\n")
 
 use <- fread("inst/tcf_use.csv")
 use[tcf == 0, tcf := NA]
