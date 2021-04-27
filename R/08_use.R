@@ -40,11 +40,16 @@ cat("Allocating part of the TCF commodities to TCF use. Applies to items:\n\t",
 
 tcf <- fread("inst/tcf_use_tidy.csv")
 tcf <- tcf[!(com_code=="c13" & unit=="m3sw/tonne") & unit!="kg/m3p"]
+tcf[com_code=="c10", `:=`(source = items$item[items$com_code=="c01"], source_code = "c01")]
+osb <- tcf[com_code=="c10"]
+osb[, `:=`(source = items$item[items$com_code=="c02"], source_code = "c02")]
+tcf <- rbind(tcf, osb)
+rm(osb)
 
 # Technical conversion factors for each input-output combination
 tcf <- merge(source_use[type %in% c("tcf", "tcf_cnc"), .(proc_code, process, source_code, source, com_code, item)], 
-  tcf[, .(com_code, item, area_code, area, unit, tcf)], 
-  by = c("com_code", "item"), all.x = TRUE)
+  tcf[, .(com_code, item, source_code, source, area_code, area, unit, tcf)], 
+  by = c("source_code", "source", "com_code", "item"), all.x = TRUE)
 tcf_codes <- list(sort(unique(cbs$area_code[cbs$area_code %in% tcf$area_code])), sort(unique(tcf$com_code)),
   sort(unique(tcf$source_code)))
 
@@ -109,13 +114,43 @@ results <- results[paste(com_code,com_code_proc) %in%
 results[, `:=`(proc_code =
   source_use[match(results$com_code_proc, source_use$com_code), proc_code])]
 
-# Apply c/nc shares for plywood & veneer
 
+# Redistribute c/nc use according to availability 
+# for c06 veneer, c07 plywood, c10 osb
+data <- merge(results[com_code %in% c("c01","c02"),], 
+  source_use[, .(com_code=source_code, com_code_proc = com_code, type)], 
+  by=c("com_code", "com_code_proc"))
+# sum per type, i.e. tcf and tcf_cnc
+data <- data[, list(value = sum(value, na.rm = TRUE)), 
+  by = c("com_code", "year", "area_code", "type")]
+data <- spread(data, type, value)
+data <- merge(data, cbs[, .(area_code, com_code, year, processing)],
+  by = c("area_code", "com_code", "year"))
+data[, `:=`(rest = processing - tcf, tcf = NULL)]
+# sum up remaining roundwood per country
+totals <- data[, list(processing_total = sum(processing), rest_total = sum(rest)), 
+  by = c("year", "area_code")]
+totals[, `:=`(processing_total = ifelse(processing_total < 0, 0, processing_total), 
+  rest_total = ifelse(rest_total < 0, 0, rest_total))]
+data <- merge(data, totals[, .(year, area_code, processing_total, rest_total)],
+  by = c("year", "area_code"))
+# derive shares of remaining c & nc roundwood
+data[, `:=`(rest = rest / rest_total, processing = processing / processing_total)]
+data[, `:=`(rest = ifelse(!is.finite(rest), 0, rest), 
+  processing = ifelse(!is.finite(processing), 0, processing))]
+data[, `:=`(rest = ifelse(rest > 1, 1, rest), 
+  processing = ifelse(processing > 1, 1, processing))]
+data[, `:=`(rest = ifelse(rest < 0, 0, rest), 
+  processing = ifelse(processing < 0, 0, processing))]
+data[, `:=`(share = ifelse(rest_total==0, processing, rest))]
 
-
-# Redistribute c/nc use according to availability
-
-
+# merge shares into results and apply to type 'tcf_cnc'
+results <- merge(results, data[, .(year, area_code, com_code, share)],
+  by = c("year", "area_code", "com_code"), all.x = TRUE)
+results <- merge(results, source_use[, .(com_code=source_code, com_code_proc = com_code, type)], 
+  by=c("com_code", "com_code_proc"))
+results[type=="tcf_cnc", value := value * share]
+# data <- data[year==2012]
 
 # Add to use (per item and process)
 use <- merge(use, results[, .(year, area_code, proc_code, com_code, value)],
@@ -130,7 +165,12 @@ cbs <- merge(cbs, results[, list(value = na_sum(value)),
 cbs[!is.na(value), processing := round(na_sum(processing, -value))]
 cbs[, value := NULL]
 
-rm(tcf, tcf_codes, tcf_data, years, areas, out, 
+# Update processing in use
+use[, processing := NULL]
+use <- merge(use, cbs[, .(area_code, year, com_code, processing)],
+  by = c("area_code", "year", "com_code"), all.x = TRUE)
+
+rm(tcf, tcf_codes, tcf_data, years, areas, out, totals, data,
    results, Cs, input, output, input_x, output_x, input_y, output_y)
 
 
@@ -138,15 +178,16 @@ rm(tcf, tcf_codes, tcf_data, years, areas, out,
 
 # 100% processes ------------------------------------------------------
 
-cat("Allocating items going directly to a process.",
-    paste0(unique(use[type == "100%", item]), collapse = "; "),
+cat("Allocating items going directly to a process.\n\t",
+    paste0(unique(use[type %in% c("100%","tcf_fill"), item]), collapse = "; "),
     ".\n", sep = "")
-use[type == "100%", `:=`(use = processing, processing = 0)]
+use[type %in% c("100%","tcf_fill"), use := ifelse(processing > 0, processing, 0)]
+use[type %in% c("100%","tcf_fill"), processing := processing - use]
 
 # Reduce processing in CBS
-cbs <- merge(cbs, use[type == "100%" & !is.na(use) & use > 0,
-                      c("area_code", "year", "com_code", "use")],
-             by = c("area_code", "year", "com_code"), all.x = TRUE)
+cbs <- merge(cbs, use[type %in% c("100%","tcf_fill") & !is.na(use) & use > 0,
+  c("area_code", "year", "com_code", "use")],
+  by = c("area_code", "year", "com_code"), all.x = TRUE)
 cbs[!is.na(use), processing := na_sum(processing, -use)]
 cbs[, use := NULL]
 
@@ -154,9 +195,7 @@ cbs[, use := NULL]
 
 
 # TCF fill ------------------------------------------------------
-
-
-
+# we have allocated all remaining recovered paper to p14 paper production
 
 
 
