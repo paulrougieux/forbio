@@ -24,7 +24,7 @@ p13;Recovered pulp production;c12;Recovered paper;c13;Recovered fibre pulp;tcf
 p14;Paper and paperboard production;c11;Wood pulp;c14;Paper and paperboard;100%
 p14;Paper and paperboard production;c12;Recovered paper;c14;Paper and paperboard;100%
 p14;Paper and paperboard production;c13;Recovered fibre pulp;c14;Paper and paperboard;tcf_fill
-p15;Pellet production;c03;Wood fuel;c15;Wood pellets and other agglomerates;optim
-p15;Pellet production;c17;Wood chips and particles;c15;Wood pellets and other agglomerates;optim
-p15;Pellet production;c18;Wood residues;c15;Wood pellets and other agglomerates;optim
+p15;Pellet production;c03;Wood fuel;c15;Wood pellets and other agglomerates;tcf_pellets
+p15;Pellet production;c17;Wood chips and particles;c15;Wood pellets and other agglomerates;tcf_pellets
+p15;Pellet production;c18;Wood residues;c15;Wood pellets and other agglomerates;tcf_pellets
 p16;Charcoal production;c03;Wood fuel;c16;Wood charcoal;tcf
