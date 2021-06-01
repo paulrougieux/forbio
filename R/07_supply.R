@@ -58,12 +58,10 @@ tcf <- pivot_wider(tcf, names_from = com_code, values_from = tcf)
 shares <- merge(shares, tcf, by = c("area_code"), all.x = TRUE)
 shares[, `:=`(chips_cbs = round(chips_cbs / tcf_chips),
   residues_cbs = round(residues_cbs / tcf_residues))]
-shares[, `:=`(chips_scale = chips_cbs / chips_total,
-  residues_scale = residues_cbs / residues_total)]
 
 # Scale chips and residues
-shares[, `:=`(chips_final = ifelse(chips_cbs < chips_total, chips * chips_scale, chips),
-  residues_final = ifelse(residues_cbs < residues_total, residues * residues_scale, residues),
+shares[, `:=`(chips_final = ifelse(chips_cbs < chips_total, chips * chips_cbs / chips_total, chips),
+  residues_final = ifelse(residues_cbs < residues_total, residues * residues_cbs / residues_total, residues),
   chips_diff = chips_total - chips_cbs,
   residues_diff = residues_cbs - residues_total)]
 
