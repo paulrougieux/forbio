@@ -67,13 +67,11 @@ shares[, `:=`(chips_final = ifelse(chips_cbs < chips_total, chips * chips_scale,
   chips_diff = chips_total - chips_cbs,
   residues_diff = residues_cbs - residues_total)]
 
-# --------------------------------------------------------------
-# CONTINUE HERE ......
 # Add residues if less chips produced than expected
 shares[, `:=`(residues_final = residues_final + 
   ifelse(chips_total > chips_cbs & residues_cbs > residues_total, 
   ifelse(residues_diff > chips_diff, 
-  chips_diff / residues_total * residues, residues_diff / residues_total * residues), 0))]
+  chips_diff / chips_total * chips, residues_diff / chips_total * chips), 0))]
 
 # Calculate remainders of chips and residues
 shares <- merge(shares, shares[, list(chips_rest = sum(chips_final, na.rm = TRUE), 
