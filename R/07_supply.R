@@ -62,17 +62,17 @@ shares[, `:=`(chips_scale = chips_cbs / chips_total,
   residues_scale = residues_cbs / residues_total)]
 
 # Scale chips and residues
-shares[, `:=`(chips_final = chips * chips_scale,
-  residues_final = residues * residues_scale,
+shares[, `:=`(chips_final = ifelse(chips_cbs < chips_total, chips * chips_scale, chips),
+  residues_final = ifelse(residues_cbs < residues_total, residues * residues_scale, residues),
   chips_diff = chips_total - chips_cbs,
   residues_diff = residues_cbs - residues_total)]
 
-shares[, `:=`(chips_final = ifelse(chips_cbs > chips_total, chips_final / chips_cbs * chips_total, chips_final),
-  residues_final = ifelse(residues_cbs > residues_total, residues_final / residues_cbs * residues_total, residues_final))]
-
+# --------------------------------------------------------------
+# CONTINUE HERE ......
 # Add residues if less chips produced than expected
 shares[, `:=`(residues_final = residues_final + 
-  ifelse(chips_diff > 0 & residues_diff > 0, ifelse(residues_diff > chips_diff, 
+  ifelse(chips_total > chips_cbs & residues_cbs > residues_total, 
+  ifelse(residues_diff > chips_diff, 
   chips_diff / residues_total * residues, residues_diff / residues_total * residues), 0))]
 
 # Calculate remainders of chips and residues
