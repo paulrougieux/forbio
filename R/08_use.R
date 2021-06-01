@@ -6,6 +6,7 @@ source("R/01_tidy_functions.R")
 
 regions <- fread("inst/regions.csv")
 items <- fread("inst/products.csv")
+years <- 1997:2020
 
 cbs <- readRDS("data/cbs.rds")
 sup <- readRDS("data/sup.rds")
@@ -33,9 +34,9 @@ use[, use := NA_real_]
 # TCF ---------------------------------------------------------------------
 
 cat("Allocating part of the TCF commodities to TCF use. Applies to items:\n\t",
-  paste0(unique(use[type %in% c("tcf", "tcf_cnc"), item]), collapse = "; "),
+  paste0(unique(use[type %in% c("tcf", "tcf_cnc", "tcf_pellets"), item]), collapse = "; "),
   "\nused for processes \n\t",
-  paste0(unique(use[type %in% c("tcf", "tcf_cnc"), process]), collapse = "; "),
+  paste0(unique(use[type %in% c("tcf", "tcf_cnc", "tcf_pellets"), process]), collapse = "; "),
   ".\n", sep = "")
 
 tcf <- fread("inst/tcf_use_tidy.csv")
@@ -50,6 +51,25 @@ rm(osb)
 tcf <- merge(source_use[type %in% c("tcf", "tcf_cnc"), .(proc_code, process, source_code, source, com_code, item)], 
   tcf[, .(com_code, item, source_code, source, area_code, area, unit, tcf)], 
   by = c("source_code", "source", "com_code", "item"), all.x = TRUE)
+
+# Technical conversion factors for pellets
+tcf_use <- fread("inst/tcf_use_tidy.csv")
+tcf_out <- tcf_use[com_code=="c15" & unit=="m3sw/tonne"]
+tcf_in <- tcf_use[com_code %in% source_use[type=="tcf_pellets", source_code] & unit %in% c("m3rw/m3p", "m3p/m3sw")]
+tcf_in[unit=="m3rw/m3p", `:=`(tcf = 1 / tcf, unit = "m3p/m3rw")]
+# unique(tcf_in[, .(item, source, unit)])
+# unique(tcf_out[, .(item, source, unit)])
+tcf_pellets <- merge(source_use[type=="tcf_pellets"], 
+  tcf_in[, .(area_code,source_code=com_code,tcf_in=tcf)],
+  by = c("source_code"), allow.cartesian = TRUE)
+tcf_pellets <- merge(tcf_pellets, 
+  tcf_out[, .(area_code,com_code,tcf_out=tcf)],
+  by = c("area_code", "com_code"))
+tcf_pellets[, tcf := (tcf_in * tcf_out)]
+tcf_pellets[, `:=`(unit = "m3p/tonne", tcf_in = NULL, tcf_out = NULL, type = NULL,
+  area = regions$area[match(tcf_pellets$area_code, regions$area_code)])]
+tcf <- rbind(tcf, tcf_pellets)
+
 tcf_codes <- list(sort(unique(cbs$area_code[cbs$area_code %in% tcf$area_code])), sort(unique(tcf$com_code)),
   sort(unique(tcf$source_code)))
 
@@ -69,7 +89,6 @@ tcf_data <- use[area_code %in% tcf_codes[[1]] &
   .(year, area_code, com_code, production, processing)]
 tcf_data <- tcf_data[!duplicated(tcf_data), ] # Duplicates from proc_code
 setkey(tcf_data, year, area_code, com_code)
-years <- sort(unique(tcf_data$year))
 areas <- tcf_codes[[1]]
 
 # Production in processes
@@ -149,8 +168,39 @@ results <- merge(results, data[, .(year, area_code, com_code, share)],
   by = c("year", "area_code", "com_code"), all.x = TRUE)
 results <- merge(results, source_use[, .(com_code=source_code, com_code_proc = com_code, type)], 
   by=c("com_code", "com_code_proc"))
-results[type=="tcf_cnc", value := value * share]
-# data <- data[year==2012]
+results[type=="tcf_cnc", `:=`(value = value * share)]
+results[, share := NULL]
+
+
+#-------------#-----------#------------#--------------#-------------#-----------------#
+# Hier weiter...
+
+
+# Redistribute input use for pellets production
+data <- results[type=="tcf_pellets", .(com_code, year, area_code, value)]
+data <- merge(data, cbs[, .(area_code, com_code, year, processing)],
+  by = c("area_code", "com_code", "year"))
+data <- merge(data, data[com_code=="c18", .(year, area_code, share = processing / value)],
+  by = c("year", "area_code"), all.x = TRUE)
+data[com_code=="c18", `:=`(value = round(ifelse(share < 1, value * share, value)))]
+data[com_code %in% c("c03","c17"), `:=`(value = ifelse(share < 1, value * (1 - share), 0))]
+
+
+data <- merge(data, tcf_pellets[, .(area_code, com_code = source_code, tcf)],
+  by = c("area_code", "com_code"))
+data[, potential := processing / tcf]
+data <- merge(data, cbs[com_code=="c15", .(year, area_code, production)],
+  by = c("year", "area_code"))
+
+data <- merge(data, data[com_code!="c18", list(processing_total = sum(processing, na.rm = TRUE)), 
+  by = c("year", "area_code")], by = c("year", "area_code"), all.x = TRUE)
+data[, share := processing / processing_total]
+data[com_code %in% c("c03","c17"), value := round(value * share)]
+data[!is.finite(value), value := 0]
+
+# replace pellets rows in results
+results <- rbind(results[type != "tcf_pellets"], 
+  data[, .(com_code, com_code_proc = "c15", year, area_code, value, proc_code = "p15", type = "tcf_pellets")])
 
 # Add to use (per item and process)
 use <- merge(use, results[, .(year, area_code, proc_code, com_code, value)],
@@ -170,7 +220,7 @@ use[, processing := NULL]
 use <- merge(use, cbs[, .(area_code, year, com_code, processing)],
   by = c("area_code", "year", "com_code"), all.x = TRUE)
 
-rm(tcf, tcf_codes, tcf_data, years, areas, out, totals, data,
+rm(tcf, tcf_codes, tcf_data, areas, out, totals, data,
    results, Cs, input, output, input_x, output_x, input_y, output_y)
 
 
@@ -203,38 +253,39 @@ cbs[, use := NULL]
 # Optimise  ------------------------------------------------------
 
 # Allocate feedstocks to the production of alcoholic beverages and sweeteners
-opt_tcf <- fread("inst/tcf_optim.csv")
-opt_in <- fread("inst/optim_in.csv")
-opt_out <- fread("inst/optim_out.csv")
+opt_in <- unique(source_use[type == "optim", .(com_code = source_code, item = source)])
+opt_in <- opt_in[com_code != "c13"]   # exclude c13 (Recovered fibre pulp) since we fully allocated it to paper
+opt_out <- unique(source_use[type == "optim", .(com_code, item)])
+tcf <- fread("inst/tcf_use_tidy.csv")
+tcf_out <- tcf[com_code %in% opt_out$com_code & unit %in% c("m3sw/m3p", "m3sw/tonne")]
+tcf_in <- tcf[com_code %in% opt_in$com_code & unit %in% c("m3rw/m3p", "m3p/m3sw")]
+tcf_in[unit=="m3rw/m3p", `:=`(tcf = 1 / tcf, unit = "m3p/m3rw")]
+# unique(tcf_in[, .(item, source, unit)])
+# unique(tcf_out[, .(item, source, unit)])
+opt_tcf <- merge(source_use[type=="optim" & com_code != "c13"], 
+  tcf_in[, .(area_code,source_code=com_code,tcf_in=tcf)],
+  by = c("source_code"), allow.cartesian = TRUE)
+opt_tcf <- merge(opt_tcf, 
+  tcf_out[, .(area_code,com_code,tcf_out=tcf)],
+  by = c("area_code", "com_code"))
+opt_tcf[, tcf := 1 / (tcf_in * tcf_out)]
+setnames(opt_tcf, "source_code", "inp_code")
+setnames(opt_tcf, "com_code", "out_code")
 
 # Add processing / production information from the balances
 input <- merge(opt_in,
-  cbs[, c("area_code", "year", "item_code", "processing")],
-  by = "item_code", all.x = TRUE)
-
+  cbs[year %in% years, c("area_code", "year", "com_code", "processing")],
+  by = "com_code", all.x = TRUE)
 input <- input[is.finite(processing) & processing > 0]
 output <- merge(opt_out,
-  cbs[, c("area_code", "year", "item_code", "production")],
-  by = "item_code", all.x = TRUE)
+  cbs[year %in% years, c("area_code", "year", "com_code", "production")],
+  by = "com_code", all.x = TRUE)
 output <- output[is.finite(production) & production > 0]
 
-# We have some NAs in the TCFs
-opt_tcf <- opt_tcf[is.finite(value), ]
-
-# Subset to needed TCFs (shold be all) and get weights (i.e. mean values)
 # Weights are in-out ratio (to bypass e.g. high water contents of beer)
-opt_tcf <- opt_tcf[inp_code %in% opt_in$item_code &
-  out_code %in% opt_out$item_code, ]
-weight_out <- opt_tcf[, list(weight = mean(value, na.rm = TRUE)),
+weight_out <- opt_tcf[, list(weight = mean(tcf, na.rm = TRUE)),
   by = c("out_code", "area_code")]
 
-# Subset to available TCF (should be all)
-input <- input[item_code %in% opt_tcf$inp_code, ]
-output <- output[item_code %in% opt_tcf$out_code, ]
-
-# Set NAs to 0
-input[is.na(processing), processing := 0]
-output[is.na(production), production := 0]
 
 # Optimise allocation -----
 # This takes a very long time! Six cores are working in parallel for ~20 hours.
@@ -250,20 +301,20 @@ results <- lapply(sort(unique(input$area_code)), function(x) {
     out_xy <- out_x[year == y, ]
     # Skip optimisation if no data is available
     if(inp_xy[, .N] == 0 || out_xy[, .N] == 0) {return(NULL)}
-    tcf_xy <- tcf_x[inp_code %in% inp_xy$item_code &
-      out_code %in% out_xy$item_code, ]
-    wt_xy <- wt_x[out_code %in% out_xy$item_code, ]
+    tcf_xy <- tcf_x[inp_code %in% inp_xy$com_code &
+      out_code %in% out_xy$com_code, ]
+    wt_xy <- wt_x[out_code %in% out_xy$com_code, ]
     # Optimise on country x & year y
     opt <- optim(par = rep(0, nrow(tcf_xy)), # To-do: vectorise further
       fn = function(par) {
         I <- tcf_xy[, .(inp_code, par = par)][,
           list(x = na_sum(par)), by = c("inp_code")]
-        O <- tcf_xy[, .(out_code, par = par * value)][,
+        O <- tcf_xy[, .(out_code, par = par * tcf)][,
           list(x = na_sum(par)), by = c("out_code")]
         # Get absolute deviations from target (ensuring correct order, output deviations weighted)
-        prod_tgt <- out_xy$production[match(O$out_code, out_xy$item_code)]
+        prod_tgt <- out_xy$production[match(O$out_code, out_xy$com_code)]
         prod_err <- abs(prod_tgt - O$x) / wt_xy$weight
-        proc_tgt <- inp_xy$processing[match(I$inp_code, inp_xy$item_code)]
+        proc_tgt <- inp_xy$processing[match(I$inp_code, inp_xy$com_code)]
         proc_err <- abs(proc_tgt - I$x)
         # Get relative deviations from target weighted by maximum absolute error
         prod_err_rel <- abs(prod_tgt - O$x) / prod_tgt * max(prod_err)
@@ -273,7 +324,7 @@ results <- lapply(sort(unique(input$area_code)), function(x) {
     }, method = "L-BFGS-B", lower = 0, upper = Inf)
     # check results
     # data <- dplyr::mutate(tcf_xy, result_in = opt$par, year = y)
-    tcf_xy[, .(area_code, inp_code, out_code, value,
+    tcf_xy[, .(area_code, inp_code, out_code, tcf_in, tcf_out, tcf,
       result_in = opt$par, year = y)]
   })
   return(rbindlist(res))
@@ -290,16 +341,16 @@ results[, proc_code := ifelse(out_code == 2658, "p083",
 
 # Add optimisation results to use (full detail) and cbs (item detail)
 use <- merge(use,
-  results[, .(area_code, year, item_code = inp_code, type = "optim",
+  results[, .(area_code, year, com_code = inp_code, type = "optim",
     proc_code, result_in)],
-  by = c("area_code", "year", "item_code", "proc_code", "type"), all.x = TRUE)
+  by = c("area_code", "year", "com_code", "proc_code", "type"), all.x = TRUE)
 use[!is.na(result_in) & type == "optim", use := result_in]
 use[, result_in := NULL]
 
 cbs <- merge(cbs,
   results[, list(result_in = na_sum(result_in)),
-    by = .(area_code, year, item_code = inp_code)],
-  by = c("area_code", "year", "item_code"), all.x = TRUE)
+    by = .(area_code, year, com_code = inp_code)],
+  by = c("area_code", "year", "com_code"), all.x = TRUE)
 cbs[!is.na(result_in), processing := na_sum(processing, -result_in)]
 cbs[, result_in := NULL]
 
@@ -307,12 +358,12 @@ cbs[, result_in := NULL]
 
 
 # Allocate final demand ------------------------------------------------------
-use_fd <- cbs[, c("year", "comm_code", "area_code", "area", "item_code", "item",
+use_fd <- cbs[, c("year", "comm_code", "area_code", "area", "com_code", "item",
   "food", "other", "losses", "stock_addition", "balancing", "unspecified")]
 
 
 # Remove unneeded variables
-use <- use[, c("year", "area_code", "area", "comm_code", "item_code", "item",
+use <- use[, c("year", "area_code", "area", "comm_code", "com_code", "item",
                "proc_code", "proc", "type", "use")]
 
 
