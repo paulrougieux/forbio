@@ -237,7 +237,7 @@ area_code;area;com_code;item;source_code;source;unit;tcf
 243;Wallis and Futuna Islands;c01;Industrial roundwood, coniferous;NA;NA;m3rw/m3p;1.00
 248;Yugoslav SFR;c01;Industrial roundwood, coniferous;NA;NA;m3rw/m3p;1.00
 258;Anguilla;c01;Industrial roundwood, coniferous;NA;NA;m3rw/m3p;1.00
-279;CuraÃ§ao;c01;Industrial roundwood, coniferous;NA;NA;m3rw/m3p;1.00
+279;Curaçao;c01;Industrial roundwood, coniferous;NA;NA;m3rw/m3p;1.00
 281;Saint-Martin (French Part);c01;Industrial roundwood, coniferous;NA;NA;m3rw/m3p;1.00
 299;Palestine;c01;Industrial roundwood, coniferous;NA;NA;m3rw/m3p;1.00
 252;Unspecified Area;c01;Industrial roundwood, coniferous;NA;NA;m3rw/m3p;1.00
@@ -486,7 +486,7 @@ area_code;area;com_code;item;source_code;source;unit;tcf
 243;Wallis and Futuna Islands;c02;Industrial roundwood, non-coniferous;NA;NA;m3rw/m3p;1.00
 248;Yugoslav SFR;c02;Industrial roundwood, non-coniferous;NA;NA;m3rw/m3p;1.00
 258;Anguilla;c02;Industrial roundwood, non-coniferous;NA;NA;m3rw/m3p;1.00
-279;CuraÃ§ao;c02;Industrial roundwood, non-coniferous;NA;NA;m3rw/m3p;1.00
+279;Curaçao;c02;Industrial roundwood, non-coniferous;NA;NA;m3rw/m3p;1.00
 281;Saint-Martin (French Part);c02;Industrial roundwood, non-coniferous;NA;NA;m3rw/m3p;1.00
 299;Palestine;c02;Industrial roundwood, non-coniferous;NA;NA;m3rw/m3p;1.00
 252;Unspecified Area;c02;Industrial roundwood, non-coniferous;NA;NA;m3rw/m3p;1.00
@@ -735,7 +735,7 @@ area_code;area;com_code;item;source_code;source;unit;tcf
 243;Wallis and Futuna Islands;c03;Wood fuel;NA;NA;m3rw/m3p;1.00
 248;Yugoslav SFR;c03;Wood fuel;NA;NA;m3rw/m3p;1.00
 258;Anguilla;c03;Wood fuel;NA;NA;m3rw/m3p;1.00
-279;CuraÃ§ao;c03;Wood fuel;NA;NA;m3rw/m3p;1.00
+279;Curaçao;c03;Wood fuel;NA;NA;m3rw/m3p;1.00
 281;Saint-Martin (French Part);c03;Wood fuel;NA;NA;m3rw/m3p;1.00
 299;Palestine;c03;Wood fuel;NA;NA;m3rw/m3p;1.00
 252;Unspecified Area;c03;Wood fuel;NA;NA;m3rw/m3p;1.00
@@ -984,7 +984,7 @@ area_code;area;com_code;item;source_code;source;unit;tcf
 243;Wallis and Futuna Islands;c03;Wood fuel;NA;NA;m3rw/tonne;0.00
 248;Yugoslav SFR;c03;Wood fuel;NA;NA;m3rw/tonne;0.00
 258;Anguilla;c03;Wood fuel;NA;NA;m3rw/tonne;0.00
-279;CuraÃ§ao;c03;Wood fuel;NA;NA;m3rw/tonne;0.00
+279;Curaçao;c03;Wood fuel;NA;NA;m3rw/tonne;0.00
 281;Saint-Martin (French Part);c03;Wood fuel;NA;NA;m3rw/tonne;0.00
 299;Palestine;c03;Wood fuel;NA;NA;m3rw/tonne;0.00
 252;Unspecified Area;c03;Wood fuel;NA;NA;m3rw/tonne;0.00
@@ -1233,7 +1233,7 @@ area_code;area;com_code;item;source_code;source;unit;tcf
 243;Wallis and Futuna Islands;c04;Sawnwood, coniferous;c01;Industrial roundwood, coniferous;m3rw/m3p;0.00
 248;Yugoslav SFR;c04;Sawnwood, coniferous;c01;Industrial roundwood, coniferous;m3rw/m3p;0.00
 258;Anguilla;c04;Sawnwood, coniferous;c01;Industrial roundwood, coniferous;m3rw/m3p;0.00
-279;CuraÃ§ao;c04;Sawnwood, coniferous;c01;Industrial roundwood, coniferous;m3rw/m3p;0.00
+279;Curaçao;c04;Sawnwood, coniferous;c01;Industrial roundwood, coniferous;m3rw/m3p;0.00
 281;Saint-Martin (French Part);c04;Sawnwood, coniferous;c01;Industrial roundwood, coniferous;m3rw/m3p;0.00
 299;Palestine;c04;Sawnwood, coniferous;c01;Industrial roundwood, coniferous;m3rw/m3p;0.00
 252;Unspecified Area;c04;Sawnwood, coniferous;c01;Industrial roundwood, coniferous;m3rw/m3p;0.00
@@ -1482,7 +1482,7 @@ area_code;area;com_code;item;source_code;source;unit;tcf
 243;Wallis and Futuna Islands;c05;Sawnwood, non-coniferous all;c02;Industrial roundwood, non-coniferous;m3rw/m3p;0.00
 248;Yugoslav SFR;c05;Sawnwood, non-coniferous all;c02;Industrial roundwood, non-coniferous;m3rw/m3p;0.00
 258;Anguilla;c05;Sawnwood, non-coniferous all;c02;Industrial roundwood, non-coniferous;m3rw/m3p;0.00
-279;CuraÃ§ao;c05;Sawnwood, non-coniferous all;c02;Industrial roundwood, non-coniferous;m3rw/m3p;0.00
+279;Curaçao;c05;Sawnwood, non-coniferous all;c02;Industrial roundwood, non-coniferous;m3rw/m3p;0.00
 281;Saint-Martin (French Part);c05;Sawnwood, non-coniferous all;c02;Industrial roundwood, non-coniferous;m3rw/m3p;0.00
 299;Palestine;c05;Sawnwood, non-coniferous all;c02;Industrial roundwood, non-coniferous;m3rw/m3p;0.00
 252;Unspecified Area;c05;Sawnwood, non-coniferous all;c02;Industrial roundwood, non-coniferous;m3rw/m3p;0.00
@@ -1731,7 +1731,7 @@ area_code;area;com_code;item;source_code;source;unit;tcf
 243;Wallis and Futuna Islands;c06;Veneer sheets;c01;Industrial roundwood, coniferous;m3rw/m3p;0.00
 248;Yugoslav SFR;c06;Veneer sheets;c01;Industrial roundwood, coniferous;m3rw/m3p;0.00
 258;Anguilla;c06;Veneer sheets;c01;Industrial roundwood, coniferous;m3rw/m3p;0.00
-279;CuraÃ§ao;c06;Veneer sheets;c01;Industrial roundwood, coniferous;m3rw/m3p;0.00
+279;Curaçao;c06;Veneer sheets;c01;Industrial roundwood, coniferous;m3rw/m3p;0.00
 281;Saint-Martin (French Part);c06;Veneer sheets;c01;Industrial roundwood, coniferous;m3rw/m3p;0.00
 299;Palestine;c06;Veneer sheets;c01;Industrial roundwood, coniferous;m3rw/m3p;0.00
 252;Unspecified Area;c06;Veneer sheets;c01;Industrial roundwood, coniferous;m3rw/m3p;0.00
@@ -1980,7 +1980,7 @@ area_code;area;com_code;item;source_code;source;unit;tcf
 243;Wallis and Futuna Islands;c06;Veneer sheets;c02;Industrial roundwood, non-coniferous;m3rw/m3p;0.00
 248;Yugoslav SFR;c06;Veneer sheets;c02;Industrial roundwood, non-coniferous;m3rw/m3p;0.00
 258;Anguilla;c06;Veneer sheets;c02;Industrial roundwood, non-coniferous;m3rw/m3p;0.00
-279;CuraÃ§ao;c06;Veneer sheets;c02;Industrial roundwood, non-coniferous;m3rw/m3p;0.00
+279;Curaçao;c06;Veneer sheets;c02;Industrial roundwood, non-coniferous;m3rw/m3p;0.00
 281;Saint-Martin (French Part);c06;Veneer sheets;c02;Industrial roundwood, non-coniferous;m3rw/m3p;0.00
 299;Palestine;c06;Veneer sheets;c02;Industrial roundwood, non-coniferous;m3rw/m3p;0.00
 252;Unspecified Area;c06;Veneer sheets;c02;Industrial roundwood, non-coniferous;m3rw/m3p;0.00
@@ -2229,7 +2229,7 @@ area_code;area;com_code;item;source_code;source;unit;tcf
 243;Wallis and Futuna Islands;c07;Plywood;c01;Industrial roundwood, coniferous;m3rw/m3p;0.00
 248;Yugoslav SFR;c07;Plywood;c01;Industrial roundwood, coniferous;m3rw/m3p;0.00
 258;Anguilla;c07;Plywood;c01;Industrial roundwood, coniferous;m3rw/m3p;0.00
-279;CuraÃ§ao;c07;Plywood;c01;Industrial roundwood, coniferous;m3rw/m3p;0.00
+279;Curaçao;c07;Plywood;c01;Industrial roundwood, coniferous;m3rw/m3p;0.00
 281;Saint-Martin (French Part);c07;Plywood;c01;Industrial roundwood, coniferous;m3rw/m3p;0.00
 299;Palestine;c07;Plywood;c01;Industrial roundwood, coniferous;m3rw/m3p;0.00
 252;Unspecified Area;c07;Plywood;c01;Industrial roundwood, coniferous;m3rw/m3p;0.00
@@ -2478,7 +2478,7 @@ area_code;area;com_code;item;source_code;source;unit;tcf
 243;Wallis and Futuna Islands;c07;Plywood;c02;Industrial roundwood, non-coniferous;m3rw/m3p;0.00
 248;Yugoslav SFR;c07;Plywood;c02;Industrial roundwood, non-coniferous;m3rw/m3p;0.00
 258;Anguilla;c07;Plywood;c02;Industrial roundwood, non-coniferous;m3rw/m3p;0.00
-279;CuraÃ§ao;c07;Plywood;c02;Industrial roundwood, non-coniferous;m3rw/m3p;0.00
+279;Curaçao;c07;Plywood;c02;Industrial roundwood, non-coniferous;m3rw/m3p;0.00
 281;Saint-Martin (French Part);c07;Plywood;c02;Industrial roundwood, non-coniferous;m3rw/m3p;0.00
 299;Palestine;c07;Plywood;c02;Industrial roundwood, non-coniferous;m3rw/m3p;0.00
 252;Unspecified Area;c07;Plywood;c02;Industrial roundwood, non-coniferous;m3rw/m3p;0.00
@@ -2698,40 +2698,40 @@ area_code;area;com_code;item;source_code;source;unit;tcf
 273;Montenegro;c08;Fibreboard;NA;NA;m3sw/m3p;0.00
 276;Sudan;c08;Fibreboard;NA;NA;m3sw/m3p;0.00
 277;South Sudan;c08;Fibreboard;NA;NA;m3sw/m3p;0.00
-5;American Samoa;c08;Fibreboard;NA;NA;m3rw/m3p;0.00
-8;Antigua and Barbuda;c08;Fibreboard;NA;NA;m3rw/m3p;0.00
-17;Bermuda;c08;Fibreboard;NA;NA;m3rw/m3p;0.00
-24;British Indian Ocean Territory;c08;Fibreboard;NA;NA;m3rw/m3p;0.00
-36;Cayman Islands;c08;Fibreboard;NA;NA;m3rw/m3p;0.00
-43;Cocos (Keeling) Islands;c08;Fibreboard;NA;NA;m3rw/m3p;0.00
-71;French Southern and Antarctic Territories;c08;Fibreboard;NA;NA;m3rw/m3p;0.00
-85;Greenland;c08;Fibreboard;NA;NA;m3rw/m3p;0.00
-86;Grenada;c08;Fibreboard;NA;NA;m3rw/m3p;0.00
-88;Guam;c08;Fibreboard;NA;NA;m3rw/m3p;0.00
-94;Holy See;c08;Fibreboard;NA;NA;m3rw/m3p;0.00
-127;Marshall Islands;c08;Fibreboard;NA;NA;m3rw/m3p;0.00
-142;Montserrat;c08;Fibreboard;NA;NA;m3rw/m3p;0.00
-148;Nauru;c08;Fibreboard;NA;NA;m3rw/m3p;0.00
-163;Northern Mariana Islands;c08;Fibreboard;NA;NA;m3rw/m3p;0.00
-164;Pacific Islands Trust Territory;c08;Fibreboard;NA;NA;m3rw/m3p;0.00
-172;Pitcairn Islands;c08;Fibreboard;NA;NA;m3rw/m3p;0.00
-180;Palau;c08;Fibreboard;NA;NA;m3rw/m3p;0.00
-187;Saint Helena, Ascension and Tristan da Cunha;c08;Fibreboard;NA;NA;m3rw/m3p;0.00
-188;Saint Kitts and Nevis;c08;Fibreboard;NA;NA;m3rw/m3p;0.00
-192;San Marino;c08;Fibreboard;NA;NA;m3rw/m3p;0.00
-205;Western Sahara;c08;Fibreboard;NA;NA;m3rw/m3p;0.00
-218;Tokelau;c08;Fibreboard;NA;NA;m3rw/m3p;0.00
-227;Tuvalu;c08;Fibreboard;NA;NA;m3rw/m3p;0.00
-228;USSR;c08;Fibreboard;NA;NA;m3rw/m3p;0.00
-242;Wake Island;c08;Fibreboard;NA;NA;m3rw/m3p;0.00
-243;Wallis and Futuna Islands;c08;Fibreboard;NA;NA;m3rw/m3p;0.00
-248;Yugoslav SFR;c08;Fibreboard;NA;NA;m3rw/m3p;0.00
-258;Anguilla;c08;Fibreboard;NA;NA;m3rw/m3p;0.00
-279;CuraÃ§ao;c08;Fibreboard;NA;NA;m3rw/m3p;0.00
-281;Saint-Martin (French Part);c08;Fibreboard;NA;NA;m3rw/m3p;0.00
-299;Palestine;c08;Fibreboard;NA;NA;m3rw/m3p;0.00
-252;Unspecified Area;c08;Fibreboard;NA;NA;m3rw/m3p;0.00
-254;Others (adjustment);c08;Fibreboard;NA;NA;m3rw/m3p;0.00
+5;American Samoa;c08;Fibreboard;NA;NA;m3sw/m3p;0.00
+8;Antigua and Barbuda;c08;Fibreboard;NA;NA;m3sw/m3p;0.00
+17;Bermuda;c08;Fibreboard;NA;NA;m3sw/m3p;0.00
+24;British Indian Ocean Territory;c08;Fibreboard;NA;NA;m3sw/m3p;0.00
+36;Cayman Islands;c08;Fibreboard;NA;NA;m3sw/m3p;0.00
+43;Cocos (Keeling) Islands;c08;Fibreboard;NA;NA;m3sw/m3p;0.00
+71;French Southern and Antarctic Territories;c08;Fibreboard;NA;NA;m3sw/m3p;0.00
+85;Greenland;c08;Fibreboard;NA;NA;m3sw/m3p;0.00
+86;Grenada;c08;Fibreboard;NA;NA;m3sw/m3p;0.00
+88;Guam;c08;Fibreboard;NA;NA;m3sw/m3p;0.00
+94;Holy See;c08;Fibreboard;NA;NA;m3sw/m3p;0.00
+127;Marshall Islands;c08;Fibreboard;NA;NA;m3sw/m3p;0.00
+142;Montserrat;c08;Fibreboard;NA;NA;m3sw/m3p;0.00
+148;Nauru;c08;Fibreboard;NA;NA;m3sw/m3p;0.00
+163;Northern Mariana Islands;c08;Fibreboard;NA;NA;m3sw/m3p;0.00
+164;Pacific Islands Trust Territory;c08;Fibreboard;NA;NA;m3sw/m3p;0.00
+172;Pitcairn Islands;c08;Fibreboard;NA;NA;m3sw/m3p;0.00
+180;Palau;c08;Fibreboard;NA;NA;m3sw/m3p;0.00
+187;Saint Helena, Ascension and Tristan da Cunha;c08;Fibreboard;NA;NA;m3sw/m3p;0.00
+188;Saint Kitts and Nevis;c08;Fibreboard;NA;NA;m3sw/m3p;0.00
+192;San Marino;c08;Fibreboard;NA;NA;m3sw/m3p;0.00
+205;Western Sahara;c08;Fibreboard;NA;NA;m3sw/m3p;0.00
+218;Tokelau;c08;Fibreboard;NA;NA;m3sw/m3p;0.00
+227;Tuvalu;c08;Fibreboard;NA;NA;m3sw/m3p;0.00
+228;USSR;c08;Fibreboard;NA;NA;m3sw/m3p;0.00
+242;Wake Island;c08;Fibreboard;NA;NA;m3sw/m3p;0.00
+243;Wallis and Futuna Islands;c08;Fibreboard;NA;NA;m3sw/m3p;0.00
+248;Yugoslav SFR;c08;Fibreboard;NA;NA;m3sw/m3p;0.00
+258;Anguilla;c08;Fibreboard;NA;NA;m3sw/m3p;0.00
+279;Curaçao;c08;Fibreboard;NA;NA;m3sw/m3p;0.00
+281;Saint-Martin (French Part);c08;Fibreboard;NA;NA;m3sw/m3p;0.00
+299;Palestine;c08;Fibreboard;NA;NA;m3sw/m3p;0.00
+252;Unspecified Area;c08;Fibreboard;NA;NA;m3sw/m3p;0.00
+254;Others (adjustment);c08;Fibreboard;NA;NA;m3sw/m3p;0.00
 ;ASI;c08;Fibreboard;NA;NA;m3sw/m3p;1.80
 ;EUR;c08;Fibreboard;NA;NA;m3sw/m3p;1.96
 ;AFR;c08;Fibreboard;NA;NA;m3sw/m3p;0.00
@@ -2947,40 +2947,40 @@ area_code;area;com_code;item;source_code;source;unit;tcf
 273;Montenegro;c09;Particle board ;NA;NA;m3sw/m3p;0.00
 276;Sudan;c09;Particle board ;NA;NA;m3sw/m3p;0.00
 277;South Sudan;c09;Particle board ;NA;NA;m3sw/m3p;0.00
-5;American Samoa;c09;Particle board;NA;NA;m3rw/m3p;0.00
-8;Antigua and Barbuda;c09;Particle board;NA;NA;m3rw/m3p;0.00
-17;Bermuda;c09;Particle board;NA;NA;m3rw/m3p;0.00
-24;British Indian Ocean Territory;c09;Particle board;NA;NA;m3rw/m3p;0.00
-36;Cayman Islands;c09;Particle board;NA;NA;m3rw/m3p;0.00
-43;Cocos (Keeling) Islands;c09;Particle board;NA;NA;m3rw/m3p;0.00
-71;French Southern and Antarctic Territories;c09;Particle board;NA;NA;m3rw/m3p;0.00
-85;Greenland;c09;Particle board;NA;NA;m3rw/m3p;0.00
-86;Grenada;c09;Particle board;NA;NA;m3rw/m3p;0.00
-88;Guam;c09;Particle board;NA;NA;m3rw/m3p;0.00
-94;Holy See;c09;Particle board;NA;NA;m3rw/m3p;0.00
-127;Marshall Islands;c09;Particle board;NA;NA;m3rw/m3p;0.00
-142;Montserrat;c09;Particle board;NA;NA;m3rw/m3p;0.00
-148;Nauru;c09;Particle board;NA;NA;m3rw/m3p;0.00
-163;Northern Mariana Islands;c09;Particle board;NA;NA;m3rw/m3p;0.00
-164;Pacific Islands Trust Territory;c09;Particle board;NA;NA;m3rw/m3p;0.00
-172;Pitcairn Islands;c09;Particle board;NA;NA;m3rw/m3p;0.00
-180;Palau;c09;Particle board;NA;NA;m3rw/m3p;0.00
-187;Saint Helena, Ascension and Tristan da Cunha;c09;Particle board;NA;NA;m3rw/m3p;0.00
-188;Saint Kitts and Nevis;c09;Particle board;NA;NA;m3rw/m3p;0.00
-192;San Marino;c09;Particle board;NA;NA;m3rw/m3p;0.00
-205;Western Sahara;c09;Particle board;NA;NA;m3rw/m3p;0.00
-218;Tokelau;c09;Particle board;NA;NA;m3rw/m3p;0.00
-227;Tuvalu;c09;Particle board;NA;NA;m3rw/m3p;0.00
-228;USSR;c09;Particle board;NA;NA;m3rw/m3p;0.00
-242;Wake Island;c09;Particle board;NA;NA;m3rw/m3p;0.00
-243;Wallis and Futuna Islands;c09;Particle board;NA;NA;m3rw/m3p;0.00
-248;Yugoslav SFR;c09;Particle board;NA;NA;m3rw/m3p;0.00
-258;Anguilla;c09;Particle board;NA;NA;m3rw/m3p;0.00
-279;CuraÃ§ao;c09;Particle board;NA;NA;m3rw/m3p;0.00
-281;Saint-Martin (French Part);c09;Particle board;NA;NA;m3rw/m3p;0.00
-299;Palestine;c09;Particle board;NA;NA;m3rw/m3p;0.00
-252;Unspecified Area;c09;Particle board;NA;NA;m3rw/m3p;0.00
-254;Others (adjustment);c09;Particle board;NA;NA;m3rw/m3p;0.00
+5;American Samoa;c09;Particle board;NA;NA;m3sw/m3p;0.00
+8;Antigua and Barbuda;c09;Particle board;NA;NA;m3sw/m3p;0.00
+17;Bermuda;c09;Particle board;NA;NA;m3sw/m3p;0.00
+24;British Indian Ocean Territory;c09;Particle board;NA;NA;m3sw/m3p;0.00
+36;Cayman Islands;c09;Particle board;NA;NA;m3sw/m3p;0.00
+43;Cocos (Keeling) Islands;c09;Particle board;NA;NA;m3sw/m3p;0.00
+71;French Southern and Antarctic Territories;c09;Particle board;NA;NA;m3sw/m3p;0.00
+85;Greenland;c09;Particle board;NA;NA;m3sw/m3p;0.00
+86;Grenada;c09;Particle board;NA;NA;m3sw/m3p;0.00
+88;Guam;c09;Particle board;NA;NA;m3sw/m3p;0.00
+94;Holy See;c09;Particle board;NA;NA;m3sw/m3p;0.00
+127;Marshall Islands;c09;Particle board;NA;NA;m3sw/m3p;0.00
+142;Montserrat;c09;Particle board;NA;NA;m3sw/m3p;0.00
+148;Nauru;c09;Particle board;NA;NA;m3sw/m3p;0.00
+163;Northern Mariana Islands;c09;Particle board;NA;NA;m3sw/m3p;0.00
+164;Pacific Islands Trust Territory;c09;Particle board;NA;NA;m3sw/m3p;0.00
+172;Pitcairn Islands;c09;Particle board;NA;NA;m3sw/m3p;0.00
+180;Palau;c09;Particle board;NA;NA;m3sw/m3p;0.00
+187;Saint Helena, Ascension and Tristan da Cunha;c09;Particle board;NA;NA;m3sw/m3p;0.00
+188;Saint Kitts and Nevis;c09;Particle board;NA;NA;m3sw/m3p;0.00
+192;San Marino;c09;Particle board;NA;NA;m3sw/m3p;0.00
+205;Western Sahara;c09;Particle board;NA;NA;m3sw/m3p;0.00
+218;Tokelau;c09;Particle board;NA;NA;m3sw/m3p;0.00
+227;Tuvalu;c09;Particle board;NA;NA;m3sw/m3p;0.00
+228;USSR;c09;Particle board;NA;NA;m3sw/m3p;0.00
+242;Wake Island;c09;Particle board;NA;NA;m3sw/m3p;0.00
+243;Wallis and Futuna Islands;c09;Particle board;NA;NA;m3sw/m3p;0.00
+248;Yugoslav SFR;c09;Particle board;NA;NA;m3sw/m3p;0.00
+258;Anguilla;c09;Particle board;NA;NA;m3sw/m3p;0.00
+279;Curaçao;c09;Particle board;NA;NA;m3sw/m3p;0.00
+281;Saint-Martin (French Part);c09;Particle board;NA;NA;m3sw/m3p;0.00
+299;Palestine;c09;Particle board;NA;NA;m3sw/m3p;0.00
+252;Unspecified Area;c09;Particle board;NA;NA;m3sw/m3p;0.00
+254;Others (adjustment);c09;Particle board;NA;NA;m3sw/m3p;0.00
 ;ASI;c09;Particle board ;NA;NA;m3sw/m3p;1.53
 ;EUR;c09;Particle board ;NA;NA;m3sw/m3p;1.54
 ;AFR;c09;Particle board ;NA;NA;m3sw/m3p;0.00
@@ -3225,7 +3225,7 @@ area_code;area;com_code;item;source_code;source;unit;tcf
 243;Wallis and Futuna Islands;c09;Particle board;NA;NA;kg/m3p;0.00
 248;Yugoslav SFR;c09;Particle board;NA;NA;kg/m3p;0.00
 258;Anguilla;c09;Particle board;NA;NA;kg/m3p;0.00
-279;CuraÃ§ao;c09;Particle board;NA;NA;kg/m3p;0.00
+279;Curaçao;c09;Particle board;NA;NA;kg/m3p;0.00
 281;Saint-Martin (French Part);c09;Particle board;NA;NA;kg/m3p;0.00
 299;Palestine;c09;Particle board;NA;NA;kg/m3p;0.00
 252;Unspecified Area;c09;Particle board;NA;NA;kg/m3p;0.00
@@ -3474,7 +3474,7 @@ area_code;area;com_code;item;source_code;source;unit;tcf
 243;Wallis and Futuna Islands;c10;OSB;NA;NA;m3sw/m3p;0.00
 248;Yugoslav SFR;c10;OSB;NA;NA;m3sw/m3p;0.00
 258;Anguilla;c10;OSB;NA;NA;m3sw/m3p;0.00
-279;CuraÃ§ao;c10;OSB;NA;NA;m3sw/m3p;0.00
+279;Curaçao;c10;OSB;NA;NA;m3sw/m3p;0.00
 281;Saint-Martin (French Part);c10;OSB;NA;NA;m3sw/m3p;0.00
 299;Palestine;c10;OSB;NA;NA;m3sw/m3p;0.00
 252;Unspecified Area;c10;OSB;NA;NA;m3sw/m3p;0.00
@@ -3723,7 +3723,7 @@ area_code;area;com_code;item;source_code;source;unit;tcf
 243;Wallis and Futuna Islands;c10;OSB;NA;NA;kg/m3p;0.00
 248;Yugoslav SFR;c10;OSB;NA;NA;kg/m3p;0.00
 258;Anguilla;c10;OSB;NA;NA;kg/m3p;0.00
-279;CuraÃ§ao;c10;OSB;NA;NA;kg/m3p;0.00
+279;Curaçao;c10;OSB;NA;NA;kg/m3p;0.00
 281;Saint-Martin (French Part);c10;OSB;NA;NA;kg/m3p;0.00
 299;Palestine;c10;OSB;NA;NA;kg/m3p;0.00
 252;Unspecified Area;c10;OSB;NA;NA;kg/m3p;0.00
@@ -3972,7 +3972,7 @@ area_code;area;com_code;item;source_code;source;unit;tcf
 243;Wallis and Futuna Islands;c11;Wood pulp;NA;NA;m3sw/tonne;0.00
 248;Yugoslav SFR;c11;Wood pulp;NA;NA;m3sw/tonne;0.00
 258;Anguilla;c11;Wood pulp;NA;NA;m3sw/tonne;0.00
-279;CuraÃ§ao;c11;Wood pulp;NA;NA;m3sw/tonne;0.00
+279;Curaçao;c11;Wood pulp;NA;NA;m3sw/tonne;0.00
 281;Saint-Martin (French Part);c11;Wood pulp;NA;NA;m3sw/tonne;0.00
 299;Palestine;c11;Wood pulp;NA;NA;m3sw/tonne;0.00
 252;Unspecified Area;c11;Wood pulp;NA;NA;m3sw/tonne;0.00
@@ -4221,7 +4221,7 @@ area_code;area;com_code;item;source_code;source;unit;tcf
 243;Wallis and Futuna Islands;c13;Recovered fibre pulp;c12;Recovered paper;mt/mt;0.00
 248;Yugoslav SFR;c13;Recovered fibre pulp;c12;Recovered paper;mt/mt;0.00
 258;Anguilla;c13;Recovered fibre pulp;c12;Recovered paper;mt/mt;0.00
-279;CuraÃ§ao;c13;Recovered fibre pulp;c12;Recovered paper;mt/mt;0.00
+279;Curaçao;c13;Recovered fibre pulp;c12;Recovered paper;mt/mt;0.00
 281;Saint-Martin (French Part);c13;Recovered fibre pulp;c12;Recovered paper;mt/mt;0.00
 299;Palestine;c13;Recovered fibre pulp;c12;Recovered paper;mt/mt;0.00
 252;Unspecified Area;c13;Recovered fibre pulp;c12;Recovered paper;mt/mt;0.00
@@ -4470,7 +4470,7 @@ area_code;area;com_code;item;source_code;source;unit;tcf
 243;Wallis and Futuna Islands;c13;Recovered fibre pulp;NA;NA;m3sw/tonne;0.00
 248;Yugoslav SFR;c13;Recovered fibre pulp;NA;NA;m3sw/tonne;0.00
 258;Anguilla;c13;Recovered fibre pulp;NA;NA;m3sw/tonne;0.00
-279;CuraÃ§ao;c13;Recovered fibre pulp;NA;NA;m3sw/tonne;0.00
+279;Curaçao;c13;Recovered fibre pulp;NA;NA;m3sw/tonne;0.00
 281;Saint-Martin (French Part);c13;Recovered fibre pulp;NA;NA;m3sw/tonne;0.00
 299;Palestine;c13;Recovered fibre pulp;NA;NA;m3sw/tonne;0.00
 252;Unspecified Area;c13;Recovered fibre pulp;NA;NA;m3sw/tonne;0.00
@@ -4719,7 +4719,7 @@ area_code;area;com_code;item;source_code;source;unit;tcf
 243;Wallis and Futuna Islands;c14;Paper and Paperboard;NA;NA;m3sw/tonne;0.00
 248;Yugoslav SFR;c14;Paper and Paperboard;NA;NA;m3sw/tonne;0.00
 258;Anguilla;c14;Paper and Paperboard;NA;NA;m3sw/tonne;0.00
-279;CuraÃ§ao;c14;Paper and Paperboard;NA;NA;m3sw/tonne;0.00
+279;Curaçao;c14;Paper and Paperboard;NA;NA;m3sw/tonne;0.00
 281;Saint-Martin (French Part);c14;Paper and Paperboard;NA;NA;m3sw/tonne;0.00
 299;Palestine;c14;Paper and Paperboard;NA;NA;m3sw/tonne;0.00
 252;Unspecified Area;c14;Paper and Paperboard;NA;NA;m3sw/tonne;0.00
@@ -4761,7 +4761,7 @@ area_code;area;com_code;item;source_code;source;unit;tcf
 37;Central African Republic;c15;Wood pellets and other agglomerates;NA;NA;m3sw/tonne;0.00
 38;Sri Lanka;c15;Wood pellets and other agglomerates;NA;NA;m3sw/tonne;0.00
 39;Chad;c15;Wood pellets and other agglomerates;NA;NA;m3sw/tonne;0.00
-40;Chile;c15;Wood pellets and other agglomerates;NA;NA;m3sw/tonne;1.53
+40;Chile;c15;Wood pellets and other agglomerates;NA;NA;m3sw/tonne;0.00
 41;China, mainland;c15;Wood pellets and other agglomerates;NA;NA;m3sw/tonne;2.20
 42;Christmas Island;c15;Wood pellets and other agglomerates;NA;NA;m3sw/tonne;0.00
 44;Colombia;c15;Wood pellets and other agglomerates;NA;NA;m3sw/tonne;0.00
@@ -4787,7 +4787,7 @@ area_code;area;com_code;item;source_code;source;unit;tcf
 65;Falkland Islands (Malvinas);c15;Wood pellets and other agglomerates;NA;NA;m3sw/tonne;0.00
 66;Fiji;c15;Wood pellets and other agglomerates;NA;NA;m3sw/tonne;0.00
 67;Finland;c15;Wood pellets and other agglomerates;NA;NA;m3sw/tonne;2.32
-68;France;c15;Wood pellets and other agglomerates;NA;NA;m3sw/tonne;2.35
+68;France;c15;Wood pellets and other agglomerates;NA;NA;m3sw/tonne;2.20
 69;French Guyana;c15;Wood pellets and other agglomerates;NA;NA;m3sw/tonne;0.00
 70;French Polynesia;c15;Wood pellets and other agglomerates;NA;NA;m3sw/tonne;0.00
 72;Djibouti;c15;Wood pellets and other agglomerates;NA;NA;m3sw/tonne;0.00
@@ -4835,7 +4835,7 @@ area_code;area;com_code;item;source_code;source;unit;tcf
 123;Liberia;c15;Wood pellets and other agglomerates;NA;NA;m3sw/tonne;0.00
 124;Libya;c15;Wood pellets and other agglomerates;NA;NA;m3sw/tonne;0.00
 125;Liechtenstein;c15;Wood pellets and other agglomerates;NA;NA;m3sw/tonne;0.00
-126;Lithuania;c15;Wood pellets and other agglomerates;NA;NA;m3sw/tonne;2.32
+126;Lithuania;c15;Wood pellets and other agglomerates;NA;NA;m3sw/tonne;2.16
 128;China, Macao SAR;c15;Wood pellets and other agglomerates;NA;NA;m3sw/tonne;0.00
 129;Madagascar;c15;Wood pellets and other agglomerates;NA;NA;m3sw/tonne;0.00
 130;Malawi;c15;Wood pellets and other agglomerates;NA;NA;m3sw/tonne;0.00
@@ -4968,7 +4968,7 @@ area_code;area;com_code;item;source_code;source;unit;tcf
 243;Wallis and Futuna Islands;c15;Wood pellets and other agglomerates;NA;NA;m3sw/tonne;0.00
 248;Yugoslav SFR;c15;Wood pellets and other agglomerates;NA;NA;m3sw/tonne;0.00
 258;Anguilla;c15;Wood pellets and other agglomerates;NA;NA;m3sw/tonne;0.00
-279;CuraÃ§ao;c15;Wood pellets and other agglomerates;NA;NA;m3sw/tonne;0.00
+279;Curaçao;c15;Wood pellets and other agglomerates;NA;NA;m3sw/tonne;0.00
 281;Saint-Martin (French Part);c15;Wood pellets and other agglomerates;NA;NA;m3sw/tonne;0.00
 299;Palestine;c15;Wood pellets and other agglomerates;NA;NA;m3sw/tonne;0.00
 252;Unspecified Area;c15;Wood pellets and other agglomerates;NA;NA;m3sw/tonne;0.00
@@ -4976,7 +4976,7 @@ area_code;area;com_code;item;source_code;source;unit;tcf
 ;ASI;c15;Wood pellets and other agglomerates;NA;NA;m3sw/tonne;2.25
 ;EUR;c15;Wood pellets and other agglomerates;NA;NA;m3sw/tonne;2.01
 ;AFR;c15;Wood pellets and other agglomerates;NA;NA;m3sw/tonne;0.00
-;LAM;c15;Wood pellets and other agglomerates;NA;NA;m3sw/tonne;1.53
+;LAM;c15;Wood pellets and other agglomerates;NA;NA;m3sw/tonne;0.00
 ;OCE;c15;Wood pellets and other agglomerates;NA;NA;m3sw/tonne;0.00
 ;NAM;c15;Wood pellets and other agglomerates;NA;NA;m3sw/tonne;2.09
 1;Armenia;c16;Wood charcoal;c03;Wood fuel;m3sw/tonne;0.00
@@ -5217,7 +5217,7 @@ area_code;area;com_code;item;source_code;source;unit;tcf
 243;Wallis and Futuna Islands;c16;Wood charcoal;c03;Wood fuel;m3sw/tonne;0.00
 248;Yugoslav SFR;c16;Wood charcoal;c03;Wood fuel;m3sw/tonne;0.00
 258;Anguilla;c16;Wood charcoal;c03;Wood fuel;m3sw/tonne;0.00
-279;CuraÃ§ao;c16;Wood charcoal;c03;Wood fuel;m3sw/tonne;0.00
+279;Curaçao;c16;Wood charcoal;c03;Wood fuel;m3sw/tonne;0.00
 281;Saint-Martin (French Part);c16;Wood charcoal;c03;Wood fuel;m3sw/tonne;0.00
 299;Palestine;c16;Wood charcoal;c03;Wood fuel;m3sw/tonne;0.00
 252;Unspecified Area;c16;Wood charcoal;c03;Wood fuel;m3sw/tonne;0.00
@@ -5466,7 +5466,7 @@ area_code;area;com_code;item;source_code;source;unit;tcf
 243;Wallis and Futuna Islands;c17;Wood chips and particles;NA;NA;m3p/m3sw;0.00
 248;Yugoslav SFR;c17;Wood chips and particles;NA;NA;m3p/m3sw;0.00
 258;Anguilla;c17;Wood chips and particles;NA;NA;m3p/m3sw;0.00
-279;CuraÃ§ao;c17;Wood chips and particles;NA;NA;m3p/m3sw;0.00
+279;Curaçao;c17;Wood chips and particles;NA;NA;m3p/m3sw;0.00
 281;Saint-Martin (French Part);c17;Wood chips and particles;NA;NA;m3p/m3sw;0.00
 299;Palestine;c17;Wood chips and particles;NA;NA;m3p/m3sw;0.00
 252;Unspecified Area;c17;Wood chips and particles;NA;NA;m3p/m3sw;0.00
@@ -5715,7 +5715,7 @@ area_code;area;com_code;item;source_code;source;unit;tcf
 243;Wallis and Futuna Islands;c18;Wood residues;NA;NA;m3p/m3sw;0.00
 248;Yugoslav SFR;c18;Wood residues;NA;NA;m3p/m3sw;0.00
 258;Anguilla;c18;Wood residues;NA;NA;m3p/m3sw;0.00
-279;CuraÃ§ao;c18;Wood residues;NA;NA;m3p/m3sw;0.00
+279;Curaçao;c18;Wood residues;NA;NA;m3p/m3sw;0.00
 281;Saint-Martin (French Part);c18;Wood residues;NA;NA;m3p/m3sw;0.00
 299;Palestine;c18;Wood residues;NA;NA;m3p/m3sw;0.00
 252;Unspecified Area;c18;Wood residues;NA;NA;m3p/m3sw;0.00
@@ -5964,7 +5964,7 @@ area_code;area;com_code;item;source_code;source;unit;tcf
 243;Wallis and Futuna Islands;c18;Wood residues;NA;NA;m3sw/tonne;0.00
 248;Yugoslav SFR;c18;Wood residues;NA;NA;m3sw/tonne;0.00
 258;Anguilla;c18;Wood residues;NA;NA;m3sw/tonne;0.00
-279;CuraÃ§ao;c18;Wood residues;NA;NA;m3sw/tonne;0.00
+279;Curaçao;c18;Wood residues;NA;NA;m3sw/tonne;0.00
 281;Saint-Martin (French Part);c18;Wood residues;NA;NA;m3sw/tonne;0.00
 299;Palestine;c18;Wood residues;NA;NA;m3sw/tonne;0.00
 252;Unspecified Area;c18;Wood residues;NA;NA;m3sw/tonne;0.00

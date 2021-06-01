@@ -34,7 +34,7 @@ cat("Calculate supply shares for multi-output processes.\n")
 shares <- merge(shares, cbs[, c("area_code", "year", "com_code", "production")],
   by = c("area_code", "com_code"), allow.cartesian = TRUE)
 
-# Derive roundwood equivalents (rwe) and apply supply shares to get estimates
+# Derive roundwood equivalents (rwe) and apply to get estimates of each by-product
 shares[, rwe := production / product]
 shares[, `:=`(chips_est = round(chips * rwe), residues_est = round(residues * rwe),
   product = production, production = NULL, rwe = NULL)]
@@ -61,7 +61,7 @@ shares <- merge(shares, tcf, by = c("area_code"), all.x = TRUE)
 shares[, `:=`(chips_cbs = round(chips_cbs / tcf_chips),
   residues_cbs = round(residues_cbs / tcf_residues))]
 
-# Calculate and select between scaled figures and adjusted estimate
+# Calculate and select between scaled and adjusted estimates
 shares[, `:=`(chips_scaled = chips_cbs * chips_est / chips_total,
               residues_scaled = residues_cbs * residues_est / residues_total)]
 shares[, `:=`(chips_adj = chips_scaled / chips_cbs * chips_total,
