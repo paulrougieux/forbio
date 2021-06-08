@@ -6,7 +6,7 @@ source("R/01_tidy_functions.R")
 
 regions <- fread("inst/regions.csv")
 items <- fread("inst/products.csv")
-years <- 1997:2020
+years <- 1997:2017
 
 cbs <- readRDS("data/cbs.rds")
 sup <- readRDS("data/sup.rds")
@@ -19,7 +19,7 @@ source_use <- fread("inst/source_use.csv")
 cbs[, energy := 0]
 cbs <- rename(cbs, "processing" = "use")
 cbs[com_code %in% c("c15","c16"), `:=`(energy = processing, processing = 0)]
-cbs[com_code %in% c("c03","c17","c18"), `:=`(energy = processing * 0.5, processing = processing * 0.5)]
+# cbs[com_code %in% c("c03","c17","c18"), `:=`(energy = processing * 0.5, processing = processing * 0.5)]
 
 
 # Create long use table
@@ -172,10 +172,6 @@ results[type=="tcf_cnc", `:=`(value = value * share)]
 results[, share := NULL]
 
 
-#-------------#-----------#------------#--------------#-------------#-----------------#
-# Hier weiter...
-
-
 # Redistribute input use for pellets production
 data <- results[type=="tcf_pellets", .(com_code, year, area_code, value)]
 data <- merge(data, cbs[, .(area_code, com_code, year, processing)],
@@ -184,7 +180,6 @@ data <- merge(data, data[com_code=="c18", .(year, area_code, share = processing 
   by = c("year", "area_code"), all.x = TRUE)
 data[com_code=="c18", `:=`(value = round(ifelse(share < 1, value * share, value)))]
 data[com_code %in% c("c03","c17"), `:=`(value = ifelse(share < 1, value * (1 - share), 0))]
-
 
 data <- merge(data, tcf_pellets[, .(area_code, com_code = source_code, tcf)],
   by = c("area_code", "com_code"))
@@ -246,6 +241,14 @@ cbs[, use := NULL]
 
 # TCF fill ------------------------------------------------------
 # we have allocated all remaining recovered paper to p14 paper production
+
+
+
+
+
+
+#-------------#-----------#------------#--------------#-------------#-----------------#
+# Hier weiter...
 
 
 

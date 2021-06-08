@@ -83,7 +83,8 @@ fore_prod <- area_fix(fore_prod, regions)
 
 
 # Cut down to certain products
-fore_prod <- dt_filter(fore_prod, item_code %in% products$item_code)
+fore_prod <- dt_filter(fore_prod, item_code %in% products$item_code |
+  grepl("sulphate", item))
 fore_prod <- dt_filter(fore_prod, value >= 0)
 # Recode "1000 US$" to "usd"
 fore_prod[unit == "1000 US$", `:=`(value = value * 1000, unit = "usd")]

@@ -18,6 +18,7 @@ p08,Fibreboard production,c08,Fibreboard,100%
 p09,Particle board production,c09,Particle board,100%
 p10,OSB production,c10,OSB,100%
 p11,Pulp production,c11,Wood pulp,100%
+p11,Pulp production,c20,Black liquor,100%
 p12,Paper recovering,c12,Recovered paper,100%
 p13,Recovered pulp production,c13,Recovered fibre pulp,100%
 p14,Paper and paperboard production,c14,Paper and paperboard,100%

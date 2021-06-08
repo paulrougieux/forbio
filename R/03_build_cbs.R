@@ -14,6 +14,13 @@ cat("\nBuilding commodity balances.\n")
 fore <- readRDS("input/fore_prod_tidy.rds")
 btd <- readRDS("input/btd_tidy.rds")
 
+# estimate black liquor production
+data <- fore[grepl("sulphate", item), .(area_code, area, year, unit, production)]
+data <- data[, list(production = sum(production, na.rm = TRUE)), by = c("area_code", "area", "year", "unit")]
+# 1.5 tonnes of 'black liquor solids' per 1 air-dried tonne of sulphate pulp (FAO/ITTO/UNECE 2020)
+data[, `:=`(item = "Black liquor", item_code = 9999, imports = 0, exports = 0, production = production * 1.5)]
+fore <- rbind(fore[!grepl("sulphate", item)], data)
+
 fore[, `:=`(com_code = items$com_code[match(fore$item_code, items$item_code)],
   item = items$item[match(fore$item_code, items$item_code)],
   item_code = NULL)]
