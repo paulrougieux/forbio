@@ -245,10 +245,104 @@ cbs[, use := NULL]
 
 
 
-
-
-#-------------#-----------#------------#--------------#-------------#-----------------#
-# Hier weiter...
+# # Optimise  ------------------------------------------------------
+# 
+# # Allocate feedstocks to the production of alcoholic beverages and sweeteners
+# opt_in <- unique(source_use[type == "optim", .(com_code = source_code, item = source)])
+# opt_in <- opt_in[com_code != "c13"]   # exclude c13 (Recovered fibre pulp) since we fully allocated it to paper
+# opt_out <- unique(source_use[type == "optim", .(com_code, item)])
+# tcf <- fread("inst/tcf_use_tidy.csv")
+# tcf_out <- tcf[com_code %in% opt_out$com_code & unit %in% c("m3sw/m3p", "m3sw/tonne")]
+# tcf_in <- tcf[com_code %in% opt_in$com_code & unit %in% c("m3rw/m3p", "m3p/m3sw")]
+# tcf_in[unit=="m3rw/m3p", `:=`(tcf = 1 / tcf, unit = "m3p/m3rw")]
+# # unique(tcf_in[, .(item, source, unit)])
+# # unique(tcf_out[, .(item, source, unit)])
+# opt_tcf <- merge(source_use[type=="optim" & com_code != "c13"],
+#   tcf_in[, .(area_code,source_code=com_code,tcf_in=tcf)],
+#   by = c("source_code"), allow.cartesian = TRUE)
+# opt_tcf <- merge(opt_tcf,
+#   tcf_out[, .(area_code,com_code,tcf_out=tcf)],
+#   by = c("area_code", "com_code"))
+# opt_tcf[, tcf := 1 / (tcf_in * tcf_out)]
+# setnames(opt_tcf, "source_code", "inp_code")
+# setnames(opt_tcf, "com_code", "out_code")
+# 
+# # Add processing / production information from the balances
+# input <- merge(opt_in,
+#   cbs[year %in% years, c("area_code", "year", "com_code", "processing")],
+#   by = "com_code", all.x = TRUE)
+# input <- input[is.finite(processing)]
+# output <- merge(opt_out,
+#   cbs[year %in% years, c("area_code", "year", "com_code", "production")],
+#   by = "com_code", all.x = TRUE)
+# output <- output[is.finite(production) & production > 0]
+# 
+# # Weights are in-out ratio (to bypass e.g. high water contents of beer)
+# weight_out <- opt_tcf[, list(weight = mean(tcf, na.rm = TRUE)),
+#   by = c("out_code", "area_code")]
+# 
+# 
+# # Optimise allocation -----
+# # This takes a very long time! Six cores are working in parallel for ~20 hours.
+# results <- lapply(sort(unique(input$area_code)), function(x) {
+#   # Per area
+#   inp_x <- input[area_code == x & year %in% 2011:2012, ]
+#   out_x <- output[area_code == x & year %in% 2011:2012, ]
+#   tcf_x <- opt_tcf[area_code == x, ]
+#   wt_x <- weight_out[area_code == x, ]
+#   res <- lapply(sort(unique(input$year)), function(y) {
+#     # Per year
+#     inp_xy <- inp_x[year == y, ]
+#     out_xy <- out_x[year == y, ]
+#     # Skip optimisation if no data is available
+#     if(inp_xy[, .N] == 0 || out_xy[, .N] == 0) {return(NULL)}
+#     tcf_xy <- tcf_x[inp_code %in% inp_xy$com_code &
+#       out_code %in% out_xy$com_code, ]
+#     wt_xy <- wt_x[out_code %in% out_xy$com_code, ]
+#     # set start values for optimization
+#     start <- tcf_xy
+#     start$production <- out_xy$production[match(start$out_code, out_xy$com_code)]
+#     start$processing <- inp_xy$processing[match(start$inp_code, inp_xy$com_code)]
+#     start$par <- start$production * use_items$share[match(paste(start$proc_code, start$inp_code),
+#       paste(use_items$proc_code, use_items$com_code))]
+#     # weigh start values for roundwood according to c/nc availability
+#     availability <- start$processing[1:2]
+#     availability <- availability / sum(availability, na.rm = TRUE)
+#     start$par[start$inp_code == "c01"] <- start$par[start$inp_code == "c01"] * availability[1]
+#     start$par[start$inp_code == "c02"] <- start$par[start$inp_code == "c02"] * availability[2]
+#     start$par <- start$par / start$tcf
+#     # Optimise on country x & year y
+#     opt <- optim(par = start$par, # rep(0, nrow(start)) # To-do: vectorise further
+#       fn = function(par) {
+#         I <- tcf_xy[, .(inp_code, par = par)][,
+#           list(x = na_sum(par)), by = c("inp_code")]
+#         O <- tcf_xy[, .(out_code, par = par * tcf)][,
+#           list(x = na_sum(par)), by = c("out_code")]
+#         # Get absolute deviations from target (ensuring correct order, output deviations weighted)
+#         prod_tgt <- out_xy$production[match(O$out_code, out_xy$com_code)]
+#         prod_err <- abs(prod_tgt - O$x) / wt_xy$weight
+#         proc_tgt <- inp_xy$processing[match(I$inp_code, inp_xy$com_code)]
+#         proc_err <- abs(proc_tgt - I$x)
+#         # Get relative deviations from target weighted by maximum absolute error
+#         prod_err_rel <- (prod_tgt - O$x) / prod_tgt * 100 # * max(prod_err)
+#         proc_err_rel <- (proc_tgt - I$x) / proc_tgt * 100 # * max(proc_err)
+#         # Sum of squared absolute deviations + 50% of weighted relative deviation
+#         return((sum(prod_err_rel^2) + sum(proc_err_rel^2))) # + sum(prod_err^2) + sum(proc_err^2)
+#     }, method = "L-BFGS-B", lower = 0.0001, upper = Inf)
+#     # check results
+#     # data <- dplyr::mutate(tcf_xy, result_in = opt$par, year = y)
+#     tcf_xy[, .(area_code, inp_code, out_code, tcf_in, tcf_out, tcf,
+#       production = start$production, processing = start$processing,
+#       par = round(start$par), result_in = round(opt$par),
+#       result_out = round(opt$par * tcf), year = y)]
+#   })
+#   return(rbindlist(res))
+# })
+# 
+# results <- rbindlist(results)
+# results[, result_in := round(result_in)]
+# saveRDS(results, paste0("./data/optim_results_",Sys.Date(),".rds"))
+# # results <- readRDS("./data/optim_results_2021-02-18.rds")
 
 
 
@@ -265,10 +359,10 @@ tcf_in <- tcf[com_code %in% opt_in$com_code & unit %in% c("m3rw/m3p", "m3p/m3sw"
 tcf_in[unit=="m3rw/m3p", `:=`(tcf = 1 / tcf, unit = "m3p/m3rw")]
 # unique(tcf_in[, .(item, source, unit)])
 # unique(tcf_out[, .(item, source, unit)])
-opt_tcf <- merge(source_use[type=="optim" & com_code != "c13"], 
+opt_tcf <- merge(source_use[type=="optim" & com_code != "c13"],
   tcf_in[, .(area_code,source_code=com_code,tcf_in=tcf)],
   by = c("source_code"), allow.cartesian = TRUE)
-opt_tcf <- merge(opt_tcf, 
+opt_tcf <- merge(opt_tcf,
   tcf_out[, .(area_code,com_code,tcf_out=tcf)],
   by = c("area_code", "com_code"))
 opt_tcf[, tcf := 1 / (tcf_in * tcf_out)]
@@ -277,9 +371,9 @@ setnames(opt_tcf, "com_code", "out_code")
 
 # Add processing / production information from the balances
 input <- merge(opt_in,
-  cbs[year %in% years, c("area_code", "year", "com_code", "processing")],
+  cbs[year %in% years, .(area_code, year, com_code, processing, supply = na_sum(production, imports, - exports))],
   by = "com_code", all.x = TRUE)
-input <- input[is.finite(processing) & processing > 0]
+# input <- input[is.finite(processing)]
 output <- merge(opt_out,
   cbs[year %in% years, c("area_code", "year", "com_code", "production")],
   by = "com_code", all.x = TRUE)
@@ -287,15 +381,15 @@ output <- output[is.finite(production) & production > 0]
 
 # Weights are in-out ratio (to bypass e.g. high water contents of beer)
 weight_out <- opt_tcf[, list(weight = mean(tcf, na.rm = TRUE)),
-  by = c("out_code", "area_code")]
+                      by = c("out_code", "area_code")]
 
 
 # Optimise allocation -----
 # This takes a very long time! Six cores are working in parallel for ~20 hours.
 results <- lapply(sort(unique(input$area_code)), function(x) {
   # Per area
-  inp_x <- input[area_code == x, ]
-  out_x <- output[area_code == x, ]
+  inp_x <- input[area_code == x & year %in% 2011:2012, ]
+  out_x <- output[area_code == x & year %in% 2011:2012, ]
   tcf_x <- opt_tcf[area_code == x, ]
   wt_x <- weight_out[area_code == x, ]
   res <- lapply(sort(unique(input$year)), function(y) {
@@ -305,30 +399,44 @@ results <- lapply(sort(unique(input$area_code)), function(x) {
     # Skip optimisation if no data is available
     if(inp_xy[, .N] == 0 || out_xy[, .N] == 0) {return(NULL)}
     tcf_xy <- tcf_x[inp_code %in% inp_xy$com_code &
-      out_code %in% out_xy$com_code, ]
+                      out_code %in% out_xy$com_code, ]
     wt_xy <- wt_x[out_code %in% out_xy$com_code, ]
+    # set start values for optimization
+    start <- tcf_xy
+    start$production <- out_xy$production[match(start$out_code, out_xy$com_code)]
+    start$processing <- inp_xy$processing[match(start$inp_code, inp_xy$com_code)]
+    start$par <- start$production * use_items$share[match(paste(start$proc_code, start$inp_code),
+                                                          paste(use_items$proc_code, use_items$com_code))]
+    # weigh start values for roundwood according to c/nc availability
+    availability <- start$processing[1:2]
+    availability <- availability / sum(availability, na.rm = TRUE)
+    start$par[start$inp_code == "c01"] <- start$par[start$inp_code == "c01"] * availability[1]
+    start$par[start$inp_code == "c02"] <- start$par[start$inp_code == "c02"] * availability[2]
+    start$par <- start$par / start$tcf
     # Optimise on country x & year y
-    opt <- optim(par = rep(0, nrow(tcf_xy)), # To-do: vectorise further
-      fn = function(par) {
-        I <- tcf_xy[, .(inp_code, par = par)][,
-          list(x = na_sum(par)), by = c("inp_code")]
-        O <- tcf_xy[, .(out_code, par = par * tcf)][,
-          list(x = na_sum(par)), by = c("out_code")]
-        # Get absolute deviations from target (ensuring correct order, output deviations weighted)
-        prod_tgt <- out_xy$production[match(O$out_code, out_xy$com_code)]
-        prod_err <- abs(prod_tgt - O$x) / wt_xy$weight
-        proc_tgt <- inp_xy$processing[match(I$inp_code, inp_xy$com_code)]
-        proc_err <- abs(proc_tgt - I$x)
-        # Get relative deviations from target weighted by maximum absolute error
-        prod_err_rel <- abs(prod_tgt - O$x) / prod_tgt * max(prod_err)
-        proc_err_rel <- abs(proc_tgt - I$x) / proc_tgt * max(proc_err)
-        # Sum of squared absolute deviations + 50% of weighted relative deviation
-        return(sum(prod_err^2) + sum(proc_err^2) + (sum(prod_err_rel^2) + sum(proc_err_rel^2)) / 2)
-    }, method = "L-BFGS-B", lower = 0, upper = Inf)
+    opt <- optim(par = start$par, # rep(0, nrow(start)) # To-do: vectorise further
+                 fn = function(par) {
+                   I <- tcf_xy[, .(inp_code, par = par)][,
+                                                         list(x = na_sum(par)), by = c("inp_code")]
+                   O <- tcf_xy[, .(out_code, par = par * tcf)][,
+                                                               list(x = na_sum(par)), by = c("out_code")]
+                   # Get absolute deviations from target (ensuring correct order, output deviations weighted)
+                   prod_tgt <- out_xy$production[match(O$out_code, out_xy$com_code)]
+                   prod_err <- abs(prod_tgt - O$x) / wt_xy$weight
+                   proc_tgt <- inp_xy$processing[match(I$inp_code, inp_xy$com_code)]
+                   proc_err <- abs(proc_tgt - I$x)
+                   # Get relative deviations from target weighted by maximum absolute error
+                   prod_err_rel <- (prod_tgt - O$x) / prod_tgt * 100 # * max(prod_err)
+                   proc_err_rel <- (proc_tgt - I$x) / proc_tgt * 100 # * max(proc_err)
+                   # Sum of squared absolute deviations + 50% of weighted relative deviation
+                   return((sum(prod_err_rel^2) + sum(proc_err_rel^2))) # + sum(prod_err^2) + sum(proc_err^2)
+                 }, method = "L-BFGS-B", lower = 0.0001, upper = Inf)
     # check results
     # data <- dplyr::mutate(tcf_xy, result_in = opt$par, year = y)
     tcf_xy[, .(area_code, inp_code, out_code, tcf_in, tcf_out, tcf,
-      result_in = opt$par, year = y)]
+               production = start$production, processing = start$processing,
+               par = round(start$par), result_in = round(opt$par),
+               result_out = round(opt$par * tcf), year = y)]
   })
   return(rbindlist(res))
 })
