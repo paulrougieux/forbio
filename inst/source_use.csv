@@ -16,12 +16,22 @@ p09;Particle board production;c17;Wood chips and particles;c09;Particle board;op
 p09;Particle board production;c18;Wood residues;c09;Particle board;optim
 p10;OSB production;c01;Industrial roundwood, coniferous;c10;OSB;tcf_cnc
 p10;OSB production;c02;Industrial roundwood, non-coniferous;c10;OSB;tcf_cnc
-p11;Pulp production;c01;Industrial roundwood, coniferous;c11;Wood pulp;optim
-p11;Pulp production;c02;Industrial roundwood, non-coniferous;c11;Wood pulp;optim
-p11;Pulp production;c17;Wood chips and particles;c11;Wood pulp;optim
-p11;Pulp production;c18;Wood residues;c11;Wood pulp;optim
+p11a;Chemical pulp production;c01;Industrial roundwood, coniferous;c11a;Chemical wood pulp;optim
+p11a;Chemical pulp production;c02;Industrial roundwood, non-coniferous;c11a;Chemical wood pulp;optim
+p11a;Chemical pulp production;c17;Wood chips and particles;c11a;Chemical wood pulp;optim
+p11a;Chemical pulp production;c18;Wood residues;0;c11a;Chemical wood pulp;optim
+p11b;Mechanical and semi-chemical pulp production;c01;Industrial roundwood, coniferous;c11b;Mechanical and semi-chemical wood pulp;optim
+p11b;Mechanical and semi-chemical pulp production;c02;Industrial roundwood, non-coniferous;c11b;Mechanical and semi-chemical wood pulp;optim
+p11b;Mechanical and semi-chemical pulp production;c17;Wood chips and particles;c11b;Mechanical and semi-chemical wood pulp;optim
+p11b;Mechanical and semi-chemical pulp production;c18;Wood residues;c11b;Mechanical and semi-chemical wood pulp;optim
+p11d;Dissolving pulp production;c01;Industrial roundwood, coniferous;c11d;Dissolving wood pulp;optim
+p11d;Dissolving pulp production;c02;Industrial roundwood, non-coniferous;c11d;Dissolving wood pulp;optim
+p11d;Dissolving pulp production;c17;Wood chips and particles;c11d;Dissolving wood pulp;optim
+p11d;Dissolving pulp production;c18;Wood residues;c11d;Dissolving wood pulp;optim
 p13;Recovered pulp production;c12;Recovered paper;c13;Recovered fibre pulp;tcf
-p14;Paper and paperboard production;c11;Wood pulp;c14;Paper and paperboard;100%
+p14;Paper and paperboard production;c11a;Chemical wood pulp;c14;Paper and paperboard;100%
+p14;Paper and paperboard production;c11b;Mechanical and semi-chemical wood pulp;c14;Paper and paperboard;100%
+p14;Paper and paperboard production;c11c;Pulp from fibres other than wood;c14;Paper and paperboard;100%
 p14;Paper and paperboard production;c12;Recovered paper;c14;Paper and paperboard;100%
 p14;Paper and paperboard production;c13;Recovered fibre pulp;c14;Paper and paperboard;tcf_fill
 p15;Pellet production;c03;Wood fuel;c15;Wood pellets and other agglomerates;tcf_pellets

@@ -16,10 +16,18 @@ p09;Particle board production;c17;Wood chips and particles;0.25;optim
 p09;Particle board production;c18;Wood residues;0.5;optim
 p10;OSB production;c01;Industrial roundwood, coniferous;1;tcf_cnc
 p10;OSB production;c02;Industrial roundwood, non-coniferous;1;tcf_cnc
-p11;Pulp production;c01;Industrial roundwood, coniferous;0.666666667;optim
-p11;Pulp production;c02;Industrial roundwood, non-coniferous;0.666666667;optim
-p11;Pulp production;c17;Wood chips and particles;0.333333333;optim
-p11;Pulp production;c18;Wood residues;0;optim
+p11a;Chemical pulp production;c01;Industrial roundwood, coniferous;0.666666667;optim
+p11a;Chemical pulp production;c02;Industrial roundwood, non-coniferous;0.666666667;optim
+p11a;Chemical pulp production;c17;Wood chips and particles;0.333333333;optim
+p11a;Chemical pulp production;c18;Wood residues;0;optim
+p11b;Mechanical and semi-chemical pulp production;c01;Industrial roundwood, coniferous;0.666666667;optim
+p11b;Mechanical and semi-chemical pulp production;c02;Industrial roundwood, non-coniferous;0.666666667;optim
+p11b;Mechanical and semi-chemical pulp production;c17;Wood chips and particles;0.333333333;optim
+p11b;Mechanical and semi-chemical pulp production;c18;Wood residues;0;optim
+p11d;Dissolving pulp production;c01;Industrial roundwood, coniferous;0.666666667;optim
+p11d;Dissolving pulp production;c02;Industrial roundwood, non-coniferous;0.666666667;optim
+p11d;Dissolving pulp production;c17;Wood chips and particles;0.333333333;optim
+p11d;Dissolving pulp production;c18;Wood residues;0;optim
 p13;Recovered pulp production;c12;Recovered paper;1;tcf
 p14;Paper and paperboard production;c11;Wood pulp;1;100%
 p14;Paper and paperboard production;c12;Recovered paper;0;100%
