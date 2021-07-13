@@ -10,7 +10,10 @@ c08,Fibreboard,1874,m3
 c09,Particle board,1646,m3
 c09,Particle board,1697,m3
 c10,OSB,1606,m3
-c11,Wood pulp,1875,tonnes
+c11a,Chemical wood pulp,1656,tonnes
+c11b,Mechanical and semi-chemical wood pulp,1685,tonnes
+c11c,Pulp from fibres other than wood,1668,tonnes
+c11d,Dissolving wood pulp,1667,tonnes
 c12,Recovered paper,1669,tonnes
 c13,Recovered fibre pulp,1609,tonnes
 c14,Paper and paperboard,1876,tonnes

@@ -82,6 +82,12 @@ fore_prod <- area_fix(fore_prod, regions)
 #     `:=`(area_code=15, area="Belgium-Luxembourg")]
 
 
+# merge mechanical and semi-chemical wood pulp
+fore_prod <- fore_prod[item_code %in% c(1654, 1655), 
+  `:=`(item_code = 1685, item = "Mechanical and semi-chemical wood pulp")]
+fore_prod <- fore_prod[, list(value = na_sum(value)), 
+  by = c("area_code", "area", "item_code", "item", "element", "year", "unit")]
+
 # Cut down to certain products
 fore_prod <- dt_filter(fore_prod, item_code %in% products$item_code |
   grepl("sulphate", item))

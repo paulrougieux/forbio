@@ -4,6 +4,22 @@ c09,Particle board,441010,swe,92,,tonnes,m3
 c09,Particle board,441011,swe,,12,tonnes,m3
 c10,OSB,441012,swe,,12,tonnes,m3
 c10,OSB,441019,swe,,12,tonnes,m3
+c11a,Chemical wood pulp,470311,1,92,92,tonnes,tonnes
+c11a,Chemical wood pulp,470319,1,92,92,tonnes,tonnes
+c11a,Chemical wood pulp,470321,1,92,92,tonnes,tonnes
+c11a,Chemical wood pulp,470329,1,92,92,tonnes,tonnes
+c11a,Chemical wood pulp,470411,1,92,92,tonnes,tonnes
+c11a,Chemical wood pulp,470419,1,92,92,tonnes,tonnes
+c11a,Chemical wood pulp,470421,1,92,92,tonnes,tonnes
+c11a,Chemical wood pulp,470429,1,92,92,tonnes,tonnes
+c11b,Mechanical and semi-chemical wood pulp,470100,1,92,92,tonnes,tonnes
+c11b,Mechanical and semi-chemical wood pulp,470500,1,92,92,tonnes,tonnes
+c11c,Pulp from fibres other than wood,470610,1,92,92,tonnes,tonnes
+c11c,Pulp from fibres other than wood,470630,1,,12,tonnes,tonnes
+c11c,Pulp from fibres other than wood,470691,1,92,92,tonnes,tonnes
+c11c,Pulp from fibres other than wood,470692,1,92,92,tonnes,tonnes
+c11c,Pulp from fibres other than wood,470693,1,92,92,tonnes,tonnes
+c11d,Dissolving wood pulp,470200,1,92,92,tonnes,tonnes
 c12,Recovered paper,470710,1,92,92,tonnes,tonnes
 c12,Recovered paper,470720,1,92,92,tonnes,tonnes
 c12,Recovered paper,470730,1,92,92,tonnes,tonnes
