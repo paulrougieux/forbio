@@ -1,10 +1,10 @@
 
-# Trade -------------------------------------------------------------------
+# Trade -----------------------------------------------------------------
 
 library("data.table")
 source("R/00_prep_functions.R")
 path_trade <- "input/"
-path_baci <- "~/wu_share/WU/Projekte/GRU/04_Daten/Socio-Economic data/BACI/"
+path_baci <- "/mnt/nfs_fineprint/tmp/forbio/data/"
 
 
 # BACI ------------------------------------------------------------------

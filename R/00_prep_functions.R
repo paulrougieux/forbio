@@ -71,7 +71,7 @@ fa_extract <- function(
 
   if(length(zip) == 1 && length(extr) > 1 || is.null(extr)) {
     if(v) cat("Extracting multiple files from a single ZIP archive\n")
-    csv <- unzip(zip, extr, exdir = gsub("(.*)/", "\\1", path_out))
+    csv <- unzip(zip, extr, junkpaths = T, exdir = gsub("(.*)/", "\\1", path_out))
   } else {
     if(v) cat("Extracting single files from multiple ZIP archives\n")
     csv <- vector("character", length(zip))
@@ -94,7 +94,7 @@ fa_extract <- function(
   }
 
   if(stack) {
-    if(v) cat("Stacking CSV files via data.table::rbindlist()")
+    if(v) cat("Stacking CSV files via data.table::rbindlist()\n")
     rds <- data.table::rbindlist(rds)
   } 
 
