@@ -38,7 +38,6 @@ p04,AFR,181,Zimbabwe,"Sawnmill industry, coniferous",0.494845360824742,0.2061855
 p04,AFR,182,Reunion,"Sawnmill industry, coniferous",0.494845360824742,0.206185567010309,0.298969072164948
 p04,AFR,184,Rwanda,"Sawnmill industry, coniferous",0.494845360824742,0.206185567010309,0.298969072164948
 p04,AFR,187,"Saint Helena, Ascension and Tristan da Cunha","Sawnmill industry, coniferous",0.494845360824742,0.206185567010309,0.298969072164948
-p04,AFR,187,"Saint Helena, Ascension and Tristan da Cunha","Sawnmill industry, non-coniferous all",0.494845360824742,0.206185567010309,0.298969072164948
 p04,AFR,193,Sao Tome and Principe,"Sawnmill industry, coniferous",0.494845360824742,0.206185567010309,0.298969072164948
 p04,AFR,195,Senegal,"Sawnmill industry, coniferous",0.494845360824742,0.206185567010309,0.298969072164948
 p04,AFR,196,Seychelles,"Sawnmill industry, coniferous",0.494845360824742,0.206185567010309,0.298969072164948
@@ -46,7 +45,6 @@ p04,AFR,197,Sierra Leone,"Sawnmill industry, coniferous",0.494845360824742,0.206
 p04,AFR,201,Somalia,"Sawnmill industry, coniferous",0.494845360824742,0.206185567010309,0.298969072164948
 p04,AFR,202,South Africa,"Sawnmill industry, coniferous",0.494845360824742,0.206185567010309,0.298969072164948
 p04,AFR,205,Western Sahara,"Sawnmill industry, coniferous",0.494845360824742,0.206185567010309,0.298969072164948
-p04,AFR,205,Western Sahara,"Sawnmill industry, non-coniferous all",0.494845360824742,0.206185567010309,0.298969072164948
 p04,AFR,209,Eswatini,"Sawnmill industry, coniferous",0.494845360824742,0.206185567010309,0.298969072164948
 p04,AFR,215,United Republic of Tanzania,"Sawnmill industry, coniferous",0.494845360824742,0.206185567010309,0.298969072164948
 p04,AFR,217,Togo,"Sawnmill industry, coniferous",0.494845360824742,0.206185567010309,0.298969072164948
@@ -66,7 +64,6 @@ p04,ASI,13,Bahrain,"Sawnmill industry, coniferous",0.526315789473684,0.273684210
 p04,ASI,16,Bangladesh,"Sawnmill industry, coniferous",0.526315789473684,0.273684210526316,0.2
 p04,ASI,18,Bhutan,"Sawnmill industry, coniferous",0.526315789473684,0.273684210526316,0.2
 p04,ASI,24,British Indian Ocean Territory,"Sawnmill industry, coniferous",0.526315789473684,0.273684210526316,0.2
-p04,ASI,24,British Indian Ocean Territory,"Sawnmill industry, non-coniferous all",0.526315789473684,0.273684210526316,0.2
 p04,ASI,26,Brunei Darussalam,"Sawnmill industry, coniferous",0.526315789473684,0.273684210526316,0.2
 p04,ASI,28,Myanmar,"Sawnmill industry, coniferous",0.526315789473684,0.273684210526316,0.2
 p04,ASI,38,Sri Lanka,"Sawnmill industry, coniferous",0.526315789473684,0.273684210526316,0.2
@@ -95,7 +92,6 @@ p04,ASI,132,Maldives,"Sawnmill industry, coniferous",0.526315789473684,0.2736842
 p04,ASI,141,Mongolia,"Sawnmill industry, coniferous",0.526315789473684,0.273684210526316,0.2
 p04,ASI,149,Nepal,"Sawnmill industry, coniferous",0.526315789473684,0.273684210526316,0.2
 p04,ASI,164,Pacific Islands Trust Territory,"Sawnmill industry, coniferous",0.526315789473684,0.273684210526316,0.2
-p04,ASI,164,Pacific Islands Trust Territory,"Sawnmill industry, non-coniferous all",0.526315789473684,0.273684210526316,0.2
 p04,ASI,165,Pakistan,"Sawnmill industry, coniferous",0.526315789473684,0.273684210526316,0.2
 p04,ASI,171,Philippines,"Sawnmill industry, coniferous",0.526315789473684,0.273684210526316,0.2
 p04,ASI,176,Timor-Leste,"Sawnmill industry, coniferous",0.526315789473684,0.273684210526316,0.2
@@ -111,12 +107,10 @@ p04,ASI,216,Thailand,"Sawnmill industry, coniferous",0.526315789473684,0.2736842
 p04,ASI,221,Oman,"Sawnmill industry, coniferous",0.526315789473684,0.273684210526316,0.2
 p04,ASI,225,United Arab Emirates,"Sawnmill industry, coniferous",0.526315789473684,0.273684210526316,0.2
 p04,ASI,228,USSR,"Sawnmill industry, coniferous",0.526315789473684,0.273684210526316,0.2
-p04,ASI,228,USSR,"Sawnmill industry, non-coniferous all",0.526315789473684,0.273684210526316,0.2
 p04,ASI,235,Uzbekistan,"Sawnmill industry, coniferous",0.526315789473684,0.273684210526316,0.2
 p04,ASI,237,Viet Nam,"Sawnmill industry, coniferous",0.526315789473684,0.273684210526316,0.2
 p04,ASI,249,Yemen,"Sawnmill industry, coniferous",0.526315789473684,0.273684210526316,0.2
 p04,ASI,299,Palestine,"Sawnmill industry, coniferous",0.526315789473684,0.273684210526316,0.2
-p04,ASI,299,Palestine,"Sawnmill industry, non-coniferous all",0.526315789473684,0.273684210526316,0.2
 p04,EUR,3,Albania,"Sawnmill industry, coniferous",0.572916666666667,0.291666666666667,0.135416666666667
 p04,EUR,6,Andorra,"Sawnmill industry, coniferous",0.572916666666667,0.291666666666667,0.135416666666667
 p04,EUR,11,Austria,"Sawnmill industry, coniferous",0.625,0.25609756097561,0.11890243902439
@@ -135,9 +129,7 @@ p04,EUR,80,Bosnia and Herzegovina,"Sawnmill industry, coniferous",0.572916666666
 p04,EUR,82,Gibraltar,"Sawnmill industry, coniferous",0.572916666666667,0.291666666666667,0.135416666666667
 p04,EUR,84,Greece,"Sawnmill industry, coniferous",0.572916666666667,0.291666666666667,0.135416666666667
 p04,EUR,85,Greenland,"Sawnmill industry, coniferous",0.572916666666667,0.291666666666667,0.135416666666667
-p04,EUR,85,Greenland,"Sawnmill industry, non-coniferous all",0.572916666666667,0.291666666666667,0.135416666666667
 p04,EUR,94,Holy See,"Sawnmill industry, coniferous",0.572916666666667,0.291666666666667,0.135416666666667
-p04,EUR,94,Holy See,"Sawnmill industry, non-coniferous all",0.572916666666667,0.291666666666667,0.135416666666667
 p04,EUR,97,Hungary,"Sawnmill industry, coniferous",0.572916666666667,0.291666666666667,0.135416666666667
 p04,EUR,98,Croatia,"Sawnmill industry, coniferous",0.572916666666667,0.291666666666667,0.135416666666667
 p04,EUR,99,Iceland,"Sawnmill industry, coniferous",0.572916666666667,0.291666666666667,0.135416666666667
@@ -157,7 +149,6 @@ p04,EUR,174,Portugal,"Sawnmill industry, coniferous",0.520833333333333,0.3272357
 p04,EUR,183,Romania,"Sawnmill industry, coniferous",0.572916666666667,0.291666666666667,0.135416666666667
 p04,EUR,186,Serbia and Montenegro,"Sawnmill industry, coniferous",0.572916666666667,0.291666666666667,0.135416666666667
 p04,EUR,192,San Marino,"Sawnmill industry, coniferous",0.572916666666667,0.291666666666667,0.135416666666667
-p04,EUR,192,San Marino,"Sawnmill industry, non-coniferous all",0.572916666666667,0.291666666666667,0.135416666666667
 p04,EUR,198,Slovenia,"Sawnmill industry, coniferous",0.589473684210526,0.284210526315789,0.126315789473684
 p04,EUR,199,Slovakia,"Sawnmill industry, coniferous",0.659090909090909,0.215909090909091,0.125
 p04,EUR,203,Spain,"Sawnmill industry, coniferous",0.634408602150538,0.236559139784946,0.129032258064516
@@ -167,24 +158,20 @@ p04,EUR,223,Turkey,"Sawnmill industry, coniferous",0.572916666666667,0.291666666
 p04,EUR,229,United Kingdom,"Sawnmill industry, coniferous",0.556701030927835,0.309278350515464,0.134020618556701
 p04,EUR,230,Ukraine,"Sawnmill industry, coniferous",0.64367816091954,0.241379310344828,0.114942528735632
 p04,EUR,248,Yugoslav SFR,"Sawnmill industry, coniferous",0.572916666666667,0.291666666666667,0.135416666666667
-p04,EUR,248,Yugoslav SFR,"Sawnmill industry, non-coniferous all",0.572916666666667,0.291666666666667,0.135416666666667
 p04,EUR,255,Belgium,"Sawnmill industry, coniferous",0.572916666666667,0.291666666666667,0.135416666666667
 p04,EUR,256,Luxembourg,"Sawnmill industry, coniferous",0.572916666666667,0.291666666666667,0.135416666666667
 p04,EUR,272,Serbia,"Sawnmill industry, coniferous",0.572916666666667,0.291666666666667,0.135416666666667
 p04,EUR,273,Montenegro,"Sawnmill industry, coniferous",0.572916666666667,0.291666666666667,0.135416666666667
 p04,LAM,8,Antigua and Barbuda,"Sawnmill industry, coniferous",0.494845360824742,0.309278350515464,0.195876288659794
-p04,LAM,8,Antigua and Barbuda,"Sawnmill industry, non-coniferous all",0.494845360824742,0.309278350515464,0.195876288659794
 p04,LAM,9,Argentina,"Sawnmill industry, coniferous",0.494845360824742,0.309278350515464,0.195876288659794
 p04,LAM,12,Bahamas,"Sawnmill industry, coniferous",0.494845360824742,0.309278350515464,0.195876288659794
 p04,LAM,14,Barbados,"Sawnmill industry, coniferous",0.494845360824742,0.309278350515464,0.195876288659794
 p04,LAM,17,Bermuda,"Sawnmill industry, coniferous",0.494845360824742,0.309278350515464,0.195876288659794
-p04,LAM,17,Bermuda,"Sawnmill industry, non-coniferous all",0.494845360824742,0.309278350515464,0.195876288659794
 p04,LAM,19,Bolivia (Plurinational State of),"Sawnmill industry, coniferous",0.494845360824742,0.309278350515464,0.195876288659794
 p04,LAM,21,Brazil,"Sawnmill industry, coniferous",0.463917525773196,0.328213759730696,0.207868714496108
 p04,LAM,22,Aruba,"Sawnmill industry, coniferous",0.494845360824742,0.309278350515464,0.195876288659794
 p04,LAM,23,Belize,"Sawnmill industry, coniferous",0.494845360824742,0.309278350515464,0.195876288659794
 p04,LAM,36,Cayman Islands,"Sawnmill industry, coniferous",0.494845360824742,0.309278350515464,0.195876288659794
-p04,LAM,36,Cayman Islands,"Sawnmill industry, non-coniferous all",0.494845360824742,0.309278350515464,0.195876288659794
 p04,LAM,40,Chile,"Sawnmill industry, coniferous",0.51,0.3,0.19
 p04,LAM,44,Colombia,"Sawnmill industry, coniferous",0.494845360824742,0.309278350515464,0.195876288659794
 p04,LAM,48,Costa Rica,"Sawnmill industry, coniferous",0.494845360824742,0.309278350515464,0.195876288659794
@@ -196,7 +183,6 @@ p04,LAM,60,El Salvador,"Sawnmill industry, coniferous",0.494845360824742,0.30927
 p04,LAM,65,Falkland Islands (Malvinas),"Sawnmill industry, coniferous",0.494845360824742,0.309278350515464,0.195876288659794
 p04,LAM,69,French Guyana,"Sawnmill industry, coniferous",0.494845360824742,0.309278350515464,0.195876288659794
 p04,LAM,86,Grenada,"Sawnmill industry, coniferous",0.494845360824742,0.309278350515464,0.195876288659794
-p04,LAM,86,Grenada,"Sawnmill industry, non-coniferous all",0.494845360824742,0.309278350515464,0.195876288659794
 p04,LAM,87,Guadeloupe,"Sawnmill industry, coniferous",0.494845360824742,0.309278350515464,0.195876288659794
 p04,LAM,89,Guatemala,"Sawnmill industry, coniferous",0.494845360824742,0.309278350515464,0.195876288659794
 p04,LAM,91,Guyana,"Sawnmill industry, coniferous",0.494845360824742,0.309278350515464,0.195876288659794
@@ -206,14 +192,12 @@ p04,LAM,109,Jamaica,"Sawnmill industry, coniferous",0.494845360824742,0.30927835
 p04,LAM,135,Martinique,"Sawnmill industry, coniferous",0.494845360824742,0.309278350515464,0.195876288659794
 p04,LAM,138,Mexico,"Sawnmill industry, coniferous",0.494845360824742,0.309278350515464,0.195876288659794
 p04,LAM,142,Montserrat,"Sawnmill industry, coniferous",0.494845360824742,0.309278350515464,0.195876288659794
-p04,LAM,142,Montserrat,"Sawnmill industry, non-coniferous all",0.494845360824742,0.309278350515464,0.195876288659794
 p04,LAM,151,Netherlands Antilles,"Sawnmill industry, coniferous",0.494845360824742,0.309278350515464,0.195876288659794
 p04,LAM,157,Nicaragua,"Sawnmill industry, coniferous",0.494845360824742,0.309278350515464,0.195876288659794
 p04,LAM,166,Panama,"Sawnmill industry, coniferous",0.494845360824742,0.309278350515464,0.195876288659794
 p04,LAM,169,Paraguay,"Sawnmill industry, coniferous",0.494845360824742,0.309278350515464,0.195876288659794
 p04,LAM,170,Peru,"Sawnmill industry, coniferous",0.494845360824742,0.309278350515464,0.195876288659794
 p04,LAM,188,Saint Kitts and Nevis,"Sawnmill industry, coniferous",0.494845360824742,0.309278350515464,0.195876288659794
-p04,LAM,188,Saint Kitts and Nevis,"Sawnmill industry, non-coniferous all",0.494845360824742,0.309278350515464,0.195876288659794
 p04,LAM,189,Saint Lucia,"Sawnmill industry, coniferous",0.494845360824742,0.309278350515464,0.195876288659794
 p04,LAM,191,Saint Vincent and the Grenadines,"Sawnmill industry, coniferous",0.494845360824742,0.309278350515464,0.195876288659794
 p04,LAM,207,Suriname,"Sawnmill industry, coniferous",0.494845360824742,0.309278350515464,0.195876288659794
@@ -223,59 +207,41 @@ p04,LAM,234,Uruguay,"Sawnmill industry, coniferous",0.494845360824742,0.30927835
 p04,LAM,236,Venezuela (Bolivarian Republic of),"Sawnmill industry, coniferous",0.494845360824742,0.309278350515464,0.195876288659794
 p04,LAM,239,British Virgin Islands,"Sawnmill industry, coniferous",0.494845360824742,0.309278350515464,0.195876288659794
 p04,LAM,258,Anguilla,"Sawnmill industry, coniferous",0.494845360824742,0.309278350515464,0.195876288659794
-p04,LAM,258,Anguilla,"Sawnmill industry, non-coniferous all",0.494845360824742,0.309278350515464,0.195876288659794
 p04,LAM,279,Curaçao,"Sawnmill industry, coniferous",0.494845360824742,0.309278350515464,0.195876288659794
-p04,LAM,279,Curaçao,"Sawnmill industry, non-coniferous all",0.494845360824742,0.309278350515464,0.195876288659794
 p04,LAM,281,Saint-Martin (French Part),"Sawnmill industry, coniferous",0.494845360824742,0.309278350515464,0.195876288659794
-p04,LAM,281,Saint-Martin (French Part),"Sawnmill industry, non-coniferous all",0.494845360824742,0.309278350515464,0.195876288659794
 p04,NAM,33,Canada,"Sawnmill industry, coniferous",0.46875,0.395833333333333,0.135416666666667
 p04,NAM,190,Saint Pierre and Miquelon,"Sawnmill industry, coniferous",0.489583333333333,0.333333333333333,0.177083333333333
 p04,NAM,231,United States of America,"Sawnmill industry, coniferous",0.510416666666667,0.28125,0.208333333333333
 p04,OCE,5,American Samoa,"Sawnmill industry, coniferous",0.515592515592516,0.282744282744283,0.201663201663202
-p04,OCE,5,American Samoa,"Sawnmill industry, non-coniferous all",0.515592515592516,0.282744282744283,0.201663201663202
 p04,OCE,10,Australia,"Sawnmill industry, coniferous",0.515592515592516,0.282744282744283,0.201663201663202
 p04,OCE,25,Solomon Islands,"Sawnmill industry, coniferous",0.515592515592516,0.282744282744283,0.201663201663202
 p04,OCE,42,Christmas Island,"Sawnmill industry, coniferous",0.515592515592516,0.282744282744283,0.201663201663202
 p04,OCE,43,Cocos (Keeling) Islands,"Sawnmill industry, coniferous",0.515592515592516,0.282744282744283,0.201663201663202
-p04,OCE,43,Cocos (Keeling) Islands,"Sawnmill industry, non-coniferous all",0.515592515592516,0.282744282744283,0.201663201663202
 p04,OCE,47,Cook Islands,"Sawnmill industry, coniferous",0.515592515592516,0.282744282744283,0.201663201663202
 p04,OCE,66,Fiji,"Sawnmill industry, coniferous",0.515592515592516,0.282744282744283,0.201663201663202
 p04,OCE,70,French Polynesia,"Sawnmill industry, coniferous",0.515592515592516,0.282744282744283,0.201663201663202
 p04,OCE,71,French Southern and Antarctic Territories,"Sawnmill industry, coniferous",0.515592515592516,0.282744282744283,0.201663201663202
-p04,OCE,71,French Southern and Antarctic Territories,"Sawnmill industry, non-coniferous all",0.515592515592516,0.282744282744283,0.201663201663202
 p04,OCE,83,Kiribati,"Sawnmill industry, coniferous",0.515592515592516,0.282744282744283,0.201663201663202
 p04,OCE,88,Guam,"Sawnmill industry, coniferous",0.515592515592516,0.282744282744283,0.201663201663202
-p04,OCE,88,Guam,"Sawnmill industry, non-coniferous all",0.515592515592516,0.282744282744283,0.201663201663202
 p04,OCE,127,Marshall Islands,"Sawnmill industry, coniferous",0.515592515592516,0.282744282744283,0.201663201663202
-p04,OCE,127,Marshall Islands,"Sawnmill industry, non-coniferous all",0.515592515592516,0.282744282744283,0.201663201663202
 p04,OCE,145,Micronesia (Federated States of),"Sawnmill industry, coniferous",0.515592515592516,0.282744282744283,0.201663201663202
 p04,OCE,148,Nauru,"Sawnmill industry, coniferous",0.515592515592516,0.282744282744283,0.201663201663202
-p04,OCE,148,Nauru,"Sawnmill industry, non-coniferous all",0.515592515592516,0.282744282744283,0.201663201663202
 p04,OCE,153,New Caledonia,"Sawnmill industry, coniferous",0.515592515592516,0.282744282744283,0.201663201663202
 p04,OCE,155,Vanuatu,"Sawnmill industry, coniferous",0.515592515592516,0.282744282744283,0.201663201663202
 p04,OCE,156,New Zealand,"Sawnmill industry, coniferous",0.515592515592516,0.282744282744283,0.201663201663202
 p04,OCE,160,Niue,"Sawnmill industry, coniferous",0.515592515592516,0.282744282744283,0.201663201663202
 p04,OCE,161,Norfolk Island,"Sawnmill industry, coniferous",0.515592515592516,0.282744282744283,0.201663201663202
 p04,OCE,163,Northern Mariana Islands,"Sawnmill industry, coniferous",0.515592515592516,0.282744282744283,0.201663201663202
-p04,OCE,163,Northern Mariana Islands,"Sawnmill industry, non-coniferous all",0.515592515592516,0.282744282744283,0.201663201663202
 p04,OCE,168,Papua New Guinea,"Sawnmill industry, coniferous",0.515592515592516,0.282744282744283,0.201663201663202
 p04,OCE,172,Pitcairn Islands,"Sawnmill industry, coniferous",0.515592515592516,0.282744282744283,0.201663201663202
-p04,OCE,172,Pitcairn Islands,"Sawnmill industry, non-coniferous all",0.515592515592516,0.282744282744283,0.201663201663202
 p04,OCE,180,Palau,"Sawnmill industry, coniferous",0.515592515592516,0.282744282744283,0.201663201663202
-p04,OCE,180,Palau,"Sawnmill industry, non-coniferous all",0.515592515592516,0.282744282744283,0.201663201663202
 p04,OCE,218,Tokelau,"Sawnmill industry, coniferous",0.515592515592516,0.282744282744283,0.201663201663202
-p04,OCE,218,Tokelau,"Sawnmill industry, non-coniferous all",0.515592515592516,0.282744282744283,0.201663201663202
 p04,OCE,227,Tuvalu,"Sawnmill industry, coniferous",0.515592515592516,0.282744282744283,0.201663201663202
-p04,OCE,227,Tuvalu,"Sawnmill industry, non-coniferous all",0.515592515592516,0.282744282744283,0.201663201663202
 p04,OCE,242,Wake Island,"Sawnmill industry, coniferous",0.515592515592516,0.282744282744283,0.201663201663202
-p04,OCE,242,Wake Island,"Sawnmill industry, non-coniferous all",0.515592515592516,0.282744282744283,0.201663201663202
 p04,OCE,243,Wallis and Futuna Islands,"Sawnmill industry, coniferous",0.515592515592516,0.282744282744283,0.201663201663202
-p04,OCE,243,Wallis and Futuna Islands,"Sawnmill industry, non-coniferous all",0.515592515592516,0.282744282744283,0.201663201663202
 p04,OCE,244,Samoa,"Sawnmill industry, coniferous",0.515592515592516,0.282744282744283,0.201663201663202
 p04,XXX,252,Unspecified Area,"Sawnmill industry, coniferous",0.515592515592516,0.282744282744283,0.201663201663202
-p04,XXX,252,Unspecified Area,"Sawnmill industry, non-coniferous all",0.515592515592516,0.282744282744283,0.201663201663202
 p04,XXX,254,Others (adjustment),"Sawnmill industry, coniferous",0.515592515592516,0.282744282744283,0.201663201663202
-p04,XXX,254,Others (adjustment),"Sawnmill industry, non-coniferous all",0.515592515592516,0.282744282744283,0.201663201663202
 p05,AFR,4,Algeria,"Sawnmill industry, non-coniferous all",0.591397849462366,0.225806451612903,0.182795698924731
 p05,AFR,7,Angola,"Sawnmill industry, non-coniferous all",0.591397849462366,0.225806451612903,0.182795698924731
 p05,AFR,20,Botswana,"Sawnmill industry, non-coniferous all",0.591397849462366,0.225806451612903,0.182795698924731
@@ -314,12 +280,14 @@ p05,AFR,178,Eritrea,"Sawnmill industry, non-coniferous all",0.591397849462366,0.
 p05,AFR,181,Zimbabwe,"Sawnmill industry, non-coniferous all",0.591397849462366,0.225806451612903,0.182795698924731
 p05,AFR,182,Reunion,"Sawnmill industry, non-coniferous all",0.591397849462366,0.225806451612903,0.182795698924731
 p05,AFR,184,Rwanda,"Sawnmill industry, non-coniferous all",0.591397849462366,0.225806451612903,0.182795698924731
+p05,AFR,187,"Saint Helena, Ascension and Tristan da Cunha","Sawnmill industry, non-coniferous all",0.591397849462366,0.225806451612903,0.182795698924731
 p05,AFR,193,Sao Tome and Principe,"Sawnmill industry, non-coniferous all",0.591397849462366,0.225806451612903,0.182795698924731
 p05,AFR,195,Senegal,"Sawnmill industry, non-coniferous all",0.591397849462366,0.225806451612903,0.182795698924731
 p05,AFR,196,Seychelles,"Sawnmill industry, non-coniferous all",0.591397849462366,0.225806451612903,0.182795698924731
 p05,AFR,197,Sierra Leone,"Sawnmill industry, non-coniferous all",0.591397849462366,0.225806451612903,0.182795698924731
 p05,AFR,201,Somalia,"Sawnmill industry, non-coniferous all",0.591397849462366,0.225806451612903,0.182795698924731
 p05,AFR,202,South Africa,"Sawnmill industry, non-coniferous all",0.591397849462366,0.225806451612903,0.182795698924731
+p05,AFR,205,Western Sahara,"Sawnmill industry, non-coniferous all",0.591397849462366,0.225806451612903,0.182795698924731
 p05,AFR,209,Eswatini,"Sawnmill industry, non-coniferous all",0.591397849462366,0.225806451612903,0.182795698924731
 p05,AFR,215,United Republic of Tanzania,"Sawnmill industry, non-coniferous all",0.591397849462366,0.225806451612903,0.182795698924731
 p05,AFR,217,Togo,"Sawnmill industry, non-coniferous all",0.591397849462366,0.225806451612903,0.182795698924731
@@ -338,6 +306,7 @@ p05,ASI,2,Afghanistan,"Sawnmill industry, non-coniferous all",0.610526315789474,
 p05,ASI,13,Bahrain,"Sawnmill industry, non-coniferous all",0.610526315789474,0.252631578947368,0.136842105263158
 p05,ASI,16,Bangladesh,"Sawnmill industry, non-coniferous all",0.610526315789474,0.252631578947368,0.136842105263158
 p05,ASI,18,Bhutan,"Sawnmill industry, non-coniferous all",0.610526315789474,0.252631578947368,0.136842105263158
+p05,ASI,24,British Indian Ocean Territory,"Sawnmill industry, non-coniferous all",0.610526315789474,0.252631578947368,0.136842105263158
 p05,ASI,26,Brunei Darussalam,"Sawnmill industry, non-coniferous all",0.610526315789474,0.252631578947368,0.136842105263158
 p05,ASI,28,Myanmar,"Sawnmill industry, non-coniferous all",0.610526315789474,0.252631578947368,0.136842105263158
 p05,ASI,38,Sri Lanka,"Sawnmill industry, non-coniferous all",0.610526315789474,0.252631578947368,0.136842105263158
@@ -365,6 +334,7 @@ p05,ASI,131,Malaysia,"Sawnmill industry, non-coniferous all",0.663157894736842,0
 p05,ASI,132,Maldives,"Sawnmill industry, non-coniferous all",0.610526315789474,0.252631578947368,0.136842105263158
 p05,ASI,141,Mongolia,"Sawnmill industry, non-coniferous all",0.610526315789474,0.252631578947368,0.136842105263158
 p05,ASI,149,Nepal,"Sawnmill industry, non-coniferous all",0.610526315789474,0.252631578947368,0.136842105263158
+p05,ASI,164,Pacific Islands Trust Territory,"Sawnmill industry, non-coniferous all",0.610526315789474,0.252631578947368,0.136842105263158
 p05,ASI,165,Pakistan,"Sawnmill industry, non-coniferous all",0.610526315789474,0.252631578947368,0.136842105263158
 p05,ASI,171,Philippines,"Sawnmill industry, non-coniferous all",0.610526315789474,0.252631578947368,0.136842105263158
 p05,ASI,176,Timor-Leste,"Sawnmill industry, non-coniferous all",0.610526315789474,0.252631578947368,0.136842105263158
@@ -379,9 +349,11 @@ p05,ASI,214,"China, Taiwan Province of","Sawnmill industry, non-coniferous all",
 p05,ASI,216,Thailand,"Sawnmill industry, non-coniferous all",0.610526315789474,0.252631578947368,0.136842105263158
 p05,ASI,221,Oman,"Sawnmill industry, non-coniferous all",0.610526315789474,0.252631578947368,0.136842105263158
 p05,ASI,225,United Arab Emirates,"Sawnmill industry, non-coniferous all",0.610526315789474,0.252631578947368,0.136842105263158
+p05,ASI,228,USSR,"Sawnmill industry, non-coniferous all",0.610526315789474,0.252631578947368,0.136842105263158
 p05,ASI,235,Uzbekistan,"Sawnmill industry, non-coniferous all",0.610526315789474,0.252631578947368,0.136842105263158
 p05,ASI,237,Viet Nam,"Sawnmill industry, non-coniferous all",0.610526315789474,0.252631578947368,0.136842105263158
 p05,ASI,249,Yemen,"Sawnmill industry, non-coniferous all",0.610526315789474,0.252631578947368,0.136842105263158
+p05,ASI,299,Palestine,"Sawnmill industry, non-coniferous all",0.610526315789474,0.252631578947368,0.136842105263158
 p05,EUR,3,Albania,"Sawnmill industry, non-coniferous all",0.547368421052632,0.284210526315789,0.168421052631579
 p05,EUR,6,Andorra,"Sawnmill industry, non-coniferous all",0.547368421052632,0.284210526315789,0.168421052631579
 p05,EUR,11,Austria,"Sawnmill industry, non-coniferous all",0.368421052631579,0.396572827417381,0.23500611995104
@@ -399,6 +371,8 @@ p05,EUR,79,Germany,"Sawnmill industry, non-coniferous all",0.625,0.1458333333333
 p05,EUR,80,Bosnia and Herzegovina,"Sawnmill industry, non-coniferous all",0.547368421052632,0.284210526315789,0.168421052631579
 p05,EUR,82,Gibraltar,"Sawnmill industry, non-coniferous all",0.547368421052632,0.284210526315789,0.168421052631579
 p05,EUR,84,Greece,"Sawnmill industry, non-coniferous all",0.547368421052632,0.284210526315789,0.168421052631579
+p05,EUR,85,Greenland,"Sawnmill industry, non-coniferous all",0.547368421052632,0.284210526315789,0.168421052631579
+p05,EUR,94,Holy See,"Sawnmill industry, non-coniferous all",0.547368421052632,0.284210526315789,0.168421052631579
 p05,EUR,97,Hungary,"Sawnmill industry, non-coniferous all",0.547368421052632,0.284210526315789,0.168421052631579
 p05,EUR,98,Croatia,"Sawnmill industry, non-coniferous all",0.547368421052632,0.284210526315789,0.168421052631579
 p05,EUR,99,Iceland,"Sawnmill industry, non-coniferous all",0.547368421052632,0.284210526315789,0.168421052631579
@@ -417,6 +391,7 @@ p05,EUR,173,Poland,"Sawnmill industry, non-coniferous all",0.642857142857143,0.1
 p05,EUR,174,Portugal,"Sawnmill industry, non-coniferous all",0.6,0.251162790697674,0.148837209302326
 p05,EUR,183,Romania,"Sawnmill industry, non-coniferous all",0.547368421052632,0.284210526315789,0.168421052631579
 p05,EUR,186,Serbia and Montenegro,"Sawnmill industry, non-coniferous all",0.547368421052632,0.284210526315789,0.168421052631579
+p05,EUR,192,San Marino,"Sawnmill industry, non-coniferous all",0.547368421052632,0.284210526315789,0.168421052631579
 p05,EUR,198,Slovenia,"Sawnmill industry, non-coniferous all",0.547368421052632,0.284210526315789,0.168421052631579
 p05,EUR,199,Slovakia,"Sawnmill industry, non-coniferous all",0.717391304347826,0.184782608695652,0.0978260869565217
 p05,EUR,203,Spain,"Sawnmill industry, non-coniferous all",0.563829787234043,0.287234042553192,0.148936170212766
@@ -425,17 +400,21 @@ p05,EUR,211,Switzerland,"Sawnmill industry, non-coniferous all",0.54736842105263
 p05,EUR,223,Turkey,"Sawnmill industry, non-coniferous all",0.547368421052632,0.284210526315789,0.168421052631579
 p05,EUR,229,United Kingdom,"Sawnmill industry, non-coniferous all",0.421052631578947,0.363525091799266,0.215422276621787
 p05,EUR,230,Ukraine,"Sawnmill industry, non-coniferous all",0.642105263157895,0.252631578947368,0.105263157894737
+p05,EUR,248,Yugoslav SFR,"Sawnmill industry, non-coniferous all",0.547368421052632,0.284210526315789,0.168421052631579
 p05,EUR,255,Belgium,"Sawnmill industry, non-coniferous all",0.547368421052632,0.284210526315789,0.168421052631579
 p05,EUR,256,Luxembourg,"Sawnmill industry, non-coniferous all",0.547368421052632,0.284210526315789,0.168421052631579
 p05,EUR,272,Serbia,"Sawnmill industry, non-coniferous all",0.547368421052632,0.284210526315789,0.168421052631579
 p05,EUR,273,Montenegro,"Sawnmill industry, non-coniferous all",0.547368421052632,0.284210526315789,0.168421052631579
+p05,LAM,8,Antigua and Barbuda,"Sawnmill industry, non-coniferous all",0.46,0.44,0.1
 p05,LAM,9,Argentina,"Sawnmill industry, non-coniferous all",0.46,0.44,0.1
 p05,LAM,12,Bahamas,"Sawnmill industry, non-coniferous all",0.46,0.44,0.1
 p05,LAM,14,Barbados,"Sawnmill industry, non-coniferous all",0.46,0.44,0.1
+p05,LAM,17,Bermuda,"Sawnmill industry, non-coniferous all",0.46,0.44,0.1
 p05,LAM,19,Bolivia (Plurinational State of),"Sawnmill industry, non-coniferous all",0.46,0.44,0.1
 p05,LAM,21,Brazil,"Sawnmill industry, non-coniferous all",0.45,0.448148148148148,0.101851851851852
 p05,LAM,22,Aruba,"Sawnmill industry, non-coniferous all",0.46,0.44,0.1
 p05,LAM,23,Belize,"Sawnmill industry, non-coniferous all",0.46,0.44,0.1
+p05,LAM,36,Cayman Islands,"Sawnmill industry, non-coniferous all",0.46,0.44,0.1
 p05,LAM,40,Chile,"Sawnmill industry, non-coniferous all",0.52,0.391111111111111,0.0888888888888889
 p05,LAM,44,Colombia,"Sawnmill industry, non-coniferous all",0.46,0.44,0.1
 p05,LAM,48,Costa Rica,"Sawnmill industry, non-coniferous all",0.46,0.44,0.1
@@ -446,6 +425,7 @@ p05,LAM,58,Ecuador,"Sawnmill industry, non-coniferous all",0.46,0.44,0.1
 p05,LAM,60,El Salvador,"Sawnmill industry, non-coniferous all",0.46,0.44,0.1
 p05,LAM,65,Falkland Islands (Malvinas),"Sawnmill industry, non-coniferous all",0.46,0.44,0.1
 p05,LAM,69,French Guyana,"Sawnmill industry, non-coniferous all",0.46,0.44,0.1
+p05,LAM,86,Grenada,"Sawnmill industry, non-coniferous all",0.46,0.44,0.1
 p05,LAM,87,Guadeloupe,"Sawnmill industry, non-coniferous all",0.46,0.44,0.1
 p05,LAM,89,Guatemala,"Sawnmill industry, non-coniferous all",0.46,0.44,0.1
 p05,LAM,91,Guyana,"Sawnmill industry, non-coniferous all",0.4,0.488888888888889,0.111111111111111
@@ -454,11 +434,13 @@ p05,LAM,95,Honduras,"Sawnmill industry, non-coniferous all",0.46,0.44,0.1
 p05,LAM,109,Jamaica,"Sawnmill industry, non-coniferous all",0.46,0.44,0.1
 p05,LAM,135,Martinique,"Sawnmill industry, non-coniferous all",0.46,0.44,0.1
 p05,LAM,138,Mexico,"Sawnmill industry, non-coniferous all",0.46,0.44,0.1
+p05,LAM,142,Montserrat,"Sawnmill industry, non-coniferous all",0.46,0.44,0.1
 p05,LAM,151,Netherlands Antilles,"Sawnmill industry, non-coniferous all",0.46,0.44,0.1
 p05,LAM,157,Nicaragua,"Sawnmill industry, non-coniferous all",0.46,0.44,0.1
 p05,LAM,166,Panama,"Sawnmill industry, non-coniferous all",0.46,0.44,0.1
 p05,LAM,169,Paraguay,"Sawnmill industry, non-coniferous all",0.46,0.44,0.1
 p05,LAM,170,Peru,"Sawnmill industry, non-coniferous all",0.46,0.44,0.1
+p05,LAM,188,Saint Kitts and Nevis,"Sawnmill industry, non-coniferous all",0.46,0.44,0.1
 p05,LAM,189,Saint Lucia,"Sawnmill industry, non-coniferous all",0.46,0.44,0.1
 p05,LAM,191,Saint Vincent and the Grenadines,"Sawnmill industry, non-coniferous all",0.46,0.44,0.1
 p05,LAM,207,Suriname,"Sawnmill industry, non-coniferous all",0.46,0.44,0.1
@@ -467,507 +449,529 @@ p05,LAM,224,Turks and Caicos Islands,"Sawnmill industry, non-coniferous all",0.4
 p05,LAM,234,Uruguay,"Sawnmill industry, non-coniferous all",0.46,0.44,0.1
 p05,LAM,236,Venezuela (Bolivarian Republic of),"Sawnmill industry, non-coniferous all",0.46,0.44,0.1
 p05,LAM,239,British Virgin Islands,"Sawnmill industry, non-coniferous all",0.46,0.44,0.1
+p05,LAM,258,Anguilla,"Sawnmill industry, non-coniferous all",0.46,0.44,0.1
+p05,LAM,279,Curaçao,"Sawnmill industry, non-coniferous all",0.46,0.44,0.1
+p05,LAM,281,Saint-Martin (French Part),"Sawnmill industry, non-coniferous all",0.46,0.44,0.1
 p05,NAM,33,Canada,"Sawnmill industry, non-coniferous all",0.53125,0.34375,0.125
 p05,NAM,190,Saint Pierre and Miquelon,"Sawnmill industry, non-coniferous all",0.54639175257732,0.319587628865979,0.134020618556701
 p05,NAM,231,United States of America,"Sawnmill industry, non-coniferous all",0.551020408163265,0.306122448979592,0.142857142857143
+p05,OCE,5,American Samoa,"Sawnmill industry, non-coniferous all",0.55,0.30625,0.14375
 p05,OCE,10,Australia,"Sawnmill industry, non-coniferous all",0.55,0.30625,0.14375
 p05,OCE,25,Solomon Islands,"Sawnmill industry, non-coniferous all",0.55,0.30625,0.14375
 p05,OCE,42,Christmas Island,"Sawnmill industry, non-coniferous all",0.55,0.30625,0.14375
+p05,OCE,43,Cocos (Keeling) Islands,"Sawnmill industry, non-coniferous all",0.55,0.30625,0.14375
 p05,OCE,47,Cook Islands,"Sawnmill industry, non-coniferous all",0.55,0.30625,0.14375
 p05,OCE,66,Fiji,"Sawnmill industry, non-coniferous all",0.55,0.30625,0.14375
 p05,OCE,70,French Polynesia,"Sawnmill industry, non-coniferous all",0.55,0.30625,0.14375
+p05,OCE,71,French Southern and Antarctic Territories,"Sawnmill industry, non-coniferous all",0.55,0.30625,0.14375
 p05,OCE,83,Kiribati,"Sawnmill industry, non-coniferous all",0.55,0.30625,0.14375
+p05,OCE,88,Guam,"Sawnmill industry, non-coniferous all",0.55,0.30625,0.14375
+p05,OCE,127,Marshall Islands,"Sawnmill industry, non-coniferous all",0.55,0.30625,0.14375
 p05,OCE,145,Micronesia (Federated States of),"Sawnmill industry, non-coniferous all",0.55,0.30625,0.14375
+p05,OCE,148,Nauru,"Sawnmill industry, non-coniferous all",0.55,0.30625,0.14375
 p05,OCE,153,New Caledonia,"Sawnmill industry, non-coniferous all",0.55,0.30625,0.14375
 p05,OCE,155,Vanuatu,"Sawnmill industry, non-coniferous all",0.55,0.30625,0.14375
 p05,OCE,156,New Zealand,"Sawnmill industry, non-coniferous all",0.55,0.30625,0.14375
 p05,OCE,160,Niue,"Sawnmill industry, non-coniferous all",0.55,0.30625,0.14375
 p05,OCE,161,Norfolk Island,"Sawnmill industry, non-coniferous all",0.55,0.30625,0.14375
+p05,OCE,163,Northern Mariana Islands,"Sawnmill industry, non-coniferous all",0.55,0.30625,0.14375
 p05,OCE,168,Papua New Guinea,"Sawnmill industry, non-coniferous all",0.55,0.30625,0.14375
+p05,OCE,172,Pitcairn Islands,"Sawnmill industry, non-coniferous all",0.55,0.30625,0.14375
+p05,OCE,180,Palau,"Sawnmill industry, non-coniferous all",0.55,0.30625,0.14375
+p05,OCE,218,Tokelau,"Sawnmill industry, non-coniferous all",0.55,0.30625,0.14375
+p05,OCE,227,Tuvalu,"Sawnmill industry, non-coniferous all",0.55,0.30625,0.14375
+p05,OCE,242,Wake Island,"Sawnmill industry, non-coniferous all",0.55,0.30625,0.14375
+p05,OCE,243,Wallis and Futuna Islands,"Sawnmill industry, non-coniferous all",0.55,0.30625,0.14375
 p05,OCE,244,Samoa,"Sawnmill industry, non-coniferous all",0.55,0.30625,0.14375
-p06,AFR,4,Algeria,Veneer production,0.552083333333333,0.4375,0.0104166666666667
-p06,AFR,7,Angola,Veneer production,0.552083333333333,0.4375,0.0104166666666667
-p06,AFR,20,Botswana,Veneer production,0.552083333333333,0.4375,0.0104166666666667
-p06,AFR,29,Burundi,Veneer production,0.552083333333333,0.4375,0.0104166666666667
-p06,AFR,32,Cameroon,Veneer production,0.552083333333333,0.4375,0.0104166666666667
-p06,AFR,35,Cabo Verde,Veneer production,0.552083333333333,0.4375,0.0104166666666667
-p06,AFR,37,Central African Republic,Veneer production,0.552083333333333,0.4375,0.0104166666666667
-p06,AFR,39,Chad,Veneer production,0.552083333333333,0.4375,0.0104166666666667
-p06,AFR,45,Comoros,Veneer production,0.552083333333333,0.4375,0.0104166666666667
-p06,AFR,46,Congo,Veneer production,0.552083333333333,0.4375,0.0104166666666667
-p06,AFR,53,Benin,Veneer production,0.552083333333333,0.4375,0.0104166666666667
-p06,AFR,59,Egypt,Veneer production,0.552083333333333,0.4375,0.0104166666666667
-p06,AFR,61,Equatorial Guinea,Veneer production,0.552083333333333,0.4375,0.0104166666666667
-p06,AFR,72,Djibouti,Veneer production,0.552083333333333,0.4375,0.0104166666666667
-p06,AFR,74,Gabon,Veneer production,0.552083333333333,0.4375,0.0104166666666667
-p06,AFR,75,Gambia,Veneer production,0.552083333333333,0.4375,0.0104166666666667
-p06,AFR,81,Ghana,Veneer production,0.552083333333333,0.4375,0.0104166666666667
-p06,AFR,90,Guinea,Veneer production,0.552083333333333,0.4375,0.0104166666666667
-p06,AFR,107,Cote d'Ivoire,Veneer production,0.552083333333333,0.4375,0.0104166666666667
-p06,AFR,114,Kenya,Veneer production,0.552083333333333,0.4375,0.0104166666666667
-p06,AFR,122,Lesotho,Veneer production,0.552083333333333,0.4375,0.0104166666666667
-p06,AFR,123,Liberia,Veneer production,0.552083333333333,0.4375,0.0104166666666667
-p06,AFR,124,Libya,Veneer production,0.552083333333333,0.4375,0.0104166666666667
-p06,AFR,129,Madagascar,Veneer production,0.552083333333333,0.4375,0.0104166666666667
-p06,AFR,130,Malawi,Veneer production,0.552083333333333,0.4375,0.0104166666666667
-p06,AFR,133,Mali,Veneer production,0.552083333333333,0.4375,0.0104166666666667
-p06,AFR,136,Mauritania,Veneer production,0.552083333333333,0.4375,0.0104166666666667
-p06,AFR,137,Mauritius,Veneer production,0.552083333333333,0.4375,0.0104166666666667
-p06,AFR,143,Morocco,Veneer production,0.552083333333333,0.4375,0.0104166666666667
-p06,AFR,144,Mozambique,Veneer production,0.552083333333333,0.4375,0.0104166666666667
-p06,AFR,147,Namibia,Veneer production,0.552083333333333,0.4375,0.0104166666666667
-p06,AFR,158,Niger,Veneer production,0.552083333333333,0.4375,0.0104166666666667
-p06,AFR,159,Nigeria,Veneer production,0.552083333333333,0.4375,0.0104166666666667
-p06,AFR,175,Guinea-Bissau,Veneer production,0.552083333333333,0.4375,0.0104166666666667
-p06,AFR,178,Eritrea,Veneer production,0.552083333333333,0.4375,0.0104166666666667
-p06,AFR,181,Zimbabwe,Veneer production,0.552083333333333,0.4375,0.0104166666666667
-p06,AFR,182,Reunion,Veneer production,0.552083333333333,0.4375,0.0104166666666667
-p06,AFR,184,Rwanda,Veneer production,0.552083333333333,0.4375,0.0104166666666667
-p06,AFR,187,"Saint Helena, Ascension and Tristan da Cunha",Veneer production,0.552083333333333,0.4375,0.0104166666666667
-p06,AFR,193,Sao Tome and Principe,Veneer production,0.552083333333333,0.4375,0.0104166666666667
-p06,AFR,195,Senegal,Veneer production,0.552083333333333,0.4375,0.0104166666666667
-p06,AFR,196,Seychelles,Veneer production,0.552083333333333,0.4375,0.0104166666666667
-p06,AFR,197,Sierra Leone,Veneer production,0.552083333333333,0.4375,0.0104166666666667
-p06,AFR,201,Somalia,Veneer production,0.552083333333333,0.4375,0.0104166666666667
-p06,AFR,202,South Africa,Veneer production,0.552083333333333,0.4375,0.0104166666666667
-p06,AFR,205,Western Sahara,Veneer production,0.552083333333333,0.4375,0.0104166666666667
-p06,AFR,209,Eswatini,Veneer production,0.552083333333333,0.4375,0.0104166666666667
-p06,AFR,215,United Republic of Tanzania,Veneer production,0.552083333333333,0.4375,0.0104166666666667
-p06,AFR,217,Togo,Veneer production,0.552083333333333,0.4375,0.0104166666666667
-p06,AFR,219,Tonga,Veneer production,0.552083333333333,0.4375,0.0104166666666667
-p06,AFR,222,Tunisia,Veneer production,0.552083333333333,0.4375,0.0104166666666667
-p06,AFR,226,Uganda,Veneer production,0.552083333333333,0.4375,0.0104166666666667
-p06,AFR,233,Burkina Faso,Veneer production,0.552083333333333,0.4375,0.0104166666666667
-p06,AFR,238,Ethiopia,Veneer production,0.552083333333333,0.4375,0.0104166666666667
-p06,AFR,250,Democratic Republic of the Congo,Veneer production,0.552083333333333,0.4375,0.0104166666666667
-p06,AFR,251,Zambia,Veneer production,0.552083333333333,0.4375,0.0104166666666667
-p06,AFR,270,Mayotte,Veneer production,0.552083333333333,0.4375,0.0104166666666667
-p06,AFR,276,Sudan,Veneer production,0.552083333333333,0.4375,0.0104166666666667
-p06,AFR,277,South Sudan,Veneer production,0.552083333333333,0.4375,0.0104166666666667
-p06,ASI,1,Armenia,Veneer production,0.601077882278347,0.359294092782416,0.039628024939237
-p06,ASI,2,Afghanistan,Veneer production,0.601077882278347,0.359294092782416,0.039628024939237
-p06,ASI,13,Bahrain,Veneer production,0.601077882278347,0.359294092782416,0.039628024939237
-p06,ASI,16,Bangladesh,Veneer production,0.601077882278347,0.359294092782416,0.039628024939237
-p06,ASI,18,Bhutan,Veneer production,0.601077882278347,0.359294092782416,0.039628024939237
-p06,ASI,24,British Indian Ocean Territory,Veneer production,0.601077882278347,0.359294092782416,0.039628024939237
-p06,ASI,26,Brunei Darussalam,Veneer production,0.601077882278347,0.359294092782416,0.039628024939237
-p06,ASI,28,Myanmar,Veneer production,0.601077882278347,0.359294092782416,0.039628024939237
-p06,ASI,38,Sri Lanka,Veneer production,0.601077882278347,0.359294092782416,0.039628024939237
-p06,ASI,41,"China, mainland",Veneer production,0.655526992287918,0.308483290488432,0.0359897172236504
-p06,ASI,52,Azerbaijan,Veneer production,0.601077882278347,0.359294092782416,0.039628024939237
-p06,ASI,73,Georgia,Veneer production,0.601077882278347,0.359294092782416,0.039628024939237
-p06,ASI,96,"China, Hong Kong SAR",Veneer production,0.601077882278347,0.359294092782416,0.039628024939237
-p06,ASI,100,India,Veneer production,0.601077882278347,0.359294092782416,0.039628024939237
-p06,ASI,101,Indonesia,Veneer production,0.601077882278347,0.359294092782416,0.039628024939237
-p06,ASI,102,Iran (Islamic Republic of),Veneer production,0.601077882278347,0.359294092782416,0.039628024939237
-p06,ASI,103,Iraq,Veneer production,0.601077882278347,0.359294092782416,0.039628024939237
-p06,ASI,105,Israel,Veneer production,0.601077882278347,0.359294092782416,0.039628024939237
-p06,ASI,108,Kazakhstan,Veneer production,0.601077882278347,0.359294092782416,0.039628024939237
-p06,ASI,110,Japan,Veneer production,0.601077882278347,0.359294092782416,0.039628024939237
-p06,ASI,112,Jordan,Veneer production,0.601077882278347,0.359294092782416,0.039628024939237
-p06,ASI,113,Kyrgyzstan,Veneer production,0.601077882278347,0.359294092782416,0.039628024939237
-p06,ASI,115,Cambodia,Veneer production,0.601077882278347,0.359294092782416,0.039628024939237
-p06,ASI,116,Democratic People's Republic of Korea,Veneer production,0.601077882278347,0.359294092782416,0.039628024939237
-p06,ASI,117,Republic of Korea,Veneer production,0.601077882278347,0.359294092782416,0.039628024939237
-p06,ASI,118,Kuwait,Veneer production,0.601077882278347,0.359294092782416,0.039628024939237
-p06,ASI,120,Lao People's Democratic Republic,Veneer production,0.601077882278347,0.359294092782416,0.039628024939237
-p06,ASI,121,Lebanon,Veneer production,0.601077882278347,0.359294092782416,0.039628024939237
-p06,ASI,128,"China, Macao SAR",Veneer production,0.601077882278347,0.359294092782416,0.039628024939237
-p06,ASI,131,Malaysia,Veneer production,0.543478260869565,0.41304347826087,0.0434782608695652
-p06,ASI,132,Maldives,Veneer production,0.601077882278347,0.359294092782416,0.039628024939237
-p06,ASI,141,Mongolia,Veneer production,0.601077882278347,0.359294092782416,0.039628024939237
-p06,ASI,149,Nepal,Veneer production,0.601077882278347,0.359294092782416,0.039628024939237
-p06,ASI,164,Pacific Islands Trust Territory,Veneer production,0.601077882278347,0.359294092782416,0.039628024939237
-p06,ASI,165,Pakistan,Veneer production,0.601077882278347,0.359294092782416,0.039628024939237
-p06,ASI,171,Philippines,Veneer production,0.601077882278347,0.359294092782416,0.039628024939237
-p06,ASI,176,Timor-Leste,Veneer production,0.601077882278347,0.359294092782416,0.039628024939237
-p06,ASI,179,Qatar,Veneer production,0.601077882278347,0.359294092782416,0.039628024939237
-p06,ASI,185,Russian Federation,Veneer production,0.511627906976744,0.441860465116279,0.0465116279069768
-p06,ASI,194,Saudi Arabia,Veneer production,0.601077882278347,0.359294092782416,0.039628024939237
-p06,ASI,200,Singapore,Veneer production,0.601077882278347,0.359294092782416,0.039628024939237
-p06,ASI,208,Tajikistan,Veneer production,0.601077882278347,0.359294092782416,0.039628024939237
-p06,ASI,212,Syrian Arab Republic,Veneer production,0.601077882278347,0.359294092782416,0.039628024939237
-p06,ASI,213,Turkmenistan,Veneer production,0.601077882278347,0.359294092782416,0.039628024939237
-p06,ASI,214,"China, Taiwan Province of",Veneer production,0.601077882278347,0.359294092782416,0.039628024939237
-p06,ASI,216,Thailand,Veneer production,0.601077882278347,0.359294092782416,0.039628024939237
-p06,ASI,221,Oman,Veneer production,0.601077882278347,0.359294092782416,0.039628024939237
-p06,ASI,225,United Arab Emirates,Veneer production,0.601077882278347,0.359294092782416,0.039628024939237
-p06,ASI,228,USSR,Veneer production,0.601077882278347,0.359294092782416,0.039628024939237
-p06,ASI,235,Uzbekistan,Veneer production,0.601077882278347,0.359294092782416,0.039628024939237
-p06,ASI,237,Viet Nam,Veneer production,0.601077882278347,0.359294092782416,0.039628024939237
-p06,ASI,249,Yemen,Veneer production,0.601077882278347,0.359294092782416,0.039628024939237
-p06,ASI,299,Palestine,Veneer production,0.601077882278347,0.359294092782416,0.039628024939237
-p06,EUR,3,Albania,Veneer production,0.495558375634518,0.471446700507614,0.032994923857868
-p06,EUR,6,Andorra,Veneer production,0.495558375634518,0.471446700507614,0.032994923857868
-p06,EUR,11,Austria,Veneer production,0.495558375634518,0.471446700507614,0.032994923857868
-p06,EUR,15,Belgium-Luxembourg,Veneer production,0.495558375634518,0.471446700507614,0.032994923857868
-p06,EUR,27,Bulgaria,Veneer production,0.495558375634518,0.471446700507614,0.032994923857868
-p06,EUR,50,Cyprus,Veneer production,0.495558375634518,0.471446700507614,0.032994923857868
-p06,EUR,51,Czechoslovakia,Veneer production,0.495558375634518,0.471446700507614,0.032994923857868
-p06,EUR,54,Denmark,Veneer production,0.495558375634518,0.471446700507614,0.032994923857868
-p06,EUR,57,Belarus,Veneer production,0.495558375634518,0.471446700507614,0.032994923857868
-p06,EUR,63,Estonia,Veneer production,0.495558375634518,0.471446700507614,0.032994923857868
-p06,EUR,64,Faroe Islands,Veneer production,0.495558375634518,0.471446700507614,0.032994923857868
-p06,EUR,67,Finland,Veneer production,0.445887445887446,0.524891774891775,0.0292207792207792
-p06,EUR,68,France,Veneer production,0.493337563451777,0.473522252019283,0.0331401845289404
-p06,EUR,79,Germany,Veneer production,0.581641285956007,0.390994370483883,0.0273643435601103
-p06,EUR,80,Bosnia and Herzegovina,Veneer production,0.495558375634518,0.471446700507614,0.032994923857868
-p06,EUR,82,Gibraltar,Veneer production,0.495558375634518,0.471446700507614,0.032994923857868
-p06,EUR,84,Greece,Veneer production,0.495558375634518,0.471446700507614,0.032994923857868
-p06,EUR,85,Greenland,Veneer production,0.495558375634518,0.471446700507614,0.032994923857868
-p06,EUR,94,Holy See,Veneer production,0.495558375634518,0.471446700507614,0.032994923857868
-p06,EUR,97,Hungary,Veneer production,0.495558375634518,0.471446700507614,0.032994923857868
-p06,EUR,98,Croatia,Veneer production,0.495558375634518,0.471446700507614,0.032994923857868
-p06,EUR,99,Iceland,Veneer production,0.495558375634518,0.471446700507614,0.032994923857868
-p06,EUR,104,Ireland,Veneer production,0.495558375634518,0.471446700507614,0.032994923857868
-p06,EUR,106,Italy,Veneer production,0.495558375634518,0.471446700507614,0.032994923857868
-p06,EUR,119,Latvia,Veneer production,0.495558375634518,0.471446700507614,0.032994923857868
-p06,EUR,125,Liechtenstein,Veneer production,0.495558375634518,0.471446700507614,0.032994923857868
-p06,EUR,126,Lithuania,Veneer production,0.48936170212766,0.478723404255319,0.0319148936170213
-p06,EUR,134,Malta,Veneer production,0.495558375634518,0.471446700507614,0.032994923857868
-p06,EUR,146,Republic of Moldova,Veneer production,0.495558375634518,0.471446700507614,0.032994923857868
-p06,EUR,150,Netherlands,Veneer production,0.520408163265306,0.459183673469388,0.0204081632653061
-p06,EUR,154,North Macedonia,Veneer production,0.495558375634518,0.471446700507614,0.032994923857868
-p06,EUR,162,Norway,Veneer production,0.495558375634518,0.471446700507614,0.032994923857868
-p06,EUR,167,Czechia,Veneer production,0.495558375634518,0.471446700507614,0.032994923857868
-p06,EUR,173,Poland,Veneer production,0.525773195876289,0.422680412371134,0.0515463917525773
-p06,EUR,174,Portugal,Veneer production,0.495558375634518,0.471446700507614,0.032994923857868
-p06,EUR,183,Romania,Veneer production,0.495558375634518,0.471446700507614,0.032994923857868
-p06,EUR,186,Serbia and Montenegro,Veneer production,0.495558375634518,0.471446700507614,0.032994923857868
-p06,EUR,192,San Marino,Veneer production,0.495558375634518,0.471446700507614,0.032994923857868
-p06,EUR,198,Slovenia,Veneer production,0.434782608695652,0.543478260869565,0.0217391304347826
-p06,EUR,199,Slovakia,Veneer production,0.495558375634518,0.471446700507614,0.032994923857868
-p06,EUR,203,Spain,Veneer production,0.495558375634518,0.471446700507614,0.032994923857868
-p06,EUR,210,Sweden,Veneer production,0.495558375634518,0.471446700507614,0.032994923857868
-p06,EUR,211,Switzerland,Veneer production,0.495558375634518,0.471446700507614,0.032994923857868
-p06,EUR,223,Turkey,Veneer production,0.495558375634518,0.471446700507614,0.032994923857868
-p06,EUR,229,United Kingdom,Veneer production,0.495558375634518,0.471446700507614,0.032994923857868
-p06,EUR,230,Ukraine,Veneer production,0.495558375634518,0.471446700507614,0.032994923857868
-p06,EUR,248,Yugoslav SFR,Veneer production,0.495558375634518,0.471446700507614,0.032994923857868
-p06,EUR,255,Belgium,Veneer production,0.495558375634518,0.471446700507614,0.032994923857868
-p06,EUR,256,Luxembourg,Veneer production,0.495558375634518,0.471446700507614,0.032994923857868
-p06,EUR,272,Serbia,Veneer production,0.495558375634518,0.471446700507614,0.032994923857868
-p06,EUR,273,Montenegro,Veneer production,0.495558375634518,0.471446700507614,0.032994923857868
-p06,LAM,8,Antigua and Barbuda,Veneer production,0.51819184123484,0.41896361631753,0.0628445424476296
-p06,LAM,9,Argentina,Veneer production,0.51819184123484,0.41896361631753,0.0628445424476296
-p06,LAM,12,Bahamas,Veneer production,0.51819184123484,0.41896361631753,0.0628445424476296
-p06,LAM,14,Barbados,Veneer production,0.51819184123484,0.41896361631753,0.0628445424476296
-p06,LAM,17,Bermuda,Veneer production,0.51819184123484,0.41896361631753,0.0628445424476296
-p06,LAM,19,Bolivia (Plurinational State of),Veneer production,0.51819184123484,0.41896361631753,0.0628445424476296
-p06,LAM,21,Brazil,Veneer production,0.51819184123484,0.41896361631753,0.0628445424476296
-p06,LAM,22,Aruba,Veneer production,0.51819184123484,0.41896361631753,0.0628445424476296
-p06,LAM,23,Belize,Veneer production,0.51819184123484,0.41896361631753,0.0628445424476296
-p06,LAM,36,Cayman Islands,Veneer production,0.51819184123484,0.41896361631753,0.0628445424476296
-p06,LAM,40,Chile,Veneer production,0.51819184123484,0.41896361631753,0.0628445424476296
-p06,LAM,44,Colombia,Veneer production,0.51819184123484,0.41896361631753,0.0628445424476296
-p06,LAM,48,Costa Rica,Veneer production,0.51819184123484,0.41896361631753,0.0628445424476296
-p06,LAM,49,Cuba,Veneer production,0.51819184123484,0.41896361631753,0.0628445424476296
-p06,LAM,55,Dominica,Veneer production,0.51819184123484,0.41896361631753,0.0628445424476296
-p06,LAM,56,Dominican Republic,Veneer production,0.51819184123484,0.41896361631753,0.0628445424476296
-p06,LAM,58,Ecuador,Veneer production,0.51819184123484,0.41896361631753,0.0628445424476296
-p06,LAM,60,El Salvador,Veneer production,0.51819184123484,0.41896361631753,0.0628445424476296
-p06,LAM,65,Falkland Islands (Malvinas),Veneer production,0.51819184123484,0.41896361631753,0.0628445424476296
-p06,LAM,69,French Guyana,Veneer production,0.51819184123484,0.41896361631753,0.0628445424476296
-p06,LAM,86,Grenada,Veneer production,0.51819184123484,0.41896361631753,0.0628445424476296
-p06,LAM,87,Guadeloupe,Veneer production,0.51819184123484,0.41896361631753,0.0628445424476296
-p06,LAM,89,Guatemala,Veneer production,0.51819184123484,0.41896361631753,0.0628445424476296
-p06,LAM,91,Guyana,Veneer production,0.51819184123484,0.41896361631753,0.0628445424476296
-p06,LAM,93,Haiti,Veneer production,0.51819184123484,0.41896361631753,0.0628445424476296
-p06,LAM,95,Honduras,Veneer production,0.51819184123484,0.41896361631753,0.0628445424476296
-p06,LAM,109,Jamaica,Veneer production,0.51819184123484,0.41896361631753,0.0628445424476296
-p06,LAM,135,Martinique,Veneer production,0.51819184123484,0.41896361631753,0.0628445424476296
-p06,LAM,138,Mexico,Veneer production,0.51819184123484,0.41896361631753,0.0628445424476296
-p06,LAM,142,Montserrat,Veneer production,0.51819184123484,0.41896361631753,0.0628445424476296
-p06,LAM,151,Netherlands Antilles,Veneer production,0.51819184123484,0.41896361631753,0.0628445424476296
-p06,LAM,157,Nicaragua,Veneer production,0.51819184123484,0.41896361631753,0.0628445424476296
-p06,LAM,166,Panama,Veneer production,0.51819184123484,0.41896361631753,0.0628445424476296
-p06,LAM,169,Paraguay,Veneer production,0.51819184123484,0.41896361631753,0.0628445424476296
-p06,LAM,170,Peru,Veneer production,0.51819184123484,0.41896361631753,0.0628445424476296
-p06,LAM,188,Saint Kitts and Nevis,Veneer production,0.51819184123484,0.41896361631753,0.0628445424476296
-p06,LAM,189,Saint Lucia,Veneer production,0.51819184123484,0.41896361631753,0.0628445424476296
-p06,LAM,191,Saint Vincent and the Grenadines,Veneer production,0.51819184123484,0.41896361631753,0.0628445424476296
-p06,LAM,207,Suriname,Veneer production,0.51819184123484,0.41896361631753,0.0628445424476296
-p06,LAM,220,Trinidad and Tobago,Veneer production,0.51819184123484,0.41896361631753,0.0628445424476296
-p06,LAM,224,Turks and Caicos Islands,Veneer production,0.51819184123484,0.41896361631753,0.0628445424476296
-p06,LAM,234,Uruguay,Veneer production,0.51819184123484,0.41896361631753,0.0628445424476296
-p06,LAM,236,Venezuela (Bolivarian Republic of),Veneer production,0.51819184123484,0.41896361631753,0.0628445424476296
-p06,LAM,239,British Virgin Islands,Veneer production,0.51819184123484,0.41896361631753,0.0628445424476296
-p06,LAM,258,Anguilla,Veneer production,0.51819184123484,0.41896361631753,0.0628445424476296
-p06,LAM,279,Curaçao,Veneer production,0.51819184123484,0.41896361631753,0.0628445424476296
-p06,LAM,281,Saint-Martin (French Part),Veneer production,0.51819184123484,0.41896361631753,0.0628445424476296
-p06,NAM,33,Canada,Veneer production,0.547368421052632,0.389473684210526,0.0631578947368421
-p06,NAM,190,Saint Pierre and Miquelon,Veneer production,0.541666666666667,0.416666666666667,0.0416666666666667
-p06,NAM,231,United States of America,Veneer production,0.539690721649485,0.439690721649485,0.0206185567010309
-p06,OCE,5,American Samoa,Veneer production,0.541948335417152,0.420818411070377,0.0372332535124711
-p06,OCE,10,Australia,Veneer production,0.541948335417152,0.420818411070377,0.0372332535124711
-p06,OCE,25,Solomon Islands,Veneer production,0.541948335417152,0.420818411070377,0.0372332535124711
-p06,OCE,42,Christmas Island,Veneer production,0.541948335417152,0.420818411070377,0.0372332535124711
-p06,OCE,43,Cocos (Keeling) Islands,Veneer production,0.541948335417152,0.420818411070377,0.0372332535124711
-p06,OCE,47,Cook Islands,Veneer production,0.541948335417152,0.420818411070377,0.0372332535124711
-p06,OCE,66,Fiji,Veneer production,0.541948335417152,0.420818411070377,0.0372332535124711
-p06,OCE,70,French Polynesia,Veneer production,0.541948335417152,0.420818411070377,0.0372332535124711
-p06,OCE,71,French Southern and Antarctic Territories,Veneer production,0.541948335417152,0.420818411070377,0.0372332535124711
-p06,OCE,83,Kiribati,Veneer production,0.541948335417152,0.420818411070377,0.0372332535124711
-p06,OCE,88,Guam,Veneer production,0.541948335417152,0.420818411070377,0.0372332535124711
-p06,OCE,127,Marshall Islands,Veneer production,0.541948335417152,0.420818411070377,0.0372332535124711
-p06,OCE,145,Micronesia (Federated States of),Veneer production,0.541948335417152,0.420818411070377,0.0372332535124711
-p06,OCE,148,Nauru,Veneer production,0.541948335417152,0.420818411070377,0.0372332535124711
-p06,OCE,153,New Caledonia,Veneer production,0.541948335417152,0.420818411070377,0.0372332535124711
-p06,OCE,155,Vanuatu,Veneer production,0.541948335417152,0.420818411070377,0.0372332535124711
-p06,OCE,156,New Zealand,Veneer production,0.541948335417152,0.420818411070377,0.0372332535124711
-p06,OCE,160,Niue,Veneer production,0.541948335417152,0.420818411070377,0.0372332535124711
-p06,OCE,161,Norfolk Island,Veneer production,0.541948335417152,0.420818411070377,0.0372332535124711
-p06,OCE,163,Northern Mariana Islands,Veneer production,0.541948335417152,0.420818411070377,0.0372332535124711
-p06,OCE,168,Papua New Guinea,Veneer production,0.541948335417152,0.420818411070377,0.0372332535124711
-p06,OCE,172,Pitcairn Islands,Veneer production,0.541948335417152,0.420818411070377,0.0372332535124711
-p06,OCE,180,Palau,Veneer production,0.541948335417152,0.420818411070377,0.0372332535124711
-p06,OCE,218,Tokelau,Veneer production,0.541948335417152,0.420818411070377,0.0372332535124711
-p06,OCE,227,Tuvalu,Veneer production,0.541948335417152,0.420818411070377,0.0372332535124711
-p06,OCE,242,Wake Island,Veneer production,0.541948335417152,0.420818411070377,0.0372332535124711
-p06,OCE,243,Wallis and Futuna Islands,Veneer production,0.541948335417152,0.420818411070377,0.0372332535124711
-p06,OCE,244,Samoa,Veneer production,0.541948335417152,0.420818411070377,0.0372332535124711
-p06,XXX,252,Unspecified Area,Veneer production,0.541948335417152,0.420818411070377,0.0372332535124711
-p06,XXX,254,Others (adjustment),Veneer production,0.541948335417152,0.420818411070377,0.0372332535124711
-p07,AFR,4,Algeria,Plywood production,0.552083333333333,0.4375,0.0104166666666667
-p07,AFR,7,Angola,Plywood production,0.552083333333333,0.4375,0.0104166666666667
-p07,AFR,20,Botswana,Plywood production,0.552083333333333,0.4375,0.0104166666666667
-p07,AFR,29,Burundi,Plywood production,0.552083333333333,0.4375,0.0104166666666667
-p07,AFR,32,Cameroon,Plywood production,0.552083333333333,0.4375,0.0104166666666667
-p07,AFR,35,Cabo Verde,Plywood production,0.552083333333333,0.4375,0.0104166666666667
-p07,AFR,37,Central African Republic,Plywood production,0.552083333333333,0.4375,0.0104166666666667
-p07,AFR,39,Chad,Plywood production,0.552083333333333,0.4375,0.0104166666666667
-p07,AFR,45,Comoros,Plywood production,0.552083333333333,0.4375,0.0104166666666667
-p07,AFR,46,Congo,Plywood production,0.552083333333333,0.4375,0.0104166666666667
-p07,AFR,53,Benin,Plywood production,0.552083333333333,0.4375,0.0104166666666667
-p07,AFR,59,Egypt,Plywood production,0.552083333333333,0.4375,0.0104166666666667
-p07,AFR,61,Equatorial Guinea,Plywood production,0.552083333333333,0.4375,0.0104166666666667
-p07,AFR,72,Djibouti,Plywood production,0.552083333333333,0.4375,0.0104166666666667
-p07,AFR,74,Gabon,Plywood production,0.552083333333333,0.4375,0.0104166666666667
-p07,AFR,75,Gambia,Plywood production,0.552083333333333,0.4375,0.0104166666666667
-p07,AFR,81,Ghana,Plywood production,0.552083333333333,0.4375,0.0104166666666667
-p07,AFR,90,Guinea,Plywood production,0.552083333333333,0.4375,0.0104166666666667
-p07,AFR,107,Cote d'Ivoire,Plywood production,0.552083333333333,0.4375,0.0104166666666667
-p07,AFR,114,Kenya,Plywood production,0.552083333333333,0.4375,0.0104166666666667
-p07,AFR,122,Lesotho,Plywood production,0.552083333333333,0.4375,0.0104166666666667
-p07,AFR,123,Liberia,Plywood production,0.552083333333333,0.4375,0.0104166666666667
-p07,AFR,124,Libya,Plywood production,0.552083333333333,0.4375,0.0104166666666667
-p07,AFR,129,Madagascar,Plywood production,0.552083333333333,0.4375,0.0104166666666667
-p07,AFR,130,Malawi,Plywood production,0.552083333333333,0.4375,0.0104166666666667
-p07,AFR,133,Mali,Plywood production,0.552083333333333,0.4375,0.0104166666666667
-p07,AFR,136,Mauritania,Plywood production,0.552083333333333,0.4375,0.0104166666666667
-p07,AFR,137,Mauritius,Plywood production,0.552083333333333,0.4375,0.0104166666666667
-p07,AFR,143,Morocco,Plywood production,0.552083333333333,0.4375,0.0104166666666667
-p07,AFR,144,Mozambique,Plywood production,0.552083333333333,0.4375,0.0104166666666667
-p07,AFR,147,Namibia,Plywood production,0.552083333333333,0.4375,0.0104166666666667
-p07,AFR,158,Niger,Plywood production,0.552083333333333,0.4375,0.0104166666666667
-p07,AFR,159,Nigeria,Plywood production,0.552083333333333,0.4375,0.0104166666666667
-p07,AFR,175,Guinea-Bissau,Plywood production,0.552083333333333,0.4375,0.0104166666666667
-p07,AFR,178,Eritrea,Plywood production,0.552083333333333,0.4375,0.0104166666666667
-p07,AFR,181,Zimbabwe,Plywood production,0.552083333333333,0.4375,0.0104166666666667
-p07,AFR,182,Reunion,Plywood production,0.552083333333333,0.4375,0.0104166666666667
-p07,AFR,184,Rwanda,Plywood production,0.552083333333333,0.4375,0.0104166666666667
-p07,AFR,187,"Saint Helena, Ascension and Tristan da Cunha",Plywood production,0.552083333333333,0.4375,0.0104166666666667
-p07,AFR,193,Sao Tome and Principe,Plywood production,0.552083333333333,0.4375,0.0104166666666667
-p07,AFR,195,Senegal,Plywood production,0.552083333333333,0.4375,0.0104166666666667
-p07,AFR,196,Seychelles,Plywood production,0.552083333333333,0.4375,0.0104166666666667
-p07,AFR,197,Sierra Leone,Plywood production,0.552083333333333,0.4375,0.0104166666666667
-p07,AFR,201,Somalia,Plywood production,0.552083333333333,0.4375,0.0104166666666667
-p07,AFR,202,South Africa,Plywood production,0.552083333333333,0.4375,0.0104166666666667
-p07,AFR,205,Western Sahara,Plywood production,0.552083333333333,0.4375,0.0104166666666667
-p07,AFR,209,Eswatini,Plywood production,0.552083333333333,0.4375,0.0104166666666667
-p07,AFR,215,United Republic of Tanzania,Plywood production,0.552083333333333,0.4375,0.0104166666666667
-p07,AFR,217,Togo,Plywood production,0.552083333333333,0.4375,0.0104166666666667
-p07,AFR,219,Tonga,Plywood production,0.552083333333333,0.4375,0.0104166666666667
-p07,AFR,222,Tunisia,Plywood production,0.552083333333333,0.4375,0.0104166666666667
-p07,AFR,226,Uganda,Plywood production,0.552083333333333,0.4375,0.0104166666666667
-p07,AFR,233,Burkina Faso,Plywood production,0.552083333333333,0.4375,0.0104166666666667
-p07,AFR,238,Ethiopia,Plywood production,0.552083333333333,0.4375,0.0104166666666667
-p07,AFR,250,Democratic Republic of the Congo,Plywood production,0.552083333333333,0.4375,0.0104166666666667
-p07,AFR,251,Zambia,Plywood production,0.552083333333333,0.4375,0.0104166666666667
-p07,AFR,270,Mayotte,Plywood production,0.552083333333333,0.4375,0.0104166666666667
-p07,AFR,276,Sudan,Plywood production,0.552083333333333,0.4375,0.0104166666666667
-p07,AFR,277,South Sudan,Plywood production,0.552083333333333,0.4375,0.0104166666666667
-p07,ASI,1,Armenia,Plywood production,0.601077882278347,0.359294092782416,0.039628024939237
-p07,ASI,2,Afghanistan,Plywood production,0.601077882278347,0.359294092782416,0.039628024939237
-p07,ASI,13,Bahrain,Plywood production,0.601077882278347,0.359294092782416,0.039628024939237
-p07,ASI,16,Bangladesh,Plywood production,0.601077882278347,0.359294092782416,0.039628024939237
-p07,ASI,18,Bhutan,Plywood production,0.601077882278347,0.359294092782416,0.039628024939237
-p07,ASI,24,British Indian Ocean Territory,Plywood production,0.601077882278347,0.359294092782416,0.039628024939237
-p07,ASI,26,Brunei Darussalam,Plywood production,0.601077882278347,0.359294092782416,0.039628024939237
-p07,ASI,28,Myanmar,Plywood production,0.601077882278347,0.359294092782416,0.039628024939237
-p07,ASI,38,Sri Lanka,Plywood production,0.601077882278347,0.359294092782416,0.039628024939237
-p07,ASI,41,"China, mainland",Plywood production,0.655526992287918,0.308483290488432,0.0359897172236504
-p07,ASI,52,Azerbaijan,Plywood production,0.601077882278347,0.359294092782416,0.039628024939237
-p07,ASI,73,Georgia,Plywood production,0.601077882278347,0.359294092782416,0.039628024939237
-p07,ASI,96,"China, Hong Kong SAR",Plywood production,0.601077882278347,0.359294092782416,0.039628024939237
-p07,ASI,100,India,Plywood production,0.601077882278347,0.359294092782416,0.039628024939237
-p07,ASI,101,Indonesia,Plywood production,0.601077882278347,0.359294092782416,0.039628024939237
-p07,ASI,102,Iran (Islamic Republic of),Plywood production,0.601077882278347,0.359294092782416,0.039628024939237
-p07,ASI,103,Iraq,Plywood production,0.601077882278347,0.359294092782416,0.039628024939237
-p07,ASI,105,Israel,Plywood production,0.601077882278347,0.359294092782416,0.039628024939237
-p07,ASI,108,Kazakhstan,Plywood production,0.601077882278347,0.359294092782416,0.039628024939237
-p07,ASI,110,Japan,Plywood production,0.601077882278347,0.359294092782416,0.039628024939237
-p07,ASI,112,Jordan,Plywood production,0.601077882278347,0.359294092782416,0.039628024939237
-p07,ASI,113,Kyrgyzstan,Plywood production,0.601077882278347,0.359294092782416,0.039628024939237
-p07,ASI,115,Cambodia,Plywood production,0.601077882278347,0.359294092782416,0.039628024939237
-p07,ASI,116,Democratic People's Republic of Korea,Plywood production,0.601077882278347,0.359294092782416,0.039628024939237
-p07,ASI,117,Republic of Korea,Plywood production,0.601077882278347,0.359294092782416,0.039628024939237
-p07,ASI,118,Kuwait,Plywood production,0.601077882278347,0.359294092782416,0.039628024939237
-p07,ASI,120,Lao People's Democratic Republic,Plywood production,0.601077882278347,0.359294092782416,0.039628024939237
-p07,ASI,121,Lebanon,Plywood production,0.601077882278347,0.359294092782416,0.039628024939237
-p07,ASI,128,"China, Macao SAR",Plywood production,0.601077882278347,0.359294092782416,0.039628024939237
-p07,ASI,131,Malaysia,Plywood production,0.543478260869565,0.41304347826087,0.0434782608695652
-p07,ASI,132,Maldives,Plywood production,0.601077882278347,0.359294092782416,0.039628024939237
-p07,ASI,141,Mongolia,Plywood production,0.601077882278347,0.359294092782416,0.039628024939237
-p07,ASI,149,Nepal,Plywood production,0.601077882278347,0.359294092782416,0.039628024939237
-p07,ASI,164,Pacific Islands Trust Territory,Plywood production,0.601077882278347,0.359294092782416,0.039628024939237
-p07,ASI,165,Pakistan,Plywood production,0.601077882278347,0.359294092782416,0.039628024939237
-p07,ASI,171,Philippines,Plywood production,0.601077882278347,0.359294092782416,0.039628024939237
-p07,ASI,176,Timor-Leste,Plywood production,0.601077882278347,0.359294092782416,0.039628024939237
-p07,ASI,179,Qatar,Plywood production,0.601077882278347,0.359294092782416,0.039628024939237
-p07,ASI,185,Russian Federation,Plywood production,0.511627906976744,0.441860465116279,0.0465116279069768
-p07,ASI,194,Saudi Arabia,Plywood production,0.601077882278347,0.359294092782416,0.039628024939237
-p07,ASI,200,Singapore,Plywood production,0.601077882278347,0.359294092782416,0.039628024939237
-p07,ASI,208,Tajikistan,Plywood production,0.601077882278347,0.359294092782416,0.039628024939237
-p07,ASI,212,Syrian Arab Republic,Plywood production,0.601077882278347,0.359294092782416,0.039628024939237
-p07,ASI,213,Turkmenistan,Plywood production,0.601077882278347,0.359294092782416,0.039628024939237
-p07,ASI,214,"China, Taiwan Province of",Plywood production,0.601077882278347,0.359294092782416,0.039628024939237
-p07,ASI,216,Thailand,Plywood production,0.601077882278347,0.359294092782416,0.039628024939237
-p07,ASI,221,Oman,Plywood production,0.601077882278347,0.359294092782416,0.039628024939237
-p07,ASI,225,United Arab Emirates,Plywood production,0.601077882278347,0.359294092782416,0.039628024939237
-p07,ASI,228,USSR,Plywood production,0.601077882278347,0.359294092782416,0.039628024939237
-p07,ASI,235,Uzbekistan,Plywood production,0.601077882278347,0.359294092782416,0.039628024939237
-p07,ASI,237,Viet Nam,Plywood production,0.601077882278347,0.359294092782416,0.039628024939237
-p07,ASI,249,Yemen,Plywood production,0.601077882278347,0.359294092782416,0.039628024939237
-p07,ASI,299,Palestine,Plywood production,0.601077882278347,0.359294092782416,0.039628024939237
-p07,EUR,3,Albania,Plywood production,0.495558375634518,0.471446700507614,0.032994923857868
-p07,EUR,6,Andorra,Plywood production,0.495558375634518,0.471446700507614,0.032994923857868
-p07,EUR,11,Austria,Plywood production,0.495558375634518,0.471446700507614,0.032994923857868
-p07,EUR,15,Belgium-Luxembourg,Plywood production,0.495558375634518,0.471446700507614,0.032994923857868
-p07,EUR,27,Bulgaria,Plywood production,0.495558375634518,0.471446700507614,0.032994923857868
-p07,EUR,50,Cyprus,Plywood production,0.495558375634518,0.471446700507614,0.032994923857868
-p07,EUR,51,Czechoslovakia,Plywood production,0.495558375634518,0.471446700507614,0.032994923857868
-p07,EUR,54,Denmark,Plywood production,0.495558375634518,0.471446700507614,0.032994923857868
-p07,EUR,57,Belarus,Plywood production,0.495558375634518,0.471446700507614,0.032994923857868
-p07,EUR,63,Estonia,Plywood production,0.495558375634518,0.471446700507614,0.032994923857868
-p07,EUR,64,Faroe Islands,Plywood production,0.495558375634518,0.471446700507614,0.032994923857868
-p07,EUR,67,Finland,Plywood production,0.445887445887446,0.524891774891775,0.0292207792207792
-p07,EUR,68,France,Plywood production,0.493337563451777,0.473522252019283,0.0331401845289404
-p07,EUR,79,Germany,Plywood production,0.581641285956007,0.390994370483883,0.0273643435601103
-p07,EUR,80,Bosnia and Herzegovina,Plywood production,0.495558375634518,0.471446700507614,0.032994923857868
-p07,EUR,82,Gibraltar,Plywood production,0.495558375634518,0.471446700507614,0.032994923857868
-p07,EUR,84,Greece,Plywood production,0.495558375634518,0.471446700507614,0.032994923857868
-p07,EUR,85,Greenland,Plywood production,0.495558375634518,0.471446700507614,0.032994923857868
-p07,EUR,94,Holy See,Plywood production,0.495558375634518,0.471446700507614,0.032994923857868
-p07,EUR,97,Hungary,Plywood production,0.495558375634518,0.471446700507614,0.032994923857868
-p07,EUR,98,Croatia,Plywood production,0.495558375634518,0.471446700507614,0.032994923857868
-p07,EUR,99,Iceland,Plywood production,0.495558375634518,0.471446700507614,0.032994923857868
-p07,EUR,104,Ireland,Plywood production,0.495558375634518,0.471446700507614,0.032994923857868
-p07,EUR,106,Italy,Plywood production,0.495558375634518,0.471446700507614,0.032994923857868
-p07,EUR,119,Latvia,Plywood production,0.495558375634518,0.471446700507614,0.032994923857868
-p07,EUR,125,Liechtenstein,Plywood production,0.495558375634518,0.471446700507614,0.032994923857868
-p07,EUR,126,Lithuania,Plywood production,0.48936170212766,0.478723404255319,0.0319148936170213
-p07,EUR,134,Malta,Plywood production,0.495558375634518,0.471446700507614,0.032994923857868
-p07,EUR,146,Republic of Moldova,Plywood production,0.495558375634518,0.471446700507614,0.032994923857868
-p07,EUR,150,Netherlands,Plywood production,0.520408163265306,0.459183673469388,0.0204081632653061
-p07,EUR,154,North Macedonia,Plywood production,0.495558375634518,0.471446700507614,0.032994923857868
-p07,EUR,162,Norway,Plywood production,0.495558375634518,0.471446700507614,0.032994923857868
-p07,EUR,167,Czechia,Plywood production,0.495558375634518,0.471446700507614,0.032994923857868
-p07,EUR,173,Poland,Plywood production,0.525773195876289,0.422680412371134,0.0515463917525773
-p07,EUR,174,Portugal,Plywood production,0.495558375634518,0.471446700507614,0.032994923857868
-p07,EUR,183,Romania,Plywood production,0.495558375634518,0.471446700507614,0.032994923857868
-p07,EUR,186,Serbia and Montenegro,Plywood production,0.495558375634518,0.471446700507614,0.032994923857868
-p07,EUR,192,San Marino,Plywood production,0.495558375634518,0.471446700507614,0.032994923857868
-p07,EUR,198,Slovenia,Plywood production,0.434782608695652,0.543478260869565,0.0217391304347826
-p07,EUR,199,Slovakia,Plywood production,0.495558375634518,0.471446700507614,0.032994923857868
-p07,EUR,203,Spain,Plywood production,0.495558375634518,0.471446700507614,0.032994923857868
-p07,EUR,210,Sweden,Plywood production,0.495558375634518,0.471446700507614,0.032994923857868
-p07,EUR,211,Switzerland,Plywood production,0.495558375634518,0.471446700507614,0.032994923857868
-p07,EUR,223,Turkey,Plywood production,0.495558375634518,0.471446700507614,0.032994923857868
-p07,EUR,229,United Kingdom,Plywood production,0.495558375634518,0.471446700507614,0.032994923857868
-p07,EUR,230,Ukraine,Plywood production,0.495558375634518,0.471446700507614,0.032994923857868
-p07,EUR,248,Yugoslav SFR,Plywood production,0.495558375634518,0.471446700507614,0.032994923857868
-p07,EUR,255,Belgium,Plywood production,0.495558375634518,0.471446700507614,0.032994923857868
-p07,EUR,256,Luxembourg,Plywood production,0.495558375634518,0.471446700507614,0.032994923857868
-p07,EUR,272,Serbia,Plywood production,0.495558375634518,0.471446700507614,0.032994923857868
-p07,EUR,273,Montenegro,Plywood production,0.495558375634518,0.471446700507614,0.032994923857868
-p07,LAM,8,Antigua and Barbuda,Plywood production,0.51819184123484,0.41896361631753,0.0628445424476296
-p07,LAM,9,Argentina,Plywood production,0.51819184123484,0.41896361631753,0.0628445424476296
-p07,LAM,12,Bahamas,Plywood production,0.51819184123484,0.41896361631753,0.0628445424476296
-p07,LAM,14,Barbados,Plywood production,0.51819184123484,0.41896361631753,0.0628445424476296
-p07,LAM,17,Bermuda,Plywood production,0.51819184123484,0.41896361631753,0.0628445424476296
-p07,LAM,19,Bolivia (Plurinational State of),Plywood production,0.51819184123484,0.41896361631753,0.0628445424476296
-p07,LAM,21,Brazil,Plywood production,0.51819184123484,0.41896361631753,0.0628445424476296
-p07,LAM,22,Aruba,Plywood production,0.51819184123484,0.41896361631753,0.0628445424476296
-p07,LAM,23,Belize,Plywood production,0.51819184123484,0.41896361631753,0.0628445424476296
-p07,LAM,36,Cayman Islands,Plywood production,0.51819184123484,0.41896361631753,0.0628445424476296
-p07,LAM,40,Chile,Plywood production,0.51819184123484,0.41896361631753,0.0628445424476296
-p07,LAM,44,Colombia,Plywood production,0.51819184123484,0.41896361631753,0.0628445424476296
-p07,LAM,48,Costa Rica,Plywood production,0.51819184123484,0.41896361631753,0.0628445424476296
-p07,LAM,49,Cuba,Plywood production,0.51819184123484,0.41896361631753,0.0628445424476296
-p07,LAM,55,Dominica,Plywood production,0.51819184123484,0.41896361631753,0.0628445424476296
-p07,LAM,56,Dominican Republic,Plywood production,0.51819184123484,0.41896361631753,0.0628445424476296
-p07,LAM,58,Ecuador,Plywood production,0.51819184123484,0.41896361631753,0.0628445424476296
-p07,LAM,60,El Salvador,Plywood production,0.51819184123484,0.41896361631753,0.0628445424476296
-p07,LAM,65,Falkland Islands (Malvinas),Plywood production,0.51819184123484,0.41896361631753,0.0628445424476296
-p07,LAM,69,French Guyana,Plywood production,0.51819184123484,0.41896361631753,0.0628445424476296
-p07,LAM,86,Grenada,Plywood production,0.51819184123484,0.41896361631753,0.0628445424476296
-p07,LAM,87,Guadeloupe,Plywood production,0.51819184123484,0.41896361631753,0.0628445424476296
-p07,LAM,89,Guatemala,Plywood production,0.51819184123484,0.41896361631753,0.0628445424476296
-p07,LAM,91,Guyana,Plywood production,0.51819184123484,0.41896361631753,0.0628445424476296
-p07,LAM,93,Haiti,Plywood production,0.51819184123484,0.41896361631753,0.0628445424476296
-p07,LAM,95,Honduras,Plywood production,0.51819184123484,0.41896361631753,0.0628445424476296
-p07,LAM,109,Jamaica,Plywood production,0.51819184123484,0.41896361631753,0.0628445424476296
-p07,LAM,135,Martinique,Plywood production,0.51819184123484,0.41896361631753,0.0628445424476296
-p07,LAM,138,Mexico,Plywood production,0.51819184123484,0.41896361631753,0.0628445424476296
-p07,LAM,142,Montserrat,Plywood production,0.51819184123484,0.41896361631753,0.0628445424476296
-p07,LAM,151,Netherlands Antilles,Plywood production,0.51819184123484,0.41896361631753,0.0628445424476296
-p07,LAM,157,Nicaragua,Plywood production,0.51819184123484,0.41896361631753,0.0628445424476296
-p07,LAM,166,Panama,Plywood production,0.51819184123484,0.41896361631753,0.0628445424476296
-p07,LAM,169,Paraguay,Plywood production,0.51819184123484,0.41896361631753,0.0628445424476296
-p07,LAM,170,Peru,Plywood production,0.51819184123484,0.41896361631753,0.0628445424476296
-p07,LAM,188,Saint Kitts and Nevis,Plywood production,0.51819184123484,0.41896361631753,0.0628445424476296
-p07,LAM,189,Saint Lucia,Plywood production,0.51819184123484,0.41896361631753,0.0628445424476296
-p07,LAM,191,Saint Vincent and the Grenadines,Plywood production,0.51819184123484,0.41896361631753,0.0628445424476296
-p07,LAM,207,Suriname,Plywood production,0.51819184123484,0.41896361631753,0.0628445424476296
-p07,LAM,220,Trinidad and Tobago,Plywood production,0.51819184123484,0.41896361631753,0.0628445424476296
-p07,LAM,224,Turks and Caicos Islands,Plywood production,0.51819184123484,0.41896361631753,0.0628445424476296
-p07,LAM,234,Uruguay,Plywood production,0.51819184123484,0.41896361631753,0.0628445424476296
-p07,LAM,236,Venezuela (Bolivarian Republic of),Plywood production,0.51819184123484,0.41896361631753,0.0628445424476296
-p07,LAM,239,British Virgin Islands,Plywood production,0.51819184123484,0.41896361631753,0.0628445424476296
-p07,LAM,258,Anguilla,Plywood production,0.51819184123484,0.41896361631753,0.0628445424476296
-p07,LAM,279,Curaçao,Plywood production,0.51819184123484,0.41896361631753,0.0628445424476296
-p07,LAM,281,Saint-Martin (French Part),Plywood production,0.51819184123484,0.41896361631753,0.0628445424476296
-p07,NAM,33,Canada,Plywood production,0.547368421052632,0.389473684210526,0.0631578947368421
-p07,NAM,190,Saint Pierre and Miquelon,Plywood production,0.541666666666667,0.416666666666667,0.0416666666666667
-p07,NAM,231,United States of America,Plywood production,0.539690721649485,0.439690721649485,0.0206185567010309
-p07,OCE,5,American Samoa,Plywood production,0.541948335417152,0.420818411070377,0.0372332535124711
-p07,OCE,10,Australia,Plywood production,0.541948335417152,0.420818411070377,0.0372332535124711
-p07,OCE,25,Solomon Islands,Plywood production,0.541948335417152,0.420818411070377,0.0372332535124711
-p07,OCE,42,Christmas Island,Plywood production,0.541948335417152,0.420818411070377,0.0372332535124711
-p07,OCE,43,Cocos (Keeling) Islands,Plywood production,0.541948335417152,0.420818411070377,0.0372332535124711
-p07,OCE,47,Cook Islands,Plywood production,0.541948335417152,0.420818411070377,0.0372332535124711
-p07,OCE,66,Fiji,Plywood production,0.541948335417152,0.420818411070377,0.0372332535124711
-p07,OCE,70,French Polynesia,Plywood production,0.541948335417152,0.420818411070377,0.0372332535124711
-p07,OCE,71,French Southern and Antarctic Territories,Plywood production,0.541948335417152,0.420818411070377,0.0372332535124711
-p07,OCE,83,Kiribati,Plywood production,0.541948335417152,0.420818411070377,0.0372332535124711
-p07,OCE,88,Guam,Plywood production,0.541948335417152,0.420818411070377,0.0372332535124711
-p07,OCE,127,Marshall Islands,Plywood production,0.541948335417152,0.420818411070377,0.0372332535124711
-p07,OCE,145,Micronesia (Federated States of),Plywood production,0.541948335417152,0.420818411070377,0.0372332535124711
-p07,OCE,148,Nauru,Plywood production,0.541948335417152,0.420818411070377,0.0372332535124711
-p07,OCE,153,New Caledonia,Plywood production,0.541948335417152,0.420818411070377,0.0372332535124711
-p07,OCE,155,Vanuatu,Plywood production,0.541948335417152,0.420818411070377,0.0372332535124711
-p07,OCE,156,New Zealand,Plywood production,0.541948335417152,0.420818411070377,0.0372332535124711
-p07,OCE,160,Niue,Plywood production,0.541948335417152,0.420818411070377,0.0372332535124711
-p07,OCE,161,Norfolk Island,Plywood production,0.541948335417152,0.420818411070377,0.0372332535124711
-p07,OCE,163,Northern Mariana Islands,Plywood production,0.541948335417152,0.420818411070377,0.0372332535124711
-p07,OCE,168,Papua New Guinea,Plywood production,0.541948335417152,0.420818411070377,0.0372332535124711
-p07,OCE,172,Pitcairn Islands,Plywood production,0.541948335417152,0.420818411070377,0.0372332535124711
-p07,OCE,180,Palau,Plywood production,0.541948335417152,0.420818411070377,0.0372332535124711
-p07,OCE,218,Tokelau,Plywood production,0.541948335417152,0.420818411070377,0.0372332535124711
-p07,OCE,227,Tuvalu,Plywood production,0.541948335417152,0.420818411070377,0.0372332535124711
-p07,OCE,242,Wake Island,Plywood production,0.541948335417152,0.420818411070377,0.0372332535124711
-p07,OCE,243,Wallis and Futuna Islands,Plywood production,0.541948335417152,0.420818411070377,0.0372332535124711
-p07,OCE,244,Samoa,Plywood production,0.541948335417152,0.420818411070377,0.0372332535124711
-p07,XXX,252,Unspecified Area,Plywood production,0.541948335417152,0.420818411070377,0.0372332535124711
-p07,XXX,254,Others (adjustment),Plywood production,0.541948335417152,0.420818411070377,0.0372332535124711
+p05,XXX,252,Unspecified Area,"Sawnmill industry, non-coniferous all",0.55,0.30625,0.14375
+p05,XXX,254,Others (adjustment),"Sawnmill industry, non-coniferous all",0.55,0.30625,0.14375
+p06,AFR,4,Algeria,Veneer production,0.639583333333333,0.2625,0.0979166666666667
+p06,AFR,7,Angola,Veneer production,0.639583333333333,0.2625,0.0979166666666667
+p06,AFR,20,Botswana,Veneer production,0.639583333333333,0.2625,0.0979166666666667
+p06,AFR,29,Burundi,Veneer production,0.639583333333333,0.2625,0.0979166666666667
+p06,AFR,32,Cameroon,Veneer production,0.639583333333333,0.2625,0.0979166666666667
+p06,AFR,35,Cabo Verde,Veneer production,0.639583333333333,0.2625,0.0979166666666667
+p06,AFR,37,Central African Republic,Veneer production,0.639583333333333,0.2625,0.0979166666666667
+p06,AFR,39,Chad,Veneer production,0.639583333333333,0.2625,0.0979166666666667
+p06,AFR,45,Comoros,Veneer production,0.639583333333333,0.2625,0.0979166666666667
+p06,AFR,46,Congo,Veneer production,0.639583333333333,0.2625,0.0979166666666667
+p06,AFR,53,Benin,Veneer production,0.639583333333333,0.2625,0.0979166666666667
+p06,AFR,59,Egypt,Veneer production,0.639583333333333,0.2625,0.0979166666666667
+p06,AFR,61,Equatorial Guinea,Veneer production,0.639583333333333,0.2625,0.0979166666666667
+p06,AFR,72,Djibouti,Veneer production,0.639583333333333,0.2625,0.0979166666666667
+p06,AFR,74,Gabon,Veneer production,0.639583333333333,0.2625,0.0979166666666667
+p06,AFR,75,Gambia,Veneer production,0.639583333333333,0.2625,0.0979166666666667
+p06,AFR,81,Ghana,Veneer production,0.639583333333333,0.2625,0.0979166666666667
+p06,AFR,90,Guinea,Veneer production,0.639583333333333,0.2625,0.0979166666666667
+p06,AFR,107,Cote d'Ivoire,Veneer production,0.639583333333333,0.2625,0.0979166666666667
+p06,AFR,114,Kenya,Veneer production,0.639583333333333,0.2625,0.0979166666666667
+p06,AFR,122,Lesotho,Veneer production,0.639583333333333,0.2625,0.0979166666666667
+p06,AFR,123,Liberia,Veneer production,0.639583333333333,0.2625,0.0979166666666667
+p06,AFR,124,Libya,Veneer production,0.639583333333333,0.2625,0.0979166666666667
+p06,AFR,129,Madagascar,Veneer production,0.639583333333333,0.2625,0.0979166666666667
+p06,AFR,130,Malawi,Veneer production,0.639583333333333,0.2625,0.0979166666666667
+p06,AFR,133,Mali,Veneer production,0.639583333333333,0.2625,0.0979166666666667
+p06,AFR,136,Mauritania,Veneer production,0.639583333333333,0.2625,0.0979166666666667
+p06,AFR,137,Mauritius,Veneer production,0.639583333333333,0.2625,0.0979166666666667
+p06,AFR,143,Morocco,Veneer production,0.639583333333333,0.2625,0.0979166666666667
+p06,AFR,144,Mozambique,Veneer production,0.639583333333333,0.2625,0.0979166666666667
+p06,AFR,147,Namibia,Veneer production,0.639583333333333,0.2625,0.0979166666666667
+p06,AFR,158,Niger,Veneer production,0.639583333333333,0.2625,0.0979166666666667
+p06,AFR,159,Nigeria,Veneer production,0.639583333333333,0.2625,0.0979166666666667
+p06,AFR,175,Guinea-Bissau,Veneer production,0.639583333333333,0.2625,0.0979166666666667
+p06,AFR,178,Eritrea,Veneer production,0.639583333333333,0.2625,0.0979166666666667
+p06,AFR,181,Zimbabwe,Veneer production,0.639583333333333,0.2625,0.0979166666666667
+p06,AFR,182,Reunion,Veneer production,0.639583333333333,0.2625,0.0979166666666667
+p06,AFR,184,Rwanda,Veneer production,0.639583333333333,0.2625,0.0979166666666667
+p06,AFR,187,"Saint Helena, Ascension and Tristan da Cunha",Veneer production,0.639583333333333,0.2625,0.0979166666666667
+p06,AFR,193,Sao Tome and Principe,Veneer production,0.639583333333333,0.2625,0.0979166666666667
+p06,AFR,195,Senegal,Veneer production,0.639583333333333,0.2625,0.0979166666666667
+p06,AFR,196,Seychelles,Veneer production,0.639583333333333,0.2625,0.0979166666666667
+p06,AFR,197,Sierra Leone,Veneer production,0.639583333333333,0.2625,0.0979166666666667
+p06,AFR,201,Somalia,Veneer production,0.639583333333333,0.2625,0.0979166666666667
+p06,AFR,202,South Africa,Veneer production,0.639583333333333,0.2625,0.0979166666666667
+p06,AFR,205,Western Sahara,Veneer production,0.639583333333333,0.2625,0.0979166666666667
+p06,AFR,209,Eswatini,Veneer production,0.639583333333333,0.2625,0.0979166666666667
+p06,AFR,215,United Republic of Tanzania,Veneer production,0.639583333333333,0.2625,0.0979166666666667
+p06,AFR,217,Togo,Veneer production,0.639583333333333,0.2625,0.0979166666666667
+p06,AFR,219,Tonga,Veneer production,0.639583333333333,0.2625,0.0979166666666667
+p06,AFR,222,Tunisia,Veneer production,0.639583333333333,0.2625,0.0979166666666667
+p06,AFR,226,Uganda,Veneer production,0.639583333333333,0.2625,0.0979166666666667
+p06,AFR,233,Burkina Faso,Veneer production,0.639583333333333,0.2625,0.0979166666666667
+p06,AFR,238,Ethiopia,Veneer production,0.639583333333333,0.2625,0.0979166666666667
+p06,AFR,250,Democratic Republic of the Congo,Veneer production,0.639583333333333,0.2625,0.0979166666666667
+p06,AFR,251,Zambia,Veneer production,0.639583333333333,0.2625,0.0979166666666667
+p06,AFR,270,Mayotte,Veneer production,0.639583333333333,0.2625,0.0979166666666667
+p06,AFR,276,Sudan,Veneer production,0.639583333333333,0.2625,0.0979166666666667
+p06,AFR,277,South Sudan,Veneer production,0.639583333333333,0.2625,0.0979166666666667
+p06,ASI,1,Armenia,Veneer production,0.67293670083483,0.215576455669449,0.11148684349572
+p06,ASI,2,Afghanistan,Veneer production,0.67293670083483,0.215576455669449,0.11148684349572
+p06,ASI,13,Bahrain,Veneer production,0.67293670083483,0.215576455669449,0.11148684349572
+p06,ASI,16,Bangladesh,Veneer production,0.67293670083483,0.215576455669449,0.11148684349572
+p06,ASI,18,Bhutan,Veneer production,0.67293670083483,0.215576455669449,0.11148684349572
+p06,ASI,24,British Indian Ocean Territory,Veneer production,0.67293670083483,0.215576455669449,0.11148684349572
+p06,ASI,26,Brunei Darussalam,Veneer production,0.67293670083483,0.215576455669449,0.11148684349572
+p06,ASI,28,Myanmar,Veneer production,0.67293670083483,0.215576455669449,0.11148684349572
+p06,ASI,38,Sri Lanka,Veneer production,0.67293670083483,0.215576455669449,0.11148684349572
+p06,ASI,41,"China, mainland",Veneer production,0.717223650385604,0.185089974293059,0.0976863753213368
+p06,ASI,52,Azerbaijan,Veneer production,0.67293670083483,0.215576455669449,0.11148684349572
+p06,ASI,73,Georgia,Veneer production,0.67293670083483,0.215576455669449,0.11148684349572
+p06,ASI,96,"China, Hong Kong SAR",Veneer production,0.67293670083483,0.215576455669449,0.11148684349572
+p06,ASI,100,India,Veneer production,0.67293670083483,0.215576455669449,0.11148684349572
+p06,ASI,101,Indonesia,Veneer production,0.67293670083483,0.215576455669449,0.11148684349572
+p06,ASI,102,Iran (Islamic Republic of),Veneer production,0.67293670083483,0.215576455669449,0.11148684349572
+p06,ASI,103,Iraq,Veneer production,0.67293670083483,0.215576455669449,0.11148684349572
+p06,ASI,105,Israel,Veneer production,0.67293670083483,0.215576455669449,0.11148684349572
+p06,ASI,108,Kazakhstan,Veneer production,0.67293670083483,0.215576455669449,0.11148684349572
+p06,ASI,110,Japan,Veneer production,0.67293670083483,0.215576455669449,0.11148684349572
+p06,ASI,112,Jordan,Veneer production,0.67293670083483,0.215576455669449,0.11148684349572
+p06,ASI,113,Kyrgyzstan,Veneer production,0.67293670083483,0.215576455669449,0.11148684349572
+p06,ASI,115,Cambodia,Veneer production,0.67293670083483,0.215576455669449,0.11148684349572
+p06,ASI,116,Democratic People's Republic of Korea,Veneer production,0.67293670083483,0.215576455669449,0.11148684349572
+p06,ASI,117,Republic of Korea,Veneer production,0.67293670083483,0.215576455669449,0.11148684349572
+p06,ASI,118,Kuwait,Veneer production,0.67293670083483,0.215576455669449,0.11148684349572
+p06,ASI,120,Lao People's Democratic Republic,Veneer production,0.67293670083483,0.215576455669449,0.11148684349572
+p06,ASI,121,Lebanon,Veneer production,0.67293670083483,0.215576455669449,0.11148684349572
+p06,ASI,128,"China, Macao SAR",Veneer production,0.67293670083483,0.215576455669449,0.11148684349572
+p06,ASI,131,Malaysia,Veneer production,0.626086956521739,0.247826086956522,0.126086956521739
+p06,ASI,132,Maldives,Veneer production,0.67293670083483,0.215576455669449,0.11148684349572
+p06,ASI,141,Mongolia,Veneer production,0.67293670083483,0.215576455669449,0.11148684349572
+p06,ASI,149,Nepal,Veneer production,0.67293670083483,0.215576455669449,0.11148684349572
+p06,ASI,164,Pacific Islands Trust Territory,Veneer production,0.67293670083483,0.215576455669449,0.11148684349572
+p06,ASI,165,Pakistan,Veneer production,0.67293670083483,0.215576455669449,0.11148684349572
+p06,ASI,171,Philippines,Veneer production,0.67293670083483,0.215576455669449,0.11148684349572
+p06,ASI,176,Timor-Leste,Veneer production,0.67293670083483,0.215576455669449,0.11148684349572
+p06,ASI,179,Qatar,Veneer production,0.67293670083483,0.215576455669449,0.11148684349572
+p06,ASI,185,Russian Federation,Veneer production,0.6,0.265116279069767,0.134883720930233
+p06,ASI,194,Saudi Arabia,Veneer production,0.67293670083483,0.215576455669449,0.11148684349572
+p06,ASI,200,Singapore,Veneer production,0.67293670083483,0.215576455669449,0.11148684349572
+p06,ASI,208,Tajikistan,Veneer production,0.67293670083483,0.215576455669449,0.11148684349572
+p06,ASI,212,Syrian Arab Republic,Veneer production,0.67293670083483,0.215576455669449,0.11148684349572
+p06,ASI,213,Turkmenistan,Veneer production,0.67293670083483,0.215576455669449,0.11148684349572
+p06,ASI,214,"China, Taiwan Province of",Veneer production,0.67293670083483,0.215576455669449,0.11148684349572
+p06,ASI,216,Thailand,Veneer production,0.67293670083483,0.215576455669449,0.11148684349572
+p06,ASI,221,Oman,Veneer production,0.67293670083483,0.215576455669449,0.11148684349572
+p06,ASI,225,United Arab Emirates,Veneer production,0.67293670083483,0.215576455669449,0.11148684349572
+p06,ASI,228,USSR,Veneer production,0.67293670083483,0.215576455669449,0.11148684349572
+p06,ASI,235,Uzbekistan,Veneer production,0.67293670083483,0.215576455669449,0.11148684349572
+p06,ASI,237,Viet Nam,Veneer production,0.67293670083483,0.215576455669449,0.11148684349572
+p06,ASI,249,Yemen,Veneer production,0.67293670083483,0.215576455669449,0.11148684349572
+p06,ASI,299,Palestine,Veneer production,0.67293670083483,0.215576455669449,0.11148684349572
+p06,EUR,3,Albania,Veneer production,0.589847715736041,0.282868020304568,0.127284263959391
+p06,EUR,6,Andorra,Veneer production,0.589847715736041,0.282868020304568,0.127284263959391
+p06,EUR,11,Austria,Veneer production,0.589847715736041,0.282868020304568,0.127284263959391
+p06,EUR,15,Belgium-Luxembourg,Veneer production,0.589847715736041,0.282868020304568,0.127284263959391
+p06,EUR,27,Bulgaria,Veneer production,0.589847715736041,0.282868020304568,0.127284263959391
+p06,EUR,50,Cyprus,Veneer production,0.589847715736041,0.282868020304568,0.127284263959391
+p06,EUR,51,Czechoslovakia,Veneer production,0.589847715736041,0.282868020304568,0.127284263959391
+p06,EUR,54,Denmark,Veneer production,0.589847715736041,0.282868020304568,0.127284263959391
+p06,EUR,57,Belarus,Veneer production,0.589847715736041,0.282868020304568,0.127284263959391
+p06,EUR,63,Estonia,Veneer production,0.589847715736041,0.282868020304568,0.127284263959391
+p06,EUR,64,Faroe Islands,Veneer production,0.589847715736041,0.282868020304568,0.127284263959391
+p06,EUR,67,Finland,Veneer production,0.550865800865801,0.314935064935065,0.134199134199134
+p06,EUR,68,France,Veneer production,0.588042013855633,0.28411335121157,0.127844634932797
+p06,EUR,79,Germany,Veneer production,0.659840160052783,0.23459662229033,0.105563217656887
+p06,EUR,80,Bosnia and Herzegovina,Veneer production,0.589847715736041,0.282868020304568,0.127284263959391
+p06,EUR,82,Gibraltar,Veneer production,0.589847715736041,0.282868020304568,0.127284263959391
+p06,EUR,84,Greece,Veneer production,0.589847715736041,0.282868020304568,0.127284263959391
+p06,EUR,85,Greenland,Veneer production,0.589847715736041,0.282868020304568,0.127284263959391
+p06,EUR,94,Holy See,Veneer production,0.589847715736041,0.282868020304568,0.127284263959391
+p06,EUR,97,Hungary,Veneer production,0.589847715736041,0.282868020304568,0.127284263959391
+p06,EUR,98,Croatia,Veneer production,0.589847715736041,0.282868020304568,0.127284263959391
+p06,EUR,99,Iceland,Veneer production,0.589847715736041,0.282868020304568,0.127284263959391
+p06,EUR,104,Ireland,Veneer production,0.589847715736041,0.282868020304568,0.127284263959391
+p06,EUR,106,Italy,Veneer production,0.589847715736041,0.282868020304568,0.127284263959391
+p06,EUR,119,Latvia,Veneer production,0.589847715736041,0.282868020304568,0.127284263959391
+p06,EUR,125,Liechtenstein,Veneer production,0.589847715736041,0.282868020304568,0.127284263959391
+p06,EUR,126,Lithuania,Veneer production,0.585106382978723,0.287234042553192,0.127659574468085
+p06,EUR,134,Malta,Veneer production,0.589847715736041,0.282868020304568,0.127284263959391
+p06,EUR,146,Republic of Moldova,Veneer production,0.589847715736041,0.282868020304568,0.127284263959391
+p06,EUR,150,Netherlands,Veneer production,0.612244897959184,0.275510204081633,0.112244897959184
+p06,EUR,154,North Macedonia,Veneer production,0.589847715736041,0.282868020304568,0.127284263959391
+p06,EUR,162,Norway,Veneer production,0.589847715736041,0.282868020304568,0.127284263959391
+p06,EUR,167,Czechia,Veneer production,0.589847715736041,0.282868020304568,0.127284263959391
+p06,EUR,173,Poland,Veneer production,0.610309278350516,0.25360824742268,0.136082474226804
+p06,EUR,174,Portugal,Veneer production,0.589847715736041,0.282868020304568,0.127284263959391
+p06,EUR,183,Romania,Veneer production,0.589847715736041,0.282868020304568,0.127284263959391
+p06,EUR,186,Serbia and Montenegro,Veneer production,0.589847715736041,0.282868020304568,0.127284263959391
+p06,EUR,192,San Marino,Veneer production,0.589847715736041,0.282868020304568,0.127284263959391
+p06,EUR,198,Slovenia,Veneer production,0.543478260869565,0.326086956521739,0.130434782608696
+p06,EUR,199,Slovakia,Veneer production,0.589847715736041,0.282868020304568,0.127284263959391
+p06,EUR,203,Spain,Veneer production,0.589847715736041,0.282868020304568,0.127284263959391
+p06,EUR,210,Sweden,Veneer production,0.589847715736041,0.282868020304568,0.127284263959391
+p06,EUR,211,Switzerland,Veneer production,0.589847715736041,0.282868020304568,0.127284263959391
+p06,EUR,223,Turkey,Veneer production,0.589847715736041,0.282868020304568,0.127284263959391
+p06,EUR,229,United Kingdom,Veneer production,0.589847715736041,0.282868020304568,0.127284263959391
+p06,EUR,230,Ukraine,Veneer production,0.589847715736041,0.282868020304568,0.127284263959391
+p06,EUR,248,Yugoslav SFR,Veneer production,0.589847715736041,0.282868020304568,0.127284263959391
+p06,EUR,255,Belgium,Veneer production,0.589847715736041,0.282868020304568,0.127284263959391
+p06,EUR,256,Luxembourg,Veneer production,0.589847715736041,0.282868020304568,0.127284263959391
+p06,EUR,272,Serbia,Veneer production,0.589847715736041,0.282868020304568,0.127284263959391
+p06,EUR,273,Montenegro,Veneer production,0.589847715736041,0.282868020304568,0.127284263959391
+p06,LAM,8,Antigua and Barbuda,Veneer production,0.601984564498346,0.251378169790518,0.146637265711136
+p06,LAM,9,Argentina,Veneer production,0.601984564498346,0.251378169790518,0.146637265711136
+p06,LAM,12,Bahamas,Veneer production,0.601984564498346,0.251378169790518,0.146637265711136
+p06,LAM,14,Barbados,Veneer production,0.601984564498346,0.251378169790518,0.146637265711136
+p06,LAM,17,Bermuda,Veneer production,0.601984564498346,0.251378169790518,0.146637265711136
+p06,LAM,19,Bolivia (Plurinational State of),Veneer production,0.601984564498346,0.251378169790518,0.146637265711136
+p06,LAM,21,Brazil,Veneer production,0.601984564498346,0.251378169790518,0.146637265711136
+p06,LAM,22,Aruba,Veneer production,0.601984564498346,0.251378169790518,0.146637265711136
+p06,LAM,23,Belize,Veneer production,0.601984564498346,0.251378169790518,0.146637265711136
+p06,LAM,36,Cayman Islands,Veneer production,0.601984564498346,0.251378169790518,0.146637265711136
+p06,LAM,40,Chile,Veneer production,0.601984564498346,0.251378169790518,0.146637265711136
+p06,LAM,44,Colombia,Veneer production,0.601984564498346,0.251378169790518,0.146637265711136
+p06,LAM,48,Costa Rica,Veneer production,0.601984564498346,0.251378169790518,0.146637265711136
+p06,LAM,49,Cuba,Veneer production,0.601984564498346,0.251378169790518,0.146637265711136
+p06,LAM,55,Dominica,Veneer production,0.601984564498346,0.251378169790518,0.146637265711136
+p06,LAM,56,Dominican Republic,Veneer production,0.601984564498346,0.251378169790518,0.146637265711136
+p06,LAM,58,Ecuador,Veneer production,0.601984564498346,0.251378169790518,0.146637265711136
+p06,LAM,60,El Salvador,Veneer production,0.601984564498346,0.251378169790518,0.146637265711136
+p06,LAM,65,Falkland Islands (Malvinas),Veneer production,0.601984564498346,0.251378169790518,0.146637265711136
+p06,LAM,69,French Guyana,Veneer production,0.601984564498346,0.251378169790518,0.146637265711136
+p06,LAM,86,Grenada,Veneer production,0.601984564498346,0.251378169790518,0.146637265711136
+p06,LAM,87,Guadeloupe,Veneer production,0.601984564498346,0.251378169790518,0.146637265711136
+p06,LAM,89,Guatemala,Veneer production,0.601984564498346,0.251378169790518,0.146637265711136
+p06,LAM,91,Guyana,Veneer production,0.601984564498346,0.251378169790518,0.146637265711136
+p06,LAM,93,Haiti,Veneer production,0.601984564498346,0.251378169790518,0.146637265711136
+p06,LAM,95,Honduras,Veneer production,0.601984564498346,0.251378169790518,0.146637265711136
+p06,LAM,109,Jamaica,Veneer production,0.601984564498346,0.251378169790518,0.146637265711136
+p06,LAM,135,Martinique,Veneer production,0.601984564498346,0.251378169790518,0.146637265711136
+p06,LAM,138,Mexico,Veneer production,0.601984564498346,0.251378169790518,0.146637265711136
+p06,LAM,142,Montserrat,Veneer production,0.601984564498346,0.251378169790518,0.146637265711136
+p06,LAM,151,Netherlands Antilles,Veneer production,0.601984564498346,0.251378169790518,0.146637265711136
+p06,LAM,157,Nicaragua,Veneer production,0.601984564498346,0.251378169790518,0.146637265711136
+p06,LAM,166,Panama,Veneer production,0.601984564498346,0.251378169790518,0.146637265711136
+p06,LAM,169,Paraguay,Veneer production,0.601984564498346,0.251378169790518,0.146637265711136
+p06,LAM,170,Peru,Veneer production,0.601984564498346,0.251378169790518,0.146637265711136
+p06,LAM,188,Saint Kitts and Nevis,Veneer production,0.601984564498346,0.251378169790518,0.146637265711136
+p06,LAM,189,Saint Lucia,Veneer production,0.601984564498346,0.251378169790518,0.146637265711136
+p06,LAM,191,Saint Vincent and the Grenadines,Veneer production,0.601984564498346,0.251378169790518,0.146637265711136
+p06,LAM,207,Suriname,Veneer production,0.601984564498346,0.251378169790518,0.146637265711136
+p06,LAM,220,Trinidad and Tobago,Veneer production,0.601984564498346,0.251378169790518,0.146637265711136
+p06,LAM,224,Turks and Caicos Islands,Veneer production,0.601984564498346,0.251378169790518,0.146637265711136
+p06,LAM,234,Uruguay,Veneer production,0.601984564498346,0.251378169790518,0.146637265711136
+p06,LAM,236,Venezuela (Bolivarian Republic of),Veneer production,0.601984564498346,0.251378169790518,0.146637265711136
+p06,LAM,239,British Virgin Islands,Veneer production,0.601984564498346,0.251378169790518,0.146637265711136
+p06,LAM,258,Anguilla,Veneer production,0.601984564498346,0.251378169790518,0.146637265711136
+p06,LAM,279,Curaçao,Veneer production,0.601984564498346,0.251378169790518,0.146637265711136
+p06,LAM,281,Saint-Martin (French Part),Veneer production,0.601984564498346,0.251378169790518,0.146637265711136
+p06,NAM,33,Canada,Veneer production,0.625263157894737,0.233684210526316,0.141052631578947
+p06,NAM,190,Saint Pierre and Miquelon,Veneer production,0.625,0.25,0.125
+p06,NAM,231,United States of America,Veneer production,0.627628865979382,0.263814432989691,0.108556701030928
+p06,OCE,5,American Samoa,Veneer production,0.626112017631228,0.252491046642226,0.121396935726546
+p06,OCE,10,Australia,Veneer production,0.626112017631228,0.252491046642226,0.121396935726546
+p06,OCE,25,Solomon Islands,Veneer production,0.626112017631228,0.252491046642226,0.121396935726546
+p06,OCE,42,Christmas Island,Veneer production,0.626112017631228,0.252491046642226,0.121396935726546
+p06,OCE,43,Cocos (Keeling) Islands,Veneer production,0.626112017631228,0.252491046642226,0.121396935726546
+p06,OCE,47,Cook Islands,Veneer production,0.626112017631228,0.252491046642226,0.121396935726546
+p06,OCE,66,Fiji,Veneer production,0.626112017631228,0.252491046642226,0.121396935726546
+p06,OCE,70,French Polynesia,Veneer production,0.626112017631228,0.252491046642226,0.121396935726546
+p06,OCE,71,French Southern and Antarctic Territories,Veneer production,0.626112017631228,0.252491046642226,0.121396935726546
+p06,OCE,83,Kiribati,Veneer production,0.626112017631228,0.252491046642226,0.121396935726546
+p06,OCE,88,Guam,Veneer production,0.626112017631228,0.252491046642226,0.121396935726546
+p06,OCE,127,Marshall Islands,Veneer production,0.626112017631228,0.252491046642226,0.121396935726546
+p06,OCE,145,Micronesia (Federated States of),Veneer production,0.626112017631228,0.252491046642226,0.121396935726546
+p06,OCE,148,Nauru,Veneer production,0.626112017631228,0.252491046642226,0.121396935726546
+p06,OCE,153,New Caledonia,Veneer production,0.626112017631228,0.252491046642226,0.121396935726546
+p06,OCE,155,Vanuatu,Veneer production,0.626112017631228,0.252491046642226,0.121396935726546
+p06,OCE,156,New Zealand,Veneer production,0.626112017631228,0.252491046642226,0.121396935726546
+p06,OCE,160,Niue,Veneer production,0.626112017631228,0.252491046642226,0.121396935726546
+p06,OCE,161,Norfolk Island,Veneer production,0.626112017631228,0.252491046642226,0.121396935726546
+p06,OCE,163,Northern Mariana Islands,Veneer production,0.626112017631228,0.252491046642226,0.121396935726546
+p06,OCE,168,Papua New Guinea,Veneer production,0.626112017631228,0.252491046642226,0.121396935726546
+p06,OCE,172,Pitcairn Islands,Veneer production,0.626112017631228,0.252491046642226,0.121396935726546
+p06,OCE,180,Palau,Veneer production,0.626112017631228,0.252491046642226,0.121396935726546
+p06,OCE,218,Tokelau,Veneer production,0.626112017631228,0.252491046642226,0.121396935726546
+p06,OCE,227,Tuvalu,Veneer production,0.626112017631228,0.252491046642226,0.121396935726546
+p06,OCE,242,Wake Island,Veneer production,0.626112017631228,0.252491046642226,0.121396935726546
+p06,OCE,243,Wallis and Futuna Islands,Veneer production,0.626112017631228,0.252491046642226,0.121396935726546
+p06,OCE,244,Samoa,Veneer production,0.626112017631228,0.252491046642226,0.121396935726546
+p06,XXX,252,Unspecified Area,Veneer production,0.626112017631228,0.252491046642226,0.121396935726546
+p06,XXX,254,Others (adjustment),Veneer production,0.626112017631228,0.252491046642226,0.121396935726546
+p07,AFR,4,Algeria,Plywood production,0.639583333333333,0.2625,0.0979166666666667
+p07,AFR,7,Angola,Plywood production,0.639583333333333,0.2625,0.0979166666666667
+p07,AFR,20,Botswana,Plywood production,0.639583333333333,0.2625,0.0979166666666667
+p07,AFR,29,Burundi,Plywood production,0.639583333333333,0.2625,0.0979166666666667
+p07,AFR,32,Cameroon,Plywood production,0.639583333333333,0.2625,0.0979166666666667
+p07,AFR,35,Cabo Verde,Plywood production,0.639583333333333,0.2625,0.0979166666666667
+p07,AFR,37,Central African Republic,Plywood production,0.639583333333333,0.2625,0.0979166666666667
+p07,AFR,39,Chad,Plywood production,0.639583333333333,0.2625,0.0979166666666667
+p07,AFR,45,Comoros,Plywood production,0.639583333333333,0.2625,0.0979166666666667
+p07,AFR,46,Congo,Plywood production,0.639583333333333,0.2625,0.0979166666666667
+p07,AFR,53,Benin,Plywood production,0.639583333333333,0.2625,0.0979166666666667
+p07,AFR,59,Egypt,Plywood production,0.639583333333333,0.2625,0.0979166666666667
+p07,AFR,61,Equatorial Guinea,Plywood production,0.639583333333333,0.2625,0.0979166666666667
+p07,AFR,72,Djibouti,Plywood production,0.639583333333333,0.2625,0.0979166666666667
+p07,AFR,74,Gabon,Plywood production,0.639583333333333,0.2625,0.0979166666666667
+p07,AFR,75,Gambia,Plywood production,0.639583333333333,0.2625,0.0979166666666667
+p07,AFR,81,Ghana,Plywood production,0.639583333333333,0.2625,0.0979166666666667
+p07,AFR,90,Guinea,Plywood production,0.639583333333333,0.2625,0.0979166666666667
+p07,AFR,107,Cote d'Ivoire,Plywood production,0.639583333333333,0.2625,0.0979166666666667
+p07,AFR,114,Kenya,Plywood production,0.639583333333333,0.2625,0.0979166666666667
+p07,AFR,122,Lesotho,Plywood production,0.639583333333333,0.2625,0.0979166666666667
+p07,AFR,123,Liberia,Plywood production,0.639583333333333,0.2625,0.0979166666666667
+p07,AFR,124,Libya,Plywood production,0.639583333333333,0.2625,0.0979166666666667
+p07,AFR,129,Madagascar,Plywood production,0.639583333333333,0.2625,0.0979166666666667
+p07,AFR,130,Malawi,Plywood production,0.639583333333333,0.2625,0.0979166666666667
+p07,AFR,133,Mali,Plywood production,0.639583333333333,0.2625,0.0979166666666667
+p07,AFR,136,Mauritania,Plywood production,0.639583333333333,0.2625,0.0979166666666667
+p07,AFR,137,Mauritius,Plywood production,0.639583333333333,0.2625,0.0979166666666667
+p07,AFR,143,Morocco,Plywood production,0.639583333333333,0.2625,0.0979166666666667
+p07,AFR,144,Mozambique,Plywood production,0.639583333333333,0.2625,0.0979166666666667
+p07,AFR,147,Namibia,Plywood production,0.639583333333333,0.2625,0.0979166666666667
+p07,AFR,158,Niger,Plywood production,0.639583333333333,0.2625,0.0979166666666667
+p07,AFR,159,Nigeria,Plywood production,0.639583333333333,0.2625,0.0979166666666667
+p07,AFR,175,Guinea-Bissau,Plywood production,0.639583333333333,0.2625,0.0979166666666667
+p07,AFR,178,Eritrea,Plywood production,0.639583333333333,0.2625,0.0979166666666667
+p07,AFR,181,Zimbabwe,Plywood production,0.639583333333333,0.2625,0.0979166666666667
+p07,AFR,182,Reunion,Plywood production,0.639583333333333,0.2625,0.0979166666666667
+p07,AFR,184,Rwanda,Plywood production,0.639583333333333,0.2625,0.0979166666666667
+p07,AFR,187,"Saint Helena, Ascension and Tristan da Cunha",Plywood production,0.639583333333333,0.2625,0.0979166666666667
+p07,AFR,193,Sao Tome and Principe,Plywood production,0.639583333333333,0.2625,0.0979166666666667
+p07,AFR,195,Senegal,Plywood production,0.639583333333333,0.2625,0.0979166666666667
+p07,AFR,196,Seychelles,Plywood production,0.639583333333333,0.2625,0.0979166666666667
+p07,AFR,197,Sierra Leone,Plywood production,0.639583333333333,0.2625,0.0979166666666667
+p07,AFR,201,Somalia,Plywood production,0.639583333333333,0.2625,0.0979166666666667
+p07,AFR,202,South Africa,Plywood production,0.639583333333333,0.2625,0.0979166666666667
+p07,AFR,205,Western Sahara,Plywood production,0.639583333333333,0.2625,0.0979166666666667
+p07,AFR,209,Eswatini,Plywood production,0.639583333333333,0.2625,0.0979166666666667
+p07,AFR,215,United Republic of Tanzania,Plywood production,0.639583333333333,0.2625,0.0979166666666667
+p07,AFR,217,Togo,Plywood production,0.639583333333333,0.2625,0.0979166666666667
+p07,AFR,219,Tonga,Plywood production,0.639583333333333,0.2625,0.0979166666666667
+p07,AFR,222,Tunisia,Plywood production,0.639583333333333,0.2625,0.0979166666666667
+p07,AFR,226,Uganda,Plywood production,0.639583333333333,0.2625,0.0979166666666667
+p07,AFR,233,Burkina Faso,Plywood production,0.639583333333333,0.2625,0.0979166666666667
+p07,AFR,238,Ethiopia,Plywood production,0.639583333333333,0.2625,0.0979166666666667
+p07,AFR,250,Democratic Republic of the Congo,Plywood production,0.639583333333333,0.2625,0.0979166666666667
+p07,AFR,251,Zambia,Plywood production,0.639583333333333,0.2625,0.0979166666666667
+p07,AFR,270,Mayotte,Plywood production,0.639583333333333,0.2625,0.0979166666666667
+p07,AFR,276,Sudan,Plywood production,0.639583333333333,0.2625,0.0979166666666667
+p07,AFR,277,South Sudan,Plywood production,0.639583333333333,0.2625,0.0979166666666667
+p07,ASI,1,Armenia,Plywood production,0.67293670083483,0.215576455669449,0.11148684349572
+p07,ASI,2,Afghanistan,Plywood production,0.67293670083483,0.215576455669449,0.11148684349572
+p07,ASI,13,Bahrain,Plywood production,0.67293670083483,0.215576455669449,0.11148684349572
+p07,ASI,16,Bangladesh,Plywood production,0.67293670083483,0.215576455669449,0.11148684349572
+p07,ASI,18,Bhutan,Plywood production,0.67293670083483,0.215576455669449,0.11148684349572
+p07,ASI,24,British Indian Ocean Territory,Plywood production,0.67293670083483,0.215576455669449,0.11148684349572
+p07,ASI,26,Brunei Darussalam,Plywood production,0.67293670083483,0.215576455669449,0.11148684349572
+p07,ASI,28,Myanmar,Plywood production,0.67293670083483,0.215576455669449,0.11148684349572
+p07,ASI,38,Sri Lanka,Plywood production,0.67293670083483,0.215576455669449,0.11148684349572
+p07,ASI,41,"China, mainland",Plywood production,0.717223650385604,0.185089974293059,0.0976863753213368
+p07,ASI,52,Azerbaijan,Plywood production,0.67293670083483,0.215576455669449,0.11148684349572
+p07,ASI,73,Georgia,Plywood production,0.67293670083483,0.215576455669449,0.11148684349572
+p07,ASI,96,"China, Hong Kong SAR",Plywood production,0.67293670083483,0.215576455669449,0.11148684349572
+p07,ASI,100,India,Plywood production,0.67293670083483,0.215576455669449,0.11148684349572
+p07,ASI,101,Indonesia,Plywood production,0.67293670083483,0.215576455669449,0.11148684349572
+p07,ASI,102,Iran (Islamic Republic of),Plywood production,0.67293670083483,0.215576455669449,0.11148684349572
+p07,ASI,103,Iraq,Plywood production,0.67293670083483,0.215576455669449,0.11148684349572
+p07,ASI,105,Israel,Plywood production,0.67293670083483,0.215576455669449,0.11148684349572
+p07,ASI,108,Kazakhstan,Plywood production,0.67293670083483,0.215576455669449,0.11148684349572
+p07,ASI,110,Japan,Plywood production,0.67293670083483,0.215576455669449,0.11148684349572
+p07,ASI,112,Jordan,Plywood production,0.67293670083483,0.215576455669449,0.11148684349572
+p07,ASI,113,Kyrgyzstan,Plywood production,0.67293670083483,0.215576455669449,0.11148684349572
+p07,ASI,115,Cambodia,Plywood production,0.67293670083483,0.215576455669449,0.11148684349572
+p07,ASI,116,Democratic People's Republic of Korea,Plywood production,0.67293670083483,0.215576455669449,0.11148684349572
+p07,ASI,117,Republic of Korea,Plywood production,0.67293670083483,0.215576455669449,0.11148684349572
+p07,ASI,118,Kuwait,Plywood production,0.67293670083483,0.215576455669449,0.11148684349572
+p07,ASI,120,Lao People's Democratic Republic,Plywood production,0.67293670083483,0.215576455669449,0.11148684349572
+p07,ASI,121,Lebanon,Plywood production,0.67293670083483,0.215576455669449,0.11148684349572
+p07,ASI,128,"China, Macao SAR",Plywood production,0.67293670083483,0.215576455669449,0.11148684349572
+p07,ASI,131,Malaysia,Plywood production,0.626086956521739,0.247826086956522,0.126086956521739
+p07,ASI,132,Maldives,Plywood production,0.67293670083483,0.215576455669449,0.11148684349572
+p07,ASI,141,Mongolia,Plywood production,0.67293670083483,0.215576455669449,0.11148684349572
+p07,ASI,149,Nepal,Plywood production,0.67293670083483,0.215576455669449,0.11148684349572
+p07,ASI,164,Pacific Islands Trust Territory,Plywood production,0.67293670083483,0.215576455669449,0.11148684349572
+p07,ASI,165,Pakistan,Plywood production,0.67293670083483,0.215576455669449,0.11148684349572
+p07,ASI,171,Philippines,Plywood production,0.67293670083483,0.215576455669449,0.11148684349572
+p07,ASI,176,Timor-Leste,Plywood production,0.67293670083483,0.215576455669449,0.11148684349572
+p07,ASI,179,Qatar,Plywood production,0.67293670083483,0.215576455669449,0.11148684349572
+p07,ASI,185,Russian Federation,Plywood production,0.6,0.265116279069767,0.134883720930233
+p07,ASI,194,Saudi Arabia,Plywood production,0.67293670083483,0.215576455669449,0.11148684349572
+p07,ASI,200,Singapore,Plywood production,0.67293670083483,0.215576455669449,0.11148684349572
+p07,ASI,208,Tajikistan,Plywood production,0.67293670083483,0.215576455669449,0.11148684349572
+p07,ASI,212,Syrian Arab Republic,Plywood production,0.67293670083483,0.215576455669449,0.11148684349572
+p07,ASI,213,Turkmenistan,Plywood production,0.67293670083483,0.215576455669449,0.11148684349572
+p07,ASI,214,"China, Taiwan Province of",Plywood production,0.67293670083483,0.215576455669449,0.11148684349572
+p07,ASI,216,Thailand,Plywood production,0.67293670083483,0.215576455669449,0.11148684349572
+p07,ASI,221,Oman,Plywood production,0.67293670083483,0.215576455669449,0.11148684349572
+p07,ASI,225,United Arab Emirates,Plywood production,0.67293670083483,0.215576455669449,0.11148684349572
+p07,ASI,228,USSR,Plywood production,0.67293670083483,0.215576455669449,0.11148684349572
+p07,ASI,235,Uzbekistan,Plywood production,0.67293670083483,0.215576455669449,0.11148684349572
+p07,ASI,237,Viet Nam,Plywood production,0.67293670083483,0.215576455669449,0.11148684349572
+p07,ASI,249,Yemen,Plywood production,0.67293670083483,0.215576455669449,0.11148684349572
+p07,ASI,299,Palestine,Plywood production,0.67293670083483,0.215576455669449,0.11148684349572
+p07,EUR,3,Albania,Plywood production,0.589847715736041,0.282868020304568,0.127284263959391
+p07,EUR,6,Andorra,Plywood production,0.589847715736041,0.282868020304568,0.127284263959391
+p07,EUR,11,Austria,Plywood production,0.589847715736041,0.282868020304568,0.127284263959391
+p07,EUR,15,Belgium-Luxembourg,Plywood production,0.589847715736041,0.282868020304568,0.127284263959391
+p07,EUR,27,Bulgaria,Plywood production,0.589847715736041,0.282868020304568,0.127284263959391
+p07,EUR,50,Cyprus,Plywood production,0.589847715736041,0.282868020304568,0.127284263959391
+p07,EUR,51,Czechoslovakia,Plywood production,0.589847715736041,0.282868020304568,0.127284263959391
+p07,EUR,54,Denmark,Plywood production,0.589847715736041,0.282868020304568,0.127284263959391
+p07,EUR,57,Belarus,Plywood production,0.589847715736041,0.282868020304568,0.127284263959391
+p07,EUR,63,Estonia,Plywood production,0.589847715736041,0.282868020304568,0.127284263959391
+p07,EUR,64,Faroe Islands,Plywood production,0.589847715736041,0.282868020304568,0.127284263959391
+p07,EUR,67,Finland,Plywood production,0.550865800865801,0.314935064935065,0.134199134199134
+p07,EUR,68,France,Plywood production,0.588042013855633,0.28411335121157,0.127844634932797
+p07,EUR,79,Germany,Plywood production,0.659840160052783,0.23459662229033,0.105563217656887
+p07,EUR,80,Bosnia and Herzegovina,Plywood production,0.589847715736041,0.282868020304568,0.127284263959391
+p07,EUR,82,Gibraltar,Plywood production,0.589847715736041,0.282868020304568,0.127284263959391
+p07,EUR,84,Greece,Plywood production,0.589847715736041,0.282868020304568,0.127284263959391
+p07,EUR,85,Greenland,Plywood production,0.589847715736041,0.282868020304568,0.127284263959391
+p07,EUR,94,Holy See,Plywood production,0.589847715736041,0.282868020304568,0.127284263959391
+p07,EUR,97,Hungary,Plywood production,0.589847715736041,0.282868020304568,0.127284263959391
+p07,EUR,98,Croatia,Plywood production,0.589847715736041,0.282868020304568,0.127284263959391
+p07,EUR,99,Iceland,Plywood production,0.589847715736041,0.282868020304568,0.127284263959391
+p07,EUR,104,Ireland,Plywood production,0.589847715736041,0.282868020304568,0.127284263959391
+p07,EUR,106,Italy,Plywood production,0.589847715736041,0.282868020304568,0.127284263959391
+p07,EUR,119,Latvia,Plywood production,0.589847715736041,0.282868020304568,0.127284263959391
+p07,EUR,125,Liechtenstein,Plywood production,0.589847715736041,0.282868020304568,0.127284263959391
+p07,EUR,126,Lithuania,Plywood production,0.585106382978723,0.287234042553192,0.127659574468085
+p07,EUR,134,Malta,Plywood production,0.589847715736041,0.282868020304568,0.127284263959391
+p07,EUR,146,Republic of Moldova,Plywood production,0.589847715736041,0.282868020304568,0.127284263959391
+p07,EUR,150,Netherlands,Plywood production,0.612244897959184,0.275510204081633,0.112244897959184
+p07,EUR,154,North Macedonia,Plywood production,0.589847715736041,0.282868020304568,0.127284263959391
+p07,EUR,162,Norway,Plywood production,0.589847715736041,0.282868020304568,0.127284263959391
+p07,EUR,167,Czechia,Plywood production,0.589847715736041,0.282868020304568,0.127284263959391
+p07,EUR,173,Poland,Plywood production,0.610309278350516,0.25360824742268,0.136082474226804
+p07,EUR,174,Portugal,Plywood production,0.589847715736041,0.282868020304568,0.127284263959391
+p07,EUR,183,Romania,Plywood production,0.589847715736041,0.282868020304568,0.127284263959391
+p07,EUR,186,Serbia and Montenegro,Plywood production,0.589847715736041,0.282868020304568,0.127284263959391
+p07,EUR,192,San Marino,Plywood production,0.589847715736041,0.282868020304568,0.127284263959391
+p07,EUR,198,Slovenia,Plywood production,0.543478260869565,0.326086956521739,0.130434782608696
+p07,EUR,199,Slovakia,Plywood production,0.589847715736041,0.282868020304568,0.127284263959391
+p07,EUR,203,Spain,Plywood production,0.589847715736041,0.282868020304568,0.127284263959391
+p07,EUR,210,Sweden,Plywood production,0.589847715736041,0.282868020304568,0.127284263959391
+p07,EUR,211,Switzerland,Plywood production,0.589847715736041,0.282868020304568,0.127284263959391
+p07,EUR,223,Turkey,Plywood production,0.589847715736041,0.282868020304568,0.127284263959391
+p07,EUR,229,United Kingdom,Plywood production,0.589847715736041,0.282868020304568,0.127284263959391
+p07,EUR,230,Ukraine,Plywood production,0.589847715736041,0.282868020304568,0.127284263959391
+p07,EUR,248,Yugoslav SFR,Plywood production,0.589847715736041,0.282868020304568,0.127284263959391
+p07,EUR,255,Belgium,Plywood production,0.589847715736041,0.282868020304568,0.127284263959391
+p07,EUR,256,Luxembourg,Plywood production,0.589847715736041,0.282868020304568,0.127284263959391
+p07,EUR,272,Serbia,Plywood production,0.589847715736041,0.282868020304568,0.127284263959391
+p07,EUR,273,Montenegro,Plywood production,0.589847715736041,0.282868020304568,0.127284263959391
+p07,LAM,8,Antigua and Barbuda,Plywood production,0.601984564498346,0.251378169790518,0.146637265711136
+p07,LAM,9,Argentina,Plywood production,0.601984564498346,0.251378169790518,0.146637265711136
+p07,LAM,12,Bahamas,Plywood production,0.601984564498346,0.251378169790518,0.146637265711136
+p07,LAM,14,Barbados,Plywood production,0.601984564498346,0.251378169790518,0.146637265711136
+p07,LAM,17,Bermuda,Plywood production,0.601984564498346,0.251378169790518,0.146637265711136
+p07,LAM,19,Bolivia (Plurinational State of),Plywood production,0.601984564498346,0.251378169790518,0.146637265711136
+p07,LAM,21,Brazil,Plywood production,0.601984564498346,0.251378169790518,0.146637265711136
+p07,LAM,22,Aruba,Plywood production,0.601984564498346,0.251378169790518,0.146637265711136
+p07,LAM,23,Belize,Plywood production,0.601984564498346,0.251378169790518,0.146637265711136
+p07,LAM,36,Cayman Islands,Plywood production,0.601984564498346,0.251378169790518,0.146637265711136
+p07,LAM,40,Chile,Plywood production,0.601984564498346,0.251378169790518,0.146637265711136
+p07,LAM,44,Colombia,Plywood production,0.601984564498346,0.251378169790518,0.146637265711136
+p07,LAM,48,Costa Rica,Plywood production,0.601984564498346,0.251378169790518,0.146637265711136
+p07,LAM,49,Cuba,Plywood production,0.601984564498346,0.251378169790518,0.146637265711136
+p07,LAM,55,Dominica,Plywood production,0.601984564498346,0.251378169790518,0.146637265711136
+p07,LAM,56,Dominican Republic,Plywood production,0.601984564498346,0.251378169790518,0.146637265711136
+p07,LAM,58,Ecuador,Plywood production,0.601984564498346,0.251378169790518,0.146637265711136
+p07,LAM,60,El Salvador,Plywood production,0.601984564498346,0.251378169790518,0.146637265711136
+p07,LAM,65,Falkland Islands (Malvinas),Plywood production,0.601984564498346,0.251378169790518,0.146637265711136
+p07,LAM,69,French Guyana,Plywood production,0.601984564498346,0.251378169790518,0.146637265711136
+p07,LAM,86,Grenada,Plywood production,0.601984564498346,0.251378169790518,0.146637265711136
+p07,LAM,87,Guadeloupe,Plywood production,0.601984564498346,0.251378169790518,0.146637265711136
+p07,LAM,89,Guatemala,Plywood production,0.601984564498346,0.251378169790518,0.146637265711136
+p07,LAM,91,Guyana,Plywood production,0.601984564498346,0.251378169790518,0.146637265711136
+p07,LAM,93,Haiti,Plywood production,0.601984564498346,0.251378169790518,0.146637265711136
+p07,LAM,95,Honduras,Plywood production,0.601984564498346,0.251378169790518,0.146637265711136
+p07,LAM,109,Jamaica,Plywood production,0.601984564498346,0.251378169790518,0.146637265711136
+p07,LAM,135,Martinique,Plywood production,0.601984564498346,0.251378169790518,0.146637265711136
+p07,LAM,138,Mexico,Plywood production,0.601984564498346,0.251378169790518,0.146637265711136
+p07,LAM,142,Montserrat,Plywood production,0.601984564498346,0.251378169790518,0.146637265711136
+p07,LAM,151,Netherlands Antilles,Plywood production,0.601984564498346,0.251378169790518,0.146637265711136
+p07,LAM,157,Nicaragua,Plywood production,0.601984564498346,0.251378169790518,0.146637265711136
+p07,LAM,166,Panama,Plywood production,0.601984564498346,0.251378169790518,0.146637265711136
+p07,LAM,169,Paraguay,Plywood production,0.601984564498346,0.251378169790518,0.146637265711136
+p07,LAM,170,Peru,Plywood production,0.601984564498346,0.251378169790518,0.146637265711136
+p07,LAM,188,Saint Kitts and Nevis,Plywood production,0.601984564498346,0.251378169790518,0.146637265711136
+p07,LAM,189,Saint Lucia,Plywood production,0.601984564498346,0.251378169790518,0.146637265711136
+p07,LAM,191,Saint Vincent and the Grenadines,Plywood production,0.601984564498346,0.251378169790518,0.146637265711136
+p07,LAM,207,Suriname,Plywood production,0.601984564498346,0.251378169790518,0.146637265711136
+p07,LAM,220,Trinidad and Tobago,Plywood production,0.601984564498346,0.251378169790518,0.146637265711136
+p07,LAM,224,Turks and Caicos Islands,Plywood production,0.601984564498346,0.251378169790518,0.146637265711136
+p07,LAM,234,Uruguay,Plywood production,0.601984564498346,0.251378169790518,0.146637265711136
+p07,LAM,236,Venezuela (Bolivarian Republic of),Plywood production,0.601984564498346,0.251378169790518,0.146637265711136
+p07,LAM,239,British Virgin Islands,Plywood production,0.601984564498346,0.251378169790518,0.146637265711136
+p07,LAM,258,Anguilla,Plywood production,0.601984564498346,0.251378169790518,0.146637265711136
+p07,LAM,279,Curaçao,Plywood production,0.601984564498346,0.251378169790518,0.146637265711136
+p07,LAM,281,Saint-Martin (French Part),Plywood production,0.601984564498346,0.251378169790518,0.146637265711136
+p07,NAM,33,Canada,Plywood production,0.625263157894737,0.233684210526316,0.141052631578947
+p07,NAM,190,Saint Pierre and Miquelon,Plywood production,0.625,0.25,0.125
+p07,NAM,231,United States of America,Plywood production,0.627628865979382,0.263814432989691,0.108556701030928
+p07,OCE,5,American Samoa,Plywood production,0.626112017631228,0.252491046642226,0.121396935726546
+p07,OCE,10,Australia,Plywood production,0.626112017631228,0.252491046642226,0.121396935726546
+p07,OCE,25,Solomon Islands,Plywood production,0.626112017631228,0.252491046642226,0.121396935726546
+p07,OCE,42,Christmas Island,Plywood production,0.626112017631228,0.252491046642226,0.121396935726546
+p07,OCE,43,Cocos (Keeling) Islands,Plywood production,0.626112017631228,0.252491046642226,0.121396935726546
+p07,OCE,47,Cook Islands,Plywood production,0.626112017631228,0.252491046642226,0.121396935726546
+p07,OCE,66,Fiji,Plywood production,0.626112017631228,0.252491046642226,0.121396935726546
+p07,OCE,70,French Polynesia,Plywood production,0.626112017631228,0.252491046642226,0.121396935726546
+p07,OCE,71,French Southern and Antarctic Territories,Plywood production,0.626112017631228,0.252491046642226,0.121396935726546
+p07,OCE,83,Kiribati,Plywood production,0.626112017631228,0.252491046642226,0.121396935726546
+p07,OCE,88,Guam,Plywood production,0.626112017631228,0.252491046642226,0.121396935726546
+p07,OCE,127,Marshall Islands,Plywood production,0.626112017631228,0.252491046642226,0.121396935726546
+p07,OCE,145,Micronesia (Federated States of),Plywood production,0.626112017631228,0.252491046642226,0.121396935726546
+p07,OCE,148,Nauru,Plywood production,0.626112017631228,0.252491046642226,0.121396935726546
+p07,OCE,153,New Caledonia,Plywood production,0.626112017631228,0.252491046642226,0.121396935726546
+p07,OCE,155,Vanuatu,Plywood production,0.626112017631228,0.252491046642226,0.121396935726546
+p07,OCE,156,New Zealand,Plywood production,0.626112017631228,0.252491046642226,0.121396935726546
+p07,OCE,160,Niue,Plywood production,0.626112017631228,0.252491046642226,0.121396935726546
+p07,OCE,161,Norfolk Island,Plywood production,0.626112017631228,0.252491046642226,0.121396935726546
+p07,OCE,163,Northern Mariana Islands,Plywood production,0.626112017631228,0.252491046642226,0.121396935726546
+p07,OCE,168,Papua New Guinea,Plywood production,0.626112017631228,0.252491046642226,0.121396935726546
+p07,OCE,172,Pitcairn Islands,Plywood production,0.626112017631228,0.252491046642226,0.121396935726546
+p07,OCE,180,Palau,Plywood production,0.626112017631228,0.252491046642226,0.121396935726546
+p07,OCE,218,Tokelau,Plywood production,0.626112017631228,0.252491046642226,0.121396935726546
+p07,OCE,227,Tuvalu,Plywood production,0.626112017631228,0.252491046642226,0.121396935726546
+p07,OCE,242,Wake Island,Plywood production,0.626112017631228,0.252491046642226,0.121396935726546
+p07,OCE,243,Wallis and Futuna Islands,Plywood production,0.626112017631228,0.252491046642226,0.121396935726546
+p07,OCE,244,Samoa,Plywood production,0.626112017631228,0.252491046642226,0.121396935726546
+p07,XXX,252,Unspecified Area,Plywood production,0.626112017631228,0.252491046642226,0.121396935726546
+p07,XXX,254,Others (adjustment),Plywood production,0.626112017631228,0.252491046642226,0.121396935726546
+p04,XXX,999,RoW,"Sawnmill industry, coniferous",0.515592515592516,0.282744282744283,0.201663201663202
+p05,XXX,999,RoW,"Sawnmill industry, non-coniferous all",0.55,0.30625,0.14375
+p06,XXX,999,RoW,Veneer production,0.626112017631228,0.252491046642226,0.121396935726546
+p07,XXX,999,RoW,Plywood production,0.626112017631228,0.252491046642226,0.121396935726546

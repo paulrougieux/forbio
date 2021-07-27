@@ -1,0 +1,5107 @@
+com_code,from_code,year,to_code,btd,btd_est,btd_bal,area,btd_final
+c01,1,2012,11,,,0,Armenia,0
+c01,2,2012,11,,9,0,Afghanistan,1
+c01,3,2012,11,1,84,0,Albania,8
+c01,4,2012,11,,1,0,Algeria,0
+c01,6,2012,11,,5,0,Andorra,0
+c01,7,2012,11,,,0,Angola,0
+c01,9,2012,11,,10,0,Argentina,0
+c01,10,2012,11,,104075,0,Australia,1556
+c01,11,2012,11,,,0,Austria,11470151
+c01,12,2012,11,,15,0,Bahamas,2
+c01,13,2012,11,,7,0,Bahrain,0
+c01,14,2012,11,,,0,Barbados,0
+c01,15,2012,11,,,0,Belgium-Luxembourg,0
+c01,16,2012,11,,7,0,Bangladesh,0
+c01,17,2012,11,,,0,Bermuda,0
+c01,18,2012,11,,4,0,Bhutan,0
+c01,19,2012,11,,,0,Bolivia (Plurinational State of),0
+c01,21,2012,11,10,339,2,Brazil,82
+c01,22,2012,11,,,0,Aruba,0
+c01,23,2012,11,,9,0,Belize,0
+c01,24,2012,11,,,0,British Indian Ocean Territory,0
+c01,25,2012,11,,,0,Solomon Islands,0
+c01,26,2012,11,,,0,Brunei Darussalam,0
+c01,27,2012,11,1498,10219,1890,Bulgaria,2245
+c01,28,2012,11,,3389,0,Myanmar,330
+c01,29,2012,11,,8,0,Burundi,1
+c01,32,2012,11,,12,0,Cameroon,0
+c01,33,2012,11,,486148,0,Canada,25179
+c01,35,2012,11,,,0,Cabo Verde,0
+c01,36,2012,11,,,0,Cayman Islands,0
+c01,37,2012,11,,,0,Central African Republic,0
+c01,38,2012,11,,15,0,Sri Lanka,0
+c01,39,2012,11,,,0,Chad,0
+c01,40,2012,11,126,328,58,Chile,60
+c01,41,2012,11,,,0,"China, mainland",0
+c01,42,2012,11,,,0,Christmas Island,0
+c01,43,2012,11,,,0,Cocos (Keeling) Islands,0
+c01,44,2012,11,,5,0,Colombia,0
+c01,45,2012,11,,,0,Comoros,0
+c01,46,2012,11,,,0,Congo,0
+c01,47,2012,11,,67,0,Cook Islands,6
+c01,48,2012,11,,4766,0,Costa Rica,52
+c01,49,2012,11,,,0,Cuba,0
+c01,50,2012,11,8119,,0,Cyprus,0
+c01,51,2012,11,,,0,Czechoslovakia,0
+c01,52,2012,11,,,0,Azerbaijan,0
+c01,53,2012,11,,1,0,Benin,0
+c01,54,2012,11,,31169,0,Denmark,5533
+c01,55,2012,11,,8,0,Dominica,0
+c01,56,2012,11,,168,0,Dominican Republic,0
+c01,57,2012,11,13000,70578,17975,Belarus,28962
+c01,58,2012,11,,3,0,Ecuador,0
+c01,59,2012,11,,76,0,Egypt,0
+c01,60,2012,11,,286,0,El Salvador,20
+c01,61,2012,11,,,0,Equatorial Guinea,0
+c01,63,2012,11,2000,105346,2468,Estonia,21785
+c01,65,2012,11,,,0,Falkland Islands (Malvinas),0
+c01,66,2012,11,,1,0,Fiji,0
+c01,67,2012,11,5682,51423,4541,Finland,6068
+c01,68,2012,11,76000,231092,73539,France,107166
+c01,70,2012,11,,,0,French Polynesia,0
+c01,71,2012,11,,,0,French Southern and Antarctic Territories,0
+c01,72,2012,11,,,0,Djibouti,0
+c01,73,2012,11,,,0,Georgia,0
+c01,74,2012,11,,51,0,Gabon,0
+c01,75,2012,11,,5,0,Gambia,0
+c01,79,2012,11,1136000,201433,1065840,Germany,920489
+c01,80,2012,11,29002,4454,28722,Bosnia and Herzegovina,32670
+c01,81,2012,11,,46,0,Ghana,0
+c01,82,2012,11,,,0,Gibraltar,0
+c01,83,2012,11,,,0,Kiribati,0
+c01,84,2012,11,591,1453,633,Greece,911
+c01,85,2012,11,,,0,Greenland,0
+c01,86,2012,11,,,0,Grenada,0
+c01,88,2012,11,,,0,Guam,0
+c01,89,2012,11,,25,0,Guatemala,0
+c01,90,2012,11,,,0,Guinea,0
+c01,91,2012,11,,1536,0,Guyana,53
+c01,93,2012,11,,,0,Haiti,0
+c01,95,2012,11,,40,0,Honduras,0
+c01,96,2012,11,,16,0,"China, Hong Kong SAR",0
+c01,97,2012,11,391318,24556,227207,Hungary,193518
+c01,98,2012,11,17272,1428,9138,Croatia,10552
+c01,99,2012,11,,3,0,Iceland,1
+c01,100,2012,11,,156,0,India,2
+c01,101,2012,11,,4,0,Indonesia,0
+c01,102,2012,11,,,0,Iran (Islamic Republic of),0
+c01,103,2012,11,,3,0,Iraq,0
+c01,104,2012,11,,16061,0,Ireland,749
+c01,105,2012,11,,50,0,Israel,3
+c01,106,2012,11,407874,11450,121780,Italy,56654
+c01,107,2012,11,,,0,Cote d'Ivoire,0
+c01,108,2012,11,,,0,Kazakhstan,0
+c01,109,2012,11,,,0,Jamaica,0
+c01,110,2012,11,,9611,0,Japan,287
+c01,112,2012,11,,,0,Jordan,0
+c01,113,2012,11,,2,0,Kyrgyzstan,0
+c01,114,2012,11,,81,0,Kenya,8
+c01,115,2012,11,,,0,Cambodia,0
+c01,116,2012,11,,1097,0,Democratic People's Republic of Korea,91
+c01,117,2012,11,,20,0,Republic of Korea,0
+c01,118,2012,11,,44,0,Kuwait,0
+c01,119,2012,11,387,137043,502,Latvia,6604
+c01,120,2012,11,,,0,Lao People's Democratic Republic,0
+c01,121,2012,11,,2,0,Lebanon,0
+c01,123,2012,11,,,0,Liberia,0
+c01,124,2012,11,,,0,Libya,0
+c01,126,2012,11,1000,78613,1368,Lithuania,20554
+c01,127,2012,11,,,0,Marshall Islands,0
+c01,128,2012,11,,,0,"China, Macao SAR",0
+c01,129,2012,11,,1,0,Madagascar,0
+c01,130,2012,11,,393,0,Malawi,33
+c01,131,2012,11,,4925,0,Malaysia,175
+c01,132,2012,11,,,0,Maldives,0
+c01,133,2012,11,,,0,Mali,0
+c01,134,2012,11,,,0,Malta,0
+c01,136,2012,11,,2,0,Mauritania,0
+c01,137,2012,11,,30,0,Mauritius,2
+c01,138,2012,11,,22,0,Mexico,1
+c01,141,2012,11,,33,0,Mongolia,3
+c01,142,2012,11,,,0,Montserrat,0
+c01,143,2012,11,,332,0,Morocco,12
+c01,144,2012,11,,43,0,Mozambique,0
+c01,145,2012,11,,,0,Micronesia (Federated States of),0
+c01,146,2012,11,17,,0,Republic of Moldova,0
+c01,148,2012,11,,,0,Nauru,0
+c01,149,2012,11,,42,0,Nepal,4
+c01,150,2012,11,94,23806,37,Netherlands,1777
+c01,151,2012,11,,,0,Netherlands Antilles,0
+c01,153,2012,11,,57,0,New Caledonia,4
+c01,154,2012,11,,34,0,North Macedonia,2
+c01,155,2012,11,,174,0,Vanuatu,12
+c01,156,2012,11,,1154824,0,New Zealand,67653
+c01,157,2012,11,,25,0,Nicaragua,2
+c01,158,2012,11,,0,0,Niger,0
+c01,159,2012,11,,16,0,Nigeria,0
+c01,160,2012,11,,,0,Niue,0
+c01,161,2012,11,,,0,Norfolk Island,0
+c01,162,2012,11,,134587,0,Norway,9156
+c01,163,2012,11,,,0,Northern Mariana Islands,0
+c01,165,2012,11,,26,0,Pakistan,0
+c01,166,2012,11,,5,0,Panama,0
+c01,167,2012,11,2143000,307217,2214254,Czechia,1874648
+c01,168,2012,11,,12,0,Papua New Guinea,1
+c01,169,2012,11,,17,0,Paraguay,1
+c01,170,2012,11,,5,0,Peru,0
+c01,171,2012,11,,34,0,Philippines,1
+c01,172,2012,11,,,0,Pitcairn Islands,0
+c01,173,2012,11,173000,142025,175531,Poland,225005
+c01,174,2012,11,,3351,0,Portugal,104
+c01,175,2012,11,,42,0,Guinea-Bissau,3
+c01,176,2012,11,,23,0,Timor-Leste,2
+c01,178,2012,11,,,0,Eritrea,0
+c01,179,2012,11,,163,0,Qatar,0
+c01,180,2012,11,,,0,Palau,0
+c01,181,2012,11,,299,0,Zimbabwe,13
+c01,183,2012,11,87615,14927,102153,Romania,91123
+c01,184,2012,11,,,0,Rwanda,0
+c01,185,2012,11,3000,1084152,17161,Russian Federation,48892
+c01,186,2012,11,,,0,Serbia and Montenegro,0
+c01,187,2012,11,,,0,"Saint Helena, Ascension and Tristan da Cunha",0
+c01,188,2012,11,,,0,Saint Kitts and Nevis,0
+c01,189,2012,11,,,0,Saint Lucia,0
+c01,190,2012,11,,,0,Saint Pierre and Miquelon,0
+c01,191,2012,11,,,0,Saint Vincent and the Grenadines,0
+c01,192,2012,11,,,0,San Marino,0
+c01,193,2012,11,,,0,Sao Tome and Principe,0
+c01,194,2012,11,,0,0,Saudi Arabia,0
+c01,195,2012,11,,3,0,Senegal,0
+c01,196,2012,11,,0,0,Seychelles,0
+c01,197,2012,11,,,0,Sierra Leone,0
+c01,198,2012,11,1015365,56333,578267,Slovenia,520302
+c01,199,2012,11,517000,132095,526288,Slovakia,586450
+c01,200,2012,11,,,0,Singapore,0
+c01,201,2012,11,,23,0,Somalia,0
+c01,202,2012,11,,840,0,South Africa,6
+c01,203,2012,11,,39340,0,Spain,1830
+c01,207,2012,11,,,0,Suriname,0
+c01,208,2012,11,,,0,Tajikistan,0
+c01,210,2012,11,566,60381,195,Sweden,1666
+c01,211,2012,11,403109,51723,240493,Switzerland,229348
+c01,212,2012,11,,1,0,Syrian Arab Republic,0
+c01,213,2012,11,,,0,Turkmenistan,0
+c01,215,2012,11,,740,0,United Republic of Tanzania,12
+c01,216,2012,11,,69,0,Thailand,0
+c01,217,2012,11,,14,0,Togo,0
+c01,218,2012,11,,,0,Tokelau,0
+c01,219,2012,11,,6,0,Tonga,0
+c01,220,2012,11,,,0,Trinidad and Tobago,0
+c01,221,2012,11,,78,0,Oman,0
+c01,222,2012,11,,3,0,Tunisia,0
+c01,223,2012,11,,456,0,Turkey,76
+c01,224,2012,11,,,0,Turks and Caicos Islands,0
+c01,225,2012,11,218,475,64,United Arab Emirates,0
+c01,226,2012,11,,266,0,Uganda,7
+c01,227,2012,11,,,0,Tuvalu,0
+c01,228,2012,11,,,0,USSR,0
+c01,229,2012,11,1879,44228,1968,United Kingdom,5121
+c01,230,2012,11,383000,190785,561267,Ukraine,576657
+c01,231,2012,11,,872227,0,United States of America,2201
+c01,233,2012,11,,20,0,Burkina Faso,2
+c01,234,2012,11,,403,0,Uruguay,16
+c01,235,2012,11,,6,0,Uzbekistan,0
+c01,236,2012,11,,,0,Venezuela (Bolivarian Republic of),0
+c01,237,2012,11,,163,0,Viet Nam,10
+c01,238,2012,11,,0,0,Ethiopia,0
+c01,239,2012,11,,,0,British Virgin Islands,0
+c01,243,2012,11,,,0,Wallis and Futuna Islands,0
+c01,244,2012,11,,,0,Samoa,0
+c01,249,2012,11,,,0,Yemen,0
+c01,250,2012,11,,34,0,Democratic Republic of the Congo,0
+c01,251,2012,11,,48,0,Zambia,4
+c01,255,2012,11,868,59063,496,Belgium,6496
+c01,256,2012,11,370,29963,261,Luxembourg,1341
+c01,258,2012,11,,,0,Anguilla,0
+c01,272,2012,11,,252,0,Serbia,16
+c01,273,2012,11,,3008,0,Montenegro,254
+c01,276,2012,11,,14,0,Sudan,1
+c01,277,2012,11,,,0,South Sudan,0
+c01,279,2012,11,,,0,Curaçao,0
+c01,299,2012,11,,,0,Palestine,0
+c01,999,2012,11,,427,0,"",31
+c02,1,2012,11,,,0,Armenia,0
+c02,2,2012,11,,384,0,Afghanistan,1
+c02,3,2012,11,,67,0,Albania,1
+c02,4,2012,11,,9,0,Algeria,0
+c02,6,2012,11,,0,0,Andorra,0
+c02,7,2012,11,,463,0,Angola,4
+c02,9,2012,11,,468,0,Argentina,1
+c02,10,2012,11,31,5211,127,Australia,145
+c02,11,2012,11,,,0,Austria,863506
+c02,12,2012,11,,15,0,Bahamas,0
+c02,13,2012,11,,8,0,Bahrain,0
+c02,14,2012,11,,0,0,Barbados,0
+c02,15,2012,11,,,0,Belgium-Luxembourg,0
+c02,16,2012,11,,2,0,Bangladesh,0
+c02,17,2012,11,,,0,Bermuda,0
+c02,18,2012,11,,93,0,Bhutan,0
+c02,19,2012,11,,535,0,Bolivia (Plurinational State of),0
+c02,21,2012,11,44,2713,100,Brazil,188
+c02,22,2012,11,,0,0,Aruba,0
+c02,23,2012,11,,62,0,Belize,1
+c02,24,2012,11,,,0,British Indian Ocean Territory,0
+c02,25,2012,11,,70228,0,Solomon Islands,237
+c02,26,2012,11,,0,0,Brunei Darussalam,0
+c02,27,2012,11,,14101,0,Bulgaria,23
+c02,28,2012,11,,70146,0,Myanmar,149
+c02,29,2012,11,,91,0,Burundi,0
+c02,32,2012,11,,28493,0,Cameroon,248
+c02,33,2012,11,,14383,0,Canada,75
+c02,35,2012,11,,18,0,Cabo Verde,0
+c02,36,2012,11,,,0,Cayman Islands,0
+c02,37,2012,11,,5290,0,Central African Republic,228
+c02,38,2012,11,,17,0,Sri Lanka,0
+c02,39,2012,11,,,0,Chad,0
+c02,40,2012,11,,60,0,Chile,12
+c02,41,2012,11,,141,0,"China, mainland",1
+c02,42,2012,11,,,0,Christmas Island,0
+c02,43,2012,11,,,0,Cocos (Keeling) Islands,0
+c02,44,2012,11,,853,0,Colombia,2
+c02,45,2012,11,,,0,Comoros,0
+c02,46,2012,11,,25903,0,Congo,999
+c02,47,2012,11,,,0,Cook Islands,0
+c02,48,2012,11,9,5503,16,Costa Rica,47
+c02,49,2012,11,,1,0,Cuba,0
+c02,50,2012,11,,,0,Cyprus,0
+c02,51,2012,11,,,0,Czechoslovakia,0
+c02,52,2012,11,,,0,Azerbaijan,0
+c02,53,2012,11,,8762,0,Benin,26
+c02,54,2012,11,,3810,0,Denmark,189
+c02,55,2012,11,,1,0,Dominica,0
+c02,56,2012,11,,6,0,Dominican Republic,0
+c02,57,2012,11,,54719,0,Belarus,1201
+c02,58,2012,11,,5632,0,Ecuador,12
+c02,59,2012,11,,22,0,Egypt,0
+c02,60,2012,11,,817,0,El Salvador,2
+c02,61,2012,11,,11872,0,Equatorial Guinea,46
+c02,63,2012,11,,38178,0,Estonia,217
+c02,65,2012,11,,,0,Falkland Islands (Malvinas),0
+c02,66,2012,11,,328,0,Fiji,1
+c02,67,2012,11,30,117,3,Finland,8
+c02,68,2012,11,1301,61801,1084,France,3330
+c02,70,2012,11,,1,0,French Polynesia,0
+c02,71,2012,11,,,0,French Southern and Antarctic Territories,0
+c02,72,2012,11,,,0,Djibouti,0
+c02,73,2012,11,,,0,Georgia,0
+c02,74,2012,11,,1908,0,Gabon,226
+c02,75,2012,11,,4990,0,Gambia,18
+c02,79,2012,11,518021,37255,472201,Germany,432015
+c02,80,2012,11,5585,4048,3690,Bosnia and Herzegovina,3652
+c02,81,2012,11,,9198,0,Ghana,59
+c02,82,2012,11,,,0,Gibraltar,0
+c02,83,2012,11,,,0,Kiribati,0
+c02,84,2012,11,,207,0,Greece,2
+c02,85,2012,11,,,0,Greenland,0
+c02,86,2012,11,,,0,Grenada,0
+c02,88,2012,11,,,0,Guam,0
+c02,89,2012,11,,345,0,Guatemala,1
+c02,90,2012,11,,325,0,Guinea,1
+c02,91,2012,11,,2772,0,Guyana,9
+c02,93,2012,11,,,0,Haiti,0
+c02,95,2012,11,,22,0,Honduras,0
+c02,96,2012,11,,81,0,"China, Hong Kong SAR",0
+c02,97,2012,11,294000,18940,216141,Hungary,203569
+c02,98,2012,11,117000,13846,50391,Croatia,58489
+c02,99,2012,11,,,0,Iceland,0
+c02,100,2012,11,,407,0,India,38
+c02,101,2012,11,,2326,0,Indonesia,18
+c02,102,2012,11,,234,0,Iran (Islamic Republic of),6
+c02,103,2012,11,,1,0,Iraq,0
+c02,104,2012,11,,362,0,Ireland,0
+c02,105,2012,11,,7,0,Israel,0
+c02,106,2012,11,558,1337,838,Italy,559
+c02,107,2012,11,,4453,0,Cote d'Ivoire,9
+c02,108,2012,11,,,0,Kazakhstan,0
+c02,109,2012,11,,1,0,Jamaica,0
+c02,110,2012,11,,67,0,Japan,6
+c02,112,2012,11,,5,0,Jordan,0
+c02,113,2012,11,,,0,Kyrgyzstan,0
+c02,114,2012,11,,34,0,Kenya,0
+c02,115,2012,11,,519,0,Cambodia,2
+c02,116,2012,11,,42,0,Democratic People's Republic of Korea,0
+c02,117,2012,11,,9,0,Republic of Korea,0
+c02,118,2012,11,,4,0,Kuwait,0
+c02,119,2012,11,15000,83299,11975,Latvia,13026
+c02,120,2012,11,,10701,0,Lao People's Democratic Republic,39
+c02,121,2012,11,,14,0,Lebanon,0
+c02,123,2012,11,,6355,0,Liberia,592
+c02,124,2012,11,,,0,Libya,0
+c02,126,2012,11,167,17737,93,Lithuania,501
+c02,127,2012,11,,,0,Marshall Islands,0
+c02,128,2012,11,,,0,"China, Macao SAR",0
+c02,129,2012,11,,530,0,Madagascar,2
+c02,130,2012,11,,3,0,Malawi,0
+c02,131,2012,11,23,98751,41,Malaysia,418
+c02,132,2012,11,,,0,Maldives,0
+c02,133,2012,11,,11,0,Mali,0
+c02,134,2012,11,,,0,Malta,0
+c02,136,2012,11,,10,0,Mauritania,0
+c02,137,2012,11,,2,0,Mauritius,0
+c02,138,2012,11,,668,0,Mexico,70
+c02,141,2012,11,,2,0,Mongolia,0
+c02,142,2012,11,,,0,Montserrat,0
+c02,143,2012,11,,3,0,Morocco,0
+c02,144,2012,11,,11029,0,Mozambique,87
+c02,145,2012,11,,,0,Micronesia (Federated States of),0
+c02,146,2012,11,16,5,2,Republic of Moldova,1
+c02,148,2012,11,,,0,Nauru,0
+c02,149,2012,11,,3,0,Nepal,0
+c02,150,2012,11,55,4147,106,Netherlands,2834
+c02,151,2012,11,,,0,Netherlands Antilles,0
+c02,153,2012,11,,1,0,New Caledonia,0
+c02,154,2012,11,,108,0,North Macedonia,0
+c02,155,2012,11,,74,0,Vanuatu,0
+c02,156,2012,11,,468,0,New Zealand,0
+c02,157,2012,11,,1970,0,Nicaragua,7
+c02,158,2012,11,,5,0,Niger,0
+c02,159,2012,11,,3613,0,Nigeria,17
+c02,160,2012,11,,,0,Niue,0
+c02,161,2012,11,,,0,Norfolk Island,0
+c02,162,2012,11,,946,0,Norway,0
+c02,163,2012,11,,,0,Northern Mariana Islands,0
+c02,165,2012,11,,3,0,Pakistan,0
+c02,166,2012,11,,3418,0,Panama,8
+c02,167,2012,11,168885,10081,189520,Czechia,166709
+c02,168,2012,11,,105247,0,Papua New Guinea,748
+c02,169,2012,11,,438,0,Paraguay,0
+c02,170,2012,11,,57,0,Peru,3
+c02,171,2012,11,,196,0,Philippines,1
+c02,172,2012,11,,,0,Pitcairn Islands,0
+c02,173,2012,11,4582,6604,2985,Poland,5625
+c02,174,2012,11,92,32719,50,Portugal,56
+c02,175,2012,11,,562,0,Guinea-Bissau,2
+c02,176,2012,11,,4,0,Timor-Leste,0
+c02,178,2012,11,,6,0,Eritrea,0
+c02,179,2012,11,,14,0,Qatar,0
+c02,180,2012,11,,,0,Palau,0
+c02,181,2012,11,,1,0,Zimbabwe,0
+c02,183,2012,11,17050,6022,24577,Romania,23883
+c02,184,2012,11,,,0,Rwanda,0
+c02,185,2012,11,25000,158859,22920,Russian Federation,22729
+c02,186,2012,11,,,0,Serbia and Montenegro,0
+c02,187,2012,11,,,0,"Saint Helena, Ascension and Tristan da Cunha",0
+c02,188,2012,11,,,0,Saint Kitts and Nevis,0
+c02,189,2012,11,,,0,Saint Lucia,0
+c02,190,2012,11,,,0,Saint Pierre and Miquelon,0
+c02,191,2012,11,,2,0,Saint Vincent and the Grenadines,0
+c02,192,2012,11,,,0,San Marino,0
+c02,193,2012,11,,3,0,Sao Tome and Principe,0
+c02,194,2012,11,,58,0,Saudi Arabia,0
+c02,195,2012,11,,7,0,Senegal,0
+c02,196,2012,11,,1,0,Seychelles,0
+c02,197,2012,11,,234,0,Sierra Leone,1
+c02,198,2012,11,83764,11997,31958,Slovenia,26962
+c02,199,2012,11,253004,17329,204109,Slovakia,183166
+c02,200,2012,11,,56,0,Singapore,0
+c02,201,2012,11,,5,0,Somalia,0
+c02,202,2012,11,1,4038,2,South Africa,212
+c02,203,2012,11,4,39726,3,Spain,25
+c02,207,2012,11,,3652,0,Suriname,14
+c02,208,2012,11,,1,0,Tajikistan,0
+c02,210,2012,11,,3297,0,Sweden,47
+c02,211,2012,11,19591,6214,15207,Switzerland,16005
+c02,212,2012,11,,2,0,Syrian Arab Republic,0
+c02,213,2012,11,,,0,Turkmenistan,0
+c02,215,2012,11,,182,0,United Republic of Tanzania,0
+c02,216,2012,11,,729,0,Thailand,3
+c02,217,2012,11,,3151,0,Togo,6
+c02,218,2012,11,,,0,Tokelau,0
+c02,219,2012,11,,136,0,Tonga,0
+c02,220,2012,11,,150,0,Trinidad and Tobago,0
+c02,221,2012,11,,2,0,Oman,0
+c02,222,2012,11,,2,0,Tunisia,0
+c02,223,2012,11,,30,0,Turkey,4
+c02,224,2012,11,,,0,Turks and Caicos Islands,0
+c02,225,2012,11,,296,0,United Arab Emirates,0
+c02,226,2012,11,,41,0,Uganda,0
+c02,227,2012,11,,,0,Tuvalu,0
+c02,228,2012,11,,,0,USSR,0
+c02,229,2012,11,47,27,0,United Kingdom,2
+c02,230,2012,11,8000,25075,8891,Ukraine,25515
+c02,231,2012,11,20000,63866,12168,United States of America,21672
+c02,233,2012,11,,23,0,Burkina Faso,0
+c02,234,2012,11,,4176,0,Uruguay,5
+c02,235,2012,11,,,0,Uzbekistan,0
+c02,236,2012,11,,,0,Venezuela (Bolivarian Republic of),0
+c02,237,2012,11,,5048,0,Viet Nam,10
+c02,238,2012,11,,2,0,Ethiopia,0
+c02,239,2012,11,,,0,British Virgin Islands,0
+c02,243,2012,11,,,0,Wallis and Futuna Islands,0
+c02,244,2012,11,,6,0,Samoa,0
+c02,249,2012,11,,,0,Yemen,0
+c02,250,2012,11,,5376,0,Democratic Republic of the Congo,577
+c02,251,2012,11,,16,0,Zambia,0
+c02,255,2012,11,5,12431,4,Belgium,1132
+c02,256,2012,11,109,678,60,Luxembourg,44
+c02,258,2012,11,,,0,Anguilla,0
+c02,272,2012,11,,334,0,Serbia,1
+c02,273,2012,11,,,0,Montenegro,0
+c02,276,2012,11,,1,0,Sudan,0
+c02,277,2012,11,,1,0,South Sudan,0
+c02,279,2012,11,,,0,Curaçao,0
+c02,299,2012,11,,,0,Palestine,0
+c02,999,2012,11,,1429,0,"",3
+c03,1,2012,11,,,0,Armenia,0
+c03,2,2012,11,,2,0,Afghanistan,0
+c03,3,2012,11,,7973,138,Albania,142
+c03,4,2012,11,,,0,Algeria,0
+c03,6,2012,11,,4,1,Andorra,0
+c03,7,2012,11,,,0,Angola,0
+c03,9,2012,11,,11,0,Argentina,0
+c03,10,2012,11,,123,5,Australia,6
+c03,11,2012,11,,,0,Austria,5139100
+c03,12,2012,11,,1,0,Bahamas,0
+c03,13,2012,11,,2,0,Bahrain,0
+c03,14,2012,11,,5,1,Barbados,1
+c03,15,2012,11,,,0,Belgium-Luxembourg,0
+c03,16,2012,11,,1,0,Bangladesh,0
+c03,17,2012,11,,,0,Bermuda,0
+c03,18,2012,11,,2,0,Bhutan,0
+c03,19,2012,11,,,0,Bolivia (Plurinational State of),0
+c03,21,2012,11,,2,0,Brazil,0
+c03,22,2012,11,,,0,Aruba,0
+c03,23,2012,11,,,0,Belize,0
+c03,24,2012,11,,,0,British Indian Ocean Territory,0
+c03,25,2012,11,,,0,Solomon Islands,0
+c03,26,2012,11,,,0,Brunei Darussalam,0
+c03,27,2012,11,6652,51303,3208,Bulgaria,3195
+c03,28,2012,11,,5,0,Myanmar,0
+c03,29,2012,11,1329,97,620,Burundi,614
+c03,32,2012,11,,9,2,Cameroon,2
+c03,33,2012,11,,4558,84,Canada,80
+c03,35,2012,11,,,0,Cabo Verde,0
+c03,36,2012,11,,,0,Cayman Islands,0
+c03,37,2012,11,,,0,Central African Republic,0
+c03,38,2012,11,,129,8,Sri Lanka,9
+c03,39,2012,11,,,0,Chad,0
+c03,40,2012,11,,,0,Chile,0
+c03,41,2012,11,46,65,1,"China, mainland",1
+c03,42,2012,11,,,0,Christmas Island,0
+c03,43,2012,11,,,0,Cocos (Keeling) Islands,0
+c03,44,2012,11,,0,0,Colombia,0
+c03,45,2012,11,,,0,Comoros,0
+c03,46,2012,11,,,0,Congo,0
+c03,47,2012,11,,,0,Cook Islands,0
+c03,48,2012,11,,3,0,Costa Rica,0
+c03,49,2012,11,,,0,Cuba,0
+c03,50,2012,11,,,0,Cyprus,0
+c03,51,2012,11,,,0,Czechoslovakia,0
+c03,52,2012,11,,,0,Azerbaijan,0
+c03,53,2012,11,,1,0,Benin,0
+c03,54,2012,11,,12418,398,Denmark,417
+c03,55,2012,11,,3,0,Dominica,0
+c03,56,2012,11,,11,0,Dominican Republic,0
+c03,57,2012,11,,2873,113,Belarus,135
+c03,58,2012,11,,,0,Ecuador,0
+c03,59,2012,11,,351,0,Egypt,0
+c03,60,2012,11,,,0,El Salvador,0
+c03,61,2012,11,,,0,Equatorial Guinea,0
+c03,63,2012,11,,18230,358,Estonia,390
+c03,65,2012,11,,,0,Falkland Islands (Malvinas),0
+c03,66,2012,11,,0,0,Fiji,0
+c03,67,2012,11,63,9349,503,Finland,543
+c03,68,2012,11,281,80154,1458,France,1786
+c03,70,2012,11,,,0,French Polynesia,0
+c03,71,2012,11,,,0,French Southern and Antarctic Territories,0
+c03,72,2012,11,,,0,Djibouti,0
+c03,73,2012,11,,,0,Georgia,0
+c03,74,2012,11,,0,0,Gabon,0
+c03,75,2012,11,,123,4,Gambia,4
+c03,79,2012,11,55770,12469,53110,Germany,51912
+c03,80,2012,11,49072,59666,46044,Bosnia and Herzegovina,48043
+c03,81,2012,11,,379,6,Ghana,6
+c03,82,2012,11,,,0,Gibraltar,0
+c03,83,2012,11,,,0,Kiribati,0
+c03,84,2012,11,2,728,2,Greece,3
+c03,85,2012,11,,,0,Greenland,0
+c03,86,2012,11,,,0,Grenada,0
+c03,88,2012,11,,,0,Guam,0
+c03,89,2012,11,,,0,Guatemala,0
+c03,90,2012,11,,0,0,Guinea,0
+c03,91,2012,11,,5,1,Guyana,1
+c03,93,2012,11,,,0,Haiti,0
+c03,95,2012,11,,48,0,Honduras,0
+c03,96,2012,11,,1,0,"China, Hong Kong SAR",0
+c03,97,2012,11,173277,35961,160735,Hungary,161407
+c03,98,2012,11,16868,56863,16686,Croatia,19043
+c03,99,2012,11,,1,0,Iceland,0
+c03,100,2012,11,,260,3,India,3
+c03,101,2012,11,,36,0,Indonesia,2
+c03,102,2012,11,,11,0,Iran (Islamic Republic of),0
+c03,103,2012,11,,,0,Iraq,0
+c03,104,2012,11,,15,1,Ireland,1
+c03,105,2012,11,,,0,Israel,0
+c03,106,2012,11,2004,345,1151,Italy,1051
+c03,107,2012,11,,72,10,Cote d'Ivoire,10
+c03,108,2012,11,,,0,Kazakhstan,0
+c03,109,2012,11,,,0,Jamaica,0
+c03,110,2012,11,,63,0,Japan,0
+c03,112,2012,11,,3,0,Jordan,0
+c03,113,2012,11,,,0,Kyrgyzstan,0
+c03,114,2012,11,,3,0,Kenya,0
+c03,115,2012,11,,2,0,Cambodia,0
+c03,116,2012,11,,5,0,Democratic People's Republic of Korea,0
+c03,117,2012,11,,1,0,Republic of Korea,0
+c03,118,2012,11,,1,0,Kuwait,0
+c03,119,2012,11,328,29092,267,Latvia,338
+c03,120,2012,11,,4,0,Lao People's Democratic Republic,0
+c03,121,2012,11,,57,0,Lebanon,0
+c03,123,2012,11,,,0,Liberia,0
+c03,124,2012,11,,,0,Libya,0
+c03,126,2012,11,30,13594,51,Lithuania,128
+c03,127,2012,11,,,0,Marshall Islands,0
+c03,128,2012,11,,,0,"China, Macao SAR",0
+c03,129,2012,11,,12,2,Madagascar,2
+c03,130,2012,11,,105,18,Malawi,18
+c03,131,2012,11,,179,1,Malaysia,1
+c03,132,2012,11,,,0,Maldives,0
+c03,133,2012,11,,60,5,Mali,5
+c03,134,2012,11,,,0,Malta,0
+c03,136,2012,11,,,0,Mauritania,0
+c03,137,2012,11,,1,0,Mauritius,0
+c03,138,2012,11,0,3944,0,Mexico,4
+c03,141,2012,11,,,0,Mongolia,0
+c03,142,2012,11,,,0,Montserrat,0
+c03,143,2012,11,,2,0,Morocco,0
+c03,144,2012,11,,32,6,Mozambique,6
+c03,145,2012,11,,,0,Micronesia (Federated States of),0
+c03,146,2012,11,,,0,Republic of Moldova,0
+c03,148,2012,11,,,0,Nauru,0
+c03,149,2012,11,,,0,Nepal,0
+c03,150,2012,11,17,6770,22,Netherlands,84
+c03,151,2012,11,,,0,Netherlands Antilles,0
+c03,153,2012,11,,,0,New Caledonia,0
+c03,154,2012,11,6,1441,2,North Macedonia,3
+c03,155,2012,11,,63,11,Vanuatu,12
+c03,156,2012,11,,41,1,New Zealand,1
+c03,157,2012,11,,52,1,Nicaragua,1
+c03,158,2012,11,,,0,Niger,0
+c03,159,2012,11,,8,1,Nigeria,1
+c03,160,2012,11,,,0,Niue,0
+c03,161,2012,11,,,0,Norfolk Island,0
+c03,162,2012,11,,653,4,Norway,3
+c03,163,2012,11,,,0,Northern Mariana Islands,0
+c03,165,2012,11,,2,0,Pakistan,0
+c03,166,2012,11,,,0,Panama,0
+c03,167,2012,11,80636,14419,69043,Czechia,68051
+c03,168,2012,11,,,0,Papua New Guinea,0
+c03,169,2012,11,,14,0,Paraguay,0
+c03,170,2012,11,,0,0,Peru,0
+c03,171,2012,11,,,0,Philippines,0
+c03,172,2012,11,,,0,Pitcairn Islands,0
+c03,173,2012,11,39,13598,53,Poland,355
+c03,174,2012,11,,759,2,Portugal,2
+c03,175,2012,11,,,0,Guinea-Bissau,0
+c03,176,2012,11,,3,0,Timor-Leste,0
+c03,178,2012,11,,,0,Eritrea,0
+c03,179,2012,11,,11,2,Qatar,1
+c03,180,2012,11,,,0,Palau,0
+c03,181,2012,11,,0,0,Zimbabwe,0
+c03,183,2012,11,23977,24846,20934,Romania,20861
+c03,184,2012,11,,2,0,Rwanda,0
+c03,185,2012,11,,22124,465,Russian Federation,538
+c03,186,2012,11,,,0,Serbia and Montenegro,0
+c03,187,2012,11,,,0,"Saint Helena, Ascension and Tristan da Cunha",0
+c03,188,2012,11,,,0,Saint Kitts and Nevis,0
+c03,189,2012,11,,,0,Saint Lucia,0
+c03,190,2012,11,,,0,Saint Pierre and Miquelon,0
+c03,191,2012,11,,,0,Saint Vincent and the Grenadines,0
+c03,192,2012,11,,,0,San Marino,0
+c03,193,2012,11,,,0,Sao Tome and Principe,0
+c03,194,2012,11,,0,0,Saudi Arabia,0
+c03,195,2012,11,,2,0,Senegal,0
+c03,196,2012,11,,,0,Seychelles,0
+c03,197,2012,11,,6,1,Sierra Leone,1
+c03,198,2012,11,46906,31815,29519,Slovenia,23829
+c03,199,2012,11,166107,32984,186194,Slovakia,154019
+c03,200,2012,11,,391,5,Singapore,5
+c03,201,2012,11,,85,0,Somalia,0
+c03,202,2012,11,,17491,3606,South Africa,3570
+c03,203,2012,11,8,11697,12,Spain,27
+c03,207,2012,11,,42,8,Suriname,8
+c03,208,2012,11,,,0,Tajikistan,0
+c03,210,2012,11,,2892,46,Sweden,45
+c03,211,2012,11,1305,1580,1000,Switzerland,986
+c03,212,2012,11,,1591,11,Syrian Arab Republic,11
+c03,213,2012,11,,,0,Turkmenistan,0
+c03,215,2012,11,,3,0,United Republic of Tanzania,0
+c03,216,2012,11,,75,1,Thailand,1
+c03,217,2012,11,,7,1,Togo,1
+c03,218,2012,11,,,0,Tokelau,0
+c03,219,2012,11,,,0,Tonga,0
+c03,220,2012,11,,,0,Trinidad and Tobago,0
+c03,221,2012,11,,27,3,Oman,3
+c03,222,2012,11,,,0,Tunisia,0
+c03,223,2012,11,,,0,Turkey,0
+c03,224,2012,11,,,0,Turks and Caicos Islands,0
+c03,225,2012,11,,66,0,United Arab Emirates,0
+c03,226,2012,11,,24,0,Uganda,0
+c03,227,2012,11,,,0,Tuvalu,0
+c03,228,2012,11,,,0,USSR,0
+c03,229,2012,11,,52227,1547,United Kingdom,1569
+c03,230,2012,11,86432,117643,117456,Ukraine,144737
+c03,231,2012,11,0,57590,2,United States of America,212
+c03,233,2012,11,,1778,279,Burkina Faso,283
+c03,234,2012,11,,2,0,Uruguay,0
+c03,235,2012,11,,151,27,Uzbekistan,27
+c03,236,2012,11,,,0,Venezuela (Bolivarian Republic of),0
+c03,237,2012,11,,216,4,Viet Nam,5
+c03,238,2012,11,,1,0,Ethiopia,0
+c03,239,2012,11,,,0,British Virgin Islands,0
+c03,243,2012,11,,,0,Wallis and Futuna Islands,0
+c03,244,2012,11,,,0,Samoa,0
+c03,249,2012,11,,0,0,Yemen,0
+c03,250,2012,11,,2,0,Democratic Republic of the Congo,0
+c03,251,2012,11,,4,0,Zambia,0
+c03,255,2012,11,,2622,632,Belgium,381
+c03,256,2012,11,,4664,856,Luxembourg,707
+c03,258,2012,11,,,0,Anguilla,0
+c03,272,2012,11,89,4520,51,Serbia,106
+c03,273,2012,11,,1217,17,Montenegro,36
+c03,276,2012,11,,620,2,Sudan,2
+c03,277,2012,11,,,0,South Sudan,0
+c03,279,2012,11,,,0,Curaçao,0
+c03,299,2012,11,,,0,Palestine,0
+c03,999,2012,11,,29827,5735,"",5711
+c04,1,2012,11,,,0,Armenia,0
+c04,2,2012,11,,0,0,Afghanistan,0
+c04,3,2012,11,,10,0,Albania,0
+c04,4,2012,11,,4,0,Algeria,0
+c04,6,2012,11,,3,0,Andorra,0
+c04,7,2012,11,,2,0,Angola,0
+c04,9,2012,11,,1899,0,Argentina,85
+c04,10,2012,11,,3748,0,Australia,121
+c04,11,2012,11,,,0,Austria,4609142
+c04,12,2012,11,,29,0,Bahamas,0
+c04,13,2012,11,,12,0,Bahrain,0
+c04,14,2012,11,,0,0,Barbados,0
+c04,15,2012,11,,,0,Belgium-Luxembourg,0
+c04,16,2012,11,,1,0,Bangladesh,0
+c04,17,2012,11,,,0,Bermuda,0
+c04,18,2012,11,,0,0,Bhutan,0
+c04,19,2012,11,,34,0,Bolivia (Plurinational State of),8
+c04,21,2012,11,,14842,0,Brazil,551
+c04,22,2012,11,,,0,Aruba,0
+c04,23,2012,11,,3,0,Belize,0
+c04,24,2012,11,,,0,British Indian Ocean Territory,0
+c04,25,2012,11,,,0,Solomon Islands,0
+c04,26,2012,11,,1,0,Brunei Darussalam,0
+c04,27,2012,11,4,4783,5,Bulgaria,73
+c04,28,2012,11,,38,0,Myanmar,1
+c04,29,2012,11,,0,0,Burundi,0
+c04,32,2012,11,,367,0,Cameroon,24
+c04,33,2012,11,51000,455780,58648,Canada,38465
+c04,35,2012,11,,0,0,Cabo Verde,0
+c04,36,2012,11,,,0,Cayman Islands,0
+c04,37,2012,11,,,0,Central African Republic,0
+c04,38,2012,11,,0,0,Sri Lanka,0
+c04,39,2012,11,,,0,Chad,0
+c04,40,2012,11,,48448,0,Chile,1055
+c04,41,2012,11,,3868,0,"China, mainland",232
+c04,42,2012,11,,,0,Christmas Island,0
+c04,43,2012,11,,,0,Cocos (Keeling) Islands,0
+c04,44,2012,11,,14,0,Colombia,0
+c04,45,2012,11,,,0,Comoros,0
+c04,46,2012,11,,13,0,Congo,0
+c04,47,2012,11,,,0,Cook Islands,0
+c04,48,2012,11,,13,0,Costa Rica,0
+c04,49,2012,11,,0,0,Cuba,0
+c04,50,2012,11,,,0,Cyprus,0
+c04,51,2012,11,,,0,Czechoslovakia,0
+c04,52,2012,11,,,0,Azerbaijan,0
+c04,53,2012,11,,25,0,Benin,0
+c04,54,2012,11,1111,4124,2539,Denmark,276
+c04,55,2012,11,,3,0,Dominica,0
+c04,56,2012,11,,8,0,Dominican Republic,0
+c04,57,2012,11,1089,11775,1106,Belarus,2708
+c04,58,2012,11,,5,0,Ecuador,0
+c04,59,2012,11,,8,0,Egypt,0
+c04,60,2012,11,,6,0,El Salvador,0
+c04,61,2012,11,,,0,Equatorial Guinea,0
+c04,63,2012,11,6870,12118,7813,Estonia,3222
+c04,65,2012,11,,,0,Falkland Islands (Malvinas),0
+c04,66,2012,11,,7,0,Fiji,0
+c04,67,2012,11,130000,117784,143162,Finland,79413
+c04,68,2012,11,1031,11099,1454,France,934
+c04,70,2012,11,,2,0,French Polynesia,0
+c04,71,2012,11,,,0,French Southern and Antarctic Territories,0
+c04,72,2012,11,,2,0,Djibouti,0
+c04,73,2012,11,32,110,20,Georgia,6
+c04,74,2012,11,,,0,Gabon,0
+c04,75,2012,11,,1,0,Gambia,0
+c04,79,2012,11,771000,115229,564609,Germany,253709
+c04,80,2012,11,1020,9401,2059,Bosnia and Herzegovina,2102
+c04,81,2012,11,,40,0,Ghana,3
+c04,82,2012,11,,1,0,Gibraltar,0
+c04,83,2012,11,,,0,Kiribati,0
+c04,84,2012,11,14,289,22,Greece,9
+c04,85,2012,11,,,0,Greenland,0
+c04,86,2012,11,,,0,Grenada,0
+c04,88,2012,11,,,0,Guam,0
+c04,89,2012,11,,625,0,Guatemala,8
+c04,90,2012,11,,3,0,Guinea,0
+c04,91,2012,11,,20,0,Guyana,0
+c04,93,2012,11,,,0,Haiti,0
+c04,95,2012,11,,628,0,Honduras,44
+c04,96,2012,11,,388,0,"China, Hong Kong SAR",0
+c04,97,2012,11,1723,413,776,Hungary,119
+c04,98,2012,11,541,1242,628,Croatia,359
+c04,99,2012,11,,3,0,Iceland,0
+c04,100,2012,11,,59,0,India,1
+c04,101,2012,11,,202,0,Indonesia,0
+c04,102,2012,11,,3,0,Iran (Islamic Republic of),0
+c04,103,2012,11,,,0,Iraq,0
+c04,104,2012,11,,9753,0,Ireland,350
+c04,105,2012,11,,2,0,Israel,0
+c04,106,2012,11,20621,2727,17405,Italy,1565
+c04,107,2012,11,,,0,Cote d'Ivoire,0
+c04,108,2012,11,,18,0,Kazakhstan,0
+c04,109,2012,11,,0,0,Jamaica,0
+c04,110,2012,11,,927,0,Japan,27
+c04,112,2012,11,,57,0,Jordan,0
+c04,113,2012,11,,7,0,Kyrgyzstan,0
+c04,114,2012,11,,1,0,Kenya,0
+c04,115,2012,11,,0,0,Cambodia,0
+c04,116,2012,11,,177,0,Democratic People's Republic of Korea,13
+c04,117,2012,11,,132,0,Republic of Korea,3
+c04,118,2012,11,,1,0,Kuwait,0
+c04,119,2012,11,4000,36294,3905,Latvia,4735
+c04,120,2012,11,,26,0,Lao People's Democratic Republic,0
+c04,121,2012,11,,110,0,Lebanon,0
+c04,123,2012,11,,,0,Liberia,0
+c04,124,2012,11,,40,0,Libya,0
+c04,126,2012,11,513,7753,559,Lithuania,1063
+c04,127,2012,11,,,0,Marshall Islands,0
+c04,128,2012,11,,,0,"China, Macao SAR",0
+c04,129,2012,11,,581,0,Madagascar,20
+c04,130,2012,11,,,0,Malawi,0
+c04,131,2012,11,,139,0,Malaysia,0
+c04,132,2012,11,,,0,Maldives,0
+c04,133,2012,11,,,0,Mali,0
+c04,134,2012,11,,0,0,Malta,0
+c04,136,2012,11,,,0,Mauritania,0
+c04,137,2012,11,,,0,Mauritius,0
+c04,138,2012,11,,59,0,Mexico,3
+c04,141,2012,11,,1,0,Mongolia,0
+c04,142,2012,11,,,0,Montserrat,0
+c04,143,2012,11,,0,0,Morocco,0
+c04,144,2012,11,,133,0,Mozambique,2
+c04,145,2012,11,,,0,Micronesia (Federated States of),0
+c04,146,2012,11,,5,0,Republic of Moldova,0
+c04,148,2012,11,,,0,Nauru,0
+c04,149,2012,11,,,0,Nepal,0
+c04,150,2012,11,99,5879,114,Netherlands,54
+c04,151,2012,11,,,0,Netherlands Antilles,0
+c04,153,2012,11,,7,0,New Caledonia,0
+c04,154,2012,11,,8,0,North Macedonia,0
+c04,155,2012,11,,0,0,Vanuatu,0
+c04,156,2012,11,,38568,0,New Zealand,751
+c04,157,2012,11,,3,0,Nicaragua,0
+c04,158,2012,11,,0,0,Niger,0
+c04,159,2012,11,,0,0,Nigeria,0
+c04,160,2012,11,,,0,Niue,0
+c04,161,2012,11,,,0,Norfolk Island,0
+c04,162,2012,11,23,9044,21,Norway,773
+c04,163,2012,11,,,0,Northern Mariana Islands,0
+c04,165,2012,11,,,0,Pakistan,0
+c04,166,2012,11,,121,0,Panama,0
+c04,167,2012,11,254000,29708,254265,Czechia,126819
+c04,168,2012,11,,1,0,Papua New Guinea,0
+c04,169,2012,11,,0,0,Paraguay,0
+c04,170,2012,11,,14,0,Peru,0
+c04,171,2012,11,,87,0,Philippines,0
+c04,172,2012,11,,,0,Pitcairn Islands,0
+c04,173,2012,11,9387,7197,7520,Poland,5145
+c04,174,2012,11,,5867,0,Portugal,68
+c04,175,2012,11,,0,0,Guinea-Bissau,0
+c04,176,2012,11,,,0,Timor-Leste,0
+c04,178,2012,11,,1,0,Eritrea,0
+c04,179,2012,11,,0,0,Qatar,0
+c04,180,2012,11,,,0,Palau,0
+c04,181,2012,11,,371,0,Zimbabwe,11
+c04,183,2012,11,52000,45192,61552,Romania,34057
+c04,184,2012,11,,1,0,Rwanda,0
+c04,185,2012,11,259000,354451,375874,Russian Federation,209863
+c04,186,2012,11,,,0,Serbia and Montenegro,0
+c04,187,2012,11,,,0,"Saint Helena, Ascension and Tristan da Cunha",0
+c04,188,2012,11,,,0,Saint Kitts and Nevis,0
+c04,189,2012,11,,,0,Saint Lucia,0
+c04,190,2012,11,,,0,Saint Pierre and Miquelon,0
+c04,191,2012,11,,0,0,Saint Vincent and the Grenadines,0
+c04,192,2012,11,,,0,San Marino,0
+c04,193,2012,11,,11,0,Sao Tome and Principe,1
+c04,194,2012,11,,35,0,Saudi Arabia,0
+c04,195,2012,11,,1,0,Senegal,0
+c04,196,2012,11,,1,0,Seychelles,0
+c04,197,2012,11,,2,0,Sierra Leone,0
+c04,198,2012,11,71757,19798,79459,Slovenia,16194
+c04,199,2012,11,51000,8887,56449,Slovakia,28679
+c04,200,2012,11,,30,0,Singapore,0
+c04,201,2012,11,,0,0,Somalia,0
+c04,202,2012,11,,2118,0,South Africa,149
+c04,203,2012,11,43,2022,48,Spain,43
+c04,207,2012,11,,,0,Suriname,0
+c04,208,2012,11,,,0,Tajikistan,0
+c04,210,2012,11,73000,216585,68476,Sweden,45057
+c04,211,2012,11,5352,3491,6302,Switzerland,2624
+c04,212,2012,11,,0,0,Syrian Arab Republic,0
+c04,213,2012,11,,,0,Turkmenistan,0
+c04,215,2012,11,,137,0,United Republic of Tanzania,2
+c04,216,2012,11,,54,0,Thailand,0
+c04,217,2012,11,,,0,Togo,0
+c04,218,2012,11,,,0,Tokelau,0
+c04,219,2012,11,,0,0,Tonga,0
+c04,220,2012,11,,1,0,Trinidad and Tobago,0
+c04,221,2012,11,,3,0,Oman,0
+c04,222,2012,11,,23,0,Tunisia,0
+c04,223,2012,11,,257,0,Turkey,9
+c04,224,2012,11,,,0,Turks and Caicos Islands,0
+c04,225,2012,11,,2433,0,United Arab Emirates,0
+c04,226,2012,11,,15,0,Uganda,0
+c04,227,2012,11,,,0,Tuvalu,0
+c04,228,2012,11,,,0,USSR,0
+c04,229,2012,11,213,2165,316,United Kingdom,112
+c04,230,2012,11,2000,19625,1858,Ukraine,4859
+c04,231,2012,11,78,55814,137,United States of America,989
+c04,233,2012,11,,0,0,Burkina Faso,0
+c04,234,2012,11,,1020,0,Uruguay,23
+c04,235,2012,11,,111,0,Uzbekistan,0
+c04,236,2012,11,,0,0,Venezuela (Bolivarian Republic of),0
+c04,237,2012,11,,173,0,Viet Nam,0
+c04,238,2012,11,,,0,Ethiopia,0
+c04,239,2012,11,,0,0,British Virgin Islands,0
+c04,243,2012,11,,,0,Wallis and Futuna Islands,0
+c04,244,2012,11,,0,0,Samoa,0
+c04,249,2012,11,,0,0,Yemen,0
+c04,250,2012,11,,,0,Democratic Republic of the Congo,0
+c04,251,2012,11,,121,0,Zambia,3
+c04,255,2012,11,342,19765,253,Belgium,584
+c04,256,2012,11,409,1091,575,Luxembourg,71
+c04,258,2012,11,,,0,Anguilla,0
+c04,272,2012,11,,37,0,Serbia,1
+c04,273,2012,11,,1499,0,Montenegro,104
+c04,276,2012,11,,,0,Sudan,0
+c04,277,2012,11,,,0,South Sudan,0
+c04,279,2012,11,,,0,Curaçao,0
+c04,299,2012,11,,,0,Palestine,0
+c04,999,2012,11,,235,0,"",2
+c05,1,2012,11,4,5,4,Armenia,2
+c05,2,2012,11,,1,0,Afghanistan,0
+c05,3,2012,11,,67,0,Albania,11
+c05,4,2012,11,,1,0,Algeria,0
+c05,6,2012,11,,0,0,Andorra,0
+c05,7,2012,11,,9,0,Angola,4
+c05,9,2012,11,,45,1,Argentina,5
+c05,10,2012,11,,293,5,Australia,14
+c05,11,2012,11,,,0,Austria,99615
+c05,12,2012,11,,0,0,Bahamas,0
+c05,13,2012,11,,0,0,Bahrain,0
+c05,14,2012,11,,0,0,Barbados,0
+c05,15,2012,11,,,0,Belgium-Luxembourg,0
+c05,16,2012,11,,0,0,Bangladesh,0
+c05,17,2012,11,,,0,Bermuda,0
+c05,18,2012,11,,1,0,Bhutan,0
+c05,19,2012,11,,961,24,Bolivia (Plurinational State of),79
+c05,21,2012,11,343,4550,299,Brazil,483
+c05,22,2012,11,,0,0,Aruba,0
+c05,23,2012,11,,52,1,Belize,4
+c05,24,2012,11,,,0,British Indian Ocean Territory,0
+c05,25,2012,11,,144,2,Solomon Islands,9
+c05,26,2012,11,,0,0,Brunei Darussalam,0
+c05,27,2012,11,58,659,84,Bulgaria,150
+c05,28,2012,11,,1831,52,Myanmar,165
+c05,29,2012,11,,1,0,Burundi,0
+c05,32,2012,11,164,8072,139,Cameroon,2219
+c05,33,2012,11,992,5456,1785,Canada,1135
+c05,35,2012,11,,0,0,Cabo Verde,0
+c05,36,2012,11,,,0,Cayman Islands,0
+c05,37,2012,11,,430,9,Central African Republic,51
+c05,38,2012,11,,9,0,Sri Lanka,1
+c05,39,2012,11,,0,0,Chad,0
+c05,40,2012,11,,99,1,Chile,3
+c05,41,2012,11,,3926,197,"China, mainland",609
+c05,42,2012,11,,,0,Christmas Island,0
+c05,43,2012,11,,,0,Cocos (Keeling) Islands,0
+c05,44,2012,11,,90,2,Colombia,8
+c05,45,2012,11,,,0,Comoros,0
+c05,46,2012,11,8,906,14,Congo,190
+c05,47,2012,11,,,0,Cook Islands,0
+c05,48,2012,11,2,26,1,Costa Rica,1
+c05,49,2012,11,,0,0,Cuba,0
+c05,50,2012,11,,,0,Cyprus,0
+c05,51,2012,11,,,0,Czechoslovakia,0
+c05,52,2012,11,,11,0,Azerbaijan,0
+c05,53,2012,11,,227,6,Benin,20
+c05,54,2012,11,87,920,155,Denmark,97
+c05,55,2012,11,,0,0,Dominica,0
+c05,56,2012,11,,0,0,Dominican Republic,0
+c05,57,2012,11,54,968,50,Belarus,731
+c05,58,2012,11,2,1577,4,Ecuador,174
+c05,59,2012,11,,6,0,Egypt,0
+c05,60,2012,11,,3,0,El Salvador,0
+c05,61,2012,11,,21,0,Equatorial Guinea,4
+c05,63,2012,11,2412,1039,4175,Estonia,1841
+c05,65,2012,11,,0,0,Falkland Islands (Malvinas),0
+c05,66,2012,11,,146,4,Fiji,15
+c05,67,2012,11,299,150,142,Finland,96
+c05,68,2012,11,577,3625,595,France,739
+c05,70,2012,11,,0,0,French Polynesia,0
+c05,71,2012,11,,,0,French Southern and Antarctic Territories,0
+c05,72,2012,11,,0,0,Djibouti,0
+c05,73,2012,11,,211,3,Georgia,23
+c05,74,2012,11,9,4771,17,Gabon,524
+c05,75,2012,11,,1,0,Gambia,0
+c05,79,2012,11,42000,6484,41437,Germany,18578
+c05,80,2012,11,14873,2751,22555,Bosnia and Herzegovina,12727
+c05,81,2012,11,69,1250,49,Ghana,231
+c05,82,2012,11,,,0,Gibraltar,0
+c05,83,2012,11,,,0,Kiribati,0
+c05,84,2012,11,,119,2,Greece,7
+c05,85,2012,11,,,0,Greenland,0
+c05,86,2012,11,,,0,Grenada,0
+c05,88,2012,11,,,0,Guam,0
+c05,89,2012,11,,174,3,Guatemala,12
+c05,90,2012,11,,10,0,Guinea,5
+c05,91,2012,11,,267,2,Guyana,10
+c05,93,2012,11,,1,0,Haiti,0
+c05,95,2012,11,,6,0,Honduras,0
+c05,96,2012,11,,1063,34,"China, Hong Kong SAR",10
+c05,97,2012,11,44997,3268,55027,Hungary,27089
+c05,98,2012,11,45000,7632,29473,Croatia,21344
+c05,99,2012,11,,0,0,Iceland,0
+c05,100,2012,11,59,824,121,India,138
+c05,101,2012,11,177,11632,455,Indonesia,1111
+c05,102,2012,11,,3,0,Iran (Islamic Republic of),0
+c05,103,2012,11,,0,0,Iraq,0
+c05,104,2012,11,,2,0,Ireland,0
+c05,105,2012,11,,3,0,Israel,0
+c05,106,2012,11,15763,1441,15880,Italy,4321
+c05,107,2012,11,91,3517,99,Cote d'Ivoire,425
+c05,108,2012,11,,0,0,Kazakhstan,0
+c05,109,2012,11,,,0,Jamaica,0
+c05,110,2012,11,,106,2,Japan,7
+c05,112,2012,11,,180,1,Jordan,0
+c05,113,2012,11,,,0,Kyrgyzstan,0
+c05,114,2012,11,,4,0,Kenya,0
+c05,115,2012,11,,156,2,Cambodia,7
+c05,116,2012,11,,55,2,Democratic People's Republic of Korea,6
+c05,117,2012,11,,24,0,Republic of Korea,1
+c05,118,2012,11,,0,0,Kuwait,0
+c05,119,2012,11,514,3854,777,Latvia,2120
+c05,120,2012,11,47,4859,119,Lao People's Democratic Republic,528
+c05,121,2012,11,,73,1,Lebanon,0
+c05,123,2012,11,,32,1,Liberia,3
+c05,124,2012,11,,0,0,Libya,0
+c05,126,2012,11,2551,2189,3288,Lithuania,2263
+c05,127,2012,11,,,0,Marshall Islands,0
+c05,128,2012,11,,,0,"China, Macao SAR",0
+c05,129,2012,11,,4,0,Madagascar,1
+c05,130,2012,11,,505,13,Malawi,54
+c05,131,2012,11,255,22736,337,Malaysia,1263
+c05,132,2012,11,,,0,Maldives,0
+c05,133,2012,11,,0,0,Mali,0
+c05,134,2012,11,,,0,Malta,0
+c05,136,2012,11,,0,0,Mauritania,0
+c05,137,2012,11,,16,0,Mauritius,0
+c05,138,2012,11,,65,2,Mexico,5
+c05,141,2012,11,,0,0,Mongolia,0
+c05,142,2012,11,,,0,Montserrat,0
+c05,143,2012,11,,2,0,Morocco,0
+c05,144,2012,11,9,1446,27,Mozambique,158
+c05,145,2012,11,,,0,Micronesia (Federated States of),0
+c05,146,2012,11,38,19,24,Republic of Moldova,12
+c05,148,2012,11,,0,0,Nauru,0
+c05,149,2012,11,,0,0,Nepal,0
+c05,150,2012,11,81,1276,50,Netherlands,34
+c05,151,2012,11,,,0,Netherlands Antilles,0
+c05,153,2012,11,,8,0,New Caledonia,1
+c05,154,2012,11,,63,2,North Macedonia,5
+c05,155,2012,11,,2,0,Vanuatu,0
+c05,156,2012,11,,15,0,New Zealand,0
+c05,157,2012,11,,174,3,Nicaragua,13
+c05,158,2012,11,,1,0,Niger,0
+c05,159,2012,11,,85,1,Nigeria,5
+c05,160,2012,11,,,0,Niue,0
+c05,161,2012,11,,,0,Norfolk Island,0
+c05,162,2012,11,,14,0,Norway,0
+c05,163,2012,11,,,0,Northern Mariana Islands,0
+c05,165,2012,11,,0,0,Pakistan,0
+c05,166,2012,11,,21,0,Panama,4
+c05,167,2012,11,4836,368,3034,Czechia,1547
+c05,168,2012,11,,201,2,Papua New Guinea,11
+c05,169,2012,11,,375,5,Paraguay,19
+c05,170,2012,11,,3692,104,Peru,317
+c05,171,2012,11,,5758,218,Philippines,621
+c05,172,2012,11,,,0,Pitcairn Islands,0
+c05,173,2012,11,5846,957,4794,Poland,2384
+c05,174,2012,11,104,210,79,Portugal,25
+c05,175,2012,11,,21,1,Guinea-Bissau,2
+c05,176,2012,11,,0,0,Timor-Leste,0
+c05,178,2012,11,,0,0,Eritrea,0
+c05,179,2012,11,,0,0,Qatar,0
+c05,180,2012,11,,0,0,Palau,0
+c05,181,2012,11,,40,1,Zimbabwe,6
+c05,183,2012,11,7000,8346,5144,Romania,3835
+c05,184,2012,11,,0,0,Rwanda,0
+c05,185,2012,11,225,9684,545,Russian Federation,1469
+c05,186,2012,11,,,0,Serbia and Montenegro,0
+c05,187,2012,11,,0,0,"Saint Helena, Ascension and Tristan da Cunha",0
+c05,188,2012,11,,,0,Saint Kitts and Nevis,0
+c05,189,2012,11,,,0,Saint Lucia,0
+c05,190,2012,11,,,0,Saint Pierre and Miquelon,0
+c05,191,2012,11,,0,0,Saint Vincent and the Grenadines,0
+c05,192,2012,11,,,0,San Marino,0
+c05,193,2012,11,,1,0,Sao Tome and Principe,0
+c05,194,2012,11,,12,0,Saudi Arabia,0
+c05,195,2012,11,,30,0,Senegal,1
+c05,196,2012,11,,,0,Seychelles,0
+c05,197,2012,11,,1,0,Sierra Leone,0
+c05,198,2012,11,3408,748,3350,Slovenia,1201
+c05,199,2012,11,8150,1640,8037,Slovakia,5082
+c05,200,2012,11,,1014,26,Singapore,5
+c05,201,2012,11,,0,0,Somalia,0
+c05,202,2012,11,128,39,29,South Africa,11
+c05,203,2012,11,,335,5,Spain,20
+c05,207,2012,11,51,125,37,Suriname,55
+c05,208,2012,11,,,0,Tajikistan,0
+c05,210,2012,11,481,221,111,Sweden,85
+c05,211,2012,11,449,168,434,Switzerland,161
+c05,212,2012,11,,0,0,Syrian Arab Republic,0
+c05,213,2012,11,,,0,Turkmenistan,0
+c05,215,2012,11,,419,7,United Republic of Tanzania,17
+c05,216,2012,11,,18585,603,Thailand,1346
+c05,217,2012,11,,53,1,Togo,8
+c05,218,2012,11,,,0,Tokelau,0
+c05,219,2012,11,,0,0,Tonga,0
+c05,220,2012,11,,11,0,Trinidad and Tobago,1
+c05,221,2012,11,,10,0,Oman,0
+c05,222,2012,11,,0,0,Tunisia,0
+c05,223,2012,11,,111,2,Turkey,9
+c05,224,2012,11,,0,0,Turks and Caicos Islands,0
+c05,225,2012,11,,224,2,United Arab Emirates,0
+c05,226,2012,11,,12,0,Uganda,1
+c05,227,2012,11,,,0,Tuvalu,0
+c05,228,2012,11,,,0,USSR,0
+c05,229,2012,11,50,282,39,United Kingdom,4
+c05,230,2012,11,8614,3470,5863,Ukraine,5462
+c05,231,2012,11,2000,35294,4020,United States of America,6807
+c05,233,2012,11,,0,0,Burkina Faso,0
+c05,234,2012,11,,1007,14,Uruguay,50
+c05,235,2012,11,,,0,Uzbekistan,0
+c05,236,2012,11,,0,0,Venezuela (Bolivarian Republic of),0
+c05,237,2012,11,,2111,52,Viet Nam,149
+c05,238,2012,11,,282,9,Ethiopia,31
+c05,239,2012,11,,5,0,British Virgin Islands,0
+c05,243,2012,11,,,0,Wallis and Futuna Islands,0
+c05,244,2012,11,,0,0,Samoa,0
+c05,249,2012,11,,,0,Yemen,0
+c05,250,2012,11,,573,11,Democratic Republic of the Congo,59
+c05,251,2012,11,,95,3,Zambia,11
+c05,255,2012,11,458,3217,418,Belgium,397
+c05,256,2012,11,4,165,5,Luxembourg,30
+c05,258,2012,11,,,0,Anguilla,0
+c05,272,2012,11,,1402,45,Serbia,150
+c05,273,2012,11,,101,3,Montenegro,10
+c05,276,2012,11,,0,0,Sudan,0
+c05,277,2012,11,,,0,South Sudan,0
+c05,279,2012,11,,0,0,Curaçao,0
+c05,299,2012,11,,,0,Palestine,0
+c05,999,2012,11,,457,15,"",7
+c06,1,2012,11,,,0,Armenia,0
+c06,2,2012,11,,0,0,Afghanistan,0
+c06,3,2012,11,,,0,Albania,0
+c06,4,2012,11,,3,2,Algeria,2
+c06,6,2012,11,,,0,Andorra,0
+c06,7,2012,11,,1,1,Angola,1
+c06,9,2012,11,,17,3,Argentina,1
+c06,10,2012,11,,1814,898,Australia,815
+c06,11,2012,11,,,0,Austria,4640
+c06,12,2012,11,,,0,Bahamas,0
+c06,13,2012,11,,,0,Bahrain,0
+c06,14,2012,11,,0,0,Barbados,0
+c06,15,2012,11,,,0,Belgium-Luxembourg,0
+c06,16,2012,11,,0,0,Bangladesh,0
+c06,17,2012,11,,,0,Bermuda,0
+c06,18,2012,11,,0,0,Bhutan,0
+c06,19,2012,11,,32,8,Bolivia (Plurinational State of),9
+c06,21,2012,11,12,950,15,Brazil,112
+c06,22,2012,11,,,0,Aruba,0
+c06,23,2012,11,,6,3,Belize,0
+c06,24,2012,11,,,0,British Indian Ocean Territory,0
+c06,25,2012,11,,33,10,Solomon Islands,11
+c06,26,2012,11,,8,7,Brunei Darussalam,6
+c06,27,2012,11,12,174,10,Bulgaria,12
+c06,28,2012,11,,455,206,Myanmar,165
+c06,29,2012,11,,0,0,Burundi,0
+c06,32,2012,11,,508,154,Cameroon,157
+c06,33,2012,11,15,4286,20,Canada,539
+c06,35,2012,11,,3,2,Cabo Verde,2
+c06,36,2012,11,,,0,Cayman Islands,0
+c06,37,2012,11,,2,0,Central African Republic,0
+c06,38,2012,11,,2,2,Sri Lanka,1
+c06,39,2012,11,,0,0,Chad,0
+c06,40,2012,11,1,446,1,Chile,44
+c06,41,2012,11,,4457,4700,"China, mainland",3456
+c06,42,2012,11,,,0,Christmas Island,0
+c06,43,2012,11,,,0,Cocos (Keeling) Islands,0
+c06,44,2012,11,,6,5,Colombia,2
+c06,45,2012,11,,,0,Comoros,0
+c06,46,2012,11,,183,74,Congo,69
+c06,47,2012,11,,,0,Cook Islands,0
+c06,48,2012,11,,1,0,Costa Rica,0
+c06,49,2012,11,,,0,Cuba,0
+c06,50,2012,11,,,0,Cyprus,0
+c06,51,2012,11,,,0,Czechoslovakia,0
+c06,52,2012,11,,1,0,Azerbaijan,0
+c06,53,2012,11,,0,0,Benin,0
+c06,54,2012,11,18,180,54,Denmark,69
+c06,55,2012,11,,7,6,Dominica,5
+c06,56,2012,11,,0,0,Dominican Republic,0
+c06,57,2012,11,,21,4,Belarus,2
+c06,58,2012,11,,15,4,Ecuador,7
+c06,59,2012,11,,6,3,Egypt,0
+c06,60,2012,11,,0,0,El Salvador,0
+c06,61,2012,11,,97,25,Equatorial Guinea,26
+c06,63,2012,11,277,624,366,Estonia,352
+c06,65,2012,11,,,0,Falkland Islands (Malvinas),0
+c06,66,2012,11,,4,1,Fiji,1
+c06,67,2012,11,1180,791,2079,Finland,951
+c06,68,2012,11,472,721,486,France,158
+c06,70,2012,11,,0,0,French Polynesia,0
+c06,71,2012,11,,,0,French Southern and Antarctic Territories,0
+c06,72,2012,11,,0,0,Djibouti,0
+c06,73,2012,11,,0,0,Georgia,0
+c06,74,2012,11,,966,128,Gabon,141
+c06,75,2012,11,,0,0,Gambia,0
+c06,79,2012,11,1000,1158,1094,Germany,534
+c06,80,2012,11,429,120,408,Bosnia and Herzegovina,303
+c06,81,2012,11,,394,110,Ghana,93
+c06,82,2012,11,,,0,Gibraltar,0
+c06,83,2012,11,,,0,Kiribati,0
+c06,84,2012,11,,12,1,Greece,0
+c06,85,2012,11,,,0,Greenland,0
+c06,86,2012,11,,,0,Grenada,0
+c06,88,2012,11,,,0,Guam,0
+c06,89,2012,11,,1,0,Guatemala,0
+c06,90,2012,11,,1,0,Guinea,0
+c06,91,2012,11,,1,0,Guyana,0
+c06,93,2012,11,,,0,Haiti,0
+c06,95,2012,11,,0,0,Honduras,0
+c06,96,2012,11,,31,27,"China, Hong Kong SAR",13
+c06,97,2012,11,357,440,482,Hungary,236
+c06,98,2012,11,497,275,619,Croatia,318
+c06,99,2012,11,,,0,Iceland,0
+c06,100,2012,11,,172,42,India,29
+c06,101,2012,11,33,312,29,Indonesia,68
+c06,102,2012,11,,0,0,Iran (Islamic Republic of),0
+c06,103,2012,11,,,0,Iraq,0
+c06,104,2012,11,,6,0,Ireland,0
+c06,105,2012,11,,0,0,Israel,0
+c06,106,2012,11,556,511,444,Italy,221
+c06,107,2012,11,1,1568,1,Cote d'Ivoire,272
+c06,108,2012,11,,,0,Kazakhstan,0
+c06,109,2012,11,,0,0,Jamaica,0
+c06,110,2012,11,,9,0,Japan,0
+c06,112,2012,11,,1,0,Jordan,0
+c06,113,2012,11,,,0,Kyrgyzstan,0
+c06,114,2012,11,,3,2,Kenya,0
+c06,115,2012,11,,120,40,Cambodia,35
+c06,116,2012,11,,2,1,Democratic People's Republic of Korea,0
+c06,117,2012,11,,8,1,Republic of Korea,1
+c06,118,2012,11,,1,0,Kuwait,0
+c06,119,2012,11,,20,3,Latvia,0
+c06,120,2012,11,,37,10,Lao People's Democratic Republic,8
+c06,121,2012,11,,6,1,Lebanon,0
+c06,123,2012,11,,,0,Liberia,0
+c06,124,2012,11,,,0,Libya,0
+c06,126,2012,11,,1474,290,Lithuania,162
+c06,127,2012,11,,,0,Marshall Islands,0
+c06,128,2012,11,,,0,"China, Macao SAR",0
+c06,129,2012,11,,0,0,Madagascar,0
+c06,130,2012,11,,1,0,Malawi,0
+c06,131,2012,11,,4651,2572,Malaysia,1338
+c06,132,2012,11,,,0,Maldives,0
+c06,133,2012,11,,,0,Mali,0
+c06,134,2012,11,,,0,Malta,0
+c06,136,2012,11,,1,1,Mauritania,0
+c06,137,2012,11,,0,0,Mauritius,0
+c06,138,2012,11,,6,0,Mexico,1
+c06,141,2012,11,,1,1,Mongolia,0
+c06,142,2012,11,,,0,Montserrat,0
+c06,143,2012,11,,1,0,Morocco,0
+c06,144,2012,11,,1,0,Mozambique,0
+c06,145,2012,11,,,0,Micronesia (Federated States of),0
+c06,146,2012,11,,0,0,Republic of Moldova,0
+c06,148,2012,11,,,0,Nauru,0
+c06,149,2012,11,,3,0,Nepal,0
+c06,150,2012,11,6,55,2,Netherlands,0
+c06,151,2012,11,,,0,Netherlands Antilles,0
+c06,153,2012,11,,1,1,New Caledonia,0
+c06,154,2012,11,,14,12,North Macedonia,0
+c06,155,2012,11,,,0,Vanuatu,0
+c06,156,2012,11,,2798,1290,New Zealand,1141
+c06,157,2012,11,,0,0,Nicaragua,0
+c06,158,2012,11,,,0,Niger,0
+c06,159,2012,11,,0,0,Nigeria,0
+c06,160,2012,11,,,0,Niue,0
+c06,161,2012,11,,,0,Norfolk Island,0
+c06,162,2012,11,,1,0,Norway,0
+c06,163,2012,11,,,0,Northern Mariana Islands,0
+c06,165,2012,11,,4,1,Pakistan,1
+c06,166,2012,11,,0,0,Panama,0
+c06,167,2012,11,3075,846,7288,Czechia,1597
+c06,168,2012,11,,106,46,Papua New Guinea,53
+c06,169,2012,11,,50,12,Paraguay,10
+c06,170,2012,11,,39,9,Peru,8
+c06,171,2012,11,,490,455,Philippines,244
+c06,172,2012,11,,,0,Pitcairn Islands,0
+c06,173,2012,11,543,318,621,Poland,251
+c06,174,2012,11,54,905,86,Portugal,133
+c06,175,2012,11,,1,0,Guinea-Bissau,0
+c06,176,2012,11,,,0,Timor-Leste,0
+c06,178,2012,11,,,0,Eritrea,0
+c06,179,2012,11,,0,0,Qatar,0
+c06,180,2012,11,,,0,Palau,0
+c06,181,2012,11,,1,1,Zimbabwe,1
+c06,183,2012,11,4000,966,3130,Romania,1738
+c06,184,2012,11,,1,1,Rwanda,0
+c06,185,2012,11,1000,4542,1310,Russian Federation,969
+c06,186,2012,11,,,0,Serbia and Montenegro,0
+c06,187,2012,11,,,0,"Saint Helena, Ascension and Tristan da Cunha",0
+c06,188,2012,11,,,0,Saint Kitts and Nevis,0
+c06,189,2012,11,,,0,Saint Lucia,0
+c06,190,2012,11,,,0,Saint Pierre and Miquelon,0
+c06,191,2012,11,,,0,Saint Vincent and the Grenadines,0
+c06,192,2012,11,,,0,San Marino,0
+c06,193,2012,11,,1,1,Sao Tome and Principe,0
+c06,194,2012,11,,91,81,Saudi Arabia,0
+c06,195,2012,11,,3,2,Senegal,1
+c06,196,2012,11,,,0,Seychelles,0
+c06,197,2012,11,,0,0,Sierra Leone,0
+c06,198,2012,11,1808,307,2413,Slovenia,1093
+c06,199,2012,11,1318,210,1251,Slovakia,395
+c06,200,2012,11,,34,9,Singapore,10
+c06,201,2012,11,,,0,Somalia,0
+c06,202,2012,11,,15,2,South Africa,1
+c06,203,2012,11,40,758,36,Spain,116
+c06,207,2012,11,,,0,Suriname,0
+c06,208,2012,11,,,0,Tajikistan,0
+c06,210,2012,11,3944,333,2021,Sweden,823
+c06,211,2012,11,171,54,163,Switzerland,55
+c06,212,2012,11,23,0,16,Syrian Arab Republic,9
+c06,213,2012,11,,,0,Turkmenistan,0
+c06,215,2012,11,,6,2,United Republic of Tanzania,0
+c06,216,2012,11,,70,21,Thailand,20
+c06,217,2012,11,,5,5,Togo,4
+c06,218,2012,11,,,0,Tokelau,0
+c06,219,2012,11,,,0,Tonga,0
+c06,220,2012,11,,,0,Trinidad and Tobago,0
+c06,221,2012,11,,1,0,Oman,0
+c06,222,2012,11,,0,0,Tunisia,0
+c06,223,2012,11,,370,167,Turkey,81
+c06,224,2012,11,,0,0,Turks and Caicos Islands,0
+c06,225,2012,11,,22,6,United Arab Emirates,0
+c06,226,2012,11,,6,5,Uganda,5
+c06,227,2012,11,,,0,Tuvalu,0
+c06,228,2012,11,,,0,USSR,0
+c06,229,2012,11,4,27,1,United Kingdom,0
+c06,230,2012,11,4000,1406,4492,Ukraine,2823
+c06,231,2012,11,6000,2633,3114,United States of America,1282
+c06,233,2012,11,,0,0,Burkina Faso,0
+c06,234,2012,11,,,0,Uruguay,0
+c06,235,2012,11,,,0,Uzbekistan,0
+c06,236,2012,11,,1,1,Venezuela (Bolivarian Republic of),0
+c06,237,2012,11,,5489,4355,Viet Nam,3219
+c06,238,2012,11,,1,1,Ethiopia,1
+c06,239,2012,11,,,0,British Virgin Islands,0
+c06,243,2012,11,,,0,Wallis and Futuna Islands,0
+c06,244,2012,11,,0,0,Samoa,0
+c06,249,2012,11,,0,0,Yemen,0
+c06,250,2012,11,,16,7,Democratic Republic of the Congo,6
+c06,251,2012,11,,1,1,Zambia,1
+c06,255,2012,11,1120,294,549,Belgium,182
+c06,256,2012,11,,4,1,Luxembourg,0
+c06,258,2012,11,,,0,Anguilla,0
+c06,272,2012,11,,326,285,Serbia,213
+c06,273,2012,11,,3,2,Montenegro,1
+c06,276,2012,11,,,0,Sudan,0
+c06,277,2012,11,,,0,South Sudan,0
+c06,279,2012,11,,,0,Curaçao,0
+c06,299,2012,11,,,0,Palestine,0
+c06,999,2012,11,,85,80,"",9
+c07,1,2012,11,,0,0,Armenia,0
+c07,2,2012,11,,0,0,Afghanistan,0
+c07,3,2012,11,,,0,Albania,0
+c07,4,2012,11,,2,0,Algeria,0
+c07,6,2012,11,,,0,Andorra,0
+c07,7,2012,11,,0,0,Angola,0
+c07,9,2012,11,,17,3,Argentina,1
+c07,10,2012,11,,153,122,Australia,13
+c07,11,2012,11,,,0,Austria,63076
+c07,12,2012,11,,0,0,Bahamas,0
+c07,13,2012,11,,1,1,Bahrain,0
+c07,14,2012,11,,1,0,Barbados,0
+c07,15,2012,11,,,0,Belgium-Luxembourg,0
+c07,16,2012,11,,0,0,Bangladesh,0
+c07,17,2012,11,,,0,Bermuda,0
+c07,18,2012,11,,2,0,Bhutan,0
+c07,19,2012,11,,0,0,Bolivia (Plurinational State of),0
+c07,21,2012,11,611,11357,943,Brazil,3040
+c07,22,2012,11,,0,0,Aruba,0
+c07,23,2012,11,,0,0,Belize,0
+c07,24,2012,11,,,0,British Indian Ocean Territory,0
+c07,25,2012,11,,,0,Solomon Islands,0
+c07,26,2012,11,,0,0,Brunei Darussalam,0
+c07,27,2012,11,944,401,1209,Bulgaria,190
+c07,28,2012,11,,148,58,Myanmar,20
+c07,29,2012,11,,0,0,Burundi,0
+c07,32,2012,11,,101,35,Cameroon,23
+c07,33,2012,11,267,2508,175,Canada,34
+c07,35,2012,11,,0,0,Cabo Verde,0
+c07,36,2012,11,,,0,Cayman Islands,0
+c07,37,2012,11,,0,0,Central African Republic,0
+c07,38,2012,11,,0,0,Sri Lanka,0
+c07,39,2012,11,,0,0,Chad,0
+c07,40,2012,11,25,5249,15,Chile,238
+c07,41,2012,11,,83965,64835,"China, mainland",22425
+c07,42,2012,11,,,0,Christmas Island,0
+c07,43,2012,11,,,0,Cocos (Keeling) Islands,0
+c07,44,2012,11,,52,19,Colombia,4
+c07,45,2012,11,,,0,Comoros,0
+c07,46,2012,11,,20,6,Congo,2
+c07,47,2012,11,,,0,Cook Islands,0
+c07,48,2012,11,,0,0,Costa Rica,0
+c07,49,2012,11,,,0,Cuba,0
+c07,50,2012,11,,,0,Cyprus,0
+c07,51,2012,11,,,0,Czechoslovakia,0
+c07,52,2012,11,,,0,Azerbaijan,0
+c07,53,2012,11,,3,3,Benin,0
+c07,54,2012,11,1,538,2,Denmark,2
+c07,55,2012,11,,1,0,Dominica,0
+c07,56,2012,11,,2,1,Dominican Republic,0
+c07,57,2012,11,286,1130,262,Belarus,248
+c07,58,2012,11,,565,94,Ecuador,33
+c07,59,2012,11,,39,12,Egypt,0
+c07,60,2012,11,,0,0,El Salvador,0
+c07,61,2012,11,,0,0,Equatorial Guinea,0
+c07,63,2012,11,350,472,405,Estonia,105
+c07,65,2012,11,,,0,Falkland Islands (Malvinas),0
+c07,66,2012,11,,29,10,Fiji,3
+c07,67,2012,11,4562,7224,7398,Finland,3119
+c07,68,2012,11,2538,1218,3185,France,534
+c07,70,2012,11,,1,0,French Polynesia,0
+c07,71,2012,11,,,0,French Southern and Antarctic Territories,0
+c07,72,2012,11,,0,0,Djibouti,0
+c07,73,2012,11,,,0,Georgia,0
+c07,74,2012,11,,342,152,Gabon,116
+c07,75,2012,11,,0,0,Gambia,0
+c07,79,2012,11,30113,2589,40844,Germany,1314
+c07,80,2012,11,3,25,1,Bosnia and Herzegovina,8
+c07,81,2012,11,,402,174,Ghana,54
+c07,82,2012,11,,,0,Gibraltar,0
+c07,83,2012,11,,,0,Kiribati,0
+c07,84,2012,11,352,189,497,Greece,61
+c07,85,2012,11,,,0,Greenland,0
+c07,86,2012,11,,,0,Grenada,0
+c07,88,2012,11,,,0,Guam,0
+c07,89,2012,11,,34,2,Guatemala,1
+c07,90,2012,11,,0,0,Guinea,0
+c07,91,2012,11,,37,12,Guyana,4
+c07,93,2012,11,,,0,Haiti,0
+c07,95,2012,11,,70,24,Honduras,7
+c07,96,2012,11,,251,193,"China, Hong Kong SAR",0
+c07,97,2012,11,684,352,1111,Hungary,228
+c07,98,2012,11,170,93,189,Croatia,11
+c07,99,2012,11,,0,0,Iceland,0
+c07,100,2012,11,,473,415,India,119
+c07,101,2012,11,,22432,13256,Indonesia,3877
+c07,102,2012,11,,0,0,Iran (Islamic Republic of),0
+c07,103,2012,11,,,0,Iraq,0
+c07,104,2012,11,119,5,9,Ireland,0
+c07,105,2012,11,,3,1,Israel,0
+c07,106,2012,11,10385,1708,16735,Italy,1978
+c07,107,2012,11,20,266,12,Cote d'Ivoire,12
+c07,108,2012,11,,215,76,Kazakhstan,22
+c07,109,2012,11,,0,0,Jamaica,0
+c07,110,2012,11,3,140,5,Japan,4
+c07,112,2012,11,,63,40,Jordan,0
+c07,113,2012,11,,,0,Kyrgyzstan,0
+c07,114,2012,11,,20,8,Kenya,2
+c07,115,2012,11,,12,1,Cambodia,0
+c07,116,2012,11,,0,0,Democratic People's Republic of Korea,0
+c07,117,2012,11,,36,13,Republic of Korea,1
+c07,118,2012,11,,0,0,Kuwait,0
+c07,119,2012,11,1097,2086,1244,Latvia,668
+c07,120,2012,11,,19,11,Lao People's Democratic Republic,4
+c07,121,2012,11,,5,1,Lebanon,0
+c07,123,2012,11,,,0,Liberia,0
+c07,124,2012,11,,,0,Libya,0
+c07,126,2012,11,25,60,14,Lithuania,26
+c07,127,2012,11,,,0,Marshall Islands,0
+c07,128,2012,11,,0,0,"China, Macao SAR",0
+c07,129,2012,11,,0,0,Madagascar,0
+c07,130,2012,11,,42,10,Malawi,4
+c07,131,2012,11,1,28685,1,Malaysia,284
+c07,132,2012,11,,0,0,Maldives,0
+c07,133,2012,11,,,0,Mali,0
+c07,134,2012,11,,0,0,Malta,0
+c07,136,2012,11,,0,0,Mauritania,0
+c07,137,2012,11,,5,4,Mauritius,0
+c07,138,2012,11,,14,2,Mexico,0
+c07,141,2012,11,,0,0,Mongolia,0
+c07,142,2012,11,,,0,Montserrat,0
+c07,143,2012,11,,80,22,Morocco,13
+c07,144,2012,11,,0,0,Mozambique,0
+c07,145,2012,11,,,0,Micronesia (Federated States of),0
+c07,146,2012,11,,14,5,Republic of Moldova,0
+c07,148,2012,11,,,0,Nauru,0
+c07,149,2012,11,,13,6,Nepal,2
+c07,150,2012,11,34,755,44,Netherlands,0
+c07,151,2012,11,,,0,Netherlands Antilles,0
+c07,153,2012,11,,0,0,New Caledonia,0
+c07,154,2012,11,,1,1,North Macedonia,0
+c07,155,2012,11,,,0,Vanuatu,0
+c07,156,2012,11,,684,115,New Zealand,40
+c07,157,2012,11,,34,25,Nicaragua,0
+c07,158,2012,11,,0,0,Niger,0
+c07,159,2012,11,,1,1,Nigeria,0
+c07,160,2012,11,,,0,Niue,0
+c07,161,2012,11,,,0,Norfolk Island,0
+c07,162,2012,11,5,63,6,Norway,1
+c07,163,2012,11,,,0,Northern Mariana Islands,0
+c07,165,2012,11,,96,21,Pakistan,7
+c07,166,2012,11,,2,1,Panama,0
+c07,167,2012,11,12785,987,14873,Czechia,3106
+c07,168,2012,11,,75,9,Papua New Guinea,3
+c07,169,2012,11,,125,10,Paraguay,4
+c07,170,2012,11,,252,67,Peru,19
+c07,171,2012,11,,173,114,Philippines,19
+c07,172,2012,11,,,0,Pitcairn Islands,0
+c07,173,2012,11,2409,1429,3170,Poland,933
+c07,174,2012,11,,57,18,Portugal,7
+c07,175,2012,11,,0,0,Guinea-Bissau,0
+c07,176,2012,11,,0,0,Timor-Leste,0
+c07,178,2012,11,,,0,Eritrea,0
+c07,179,2012,11,,0,0,Qatar,0
+c07,180,2012,11,,,0,Palau,0
+c07,181,2012,11,,22,6,Zimbabwe,4
+c07,183,2012,11,4140,1008,5977,Romania,1730
+c07,184,2012,11,,0,0,Rwanda,0
+c07,185,2012,11,8505,14546,9417,Russian Federation,5072
+c07,186,2012,11,,,0,Serbia and Montenegro,0
+c07,187,2012,11,,,0,"Saint Helena, Ascension and Tristan da Cunha",0
+c07,188,2012,11,,0,0,Saint Kitts and Nevis,0
+c07,189,2012,11,,,0,Saint Lucia,0
+c07,190,2012,11,,0,0,Saint Pierre and Miquelon,0
+c07,191,2012,11,,0,0,Saint Vincent and the Grenadines,0
+c07,192,2012,11,,,0,San Marino,0
+c07,193,2012,11,,0,0,Sao Tome and Principe,0
+c07,194,2012,11,,208,182,Saudi Arabia,0
+c07,195,2012,11,,72,25,Senegal,0
+c07,196,2012,11,,0,0,Seychelles,0
+c07,197,2012,11,,0,0,Sierra Leone,0
+c07,198,2012,11,3699,440,5062,Slovenia,1089
+c07,199,2012,11,21316,289,11799,Slovakia,1205
+c07,200,2012,11,8,451,10,Singapore,12
+c07,201,2012,11,,,0,Somalia,0
+c07,202,2012,11,,23,5,South Africa,2
+c07,203,2012,11,1152,1284,1142,Spain,500
+c07,207,2012,11,,0,0,Suriname,0
+c07,208,2012,11,,,0,Tajikistan,0
+c07,210,2012,11,22,329,21,Sweden,5
+c07,211,2012,11,217,23,93,Switzerland,2
+c07,212,2012,11,,0,0,Syrian Arab Republic,0
+c07,213,2012,11,,,0,Turkmenistan,0
+c07,215,2012,11,,0,0,United Republic of Tanzania,0
+c07,216,2012,11,,200,31,Thailand,3
+c07,217,2012,11,,6,5,Togo,1
+c07,218,2012,11,,,0,Tokelau,0
+c07,219,2012,11,,,0,Tonga,0
+c07,220,2012,11,,0,0,Trinidad and Tobago,0
+c07,221,2012,11,,7,1,Oman,0
+c07,222,2012,11,,2,1,Tunisia,0
+c07,223,2012,11,,147,78,Turkey,7
+c07,224,2012,11,,,0,Turks and Caicos Islands,0
+c07,225,2012,11,,444,121,United Arab Emirates,0
+c07,226,2012,11,,12,2,Uganda,1
+c07,227,2012,11,,,0,Tuvalu,0
+c07,228,2012,11,,,0,USSR,0
+c07,229,2012,11,13,468,17,United Kingdom,0
+c07,230,2012,11,505,910,471,Ukraine,334
+c07,231,2012,11,41,8287,73,United States of America,144
+c07,233,2012,11,,0,0,Burkina Faso,0
+c07,234,2012,11,,1354,486,Uruguay,153
+c07,235,2012,11,,,0,Uzbekistan,0
+c07,236,2012,11,,,0,Venezuela (Bolivarian Republic of),0
+c07,237,2012,11,,2106,745,Viet Nam,137
+c07,238,2012,11,,0,0,Ethiopia,0
+c07,239,2012,11,,0,0,British Virgin Islands,0
+c07,243,2012,11,,,0,Wallis and Futuna Islands,0
+c07,244,2012,11,,0,0,Samoa,0
+c07,249,2012,11,,1,0,Yemen,0
+c07,250,2012,11,,,0,Democratic Republic of the Congo,0
+c07,251,2012,11,,1,1,Zambia,0
+c07,255,2012,11,193,3136,389,Belgium,17
+c07,256,2012,11,,5,1,Luxembourg,0
+c07,258,2012,11,,,0,Anguilla,0
+c07,272,2012,11,,67,51,Serbia,12
+c07,273,2012,11,,1,1,Montenegro,0
+c07,276,2012,11,,,0,Sudan,0
+c07,277,2012,11,,,0,South Sudan,0
+c07,279,2012,11,,0,0,Curaçao,0
+c07,299,2012,11,,,0,Palestine,0
+c07,999,2012,11,,835,650,"",44
+c08,1,2012,11,,,0,Armenia,0
+c08,2,2012,11,,0,0,Afghanistan,0
+c08,3,2012,11,,9,6,Albania,0
+c08,4,2012,11,,0,0,Algeria,0
+c08,6,2012,11,,,0,Andorra,0
+c08,7,2012,11,,0,0,Angola,0
+c08,9,2012,11,,1463,647,Argentina,224
+c08,10,2012,11,,560,399,Australia,112
+c08,11,2012,11,,,0,Austria,249889
+c08,12,2012,11,,0,0,Bahamas,0
+c08,13,2012,11,,0,0,Bahrain,0
+c08,14,2012,11,,0,0,Barbados,0
+c08,15,2012,11,,,0,Belgium-Luxembourg,0
+c08,16,2012,11,,1,1,Bangladesh,0
+c08,17,2012,11,,,0,Bermuda,0
+c08,18,2012,11,,6,10,Bhutan,3
+c08,19,2012,11,,24,7,Bolivia (Plurinational State of),2
+c08,21,2012,11,,1594,649,Brazil,237
+c08,22,2012,11,,,0,Aruba,0
+c08,23,2012,11,,1,1,Belize,0
+c08,24,2012,11,,,0,British Indian Ocean Territory,0
+c08,25,2012,11,,,0,Solomon Islands,0
+c08,26,2012,11,,1,0,Brunei Darussalam,0
+c08,27,2012,11,4,444,7,Bulgaria,6
+c08,28,2012,11,,2,1,Myanmar,0
+c08,29,2012,11,,,0,Burundi,0
+c08,32,2012,11,,1,1,Cameroon,0
+c08,33,2012,11,2,4223,1,Canada,21
+c08,35,2012,11,,0,0,Cabo Verde,0
+c08,36,2012,11,,,0,Cayman Islands,0
+c08,37,2012,11,,1,1,Central African Republic,0
+c08,38,2012,11,,530,198,Sri Lanka,68
+c08,39,2012,11,,0,0,Chad,0
+c08,40,2012,11,,2980,337,Chile,115
+c08,41,2012,11,,26875,43085,"China, mainland",16437
+c08,42,2012,11,,,0,Christmas Island,0
+c08,43,2012,11,,,0,Cocos (Keeling) Islands,0
+c08,44,2012,11,,35,9,Colombia,1
+c08,45,2012,11,,,0,Comoros,0
+c08,46,2012,11,,0,0,Congo,0
+c08,47,2012,11,,,0,Cook Islands,0
+c08,48,2012,11,,1,0,Costa Rica,0
+c08,49,2012,11,,0,0,Cuba,0
+c08,50,2012,11,,,0,Cyprus,0
+c08,51,2012,11,,,0,Czechoslovakia,0
+c08,52,2012,11,,15,8,Azerbaijan,0
+c08,53,2012,11,,0,0,Benin,0
+c08,54,2012,11,,58,23,Denmark,0
+c08,55,2012,11,,1,2,Dominica,1
+c08,56,2012,11,,0,0,Dominican Republic,0
+c08,57,2012,11,,859,463,Belarus,48
+c08,58,2012,11,,263,82,Ecuador,13
+c08,59,2012,11,,102,65,Egypt,3
+c08,60,2012,11,,0,0,El Salvador,0
+c08,61,2012,11,,0,0,Equatorial Guinea,0
+c08,63,2012,11,16,532,39,Estonia,30
+c08,65,2012,11,,,0,Falkland Islands (Malvinas),0
+c08,66,2012,11,,0,0,Fiji,0
+c08,67,2012,11,46,348,60,Finland,11
+c08,68,2012,11,61,6713,119,France,502
+c08,70,2012,11,,0,0,French Polynesia,0
+c08,71,2012,11,,,0,French Southern and Antarctic Territories,0
+c08,72,2012,11,,0,0,Djibouti,0
+c08,73,2012,11,,59,38,Georgia,0
+c08,74,2012,11,,0,0,Gabon,0
+c08,75,2012,11,,3,5,Gambia,0
+c08,79,2012,11,77278,22724,81907,Germany,23090
+c08,80,2012,11,,,0,Bosnia and Herzegovina,0
+c08,81,2012,11,,0,0,Ghana,0
+c08,82,2012,11,,,0,Gibraltar,0
+c08,83,2012,11,,,0,Kiribati,0
+c08,84,2012,11,24,443,37,Greece,12
+c08,85,2012,11,,,0,Greenland,0
+c08,86,2012,11,,,0,Grenada,0
+c08,88,2012,11,,,0,Guam,0
+c08,89,2012,11,,1,0,Guatemala,0
+c08,90,2012,11,,6,8,Guinea,0
+c08,91,2012,11,,,0,Guyana,0
+c08,93,2012,11,,,0,Haiti,0
+c08,95,2012,11,,0,0,Honduras,0
+c08,96,2012,11,,48,76,"China, Hong Kong SAR",0
+c08,97,2012,11,333,1169,429,Hungary,177
+c08,98,2012,11,19,1,3,Croatia,0
+c08,99,2012,11,,0,0,Iceland,0
+c08,100,2012,11,,285,215,India,57
+c08,101,2012,11,,1433,751,Indonesia,197
+c08,102,2012,11,,0,0,Iran (Islamic Republic of),0
+c08,103,2012,11,,0,0,Iraq,0
+c08,104,2012,11,145,2838,195,Ireland,220
+c08,105,2012,11,,5,4,Israel,0
+c08,106,2012,11,1050,3500,1515,Italy,360
+c08,107,2012,11,,2,1,Cote d'Ivoire,0
+c08,108,2012,11,,5,2,Kazakhstan,0
+c08,109,2012,11,,0,0,Jamaica,0
+c08,110,2012,11,,74,61,Japan,15
+c08,112,2012,11,,38,27,Jordan,0
+c08,113,2012,11,,1,0,Kyrgyzstan,0
+c08,114,2012,11,,47,17,Kenya,2
+c08,115,2012,11,,1,1,Cambodia,0
+c08,116,2012,11,,0,0,Democratic People's Republic of Korea,0
+c08,117,2012,11,,771,385,Republic of Korea,132
+c08,118,2012,11,,0,0,Kuwait,0
+c08,119,2012,11,,39,4,Latvia,0
+c08,120,2012,11,,0,0,Lao People's Democratic Republic,0
+c08,121,2012,11,,5,2,Lebanon,0
+c08,123,2012,11,,,0,Liberia,0
+c08,124,2012,11,,,0,Libya,0
+c08,126,2012,11,,486,334,Lithuania,34
+c08,127,2012,11,,,0,Marshall Islands,0
+c08,128,2012,11,,,0,"China, Macao SAR",0
+c08,129,2012,11,,0,1,Madagascar,0
+c08,130,2012,11,,64,37,Malawi,15
+c08,131,2012,11,,7505,2672,Malaysia,933
+c08,132,2012,11,,,0,Maldives,0
+c08,133,2012,11,,2,1,Mali,0
+c08,134,2012,11,,0,0,Malta,0
+c08,136,2012,11,,0,0,Mauritania,0
+c08,137,2012,11,,0,0,Mauritius,0
+c08,138,2012,11,,12,2,Mexico,0
+c08,141,2012,11,,0,0,Mongolia,0
+c08,142,2012,11,,,0,Montserrat,0
+c08,143,2012,11,,1,1,Morocco,0
+c08,144,2012,11,,,0,Mozambique,0
+c08,145,2012,11,,,0,Micronesia (Federated States of),0
+c08,146,2012,11,,1,0,Republic of Moldova,0
+c08,148,2012,11,,,0,Nauru,0
+c08,149,2012,11,,1,1,Nepal,0
+c08,150,2012,11,1780,991,1185,Netherlands,75
+c08,151,2012,11,,,0,Netherlands Antilles,0
+c08,153,2012,11,,10,16,New Caledonia,4
+c08,154,2012,11,,0,0,North Macedonia,0
+c08,155,2012,11,,2,3,Vanuatu,0
+c08,156,2012,11,,4376,2262,New Zealand,824
+c08,157,2012,11,,1,1,Nicaragua,0
+c08,158,2012,11,,0,0,Niger,0
+c08,159,2012,11,,1,2,Nigeria,0
+c08,160,2012,11,,,0,Niue,0
+c08,161,2012,11,,,0,Norfolk Island,0
+c08,162,2012,11,,385,255,Norway,65
+c08,163,2012,11,,,0,Northern Mariana Islands,0
+c08,165,2012,11,,397,67,Pakistan,14
+c08,166,2012,11,,,0,Panama,0
+c08,167,2012,11,1266,624,2210,Czechia,130
+c08,168,2012,11,,0,1,Papua New Guinea,0
+c08,169,2012,11,,0,0,Paraguay,0
+c08,170,2012,11,,1,1,Peru,0
+c08,171,2012,11,,7,1,Philippines,0
+c08,172,2012,11,,,0,Pitcairn Islands,0
+c08,173,2012,11,768,10432,1304,Poland,2141
+c08,174,2012,11,436,3352,702,Portugal,307
+c08,175,2012,11,,2,1,Guinea-Bissau,0
+c08,176,2012,11,,,0,Timor-Leste,0
+c08,178,2012,11,,,0,Eritrea,0
+c08,179,2012,11,,2,1,Qatar,0
+c08,180,2012,11,,,0,Palau,0
+c08,181,2012,11,,14,4,Zimbabwe,0
+c08,183,2012,11,14,3204,17,Romania,36
+c08,184,2012,11,,0,0,Rwanda,0
+c08,185,2012,11,204,2456,204,Russian Federation,80
+c08,186,2012,11,,,0,Serbia and Montenegro,0
+c08,187,2012,11,,,0,"Saint Helena, Ascension and Tristan da Cunha",0
+c08,188,2012,11,,,0,Saint Kitts and Nevis,0
+c08,189,2012,11,,,0,Saint Lucia,0
+c08,190,2012,11,,,0,Saint Pierre and Miquelon,0
+c08,191,2012,11,,0,1,Saint Vincent and the Grenadines,0
+c08,192,2012,11,,,0,San Marino,0
+c08,193,2012,11,,,0,Sao Tome and Principe,0
+c08,194,2012,11,,15,17,Saudi Arabia,0
+c08,195,2012,11,,0,0,Senegal,0
+c08,196,2012,11,,,0,Seychelles,0
+c08,197,2012,11,,2,3,Sierra Leone,0
+c08,198,2012,11,2168,808,2428,Slovenia,634
+c08,199,2012,11,30,213,42,Slovakia,19
+c08,200,2012,11,,96,72,Singapore,0
+c08,201,2012,11,,,0,Somalia,0
+c08,202,2012,11,,298,75,South Africa,27
+c08,203,2012,11,54,7105,126,Spain,240
+c08,207,2012,11,,,0,Suriname,0
+c08,208,2012,11,,,0,Tajikistan,0
+c08,210,2012,11,65,720,62,Sweden,0
+c08,211,2012,11,2992,3147,4450,Switzerland,1486
+c08,212,2012,11,,3,1,Syrian Arab Republic,0
+c08,213,2012,11,,1,2,Turkmenistan,0
+c08,215,2012,11,,2,1,United Republic of Tanzania,0
+c08,216,2012,11,,10321,5579,Thailand,2173
+c08,217,2012,11,,0,0,Togo,0
+c08,218,2012,11,,,0,Tokelau,0
+c08,219,2012,11,,,0,Tonga,0
+c08,220,2012,11,,0,0,Trinidad and Tobago,0
+c08,221,2012,11,,12,4,Oman,0
+c08,222,2012,11,,6,4,Tunisia,0
+c08,223,2012,11,5,4382,7,Turkey,31
+c08,224,2012,11,,,0,Turks and Caicos Islands,0
+c08,225,2012,11,,222,76,United Arab Emirates,0
+c08,226,2012,11,,5,3,Uganda,0
+c08,227,2012,11,,,0,Tuvalu,0
+c08,228,2012,11,,,0,USSR,0
+c08,229,2012,11,2,1553,3,United Kingdom,53
+c08,230,2012,11,21,1019,22,Ukraine,17
+c08,231,2012,11,30,8275,61,United States of America,82
+c08,233,2012,11,,0,0,Burkina Faso,0
+c08,234,2012,11,,121,16,Uruguay,3
+c08,235,2012,11,,2,1,Uzbekistan,0
+c08,236,2012,11,,60,15,Venezuela (Bolivarian Republic of),5
+c08,237,2012,11,,219,51,Viet Nam,7
+c08,238,2012,11,,,0,Ethiopia,0
+c08,239,2012,11,,,0,British Virgin Islands,0
+c08,243,2012,11,,,0,Wallis and Futuna Islands,0
+c08,244,2012,11,,,0,Samoa,0
+c08,249,2012,11,,,0,Yemen,0
+c08,250,2012,11,,0,1,Democratic Republic of the Congo,0
+c08,251,2012,11,,4,6,Zambia,0
+c08,255,2012,11,918,6585,1882,Belgium,283
+c08,256,2012,11,393,1185,527,Luxembourg,280
+c08,258,2012,11,,,0,Anguilla,0
+c08,272,2012,11,,206,326,Serbia,27
+c08,273,2012,11,,0,0,Montenegro,0
+c08,276,2012,11,,,0,Sudan,0
+c08,277,2012,11,,,0,South Sudan,0
+c08,279,2012,11,,,0,Curaçao,0
+c08,299,2012,11,,,0,Palestine,0
+c08,999,2012,11,,57,91,"",6
+c09,1,2012,11,,0,0,Armenia,0
+c09,2,2012,11,,0,0,Afghanistan,0
+c09,3,2012,11,,,0,Albania,0
+c09,4,2012,11,,0,0,Algeria,0
+c09,6,2012,11,,0,0,Andorra,0
+c09,7,2012,11,,0,1,Angola,0
+c09,9,2012,11,,732,340,Argentina,142
+c09,10,2012,11,,83,27,Australia,11
+c09,11,2012,11,,,0,Austria,655102
+c09,12,2012,11,,0,0,Bahamas,0
+c09,13,2012,11,,0,0,Bahrain,0
+c09,14,2012,11,,0,0,Barbados,0
+c09,15,2012,11,,,0,Belgium-Luxembourg,0
+c09,16,2012,11,,2,3,Bangladesh,0
+c09,17,2012,11,,,0,Bermuda,0
+c09,18,2012,11,,93,12,Bhutan,5
+c09,19,2012,11,,2,3,Bolivia (Plurinational State of),0
+c09,21,2012,11,,647,501,Brazil,193
+c09,22,2012,11,,,0,Aruba,0
+c09,23,2012,11,,1,1,Belize,0
+c09,24,2012,11,,,0,British Indian Ocean Territory,0
+c09,25,2012,11,,,0,Solomon Islands,0
+c09,26,2012,11,,0,0,Brunei Darussalam,0
+c09,27,2012,11,3,6056,3,Bulgaria,181
+c09,28,2012,11,,7,10,Myanmar,0
+c09,29,2012,11,,0,0,Burundi,0
+c09,32,2012,11,,0,1,Cameroon,0
+c09,33,2012,11,,15137,11668,Canada,3618
+c09,35,2012,11,,1,1,Cabo Verde,0
+c09,36,2012,11,,,0,Cayman Islands,0
+c09,37,2012,11,,0,0,Central African Republic,0
+c09,38,2012,11,,105,151,Sri Lanka,36
+c09,39,2012,11,,,0,Chad,0
+c09,40,2012,11,,1728,580,Chile,286
+c09,41,2012,11,48,2788,84,"China, mainland",99
+c09,42,2012,11,,,0,Christmas Island,0
+c09,43,2012,11,,,0,Cocos (Keeling) Islands,0
+c09,44,2012,11,,95,16,Colombia,8
+c09,45,2012,11,,,0,Comoros,0
+c09,46,2012,11,,,0,Congo,0
+c09,47,2012,11,,,0,Cook Islands,0
+c09,48,2012,11,,43,3,Costa Rica,2
+c09,49,2012,11,,1,1,Cuba,1
+c09,50,2012,11,,0,0,Cyprus,0
+c09,51,2012,11,,,0,Czechoslovakia,0
+c09,52,2012,11,,,0,Azerbaijan,0
+c09,53,2012,11,,,0,Benin,0
+c09,54,2012,11,1,1569,1,Denmark,40
+c09,55,2012,11,,0,0,Dominica,0
+c09,56,2012,11,,0,0,Dominican Republic,0
+c09,57,2012,11,,2751,682,Belarus,146
+c09,58,2012,11,,3375,4678,Ecuador,1806
+c09,59,2012,11,,114,168,Egypt,18
+c09,60,2012,11,,0,0,El Salvador,0
+c09,61,2012,11,,,0,Equatorial Guinea,0
+c09,63,2012,11,27,2537,19,Estonia,46
+c09,65,2012,11,,,0,Falkland Islands (Malvinas),0
+c09,66,2012,11,,0,0,Fiji,0
+c09,67,2012,11,,482,139,Finland,30
+c09,68,2012,11,6269,32382,7866,France,5379
+c09,70,2012,11,,0,0,French Polynesia,0
+c09,71,2012,11,,,0,French Southern and Antarctic Territories,0
+c09,72,2012,11,,0,0,Djibouti,0
+c09,73,2012,11,,561,423,Georgia,1
+c09,74,2012,11,,2,3,Gabon,1
+c09,75,2012,11,,,0,Gambia,0
+c09,79,2012,11,97624,33375,98175,Germany,22508
+c09,80,2012,11,1,15,3,Bosnia and Herzegovina,0
+c09,81,2012,11,,0,0,Ghana,0
+c09,82,2012,11,,1,1,Gibraltar,0
+c09,83,2012,11,,,0,Kiribati,0
+c09,84,2012,11,35,2773,35,Greece,77
+c09,85,2012,11,,,0,Greenland,0
+c09,86,2012,11,,,0,Grenada,0
+c09,88,2012,11,,,0,Guam,0
+c09,89,2012,11,,109,150,Guatemala,15
+c09,90,2012,11,,,0,Guinea,0
+c09,91,2012,11,,1,1,Guyana,0
+c09,93,2012,11,,,0,Haiti,0
+c09,95,2012,11,,0,0,Honduras,0
+c09,96,2012,11,,16,6,"China, Hong Kong SAR",2
+c09,97,2012,11,20048,2743,16718,Hungary,2519
+c09,98,2012,11,6727,1682,5501,Croatia,949
+c09,99,2012,11,,0,0,Iceland,0
+c09,100,2012,11,,20,11,India,4
+c09,101,2012,11,,147,56,Indonesia,5
+c09,102,2012,11,,221,363,Iran (Islamic Republic of),144
+c09,103,2012,11,,1,1,Iraq,1
+c09,104,2012,11,,217,39,Ireland,0
+c09,105,2012,11,,29,37,Israel,0
+c09,106,2012,11,4726,4476,6624,Italy,1726
+c09,107,2012,11,,47,70,Cote d'Ivoire,28
+c09,108,2012,11,,8,3,Kazakhstan,0
+c09,109,2012,11,,2,1,Jamaica,0
+c09,110,2012,11,,149,53,Japan,17
+c09,112,2012,11,,9,14,Jordan,0
+c09,113,2012,11,,,0,Kyrgyzstan,0
+c09,114,2012,11,,50,72,Kenya,7
+c09,115,2012,11,,,0,Cambodia,0
+c09,116,2012,11,,0,0,Democratic People's Republic of Korea,0
+c09,117,2012,11,,36,9,Republic of Korea,2
+c09,118,2012,11,,0,0,Kuwait,0
+c09,119,2012,11,74,4284,55,Latvia,88
+c09,120,2012,11,,,0,Lao People's Democratic Republic,0
+c09,121,2012,11,,12,11,Lebanon,2
+c09,123,2012,11,,,0,Liberia,0
+c09,124,2012,11,,0,1,Libya,0
+c09,126,2012,11,,2580,952,Lithuania,271
+c09,127,2012,11,,,0,Marshall Islands,0
+c09,128,2012,11,,,0,"China, Macao SAR",0
+c09,129,2012,11,,0,0,Madagascar,0
+c09,130,2012,11,,0,1,Malawi,0
+c09,131,2012,11,,11269,7090,Malaysia,765
+c09,132,2012,11,,,0,Maldives,0
+c09,133,2012,11,,0,0,Mali,0
+c09,134,2012,11,,0,0,Malta,0
+c09,136,2012,11,,,0,Mauritania,0
+c09,137,2012,11,,,0,Mauritius,0
+c09,138,2012,11,,579,233,Mexico,115
+c09,141,2012,11,,0,0,Mongolia,0
+c09,142,2012,11,,,0,Montserrat,0
+c09,143,2012,11,,0,0,Morocco,0
+c09,144,2012,11,,1,1,Mozambique,0
+c09,145,2012,11,,,0,Micronesia (Federated States of),0
+c09,146,2012,11,,17,26,Republic of Moldova,0
+c09,148,2012,11,,,0,Nauru,0
+c09,149,2012,11,,29,42,Nepal,12
+c09,150,2012,11,738,1818,721,Netherlands,0
+c09,151,2012,11,,,0,Netherlands Antilles,0
+c09,153,2012,11,,,0,New Caledonia,0
+c09,154,2012,11,0,10,0,North Macedonia,0
+c09,155,2012,11,,,0,Vanuatu,0
+c09,156,2012,11,,1242,322,New Zealand,129
+c09,157,2012,11,,0,0,Nicaragua,0
+c09,158,2012,11,,0,0,Niger,0
+c09,159,2012,11,,,0,Nigeria,0
+c09,160,2012,11,,,0,Niue,0
+c09,161,2012,11,,,0,Norfolk Island,0
+c09,162,2012,11,,2810,836,Norway,247
+c09,163,2012,11,,,0,Northern Mariana Islands,0
+c09,165,2012,11,,6,4,Pakistan,2
+c09,166,2012,11,,,0,Panama,0
+c09,167,2012,11,101315,15892,106348,Czechia,19004
+c09,168,2012,11,,,0,Papua New Guinea,0
+c09,169,2012,11,,,0,Paraguay,0
+c09,170,2012,11,,121,67,Peru,0
+c09,171,2012,11,,0,0,Philippines,0
+c09,172,2012,11,,,0,Pitcairn Islands,0
+c09,173,2012,11,617,9634,560,Poland,754
+c09,174,2012,11,7,6364,9,Portugal,120
+c09,175,2012,11,,0,0,Guinea-Bissau,0
+c09,176,2012,11,,,0,Timor-Leste,0
+c09,178,2012,11,,,0,Eritrea,0
+c09,179,2012,11,,2,3,Qatar,0
+c09,180,2012,11,,,0,Palau,0
+c09,181,2012,11,,1,2,Zimbabwe,0
+c09,183,2012,11,9730,18761,9626,Romania,3291
+c09,184,2012,11,,0,0,Rwanda,0
+c09,185,2012,11,1,14228,1,Russian Federation,100
+c09,186,2012,11,,,0,Serbia and Montenegro,0
+c09,187,2012,11,,,0,"Saint Helena, Ascension and Tristan da Cunha",0
+c09,188,2012,11,,,0,Saint Kitts and Nevis,0
+c09,189,2012,11,,,0,Saint Lucia,0
+c09,190,2012,11,,,0,Saint Pierre and Miquelon,0
+c09,191,2012,11,,,0,Saint Vincent and the Grenadines,0
+c09,192,2012,11,,,0,San Marino,0
+c09,193,2012,11,,1,1,Sao Tome and Principe,0
+c09,194,2012,11,,88,87,Saudi Arabia,0
+c09,195,2012,11,,0,0,Senegal,0
+c09,196,2012,11,68,2,84,Seychelles,0
+c09,197,2012,11,,0,0,Sierra Leone,0
+c09,198,2012,11,705,1323,562,Slovenia,225
+c09,199,2012,11,2994,6234,2533,Slovakia,2089
+c09,200,2012,11,,91,28,Singapore,4
+c09,201,2012,11,,,0,Somalia,0
+c09,202,2012,11,,1081,1602,South Africa,657
+c09,203,2012,11,33,13798,58,Spain,404
+c09,207,2012,11,,,0,Suriname,0
+c09,208,2012,11,,,0,Tajikistan,0
+c09,210,2012,11,3,968,2,Sweden,16
+c09,211,2012,11,1664,4680,1362,Switzerland,822
+c09,212,2012,11,0,1,1,Syrian Arab Republic,1
+c09,213,2012,11,,,0,Turkmenistan,0
+c09,215,2012,11,,1,1,United Republic of Tanzania,0
+c09,216,2012,11,4,31709,5,Thailand,2697
+c09,217,2012,11,,0,0,Togo,0
+c09,218,2012,11,,,0,Tokelau,0
+c09,219,2012,11,,,0,Tonga,0
+c09,220,2012,11,,,0,Trinidad and Tobago,0
+c09,221,2012,11,,1,1,Oman,0
+c09,222,2012,11,,17,12,Tunisia,3
+c09,223,2012,11,64,5857,58,Turkey,210
+c09,224,2012,11,,,0,Turks and Caicos Islands,0
+c09,225,2012,11,,14,8,United Arab Emirates,0
+c09,226,2012,11,,53,11,Uganda,6
+c09,227,2012,11,,,0,Tuvalu,0
+c09,228,2012,11,,,0,USSR,0
+c09,229,2012,11,26,2946,35,United Kingdom,217
+c09,230,2012,11,30,7908,22,Ukraine,419
+c09,231,2012,11,8,4950,8,United States of America,407
+c09,233,2012,11,,,0,Burkina Faso,0
+c09,234,2012,11,,,0,Uruguay,0
+c09,235,2012,11,,1,0,Uzbekistan,0
+c09,236,2012,11,,1,0,Venezuela (Bolivarian Republic of),0
+c09,237,2012,11,,425,245,Viet Nam,74
+c09,238,2012,11,,,0,Ethiopia,0
+c09,239,2012,11,,,0,British Virgin Islands,0
+c09,243,2012,11,,,0,Wallis and Futuna Islands,0
+c09,244,2012,11,,,0,Samoa,0
+c09,249,2012,11,,,0,Yemen,0
+c09,250,2012,11,,0,0,Democratic Republic of the Congo,0
+c09,251,2012,11,,14,21,Zambia,8
+c09,255,2012,11,,6226,9528,Belgium,3475
+c09,256,2012,11,,42,62,Luxembourg,0
+c09,258,2012,11,,,0,Anguilla,0
+c09,272,2012,11,30,2126,24,Serbia,38
+c09,273,2012,11,,0,0,Montenegro,0
+c09,276,2012,11,,,0,Sudan,0
+c09,277,2012,11,,,0,South Sudan,0
+c09,279,2012,11,,,0,Curaçao,0
+c09,299,2012,11,,,0,Palestine,0
+c09,999,2012,11,,73,113,"",6
+c10,1,2012,11,,,0,Armenia,0
+c10,2,2012,11,,,0,Afghanistan,0
+c10,3,2012,11,,,0,Albania,0
+c10,4,2012,11,,2,0,Algeria,0
+c10,6,2012,11,,,0,Andorra,0
+c10,7,2012,11,,,0,Angola,0
+c10,9,2012,11,,,0,Argentina,0
+c10,10,2012,11,,,0,Australia,0
+c10,11,2012,11,,,0,Austria,0
+c10,12,2012,11,,,0,Bahamas,0
+c10,13,2012,11,,,0,Bahrain,0
+c10,14,2012,11,,,0,Barbados,0
+c10,15,2012,11,,,0,Belgium-Luxembourg,0
+c10,16,2012,11,,,0,Bangladesh,0
+c10,17,2012,11,,,0,Bermuda,0
+c10,18,2012,11,,,0,Bhutan,0
+c10,19,2012,11,,,0,Bolivia (Plurinational State of),0
+c10,21,2012,11,,1431,0,Brazil,57
+c10,22,2012,11,,,0,Aruba,0
+c10,23,2012,11,,,0,Belize,0
+c10,24,2012,11,,,0,British Indian Ocean Territory,0
+c10,25,2012,11,,,0,Solomon Islands,0
+c10,26,2012,11,,,0,Brunei Darussalam,0
+c10,27,2012,11,,2954,0,Bulgaria,508
+c10,28,2012,11,,,0,Myanmar,0
+c10,29,2012,11,,,0,Burundi,0
+c10,32,2012,11,,,0,Cameroon,0
+c10,33,2012,11,,76943,0,Canada,1575
+c10,35,2012,11,,,0,Cabo Verde,0
+c10,36,2012,11,,,0,Cayman Islands,0
+c10,37,2012,11,,,0,Central African Republic,0
+c10,38,2012,11,,,0,Sri Lanka,0
+c10,39,2012,11,,,0,Chad,0
+c10,40,2012,11,,244,0,Chile,6
+c10,41,2012,11,66,828,13,"China, mainland",17
+c10,42,2012,11,,,0,Christmas Island,0
+c10,43,2012,11,,,0,Cocos (Keeling) Islands,0
+c10,44,2012,11,,6,0,Colombia,0
+c10,45,2012,11,,,0,Comoros,0
+c10,46,2012,11,,,0,Congo,0
+c10,47,2012,11,,,0,Cook Islands,0
+c10,48,2012,11,,0,0,Costa Rica,0
+c10,49,2012,11,,,0,Cuba,0
+c10,50,2012,11,,,0,Cyprus,0
+c10,51,2012,11,,,0,Czechoslovakia,0
+c10,52,2012,11,,,0,Azerbaijan,0
+c10,53,2012,11,,,0,Benin,0
+c10,54,2012,11,,183,0,Denmark,0
+c10,55,2012,11,,,0,Dominica,0
+c10,56,2012,11,,,0,Dominican Republic,0
+c10,57,2012,11,,38,0,Belarus,0
+c10,58,2012,11,,,0,Ecuador,0
+c10,59,2012,11,,1,0,Egypt,0
+c10,60,2012,11,,,0,El Salvador,0
+c10,61,2012,11,,,0,Equatorial Guinea,0
+c10,63,2012,11,969,4,53,Estonia,0
+c10,65,2012,11,,,0,Falkland Islands (Malvinas),0
+c10,66,2012,11,,,0,Fiji,0
+c10,67,2012,11,213,9,51,Finland,0
+c10,68,2012,11,8321,2697,12331,France,10733
+c10,70,2012,11,,,0,French Polynesia,0
+c10,71,2012,11,,,0,French Southern and Antarctic Territories,0
+c10,72,2012,11,,,0,Djibouti,0
+c10,73,2012,11,,61,0,Georgia,0
+c10,74,2012,11,,,0,Gabon,0
+c10,75,2012,11,,,0,Gambia,0
+c10,79,2012,11,93504,11680,79247,Germany,59889
+c10,80,2012,11,,,0,Bosnia and Herzegovina,0
+c10,81,2012,11,,,0,Ghana,0
+c10,82,2012,11,,,0,Gibraltar,0
+c10,83,2012,11,,,0,Kiribati,0
+c10,84,2012,11,,2,0,Greece,0
+c10,85,2012,11,,,0,Greenland,0
+c10,86,2012,11,,,0,Grenada,0
+c10,88,2012,11,,,0,Guam,0
+c10,89,2012,11,,0,0,Guatemala,0
+c10,90,2012,11,,,0,Guinea,0
+c10,91,2012,11,,,0,Guyana,0
+c10,93,2012,11,,,0,Haiti,0
+c10,95,2012,11,,,0,Honduras,0
+c10,96,2012,11,,,0,"China, Hong Kong SAR",0
+c10,97,2012,11,655,177,477,Hungary,0
+c10,98,2012,11,,23,0,Croatia,0
+c10,99,2012,11,,,0,Iceland,0
+c10,100,2012,11,,0,0,India,0
+c10,101,2012,11,,,0,Indonesia,0
+c10,102,2012,11,,,0,Iran (Islamic Republic of),0
+c10,103,2012,11,,,0,Iraq,0
+c10,104,2012,11,,5206,0,Ireland,3169
+c10,105,2012,11,,2,0,Israel,0
+c10,106,2012,11,4978,2103,4393,Italy,0
+c10,107,2012,11,,,0,Cote d'Ivoire,0
+c10,108,2012,11,,,0,Kazakhstan,0
+c10,109,2012,11,,,0,Jamaica,0
+c10,110,2012,11,,0,0,Japan,0
+c10,112,2012,11,,0,0,Jordan,0
+c10,113,2012,11,,,0,Kyrgyzstan,0
+c10,114,2012,11,,2,0,Kenya,0
+c10,115,2012,11,,,0,Cambodia,0
+c10,116,2012,11,,,0,Democratic People's Republic of Korea,0
+c10,117,2012,11,,3,0,Republic of Korea,0
+c10,118,2012,11,,,0,Kuwait,0
+c10,119,2012,11,,10037,0,Latvia,1562
+c10,120,2012,11,,,0,Lao People's Democratic Republic,0
+c10,121,2012,11,,,0,Lebanon,0
+c10,123,2012,11,,,0,Liberia,0
+c10,124,2012,11,,,0,Libya,0
+c10,126,2012,11,,185,0,Lithuania,0
+c10,127,2012,11,,,0,Marshall Islands,0
+c10,128,2012,11,,,0,"China, Macao SAR",0
+c10,129,2012,11,,,0,Madagascar,0
+c10,130,2012,11,,,0,Malawi,0
+c10,131,2012,11,,,0,Malaysia,0
+c10,132,2012,11,,,0,Maldives,0
+c10,133,2012,11,,,0,Mali,0
+c10,134,2012,11,,,0,Malta,0
+c10,136,2012,11,,,0,Mauritania,0
+c10,137,2012,11,,,0,Mauritius,0
+c10,138,2012,11,,55,0,Mexico,0
+c10,141,2012,11,,,0,Mongolia,0
+c10,142,2012,11,,,0,Montserrat,0
+c10,143,2012,11,,,0,Morocco,0
+c10,144,2012,11,,,0,Mozambique,0
+c10,145,2012,11,,,0,Micronesia (Federated States of),0
+c10,146,2012,11,,256,0,Republic of Moldova,0
+c10,148,2012,11,,,0,Nauru,0
+c10,149,2012,11,,,0,Nepal,0
+c10,150,2012,11,4523,132,1044,Netherlands,0
+c10,151,2012,11,,,0,Netherlands Antilles,0
+c10,153,2012,11,,0,0,New Caledonia,0
+c10,154,2012,11,,,0,North Macedonia,0
+c10,155,2012,11,,,0,Vanuatu,0
+c10,156,2012,11,,,0,New Zealand,0
+c10,157,2012,11,,,0,Nicaragua,0
+c10,158,2012,11,,,0,Niger,0
+c10,159,2012,11,,,0,Nigeria,0
+c10,160,2012,11,,,0,Niue,0
+c10,161,2012,11,,,0,Norfolk Island,0
+c10,162,2012,11,,0,0,Norway,0
+c10,163,2012,11,,,0,Northern Mariana Islands,0
+c10,165,2012,11,,,0,Pakistan,0
+c10,166,2012,11,,,0,Panama,0
+c10,167,2012,11,64816,11002,63261,Czechia,61699
+c10,168,2012,11,,,0,Papua New Guinea,0
+c10,169,2012,11,,0,0,Paraguay,0
+c10,170,2012,11,,,0,Peru,0
+c10,171,2012,11,,,0,Philippines,0
+c10,172,2012,11,,,0,Pitcairn Islands,0
+c10,173,2012,11,136,5219,111,Poland,2130
+c10,174,2012,11,,2,0,Portugal,0
+c10,175,2012,11,,,0,Guinea-Bissau,0
+c10,176,2012,11,,,0,Timor-Leste,0
+c10,178,2012,11,,,0,Eritrea,0
+c10,179,2012,11,,0,0,Qatar,0
+c10,180,2012,11,,,0,Palau,0
+c10,181,2012,11,,,0,Zimbabwe,0
+c10,183,2012,11,73,11913,58,Romania,2192
+c10,184,2012,11,,,0,Rwanda,0
+c10,185,2012,11,,878,0,Russian Federation,3
+c10,186,2012,11,,,0,Serbia and Montenegro,0
+c10,187,2012,11,,,0,"Saint Helena, Ascension and Tristan da Cunha",0
+c10,188,2012,11,,,0,Saint Kitts and Nevis,0
+c10,189,2012,11,,,0,Saint Lucia,0
+c10,190,2012,11,,,0,Saint Pierre and Miquelon,0
+c10,191,2012,11,,,0,Saint Vincent and the Grenadines,0
+c10,192,2012,11,,,0,San Marino,0
+c10,193,2012,11,,,0,Sao Tome and Principe,0
+c10,194,2012,11,,,0,Saudi Arabia,0
+c10,195,2012,11,,,0,Senegal,0
+c10,196,2012,11,,,0,Seychelles,0
+c10,197,2012,11,,,0,Sierra Leone,0
+c10,198,2012,11,13,8,4,Slovenia,0
+c10,199,2012,11,86,102,54,Slovakia,0
+c10,200,2012,11,,1,0,Singapore,0
+c10,201,2012,11,,,0,Somalia,0
+c10,202,2012,11,,0,0,South Africa,0
+c10,203,2012,11,788,36,50,Spain,0
+c10,207,2012,11,,,0,Suriname,0
+c10,208,2012,11,,,0,Tajikistan,0
+c10,210,2012,11,4,51,2,Sweden,0
+c10,211,2012,11,646,11,113,Switzerland,0
+c10,212,2012,11,,0,0,Syrian Arab Republic,0
+c10,213,2012,11,,,0,Turkmenistan,0
+c10,215,2012,11,,,0,United Republic of Tanzania,0
+c10,216,2012,11,,,0,Thailand,0
+c10,217,2012,11,,,0,Togo,0
+c10,218,2012,11,,,0,Tokelau,0
+c10,219,2012,11,,,0,Tonga,0
+c10,220,2012,11,,,0,Trinidad and Tobago,0
+c10,221,2012,11,,,0,Oman,0
+c10,222,2012,11,,,0,Tunisia,0
+c10,223,2012,11,43,115,35,Turkey,12
+c10,224,2012,11,,,0,Turks and Caicos Islands,0
+c10,225,2012,11,,0,0,United Arab Emirates,0
+c10,226,2012,11,,0,0,Uganda,0
+c10,227,2012,11,,,0,Tuvalu,0
+c10,228,2012,11,,,0,USSR,0
+c10,229,2012,11,401,4007,505,United Kingdom,1476
+c10,230,2012,11,520,1273,346,Ukraine,0
+c10,231,2012,11,386,7163,78,United States of America,119
+c10,233,2012,11,,,0,Burkina Faso,0
+c10,234,2012,11,,1,0,Uruguay,0
+c10,235,2012,11,,,0,Uzbekistan,0
+c10,236,2012,11,,,0,Venezuela (Bolivarian Republic of),0
+c10,237,2012,11,,2,0,Viet Nam,0
+c10,238,2012,11,,,0,Ethiopia,0
+c10,239,2012,11,,,0,British Virgin Islands,0
+c10,243,2012,11,,,0,Wallis and Futuna Islands,0
+c10,244,2012,11,,,0,Samoa,0
+c10,249,2012,11,,,0,Yemen,0
+c10,250,2012,11,,,0,Democratic Republic of the Congo,0
+c10,251,2012,11,,,0,Zambia,0
+c10,255,2012,11,,5800,0,Belgium,4230
+c10,256,2012,11,,5634,0,Luxembourg,6351
+c10,258,2012,11,,,0,Anguilla,0
+c10,272,2012,11,15,23,13,Serbia,0
+c10,273,2012,11,,0,0,Montenegro,0
+c10,276,2012,11,,,0,Sudan,0
+c10,277,2012,11,,,0,South Sudan,0
+c10,279,2012,11,,,0,Curaçao,0
+c10,299,2012,11,,,0,Palestine,0
+c10,999,2012,11,,,0,"",0
+c11a,1,2012,11,,,0,Armenia,0
+c11a,2,2012,11,,0,0,Afghanistan,0
+c11a,3,2012,11,,,0,Albania,0
+c11a,4,2012,11,,,0,Algeria,0
+c11a,6,2012,11,,,0,Andorra,0
+c11a,7,2012,11,,12,0,Angola,0
+c11a,9,2012,11,,2133,0,Argentina,1239
+c11a,10,2012,11,,7,0,Australia,0
+c11a,11,2012,11,,,0,Austria,1090736
+c11a,12,2012,11,,3,0,Bahamas,2
+c11a,13,2012,11,,3,0,Bahrain,0
+c11a,14,2012,11,,0,0,Barbados,0
+c11a,15,2012,11,,,0,Belgium-Luxembourg,0
+c11a,16,2012,11,,1,0,Bangladesh,0
+c11a,17,2012,11,,,0,Bermuda,0
+c11a,18,2012,11,,0,0,Bhutan,0
+c11a,19,2012,11,,,0,Bolivia (Plurinational State of),0
+c11a,21,2012,11,92316,111051,71453,Brazil,122227
+c11a,22,2012,11,,,0,Aruba,0
+c11a,23,2012,11,,0,0,Belize,0
+c11a,24,2012,11,,,0,British Indian Ocean Territory,0
+c11a,25,2012,11,,,0,Solomon Islands,0
+c11a,26,2012,11,,0,0,Brunei Darussalam,0
+c11a,27,2012,11,1253,1079,806,Bulgaria,802
+c11a,28,2012,11,,0,0,Myanmar,0
+c11a,29,2012,11,,,0,Burundi,0
+c11a,32,2012,11,,,0,Cameroon,0
+c11a,33,2012,11,107,91647,77,Canada,6205
+c11a,35,2012,11,,,0,Cabo Verde,0
+c11a,36,2012,11,,,0,Cayman Islands,0
+c11a,37,2012,11,,,0,Central African Republic,0
+c11a,38,2012,11,,3,0,Sri Lanka,0
+c11a,39,2012,11,,,0,Chad,0
+c11a,40,2012,11,33164,56182,25171,Chile,43067
+c11a,41,2012,11,,288,0,"China, mainland",2
+c11a,42,2012,11,,,0,Christmas Island,0
+c11a,43,2012,11,,,0,Cocos (Keeling) Islands,0
+c11a,44,2012,11,,4,0,Colombia,0
+c11a,45,2012,11,,,0,Comoros,0
+c11a,46,2012,11,,,0,Congo,0
+c11a,47,2012,11,,,0,Cook Islands,0
+c11a,48,2012,11,,2,0,Costa Rica,0
+c11a,49,2012,11,,,0,Cuba,0
+c11a,50,2012,11,559,,0,Cyprus,0
+c11a,51,2012,11,,,0,Czechoslovakia,0
+c11a,52,2012,11,,,0,Azerbaijan,0
+c11a,53,2012,11,,,0,Benin,0
+c11a,54,2012,11,,31,0,Denmark,0
+c11a,55,2012,11,,0,0,Dominica,0
+c11a,56,2012,11,,,0,Dominican Republic,0
+c11a,57,2012,11,,,0,Belarus,0
+c11a,58,2012,11,,1,0,Ecuador,0
+c11a,59,2012,11,,2,0,Egypt,1
+c11a,60,2012,11,,8,0,El Salvador,0
+c11a,61,2012,11,,,0,Equatorial Guinea,0
+c11a,63,2012,11,,40,0,Estonia,14
+c11a,65,2012,11,,,0,Falkland Islands (Malvinas),0
+c11a,66,2012,11,,0,0,Fiji,0
+c11a,67,2012,11,2948,31176,2335,Finland,25020
+c11a,68,2012,11,96,5731,58,France,1657
+c11a,70,2012,11,,,0,French Polynesia,0
+c11a,71,2012,11,,,0,French Southern and Antarctic Territories,0
+c11a,72,2012,11,,0,0,Djibouti,0
+c11a,73,2012,11,,,0,Georgia,0
+c11a,74,2012,11,,0,0,Gabon,0
+c11a,75,2012,11,,,0,Gambia,0
+c11a,79,2012,11,286082,14270,248259,Germany,55629
+c11a,80,2012,11,,,0,Bosnia and Herzegovina,0
+c11a,81,2012,11,,,0,Ghana,0
+c11a,82,2012,11,,,0,Gibraltar,0
+c11a,83,2012,11,,,0,Kiribati,0
+c11a,84,2012,11,,168,0,Greece,0
+c11a,85,2012,11,,,0,Greenland,0
+c11a,86,2012,11,,,0,Grenada,0
+c11a,88,2012,11,,,0,Guam,0
+c11a,89,2012,11,,0,0,Guatemala,0
+c11a,90,2012,11,,,0,Guinea,0
+c11a,91,2012,11,,,0,Guyana,0
+c11a,93,2012,11,,1,0,Haiti,1
+c11a,95,2012,11,,,0,Honduras,0
+c11a,96,2012,11,,8,0,"China, Hong Kong SAR",0
+c11a,97,2012,11,5,58,1,Hungary,0
+c11a,98,2012,11,,,0,Croatia,0
+c11a,99,2012,11,,,0,Iceland,0
+c11a,100,2012,11,,31,0,India,4
+c11a,101,2012,11,,41791,0,Indonesia,910
+c11a,102,2012,11,,,0,Iran (Islamic Republic of),0
+c11a,103,2012,11,,0,0,Iraq,0
+c11a,104,2012,11,,,0,Ireland,0
+c11a,105,2012,11,,,0,Israel,0
+c11a,106,2012,11,54,137,27,Italy,0
+c11a,107,2012,11,,3,0,Cote d'Ivoire,0
+c11a,108,2012,11,,,0,Kazakhstan,0
+c11a,109,2012,11,,,0,Jamaica,0
+c11a,110,2012,11,0,4249,0,Japan,543
+c11a,112,2012,11,,5,0,Jordan,0
+c11a,113,2012,11,,,0,Kyrgyzstan,0
+c11a,114,2012,11,,1,0,Kenya,0
+c11a,115,2012,11,,1,0,Cambodia,1
+c11a,116,2012,11,,5,0,Democratic People's Republic of Korea,4
+c11a,117,2012,11,,161,0,Republic of Korea,3
+c11a,118,2012,11,,12,0,Kuwait,0
+c11a,119,2012,11,,1,0,Latvia,0
+c11a,120,2012,11,,0,0,Lao People's Democratic Republic,0
+c11a,121,2012,11,,3,0,Lebanon,0
+c11a,123,2012,11,,,0,Liberia,0
+c11a,124,2012,11,,,0,Libya,0
+c11a,126,2012,11,,500,0,Lithuania,0
+c11a,127,2012,11,,,0,Marshall Islands,0
+c11a,128,2012,11,,,0,"China, Macao SAR",0
+c11a,129,2012,11,,,0,Madagascar,0
+c11a,130,2012,11,,0,0,Malawi,0
+c11a,131,2012,11,,738,0,Malaysia,34
+c11a,132,2012,11,,,0,Maldives,0
+c11a,133,2012,11,,,0,Mali,0
+c11a,134,2012,11,,,0,Malta,0
+c11a,136,2012,11,,,0,Mauritania,0
+c11a,137,2012,11,,0,0,Mauritius,0
+c11a,138,2012,11,,2,0,Mexico,0
+c11a,141,2012,11,,1,0,Mongolia,0
+c11a,142,2012,11,,,0,Montserrat,0
+c11a,143,2012,11,,1309,0,Morocco,162
+c11a,144,2012,11,,,0,Mozambique,0
+c11a,145,2012,11,,,0,Micronesia (Federated States of),0
+c11a,146,2012,11,,,0,Republic of Moldova,0
+c11a,148,2012,11,,,0,Nauru,0
+c11a,149,2012,11,,2,0,Nepal,1
+c11a,150,2012,11,55249,28719,94139,Netherlands,0
+c11a,151,2012,11,,,0,Netherlands Antilles,0
+c11a,153,2012,11,,,0,New Caledonia,0
+c11a,154,2012,11,,0,0,North Macedonia,0
+c11a,155,2012,11,,,0,Vanuatu,0
+c11a,156,2012,11,1,6099,1,New Zealand,1010
+c11a,157,2012,11,,0,0,Nicaragua,0
+c11a,158,2012,11,,,0,Niger,0
+c11a,159,2012,11,,4,0,Nigeria,0
+c11a,160,2012,11,,,0,Niue,0
+c11a,161,2012,11,,,0,Norfolk Island,0
+c11a,162,2012,11,,3149,0,Norway,1776
+c11a,163,2012,11,,,0,Northern Mariana Islands,0
+c11a,165,2012,11,,6,0,Pakistan,0
+c11a,166,2012,11,,,0,Panama,0
+c11a,167,2012,11,23325,3175,16194,Czechia,12738
+c11a,168,2012,11,,4,0,Papua New Guinea,1
+c11a,169,2012,11,,,0,Paraguay,0
+c11a,170,2012,11,,0,0,Peru,0
+c11a,171,2012,11,100,0,0,Philippines,0
+c11a,172,2012,11,,,0,Pitcairn Islands,0
+c11a,173,2012,11,1144,240,523,Poland,448
+c11a,174,2012,11,4822,13992,3153,Portugal,18392
+c11a,175,2012,11,,3,0,Guinea-Bissau,0
+c11a,176,2012,11,,0,0,Timor-Leste,0
+c11a,178,2012,11,,6,0,Eritrea,4
+c11a,179,2012,11,,2,0,Qatar,0
+c11a,180,2012,11,,,0,Palau,0
+c11a,181,2012,11,,0,0,Zimbabwe,0
+c11a,183,2012,11,,10,0,Romania,0
+c11a,184,2012,11,,,0,Rwanda,0
+c11a,185,2012,11,24745,26113,17925,Russian Federation,18624
+c11a,186,2012,11,,,0,Serbia and Montenegro,0
+c11a,187,2012,11,,,0,"Saint Helena, Ascension and Tristan da Cunha",0
+c11a,188,2012,11,,,0,Saint Kitts and Nevis,0
+c11a,189,2012,11,,,0,Saint Lucia,0
+c11a,190,2012,11,,,0,Saint Pierre and Miquelon,0
+c11a,191,2012,11,,,0,Saint Vincent and the Grenadines,0
+c11a,192,2012,11,,,0,San Marino,0
+c11a,193,2012,11,,,0,Sao Tome and Principe,0
+c11a,194,2012,11,,10,0,Saudi Arabia,0
+c11a,195,2012,11,,,0,Senegal,0
+c11a,196,2012,11,14,,0,Seychelles,0
+c11a,197,2012,11,,9,0,Sierra Leone,0
+c11a,198,2012,11,441,21,186,Slovenia,0
+c11a,199,2012,11,41175,2534,28301,Slovakia,19543
+c11a,200,2012,11,,1287,0,Singapore,0
+c11a,201,2012,11,,1,0,Somalia,0
+c11a,202,2012,11,,2040,0,South Africa,1381
+c11a,203,2012,11,30168,14955,19696,Spain,20427
+c11a,207,2012,11,,,0,Suriname,0
+c11a,208,2012,11,,,0,Tajikistan,0
+c11a,210,2012,11,110478,34451,81610,Sweden,102101
+c11a,211,2012,11,2687,4,118,Switzerland,0
+c11a,212,2012,11,,0,0,Syrian Arab Republic,0
+c11a,213,2012,11,,,0,Turkmenistan,0
+c11a,215,2012,11,,0,0,United Republic of Tanzania,0
+c11a,216,2012,11,,439,0,Thailand,25
+c11a,217,2012,11,,0,0,Togo,0
+c11a,218,2012,11,,,0,Tokelau,0
+c11a,219,2012,11,,,0,Tonga,0
+c11a,220,2012,11,,,0,Trinidad and Tobago,0
+c11a,221,2012,11,,,0,Oman,0
+c11a,222,2012,11,,11,0,Tunisia,0
+c11a,223,2012,11,,20,0,Turkey,0
+c11a,224,2012,11,,,0,Turks and Caicos Islands,0
+c11a,225,2012,11,,10,0,United Arab Emirates,0
+c11a,226,2012,11,,1,0,Uganda,0
+c11a,227,2012,11,,,0,Tuvalu,0
+c11a,228,2012,11,,,0,USSR,0
+c11a,229,2012,11,153,146,20,United Kingdom,0
+c11a,230,2012,11,,,0,Ukraine,0
+c11a,231,2012,11,414,91616,335,United States of America,29542
+c11a,233,2012,11,,1,0,Burkina Faso,0
+c11a,234,2012,11,872,14939,792,Uruguay,9646
+c11a,235,2012,11,,25,0,Uzbekistan,13
+c11a,236,2012,11,,0,0,Venezuela (Bolivarian Republic of),0
+c11a,237,2012,11,,483,0,Viet Nam,35
+c11a,238,2012,11,,,0,Ethiopia,0
+c11a,239,2012,11,,,0,British Virgin Islands,0
+c11a,243,2012,11,,,0,Wallis and Futuna Islands,0
+c11a,244,2012,11,,,0,Samoa,0
+c11a,249,2012,11,,,0,Yemen,0
+c11a,250,2012,11,,1,0,Democratic Republic of the Congo,0
+c11a,251,2012,11,,,0,Zambia,0
+c11a,255,2012,11,,9469,0,Belgium,1966
+c11a,256,2012,11,,,0,Luxembourg,0
+c11a,258,2012,11,,,0,Anguilla,0
+c11a,272,2012,11,,,0,Serbia,0
+c11a,273,2012,11,,,0,Montenegro,0
+c11a,276,2012,11,,,0,Sudan,0
+c11a,277,2012,11,,,0,South Sudan,0
+c11a,279,2012,11,,,0,Curaçao,0
+c11a,299,2012,11,,,0,Palestine,0
+c11a,999,2012,11,,241,0,"",66
+c11b,1,2012,11,,,0,Armenia,0
+c11b,2,2012,11,,,0,Afghanistan,0
+c11b,3,2012,11,,0,0,Albania,0
+c11b,4,2012,11,,,0,Algeria,0
+c11b,6,2012,11,,,0,Andorra,0
+c11b,7,2012,11,,,0,Angola,0
+c11b,9,2012,11,,,0,Argentina,0
+c11b,10,2012,11,,,0,Australia,0
+c11b,11,2012,11,,,0,Austria,389217
+c11b,12,2012,11,,,0,Bahamas,0
+c11b,13,2012,11,,0,0,Bahrain,0
+c11b,14,2012,11,,,0,Barbados,0
+c11b,15,2012,11,,,0,Belgium-Luxembourg,0
+c11b,16,2012,11,,,0,Bangladesh,0
+c11b,17,2012,11,,,0,Bermuda,0
+c11b,18,2012,11,,,0,Bhutan,0
+c11b,19,2012,11,,,0,Bolivia (Plurinational State of),0
+c11b,21,2012,11,,0,0,Brazil,0
+c11b,22,2012,11,,,0,Aruba,0
+c11b,23,2012,11,,,0,Belize,0
+c11b,24,2012,11,,,0,British Indian Ocean Territory,0
+c11b,25,2012,11,,,0,Solomon Islands,0
+c11b,26,2012,11,,,0,Brunei Darussalam,0
+c11b,27,2012,11,,,0,Bulgaria,0
+c11b,28,2012,11,,12,0,Myanmar,0
+c11b,29,2012,11,,,0,Burundi,0
+c11b,32,2012,11,,,0,Cameroon,0
+c11b,33,2012,11,,24727,0,Canada,569
+c11b,35,2012,11,,,0,Cabo Verde,0
+c11b,36,2012,11,,,0,Cayman Islands,0
+c11b,37,2012,11,,,0,Central African Republic,0
+c11b,38,2012,11,,0,0,Sri Lanka,0
+c11b,39,2012,11,,,0,Chad,0
+c11b,40,2012,11,,0,0,Chile,0
+c11b,41,2012,11,,4,0,"China, mainland",0
+c11b,42,2012,11,,,0,Christmas Island,0
+c11b,43,2012,11,,,0,Cocos (Keeling) Islands,0
+c11b,44,2012,11,,,0,Colombia,0
+c11b,45,2012,11,,,0,Comoros,0
+c11b,46,2012,11,,,0,Congo,0
+c11b,47,2012,11,,,0,Cook Islands,0
+c11b,48,2012,11,,0,0,Costa Rica,0
+c11b,49,2012,11,,,0,Cuba,0
+c11b,50,2012,11,,,0,Cyprus,0
+c11b,51,2012,11,,,0,Czechoslovakia,0
+c11b,52,2012,11,,,0,Azerbaijan,0
+c11b,53,2012,11,,,0,Benin,0
+c11b,54,2012,11,,161,0,Denmark,0
+c11b,55,2012,11,,,0,Dominica,0
+c11b,56,2012,11,,,0,Dominican Republic,0
+c11b,57,2012,11,,0,0,Belarus,0
+c11b,58,2012,11,,0,0,Ecuador,0
+c11b,59,2012,11,,0,0,Egypt,0
+c11b,60,2012,11,,0,0,El Salvador,0
+c11b,61,2012,11,,,0,Equatorial Guinea,0
+c11b,63,2012,11,47,1613,29,Estonia,908
+c11b,65,2012,11,,,0,Falkland Islands (Malvinas),0
+c11b,66,2012,11,,,0,Fiji,0
+c11b,67,2012,11,39,2566,38,Finland,948
+c11b,68,2012,11,1,53,1,France,6
+c11b,70,2012,11,,,0,French Polynesia,0
+c11b,71,2012,11,,,0,French Southern and Antarctic Territories,0
+c11b,72,2012,11,,,0,Djibouti,0
+c11b,73,2012,11,,,0,Georgia,0
+c11b,74,2012,11,,,0,Gabon,0
+c11b,75,2012,11,,,0,Gambia,0
+c11b,79,2012,11,53168,865,41613,Germany,35667
+c11b,80,2012,11,,,0,Bosnia and Herzegovina,0
+c11b,81,2012,11,,,0,Ghana,0
+c11b,82,2012,11,,,0,Gibraltar,0
+c11b,83,2012,11,,,0,Kiribati,0
+c11b,84,2012,11,,0,0,Greece,0
+c11b,85,2012,11,,,0,Greenland,0
+c11b,86,2012,11,,,0,Grenada,0
+c11b,88,2012,11,,,0,Guam,0
+c11b,89,2012,11,,,0,Guatemala,0
+c11b,90,2012,11,,,0,Guinea,0
+c11b,91,2012,11,,,0,Guyana,0
+c11b,93,2012,11,,,0,Haiti,0
+c11b,95,2012,11,,,0,Honduras,0
+c11b,96,2012,11,,2,0,"China, Hong Kong SAR",0
+c11b,97,2012,11,1502,15,990,Hungary,961
+c11b,98,2012,11,4527,326,2713,Croatia,2812
+c11b,99,2012,11,,,0,Iceland,0
+c11b,100,2012,11,,0,0,India,0
+c11b,101,2012,11,,,0,Indonesia,0
+c11b,102,2012,11,,1,0,Iran (Islamic Republic of),0
+c11b,103,2012,11,,,0,Iraq,0
+c11b,104,2012,11,,0,0,Ireland,0
+c11b,105,2012,11,,,0,Israel,0
+c11b,106,2012,11,49,306,30,Italy,307
+c11b,107,2012,11,,,0,Cote d'Ivoire,0
+c11b,108,2012,11,,,0,Kazakhstan,0
+c11b,109,2012,11,,,0,Jamaica,0
+c11b,110,2012,11,,11,0,Japan,0
+c11b,112,2012,11,,0,0,Jordan,0
+c11b,113,2012,11,,,0,Kyrgyzstan,0
+c11b,114,2012,11,,0,0,Kenya,0
+c11b,115,2012,11,,,0,Cambodia,0
+c11b,116,2012,11,,,0,Democratic People's Republic of Korea,0
+c11b,117,2012,11,,3,0,Republic of Korea,0
+c11b,118,2012,11,,,0,Kuwait,0
+c11b,119,2012,11,,,0,Latvia,0
+c11b,120,2012,11,,0,0,Lao People's Democratic Republic,0
+c11b,121,2012,11,,1,0,Lebanon,0
+c11b,123,2012,11,,,0,Liberia,0
+c11b,124,2012,11,,,0,Libya,0
+c11b,126,2012,11,,25,0,Lithuania,0
+c11b,127,2012,11,,,0,Marshall Islands,0
+c11b,128,2012,11,,,0,"China, Macao SAR",0
+c11b,129,2012,11,,,0,Madagascar,0
+c11b,130,2012,11,,,0,Malawi,0
+c11b,131,2012,11,,1,0,Malaysia,0
+c11b,132,2012,11,,,0,Maldives,0
+c11b,133,2012,11,,,0,Mali,0
+c11b,134,2012,11,,,0,Malta,0
+c11b,136,2012,11,,,0,Mauritania,0
+c11b,137,2012,11,,,0,Mauritius,0
+c11b,138,2012,11,,0,0,Mexico,0
+c11b,141,2012,11,,,0,Mongolia,0
+c11b,142,2012,11,,,0,Montserrat,0
+c11b,143,2012,11,,98,0,Morocco,0
+c11b,144,2012,11,,,0,Mozambique,0
+c11b,145,2012,11,,,0,Micronesia (Federated States of),0
+c11b,146,2012,11,,,0,Republic of Moldova,0
+c11b,148,2012,11,,,0,Nauru,0
+c11b,149,2012,11,,0,0,Nepal,0
+c11b,150,2012,11,202,1559,192,Netherlands,486
+c11b,151,2012,11,,,0,Netherlands Antilles,0
+c11b,153,2012,11,,,0,New Caledonia,0
+c11b,154,2012,11,,,0,North Macedonia,0
+c11b,155,2012,11,,,0,Vanuatu,0
+c11b,156,2012,11,,4314,0,New Zealand,1
+c11b,157,2012,11,,,0,Nicaragua,0
+c11b,158,2012,11,,,0,Niger,0
+c11b,159,2012,11,,0,0,Nigeria,0
+c11b,160,2012,11,,,0,Niue,0
+c11b,161,2012,11,,,0,Norfolk Island,0
+c11b,162,2012,11,,1474,0,Norway,1172
+c11b,163,2012,11,,,0,Northern Mariana Islands,0
+c11b,165,2012,11,,10,0,Pakistan,0
+c11b,166,2012,11,,,0,Panama,0
+c11b,167,2012,11,,0,0,Czechia,0
+c11b,168,2012,11,,,0,Papua New Guinea,0
+c11b,169,2012,11,,,0,Paraguay,0
+c11b,170,2012,11,,,0,Peru,0
+c11b,171,2012,11,,,0,Philippines,0
+c11b,172,2012,11,,,0,Pitcairn Islands,0
+c11b,173,2012,11,,0,0,Poland,0
+c11b,174,2012,11,,0,0,Portugal,0
+c11b,175,2012,11,,,0,Guinea-Bissau,0
+c11b,176,2012,11,,,0,Timor-Leste,0
+c11b,178,2012,11,,,0,Eritrea,0
+c11b,179,2012,11,,0,0,Qatar,0
+c11b,180,2012,11,,,0,Palau,0
+c11b,181,2012,11,,,0,Zimbabwe,0
+c11b,183,2012,11,,,0,Romania,0
+c11b,184,2012,11,,,0,Rwanda,0
+c11b,185,2012,11,,2102,0,Russian Federation,248
+c11b,186,2012,11,,,0,Serbia and Montenegro,0
+c11b,187,2012,11,,,0,"Saint Helena, Ascension and Tristan da Cunha",0
+c11b,188,2012,11,,,0,Saint Kitts and Nevis,0
+c11b,189,2012,11,,,0,Saint Lucia,0
+c11b,190,2012,11,,,0,Saint Pierre and Miquelon,0
+c11b,191,2012,11,,,0,Saint Vincent and the Grenadines,0
+c11b,192,2012,11,,,0,San Marino,0
+c11b,193,2012,11,,,0,Sao Tome and Principe,0
+c11b,194,2012,11,,2,0,Saudi Arabia,0
+c11b,195,2012,11,,,0,Senegal,0
+c11b,196,2012,11,,,0,Seychelles,0
+c11b,197,2012,11,,,0,Sierra Leone,0
+c11b,198,2012,11,270,4,145,Slovenia,125
+c11b,199,2012,11,,12,0,Slovakia,1
+c11b,200,2012,11,,21,0,Singapore,0
+c11b,201,2012,11,,,0,Somalia,0
+c11b,202,2012,11,,2,0,South Africa,0
+c11b,203,2012,11,,15,0,Spain,10
+c11b,207,2012,11,,,0,Suriname,0
+c11b,208,2012,11,,,0,Tajikistan,0
+c11b,210,2012,11,144,3307,107,Sweden,1549
+c11b,211,2012,11,1562,4,201,Switzerland,198
+c11b,212,2012,11,,,0,Syrian Arab Republic,0
+c11b,213,2012,11,,,0,Turkmenistan,0
+c11b,215,2012,11,,1,0,United Republic of Tanzania,0
+c11b,216,2012,11,,38,0,Thailand,0
+c11b,217,2012,11,,,0,Togo,0
+c11b,218,2012,11,,,0,Tokelau,0
+c11b,219,2012,11,,,0,Tonga,0
+c11b,220,2012,11,,,0,Trinidad and Tobago,0
+c11b,221,2012,11,,2,0,Oman,0
+c11b,222,2012,11,0,,0,Tunisia,0
+c11b,223,2012,11,,,0,Turkey,0
+c11b,224,2012,11,,,0,Turks and Caicos Islands,0
+c11b,225,2012,11,,1,0,United Arab Emirates,0
+c11b,226,2012,11,,0,0,Uganda,0
+c11b,227,2012,11,,,0,Tuvalu,0
+c11b,228,2012,11,,,0,USSR,0
+c11b,229,2012,11,2,11,2,United Kingdom,15
+c11b,230,2012,11,,,0,Ukraine,0
+c11b,231,2012,11,0,5648,0,United States of America,6
+c11b,233,2012,11,,,0,Burkina Faso,0
+c11b,234,2012,11,,,0,Uruguay,0
+c11b,235,2012,11,,,0,Uzbekistan,0
+c11b,236,2012,11,,,0,Venezuela (Bolivarian Republic of),0
+c11b,237,2012,11,,21,0,Viet Nam,0
+c11b,238,2012,11,,0,0,Ethiopia,0
+c11b,239,2012,11,,,0,British Virgin Islands,0
+c11b,243,2012,11,,,0,Wallis and Futuna Islands,0
+c11b,244,2012,11,,,0,Samoa,0
+c11b,249,2012,11,,,0,Yemen,0
+c11b,250,2012,11,,1,0,Democratic Republic of the Congo,0
+c11b,251,2012,11,,,0,Zambia,0
+c11b,255,2012,11,,20,0,Belgium,0
+c11b,256,2012,11,,,0,Luxembourg,0
+c11b,258,2012,11,,,0,Anguilla,0
+c11b,272,2012,11,,,0,Serbia,0
+c11b,273,2012,11,,,0,Montenegro,0
+c11b,276,2012,11,,,0,Sudan,0
+c11b,277,2012,11,,,0,South Sudan,0
+c11b,279,2012,11,,,0,Curaçao,0
+c11b,299,2012,11,,,0,Palestine,0
+c11b,999,2012,11,,0,0,"",0
+c11c,1,2012,11,,,0,Armenia,0
+c11c,2,2012,11,,,0,Afghanistan,0
+c11c,3,2012,11,,,0,Albania,0
+c11c,4,2012,11,,,0,Algeria,0
+c11c,6,2012,11,,,0,Andorra,0
+c11c,7,2012,11,,,0,Angola,0
+c11c,9,2012,11,,0,0,Argentina,0
+c11c,10,2012,11,,2,0,Australia,0
+c11c,11,2012,11,,,0,Austria,0
+c11c,12,2012,11,,,0,Bahamas,0
+c11c,13,2012,11,,7,0,Bahrain,0
+c11c,14,2012,11,,3,0,Barbados,0
+c11c,15,2012,11,,,0,Belgium-Luxembourg,0
+c11c,16,2012,11,,20,0,Bangladesh,0
+c11c,17,2012,11,,,0,Bermuda,0
+c11c,18,2012,11,,,0,Bhutan,0
+c11c,19,2012,11,,80,0,Bolivia (Plurinational State of),0
+c11c,21,2012,11,,1,0,Brazil,0
+c11c,22,2012,11,,,0,Aruba,0
+c11c,23,2012,11,,12,0,Belize,0
+c11c,24,2012,11,,,0,British Indian Ocean Territory,0
+c11c,25,2012,11,,,0,Solomon Islands,0
+c11c,26,2012,11,,,0,Brunei Darussalam,0
+c11c,27,2012,11,1340,,0,Bulgaria,0
+c11c,28,2012,11,,136,0,Myanmar,1
+c11c,29,2012,11,,2,0,Burundi,0
+c11c,32,2012,11,,,0,Cameroon,0
+c11c,33,2012,11,116,6,0,Canada,1
+c11c,35,2012,11,,,0,Cabo Verde,0
+c11c,36,2012,11,,,0,Cayman Islands,0
+c11c,37,2012,11,,0,0,Central African Republic,0
+c11c,38,2012,11,,2,0,Sri Lanka,1
+c11c,39,2012,11,,,0,Chad,0
+c11c,40,2012,11,,25,0,Chile,0
+c11c,41,2012,11,,7860,0,"China, mainland",843
+c11c,42,2012,11,,,0,Christmas Island,0
+c11c,43,2012,11,,,0,Cocos (Keeling) Islands,0
+c11c,44,2012,11,,5,0,Colombia,0
+c11c,45,2012,11,,,0,Comoros,0
+c11c,46,2012,11,,,0,Congo,0
+c11c,47,2012,11,,,0,Cook Islands,0
+c11c,48,2012,11,,5,0,Costa Rica,0
+c11c,49,2012,11,,,0,Cuba,0
+c11c,50,2012,11,,,0,Cyprus,0
+c11c,51,2012,11,,,0,Czechoslovakia,0
+c11c,52,2012,11,,,0,Azerbaijan,0
+c11c,53,2012,11,,,0,Benin,0
+c11c,54,2012,11,,6895,0,Denmark,5919
+c11c,55,2012,11,,,0,Dominica,0
+c11c,56,2012,11,,,0,Dominican Republic,0
+c11c,57,2012,11,,172,0,Belarus,0
+c11c,58,2012,11,,,0,Ecuador,0
+c11c,59,2012,11,,3,0,Egypt,0
+c11c,60,2012,11,,0,0,El Salvador,0
+c11c,61,2012,11,,,0,Equatorial Guinea,0
+c11c,63,2012,11,74,0,0,Estonia,0
+c11c,65,2012,11,,,0,Falkland Islands (Malvinas),0
+c11c,66,2012,11,,,0,Fiji,0
+c11c,67,2012,11,6480,1,6,Finland,0
+c11c,68,2012,11,8594,4200,18114,France,16740
+c11c,70,2012,11,,,0,French Polynesia,0
+c11c,71,2012,11,,,0,French Southern and Antarctic Territories,0
+c11c,72,2012,11,,,0,Djibouti,0
+c11c,73,2012,11,,,0,Georgia,0
+c11c,74,2012,11,,,0,Gabon,0
+c11c,75,2012,11,,,0,Gambia,0
+c11c,79,2012,11,50171,1516,4868,Germany,0
+c11c,80,2012,11,,,0,Bosnia and Herzegovina,0
+c11c,81,2012,11,,,0,Ghana,0
+c11c,82,2012,11,,,0,Gibraltar,0
+c11c,83,2012,11,,,0,Kiribati,0
+c11c,84,2012,11,,1,0,Greece,0
+c11c,85,2012,11,,,0,Greenland,0
+c11c,86,2012,11,,,0,Grenada,0
+c11c,88,2012,11,,,0,Guam,0
+c11c,89,2012,11,,0,0,Guatemala,0
+c11c,90,2012,11,,,0,Guinea,0
+c11c,91,2012,11,,,0,Guyana,0
+c11c,93,2012,11,,,0,Haiti,0
+c11c,95,2012,11,,1,0,Honduras,0
+c11c,96,2012,11,,3,0,"China, Hong Kong SAR",0
+c11c,97,2012,11,,2100,0,Hungary,1555
+c11c,98,2012,11,,1,0,Croatia,0
+c11c,99,2012,11,,,0,Iceland,0
+c11c,100,2012,11,,33,0,India,1
+c11c,101,2012,11,,76,0,Indonesia,0
+c11c,102,2012,11,,15,0,Iran (Islamic Republic of),0
+c11c,103,2012,11,,,0,Iraq,0
+c11c,104,2012,11,,0,0,Ireland,0
+c11c,105,2012,11,,145,0,Israel,134
+c11c,106,2012,11,0,94,0,Italy,31
+c11c,107,2012,11,,,0,Cote d'Ivoire,0
+c11c,108,2012,11,,97,0,Kazakhstan,0
+c11c,109,2012,11,,3,0,Jamaica,0
+c11c,110,2012,11,,19,0,Japan,0
+c11c,112,2012,11,,,0,Jordan,0
+c11c,113,2012,11,,,0,Kyrgyzstan,0
+c11c,114,2012,11,,,0,Kenya,0
+c11c,115,2012,11,,,0,Cambodia,0
+c11c,116,2012,11,,23,0,Democratic People's Republic of Korea,0
+c11c,117,2012,11,,3,0,Republic of Korea,0
+c11c,118,2012,11,,82,0,Kuwait,0
+c11c,119,2012,11,,0,0,Latvia,0
+c11c,120,2012,11,,,0,Lao People's Democratic Republic,0
+c11c,121,2012,11,,,0,Lebanon,0
+c11c,123,2012,11,,,0,Liberia,0
+c11c,124,2012,11,,,0,Libya,0
+c11c,126,2012,11,,28,0,Lithuania,0
+c11c,127,2012,11,,,0,Marshall Islands,0
+c11c,128,2012,11,,,0,"China, Macao SAR",0
+c11c,129,2012,11,,,0,Madagascar,0
+c11c,130,2012,11,,245,0,Malawi,0
+c11c,131,2012,11,,12,0,Malaysia,0
+c11c,132,2012,11,,,0,Maldives,0
+c11c,133,2012,11,,,0,Mali,0
+c11c,134,2012,11,,,0,Malta,0
+c11c,136,2012,11,,,0,Mauritania,0
+c11c,137,2012,11,,,0,Mauritius,0
+c11c,138,2012,11,,0,0,Mexico,0
+c11c,141,2012,11,,,0,Mongolia,0
+c11c,142,2012,11,,,0,Montserrat,0
+c11c,143,2012,11,,,0,Morocco,0
+c11c,144,2012,11,,,0,Mozambique,0
+c11c,145,2012,11,,,0,Micronesia (Federated States of),0
+c11c,146,2012,11,,,0,Republic of Moldova,0
+c11c,148,2012,11,,,0,Nauru,0
+c11c,149,2012,11,,61,0,Nepal,0
+c11c,150,2012,11,1596,1253,4643,Netherlands,0
+c11c,151,2012,11,,,0,Netherlands Antilles,0
+c11c,153,2012,11,,,0,New Caledonia,0
+c11c,154,2012,11,,,0,North Macedonia,0
+c11c,155,2012,11,,,0,Vanuatu,0
+c11c,156,2012,11,,,0,New Zealand,0
+c11c,157,2012,11,,3,0,Nicaragua,0
+c11c,158,2012,11,,0,0,Niger,0
+c11c,159,2012,11,,,0,Nigeria,0
+c11c,160,2012,11,,,0,Niue,0
+c11c,161,2012,11,,,0,Norfolk Island,0
+c11c,162,2012,11,,1,0,Norway,0
+c11c,163,2012,11,,,0,Northern Mariana Islands,0
+c11c,165,2012,11,,10,0,Pakistan,0
+c11c,166,2012,11,,,0,Panama,0
+c11c,167,2012,11,4839,368,1945,Czechia,1296
+c11c,168,2012,11,,,0,Papua New Guinea,0
+c11c,169,2012,11,,,0,Paraguay,0
+c11c,170,2012,11,,0,0,Peru,0
+c11c,171,2012,11,175,2836,412,Philippines,1419
+c11c,172,2012,11,,,0,Pitcairn Islands,0
+c11c,173,2012,11,,80,0,Poland,3
+c11c,174,2012,11,,12,0,Portugal,0
+c11c,175,2012,11,,,0,Guinea-Bissau,0
+c11c,176,2012,11,,,0,Timor-Leste,0
+c11c,178,2012,11,,,0,Eritrea,0
+c11c,179,2012,11,,3,0,Qatar,0
+c11c,180,2012,11,,,0,Palau,0
+c11c,181,2012,11,,1,0,Zimbabwe,0
+c11c,183,2012,11,,2,0,Romania,0
+c11c,184,2012,11,,,0,Rwanda,0
+c11c,185,2012,11,,4,0,Russian Federation,0
+c11c,186,2012,11,,,0,Serbia and Montenegro,0
+c11c,187,2012,11,,,0,"Saint Helena, Ascension and Tristan da Cunha",0
+c11c,188,2012,11,,,0,Saint Kitts and Nevis,0
+c11c,189,2012,11,,,0,Saint Lucia,0
+c11c,190,2012,11,,,0,Saint Pierre and Miquelon,0
+c11c,191,2012,11,,,0,Saint Vincent and the Grenadines,0
+c11c,192,2012,11,,,0,San Marino,0
+c11c,193,2012,11,,,0,Sao Tome and Principe,0
+c11c,194,2012,11,,17,0,Saudi Arabia,0
+c11c,195,2012,11,,,0,Senegal,0
+c11c,196,2012,11,,,0,Seychelles,0
+c11c,197,2012,11,,,0,Sierra Leone,0
+c11c,198,2012,11,0,18,1,Slovenia,1
+c11c,199,2012,11,,2,0,Slovakia,0
+c11c,200,2012,11,,28,0,Singapore,0
+c11c,201,2012,11,,,0,Somalia,0
+c11c,202,2012,11,,,0,South Africa,0
+c11c,203,2012,11,1781,1925,2799,Spain,3165
+c11c,207,2012,11,,,0,Suriname,0
+c11c,208,2012,11,,,0,Tajikistan,0
+c11c,210,2012,11,116,253,11,Sweden,0
+c11c,211,2012,11,3769,3363,13899,Switzerland,12785
+c11c,212,2012,11,,,0,Syrian Arab Republic,0
+c11c,213,2012,11,,,0,Turkmenistan,0
+c11c,215,2012,11,,109,0,United Republic of Tanzania,0
+c11c,216,2012,11,,8893,0,Thailand,341
+c11c,217,2012,11,,2,0,Togo,0
+c11c,218,2012,11,,,0,Tokelau,0
+c11c,219,2012,11,,,0,Tonga,0
+c11c,220,2012,11,,,0,Trinidad and Tobago,0
+c11c,221,2012,11,,0,0,Oman,0
+c11c,222,2012,11,,290,0,Tunisia,9
+c11c,223,2012,11,,37,0,Turkey,0
+c11c,224,2012,11,,,0,Turks and Caicos Islands,0
+c11c,225,2012,11,0,261,0,United Arab Emirates,0
+c11c,226,2012,11,,81,0,Uganda,32
+c11c,227,2012,11,,,0,Tuvalu,0
+c11c,228,2012,11,,,0,USSR,0
+c11c,229,2012,11,2116,144,556,United Kingdom,0
+c11c,230,2012,11,,1,0,Ukraine,0
+c11c,231,2012,11,5236,13321,8907,United States of America,10389
+c11c,233,2012,11,,,0,Burkina Faso,0
+c11c,234,2012,11,,,0,Uruguay,0
+c11c,235,2012,11,,,0,Uzbekistan,0
+c11c,236,2012,11,,,0,Venezuela (Bolivarian Republic of),0
+c11c,237,2012,11,,26,0,Viet Nam,0
+c11c,238,2012,11,,,0,Ethiopia,0
+c11c,239,2012,11,,,0,British Virgin Islands,0
+c11c,243,2012,11,,,0,Wallis and Futuna Islands,0
+c11c,244,2012,11,,,0,Samoa,0
+c11c,249,2012,11,,,0,Yemen,0
+c11c,250,2012,11,,0,0,Democratic Republic of the Congo,0
+c11c,251,2012,11,,3,0,Zambia,0
+c11c,255,2012,11,,80,0,Belgium,0
+c11c,256,2012,11,,,0,Luxembourg,0
+c11c,258,2012,11,,,0,Anguilla,0
+c11c,272,2012,11,,,0,Serbia,0
+c11c,273,2012,11,,,0,Montenegro,0
+c11c,276,2012,11,,,0,Sudan,0
+c11c,277,2012,11,,,0,South Sudan,0
+c11c,279,2012,11,,,0,Curaçao,0
+c11c,299,2012,11,,,0,Palestine,0
+c11c,999,2012,11,,1370,0,"",0
+c11d,1,2012,11,,,0,Armenia,0
+c11d,2,2012,11,,0,0,Afghanistan,0
+c11d,3,2012,11,,0,0,Albania,0
+c11d,4,2012,11,,,0,Algeria,0
+c11d,6,2012,11,,,0,Andorra,0
+c11d,7,2012,11,,,0,Angola,0
+c11d,9,2012,11,,3,1,Argentina,0
+c11d,10,2012,11,,,0,Australia,0
+c11d,11,2012,11,,,0,Austria,288860
+c11d,12,2012,11,,,0,Bahamas,0
+c11d,13,2012,11,,,0,Bahrain,0
+c11d,14,2012,11,,,0,Barbados,0
+c11d,15,2012,11,,,0,Belgium-Luxembourg,0
+c11d,16,2012,11,,,0,Bangladesh,0
+c11d,17,2012,11,,,0,Bermuda,0
+c11d,18,2012,11,,,0,Bhutan,0
+c11d,19,2012,11,,,0,Bolivia (Plurinational State of),0
+c11d,21,2012,11,28788,6908,29773,Brazil,28432
+c11d,22,2012,11,,,0,Aruba,0
+c11d,23,2012,11,,,0,Belize,0
+c11d,24,2012,11,,,0,British Indian Ocean Territory,0
+c11d,25,2012,11,,,0,Solomon Islands,0
+c11d,26,2012,11,,,0,Brunei Darussalam,0
+c11d,27,2012,11,,,0,Bulgaria,0
+c11d,28,2012,11,,,0,Myanmar,0
+c11d,29,2012,11,,,0,Burundi,0
+c11d,32,2012,11,,,0,Cameroon,0
+c11d,33,2012,11,,11796,4745,Canada,5161
+c11d,35,2012,11,,,0,Cabo Verde,0
+c11d,36,2012,11,,,0,Cayman Islands,0
+c11d,37,2012,11,,,0,Central African Republic,0
+c11d,38,2012,11,,,0,Sri Lanka,0
+c11d,39,2012,11,,,0,Chad,0
+c11d,40,2012,11,,,0,Chile,0
+c11d,41,2012,11,,18,9,"China, mainland",4
+c11d,42,2012,11,,,0,Christmas Island,0
+c11d,43,2012,11,,,0,Cocos (Keeling) Islands,0
+c11d,44,2012,11,,,0,Colombia,0
+c11d,45,2012,11,,,0,Comoros,0
+c11d,46,2012,11,,,0,Congo,0
+c11d,47,2012,11,,,0,Cook Islands,0
+c11d,48,2012,11,,,0,Costa Rica,0
+c11d,49,2012,11,,,0,Cuba,0
+c11d,50,2012,11,,,0,Cyprus,0
+c11d,51,2012,11,,,0,Czechoslovakia,0
+c11d,52,2012,11,,,0,Azerbaijan,0
+c11d,53,2012,11,,,0,Benin,0
+c11d,54,2012,11,,0,0,Denmark,0
+c11d,55,2012,11,,,0,Dominica,0
+c11d,56,2012,11,,,0,Dominican Republic,0
+c11d,57,2012,11,,,0,Belarus,0
+c11d,58,2012,11,,,0,Ecuador,0
+c11d,59,2012,11,,,0,Egypt,0
+c11d,60,2012,11,,,0,El Salvador,0
+c11d,61,2012,11,,,0,Equatorial Guinea,0
+c11d,63,2012,11,,,0,Estonia,0
+c11d,65,2012,11,,,0,Falkland Islands (Malvinas),0
+c11d,66,2012,11,,,0,Fiji,0
+c11d,67,2012,11,,1638,738,Finland,724
+c11d,68,2012,11,,2066,947,France,1015
+c11d,70,2012,11,,,0,French Polynesia,0
+c11d,71,2012,11,,,0,French Southern and Antarctic Territories,0
+c11d,72,2012,11,,,0,Djibouti,0
+c11d,73,2012,11,,,0,Georgia,0
+c11d,74,2012,11,,,0,Gabon,0
+c11d,75,2012,11,,,0,Gambia,0
+c11d,79,2012,11,1052,73,735,Germany,0
+c11d,80,2012,11,,,0,Bosnia and Herzegovina,0
+c11d,81,2012,11,,,0,Ghana,0
+c11d,82,2012,11,,,0,Gibraltar,0
+c11d,83,2012,11,,,0,Kiribati,0
+c11d,84,2012,11,,,0,Greece,0
+c11d,85,2012,11,,,0,Greenland,0
+c11d,86,2012,11,,,0,Grenada,0
+c11d,88,2012,11,,,0,Guam,0
+c11d,89,2012,11,,1,1,Guatemala,1
+c11d,90,2012,11,,,0,Guinea,0
+c11d,91,2012,11,,,0,Guyana,0
+c11d,93,2012,11,,,0,Haiti,0
+c11d,95,2012,11,,,0,Honduras,0
+c11d,96,2012,11,,,0,"China, Hong Kong SAR",0
+c11d,97,2012,11,,,0,Hungary,0
+c11d,98,2012,11,,,0,Croatia,0
+c11d,99,2012,11,,,0,Iceland,0
+c11d,100,2012,11,,0,0,India,0
+c11d,101,2012,11,,15,0,Indonesia,0
+c11d,102,2012,11,,,0,Iran (Islamic Republic of),0
+c11d,103,2012,11,,,0,Iraq,0
+c11d,104,2012,11,,,0,Ireland,0
+c11d,105,2012,11,,,0,Israel,0
+c11d,106,2012,11,,7,2,Italy,0
+c11d,107,2012,11,,,0,Cote d'Ivoire,0
+c11d,108,2012,11,,,0,Kazakhstan,0
+c11d,109,2012,11,,,0,Jamaica,0
+c11d,110,2012,11,,478,1127,Japan,464
+c11d,112,2012,11,,,0,Jordan,0
+c11d,113,2012,11,,,0,Kyrgyzstan,0
+c11d,114,2012,11,,0,0,Kenya,0
+c11d,115,2012,11,,,0,Cambodia,0
+c11d,116,2012,11,,,0,Democratic People's Republic of Korea,0
+c11d,117,2012,11,0,2,0,Republic of Korea,0
+c11d,118,2012,11,,,0,Kuwait,0
+c11d,119,2012,11,,,0,Latvia,0
+c11d,120,2012,11,,,0,Lao People's Democratic Republic,0
+c11d,121,2012,11,,0,0,Lebanon,0
+c11d,123,2012,11,,,0,Liberia,0
+c11d,124,2012,11,,,0,Libya,0
+c11d,126,2012,11,,,0,Lithuania,0
+c11d,127,2012,11,,,0,Marshall Islands,0
+c11d,128,2012,11,,,0,"China, Macao SAR",0
+c11d,129,2012,11,,,0,Madagascar,0
+c11d,130,2012,11,,,0,Malawi,0
+c11d,131,2012,11,,6,7,Malaysia,6
+c11d,132,2012,11,,,0,Maldives,0
+c11d,133,2012,11,,,0,Mali,0
+c11d,134,2012,11,,,0,Malta,0
+c11d,136,2012,11,,,0,Mauritania,0
+c11d,137,2012,11,,,0,Mauritius,0
+c11d,138,2012,11,,,0,Mexico,0
+c11d,141,2012,11,,,0,Mongolia,0
+c11d,142,2012,11,,,0,Montserrat,0
+c11d,143,2012,11,514,34,480,Morocco,463
+c11d,144,2012,11,,,0,Mozambique,0
+c11d,145,2012,11,,,0,Micronesia (Federated States of),0
+c11d,146,2012,11,,,0,Republic of Moldova,0
+c11d,148,2012,11,,,0,Nauru,0
+c11d,149,2012,11,,0,0,Nepal,0
+c11d,150,2012,11,,309,218,Netherlands,0
+c11d,151,2012,11,,,0,Netherlands Antilles,0
+c11d,153,2012,11,,,0,New Caledonia,0
+c11d,154,2012,11,,,0,North Macedonia,0
+c11d,155,2012,11,,,0,Vanuatu,0
+c11d,156,2012,11,,,0,New Zealand,0
+c11d,157,2012,11,,0,0,Nicaragua,0
+c11d,158,2012,11,,,0,Niger,0
+c11d,159,2012,11,,,0,Nigeria,0
+c11d,160,2012,11,,,0,Niue,0
+c11d,161,2012,11,,,0,Norfolk Island,0
+c11d,162,2012,11,,2547,1218,Norway,1596
+c11d,163,2012,11,,,0,Northern Mariana Islands,0
+c11d,165,2012,11,,,0,Pakistan,0
+c11d,166,2012,11,,,0,Panama,0
+c11d,167,2012,11,2219,2024,2303,Czechia,2349
+c11d,168,2012,11,,,0,Papua New Guinea,0
+c11d,169,2012,11,,,0,Paraguay,0
+c11d,170,2012,11,,,0,Peru,0
+c11d,171,2012,11,,,0,Philippines,0
+c11d,172,2012,11,,,0,Pitcairn Islands,0
+c11d,173,2012,11,1,10,1,Poland,0
+c11d,174,2012,11,,76,4,Portugal,4
+c11d,175,2012,11,,,0,Guinea-Bissau,0
+c11d,176,2012,11,,,0,Timor-Leste,0
+c11d,178,2012,11,,,0,Eritrea,0
+c11d,179,2012,11,,,0,Qatar,0
+c11d,180,2012,11,,,0,Palau,0
+c11d,181,2012,11,,,0,Zimbabwe,0
+c11d,183,2012,11,,,0,Romania,0
+c11d,184,2012,11,,,0,Rwanda,0
+c11d,185,2012,11,,1102,413,Russian Federation,426
+c11d,186,2012,11,,,0,Serbia and Montenegro,0
+c11d,187,2012,11,,,0,"Saint Helena, Ascension and Tristan da Cunha",0
+c11d,188,2012,11,,,0,Saint Kitts and Nevis,0
+c11d,189,2012,11,,,0,Saint Lucia,0
+c11d,190,2012,11,,,0,Saint Pierre and Miquelon,0
+c11d,191,2012,11,,,0,Saint Vincent and the Grenadines,0
+c11d,192,2012,11,,,0,San Marino,0
+c11d,193,2012,11,,,0,Sao Tome and Principe,0
+c11d,194,2012,11,,3,3,Saudi Arabia,0
+c11d,195,2012,11,,,0,Senegal,0
+c11d,196,2012,11,,,0,Seychelles,0
+c11d,197,2012,11,,,0,Sierra Leone,0
+c11d,198,2012,11,24,,0,Slovenia,0
+c11d,199,2012,11,1519,14,689,Slovakia,391
+c11d,200,2012,11,,0,0,Singapore,0
+c11d,201,2012,11,,,0,Somalia,0
+c11d,202,2012,11,,12469,15254,South Africa,15709
+c11d,203,2012,11,70,547,83,Spain,75
+c11d,207,2012,11,,,0,Suriname,0
+c11d,208,2012,11,,,0,Tajikistan,0
+c11d,210,2012,11,879,6971,846,Sweden,1290
+c11d,211,2012,11,,0,0,Switzerland,0
+c11d,212,2012,11,,,0,Syrian Arab Republic,0
+c11d,213,2012,11,,,0,Turkmenistan,0
+c11d,215,2012,11,,0,0,United Republic of Tanzania,0
+c11d,216,2012,11,,49,21,Thailand,0
+c11d,217,2012,11,,,0,Togo,0
+c11d,218,2012,11,,,0,Tokelau,0
+c11d,219,2012,11,,,0,Tonga,0
+c11d,220,2012,11,,,0,Trinidad and Tobago,0
+c11d,221,2012,11,,,0,Oman,0
+c11d,222,2012,11,,0,0,Tunisia,0
+c11d,223,2012,11,,,0,Turkey,0
+c11d,224,2012,11,,,0,Turks and Caicos Islands,0
+c11d,225,2012,11,,3,4,United Arab Emirates,1
+c11d,226,2012,11,,0,0,Uganda,0
+c11d,227,2012,11,,,0,Tuvalu,0
+c11d,228,2012,11,,,0,USSR,0
+c11d,229,2012,11,,1,0,United Kingdom,0
+c11d,230,2012,11,,,0,Ukraine,0
+c11d,231,2012,11,464,13337,629,United States of America,1398
+c11d,233,2012,11,,,0,Burkina Faso,0
+c11d,234,2012,11,,,0,Uruguay,0
+c11d,235,2012,11,,,0,Uzbekistan,0
+c11d,236,2012,11,,,0,Venezuela (Bolivarian Republic of),0
+c11d,237,2012,11,,,0,Viet Nam,0
+c11d,238,2012,11,,,0,Ethiopia,0
+c11d,239,2012,11,,,0,British Virgin Islands,0
+c11d,243,2012,11,,,0,Wallis and Futuna Islands,0
+c11d,244,2012,11,,,0,Samoa,0
+c11d,249,2012,11,,,0,Yemen,0
+c11d,250,2012,11,,,0,Democratic Republic of the Congo,0
+c11d,251,2012,11,,0,1,Zambia,1
+c11d,255,2012,11,,1464,1851,Belgium,49
+c11d,256,2012,11,,,0,Luxembourg,0
+c11d,258,2012,11,,,0,Anguilla,0
+c11d,272,2012,11,,,0,Serbia,0
+c11d,273,2012,11,,,0,Montenegro,0
+c11d,276,2012,11,,,0,Sudan,0
+c11d,277,2012,11,,,0,South Sudan,0
+c11d,279,2012,11,,,0,Curaçao,0
+c11d,299,2012,11,,,0,Palestine,0
+c11d,999,2012,11,,0,0,"",0
+c12,1,2012,11,,,0,Armenia,0
+c12,2,2012,11,,4,1,Afghanistan,0
+c12,3,2012,11,148,22,46,Albania,67
+c12,4,2012,11,,726,82,Algeria,106
+c12,6,2012,11,,,0,Andorra,0
+c12,7,2012,11,,0,0,Angola,0
+c12,9,2012,11,,8,0,Argentina,0
+c12,10,2012,11,,33394,4941,Australia,6322
+c12,11,2012,11,,,0,Austria,1286044
+c12,12,2012,11,,12,2,Bahamas,3
+c12,13,2012,11,,850,113,Bahrain,165
+c12,14,2012,11,,84,13,Barbados,19
+c12,15,2012,11,,,0,Belgium-Luxembourg,0
+c12,16,2012,11,,12,18,Bangladesh,0
+c12,17,2012,11,,,0,Bermuda,0
+c12,18,2012,11,,39,5,Bhutan,7
+c12,19,2012,11,,2,0,Bolivia (Plurinational State of),0
+c12,21,2012,11,,624,131,Brazil,218
+c12,22,2012,11,,,0,Aruba,0
+c12,23,2012,11,,52,7,Belize,10
+c12,24,2012,11,,,0,British Indian Ocean Territory,0
+c12,25,2012,11,,0,1,Solomon Islands,1
+c12,26,2012,11,,43,3,Brunei Darussalam,4
+c12,27,2012,11,736,1206,524,Bulgaria,2021
+c12,28,2012,11,,16,2,Myanmar,3
+c12,29,2012,11,,1,1,Burundi,1
+c12,32,2012,11,,6,1,Cameroon,1
+c12,33,2012,11,,51343,9475,Canada,9308
+c12,35,2012,11,,4,6,Cabo Verde,9
+c12,36,2012,11,,,0,Cayman Islands,0
+c12,37,2012,11,,1,1,Central African Republic,0
+c12,38,2012,11,,2634,394,Sri Lanka,531
+c12,39,2012,11,,,0,Chad,0
+c12,40,2012,11,,221,39,Chile,48
+c12,41,2012,11,19,81,1,"China, mainland",2
+c12,42,2012,11,,,0,Christmas Island,0
+c12,43,2012,11,,,0,Cocos (Keeling) Islands,0
+c12,44,2012,11,,76,14,Colombia,16
+c12,45,2012,11,,,0,Comoros,0
+c12,46,2012,11,,1,1,Congo,0
+c12,47,2012,11,,,0,Cook Islands,0
+c12,48,2012,11,,2521,604,Costa Rica,896
+c12,49,2012,11,,2,0,Cuba,0
+c12,50,2012,11,,944,90,Cyprus,206
+c12,51,2012,11,,,0,Czechoslovakia,0
+c12,52,2012,11,,,0,Azerbaijan,0
+c12,53,2012,11,,2,0,Benin,0
+c12,54,2012,11,326,15614,355,Denmark,6790
+c12,55,2012,11,,23,3,Dominica,5
+c12,56,2012,11,,1872,285,Dominican Republic,380
+c12,57,2012,11,,611,72,Belarus,0
+c12,58,2012,11,,588,89,Ecuador,80
+c12,59,2012,11,,3,0,Egypt,0
+c12,60,2012,11,,995,247,El Salvador,14
+c12,61,2012,11,,,0,Equatorial Guinea,0
+c12,63,2012,11,74,1358,58,Estonia,611
+c12,65,2012,11,,,0,Falkland Islands (Malvinas),0
+c12,66,2012,11,,57,14,Fiji,20
+c12,67,2012,11,11,3498,55,Finland,2159
+c12,68,2012,11,6672,66849,8091,France,28165
+c12,70,2012,11,,50,3,French Polynesia,5
+c12,71,2012,11,,,0,French Southern and Antarctic Territories,0
+c12,72,2012,11,,1,1,Djibouti,0
+c12,73,2012,11,,102,9,Georgia,10
+c12,74,2012,11,,5,7,Gabon,10
+c12,75,2012,11,,3,4,Gambia,4
+c12,79,2012,11,377225,69872,382165,Germany,292625
+c12,80,2012,11,3114,872,3553,Bosnia and Herzegovina,7450
+c12,81,2012,11,,136,21,Ghana,31
+c12,82,2012,11,,0,0,Gibraltar,0
+c12,83,2012,11,,,0,Kiribati,0
+c12,84,2012,11,46,6997,45,Greece,883
+c12,85,2012,11,,,0,Greenland,0
+c12,86,2012,11,,,0,Grenada,0
+c12,88,2012,11,,,0,Guam,0
+c12,89,2012,11,,2316,434,Guatemala,604
+c12,90,2012,11,,1,0,Guinea,0
+c12,91,2012,11,,2,0,Guyana,0
+c12,93,2012,11,,11,2,Haiti,3
+c12,95,2012,11,,1202,218,Honduras,333
+c12,96,2012,11,,25577,4107,"China, Hong Kong SAR",4562
+c12,97,2012,11,84646,3264,77809,Hungary,40363
+c12,98,2012,11,19163,1549,11781,Croatia,0
+c12,99,2012,11,,463,63,Iceland,203
+c12,100,2012,11,0,152,0,India,9
+c12,101,2012,11,,134,10,Indonesia,18
+c12,102,2012,11,,459,163,Iran (Islamic Republic of),260
+c12,103,2012,11,,381,54,Iraq,75
+c12,104,2012,11,11,7617,10,Ireland,859
+c12,105,2012,11,,1357,191,Israel,217
+c12,106,2012,11,192313,42271,193717,Italy,181555
+c12,107,2012,11,,24,1,Cote d'Ivoire,14
+c12,108,2012,11,,,0,Kazakhstan,0
+c12,109,2012,11,,112,11,Jamaica,23
+c12,110,2012,11,,107488,17149,Japan,21104
+c12,112,2012,11,,1524,378,Jordan,585
+c12,113,2012,11,,,0,Kyrgyzstan,0
+c12,114,2012,11,,353,56,Kenya,79
+c12,115,2012,11,,212,8,Cambodia,11
+c12,116,2012,11,,5,1,Democratic People's Republic of Korea,0
+c12,117,2012,11,,12086,2574,Republic of Korea,2671
+c12,118,2012,11,,2587,377,Kuwait,538
+c12,119,2012,11,94,890,67,Latvia,377
+c12,120,2012,11,,284,41,Lao People's Democratic Republic,57
+c12,121,2012,11,,61,6,Lebanon,0
+c12,123,2012,11,,3,0,Liberia,0
+c12,124,2012,11,,65,1,Libya,2
+c12,126,2012,11,225,1633,199,Lithuania,744
+c12,127,2012,11,,,0,Marshall Islands,0
+c12,128,2012,11,,715,54,"China, Macao SAR",79
+c12,129,2012,11,,36,5,Madagascar,11
+c12,130,2012,11,,,0,Malawi,0
+c12,131,2012,11,,74,1,Malaysia,7
+c12,132,2012,11,,,0,Maldives,0
+c12,133,2012,11,,,0,Mali,0
+c12,134,2012,11,,421,49,Malta,117
+c12,136,2012,11,,1,0,Mauritania,0
+c12,137,2012,11,,163,12,Mauritius,19
+c12,138,2012,11,8,10164,4,Mexico,307
+c12,141,2012,11,,6,1,Mongolia,1
+c12,142,2012,11,,,0,Montserrat,0
+c12,143,2012,11,,173,26,Morocco,40
+c12,144,2012,11,,19,28,Mozambique,39
+c12,145,2012,11,,,0,Micronesia (Federated States of),0
+c12,146,2012,11,,212,28,Republic of Moldova,142
+c12,148,2012,11,,,0,Nauru,0
+c12,149,2012,11,,89,6,Nepal,5
+c12,150,2012,11,20670,73729,21680,Netherlands,16817
+c12,151,2012,11,,,0,Netherlands Antilles,0
+c12,153,2012,11,,39,4,New Caledonia,6
+c12,154,2012,11,334,582,271,North Macedonia,2021
+c12,155,2012,11,,0,0,Vanuatu,0
+c12,156,2012,11,,5591,785,New Zealand,1101
+c12,157,2012,11,,484,73,Nicaragua,177
+c12,158,2012,11,,16,24,Niger,33
+c12,159,2012,11,,260,31,Nigeria,32
+c12,160,2012,11,,,0,Niue,0
+c12,161,2012,11,,,0,Norfolk Island,0
+c12,162,2012,11,24,8299,23,Norway,1954
+c12,163,2012,11,,,0,Northern Mariana Islands,0
+c12,165,2012,11,,15,2,Pakistan,2
+c12,166,2012,11,,621,228,Panama,178
+c12,167,2012,11,190150,12648,175538,Czechia,145710
+c12,168,2012,11,,28,4,Papua New Guinea,5
+c12,169,2012,11,,152,20,Paraguay,42
+c12,170,2012,11,,118,19,Peru,17
+c12,171,2012,11,,1549,223,Philippines,261
+c12,172,2012,11,,,0,Pitcairn Islands,0
+c12,173,2012,11,48474,11859,46691,Poland,46352
+c12,174,2012,11,,9013,1615,Portugal,2446
+c12,175,2012,11,,1,0,Guinea-Bissau,0
+c12,176,2012,11,,1,0,Timor-Leste,0
+c12,178,2012,11,,16,23,Eritrea,32
+c12,179,2012,11,,368,53,Qatar,61
+c12,180,2012,11,,,0,Palau,0
+c12,181,2012,11,,138,206,Zimbabwe,284
+c12,183,2012,11,10011,2570,8426,Romania,14484
+c12,184,2012,11,,5,3,Rwanda,4
+c12,185,2012,11,6126,10200,5298,Russian Federation,7472
+c12,186,2012,11,,,0,Serbia and Montenegro,0
+c12,187,2012,11,,,0,"Saint Helena, Ascension and Tristan da Cunha",0
+c12,188,2012,11,,,0,Saint Kitts and Nevis,0
+c12,189,2012,11,,4,0,Saint Lucia,0
+c12,190,2012,11,,,0,Saint Pierre and Miquelon,0
+c12,191,2012,11,,2,0,Saint Vincent and the Grenadines,0
+c12,192,2012,11,,,0,San Marino,0
+c12,193,2012,11,,4,6,Sao Tome and Principe,8
+c12,194,2012,11,,4833,658,Saudi Arabia,925
+c12,195,2012,11,,7,0,Senegal,0
+c12,196,2012,11,,1,0,Seychelles,0
+c12,197,2012,11,,0,1,Sierra Leone,0
+c12,198,2012,11,78553,2752,77298,Slovenia,26064
+c12,199,2012,11,61746,3906,50546,Slovakia,50809
+c12,200,2012,11,,15224,2277,Singapore,2583
+c12,201,2012,11,,2,3,Somalia,2
+c12,202,2012,11,,2248,3381,South Africa,4583
+c12,203,2012,11,2568,15661,2531,Spain,3698
+c12,207,2012,11,,,0,Suriname,0
+c12,208,2012,11,,,0,Tajikistan,0
+c12,210,2012,11,3169,9300,3052,Sweden,5895
+c12,211,2012,11,44205,11788,46622,Switzerland,39518
+c12,212,2012,11,,1,0,Syrian Arab Republic,0
+c12,213,2012,11,,,0,Turkmenistan,0
+c12,215,2012,11,,5,1,United Republic of Tanzania,0
+c12,216,2012,11,6,686,6,Thailand,25
+c12,217,2012,11,,7,1,Togo,2
+c12,218,2012,11,,,0,Tokelau,0
+c12,219,2012,11,,1,1,Tonga,1
+c12,220,2012,11,,99,6,Trinidad and Tobago,4
+c12,221,2012,11,,272,29,Oman,58
+c12,222,2012,11,,100,17,Tunisia,19
+c12,223,2012,11,1,872,1,Turkey,31
+c12,224,2012,11,,,0,Turks and Caicos Islands,0
+c12,225,2012,11,,8782,1376,United Arab Emirates,1359
+c12,226,2012,11,,10,1,Uganda,0
+c12,227,2012,11,,,0,Tuvalu,0
+c12,228,2012,11,,,0,USSR,0
+c12,229,2012,11,9667,97080,9775,United Kingdom,18900
+c12,230,2012,11,3533,78,1545,Ukraine,533
+c12,231,2012,11,1449,442928,1501,United States of America,27495
+c12,233,2012,11,,0,0,Burkina Faso,0
+c12,234,2012,11,,337,55,Uruguay,68
+c12,235,2012,11,,2,0,Uzbekistan,0
+c12,236,2012,11,,0,0,Venezuela (Bolivarian Republic of),0
+c12,237,2012,11,,306,86,Viet Nam,17
+c12,238,2012,11,,1,0,Ethiopia,0
+c12,239,2012,11,,,0,British Virgin Islands,0
+c12,243,2012,11,,,0,Wallis and Futuna Islands,0
+c12,244,2012,11,,,0,Samoa,0
+c12,249,2012,11,,384,25,Yemen,42
+c12,250,2012,11,,11,17,Democratic Republic of the Congo,18
+c12,251,2012,11,,4,2,Zambia,1
+c12,255,2012,11,,44278,82173,Belgium,43063
+c12,256,2012,11,,1959,2937,Luxembourg,3994
+c12,258,2012,11,,,0,Anguilla,0
+c12,272,2012,11,7307,2595,12582,Serbia,24228
+c12,273,2012,11,202,217,245,Montenegro,1667
+c12,276,2012,11,,30,4,Sudan,6
+c12,277,2012,11,,,0,South Sudan,0
+c12,279,2012,11,,36,5,Curaçao,7
+c12,299,2012,11,,,0,Palestine,0
+c12,999,2012,11,,2183,3595,"",3834
+c13,1,2012,11,,,0,Armenia,0
+c13,2,2012,11,,,0,Afghanistan,0
+c13,3,2012,11,,,0,Albania,0
+c13,4,2012,11,,22,29,Algeria,34
+c13,6,2012,11,,,0,Andorra,0
+c13,7,2012,11,,,0,Angola,0
+c13,9,2012,11,,,0,Argentina,0
+c13,10,2012,11,,4,4,Australia,4
+c13,11,2012,11,,,0,Austria,2076455
+c13,12,2012,11,,,0,Bahamas,0
+c13,13,2012,11,,0,0,Bahrain,0
+c13,14,2012,11,,,0,Barbados,0
+c13,15,2012,11,,,0,Belgium-Luxembourg,0
+c13,16,2012,11,,,0,Bangladesh,0
+c13,17,2012,11,,,0,Bermuda,0
+c13,18,2012,11,,1,1,Bhutan,1
+c13,19,2012,11,,,0,Bolivia (Plurinational State of),0
+c13,21,2012,11,,0,0,Brazil,0
+c13,22,2012,11,,,0,Aruba,0
+c13,23,2012,11,,2,3,Belize,4
+c13,24,2012,11,,,0,British Indian Ocean Territory,0
+c13,25,2012,11,,,0,Solomon Islands,0
+c13,26,2012,11,,,0,Brunei Darussalam,0
+c13,27,2012,11,1340,72,939,Bulgaria,567
+c13,28,2012,11,,18,24,Myanmar,29
+c13,29,2012,11,,,0,Burundi,0
+c13,32,2012,11,,,0,Cameroon,0
+c13,33,2012,11,,889,89,Canada,414
+c13,35,2012,11,,,0,Cabo Verde,0
+c13,36,2012,11,,,0,Cayman Islands,0
+c13,37,2012,11,,,0,Central African Republic,0
+c13,38,2012,11,,0,0,Sri Lanka,0
+c13,39,2012,11,,,0,Chad,0
+c13,40,2012,11,,,0,Chile,0
+c13,41,2012,11,,26,5,"China, mainland",17
+c13,42,2012,11,,,0,Christmas Island,0
+c13,43,2012,11,,,0,Cocos (Keeling) Islands,0
+c13,44,2012,11,,23,8,Colombia,10
+c13,45,2012,11,,,0,Comoros,0
+c13,46,2012,11,,,0,Congo,0
+c13,47,2012,11,,,0,Cook Islands,0
+c13,48,2012,11,,2,3,Costa Rica,0
+c13,49,2012,11,,2,3,Cuba,4
+c13,50,2012,11,,,0,Cyprus,0
+c13,51,2012,11,,,0,Czechoslovakia,0
+c13,52,2012,11,,,0,Azerbaijan,0
+c13,53,2012,11,,,0,Benin,0
+c13,54,2012,11,,1,0,Denmark,0
+c13,55,2012,11,,,0,Dominica,0
+c13,56,2012,11,,,0,Dominican Republic,0
+c13,57,2012,11,,5,2,Belarus,0
+c13,58,2012,11,,,0,Ecuador,0
+c13,59,2012,11,,3,2,Egypt,0
+c13,60,2012,11,,,0,El Salvador,0
+c13,61,2012,11,,,0,Equatorial Guinea,0
+c13,63,2012,11,74,62,136,Estonia,138
+c13,65,2012,11,,,0,Falkland Islands (Malvinas),0
+c13,66,2012,11,,1,1,Fiji,1
+c13,67,2012,11,,,0,Finland,0
+c13,68,2012,11,,138,74,France,5
+c13,70,2012,11,,,0,French Polynesia,0
+c13,71,2012,11,,,0,French Southern and Antarctic Territories,0
+c13,72,2012,11,,,0,Djibouti,0
+c13,73,2012,11,,,0,Georgia,0
+c13,74,2012,11,,,0,Gabon,0
+c13,75,2012,11,,,0,Gambia,0
+c13,79,2012,11,2161,8517,4485,Germany,1825
+c13,80,2012,11,,22,29,Bosnia and Herzegovina,36
+c13,81,2012,11,,,0,Ghana,0
+c13,82,2012,11,,,0,Gibraltar,0
+c13,83,2012,11,,,0,Kiribati,0
+c13,84,2012,11,,15,6,Greece,0
+c13,85,2012,11,,,0,Greenland,0
+c13,86,2012,11,,,0,Grenada,0
+c13,88,2012,11,,,0,Guam,0
+c13,89,2012,11,,,0,Guatemala,0
+c13,90,2012,11,,,0,Guinea,0
+c13,91,2012,11,,,0,Guyana,0
+c13,93,2012,11,,,0,Haiti,0
+c13,95,2012,11,,9,3,Honduras,4
+c13,96,2012,11,,,0,"China, Hong Kong SAR",0
+c13,97,2012,11,,1,1,Hungary,0
+c13,98,2012,11,,0,1,Croatia,0
+c13,99,2012,11,,,0,Iceland,0
+c13,100,2012,11,,5,4,India,5
+c13,101,2012,11,,,0,Indonesia,0
+c13,102,2012,11,,0,0,Iran (Islamic Republic of),0
+c13,103,2012,11,,,0,Iraq,0
+c13,104,2012,11,,,0,Ireland,0
+c13,105,2012,11,,0,0,Israel,0
+c13,106,2012,11,,56,7,Italy,11
+c13,107,2012,11,,,0,Cote d'Ivoire,0
+c13,108,2012,11,,,0,Kazakhstan,0
+c13,109,2012,11,,7,10,Jamaica,4
+c13,110,2012,11,,18,16,Japan,0
+c13,112,2012,11,,13,18,Jordan,4
+c13,113,2012,11,,,0,Kyrgyzstan,0
+c13,114,2012,11,,1,2,Kenya,2
+c13,115,2012,11,,,0,Cambodia,0
+c13,116,2012,11,,,0,Democratic People's Republic of Korea,0
+c13,117,2012,11,,4,2,Republic of Korea,0
+c13,118,2012,11,,,0,Kuwait,0
+c13,119,2012,11,,1,0,Latvia,0
+c13,120,2012,11,,,0,Lao People's Democratic Republic,0
+c13,121,2012,11,,,0,Lebanon,0
+c13,123,2012,11,,,0,Liberia,0
+c13,124,2012,11,,,0,Libya,0
+c13,126,2012,11,,23,8,Lithuania,28
+c13,127,2012,11,,,0,Marshall Islands,0
+c13,128,2012,11,,,0,"China, Macao SAR",0
+c13,129,2012,11,,,0,Madagascar,0
+c13,130,2012,11,,0,1,Malawi,0
+c13,131,2012,11,,5,2,Malaysia,0
+c13,132,2012,11,,,0,Maldives,0
+c13,133,2012,11,,,0,Mali,0
+c13,134,2012,11,,,0,Malta,0
+c13,136,2012,11,,,0,Mauritania,0
+c13,137,2012,11,,1,1,Mauritius,1
+c13,138,2012,11,,2,0,Mexico,2
+c13,141,2012,11,,,0,Mongolia,0
+c13,142,2012,11,,,0,Montserrat,0
+c13,143,2012,11,,11,15,Morocco,15
+c13,144,2012,11,,,0,Mozambique,0
+c13,145,2012,11,,,0,Micronesia (Federated States of),0
+c13,146,2012,11,,,0,Republic of Moldova,0
+c13,148,2012,11,,,0,Nauru,0
+c13,149,2012,11,,,0,Nepal,0
+c13,150,2012,11,,38,23,Netherlands,0
+c13,151,2012,11,,,0,Netherlands Antilles,0
+c13,153,2012,11,,,0,New Caledonia,0
+c13,154,2012,11,,,0,North Macedonia,0
+c13,155,2012,11,,,0,Vanuatu,0
+c13,156,2012,11,,,0,New Zealand,0
+c13,157,2012,11,,,0,Nicaragua,0
+c13,158,2012,11,,,0,Niger,0
+c13,159,2012,11,,,0,Nigeria,0
+c13,160,2012,11,,,0,Niue,0
+c13,161,2012,11,,,0,Norfolk Island,0
+c13,162,2012,11,,,0,Norway,0
+c13,163,2012,11,,,0,Northern Mariana Islands,0
+c13,165,2012,11,,2,3,Pakistan,4
+c13,166,2012,11,,,0,Panama,0
+c13,167,2012,11,315,162,227,Czechia,257
+c13,168,2012,11,,,0,Papua New Guinea,0
+c13,169,2012,11,,1,2,Paraguay,2
+c13,170,2012,11,,1,1,Peru,0
+c13,171,2012,11,,1,0,Philippines,0
+c13,172,2012,11,,,0,Pitcairn Islands,0
+c13,173,2012,11,,229,126,Poland,0
+c13,174,2012,11,,1,0,Portugal,0
+c13,175,2012,11,,,0,Guinea-Bissau,0
+c13,176,2012,11,,0,0,Timor-Leste,0
+c13,178,2012,11,,,0,Eritrea,0
+c13,179,2012,11,,5,6,Qatar,4
+c13,180,2012,11,,,0,Palau,0
+c13,181,2012,11,,,0,Zimbabwe,0
+c13,183,2012,11,,1,0,Romania,0
+c13,184,2012,11,,,0,Rwanda,0
+c13,185,2012,11,,36,0,Russian Federation,1
+c13,186,2012,11,,,0,Serbia and Montenegro,0
+c13,187,2012,11,,,0,"Saint Helena, Ascension and Tristan da Cunha",0
+c13,188,2012,11,,,0,Saint Kitts and Nevis,0
+c13,189,2012,11,,,0,Saint Lucia,0
+c13,190,2012,11,,,0,Saint Pierre and Miquelon,0
+c13,191,2012,11,,,0,Saint Vincent and the Grenadines,0
+c13,192,2012,11,,,0,San Marino,0
+c13,193,2012,11,,,0,Sao Tome and Principe,0
+c13,194,2012,11,,508,666,Saudi Arabia,0
+c13,195,2012,11,,,0,Senegal,0
+c13,196,2012,11,,,0,Seychelles,0
+c13,197,2012,11,,,0,Sierra Leone,0
+c13,198,2012,11,,0,0,Slovenia,0
+c13,199,2012,11,,38,24,Slovakia,9
+c13,200,2012,11,,1,0,Singapore,0
+c13,201,2012,11,,,0,Somalia,0
+c13,202,2012,11,,784,1071,South Africa,1297
+c13,203,2012,11,,84,94,Spain,115
+c13,207,2012,11,,,0,Suriname,0
+c13,208,2012,11,,,0,Tajikistan,0
+c13,210,2012,11,,48,8,Sweden,39
+c13,211,2012,11,3768,5407,3477,Switzerland,6011
+c13,212,2012,11,,,0,Syrian Arab Republic,0
+c13,213,2012,11,,,0,Turkmenistan,0
+c13,215,2012,11,,1,1,United Republic of Tanzania,0
+c13,216,2012,11,,8,7,Thailand,0
+c13,217,2012,11,,,0,Togo,0
+c13,218,2012,11,,,0,Tokelau,0
+c13,219,2012,11,,,0,Tonga,0
+c13,220,2012,11,,,0,Trinidad and Tobago,0
+c13,221,2012,11,,0,0,Oman,0
+c13,222,2012,11,,,0,Tunisia,0
+c13,223,2012,11,,3,1,Turkey,0
+c13,224,2012,11,,,0,Turks and Caicos Islands,0
+c13,225,2012,11,,0,0,United Arab Emirates,0
+c13,226,2012,11,,,0,Uganda,0
+c13,227,2012,11,,,0,Tuvalu,0
+c13,228,2012,11,,,0,USSR,0
+c13,229,2012,11,1521,1205,3194,United Kingdom,3417
+c13,230,2012,11,,,0,Ukraine,0
+c13,231,2012,11,3226,6098,7288,United States of America,7663
+c13,233,2012,11,,,0,Burkina Faso,0
+c13,234,2012,11,,,0,Uruguay,0
+c13,235,2012,11,,,0,Uzbekistan,0
+c13,236,2012,11,,,0,Venezuela (Bolivarian Republic of),0
+c13,237,2012,11,,1,1,Viet Nam,0
+c13,238,2012,11,,,0,Ethiopia,0
+c13,239,2012,11,,,0,British Virgin Islands,0
+c13,243,2012,11,,,0,Wallis and Futuna Islands,0
+c13,244,2012,11,,,0,Samoa,0
+c13,249,2012,11,,,0,Yemen,0
+c13,250,2012,11,,,0,Democratic Republic of the Congo,0
+c13,251,2012,11,,,0,Zambia,0
+c13,255,2012,11,,113,155,Belgium,113
+c13,256,2012,11,,,0,Luxembourg,0
+c13,258,2012,11,,,0,Anguilla,0
+c13,272,2012,11,,,0,Serbia,0
+c13,273,2012,11,,,0,Montenegro,0
+c13,276,2012,11,,,0,Sudan,0
+c13,277,2012,11,,,0,South Sudan,0
+c13,279,2012,11,,,0,Curaçao,0
+c13,299,2012,11,,,0,Palestine,0
+c13,999,2012,11,,0,0,"",0
+c14,1,2012,11,,0,0,Armenia,0
+c14,2,2012,11,,10,12,Afghanistan,0
+c14,3,2012,11,147,38,101,Albania,0
+c14,4,2012,11,,104,39,Algeria,1
+c14,6,2012,11,,1,1,Andorra,0
+c14,7,2012,11,,57,11,Angola,0
+c14,9,2012,11,,1797,1185,Argentina,343
+c14,10,2012,11,484,12358,526,Australia,609
+c14,11,2012,11,,,0,Austria,1790177
+c14,12,2012,11,,9,11,Bahamas,0
+c14,13,2012,11,,11,5,Bahrain,1
+c14,14,2012,11,,10,8,Barbados,1
+c14,15,2012,11,,,0,Belgium-Luxembourg,0
+c14,16,2012,11,,17,7,Bangladesh,0
+c14,17,2012,11,,,0,Bermuda,0
+c14,18,2012,11,,19,23,Bhutan,10
+c14,19,2012,11,,4,2,Bolivia (Plurinational State of),0
+c14,21,2012,11,251,23638,303,Brazil,1095
+c14,22,2012,11,,9,11,Aruba,0
+c14,23,2012,11,,20,8,Belize,0
+c14,24,2012,11,,,0,British Indian Ocean Territory,0
+c14,25,2012,11,,0,0,Solomon Islands,0
+c14,26,2012,11,,11,11,Brunei Darussalam,0
+c14,27,2012,11,34,1718,50,Bulgaria,51
+c14,28,2012,11,,11,10,Myanmar,1
+c14,29,2012,11,,4,6,Burundi,0
+c14,32,2012,11,,26,11,Cameroon,0
+c14,33,2012,11,2,106047,2,Canada,2167
+c14,35,2012,11,,1,1,Cabo Verde,0
+c14,36,2012,11,,0,0,Cayman Islands,0
+c14,37,2012,11,,2,3,Central African Republic,0
+c14,38,2012,11,,12,4,Sri Lanka,0
+c14,39,2012,11,,2,3,Chad,0
+c14,40,2012,11,,7679,3788,Chile,1195
+c14,41,2012,11,,59184,77993,"China, mainland",35626
+c14,42,2012,11,,,0,Christmas Island,0
+c14,43,2012,11,,,0,Cocos (Keeling) Islands,0
+c14,44,2012,11,4,2203,4,Colombia,65
+c14,45,2012,11,,,0,Comoros,0
+c14,46,2012,11,,0,0,Congo,0
+c14,47,2012,11,,,0,Cook Islands,0
+c14,48,2012,11,,256,119,Costa Rica,3
+c14,49,2012,11,,3,4,Cuba,1
+c14,50,2012,11,,1,0,Cyprus,0
+c14,51,2012,11,,,0,Czechoslovakia,0
+c14,52,2012,11,,,0,Azerbaijan,0
+c14,53,2012,11,,3,3,Benin,0
+c14,54,2012,11,1408,2078,1437,Denmark,431
+c14,55,2012,11,,5,6,Dominica,0
+c14,56,2012,11,,64,32,Dominican Republic,5
+c14,57,2012,11,,2209,1766,Belarus,476
+c14,58,2012,11,,591,433,Ecuador,85
+c14,59,2012,11,,274,53,Egypt,11
+c14,60,2012,11,,407,158,El Salvador,31
+c14,61,2012,11,,1,1,Equatorial Guinea,0
+c14,63,2012,11,,1442,843,Estonia,164
+c14,65,2012,11,,,0,Falkland Islands (Malvinas),0
+c14,66,2012,11,,6,5,Fiji,0
+c14,67,2012,11,52431,131904,66486,Finland,44959
+c14,68,2012,11,32528,58760,40094,France,16730
+c14,70,2012,11,,0,0,French Polynesia,0
+c14,71,2012,11,,,0,French Southern and Antarctic Territories,0
+c14,72,2012,11,,2,2,Djibouti,0
+c14,73,2012,11,,2,0,Georgia,0
+c14,74,2012,11,,16,6,Gabon,0
+c14,75,2012,11,,1,2,Gambia,0
+c14,79,2012,11,485966,188575,640089,Germany,172114
+c14,80,2012,11,2921,1402,3285,Bosnia and Herzegovina,865
+c14,81,2012,11,,29,26,Ghana,0
+c14,82,2012,11,,1,1,Gibraltar,0
+c14,83,2012,11,,,0,Kiribati,0
+c14,84,2012,11,98,1169,132,Greece,60
+c14,85,2012,11,,1,1,Greenland,0
+c14,86,2012,11,,,0,Grenada,0
+c14,88,2012,11,,,0,Guam,0
+c14,89,2012,11,,209,115,Guatemala,4
+c14,90,2012,11,,9,10,Guinea,0
+c14,91,2012,11,,1,1,Guyana,0
+c14,93,2012,11,,0,0,Haiti,0
+c14,95,2012,11,,600,180,Honduras,30
+c14,96,2012,11,,2514,3200,"China, Hong Kong SAR",273
+c14,97,2012,11,885,8226,2484,Hungary,961
+c14,98,2012,11,4868,1997,8990,Croatia,2397
+c14,99,2012,11,,,0,Iceland,0
+c14,100,2012,11,12,6873,19,India,116
+c14,101,2012,11,298,50076,296,Indonesia,1162
+c14,102,2012,11,,130,128,Iran (Islamic Republic of),24
+c14,103,2012,11,,2,2,Iraq,0
+c14,104,2012,11,23,412,21,Ireland,8
+c14,105,2012,11,,1636,826,Israel,139
+c14,106,2012,11,53004,42954,71794,Italy,21456
+c14,107,2012,11,,7,2,Cote d'Ivoire,0
+c14,108,2012,11,,108,76,Kazakhstan,17
+c14,109,2012,11,,6,4,Jamaica,0
+c14,110,2012,11,59,13228,105,Japan,443
+c14,112,2012,11,,743,299,Jordan,32
+c14,113,2012,11,,14,16,Kyrgyzstan,0
+c14,114,2012,11,,319,336,Kenya,0
+c14,115,2012,11,,4,5,Cambodia,0
+c14,116,2012,11,,77,45,Democratic People's Republic of Korea,18
+c14,117,2012,11,2,41649,2,Republic of Korea,765
+c14,118,2012,11,,96,39,Kuwait,4
+c14,119,2012,11,21,532,34,Latvia,17
+c14,120,2012,11,,2,2,Lao People's Democratic Republic,0
+c14,121,2012,11,,441,222,Lebanon,30
+c14,123,2012,11,,0,0,Liberia,0
+c14,124,2012,11,,9,12,Libya,1
+c14,126,2012,11,82,1677,157,Lithuania,93
+c14,127,2012,11,,,0,Marshall Islands,0
+c14,128,2012,11,,5,6,"China, Macao SAR",0
+c14,129,2012,11,,5,5,Madagascar,1
+c14,130,2012,11,,3,4,Malawi,0
+c14,131,2012,11,,4986,3840,Malaysia,931
+c14,132,2012,11,,0,0,Maldives,0
+c14,133,2012,11,,1,0,Mali,0
+c14,134,2012,11,,0,0,Malta,0
+c14,136,2012,11,,1,1,Mauritania,0
+c14,137,2012,11,,12,5,Mauritius,0
+c14,138,2012,11,,2800,1526,Mexico,393
+c14,141,2012,11,,0,0,Mongolia,0
+c14,142,2012,11,,,0,Montserrat,0
+c14,143,2012,11,,70,25,Morocco,4
+c14,144,2012,11,,13,16,Mozambique,1
+c14,145,2012,11,,,0,Micronesia (Federated States of),0
+c14,146,2012,11,,108,68,Republic of Moldova,4
+c14,148,2012,11,,,0,Nauru,0
+c14,149,2012,11,,8,12,Nepal,2
+c14,150,2012,11,26315,26425,24284,Netherlands,7399
+c14,151,2012,11,,,0,Netherlands Antilles,0
+c14,153,2012,11,,1,1,New Caledonia,0
+c14,154,2012,11,,34,42,North Macedonia,6
+c14,155,2012,11,,3,3,Vanuatu,0
+c14,156,2012,11,,7268,3553,New Zealand,1147
+c14,157,2012,11,,6,5,Nicaragua,0
+c14,158,2012,11,,2,0,Niger,0
+c14,159,2012,11,,4,2,Nigeria,0
+c14,160,2012,11,,,0,Niue,0
+c14,161,2012,11,,,0,Norfolk Island,0
+c14,162,2012,11,3722,14453,3390,Norway,3325
+c14,163,2012,11,,,0,Northern Mariana Islands,0
+c14,165,2012,11,,129,135,Pakistan,46
+c14,166,2012,11,,137,63,Panama,0
+c14,167,2012,11,40574,10116,50237,Czechia,7756
+c14,168,2012,11,,14,18,Papua New Guinea,0
+c14,169,2012,11,,272,146,Paraguay,8
+c14,170,2012,11,,851,585,Peru,112
+c14,171,2012,11,1,462,1,Philippines,8
+c14,172,2012,11,,,0,Pitcairn Islands,0
+c14,173,2012,11,36339,28551,44113,Poland,13009
+c14,174,2012,11,7176,23948,9593,Portugal,5209
+c14,175,2012,11,,2,2,Guinea-Bissau,0
+c14,176,2012,11,,2,3,Timor-Leste,0
+c14,178,2012,11,,1,0,Eritrea,0
+c14,179,2012,11,,63,65,Qatar,3
+c14,180,2012,11,,,0,Palau,0
+c14,181,2012,11,,11,4,Zimbabwe,0
+c14,183,2012,11,331,1402,530,Romania,152
+c14,184,2012,11,,1,0,Rwanda,0
+c14,185,2012,11,605,34421,762,Russian Federation,2747
+c14,186,2012,11,,,0,Serbia and Montenegro,0
+c14,187,2012,11,,,0,"Saint Helena, Ascension and Tristan da Cunha",0
+c14,188,2012,11,,,0,Saint Kitts and Nevis,0
+c14,189,2012,11,,,0,Saint Lucia,0
+c14,190,2012,11,,,0,Saint Pierre and Miquelon,0
+c14,191,2012,11,,6,7,Saint Vincent and the Grenadines,0
+c14,192,2012,11,,,0,San Marino,0
+c14,193,2012,11,,6,4,Sao Tome and Principe,1
+c14,194,2012,11,,3750,3041,Saudi Arabia,656
+c14,195,2012,11,,29,9,Senegal,0
+c14,196,2012,11,,2,2,Seychelles,0
+c14,197,2012,11,,5,3,Sierra Leone,0
+c14,198,2012,11,14261,7761,21321,Slovenia,6015
+c14,199,2012,11,21979,8495,25759,Slovakia,6544
+c14,200,2012,11,4,6920,8,Singapore,18
+c14,201,2012,11,,2,3,Somalia,0
+c14,202,2012,11,479,6729,522,South Africa,624
+c14,203,2012,11,12023,38084,16967,Spain,7151
+c14,207,2012,11,,0,0,Suriname,0
+c14,208,2012,11,,,0,Tajikistan,0
+c14,210,2012,11,165626,133214,176165,Sweden,84142
+c14,211,2012,11,6645,11190,9602,Switzerland,4571
+c14,212,2012,11,,20,9,Syrian Arab Republic,2
+c14,213,2012,11,,,0,Turkmenistan,0
+c14,215,2012,11,,300,126,United Republic of Tanzania,25
+c14,216,2012,11,65,11035,72,Thailand,307
+c14,217,2012,11,,6,2,Togo,0
+c14,218,2012,11,,,0,Tokelau,0
+c14,219,2012,11,,0,0,Tonga,0
+c14,220,2012,11,,162,68,Trinidad and Tobago,4
+c14,221,2012,11,,79,74,Oman,2
+c14,222,2012,11,,291,214,Tunisia,45
+c14,223,2012,11,154,4889,205,Turkey,114
+c14,224,2012,11,,0,0,Turks and Caicos Islands,0
+c14,225,2012,11,,1055,581,United Arab Emirates,64
+c14,226,2012,11,,23,11,Uganda,0
+c14,227,2012,11,,,0,Tuvalu,0
+c14,228,2012,11,,,0,USSR,0
+c14,229,2012,11,4254,15904,4817,United Kingdom,1660
+c14,230,2012,11,23,1782,13,Ukraine,72
+c14,231,2012,11,17436,169002,20597,United States of America,13134
+c14,233,2012,11,,4,3,Burkina Faso,1
+c14,234,2012,11,,540,221,Uruguay,75
+c14,235,2012,11,,71,87,Uzbekistan,9
+c14,236,2012,11,,4,5,Venezuela (Bolivarian Republic of),1
+c14,237,2012,11,,1286,1094,Viet Nam,280
+c14,238,2012,11,,11,4,Ethiopia,1
+c14,239,2012,11,,1,1,British Virgin Islands,0
+c14,243,2012,11,,,0,Wallis and Futuna Islands,0
+c14,244,2012,11,,1,1,Samoa,0
+c14,249,2012,11,,2,3,Yemen,0
+c14,250,2012,11,,54,68,Democratic Republic of the Congo,7
+c14,251,2012,11,,17,20,Zambia,1
+c14,255,2012,11,22002,33250,20960,Belgium,4602
+c14,256,2012,11,120,103,87,Luxembourg,0
+c14,258,2012,11,,,0,Anguilla,0
+c14,272,2012,11,,1864,2359,Serbia,504
+c14,273,2012,11,,2,2,Montenegro,0
+c14,276,2012,11,,16,20,Sudan,0
+c14,277,2012,11,,,0,South Sudan,0
+c14,279,2012,11,,1,2,Curaçao,0
+c14,299,2012,11,,,0,Palestine,0
+c14,999,2012,11,,17408,22319,"",7823
+c15,1,2012,11,,,0,Armenia,0
+c15,2,2012,11,,,0,Afghanistan,0
+c15,3,2012,11,,3,0,Albania,0
+c15,4,2012,11,,,0,Algeria,0
+c15,6,2012,11,,,0,Andorra,0
+c15,7,2012,11,,,0,Angola,0
+c15,9,2012,11,,285,41,Argentina,42
+c15,10,2012,11,,51,1,Australia,2
+c15,11,2012,11,,,0,Austria,810278
+c15,12,2012,11,,,0,Bahamas,0
+c15,13,2012,11,,,0,Bahrain,0
+c15,14,2012,11,,,0,Barbados,0
+c15,15,2012,11,,,0,Belgium-Luxembourg,0
+c15,16,2012,11,,,0,Bangladesh,0
+c15,17,2012,11,,,0,Bermuda,0
+c15,18,2012,11,,,0,Bhutan,0
+c15,19,2012,11,,,0,Bolivia (Plurinational State of),0
+c15,21,2012,11,,19,11,Brazil,11
+c15,22,2012,11,,,0,Aruba,0
+c15,23,2012,11,,,0,Belize,0
+c15,24,2012,11,,,0,British Indian Ocean Territory,0
+c15,25,2012,11,,,0,Solomon Islands,0
+c15,26,2012,11,,,0,Brunei Darussalam,0
+c15,27,2012,11,,1392,574,Bulgaria,488
+c15,28,2012,11,,,0,Myanmar,0
+c15,29,2012,11,,,0,Burundi,0
+c15,32,2012,11,,,0,Cameroon,0
+c15,33,2012,11,5,52478,5,Canada,3434
+c15,35,2012,11,,,0,Cabo Verde,0
+c15,36,2012,11,,,0,Cayman Islands,0
+c15,37,2012,11,,,0,Central African Republic,0
+c15,38,2012,11,,,0,Sri Lanka,0
+c15,39,2012,11,,,0,Chad,0
+c15,40,2012,11,,70,10,Chile,10
+c15,41,2012,11,1,98,1,"China, mainland",5
+c15,42,2012,11,,,0,Christmas Island,0
+c15,43,2012,11,,,0,Cocos (Keeling) Islands,0
+c15,44,2012,11,,,0,Colombia,0
+c15,45,2012,11,,,0,Comoros,0
+c15,46,2012,11,,,0,Congo,0
+c15,47,2012,11,,,0,Cook Islands,0
+c15,48,2012,11,,,0,Costa Rica,0
+c15,49,2012,11,,,0,Cuba,0
+c15,50,2012,11,,,0,Cyprus,0
+c15,51,2012,11,,,0,Czechoslovakia,0
+c15,52,2012,11,,,0,Azerbaijan,0
+c15,53,2012,11,,,0,Benin,0
+c15,54,2012,11,9,2234,4,Denmark,48
+c15,55,2012,11,,,0,Dominica,0
+c15,56,2012,11,,,0,Dominican Republic,0
+c15,57,2012,11,196,5196,223,Belarus,1983
+c15,58,2012,11,,,0,Ecuador,0
+c15,59,2012,11,,447,66,Egypt,67
+c15,60,2012,11,,,0,El Salvador,0
+c15,61,2012,11,,,0,Equatorial Guinea,0
+c15,63,2012,11,,16280,2492,Estonia,2409
+c15,65,2012,11,,,0,Falkland Islands (Malvinas),0
+c15,66,2012,11,,,0,Fiji,0
+c15,67,2012,11,,2213,342,Finland,323
+c15,68,2012,11,74,7944,123,France,1581
+c15,70,2012,11,,,0,French Polynesia,0
+c15,71,2012,11,,,0,French Southern and Antarctic Territories,0
+c15,72,2012,11,,,0,Djibouti,0
+c15,73,2012,11,,0,0,Georgia,0
+c15,74,2012,11,,,0,Gabon,0
+c15,75,2012,11,,,0,Gambia,0
+c15,79,2012,11,164736,32064,140769,Germany,80030
+c15,80,2012,11,832,6852,1228,Bosnia and Herzegovina,1695
+c15,81,2012,11,,,0,Ghana,0
+c15,82,2012,11,,,0,Gibraltar,0
+c15,83,2012,11,,,0,Kiribati,0
+c15,84,2012,11,,0,0,Greece,0
+c15,85,2012,11,,,0,Greenland,0
+c15,86,2012,11,,,0,Grenada,0
+c15,88,2012,11,,,0,Guam,0
+c15,89,2012,11,,0,0,Guatemala,0
+c15,90,2012,11,,,0,Guinea,0
+c15,91,2012,11,,,0,Guyana,0
+c15,93,2012,11,,,0,Haiti,0
+c15,95,2012,11,,89,11,Honduras,13
+c15,96,2012,11,,,0,"China, Hong Kong SAR",0
+c15,97,2012,11,2234,1534,3479,Hungary,1501
+c15,98,2012,11,670,6027,603,Croatia,774
+c15,99,2012,11,,0,0,Iceland,0
+c15,100,2012,11,,,0,India,0
+c15,101,2012,11,,436,86,Indonesia,69
+c15,102,2012,11,,,0,Iran (Islamic Republic of),0
+c15,103,2012,11,,,0,Iraq,0
+c15,104,2012,11,,27,6,Ireland,4
+c15,105,2012,11,,,0,Israel,0
+c15,106,2012,11,258,175,319,Italy,57
+c15,107,2012,11,,,0,Cote d'Ivoire,0
+c15,108,2012,11,,,0,Kazakhstan,0
+c15,109,2012,11,,,0,Jamaica,0
+c15,110,2012,11,,125,20,Japan,10
+c15,112,2012,11,,,0,Jordan,0
+c15,113,2012,11,,,0,Kyrgyzstan,0
+c15,114,2012,11,,,0,Kenya,0
+c15,115,2012,11,,,0,Cambodia,0
+c15,116,2012,11,,,0,Democratic People's Republic of Korea,0
+c15,117,2012,11,,1,0,Republic of Korea,0
+c15,118,2012,11,,,0,Kuwait,0
+c15,119,2012,11,,34211,6193,Latvia,5950
+c15,120,2012,11,,,0,Lao People's Democratic Republic,0
+c15,121,2012,11,,,0,Lebanon,0
+c15,123,2012,11,,,0,Liberia,0
+c15,124,2012,11,,,0,Libya,0
+c15,126,2012,11,1510,11328,1593,Lithuania,1982
+c15,127,2012,11,,,0,Marshall Islands,0
+c15,128,2012,11,,,0,"China, Macao SAR",0
+c15,129,2012,11,,,0,Madagascar,0
+c15,130,2012,11,,,0,Malawi,0
+c15,131,2012,11,,3638,1576,Malaysia,1233
+c15,132,2012,11,,,0,Maldives,0
+c15,133,2012,11,,,0,Mali,0
+c15,134,2012,11,,,0,Malta,0
+c15,136,2012,11,,,0,Mauritania,0
+c15,137,2012,11,,,0,Mauritius,0
+c15,138,2012,11,,67,8,Mexico,7
+c15,141,2012,11,,,0,Mongolia,0
+c15,142,2012,11,,,0,Montserrat,0
+c15,143,2012,11,,,0,Morocco,0
+c15,144,2012,11,,,0,Mozambique,0
+c15,145,2012,11,,,0,Micronesia (Federated States of),0
+c15,146,2012,11,,2,1,Republic of Moldova,0
+c15,148,2012,11,,,0,Nauru,0
+c15,149,2012,11,,,0,Nepal,0
+c15,150,2012,11,0,7339,1,Netherlands,504
+c15,151,2012,11,,,0,Netherlands Antilles,0
+c15,153,2012,11,,,0,New Caledonia,0
+c15,154,2012,11,,24,9,North Macedonia,2
+c15,155,2012,11,,,0,Vanuatu,0
+c15,156,2012,11,,8,0,New Zealand,0
+c15,157,2012,11,,,0,Nicaragua,0
+c15,158,2012,11,,,0,Niger,0
+c15,159,2012,11,,,0,Nigeria,0
+c15,160,2012,11,,,0,Niue,0
+c15,161,2012,11,,,0,Norfolk Island,0
+c15,162,2012,11,,1582,221,Norway,424
+c15,163,2012,11,,,0,Northern Mariana Islands,0
+c15,165,2012,11,,,0,Pakistan,0
+c15,166,2012,11,,,0,Panama,0
+c15,167,2012,11,51387,11568,75448,Czechia,44281
+c15,168,2012,11,,,0,Papua New Guinea,0
+c15,169,2012,11,,,0,Paraguay,0
+c15,170,2012,11,,,0,Peru,0
+c15,171,2012,11,,,0,Philippines,0
+c15,172,2012,11,,,0,Pitcairn Islands,0
+c15,173,2012,11,47,8264,57,Poland,3070
+c15,174,2012,11,,21070,3942,Portugal,3506
+c15,175,2012,11,,,0,Guinea-Bissau,0
+c15,176,2012,11,,,0,Timor-Leste,0
+c15,178,2012,11,,,0,Eritrea,0
+c15,179,2012,11,,,0,Qatar,0
+c15,180,2012,11,,,0,Palau,0
+c15,181,2012,11,,,0,Zimbabwe,0
+c15,183,2012,11,94356,12079,106854,Romania,74220
+c15,184,2012,11,,,0,Rwanda,0
+c15,185,2012,11,23,28645,20,Russian Federation,1398
+c15,186,2012,11,,,0,Serbia and Montenegro,0
+c15,187,2012,11,,,0,"Saint Helena, Ascension and Tristan da Cunha",0
+c15,188,2012,11,,,0,Saint Kitts and Nevis,0
+c15,189,2012,11,,,0,Saint Lucia,0
+c15,190,2012,11,,,0,Saint Pierre and Miquelon,0
+c15,191,2012,11,,,0,Saint Vincent and the Grenadines,0
+c15,192,2012,11,,,0,San Marino,0
+c15,193,2012,11,,,0,Sao Tome and Principe,0
+c15,194,2012,11,,,0,Saudi Arabia,0
+c15,195,2012,11,,,0,Senegal,0
+c15,196,2012,11,,,0,Seychelles,0
+c15,197,2012,11,,,0,Sierra Leone,0
+c15,198,2012,11,2561,4041,4423,Slovenia,1401
+c15,199,2012,11,2216,1220,1536,Slovakia,2022
+c15,200,2012,11,,10,1,Singapore,0
+c15,201,2012,11,,,0,Somalia,0
+c15,202,2012,11,,2733,1544,South Africa,1069
+c15,203,2012,11,0,2065,0,Spain,90
+c15,207,2012,11,,,0,Suriname,0
+c15,208,2012,11,,,0,Tajikistan,0
+c15,210,2012,11,,8001,1138,Sweden,1151
+c15,211,2012,11,858,272,539,Switzerland,394
+c15,212,2012,11,,,0,Syrian Arab Republic,0
+c15,213,2012,11,,,0,Turkmenistan,0
+c15,215,2012,11,,,0,United Republic of Tanzania,0
+c15,216,2012,11,,23,4,Thailand,1
+c15,217,2012,11,,,0,Togo,0
+c15,218,2012,11,,,0,Tokelau,0
+c15,219,2012,11,,,0,Tonga,0
+c15,220,2012,11,,,0,Trinidad and Tobago,0
+c15,221,2012,11,,,0,Oman,0
+c15,222,2012,11,,,0,Tunisia,0
+c15,223,2012,11,,,0,Turkey,0
+c15,224,2012,11,,,0,Turks and Caicos Islands,0
+c15,225,2012,11,,1,0,United Arab Emirates,0
+c15,226,2012,11,,,0,Uganda,0
+c15,227,2012,11,,,0,Tuvalu,0
+c15,228,2012,11,,,0,USSR,0
+c15,229,2012,11,6074,2296,7535,United Kingdom,850
+c15,230,2012,11,4348,10725,4437,Ukraine,6150
+c15,231,2012,11,9,71394,13,United States of America,4792
+c15,233,2012,11,,,0,Burkina Faso,0
+c15,234,2012,11,,74,14,Uruguay,14
+c15,235,2012,11,,,0,Uzbekistan,0
+c15,236,2012,11,,,0,Venezuela (Bolivarian Republic of),0
+c15,237,2012,11,,1227,239,Viet Nam,184
+c15,238,2012,11,,,0,Ethiopia,0
+c15,239,2012,11,,,0,British Virgin Islands,0
+c15,243,2012,11,,,0,Wallis and Futuna Islands,0
+c15,244,2012,11,,,0,Samoa,0
+c15,249,2012,11,,,0,Yemen,0
+c15,250,2012,11,,,0,Democratic Republic of the Congo,0
+c15,251,2012,11,,,0,Zambia,0
+c15,255,2012,11,,2852,2089,Belgium,505
+c15,256,2012,11,,394,221,Luxembourg,162
+c15,258,2012,11,,,0,Anguilla,0
+c15,272,2012,11,48,1833,63,Serbia,266
+c15,273,2012,11,,18,5,Montenegro,2
+c15,276,2012,11,,,0,Sudan,0
+c15,277,2012,11,,,0,South Sudan,0
+c15,279,2012,11,,,0,Curaçao,0
+c15,299,2012,11,,,0,Palestine,0
+c15,999,2012,11,,,0,"",0
+c16,1,2012,11,,0,0,Armenia,0
+c16,2,2012,11,,0,0,Afghanistan,0
+c16,3,2012,11,,6,0,Albania,0
+c16,4,2012,11,,1,1,Algeria,1
+c16,6,2012,11,,,0,Andorra,0
+c16,7,2012,11,,1,0,Angola,1
+c16,9,2012,11,,556,58,Argentina,95
+c16,10,2012,11,,0,0,Australia,0
+c16,11,2012,11,,,0,Austria,1165
+c16,12,2012,11,,0,0,Bahamas,0
+c16,13,2012,11,,5,3,Bahrain,1
+c16,14,2012,11,,,0,Barbados,0
+c16,15,2012,11,,,0,Belgium-Luxembourg,0
+c16,16,2012,11,,1,0,Bangladesh,0
+c16,17,2012,11,,,0,Bermuda,0
+c16,18,2012,11,,3,0,Bhutan,0
+c16,19,2012,11,,43,4,Bolivia (Plurinational State of),6
+c16,21,2012,11,,6,1,Brazil,1
+c16,22,2012,11,,,0,Aruba,0
+c16,23,2012,11,,0,0,Belize,0
+c16,24,2012,11,,,0,British Indian Ocean Territory,0
+c16,25,2012,11,,,0,Solomon Islands,0
+c16,26,2012,11,,,0,Brunei Darussalam,0
+c16,27,2012,11,,15,1,Bulgaria,1
+c16,28,2012,11,,1008,339,Myanmar,480
+c16,29,2012,11,,0,0,Burundi,0
+c16,32,2012,11,,0,0,Cameroon,0
+c16,33,2012,11,,6,1,Canada,0
+c16,35,2012,11,,,0,Cabo Verde,0
+c16,36,2012,11,,,0,Cayman Islands,0
+c16,37,2012,11,,0,0,Central African Republic,0
+c16,38,2012,11,,46,5,Sri Lanka,1
+c16,39,2012,11,,,0,Chad,0
+c16,40,2012,11,,1,0,Chile,1
+c16,41,2012,11,14,418,13,"China, mainland",18
+c16,42,2012,11,,,0,Christmas Island,0
+c16,43,2012,11,,,0,Cocos (Keeling) Islands,0
+c16,44,2012,11,,23,2,Colombia,6
+c16,45,2012,11,,,0,Comoros,0
+c16,46,2012,11,,0,0,Congo,0
+c16,47,2012,11,,,0,Cook Islands,0
+c16,48,2012,11,,0,0,Costa Rica,0
+c16,49,2012,11,,406,36,Cuba,71
+c16,50,2012,11,,1,0,Cyprus,0
+c16,51,2012,11,,,0,Czechoslovakia,0
+c16,52,2012,11,,0,0,Azerbaijan,0
+c16,53,2012,11,,3,0,Benin,4
+c16,54,2012,11,0,8,0,Denmark,0
+c16,55,2012,11,,0,0,Dominica,0
+c16,56,2012,11,,15,2,Dominican Republic,2
+c16,57,2012,11,,19,2,Belarus,9
+c16,58,2012,11,,2,0,Ecuador,1
+c16,59,2012,11,25,112,6,Egypt,6
+c16,60,2012,11,,6,1,El Salvador,1
+c16,61,2012,11,,0,0,Equatorial Guinea,0
+c16,63,2012,11,,62,8,Estonia,4
+c16,65,2012,11,,,0,Falkland Islands (Malvinas),0
+c16,66,2012,11,,0,0,Fiji,0
+c16,67,2012,11,,0,0,Finland,0
+c16,68,2012,11,1769,103,1797,France,501
+c16,70,2012,11,,,0,French Polynesia,0
+c16,71,2012,11,,,0,French Southern and Antarctic Territories,0
+c16,72,2012,11,,0,0,Djibouti,0
+c16,73,2012,11,,,0,Georgia,0
+c16,74,2012,11,,,0,Gabon,0
+c16,75,2012,11,,1,0,Gambia,0
+c16,79,2012,11,686,152,842,Germany,6
+c16,80,2012,11,2750,107,3387,Bosnia and Herzegovina,2861
+c16,81,2012,11,,12,1,Ghana,4
+c16,82,2012,11,,,0,Gibraltar,0
+c16,83,2012,11,,,0,Kiribati,0
+c16,84,2012,11,1,4,0,Greece,0
+c16,85,2012,11,,,0,Greenland,0
+c16,86,2012,11,,,0,Grenada,0
+c16,88,2012,11,,,0,Guam,0
+c16,89,2012,11,,4,1,Guatemala,1
+c16,90,2012,11,,0,0,Guinea,0
+c16,91,2012,11,,6,3,Guyana,5
+c16,93,2012,11,,0,0,Haiti,0
+c16,95,2012,11,,0,0,Honduras,0
+c16,96,2012,11,,27,7,"China, Hong Kong SAR",6
+c16,97,2012,11,,0,0,Hungary,0
+c16,98,2012,11,,13,1,Croatia,4
+c16,99,2012,11,,,0,Iceland,0
+c16,100,2012,11,0,190,0,India,38
+c16,101,2012,11,18,1439,19,Indonesia,63
+c16,102,2012,11,,3,0,Iran (Islamic Republic of),0
+c16,103,2012,11,,0,0,Iraq,0
+c16,104,2012,11,,0,0,Ireland,0
+c16,105,2012,11,,0,0,Israel,0
+c16,106,2012,11,,9,1,Italy,0
+c16,107,2012,11,,9,2,Cote d'Ivoire,3
+c16,108,2012,11,,0,0,Kazakhstan,0
+c16,109,2012,11,,0,0,Jamaica,0
+c16,110,2012,11,,5,1,Japan,0
+c16,112,2012,11,0,0,0,Jordan,0
+c16,113,2012,11,,,0,Kyrgyzstan,0
+c16,114,2012,11,,2,0,Kenya,0
+c16,115,2012,11,,147,11,Cambodia,16
+c16,116,2012,11,,0,0,Democratic People's Republic of Korea,0
+c16,117,2012,11,,1,0,Republic of Korea,0
+c16,118,2012,11,,2,0,Kuwait,0
+c16,119,2012,11,,65,5,Latvia,82
+c16,120,2012,11,,169,18,Lao People's Democratic Republic,26
+c16,121,2012,11,,1,0,Lebanon,0
+c16,123,2012,11,,,0,Liberia,0
+c16,124,2012,11,,,0,Libya,0
+c16,126,2012,11,,7,0,Lithuania,2
+c16,127,2012,11,,,0,Marshall Islands,0
+c16,128,2012,11,,,0,"China, Macao SAR",0
+c16,129,2012,11,,0,0,Madagascar,0
+c16,130,2012,11,,1,0,Malawi,1
+c16,131,2012,11,,245,12,Malaysia,7
+c16,132,2012,11,,,0,Maldives,0
+c16,133,2012,11,,1,0,Mali,1
+c16,134,2012,11,,,0,Malta,0
+c16,136,2012,11,,,0,Mauritania,0
+c16,137,2012,11,,0,0,Mauritius,0
+c16,138,2012,11,,476,79,Mexico,112
+c16,141,2012,11,,1,0,Mongolia,1
+c16,142,2012,11,,,0,Montserrat,0
+c16,143,2012,11,,0,0,Morocco,0
+c16,144,2012,11,,2,0,Mozambique,1
+c16,145,2012,11,,,0,Micronesia (Federated States of),0
+c16,146,2012,11,,0,0,Republic of Moldova,0
+c16,148,2012,11,,,0,Nauru,0
+c16,149,2012,11,,0,0,Nepal,0
+c16,150,2012,11,2,26,1,Netherlands,2
+c16,151,2012,11,,,0,Netherlands Antilles,0
+c16,153,2012,11,,0,0,New Caledonia,0
+c16,154,2012,11,,15,5,North Macedonia,116
+c16,155,2012,11,,,0,Vanuatu,0
+c16,156,2012,11,,0,0,New Zealand,0
+c16,157,2012,11,,4,1,Nicaragua,1
+c16,158,2012,11,,1,0,Niger,0
+c16,159,2012,11,,835,108,Nigeria,477
+c16,160,2012,11,,,0,Niue,0
+c16,161,2012,11,,,0,Norfolk Island,0
+c16,162,2012,11,,5,0,Norway,0
+c16,163,2012,11,,,0,Northern Mariana Islands,0
+c16,165,2012,11,,0,0,Pakistan,0
+c16,166,2012,11,,,0,Panama,0
+c16,167,2012,11,15,13,18,Czechia,6
+c16,168,2012,11,,10,6,Papua New Guinea,8
+c16,169,2012,11,28,996,28,Paraguay,210
+c16,170,2012,11,,0,0,Peru,0
+c16,171,2012,11,3,441,3,Philippines,13
+c16,172,2012,11,,,0,Pitcairn Islands,0
+c16,173,2012,11,66,658,63,Poland,137
+c16,174,2012,11,20,68,18,Portugal,24
+c16,175,2012,11,,0,0,Guinea-Bissau,0
+c16,176,2012,11,,,0,Timor-Leste,0
+c16,178,2012,11,,,0,Eritrea,0
+c16,179,2012,11,,1,1,Qatar,0
+c16,180,2012,11,,,0,Palau,0
+c16,181,2012,11,,37,22,Zimbabwe,31
+c16,183,2012,11,141,9,63,Romania,54
+c16,184,2012,11,,0,0,Rwanda,0
+c16,185,2012,11,,94,7,Russian Federation,19
+c16,186,2012,11,,,0,Serbia and Montenegro,0
+c16,187,2012,11,,,0,"Saint Helena, Ascension and Tristan da Cunha",0
+c16,188,2012,11,,,0,Saint Kitts and Nevis,0
+c16,189,2012,11,,,0,Saint Lucia,0
+c16,190,2012,11,,,0,Saint Pierre and Miquelon,0
+c16,191,2012,11,,0,0,Saint Vincent and the Grenadines,0
+c16,192,2012,11,,,0,San Marino,0
+c16,193,2012,11,,,0,Sao Tome and Principe,0
+c16,194,2012,11,,0,0,Saudi Arabia,0
+c16,195,2012,11,,0,0,Senegal,0
+c16,196,2012,11,,,0,Seychelles,0
+c16,197,2012,11,,1,0,Sierra Leone,0
+c16,198,2012,11,,3,0,Slovenia,0
+c16,199,2012,11,,8,1,Slovakia,1
+c16,200,2012,11,,29,2,Singapore,1
+c16,201,2012,11,,1331,103,Somalia,152
+c16,202,2012,11,,126,85,South Africa,89
+c16,203,2012,11,341,133,191,Spain,103
+c16,207,2012,11,,,0,Suriname,0
+c16,208,2012,11,,,0,Tajikistan,0
+c16,210,2012,11,,10,1,Sweden,0
+c16,211,2012,11,1,1,1,Switzerland,0
+c16,212,2012,11,,20,2,Syrian Arab Republic,2
+c16,213,2012,11,,,0,Turkmenistan,0
+c16,215,2012,11,,0,0,United Republic of Tanzania,0
+c16,216,2012,11,0,171,0,Thailand,12
+c16,217,2012,11,,0,0,Togo,0
+c16,218,2012,11,,,0,Tokelau,0
+c16,219,2012,11,,,0,Tonga,0
+c16,220,2012,11,,,0,Trinidad and Tobago,0
+c16,221,2012,11,,3,0,Oman,0
+c16,222,2012,11,,1,0,Tunisia,0
+c16,223,2012,11,,1,0,Turkey,0
+c16,224,2012,11,,,0,Turks and Caicos Islands,0
+c16,225,2012,11,,53,8,United Arab Emirates,0
+c16,226,2012,11,,0,0,Uganda,0
+c16,227,2012,11,,,0,Tuvalu,0
+c16,228,2012,11,,,0,USSR,0
+c16,229,2012,11,0,14,0,United Kingdom,0
+c16,230,2012,11,556,520,648,Ukraine,668
+c16,231,2012,11,1,115,3,United States of America,14
+c16,233,2012,11,,0,0,Burkina Faso,1
+c16,234,2012,11,,0,0,Uruguay,0
+c16,235,2012,11,,,0,Uzbekistan,0
+c16,236,2012,11,,1,0,Venezuela (Bolivarian Republic of),0
+c16,237,2012,11,,201,48,Viet Nam,66
+c16,238,2012,11,,0,0,Ethiopia,0
+c16,239,2012,11,,,0,British Virgin Islands,0
+c16,243,2012,11,,,0,Wallis and Futuna Islands,0
+c16,244,2012,11,,,0,Samoa,0
+c16,249,2012,11,,,0,Yemen,0
+c16,250,2012,11,,0,0,Democratic Republic of the Congo,0
+c16,251,2012,11,,0,0,Zambia,0
+c16,255,2012,11,,246,163,Belgium,0
+c16,256,2012,11,,0,0,Luxembourg,0
+c16,258,2012,11,,,0,Anguilla,0
+c16,272,2012,11,3736,63,3253,Serbia,2586
+c16,273,2012,11,,,0,Montenegro,0
+c16,276,2012,11,,41,2,Sudan,3
+c16,277,2012,11,,,0,South Sudan,0
+c16,279,2012,11,,,0,Curaçao,0
+c16,299,2012,11,,,0,Palestine,0
+c16,999,2012,11,,538,257,"",330
+c17,1,2012,11,,,0,Armenia,0
+c17,2,2012,11,,,0,Afghanistan,0
+c17,3,2012,11,,914,0,Albania,29
+c17,4,2012,11,,,0,Algeria,0
+c17,6,2012,11,,,0,Andorra,0
+c17,7,2012,11,,,0,Angola,0
+c17,9,2012,11,,1586,0,Argentina,6
+c17,10,2012,11,,222665,0,Australia,2913
+c17,11,2012,11,,,0,Austria,10889242
+c17,12,2012,11,,,0,Bahamas,0
+c17,13,2012,11,,3,0,Bahrain,0
+c17,14,2012,11,,,0,Barbados,0
+c17,15,2012,11,,,0,Belgium-Luxembourg,0
+c17,16,2012,11,,497,0,Bangladesh,20
+c17,17,2012,11,,,0,Bermuda,0
+c17,18,2012,11,,,0,Bhutan,0
+c17,19,2012,11,,0,0,Bolivia (Plurinational State of),0
+c17,21,2012,11,,43435,0,Brazil,130
+c17,22,2012,11,,,0,Aruba,0
+c17,23,2012,11,,,0,Belize,0
+c17,24,2012,11,,,0,British Indian Ocean Territory,0
+c17,25,2012,11,,120,0,Solomon Islands,4
+c17,26,2012,11,,0,0,Brunei Darussalam,0
+c17,27,2012,11,,2392,0,Bulgaria,4
+c17,28,2012,11,,,0,Myanmar,0
+c17,29,2012,11,,1,0,Burundi,0
+c17,32,2012,11,,60,0,Cameroon,2
+c17,33,2012,11,17,33860,29,Canada,304
+c17,35,2012,11,,,0,Cabo Verde,0
+c17,36,2012,11,,,0,Cayman Islands,0
+c17,37,2012,11,,,0,Central African Republic,0
+c17,38,2012,11,,11,0,Sri Lanka,0
+c17,39,2012,11,,,0,Chad,0
+c17,40,2012,11,,106054,0,Chile,542
+c17,41,2012,11,,3,0,"China, mainland",0
+c17,42,2012,11,,,0,Christmas Island,0
+c17,43,2012,11,,,0,Cocos (Keeling) Islands,0
+c17,44,2012,11,,0,0,Colombia,0
+c17,45,2012,11,,,0,Comoros,0
+c17,46,2012,11,,4644,0,Congo,32
+c17,47,2012,11,,,0,Cook Islands,0
+c17,48,2012,11,,3,0,Costa Rica,0
+c17,49,2012,11,,,0,Cuba,0
+c17,50,2012,11,,,0,Cyprus,0
+c17,51,2012,11,,,0,Czechoslovakia,0
+c17,52,2012,11,,,0,Azerbaijan,0
+c17,53,2012,11,,,0,Benin,0
+c17,54,2012,11,5,2453,8,Denmark,48
+c17,55,2012,11,,,0,Dominica,0
+c17,56,2012,11,,,0,Dominican Republic,0
+c17,57,2012,11,,15594,0,Belarus,148
+c17,58,2012,11,,3280,0,Ecuador,57
+c17,59,2012,11,,6,0,Egypt,0
+c17,60,2012,11,,0,0,El Salvador,0
+c17,61,2012,11,,,0,Equatorial Guinea,0
+c17,63,2012,11,,13550,0,Estonia,162
+c17,65,2012,11,,,0,Falkland Islands (Malvinas),0
+c17,66,2012,11,,5215,0,Fiji,89
+c17,67,2012,11,,6639,0,Finland,27
+c17,68,2012,11,2,8823,2,France,5129
+c17,70,2012,11,,,0,French Polynesia,0
+c17,71,2012,11,,,0,French Southern and Antarctic Territories,0
+c17,72,2012,11,,,0,Djibouti,0
+c17,73,2012,11,,4,0,Georgia,0
+c17,74,2012,11,,10,0,Gabon,0
+c17,75,2012,11,,77,0,Gambia,3
+c17,79,2012,11,1160000,44561,926308,Germany,885468
+c17,80,2012,11,158,323,496,Bosnia and Herzegovina,754
+c17,81,2012,11,,3476,0,Ghana,34
+c17,82,2012,11,,,0,Gibraltar,0
+c17,83,2012,11,,,0,Kiribati,0
+c17,84,2012,11,,1,0,Greece,0
+c17,85,2012,11,,,0,Greenland,0
+c17,86,2012,11,,,0,Grenada,0
+c17,88,2012,11,,,0,Guam,0
+c17,89,2012,11,,0,0,Guatemala,0
+c17,90,2012,11,,,0,Guinea,0
+c17,91,2012,11,,,0,Guyana,0
+c17,93,2012,11,,0,0,Haiti,0
+c17,95,2012,11,,23,0,Honduras,0
+c17,96,2012,11,,15,0,"China, Hong Kong SAR",1
+c17,97,2012,11,105699,3832,120279,Hungary,102172
+c17,98,2012,11,4098,6258,8674,Croatia,23582
+c17,99,2012,11,,,0,Iceland,0
+c17,100,2012,11,,1,0,India,0
+c17,101,2012,11,,54561,0,Indonesia,2178
+c17,102,2012,11,,39,0,Iran (Islamic Republic of),2
+c17,103,2012,11,,,0,Iraq,0
+c17,104,2012,11,,2136,0,Ireland,259
+c17,105,2012,11,,,0,Israel,0
+c17,106,2012,11,2637,46,1401,Italy,1056
+c17,107,2012,11,,1,0,Cote d'Ivoire,0
+c17,108,2012,11,,,0,Kazakhstan,0
+c17,109,2012,11,,,0,Jamaica,0
+c17,110,2012,11,,159,0,Japan,1
+c17,112,2012,11,,0,0,Jordan,0
+c17,113,2012,11,,,0,Kyrgyzstan,0
+c17,114,2012,11,,1,0,Kenya,0
+c17,115,2012,11,,342,0,Cambodia,14
+c17,116,2012,11,,4,0,Democratic People's Republic of Korea,0
+c17,117,2012,11,,225,0,Republic of Korea,7
+c17,118,2012,11,,,0,Kuwait,0
+c17,119,2012,11,1921,61045,780,Latvia,2565
+c17,120,2012,11,,1,0,Lao People's Democratic Republic,0
+c17,121,2012,11,,0,0,Lebanon,0
+c17,123,2012,11,,4470,0,Liberia,42
+c17,124,2012,11,,,0,Libya,0
+c17,126,2012,11,,4374,0,Lithuania,39
+c17,127,2012,11,,,0,Marshall Islands,0
+c17,128,2012,11,,,0,"China, Macao SAR",0
+c17,129,2012,11,,,0,Madagascar,0
+c17,130,2012,11,,2,0,Malawi,0
+c17,131,2012,11,,3608,0,Malaysia,39
+c17,132,2012,11,,,0,Maldives,0
+c17,133,2012,11,,,0,Mali,0
+c17,134,2012,11,,,0,Malta,0
+c17,136,2012,11,,,0,Mauritania,0
+c17,137,2012,11,,,0,Mauritius,0
+c17,138,2012,11,,,0,Mexico,0
+c17,141,2012,11,,,0,Mongolia,0
+c17,142,2012,11,,,0,Montserrat,0
+c17,143,2012,11,,0,0,Morocco,0
+c17,144,2012,11,,1,0,Mozambique,0
+c17,145,2012,11,,,0,Micronesia (Federated States of),0
+c17,146,2012,11,,,0,Republic of Moldova,0
+c17,148,2012,11,,,0,Nauru,0
+c17,149,2012,11,,0,0,Nepal,0
+c17,150,2012,11,4,7555,7,Netherlands,4040
+c17,151,2012,11,,,0,Netherlands Antilles,0
+c17,153,2012,11,,,0,New Caledonia,0
+c17,154,2012,11,,0,0,North Macedonia,0
+c17,155,2012,11,,5,0,Vanuatu,0
+c17,156,2012,11,,26026,0,New Zealand,273
+c17,157,2012,11,,4,0,Nicaragua,0
+c17,158,2012,11,,,0,Niger,0
+c17,159,2012,11,,0,0,Nigeria,0
+c17,160,2012,11,,,0,Niue,0
+c17,161,2012,11,,,0,Norfolk Island,0
+c17,162,2012,11,,3063,0,Norway,76
+c17,163,2012,11,,,0,Northern Mariana Islands,0
+c17,165,2012,11,,8,0,Pakistan,0
+c17,166,2012,11,,,0,Panama,0
+c17,167,2012,11,154405,4204,116940,Czechia,112705
+c17,168,2012,11,,140,0,Papua New Guinea,1
+c17,169,2012,11,,,0,Paraguay,0
+c17,170,2012,11,,0,0,Peru,0
+c17,171,2012,11,,4,0,Philippines,0
+c17,172,2012,11,,,0,Pitcairn Islands,0
+c17,173,2012,11,2901,587,668,Poland,903
+c17,174,2012,11,1,1257,4,Portugal,217
+c17,175,2012,11,,,0,Guinea-Bissau,0
+c17,176,2012,11,,0,0,Timor-Leste,0
+c17,178,2012,11,,,0,Eritrea,0
+c17,179,2012,11,,4,0,Qatar,0
+c17,180,2012,11,,,0,Palau,0
+c17,181,2012,11,,,0,Zimbabwe,0
+c17,183,2012,11,354025,4893,165669,Romania,163197
+c17,184,2012,11,,,0,Rwanda,0
+c17,185,2012,11,,42368,0,Russian Federation,636
+c17,186,2012,11,,,0,Serbia and Montenegro,0
+c17,187,2012,11,,,0,"Saint Helena, Ascension and Tristan da Cunha",0
+c17,188,2012,11,,,0,Saint Kitts and Nevis,0
+c17,189,2012,11,,,0,Saint Lucia,0
+c17,190,2012,11,,,0,Saint Pierre and Miquelon,0
+c17,191,2012,11,,0,0,Saint Vincent and the Grenadines,0
+c17,192,2012,11,,,0,San Marino,0
+c17,193,2012,11,,,0,Sao Tome and Principe,0
+c17,194,2012,11,,1,0,Saudi Arabia,0
+c17,195,2012,11,,,0,Senegal,0
+c17,196,2012,11,,35,0,Seychelles,1
+c17,197,2012,11,,1,0,Sierra Leone,0
+c17,198,2012,11,14729,6997,44995,Slovenia,37807
+c17,199,2012,11,134946,937,15484,Slovakia,15397
+c17,200,2012,11,10,0,0,Singapore,0
+c17,201,2012,11,,,0,Somalia,0
+c17,202,2012,11,,52326,0,South Africa,598
+c17,203,2012,11,,3197,0,Spain,44
+c17,207,2012,11,,,0,Suriname,0
+c17,208,2012,11,,,0,Tajikistan,0
+c17,210,2012,11,,5166,0,Sweden,547
+c17,211,2012,11,8347,543,3429,Switzerland,3165
+c17,212,2012,11,,1,0,Syrian Arab Republic,0
+c17,213,2012,11,,,0,Turkmenistan,0
+c17,215,2012,11,,0,0,United Republic of Tanzania,0
+c17,216,2012,11,,134596,0,Thailand,2608
+c17,217,2012,11,,6,0,Togo,0
+c17,218,2012,11,,,0,Tokelau,0
+c17,219,2012,11,,,0,Tonga,0
+c17,220,2012,11,,0,0,Trinidad and Tobago,0
+c17,221,2012,11,,2,0,Oman,0
+c17,222,2012,11,,0,0,Tunisia,0
+c17,223,2012,11,,0,0,Turkey,0
+c17,224,2012,11,,,0,Turks and Caicos Islands,0
+c17,225,2012,11,,5,0,United Arab Emirates,0
+c17,226,2012,11,,5,0,Uganda,0
+c17,227,2012,11,,,0,Tuvalu,0
+c17,228,2012,11,,,0,USSR,0
+c17,229,2012,11,,5220,0,United Kingdom,1722
+c17,230,2012,11,,12825,0,Ukraine,70
+c17,231,2012,11,5000,146951,9330,United States of America,12074
+c17,233,2012,11,,,0,Burkina Faso,0
+c17,234,2012,11,,22461,0,Uruguay,182
+c17,235,2012,11,,,0,Uzbekistan,0
+c17,236,2012,11,,5662,0,Venezuela (Bolivarian Republic of),31
+c17,237,2012,11,,281332,0,Viet Nam,6051
+c17,238,2012,11,,,0,Ethiopia,0
+c17,239,2012,11,,,0,British Virgin Islands,0
+c17,243,2012,11,,,0,Wallis and Futuna Islands,0
+c17,244,2012,11,,,0,Samoa,0
+c17,249,2012,11,,,0,Yemen,0
+c17,250,2012,11,,8766,0,Democratic Republic of the Congo,360
+c17,251,2012,11,,10,0,Zambia,0
+c17,255,2012,11,,3489,0,Belgium,1271
+c17,256,2012,11,,659,0,Luxembourg,89
+c17,258,2012,11,,,0,Anguilla,0
+c17,272,2012,11,,50,0,Serbia,2
+c17,273,2012,11,,407,0,Montenegro,17
+c17,276,2012,11,,,0,Sudan,0
+c17,277,2012,11,,,0,South Sudan,0
+c17,279,2012,11,,,0,Curaçao,0
+c17,299,2012,11,,,0,Palestine,0
+c17,999,2012,11,,147,0,"",1
+c18,1,2012,11,,,0,Armenia,0
+c18,2,2012,11,,2,0,Afghanistan,0
+c18,3,2012,11,,152,0,Albania,0
+c18,4,2012,11,,2,0,Algeria,0
+c18,6,2012,11,,8,0,Andorra,0
+c18,7,2012,11,,,0,Angola,0
+c18,9,2012,11,,2169,0,Argentina,2
+c18,10,2012,11,,3247,0,Australia,1
+c18,11,2012,11,,,0,Austria,5124138
+c18,12,2012,11,,,0,Bahamas,0
+c18,13,2012,11,,2,0,Bahrain,0
+c18,14,2012,11,,0,0,Barbados,0
+c18,15,2012,11,,,0,Belgium-Luxembourg,0
+c18,16,2012,11,,62,0,Bangladesh,0
+c18,17,2012,11,,,0,Bermuda,0
+c18,18,2012,11,,7,0,Bhutan,0
+c18,19,2012,11,135,6,66,Bolivia (Plurinational State of),63
+c18,21,2012,11,,124,0,Brazil,3
+c18,22,2012,11,,,0,Aruba,0
+c18,23,2012,11,,76,0,Belize,0
+c18,24,2012,11,,,0,British Indian Ocean Territory,0
+c18,25,2012,11,,,0,Solomon Islands,0
+c18,26,2012,11,,0,0,Brunei Darussalam,0
+c18,27,2012,11,13093,2492,5825,Bulgaria,5575
+c18,28,2012,11,,576,0,Myanmar,0
+c18,29,2012,11,,1,0,Burundi,0
+c18,32,2012,11,,12,0,Cameroon,0
+c18,33,2012,11,0,17134,0,Canada,4
+c18,35,2012,11,,,0,Cabo Verde,0
+c18,36,2012,11,,,0,Cayman Islands,0
+c18,37,2012,11,,,0,Central African Republic,0
+c18,38,2012,11,,209,0,Sri Lanka,0
+c18,39,2012,11,,,0,Chad,0
+c18,40,2012,11,,1,0,Chile,0
+c18,41,2012,11,0,1992,0,"China, mainland",4
+c18,42,2012,11,,,0,Christmas Island,0
+c18,43,2012,11,,,0,Cocos (Keeling) Islands,0
+c18,44,2012,11,,3,0,Colombia,0
+c18,45,2012,11,,,0,Comoros,0
+c18,46,2012,11,,1,0,Congo,0
+c18,47,2012,11,,,0,Cook Islands,0
+c18,48,2012,11,,0,0,Costa Rica,0
+c18,49,2012,11,,,0,Cuba,0
+c18,50,2012,11,,,0,Cyprus,0
+c18,51,2012,11,,,0,Czechoslovakia,0
+c18,52,2012,11,,,0,Azerbaijan,0
+c18,53,2012,11,,,0,Benin,0
+c18,54,2012,11,0,1199,0,Denmark,103
+c18,55,2012,11,,7,0,Dominica,0
+c18,56,2012,11,,0,0,Dominican Republic,0
+c18,57,2012,11,,7130,0,Belarus,215
+c18,58,2012,11,,1,0,Ecuador,0
+c18,59,2012,11,,1212,0,Egypt,1
+c18,60,2012,11,,8,0,El Salvador,0
+c18,61,2012,11,,,0,Equatorial Guinea,0
+c18,63,2012,11,,2576,0,Estonia,6
+c18,65,2012,11,,,0,Falkland Islands (Malvinas),0
+c18,66,2012,11,,0,0,Fiji,0
+c18,67,2012,11,,12215,0,Finland,4
+c18,68,2012,11,220,38866,147,France,2516
+c18,70,2012,11,,,0,French Polynesia,0
+c18,71,2012,11,,,0,French Southern and Antarctic Territories,0
+c18,72,2012,11,,1,0,Djibouti,0
+c18,73,2012,11,,3,0,Georgia,0
+c18,74,2012,11,,,0,Gabon,0
+c18,75,2012,11,,5,0,Gambia,0
+c18,79,2012,11,262245,76959,169432,Germany,145817
+c18,80,2012,11,28918,277,387,Bosnia and Herzegovina,440
+c18,81,2012,11,,1582,0,Ghana,1
+c18,82,2012,11,,,0,Gibraltar,0
+c18,83,2012,11,,,0,Kiribati,0
+c18,84,2012,11,,233,0,Greece,1
+c18,85,2012,11,,,0,Greenland,0
+c18,86,2012,11,,,0,Grenada,0
+c18,88,2012,11,,,0,Guam,0
+c18,89,2012,11,,0,0,Guatemala,0
+c18,90,2012,11,,,0,Guinea,0
+c18,91,2012,11,,4,0,Guyana,0
+c18,93,2012,11,,,0,Haiti,0
+c18,95,2012,11,,66,0,Honduras,0
+c18,96,2012,11,,1066,0,"China, Hong Kong SAR",2
+c18,97,2012,11,93130,7574,49209,Hungary,32101
+c18,98,2012,11,24258,11216,11366,Croatia,15423
+c18,99,2012,11,,,0,Iceland,0
+c18,100,2012,11,,68,0,India,0
+c18,101,2012,11,,1261,0,Indonesia,12
+c18,102,2012,11,,1,0,Iran (Islamic Republic of),0
+c18,103,2012,11,,,0,Iraq,0
+c18,104,2012,11,,2423,0,Ireland,1
+c18,105,2012,11,,1,0,Israel,0
+c18,106,2012,11,12629,986,5753,Italy,3746
+c18,107,2012,11,,3,0,Cote d'Ivoire,0
+c18,108,2012,11,,,0,Kazakhstan,0
+c18,109,2012,11,,0,0,Jamaica,0
+c18,110,2012,11,,254,0,Japan,1
+c18,112,2012,11,,0,0,Jordan,0
+c18,113,2012,11,,,0,Kyrgyzstan,0
+c18,114,2012,11,,1,0,Kenya,0
+c18,115,2012,11,,1043,0,Cambodia,0
+c18,116,2012,11,,1412,0,Democratic People's Republic of Korea,1
+c18,117,2012,11,,4,0,Republic of Korea,0
+c18,118,2012,11,,0,0,Kuwait,0
+c18,119,2012,11,,3188,0,Latvia,37
+c18,120,2012,11,,482,0,Lao People's Democratic Republic,0
+c18,121,2012,11,,21,0,Lebanon,0
+c18,123,2012,11,,,0,Liberia,0
+c18,124,2012,11,,0,0,Libya,0
+c18,126,2012,11,51,3096,9,Lithuania,247
+c18,127,2012,11,,,0,Marshall Islands,0
+c18,128,2012,11,,,0,"China, Macao SAR",0
+c18,129,2012,11,,0,0,Madagascar,0
+c18,130,2012,11,,1,0,Malawi,0
+c18,131,2012,11,,8735,0,Malaysia,5
+c18,132,2012,11,,2,0,Maldives,0
+c18,133,2012,11,,2,0,Mali,0
+c18,134,2012,11,,,0,Malta,0
+c18,136,2012,11,,,0,Mauritania,0
+c18,137,2012,11,,,0,Mauritius,0
+c18,138,2012,11,,762,0,Mexico,0
+c18,141,2012,11,,1,0,Mongolia,0
+c18,142,2012,11,,,0,Montserrat,0
+c18,143,2012,11,,4,0,Morocco,0
+c18,144,2012,11,,2,0,Mozambique,0
+c18,145,2012,11,,,0,Micronesia (Federated States of),0
+c18,146,2012,11,,14,0,Republic of Moldova,0
+c18,148,2012,11,,,0,Nauru,0
+c18,149,2012,11,,1,0,Nepal,0
+c18,150,2012,11,26,16132,9,Netherlands,969
+c18,151,2012,11,,,0,Netherlands Antilles,0
+c18,153,2012,11,,5,0,New Caledonia,0
+c18,154,2012,11,,47,0,North Macedonia,0
+c18,155,2012,11,,4,0,Vanuatu,0
+c18,156,2012,11,,,0,New Zealand,0
+c18,157,2012,11,,32,0,Nicaragua,0
+c18,158,2012,11,,,0,Niger,0
+c18,159,2012,11,,69,0,Nigeria,0
+c18,160,2012,11,,,0,Niue,0
+c18,161,2012,11,,,0,Norfolk Island,0
+c18,162,2012,11,,19719,0,Norway,191
+c18,163,2012,11,,,0,Northern Mariana Islands,0
+c18,165,2012,11,,210,0,Pakistan,0
+c18,166,2012,11,,,0,Panama,0
+c18,167,2012,11,86182,7091,8098,Czechia,8090
+c18,168,2012,11,,5,0,Papua New Guinea,0
+c18,169,2012,11,,232,0,Paraguay,0
+c18,170,2012,11,,0,0,Peru,0
+c18,171,2012,11,,42,0,Philippines,0
+c18,172,2012,11,,,0,Pitcairn Islands,0
+c18,173,2012,11,35,6652,6,Poland,696
+c18,174,2012,11,8,13237,4,Portugal,44
+c18,175,2012,11,,,0,Guinea-Bissau,0
+c18,176,2012,11,,,0,Timor-Leste,0
+c18,178,2012,11,,,0,Eritrea,0
+c18,179,2012,11,,5,0,Qatar,0
+c18,180,2012,11,,,0,Palau,0
+c18,181,2012,11,,1,0,Zimbabwe,0
+c18,183,2012,11,287121,692,4879,Romania,4845
+c18,184,2012,11,209,11,109,Rwanda,104
+c18,185,2012,11,0,17294,0,Russian Federation,100
+c18,186,2012,11,,,0,Serbia and Montenegro,0
+c18,187,2012,11,,,0,"Saint Helena, Ascension and Tristan da Cunha",0
+c18,188,2012,11,,,0,Saint Kitts and Nevis,0
+c18,189,2012,11,,,0,Saint Lucia,0
+c18,190,2012,11,,,0,Saint Pierre and Miquelon,0
+c18,191,2012,11,,2,0,Saint Vincent and the Grenadines,0
+c18,192,2012,11,,,0,San Marino,0
+c18,193,2012,11,,,0,Sao Tome and Principe,0
+c18,194,2012,11,,44,0,Saudi Arabia,0
+c18,195,2012,11,,1,0,Senegal,0
+c18,196,2012,11,,,0,Seychelles,0
+c18,197,2012,11,,6,0,Sierra Leone,0
+c18,198,2012,11,48645,17585,33075,Slovenia,23979
+c18,199,2012,11,14528,4087,2789,Slovakia,4512
+c18,200,2012,11,,267,0,Singapore,0
+c18,201,2012,11,,,0,Somalia,0
+c18,202,2012,11,,69,0,South Africa,0
+c18,203,2012,11,11,20153,6,Spain,171
+c18,207,2012,11,,,0,Suriname,0
+c18,208,2012,11,,,0,Tajikistan,0
+c18,210,2012,11,,5196,0,Sweden,301
+c18,211,2012,11,49123,1482,877,Switzerland,891
+c18,212,2012,11,,2,0,Syrian Arab Republic,0
+c18,213,2012,11,,,0,Turkmenistan,0
+c18,215,2012,11,,6,0,United Republic of Tanzania,0
+c18,216,2012,11,,454,0,Thailand,2
+c18,217,2012,11,,9,0,Togo,0
+c18,218,2012,11,,,0,Tokelau,0
+c18,219,2012,11,,0,0,Tonga,0
+c18,220,2012,11,,2,0,Trinidad and Tobago,0
+c18,221,2012,11,,6,0,Oman,0
+c18,222,2012,11,,59,0,Tunisia,0
+c18,223,2012,11,,35,0,Turkey,0
+c18,224,2012,11,,,0,Turks and Caicos Islands,0
+c18,225,2012,11,,117,0,United Arab Emirates,0
+c18,226,2012,11,,1,0,Uganda,0
+c18,227,2012,11,,,0,Tuvalu,0
+c18,228,2012,11,,,0,USSR,0
+c18,229,2012,11,1,18901,0,United Kingdom,28
+c18,230,2012,11,66,14716,28,Ukraine,1055
+c18,231,2012,11,3440,7468,1071,United States of America,1029
+c18,233,2012,11,,,0,Burkina Faso,0
+c18,234,2012,11,,67,0,Uruguay,0
+c18,235,2012,11,,,0,Uzbekistan,0
+c18,236,2012,11,,,0,Venezuela (Bolivarian Republic of),0
+c18,237,2012,11,,9691,0,Viet Nam,3
+c18,238,2012,11,,,0,Ethiopia,0
+c18,239,2012,11,,,0,British Virgin Islands,0
+c18,243,2012,11,,,0,Wallis and Futuna Islands,0
+c18,244,2012,11,,,0,Samoa,0
+c18,249,2012,11,,,0,Yemen,0
+c18,250,2012,11,,1,0,Democratic Republic of the Congo,0
+c18,251,2012,11,,2,0,Zambia,0
+c18,255,2012,11,,48900,0,Belgium,12
+c18,256,2012,11,,4710,0,Luxembourg,1
+c18,258,2012,11,,,0,Anguilla,0
+c18,272,2012,11,394,208,166,Serbia,197
+c18,273,2012,11,,457,0,Montenegro,6
+c18,276,2012,11,,,0,Sudan,0
+c18,277,2012,11,,,0,South Sudan,0
+c18,279,2012,11,,2,0,Curaçao,0
+c18,299,2012,11,,,0,Palestine,0
+c18,999,2012,11,,237,0,"",0
+c19,1,2012,11,,,0,Armenia,0
+c19,2,2012,11,,,0,Afghanistan,0
+c19,3,2012,11,,,0,Albania,0
+c19,4,2012,11,,,0,Algeria,0
+c19,6,2012,11,,,0,Andorra,0
+c19,7,2012,11,,,0,Angola,0
+c19,9,2012,11,,,0,Argentina,0
+c19,10,2012,11,,,0,Australia,0
+c19,11,2012,11,,,0,Austria,0
+c19,12,2012,11,,,0,Bahamas,0
+c19,13,2012,11,,,0,Bahrain,0
+c19,14,2012,11,,,0,Barbados,0
+c19,15,2012,11,,,0,Belgium-Luxembourg,0
+c19,16,2012,11,,,0,Bangladesh,0
+c19,17,2012,11,,,0,Bermuda,0
+c19,18,2012,11,,,0,Bhutan,0
+c19,19,2012,11,,,0,Bolivia (Plurinational State of),0
+c19,21,2012,11,,,0,Brazil,0
+c19,22,2012,11,,,0,Aruba,0
+c19,23,2012,11,,,0,Belize,0
+c19,24,2012,11,,,0,British Indian Ocean Territory,0
+c19,25,2012,11,,,0,Solomon Islands,0
+c19,26,2012,11,,,0,Brunei Darussalam,0
+c19,27,2012,11,,,0,Bulgaria,0
+c19,28,2012,11,,,0,Myanmar,0
+c19,29,2012,11,,,0,Burundi,0
+c19,32,2012,11,,,0,Cameroon,0
+c19,33,2012,11,,,0,Canada,0
+c19,35,2012,11,,,0,Cabo Verde,0
+c19,36,2012,11,,,0,Cayman Islands,0
+c19,37,2012,11,,,0,Central African Republic,0
+c19,38,2012,11,,,0,Sri Lanka,0
+c19,39,2012,11,,,0,Chad,0
+c19,40,2012,11,,,0,Chile,0
+c19,41,2012,11,,,0,"China, mainland",0
+c19,42,2012,11,,,0,Christmas Island,0
+c19,43,2012,11,,,0,Cocos (Keeling) Islands,0
+c19,44,2012,11,,,0,Colombia,0
+c19,45,2012,11,,,0,Comoros,0
+c19,46,2012,11,,,0,Congo,0
+c19,47,2012,11,,,0,Cook Islands,0
+c19,48,2012,11,,,0,Costa Rica,0
+c19,49,2012,11,,,0,Cuba,0
+c19,50,2012,11,,,0,Cyprus,0
+c19,51,2012,11,,,0,Czechoslovakia,0
+c19,52,2012,11,,,0,Azerbaijan,0
+c19,53,2012,11,,,0,Benin,0
+c19,54,2012,11,,,0,Denmark,0
+c19,55,2012,11,,,0,Dominica,0
+c19,56,2012,11,,,0,Dominican Republic,0
+c19,57,2012,11,,,0,Belarus,0
+c19,58,2012,11,,,0,Ecuador,0
+c19,59,2012,11,,,0,Egypt,0
+c19,60,2012,11,,,0,El Salvador,0
+c19,61,2012,11,,,0,Equatorial Guinea,0
+c19,63,2012,11,,,0,Estonia,0
+c19,65,2012,11,,,0,Falkland Islands (Malvinas),0
+c19,66,2012,11,,,0,Fiji,0
+c19,67,2012,11,,,0,Finland,0
+c19,68,2012,11,,,0,France,0
+c19,70,2012,11,,,0,French Polynesia,0
+c19,71,2012,11,,,0,French Southern and Antarctic Territories,0
+c19,72,2012,11,,,0,Djibouti,0
+c19,73,2012,11,,,0,Georgia,0
+c19,74,2012,11,,,0,Gabon,0
+c19,75,2012,11,,,0,Gambia,0
+c19,79,2012,11,,,0,Germany,0
+c19,80,2012,11,,,0,Bosnia and Herzegovina,0
+c19,81,2012,11,,,0,Ghana,0
+c19,82,2012,11,,,0,Gibraltar,0
+c19,83,2012,11,,,0,Kiribati,0
+c19,84,2012,11,,,0,Greece,0
+c19,85,2012,11,,,0,Greenland,0
+c19,86,2012,11,,,0,Grenada,0
+c19,88,2012,11,,,0,Guam,0
+c19,89,2012,11,,,0,Guatemala,0
+c19,90,2012,11,,,0,Guinea,0
+c19,91,2012,11,,,0,Guyana,0
+c19,93,2012,11,,,0,Haiti,0
+c19,95,2012,11,,,0,Honduras,0
+c19,96,2012,11,,,0,"China, Hong Kong SAR",0
+c19,97,2012,11,,,0,Hungary,0
+c19,98,2012,11,,,0,Croatia,0
+c19,99,2012,11,,,0,Iceland,0
+c19,100,2012,11,,,0,India,0
+c19,101,2012,11,,,0,Indonesia,0
+c19,102,2012,11,,,0,Iran (Islamic Republic of),0
+c19,103,2012,11,,,0,Iraq,0
+c19,104,2012,11,,,0,Ireland,0
+c19,105,2012,11,,,0,Israel,0
+c19,106,2012,11,,,0,Italy,0
+c19,107,2012,11,,,0,Cote d'Ivoire,0
+c19,108,2012,11,,,0,Kazakhstan,0
+c19,109,2012,11,,,0,Jamaica,0
+c19,110,2012,11,,,0,Japan,0
+c19,112,2012,11,,,0,Jordan,0
+c19,113,2012,11,,,0,Kyrgyzstan,0
+c19,114,2012,11,,,0,Kenya,0
+c19,115,2012,11,,,0,Cambodia,0
+c19,116,2012,11,,,0,Democratic People's Republic of Korea,0
+c19,117,2012,11,,,0,Republic of Korea,0
+c19,118,2012,11,,,0,Kuwait,0
+c19,119,2012,11,,,0,Latvia,0
+c19,120,2012,11,,,0,Lao People's Democratic Republic,0
+c19,121,2012,11,,,0,Lebanon,0
+c19,123,2012,11,,,0,Liberia,0
+c19,124,2012,11,,,0,Libya,0
+c19,126,2012,11,,,0,Lithuania,0
+c19,127,2012,11,,,0,Marshall Islands,0
+c19,128,2012,11,,,0,"China, Macao SAR",0
+c19,129,2012,11,,,0,Madagascar,0
+c19,130,2012,11,,,0,Malawi,0
+c19,131,2012,11,,,0,Malaysia,0
+c19,132,2012,11,,,0,Maldives,0
+c19,133,2012,11,,,0,Mali,0
+c19,134,2012,11,,,0,Malta,0
+c19,136,2012,11,,,0,Mauritania,0
+c19,137,2012,11,,,0,Mauritius,0
+c19,138,2012,11,,,0,Mexico,0
+c19,141,2012,11,,,0,Mongolia,0
+c19,142,2012,11,,,0,Montserrat,0
+c19,143,2012,11,,,0,Morocco,0
+c19,144,2012,11,,,0,Mozambique,0
+c19,145,2012,11,,,0,Micronesia (Federated States of),0
+c19,146,2012,11,,,0,Republic of Moldova,0
+c19,148,2012,11,,,0,Nauru,0
+c19,149,2012,11,,,0,Nepal,0
+c19,150,2012,11,,,0,Netherlands,0
+c19,151,2012,11,,,0,Netherlands Antilles,0
+c19,153,2012,11,,,0,New Caledonia,0
+c19,154,2012,11,,,0,North Macedonia,0
+c19,155,2012,11,,,0,Vanuatu,0
+c19,156,2012,11,,,0,New Zealand,0
+c19,157,2012,11,,,0,Nicaragua,0
+c19,158,2012,11,,,0,Niger,0
+c19,159,2012,11,,,0,Nigeria,0
+c19,160,2012,11,,,0,Niue,0
+c19,161,2012,11,,,0,Norfolk Island,0
+c19,162,2012,11,,,0,Norway,0
+c19,163,2012,11,,,0,Northern Mariana Islands,0
+c19,165,2012,11,,,0,Pakistan,0
+c19,166,2012,11,,,0,Panama,0
+c19,167,2012,11,,,0,Czechia,0
+c19,168,2012,11,,,0,Papua New Guinea,0
+c19,169,2012,11,,,0,Paraguay,0
+c19,170,2012,11,,,0,Peru,0
+c19,171,2012,11,,,0,Philippines,0
+c19,172,2012,11,,,0,Pitcairn Islands,0
+c19,173,2012,11,,,0,Poland,0
+c19,174,2012,11,,,0,Portugal,0
+c19,175,2012,11,,,0,Guinea-Bissau,0
+c19,176,2012,11,,,0,Timor-Leste,0
+c19,178,2012,11,,,0,Eritrea,0
+c19,179,2012,11,,,0,Qatar,0
+c19,180,2012,11,,,0,Palau,0
+c19,181,2012,11,,,0,Zimbabwe,0
+c19,183,2012,11,,,0,Romania,0
+c19,184,2012,11,,,0,Rwanda,0
+c19,185,2012,11,,,0,Russian Federation,0
+c19,186,2012,11,,,0,Serbia and Montenegro,0
+c19,187,2012,11,,,0,"Saint Helena, Ascension and Tristan da Cunha",0
+c19,188,2012,11,,,0,Saint Kitts and Nevis,0
+c19,189,2012,11,,,0,Saint Lucia,0
+c19,190,2012,11,,,0,Saint Pierre and Miquelon,0
+c19,191,2012,11,,,0,Saint Vincent and the Grenadines,0
+c19,192,2012,11,,,0,San Marino,0
+c19,193,2012,11,,,0,Sao Tome and Principe,0
+c19,194,2012,11,,,0,Saudi Arabia,0
+c19,195,2012,11,,,0,Senegal,0
+c19,196,2012,11,,,0,Seychelles,0
+c19,197,2012,11,,,0,Sierra Leone,0
+c19,198,2012,11,,,0,Slovenia,0
+c19,199,2012,11,,,0,Slovakia,0
+c19,200,2012,11,,,0,Singapore,0
+c19,201,2012,11,,,0,Somalia,0
+c19,202,2012,11,,,0,South Africa,0
+c19,203,2012,11,,,0,Spain,0
+c19,207,2012,11,,,0,Suriname,0
+c19,208,2012,11,,,0,Tajikistan,0
+c19,210,2012,11,,,0,Sweden,0
+c19,211,2012,11,,,0,Switzerland,0
+c19,212,2012,11,,,0,Syrian Arab Republic,0
+c19,213,2012,11,,,0,Turkmenistan,0
+c19,215,2012,11,,,0,United Republic of Tanzania,0
+c19,216,2012,11,,,0,Thailand,0
+c19,217,2012,11,,,0,Togo,0
+c19,218,2012,11,,,0,Tokelau,0
+c19,219,2012,11,,,0,Tonga,0
+c19,220,2012,11,,,0,Trinidad and Tobago,0
+c19,221,2012,11,,,0,Oman,0
+c19,222,2012,11,,,0,Tunisia,0
+c19,223,2012,11,,,0,Turkey,0
+c19,224,2012,11,,,0,Turks and Caicos Islands,0
+c19,225,2012,11,,,0,United Arab Emirates,0
+c19,226,2012,11,,,0,Uganda,0
+c19,227,2012,11,,,0,Tuvalu,0
+c19,228,2012,11,,,0,USSR,0
+c19,229,2012,11,,,0,United Kingdom,0
+c19,230,2012,11,,,0,Ukraine,0
+c19,231,2012,11,,,0,United States of America,0
+c19,233,2012,11,,,0,Burkina Faso,0
+c19,234,2012,11,,,0,Uruguay,0
+c19,235,2012,11,,,0,Uzbekistan,0
+c19,236,2012,11,,,0,Venezuela (Bolivarian Republic of),0
+c19,237,2012,11,,,0,Viet Nam,0
+c19,238,2012,11,,,0,Ethiopia,0
+c19,239,2012,11,,,0,British Virgin Islands,0
+c19,243,2012,11,,,0,Wallis and Futuna Islands,0
+c19,244,2012,11,,,0,Samoa,0
+c19,249,2012,11,,,0,Yemen,0
+c19,250,2012,11,,,0,Democratic Republic of the Congo,0
+c19,251,2012,11,,,0,Zambia,0
+c19,255,2012,11,,,0,Belgium,0
+c19,256,2012,11,,,0,Luxembourg,0
+c19,258,2012,11,,,0,Anguilla,0
+c19,272,2012,11,,,0,Serbia,0
+c19,273,2012,11,,,0,Montenegro,0
+c19,276,2012,11,,,0,Sudan,0
+c19,277,2012,11,,,0,South Sudan,0
+c19,279,2012,11,,,0,Curaçao,0
+c19,299,2012,11,,,0,Palestine,0
+c19,999,2012,11,,,0,"",0
+c20,1,2012,11,,,0,Armenia,0
+c20,2,2012,11,,,0,Afghanistan,0
+c20,3,2012,11,,,0,Albania,0
+c20,4,2012,11,,,0,Algeria,0
+c20,6,2012,11,,,0,Andorra,0
+c20,7,2012,11,,,0,Angola,0
+c20,9,2012,11,,,0,Argentina,0
+c20,10,2012,11,,,0,Australia,0
+c20,11,2012,11,,,0,Austria,1404501
+c20,12,2012,11,,,0,Bahamas,0
+c20,13,2012,11,,,0,Bahrain,0
+c20,14,2012,11,,,0,Barbados,0
+c20,15,2012,11,,,0,Belgium-Luxembourg,0
+c20,16,2012,11,,,0,Bangladesh,0
+c20,17,2012,11,,,0,Bermuda,0
+c20,18,2012,11,,,0,Bhutan,0
+c20,19,2012,11,,,0,Bolivia (Plurinational State of),0
+c20,21,2012,11,,,0,Brazil,0
+c20,22,2012,11,,,0,Aruba,0
+c20,23,2012,11,,,0,Belize,0
+c20,24,2012,11,,,0,British Indian Ocean Territory,0
+c20,25,2012,11,,,0,Solomon Islands,0
+c20,26,2012,11,,,0,Brunei Darussalam,0
+c20,27,2012,11,,,0,Bulgaria,0
+c20,28,2012,11,,,0,Myanmar,0
+c20,29,2012,11,,,0,Burundi,0
+c20,32,2012,11,,,0,Cameroon,0
+c20,33,2012,11,,,0,Canada,0
+c20,35,2012,11,,,0,Cabo Verde,0
+c20,36,2012,11,,,0,Cayman Islands,0
+c20,37,2012,11,,,0,Central African Republic,0
+c20,38,2012,11,,,0,Sri Lanka,0
+c20,39,2012,11,,,0,Chad,0
+c20,40,2012,11,,,0,Chile,0
+c20,41,2012,11,,,0,"China, mainland",0
+c20,42,2012,11,,,0,Christmas Island,0
+c20,43,2012,11,,,0,Cocos (Keeling) Islands,0
+c20,44,2012,11,,,0,Colombia,0
+c20,45,2012,11,,,0,Comoros,0
+c20,46,2012,11,,,0,Congo,0
+c20,47,2012,11,,,0,Cook Islands,0
+c20,48,2012,11,,,0,Costa Rica,0
+c20,49,2012,11,,,0,Cuba,0
+c20,50,2012,11,,,0,Cyprus,0
+c20,51,2012,11,,,0,Czechoslovakia,0
+c20,52,2012,11,,,0,Azerbaijan,0
+c20,53,2012,11,,,0,Benin,0
+c20,54,2012,11,,,0,Denmark,0
+c20,55,2012,11,,,0,Dominica,0
+c20,56,2012,11,,,0,Dominican Republic,0
+c20,57,2012,11,,,0,Belarus,0
+c20,58,2012,11,,,0,Ecuador,0
+c20,59,2012,11,,,0,Egypt,0
+c20,60,2012,11,,,0,El Salvador,0
+c20,61,2012,11,,,0,Equatorial Guinea,0
+c20,63,2012,11,,,0,Estonia,0
+c20,65,2012,11,,,0,Falkland Islands (Malvinas),0
+c20,66,2012,11,,,0,Fiji,0
+c20,67,2012,11,,,0,Finland,0
+c20,68,2012,11,,,0,France,0
+c20,70,2012,11,,,0,French Polynesia,0
+c20,71,2012,11,,,0,French Southern and Antarctic Territories,0
+c20,72,2012,11,,,0,Djibouti,0
+c20,73,2012,11,,,0,Georgia,0
+c20,74,2012,11,,,0,Gabon,0
+c20,75,2012,11,,,0,Gambia,0
+c20,79,2012,11,,,0,Germany,0
+c20,80,2012,11,,,0,Bosnia and Herzegovina,0
+c20,81,2012,11,,,0,Ghana,0
+c20,82,2012,11,,,0,Gibraltar,0
+c20,83,2012,11,,,0,Kiribati,0
+c20,84,2012,11,,,0,Greece,0
+c20,85,2012,11,,,0,Greenland,0
+c20,86,2012,11,,,0,Grenada,0
+c20,88,2012,11,,,0,Guam,0
+c20,89,2012,11,,,0,Guatemala,0
+c20,90,2012,11,,,0,Guinea,0
+c20,91,2012,11,,,0,Guyana,0
+c20,93,2012,11,,,0,Haiti,0
+c20,95,2012,11,,,0,Honduras,0
+c20,96,2012,11,,,0,"China, Hong Kong SAR",0
+c20,97,2012,11,,,0,Hungary,0
+c20,98,2012,11,,,0,Croatia,0
+c20,99,2012,11,,,0,Iceland,0
+c20,100,2012,11,,,0,India,0
+c20,101,2012,11,,,0,Indonesia,0
+c20,102,2012,11,,,0,Iran (Islamic Republic of),0
+c20,103,2012,11,,,0,Iraq,0
+c20,104,2012,11,,,0,Ireland,0
+c20,105,2012,11,,,0,Israel,0
+c20,106,2012,11,,,0,Italy,0
+c20,107,2012,11,,,0,Cote d'Ivoire,0
+c20,108,2012,11,,,0,Kazakhstan,0
+c20,109,2012,11,,,0,Jamaica,0
+c20,110,2012,11,,,0,Japan,0
+c20,112,2012,11,,,0,Jordan,0
+c20,113,2012,11,,,0,Kyrgyzstan,0
+c20,114,2012,11,,,0,Kenya,0
+c20,115,2012,11,,,0,Cambodia,0
+c20,116,2012,11,,,0,Democratic People's Republic of Korea,0
+c20,117,2012,11,,,0,Republic of Korea,0
+c20,118,2012,11,,,0,Kuwait,0
+c20,119,2012,11,,,0,Latvia,0
+c20,120,2012,11,,,0,Lao People's Democratic Republic,0
+c20,121,2012,11,,,0,Lebanon,0
+c20,123,2012,11,,,0,Liberia,0
+c20,124,2012,11,,,0,Libya,0
+c20,126,2012,11,,,0,Lithuania,0
+c20,127,2012,11,,,0,Marshall Islands,0
+c20,128,2012,11,,,0,"China, Macao SAR",0
+c20,129,2012,11,,,0,Madagascar,0
+c20,130,2012,11,,,0,Malawi,0
+c20,131,2012,11,,,0,Malaysia,0
+c20,132,2012,11,,,0,Maldives,0
+c20,133,2012,11,,,0,Mali,0
+c20,134,2012,11,,,0,Malta,0
+c20,136,2012,11,,,0,Mauritania,0
+c20,137,2012,11,,,0,Mauritius,0
+c20,138,2012,11,,,0,Mexico,0
+c20,141,2012,11,,,0,Mongolia,0
+c20,142,2012,11,,,0,Montserrat,0
+c20,143,2012,11,,,0,Morocco,0
+c20,144,2012,11,,,0,Mozambique,0
+c20,145,2012,11,,,0,Micronesia (Federated States of),0
+c20,146,2012,11,,,0,Republic of Moldova,0
+c20,148,2012,11,,,0,Nauru,0
+c20,149,2012,11,,,0,Nepal,0
+c20,150,2012,11,,,0,Netherlands,0
+c20,151,2012,11,,,0,Netherlands Antilles,0
+c20,153,2012,11,,,0,New Caledonia,0
+c20,154,2012,11,,,0,North Macedonia,0
+c20,155,2012,11,,,0,Vanuatu,0
+c20,156,2012,11,,,0,New Zealand,0
+c20,157,2012,11,,,0,Nicaragua,0
+c20,158,2012,11,,,0,Niger,0
+c20,159,2012,11,,,0,Nigeria,0
+c20,160,2012,11,,,0,Niue,0
+c20,161,2012,11,,,0,Norfolk Island,0
+c20,162,2012,11,,,0,Norway,0
+c20,163,2012,11,,,0,Northern Mariana Islands,0
+c20,165,2012,11,,,0,Pakistan,0
+c20,166,2012,11,,,0,Panama,0
+c20,167,2012,11,,,0,Czechia,0
+c20,168,2012,11,,,0,Papua New Guinea,0
+c20,169,2012,11,,,0,Paraguay,0
+c20,170,2012,11,,,0,Peru,0
+c20,171,2012,11,,,0,Philippines,0
+c20,172,2012,11,,,0,Pitcairn Islands,0
+c20,173,2012,11,,,0,Poland,0
+c20,174,2012,11,,,0,Portugal,0
+c20,175,2012,11,,,0,Guinea-Bissau,0
+c20,176,2012,11,,,0,Timor-Leste,0
+c20,178,2012,11,,,0,Eritrea,0
+c20,179,2012,11,,,0,Qatar,0
+c20,180,2012,11,,,0,Palau,0
+c20,181,2012,11,,,0,Zimbabwe,0
+c20,183,2012,11,,,0,Romania,0
+c20,184,2012,11,,,0,Rwanda,0
+c20,185,2012,11,,,0,Russian Federation,0
+c20,186,2012,11,,,0,Serbia and Montenegro,0
+c20,187,2012,11,,,0,"Saint Helena, Ascension and Tristan da Cunha",0
+c20,188,2012,11,,,0,Saint Kitts and Nevis,0
+c20,189,2012,11,,,0,Saint Lucia,0
+c20,190,2012,11,,,0,Saint Pierre and Miquelon,0
+c20,191,2012,11,,,0,Saint Vincent and the Grenadines,0
+c20,192,2012,11,,,0,San Marino,0
+c20,193,2012,11,,,0,Sao Tome and Principe,0
+c20,194,2012,11,,,0,Saudi Arabia,0
+c20,195,2012,11,,,0,Senegal,0
+c20,196,2012,11,,,0,Seychelles,0
+c20,197,2012,11,,,0,Sierra Leone,0
+c20,198,2012,11,,,0,Slovenia,0
+c20,199,2012,11,,,0,Slovakia,0
+c20,200,2012,11,,,0,Singapore,0
+c20,201,2012,11,,,0,Somalia,0
+c20,202,2012,11,,,0,South Africa,0
+c20,203,2012,11,,,0,Spain,0
+c20,207,2012,11,,,0,Suriname,0
+c20,208,2012,11,,,0,Tajikistan,0
+c20,210,2012,11,,,0,Sweden,0
+c20,211,2012,11,,,0,Switzerland,0
+c20,212,2012,11,,,0,Syrian Arab Republic,0
+c20,213,2012,11,,,0,Turkmenistan,0
+c20,215,2012,11,,,0,United Republic of Tanzania,0
+c20,216,2012,11,,,0,Thailand,0
+c20,217,2012,11,,,0,Togo,0
+c20,218,2012,11,,,0,Tokelau,0
+c20,219,2012,11,,,0,Tonga,0
+c20,220,2012,11,,,0,Trinidad and Tobago,0
+c20,221,2012,11,,,0,Oman,0
+c20,222,2012,11,,,0,Tunisia,0
+c20,223,2012,11,,,0,Turkey,0
+c20,224,2012,11,,,0,Turks and Caicos Islands,0
+c20,225,2012,11,,,0,United Arab Emirates,0
+c20,226,2012,11,,,0,Uganda,0
+c20,227,2012,11,,,0,Tuvalu,0
+c20,228,2012,11,,,0,USSR,0
+c20,229,2012,11,,,0,United Kingdom,0
+c20,230,2012,11,,,0,Ukraine,0
+c20,231,2012,11,,,0,United States of America,0
+c20,233,2012,11,,,0,Burkina Faso,0
+c20,234,2012,11,,,0,Uruguay,0
+c20,235,2012,11,,,0,Uzbekistan,0
+c20,236,2012,11,,,0,Venezuela (Bolivarian Republic of),0
+c20,237,2012,11,,,0,Viet Nam,0
+c20,238,2012,11,,,0,Ethiopia,0
+c20,239,2012,11,,,0,British Virgin Islands,0
+c20,243,2012,11,,,0,Wallis and Futuna Islands,0
+c20,244,2012,11,,,0,Samoa,0
+c20,249,2012,11,,,0,Yemen,0
+c20,250,2012,11,,,0,Democratic Republic of the Congo,0
+c20,251,2012,11,,,0,Zambia,0
+c20,255,2012,11,,,0,Belgium,0
+c20,256,2012,11,,,0,Luxembourg,0
+c20,258,2012,11,,,0,Anguilla,0
+c20,272,2012,11,,,0,Serbia,0
+c20,273,2012,11,,,0,Montenegro,0
+c20,276,2012,11,,,0,Sudan,0
+c20,277,2012,11,,,0,South Sudan,0
+c20,279,2012,11,,,0,Curaçao,0
+c20,299,2012,11,,,0,Palestine,0
+c20,999,2012,11,,,0,"",0

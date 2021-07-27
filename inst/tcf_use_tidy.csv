@@ -6074,3 +6074,28 @@ OCE,243,Wallis and Futuna Islands,c18,Wood residues,,,m3sw/tonne,1.434
 OCE,244,Samoa,c18,Wood residues,,,m3sw/tonne,1.434
 XXX,252,Unspecified Area,c18,Wood residues,,,m3sw/tonne,1.434
 XXX,254,Others (adjustment),c18,Wood residues,,,m3sw/tonne,1.434
+XXX,999,RoW,c01,"Industrial roundwood, coniferous",,,m3rw/m3p,1
+XXX,999,RoW,c02,"Industrial roundwood, non-coniferous",,,m3rw/m3p,1
+XXX,999,RoW,c03,Wood fuel,,,m3rw/m3p,1
+XXX,999,RoW,c03,Wood fuel,,,m3rw/tonne,1.445
+XXX,999,RoW,c04,"Sawnwood, coniferous",c01,"Industrial roundwood, coniferous",m3rw/m3p,1.97
+XXX,999,RoW,c05,"Sawnwood, non-coniferous all",c02,"Industrial roundwood, non-coniferous",m3rw/m3p,1.918
+XXX,999,RoW,c06,Veneer sheets,c01,"Industrial roundwood, coniferous",m3rw/m3p,1.98666666666667
+XXX,999,RoW,c06,Veneer sheets,c02,"Industrial roundwood, non-coniferous",m3rw/m3p,2.12
+XXX,999,RoW,c07,Plywood,c01,"Industrial roundwood, coniferous",m3rw/m3p,1.98666666666667
+XXX,999,RoW,c07,Plywood,c02,"Industrial roundwood, non-coniferous",m3rw/m3p,2.12
+XXX,999,RoW,c08,Fibreboard,,,m3sw/m3p,1.8125
+XXX,999,RoW,c09,Particle board,,,kg/m3p,675.75
+XXX,999,RoW,c09,Particle board,,,m3sw/m3p,1.5375
+XXX,999,RoW,c10,OSB,,,kg/m3p,587.5
+XXX,999,RoW,c10,OSB,,,m3sw/m3p,1.6
+XXX,999,RoW,c11a,Chemical wood pulp,,,m3sw/tonne,4.15666666666667
+XXX,999,RoW,c11b,Mechanical and semi-chemical wood pulp,,,m3sw/tonne,2.64083333333333
+XXX,999,RoW,c11d,Dissolving wood pulp,,,m3sw/tonne,6.05
+XXX,999,RoW,c13,Recovered fibre pulp,,,m3sw/tonne,4.35333333333333
+XXX,999,RoW,c14,Paper and Paperboard,,,m3sw/tonne,3.725
+XXX,999,RoW,c15,Wood pellets and other agglomerates,,,m3sw/tonne,2.11666666666667
+XXX,999,RoW,c16,Wood charcoal,c03,Wood fuel,m3sw/tonne,6.02
+XXX,999,RoW,c17,Wood chips and particles,,,m3p/m3sw,3.02
+XXX,999,RoW,c18,Wood residues,,,m3p/m3sw,3.062
+XXX,999,RoW,c18,Wood residues,,,m3sw/tonne,1.434

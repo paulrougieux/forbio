@@ -87,7 +87,7 @@ btd[, `:=`(unit_tcf = NULL, tcf = NULL)]
 
 # Remove outliers ---------------------------------------------------------
 
-btd[from_code==108 & com_code=="c02" & to_code==254 & year %in% 2000:2001, value := 0]
+btd[from_code==108 & com_code=="c02" & to_code==254 & year %in% 2001:2002, value := 0]
 
 
 # Store -------------------------------------------------------------------

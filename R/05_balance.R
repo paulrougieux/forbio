@@ -81,15 +81,15 @@ for(i in seq_along(years)) {
 
   # Eliminate estimates where data exist
   mapping[, val_est := ifelse(is.na(value), val_est, NA)]
-  # Calculate totals for values and estimates per exporting country and item
+  # Calculate totals for values and estimates per importing country and item
   mapping[, `:=`(value_sum = na_sum(value), val_est_sum = na_sum(val_est)),
-          by = c("from_code","com_code")]
-  # Add export target
-  mapping[, val_target := constraint$exports[match(paste(mapping$from_code, mapping$com_code),
+          by = c("to_code","com_code")]
+  # Add import target
+  mapping[, val_target := constraint$imports[match(paste(mapping$to_code, mapping$com_code),
                                                    paste(constraint$area_code, constraint$com_code))]]
-  # Calculate export gap
+  # Calculate import gap
   mapping[, gap := na_sum(val_target, -value_sum)]
-  # Downscale export estimates in order not to exceed the total gap between reported exports and target values
+  # Downscale import estimates in order not to exceed the total gap between reported exports and target values
   mapping[, val_est := ifelse(gap > 0, ifelse(gap < val_est_sum, val_est / val_est_sum * gap, val_est), NA)]
 
   # Assign estimates to value column with a weight of 50%

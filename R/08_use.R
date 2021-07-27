@@ -8,23 +8,23 @@ regions <- fread("inst/regions.csv")
 items <- fread("inst/products.csv")
 years <- 1997:2017
 
-cbs <- readRDS("data/cbs.rds")
+cbs <- readRDS("data/cbs_bal.rds")
 sup <- readRDS("data/sup.rds")
 use_items <- fread("inst/use.csv")
 source_use <- fread("inst/source_use.csv")
+
 
 # Use ---------------------------------------------------------------------
 
 # Split use in energy and nonenergy
 cbs[, energy := 0]
-cbs <- rename(cbs, "processing" = "use")
-cbs[com_code %in% c("c15","c16"), `:=`(energy = processing, processing = 0)]
-# cbs[com_code %in% c("c03","c17","c18"), `:=`(energy = processing * 0.5, processing = processing * 0.5)]
+cbs <- rename(cbs, "processing" = "dom_supply")
+cbs[com_code %in% c("c15","c16","c20"), `:=`(energy = processing, processing = 0)]
 
 
 # Create long use table
 use <- merge(
-  cbs[, c("area_code", "area", "year", "com_code", "item", "production", "processing", "energy")],
+  cbs[, .(area_code, area, year, com_code, item, production, processing, energy)],
   use_items[, .(proc_code, process, com_code, item, type)],
   by = c("com_code", "item"), all = TRUE, allow.cartesian = TRUE)
 use[, use := NA_real_]
@@ -295,11 +295,11 @@ cat("Allocating items going directly to a process.\n\t",
     paste0(unique(use[type %in% c("100%","tcf_fill"), item]), collapse = "; "),
     ".\n", sep = "")
 use[type %in% c("100%","tcf_fill"), use := ifelse(processing > 0, processing, 0)]
-use[type %in% c("100%","tcf_fill"), processing := processing - use]
+# use[type %in% c("100%","tcf_fill"), processing := processing - use]
 
 # Reduce processing in CBS
 cbs <- merge(cbs, use[type %in% c("100%","tcf_fill") & !is.na(use) & use > 0,
-  c("area_code", "year", "com_code", "use")],
+  list(use = na_sum(use)), by = c("area_code", "year", "com_code")],
   by = c("area_code", "year", "com_code"), all.x = TRUE)
 cbs[!is.na(use), processing := na_sum(processing, -use)]
 cbs[, use := NULL]
@@ -313,9 +313,22 @@ cbs[, use := NULL]
 
 
 
+# Balance supply and use ------------------------------------------------------
+sup_total <- sup[, list(production_sup = na_sum(production)), 
+  by = c("area_code", "com_code", "year")]
+use_total <- use[, list(production_use = na_sum(production), processing = na_sum(processing),
+  use = na_sum(use), energy = na_sum(energy)), by = c("area_code", "com_code", "year")]
+
+totals <- merge(sup_total, use_total)
+
+
+
+
 # Allocate final demand ------------------------------------------------------
-use_fd <- cbs[, c("year", "comm_code", "area_code", "area", "com_code", "item",
-  "food", "other", "losses", "stock_addition", "balancing", "unspecified")]
+cbs[com_code %in% c("c03","c17","c18") & processing > 0, 
+    `:=`(energy = processing, processing = 0)]
+use_fd <- cbs[, .(year, area_code, area, com_code, item,
+  food, other, losses, stock_addition, balancing, unspecified)]
 
 
 # Remove unneeded variables

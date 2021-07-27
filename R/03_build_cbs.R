@@ -29,16 +29,16 @@ fore[, `:=`(com_code = items$com_code[match(fore$item_code, items$item_code)],
 fore[area_code==108 & com_code=="c02" & year %in% 2000:2001, exports := 0]
 
 fore[, `:=`(total_supply = na_sum(production, imports),
-   use = na_sum(production, imports, -exports),
+   dom_supply = na_sum(production, imports, -exports),
    balancing = 0)]
-fore[use < 0, `:=`(balancing = use, use = 0)]
+fore[dom_supply < 0, `:=`(balancing = dom_supply, dom_supply = 0)]
 
 
 # Handle supply gaps ------------------------------------------------------
 
 fore[balancing < 0, `:=`(production = na_sum(production, -balancing))]
 fore[, `:=`(total_supply = na_sum(production, imports),
- use = na_sum(production, imports, -exports))]
+ dom_supply = na_sum(production, imports, -exports))]
 
 
 

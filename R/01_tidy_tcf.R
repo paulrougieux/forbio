@@ -42,6 +42,18 @@ sup[is.na(product),
     `:=`(product = w_product, chips = w_chips, residues = w_residues)]
 sup[, `:=`(w_product = NULL, w_chips = NULL, w_residues = NULL)]
 
+# add world average MB for RoW
+row <- sup[area_code == 252]
+row[, `:=`(area = "RoW", area_code = 999)]
+sup <- rbindlist(list(sup, row))
+
+
+# shift 20% of chips to product and residues
+# because chips actually includes peeler cores, etc.
+sup[proc_code %in% c("p06", "p07"), 
+    `:=`(product = product + chips * 0.2, residues = residues + chips * 0.2, chips = chips * 0.6)]
+
+
 # convert into percentages ignoring losses
 sup[, total := product + chips + residues]
 sup[, `:=`(product = product / total,
@@ -50,7 +62,7 @@ sup[, `:=`(product = product / total,
            total = NULL)]
 
 fwrite(sup, "inst/mb_sup_tidy.csv")
-rm(sup, sup_cont, sup_wrld)
+rm(sup, sup_cont, sup_wrld, row)
 
 
 
@@ -82,6 +94,12 @@ use <- merge(use, use_wrld,
 use[, `:=`(tcf = ifelse(!is.na(tcf), tcf, 
   ifelse(!is.na(c_tcf), c_tcf, w_tcf)), 
   c_tcf = NULL, w_tcf = NULL)]
+
+# add world average MB for RoW
+row <- use[area_code == 252]
+row[, `:=`(area = "RoW", area_code = 999)]
+use <- rbindlist(list(use, row))
+
 
 use <- use[, c("continent", "area_code", "area", "com_code","item","source_code","source","unit","tcf")]
 

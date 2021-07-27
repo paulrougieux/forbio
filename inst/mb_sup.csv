@@ -1,997 +1,997 @@
-area_code;area;proc_code;process;product;chips;residues
-1;Armenia;p04;Sawnmill industry, coniferous;;;
-2;Afghanistan;p04;Sawnmill industry, coniferous;;;
-3;Albania;p04;Sawnmill industry, coniferous;;;
-4;Algeria;p04;Sawnmill industry, coniferous;;;
-6;Andorra;p04;Sawnmill industry, coniferous;;;
-7;Angola;p04;Sawnmill industry, coniferous;;;
-9;Argentina;p04;Sawnmill industry, coniferous;;;
-10;Australia;p04;Sawnmill industry, coniferous;;;
-11;Austria;p04;Sawnmill industry, coniferous;60.00;;
-12;Bahamas;p04;Sawnmill industry, coniferous;;;
-13;Bahrain;p04;Sawnmill industry, coniferous;;;
-14;Barbados;p04;Sawnmill industry, coniferous;;;
-15;Belgium-Luxembourg;p04;Sawnmill industry, coniferous;;;
-16;Bangladesh;p04;Sawnmill industry, coniferous;;;
-18;Bhutan;p04;Sawnmill industry, coniferous;;;
-19;Bolivia (Plurinational State of);p04;Sawnmill industry, coniferous;;;
-20;Botswana;p04;Sawnmill industry, coniferous;;;
-21;Brazil;p04;Sawnmill industry, coniferous;45.00;;
-22;Aruba;p04;Sawnmill industry, coniferous;;;
-23;Belize;p04;Sawnmill industry, coniferous;;;
-25;Solomon Islands;p04;Sawnmill industry, coniferous;;;
-26;Brunei Darussalam;p04;Sawnmill industry, coniferous;;;
-27;Bulgaria;p04;Sawnmill industry, coniferous;;;
-28;Myanmar;p04;Sawnmill industry, coniferous;;;
-29;Burundi;p04;Sawnmill industry, coniferous;;;
-32;Cameroon;p04;Sawnmill industry, coniferous;;;
-33;Canada;p04;Sawnmill industry, coniferous;45.00;38.00;13.00
-35;Cabo Verde;p04;Sawnmill industry, coniferous;;;
-37;Central African Republic;p04;Sawnmill industry, coniferous;;;
-38;Sri Lanka;p04;Sawnmill industry, coniferous;;;
-39;Chad;p04;Sawnmill industry, coniferous;;;
-40;Chile;p04;Sawnmill industry, coniferous;51.00;30.00;19.00
-41;China, mainland;p04;Sawnmill industry, coniferous;50.00;30.00;18.00
-42;Christmas Island;p04;Sawnmill industry, coniferous;;;
-44;Colombia;p04;Sawnmill industry, coniferous;;;
-45;Comoros;p04;Sawnmill industry, coniferous;;;
-46;Congo;p04;Sawnmill industry, coniferous;;;
-47;Cook Islands;p04;Sawnmill industry, coniferous;;;
-48;Costa Rica;p04;Sawnmill industry, coniferous;;;
-49;Cuba;p04;Sawnmill industry, coniferous;;;
-50;Cyprus;p04;Sawnmill industry, coniferous;;;
-51;Czechoslovakia;p04;Sawnmill industry, coniferous;;;
-52;Azerbaijan;p04;Sawnmill industry, coniferous;;;
-53;Benin;p04;Sawnmill industry, coniferous;;;
-54;Denmark;p04;Sawnmill industry, coniferous;52.00;36.00;10.00
-55;Dominica;p04;Sawnmill industry, coniferous;;;
-56;Dominican Republic;p04;Sawnmill industry, coniferous;;;
-57;Belarus;p04;Sawnmill industry, coniferous;;;
-58;Ecuador;p04;Sawnmill industry, coniferous;;;
-59;Egypt;p04;Sawnmill industry, coniferous;;;
-60;El Salvador;p04;Sawnmill industry, coniferous;;;
-61;Equatorial Guinea;p04;Sawnmill industry, coniferous;;;
-63;Estonia;p04;Sawnmill industry, coniferous;;;
-64;Faroe Islands;p04;Sawnmill industry, coniferous;;;
-65;Falkland Islands (Malvinas);p04;Sawnmill industry, coniferous;;;
-66;Fiji;p04;Sawnmill industry, coniferous;;;
-67;Finland;p04;Sawnmill industry, coniferous;50.00;34.00;11.00
-68;France;p04;Sawnmill industry, coniferous;55.00;28.00;13.00
-69;French Guyana;p04;Sawnmill industry, coniferous;;;
-70;French Polynesia;p04;Sawnmill industry, coniferous;;;
-72;Djibouti;p04;Sawnmill industry, coniferous;;;
-73;Georgia;p04;Sawnmill industry, coniferous;;;
-74;Gabon;p04;Sawnmill industry, coniferous;;;
-75;Gambia;p04;Sawnmill industry, coniferous;;;
-79;Germany;p04;Sawnmill industry, coniferous;59.00;25.00;14.00
-80;Bosnia and Herzegovina;p04;Sawnmill industry, coniferous;;;
-81;Ghana;p04;Sawnmill industry, coniferous;;;
-82;Gibraltar;p04;Sawnmill industry, coniferous;;;
-83;Kiribati;p04;Sawnmill industry, coniferous;;;
-84;Greece;p04;Sawnmill industry, coniferous;;;
-87;Guadeloupe;p04;Sawnmill industry, coniferous;;;
-89;Guatemala;p04;Sawnmill industry, coniferous;;;
-90;Guinea;p04;Sawnmill industry, coniferous;;;
-91;Guyana;p04;Sawnmill industry, coniferous;;;
-93;Haiti;p04;Sawnmill industry, coniferous;;;
-95;Honduras;p04;Sawnmill industry, coniferous;;;
-96;China, Hong Kong SAR;p04;Sawnmill industry, coniferous;;;
-97;Hungary;p04;Sawnmill industry, coniferous;;;
-98;Croatia;p04;Sawnmill industry, coniferous;;;
-99;Iceland;p04;Sawnmill industry, coniferous;;;
-100;India;p04;Sawnmill industry, coniferous;;;
-101;Indonesia;p04;Sawnmill industry, coniferous;50.00;25.00;18.00
-102;Iran (Islamic Republic of);p04;Sawnmill industry, coniferous;;;
-103;Iraq;p04;Sawnmill industry, coniferous;;;
-104;Ireland;p04;Sawnmill industry, coniferous;53.00;35.00;11.00
-105;Israel;p04;Sawnmill industry, coniferous;;;
-106;Italy;p04;Sawnmill industry, coniferous;;;
-107;Cote d'Ivoire;p04;Sawnmill industry, coniferous;;;
-108;Kazakhstan;p04;Sawnmill industry, coniferous;;;
-109;Jamaica;p04;Sawnmill industry, coniferous;;;
-110;Japan;p04;Sawnmill industry, coniferous;;;
-112;Jordan;p04;Sawnmill industry, coniferous;;;
-113;Kyrgyzstan;p04;Sawnmill industry, coniferous;;;
-114;Kenya;p04;Sawnmill industry, coniferous;;;
-115;Cambodia;p04;Sawnmill industry, coniferous;;;
-116;Democratic People's Republic of Korea;p04;Sawnmill industry, coniferous;;;
-117;Republic of Korea;p04;Sawnmill industry, coniferous;;;
-118;Kuwait;p04;Sawnmill industry, coniferous;;;
-119;Latvia;p04;Sawnmill industry, coniferous;;;
-120;Lao People's Democratic Republic;p04;Sawnmill industry, coniferous;;;
-121;Lebanon;p04;Sawnmill industry, coniferous;;;
-122;Lesotho;p04;Sawnmill industry, coniferous;;;
-123;Liberia;p04;Sawnmill industry, coniferous;;;
-124;Libya;p04;Sawnmill industry, coniferous;;;
-125;Liechtenstein;p04;Sawnmill industry, coniferous;;;
-126;Lithuania;p04;Sawnmill industry, coniferous;48.00;36.00;11.00
-128;China, Macao SAR;p04;Sawnmill industry, coniferous;;;
-129;Madagascar;p04;Sawnmill industry, coniferous;;;
-130;Malawi;p04;Sawnmill industry, coniferous;;;
-131;Malaysia;p04;Sawnmill industry, coniferous;;;
-132;Maldives;p04;Sawnmill industry, coniferous;;;
-133;Mali;p04;Sawnmill industry, coniferous;;;
-134;Malta;p04;Sawnmill industry, coniferous;;;
-135;Martinique;p04;Sawnmill industry, coniferous;;;
-136;Mauritania;p04;Sawnmill industry, coniferous;;;
-137;Mauritius;p04;Sawnmill industry, coniferous;;;
-138;Mexico;p04;Sawnmill industry, coniferous;;;
-141;Mongolia;p04;Sawnmill industry, coniferous;;;
-143;Morocco;p04;Sawnmill industry, coniferous;;;
-144;Mozambique;p04;Sawnmill industry, coniferous;;;
-145;Micronesia (Federated States of);p04;Sawnmill industry, coniferous;;;
-146;Republic of Moldova;p04;Sawnmill industry, coniferous;;;
-147;Namibia;p04;Sawnmill industry, coniferous;;;
-149;Nepal;p04;Sawnmill industry, coniferous;;;
-150;Netherlands;p04;Sawnmill industry, coniferous;53.00;;
-151;Netherlands Antilles;p04;Sawnmill industry, coniferous;;;
-153;New Caledonia;p04;Sawnmill industry, coniferous;;;
-154;North Macedonia;p04;Sawnmill industry, coniferous;;;
-155;Vanuatu;p04;Sawnmill industry, coniferous;;;
-156;New Zealand;p04;Sawnmill industry, coniferous;;;
-157;Nicaragua;p04;Sawnmill industry, coniferous;;;
-158;Niger;p04;Sawnmill industry, coniferous;;;
-159;Nigeria;p04;Sawnmill industry, coniferous;;;
-160;Niue;p04;Sawnmill industry, coniferous;;;
-161;Norfolk Island;p04;Sawnmill industry, coniferous;;;
-162;Norway;p04;Sawnmill industry, coniferous;50.00;34.00;10.00
-165;Pakistan;p04;Sawnmill industry, coniferous;;;
-166;Panama;p04;Sawnmill industry, coniferous;;;
-167;Czechia;p04;Sawnmill industry, coniferous;60.00;25.00;12.00
-168;Papua New Guinea;p04;Sawnmill industry, coniferous;;;
-169;Paraguay;p04;Sawnmill industry, coniferous;;;
-170;Peru;p04;Sawnmill industry, coniferous;;;
-171;Philippines;p04;Sawnmill industry, coniferous;;;
-173;Poland;p04;Sawnmill industry, coniferous;60.00;22.00;16.00
-174;Portugal;p04;Sawnmill industry, coniferous;50.00;;
-175;Guinea-Bissau;p04;Sawnmill industry, coniferous;;;
-176;Timor-Leste;p04;Sawnmill industry, coniferous;;;
-178;Eritrea;p04;Sawnmill industry, coniferous;;;
-179;Qatar;p04;Sawnmill industry, coniferous;;;
-181;Zimbabwe;p04;Sawnmill industry, coniferous;;;
-182;Reunion;p04;Sawnmill industry, coniferous;;;
-183;Romania;p04;Sawnmill industry, coniferous;;;
-184;Rwanda;p04;Sawnmill industry, coniferous;;;
-185;Russian Federation;p04;Sawnmill industry, coniferous;;;
-186;Serbia and Montenegro;p04;Sawnmill industry, coniferous;;;
-189;Saint Lucia;p04;Sawnmill industry, coniferous;;;
-190;Saint Pierre and Miquelon;p04;Sawnmill industry, coniferous;;;
-191;Saint Vincent and the Grenadines;p04;Sawnmill industry, coniferous;;;
-193;Sao Tome and Principe;p04;Sawnmill industry, coniferous;;;
-194;Saudi Arabia;p04;Sawnmill industry, coniferous;;;
-195;Senegal;p04;Sawnmill industry, coniferous;;;
-196;Seychelles;p04;Sawnmill industry, coniferous;;;
-197;Sierra Leone;p04;Sawnmill industry, coniferous;;;
-198;Slovenia;p04;Sawnmill industry, coniferous;56.00;27.00;12.00
-199;Slovakia;p04;Sawnmill industry, coniferous;58.00;19.00;11.00
-200;Singapore;p04;Sawnmill industry, coniferous;;;
-201;Somalia;p04;Sawnmill industry, coniferous;;;
-202;South Africa;p04;Sawnmill industry, coniferous;48.00;20.00;29.00
-203;Spain;p04;Sawnmill industry, coniferous;59.00;22.00;12.00
-207;Suriname;p04;Sawnmill industry, coniferous;;;
-208;Tajikistan;p04;Sawnmill industry, coniferous;;;
-209;Eswatini;p04;Sawnmill industry, coniferous;;;
-210;Sweden;p04;Sawnmill industry, coniferous;49.00;32.00;14.00
-211;Switzerland;p04;Sawnmill industry, coniferous;;;
-212;Syrian Arab Republic;p04;Sawnmill industry, coniferous;;;
-213;Turkmenistan;p04;Sawnmill industry, coniferous;;;
-214;China, Taiwan Province of;p04;Sawnmill industry, coniferous;;;
-215;United Republic of Tanzania;p04;Sawnmill industry, coniferous;;;
-216;Thailand;p04;Sawnmill industry, coniferous;;;
-217;Togo;p04;Sawnmill industry, coniferous;;;
-219;Tonga;p04;Sawnmill industry, coniferous;;;
-220;Trinidad and Tobago;p04;Sawnmill industry, coniferous;;;
-221;Oman;p04;Sawnmill industry, coniferous;;;
-222;Tunisia;p04;Sawnmill industry, coniferous;;;
-223;Turkey;p04;Sawnmill industry, coniferous;;;
-224;Turks and Caicos Islands;p04;Sawnmill industry, coniferous;;;
-225;United Arab Emirates;p04;Sawnmill industry, coniferous;;;
-226;Uganda;p04;Sawnmill industry, coniferous;;;
-229;United Kingdom;p04;Sawnmill industry, coniferous;54.00;30.00;13.00
-230;Ukraine;p04;Sawnmill industry, coniferous;56.00;21.00;10.00
-231;United States of America;p04;Sawnmill industry, coniferous;49.00;27.00;20.00
-233;Burkina Faso;p04;Sawnmill industry, coniferous;;;
-234;Uruguay;p04;Sawnmill industry, coniferous;;;
-235;Uzbekistan;p04;Sawnmill industry, coniferous;;;
-236;Venezuela (Bolivarian Republic of);p04;Sawnmill industry, coniferous;;;
-237;Viet Nam;p04;Sawnmill industry, coniferous;;;
-238;Ethiopia;p04;Sawnmill industry, coniferous;;;
-239;British Virgin Islands;p04;Sawnmill industry, coniferous;;;
-244;Samoa;p04;Sawnmill industry, coniferous;;;
-249;Yemen;p04;Sawnmill industry, coniferous;;;
-250;Democratic Republic of the Congo;p04;Sawnmill industry, coniferous;;;
-251;Zambia;p04;Sawnmill industry, coniferous;;;
-255;Belgium;p04;Sawnmill industry, coniferous;;;
-256;Luxembourg;p04;Sawnmill industry, coniferous;;;
-270;Mayotte;p04;Sawnmill industry, coniferous;;;
-272;Serbia;p04;Sawnmill industry, coniferous;;;
-273;Montenegro;p04;Sawnmill industry, coniferous;;;
-276;Sudan;p04;Sawnmill industry, coniferous;;;
-277;South Sudan;p04;Sawnmill industry, coniferous;;;
-5;American Samoa;p04;Sawnmill industry, coniferous;;;
-8;Antigua and Barbuda;p04;Sawnmill industry, coniferous;;;
-17;Bermuda;p04;Sawnmill industry, coniferous;;;
-24;British Indian Ocean Territory;p04;Sawnmill industry, coniferous;;;
-36;Cayman Islands;p04;Sawnmill industry, coniferous;;;
-43;Cocos (Keeling) Islands;p04;Sawnmill industry, coniferous;;;
-71;French Southern and Antarctic Territories;p04;Sawnmill industry, coniferous;;;
-85;Greenland;p04;Sawnmill industry, coniferous;;;
-86;Grenada;p04;Sawnmill industry, coniferous;;;
-88;Guam;p04;Sawnmill industry, coniferous;;;
-94;Holy See;p04;Sawnmill industry, coniferous;;;
-127;Marshall Islands;p04;Sawnmill industry, coniferous;;;
-142;Montserrat;p04;Sawnmill industry, coniferous;;;
-148;Nauru;p04;Sawnmill industry, coniferous;;;
-163;Northern Mariana Islands;p04;Sawnmill industry, coniferous;;;
-164;Pacific Islands Trust Territory;p04;Sawnmill industry, coniferous;;;
-172;Pitcairn Islands;p04;Sawnmill industry, coniferous;;;
-180;Palau;p04;Sawnmill industry, coniferous;;;
-187;Saint Helena, Ascension and Tristan da Cunha;p04;Sawnmill industry, coniferous;;;
-188;Saint Kitts and Nevis;p04;Sawnmill industry, coniferous;;;
-192;San Marino;p04;Sawnmill industry, coniferous;;;
-205;Western Sahara;p04;Sawnmill industry, coniferous;;;
-218;Tokelau;p04;Sawnmill industry, coniferous;;;
-227;Tuvalu;p04;Sawnmill industry, coniferous;;;
-228;USSR;p04;Sawnmill industry, coniferous;;;
-242;Wake Island;p04;Sawnmill industry, coniferous;;;
-243;Wallis and Futuna Islands;p04;Sawnmill industry, coniferous;;;
-248;Yugoslav SFR;p04;Sawnmill industry, coniferous;;;
-258;Anguilla;p04;Sawnmill industry, coniferous;;;
-279;Curaçao;p04;Sawnmill industry, coniferous;;;
-281;Saint-Martin (French Part);p04;Sawnmill industry, coniferous;;;
-299;Palestine;p04;Sawnmill industry, coniferous;;;
-252;Unspecified Area;p04;Sawnmill industry, coniferous;;;
-254;Others (adjustment);p04;Sawnmill industry, coniferous;;;
-;ASI;p04;Sawnmill industry, coniferous;50.00;26.00;19.00
-;EUR;p04;Sawnmill industry, coniferous;55.00;28.00;13.00
-;AFR;p04;Sawnmill industry, coniferous;48.00;20.00;29.00
-;LAM;p04;Sawnmill industry, coniferous;48.00;30.00;19.00
-;OCE;p04;Sawnmill industry, coniferous;;;
-;NAM;p04;Sawnmill industry, coniferous;47.00;32.00;17.00
-1;Armenia;p05;Sawnmill industry, non-coniferous all;;;
-2;Afghanistan;p05;Sawnmill industry, non-coniferous all;;;
-3;Albania;p05;Sawnmill industry, non-coniferous all;;;
-4;Algeria;p05;Sawnmill industry, non-coniferous all;;;
-6;Andorra;p05;Sawnmill industry, non-coniferous all;;;
-7;Angola;p05;Sawnmill industry, non-coniferous all;;;
-9;Argentina;p05;Sawnmill industry, non-coniferous all;;;
-10;Australia;p05;Sawnmill industry, non-coniferous all;;;
-11;Austria;p05;Sawnmill industry, non-coniferous all;35.00;;
-12;Bahamas;p05;Sawnmill industry, non-coniferous all;;;
-13;Bahrain;p05;Sawnmill industry, non-coniferous all;;;
-14;Barbados;p05;Sawnmill industry, non-coniferous all;;;
-15;Belgium-Luxembourg;p05;Sawnmill industry, non-coniferous all;;;
-16;Bangladesh;p05;Sawnmill industry, non-coniferous all;;;
-18;Bhutan;p05;Sawnmill industry, non-coniferous all;;;
-19;Bolivia (Plurinational State of);p05;Sawnmill industry, non-coniferous all;;;
-20;Botswana;p05;Sawnmill industry, non-coniferous all;;;
-21;Brazil;p05;Sawnmill industry, non-coniferous all;45.00;;
-22;Aruba;p05;Sawnmill industry, non-coniferous all;;;
-23;Belize;p05;Sawnmill industry, non-coniferous all;;;
-25;Solomon Islands;p05;Sawnmill industry, non-coniferous all;;;
-26;Brunei Darussalam;p05;Sawnmill industry, non-coniferous all;;;
-27;Bulgaria;p05;Sawnmill industry, non-coniferous all;;;
-28;Myanmar;p05;Sawnmill industry, non-coniferous all;;;
-29;Burundi;p05;Sawnmill industry, non-coniferous all;;;
-32;Cameroon;p05;Sawnmill industry, non-coniferous all;;;
-33;Canada;p05;Sawnmill industry, non-coniferous all;51.00;33.00;12.00
-35;Cabo Verde;p05;Sawnmill industry, non-coniferous all;;;
-37;Central African Republic;p05;Sawnmill industry, non-coniferous all;;;
-38;Sri Lanka;p05;Sawnmill industry, non-coniferous all;;;
-39;Chad;p05;Sawnmill industry, non-coniferous all;;;
-40;Chile;p05;Sawnmill industry, non-coniferous all;52.00;;
-41;China, mainland;p05;Sawnmill industry, non-coniferous all;60.00;25.00;13.00
-42;Christmas Island;p05;Sawnmill industry, non-coniferous all;;;
-44;Colombia;p05;Sawnmill industry, non-coniferous all;;;
-45;Comoros;p05;Sawnmill industry, non-coniferous all;;;
-46;Congo;p05;Sawnmill industry, non-coniferous all;;;
-47;Cook Islands;p05;Sawnmill industry, non-coniferous all;;;
-48;Costa Rica;p05;Sawnmill industry, non-coniferous all;;;
-49;Cuba;p05;Sawnmill industry, non-coniferous all;;;
-50;Cyprus;p05;Sawnmill industry, non-coniferous all;;;
-51;Czechoslovakia;p05;Sawnmill industry, non-coniferous all;;;
-52;Azerbaijan;p05;Sawnmill industry, non-coniferous all;;;
-53;Benin;p05;Sawnmill industry, non-coniferous all;;;
-54;Denmark;p05;Sawnmill industry, non-coniferous all;47.00;35.00;15.00
-55;Dominica;p05;Sawnmill industry, non-coniferous all;;;
-56;Dominican Republic;p05;Sawnmill industry, non-coniferous all;;;
-57;Belarus;p05;Sawnmill industry, non-coniferous all;;;
-58;Ecuador;p05;Sawnmill industry, non-coniferous all;;;
-59;Egypt;p05;Sawnmill industry, non-coniferous all;;;
-60;El Salvador;p05;Sawnmill industry, non-coniferous all;;;
-61;Equatorial Guinea;p05;Sawnmill industry, non-coniferous all;;;
-63;Estonia;p05;Sawnmill industry, non-coniferous all;;;
-64;Faroe Islands;p05;Sawnmill industry, non-coniferous all;;;
-65;Falkland Islands (Malvinas);p05;Sawnmill industry, non-coniferous all;;;
-66;Fiji;p05;Sawnmill industry, non-coniferous all;;;
-67;Finland;p05;Sawnmill industry, non-coniferous all;54.00;;
-68;France;p05;Sawnmill industry, non-coniferous all;47.00;36.00;14.00
-69;French Guyana;p05;Sawnmill industry, non-coniferous all;;;
-70;French Polynesia;p05;Sawnmill industry, non-coniferous all;;;
-72;Djibouti;p05;Sawnmill industry, non-coniferous all;;;
-73;Georgia;p05;Sawnmill industry, non-coniferous all;;;
-74;Gabon;p05;Sawnmill industry, non-coniferous all;;;
-75;Gambia;p05;Sawnmill industry, non-coniferous all;;;
-79;Germany;p05;Sawnmill industry, non-coniferous all;60.00;14.00;22.00
-80;Bosnia and Herzegovina;p05;Sawnmill industry, non-coniferous all;;;
-81;Ghana;p05;Sawnmill industry, non-coniferous all;;;
-82;Gibraltar;p05;Sawnmill industry, non-coniferous all;;;
-83;Kiribati;p05;Sawnmill industry, non-coniferous all;;;
-84;Greece;p05;Sawnmill industry, non-coniferous all;;;
-87;Guadeloupe;p05;Sawnmill industry, non-coniferous all;;;
-89;Guatemala;p05;Sawnmill industry, non-coniferous all;;;
-90;Guinea;p05;Sawnmill industry, non-coniferous all;;;
-91;Guyana;p05;Sawnmill industry, non-coniferous all;40.00;;
-93;Haiti;p05;Sawnmill industry, non-coniferous all;;;
-95;Honduras;p05;Sawnmill industry, non-coniferous all;;;
-96;China, Hong Kong SAR;p05;Sawnmill industry, non-coniferous all;;;
-97;Hungary;p05;Sawnmill industry, non-coniferous all;;;
-98;Croatia;p05;Sawnmill industry, non-coniferous all;;;
-99;Iceland;p05;Sawnmill industry, non-coniferous all;;;
-100;India;p05;Sawnmill industry, non-coniferous all;;;
-101;Indonesia;p05;Sawnmill industry, non-coniferous all;52.00;24.00;15.00
-102;Iran (Islamic Republic of);p05;Sawnmill industry, non-coniferous all;;;
-103;Iraq;p05;Sawnmill industry, non-coniferous all;;;
-104;Ireland;p05;Sawnmill industry, non-coniferous all;53.00;35.00;11.00
-105;Israel;p05;Sawnmill industry, non-coniferous all;;;
-106;Italy;p05;Sawnmill industry, non-coniferous all;;;
-107;Cote d'Ivoire;p05;Sawnmill industry, non-coniferous all;;;
-108;Kazakhstan;p05;Sawnmill industry, non-coniferous all;;;
-109;Jamaica;p05;Sawnmill industry, non-coniferous all;;;
-110;Japan;p05;Sawnmill industry, non-coniferous all;;;
-112;Jordan;p05;Sawnmill industry, non-coniferous all;;;
-113;Kyrgyzstan;p05;Sawnmill industry, non-coniferous all;;;
-114;Kenya;p05;Sawnmill industry, non-coniferous all;;;
-115;Cambodia;p05;Sawnmill industry, non-coniferous all;;;
-116;Democratic People's Republic of Korea;p05;Sawnmill industry, non-coniferous all;;;
-117;Republic of Korea;p05;Sawnmill industry, non-coniferous all;;;
-118;Kuwait;p05;Sawnmill industry, non-coniferous all;;;
-119;Latvia;p05;Sawnmill industry, non-coniferous all;;;
-120;Lao People's Democratic Republic;p05;Sawnmill industry, non-coniferous all;;;
-121;Lebanon;p05;Sawnmill industry, non-coniferous all;;;
-122;Lesotho;p05;Sawnmill industry, non-coniferous all;;;
-123;Liberia;p05;Sawnmill industry, non-coniferous all;;;
-124;Libya;p05;Sawnmill industry, non-coniferous all;;;
-125;Liechtenstein;p05;Sawnmill industry, non-coniferous all;;;
-126;Lithuania;p05;Sawnmill industry, non-coniferous all;48.00;36.00;11.00
-128;China, Macao SAR;p05;Sawnmill industry, non-coniferous all;;;
-129;Madagascar;p05;Sawnmill industry, non-coniferous all;;;
-130;Malawi;p05;Sawnmill industry, non-coniferous all;;;
-131;Malaysia;p05;Sawnmill industry, non-coniferous all;63.00;;
-132;Maldives;p05;Sawnmill industry, non-coniferous all;;;
-133;Mali;p05;Sawnmill industry, non-coniferous all;;;
-134;Malta;p05;Sawnmill industry, non-coniferous all;;;
-135;Martinique;p05;Sawnmill industry, non-coniferous all;;;
-136;Mauritania;p05;Sawnmill industry, non-coniferous all;;;
-137;Mauritius;p05;Sawnmill industry, non-coniferous all;;;
-138;Mexico;p05;Sawnmill industry, non-coniferous all;;;
-141;Mongolia;p05;Sawnmill industry, non-coniferous all;;;
-143;Morocco;p05;Sawnmill industry, non-coniferous all;;;
-144;Mozambique;p05;Sawnmill industry, non-coniferous all;;;
-145;Micronesia (Federated States of);p05;Sawnmill industry, non-coniferous all;;;
-146;Republic of Moldova;p05;Sawnmill industry, non-coniferous all;;;
-147;Namibia;p05;Sawnmill industry, non-coniferous all;;;
-149;Nepal;p05;Sawnmill industry, non-coniferous all;;;
-150;Netherlands;p05;Sawnmill industry, non-coniferous all;51.00;;
-151;Netherlands Antilles;p05;Sawnmill industry, non-coniferous all;;;
-153;New Caledonia;p05;Sawnmill industry, non-coniferous all;;;
-154;North Macedonia;p05;Sawnmill industry, non-coniferous all;;;
-155;Vanuatu;p05;Sawnmill industry, non-coniferous all;;;
-156;New Zealand;p05;Sawnmill industry, non-coniferous all;;;
-157;Nicaragua;p05;Sawnmill industry, non-coniferous all;;;
-158;Niger;p05;Sawnmill industry, non-coniferous all;;;
-159;Nigeria;p05;Sawnmill industry, non-coniferous all;55.00;21.00;17.00
-160;Niue;p05;Sawnmill industry, non-coniferous all;;;
-161;Norfolk Island;p05;Sawnmill industry, non-coniferous all;;;
-162;Norway;p05;Sawnmill industry, non-coniferous all;50.00;34.00;8.00
-165;Pakistan;p05;Sawnmill industry, non-coniferous all;;;
-166;Panama;p05;Sawnmill industry, non-coniferous all;;;
-167;Czechia;p05;Sawnmill industry, non-coniferous all;46.00;;
-168;Papua New Guinea;p05;Sawnmill industry, non-coniferous all;;;
-169;Paraguay;p05;Sawnmill industry, non-coniferous all;;;
-170;Peru;p05;Sawnmill industry, non-coniferous all;;;
-171;Philippines;p05;Sawnmill industry, non-coniferous all;;;
-173;Poland;p05;Sawnmill industry, non-coniferous all;63.00;18.00;17.00
-174;Portugal;p05;Sawnmill industry, non-coniferous all;57.00;;
-175;Guinea-Bissau;p05;Sawnmill industry, non-coniferous all;;;
-176;Timor-Leste;p05;Sawnmill industry, non-coniferous all;;;
-178;Eritrea;p05;Sawnmill industry, non-coniferous all;;;
-179;Qatar;p05;Sawnmill industry, non-coniferous all;;;
-181;Zimbabwe;p05;Sawnmill industry, non-coniferous all;;;
-182;Reunion;p05;Sawnmill industry, non-coniferous all;;;
-183;Romania;p05;Sawnmill industry, non-coniferous all;;;
-184;Rwanda;p05;Sawnmill industry, non-coniferous all;;;
-185;Russian Federation;p05;Sawnmill industry, non-coniferous all;;;
-186;Serbia and Montenegro;p05;Sawnmill industry, non-coniferous all;;;
-189;Saint Lucia;p05;Sawnmill industry, non-coniferous all;;;
-190;Saint Pierre and Miquelon;p05;Sawnmill industry, non-coniferous all;;;
-191;Saint Vincent and the Grenadines;p05;Sawnmill industry, non-coniferous all;;;
-193;Sao Tome and Principe;p05;Sawnmill industry, non-coniferous all;;;
-194;Saudi Arabia;p05;Sawnmill industry, non-coniferous all;;;
-195;Senegal;p05;Sawnmill industry, non-coniferous all;;;
-196;Seychelles;p05;Sawnmill industry, non-coniferous all;;;
-197;Sierra Leone;p05;Sawnmill industry, non-coniferous all;;;
-198;Slovenia;p05;Sawnmill industry, non-coniferous all;;;
-199;Slovakia;p05;Sawnmill industry, non-coniferous all;66.00;17.00;9.00
-200;Singapore;p05;Sawnmill industry, non-coniferous all;;;
-201;Somalia;p05;Sawnmill industry, non-coniferous all;;;
-202;South Africa;p05;Sawnmill industry, non-coniferous all;;;
-203;Spain;p05;Sawnmill industry, non-coniferous all;53.00;27.00;14.00
-207;Suriname;p05;Sawnmill industry, non-coniferous all;;;
-208;Tajikistan;p05;Sawnmill industry, non-coniferous all;;;
-209;Eswatini;p05;Sawnmill industry, non-coniferous all;;;
-210;Sweden;p05;Sawnmill industry, non-coniferous all;53.00;;
-211;Switzerland;p05;Sawnmill industry, non-coniferous all;;;
-212;Syrian Arab Republic;p05;Sawnmill industry, non-coniferous all;;;
-213;Turkmenistan;p05;Sawnmill industry, non-coniferous all;;;
-214;China, Taiwan Province of;p05;Sawnmill industry, non-coniferous all;;;
-215;United Republic of Tanzania;p05;Sawnmill industry, non-coniferous all;;;
-216;Thailand;p05;Sawnmill industry, non-coniferous all;;;
-217;Togo;p05;Sawnmill industry, non-coniferous all;;;
-219;Tonga;p05;Sawnmill industry, non-coniferous all;;;
-220;Trinidad and Tobago;p05;Sawnmill industry, non-coniferous all;;;
-221;Oman;p05;Sawnmill industry, non-coniferous all;;;
-222;Tunisia;p05;Sawnmill industry, non-coniferous all;;;
-223;Turkey;p05;Sawnmill industry, non-coniferous all;;;
-224;Turks and Caicos Islands;p05;Sawnmill industry, non-coniferous all;;;
-225;United Arab Emirates;p05;Sawnmill industry, non-coniferous all;;;
-226;Uganda;p05;Sawnmill industry, non-coniferous all;;;
-229;United Kingdom;p05;Sawnmill industry, non-coniferous all;40.00;;
-230;Ukraine;p05;Sawnmill industry, non-coniferous all;61.00;24.00;10.00
-231;United States of America;p05;Sawnmill industry, non-coniferous all;54.00;30.00;14.00
-233;Burkina Faso;p05;Sawnmill industry, non-coniferous all;;;
-234;Uruguay;p05;Sawnmill industry, non-coniferous all;;;
-235;Uzbekistan;p05;Sawnmill industry, non-coniferous all;;;
-236;Venezuela (Bolivarian Republic of);p05;Sawnmill industry, non-coniferous all;;;
-237;Viet Nam;p05;Sawnmill industry, non-coniferous all;;;
-238;Ethiopia;p05;Sawnmill industry, non-coniferous all;;;
-239;British Virgin Islands;p05;Sawnmill industry, non-coniferous all;;;
-244;Samoa;p05;Sawnmill industry, non-coniferous all;;;
-249;Yemen;p05;Sawnmill industry, non-coniferous all;;;
-250;Democratic Republic of the Congo;p05;Sawnmill industry, non-coniferous all;;;
-251;Zambia;p05;Sawnmill industry, non-coniferous all;;;
-255;Belgium;p05;Sawnmill industry, non-coniferous all;;;
-256;Luxembourg;p05;Sawnmill industry, non-coniferous all;;;
-270;Mayotte;p05;Sawnmill industry, non-coniferous all;;;
-272;Serbia;p05;Sawnmill industry, non-coniferous all;;;
-273;Montenegro;p05;Sawnmill industry, non-coniferous all;;;
-276;Sudan;p05;Sawnmill industry, non-coniferous all;;;
-277;South Sudan;p05;Sawnmill industry, non-coniferous all;;;
-5;American Samoa;p04;Sawnmill industry, non-coniferous all;;;
-8;Antigua and Barbuda;p04;Sawnmill industry, non-coniferous all;;;
-17;Bermuda;p04;Sawnmill industry, non-coniferous all;;;
-24;British Indian Ocean Territory;p04;Sawnmill industry, non-coniferous all;;;
-36;Cayman Islands;p04;Sawnmill industry, non-coniferous all;;;
-43;Cocos (Keeling) Islands;p04;Sawnmill industry, non-coniferous all;;;
-71;French Southern and Antarctic Territories;p04;Sawnmill industry, non-coniferous all;;;
-85;Greenland;p04;Sawnmill industry, non-coniferous all;;;
-86;Grenada;p04;Sawnmill industry, non-coniferous all;;;
-88;Guam;p04;Sawnmill industry, non-coniferous all;;;
-94;Holy See;p04;Sawnmill industry, non-coniferous all;;;
-127;Marshall Islands;p04;Sawnmill industry, non-coniferous all;;;
-142;Montserrat;p04;Sawnmill industry, non-coniferous all;;;
-148;Nauru;p04;Sawnmill industry, non-coniferous all;;;
-163;Northern Mariana Islands;p04;Sawnmill industry, non-coniferous all;;;
-164;Pacific Islands Trust Territory;p04;Sawnmill industry, non-coniferous all;;;
-172;Pitcairn Islands;p04;Sawnmill industry, non-coniferous all;;;
-180;Palau;p04;Sawnmill industry, non-coniferous all;;;
-187;Saint Helena, Ascension and Tristan da Cunha;p04;Sawnmill industry, non-coniferous all;;;
-188;Saint Kitts and Nevis;p04;Sawnmill industry, non-coniferous all;;;
-192;San Marino;p04;Sawnmill industry, non-coniferous all;;;
-205;Western Sahara;p04;Sawnmill industry, non-coniferous all;;;
-218;Tokelau;p04;Sawnmill industry, non-coniferous all;;;
-227;Tuvalu;p04;Sawnmill industry, non-coniferous all;;;
-228;USSR;p04;Sawnmill industry, non-coniferous all;;;
-242;Wake Island;p04;Sawnmill industry, non-coniferous all;;;
-243;Wallis and Futuna Islands;p04;Sawnmill industry, non-coniferous all;;;
-248;Yugoslav SFR;p04;Sawnmill industry, non-coniferous all;;;
-258;Anguilla;p04;Sawnmill industry, non-coniferous all;;;
-279;Curaçao;p04;Sawnmill industry, non-coniferous all;;;
-281;Saint-Martin (French Part);p04;Sawnmill industry, non-coniferous all;;;
-299;Palestine;p04;Sawnmill industry, non-coniferous all;;;
-252;Unspecified Area;p04;Sawnmill industry, non-coniferous all;;;
-254;Others (adjustment);p04;Sawnmill industry, non-coniferous all;;;
-;ASI;p05;Sawnmill industry, non-coniferous all;58.00;24.00;13.00
-;EUR;p05;Sawnmill industry, non-coniferous all;52.00;27.00;16.00
-;AFR;p05;Sawnmill industry, non-coniferous all;55.00;21.00;17.00
-;LAM;p05;Sawnmill industry, non-coniferous all;46.00;44.00;10.00
-;OCE;p05;Sawnmill industry, non-coniferous all;;;
-;NAM;p05;Sawnmill industry, non-coniferous all;53.00;31.00;13.00
-1;Armenia;p06;Veneer production;;;
-2;Afghanistan;p06;Veneer production;;;
-3;Albania;p06;Veneer production;;;
-4;Algeria;p06;Veneer production;;;
-6;Andorra;p06;Veneer production;;;
-7;Angola;p06;Veneer production;;;
-9;Argentina;p06;Veneer production;;;
-10;Australia;p06;Veneer production;;;
-11;Austria;p06;Veneer production;;;
-12;Bahamas;p06;Veneer production;;;
-13;Bahrain;p06;Veneer production;;;
-14;Barbados;p06;Veneer production;;;
-15;Belgium-Luxembourg;p06;Veneer production;;;
-16;Bangladesh;p06;Veneer production;;;
-18;Bhutan;p06;Veneer production;;;
-19;Bolivia (Plurinational State of);p06;Veneer production;;;
-20;Botswana;p06;Veneer production;;;
-21;Brazil;p06;Veneer production;;;
-22;Aruba;p06;Veneer production;;;
-23;Belize;p06;Veneer production;;;
-25;Solomon Islands;p06;Veneer production;;;
-26;Brunei Darussalam;p06;Veneer production;;;
-27;Bulgaria;p06;Veneer production;;;
-28;Myanmar;p06;Veneer production;;;
-29;Burundi;p06;Veneer production;;;
-32;Cameroon;p06;Veneer production;;;
-33;Canada;p06;Veneer production;52.00;37.00;6.00
-35;Cabo Verde;p06;Veneer production;;;
-37;Central African Republic;p06;Veneer production;;;
-38;Sri Lanka;p06;Veneer production;;;
-39;Chad;p06;Veneer production;;;
-40;Chile;p06;Veneer production;;;
-41;China, mainland;p06;Veneer production;63.75;30.00;3.50
-42;Christmas Island;p06;Veneer production;;;
-44;Colombia;p06;Veneer production;;;
-45;Comoros;p06;Veneer production;;;
-46;Congo;p06;Veneer production;;;
-47;Cook Islands;p06;Veneer production;;;
-48;Costa Rica;p06;Veneer production;;;
-49;Cuba;p06;Veneer production;;;
-50;Cyprus;p06;Veneer production;;;
-51;Czechoslovakia;p06;Veneer production;;;
-52;Azerbaijan;p06;Veneer production;;;
-53;Benin;p06;Veneer production;;;
-54;Denmark;p06;Veneer production;;;
-55;Dominica;p06;Veneer production;;;
-56;Dominican Republic;p06;Veneer production;;;
-57;Belarus;p06;Veneer production;;;
-58;Ecuador;p06;Veneer production;;;
-59;Egypt;p06;Veneer production;;;
-60;El Salvador;p06;Veneer production;;;
-61;Equatorial Guinea;p06;Veneer production;;;
-63;Estonia;p06;Veneer production;;;
-64;Faroe Islands;p06;Veneer production;;;
-65;Falkland Islands (Malvinas);p06;Veneer production;;;
-66;Fiji;p06;Veneer production;;;
-67;Finland;p06;Veneer production;41.20;48.50;2.70
-68;France;p06;Veneer production;46.65;;
-69;French Guyana;p06;Veneer production;;;
-70;French Polynesia;p06;Veneer production;;;
-72;Djibouti;p06;Veneer production;;;
-73;Georgia;p06;Veneer production;;;
-74;Gabon;p06;Veneer production;;;
-75;Gambia;p06;Veneer production;;;
-79;Germany;p06;Veneer production;55.00;;
-80;Bosnia and Herzegovina;p06;Veneer production;;;
-81;Ghana;p06;Veneer production;;;
-82;Gibraltar;p06;Veneer production;;;
-83;Kiribati;p06;Veneer production;;;
-84;Greece;p06;Veneer production;;;
-87;Guadeloupe;p06;Veneer production;;;
-89;Guatemala;p06;Veneer production;;;
-90;Guinea;p06;Veneer production;;;
-91;Guyana;p06;Veneer production;;;
-93;Haiti;p06;Veneer production;;;
-95;Honduras;p06;Veneer production;;;
-96;China, Hong Kong SAR;p06;Veneer production;;;
-97;Hungary;p06;Veneer production;;;
-98;Croatia;p06;Veneer production;;;
-99;Iceland;p06;Veneer production;;;
-100;India;p06;Veneer production;;;
-101;Indonesia;p06;Veneer production;;;
-102;Iran (Islamic Republic of);p06;Veneer production;;;
-103;Iraq;p06;Veneer production;;;
-104;Ireland;p06;Veneer production;;;
-105;Israel;p06;Veneer production;;;
-106;Italy;p06;Veneer production;;;
-107;Cote d'Ivoire;p06;Veneer production;;;
-108;Kazakhstan;p06;Veneer production;;;
-109;Jamaica;p06;Veneer production;;;
-110;Japan;p06;Veneer production;;;
-112;Jordan;p06;Veneer production;;;
-113;Kyrgyzstan;p06;Veneer production;;;
-114;Kenya;p06;Veneer production;;;
-115;Cambodia;p06;Veneer production;;;
-116;Democratic People's Republic of Korea;p06;Veneer production;;;
-117;Republic of Korea;p06;Veneer production;;;
-118;Kuwait;p06;Veneer production;;;
-119;Latvia;p06;Veneer production;;;
-120;Lao People's Democratic Republic;p06;Veneer production;;;
-121;Lebanon;p06;Veneer production;;;
-122;Lesotho;p06;Veneer production;;;
-123;Liberia;p06;Veneer production;;;
-124;Libya;p06;Veneer production;;;
-125;Liechtenstein;p06;Veneer production;;;
-126;Lithuania;p06;Veneer production;46.00;45.00;3.00
-128;China, Macao SAR;p06;Veneer production;;;
-129;Madagascar;p06;Veneer production;;;
-130;Malawi;p06;Veneer production;;;
-131;Malaysia;p06;Veneer production;50.00;38.00;4.00
-132;Maldives;p06;Veneer production;;;
-133;Mali;p06;Veneer production;;;
-134;Malta;p06;Veneer production;;;
-135;Martinique;p06;Veneer production;;;
-136;Mauritania;p06;Veneer production;;;
-137;Mauritius;p06;Veneer production;;;
-138;Mexico;p06;Veneer production;47.00;38.00;5.70
-141;Mongolia;p06;Veneer production;;;
-143;Morocco;p06;Veneer production;;;
-144;Mozambique;p06;Veneer production;;;
-145;Micronesia (Federated States of);p06;Veneer production;;;
-146;Republic of Moldova;p06;Veneer production;;;
-147;Namibia;p06;Veneer production;;;
-149;Nepal;p06;Veneer production;;;
-150;Netherlands;p06;Veneer production;51.00;45.00;2.00
-151;Netherlands Antilles;p06;Veneer production;;;
-153;New Caledonia;p06;Veneer production;;;
-154;North Macedonia;p06;Veneer production;;;
-155;Vanuatu;p06;Veneer production;;;
-156;New Zealand;p06;Veneer production;;;
-157;Nicaragua;p06;Veneer production;;;
-158;Niger;p06;Veneer production;;;
-159;Nigeria;p06;Veneer production;;;
-160;Niue;p06;Veneer production;;;
-161;Norfolk Island;p06;Veneer production;;;
-162;Norway;p06;Veneer production;;;
-165;Pakistan;p06;Veneer production;;;
-166;Panama;p06;Veneer production;;;
-167;Czechia;p06;Veneer production;;;
-168;Papua New Guinea;p06;Veneer production;;;
-169;Paraguay;p06;Veneer production;;;
-170;Peru;p06;Veneer production;;;
-171;Philippines;p06;Veneer production;;;
-173;Poland;p06;Veneer production;51.00;41.00;5.00
-174;Portugal;p06;Veneer production;;;
-175;Guinea-Bissau;p06;Veneer production;;;
-176;Timor-Leste;p06;Veneer production;;;
-178;Eritrea;p06;Veneer production;;;
-179;Qatar;p06;Veneer production;;;
-181;Zimbabwe;p06;Veneer production;;;
-182;Reunion;p06;Veneer production;;;
-183;Romania;p06;Veneer production;;;
-184;Rwanda;p06;Veneer production;;;
-185;Russian Federation;p06;Veneer production;44.00;38.00;4.00
-186;Serbia and Montenegro;p06;Veneer production;;;
-189;Saint Lucia;p06;Veneer production;;;
-190;Saint Pierre and Miquelon;p06;Veneer production;;;
-191;Saint Vincent and the Grenadines;p06;Veneer production;;;
-193;Sao Tome and Principe;p06;Veneer production;;;
-194;Saudi Arabia;p06;Veneer production;;;
-195;Senegal;p06;Veneer production;;;
-196;Seychelles;p06;Veneer production;;;
-197;Sierra Leone;p06;Veneer production;;;
-198;Slovenia;p06;Veneer production;40.00;50.00;2.00
-199;Slovakia;p06;Veneer production;;;
-200;Singapore;p06;Veneer production;;;
-201;Somalia;p06;Veneer production;;;
-202;South Africa;p06;Veneer production;53.00;42.00;1.00
-203;Spain;p06;Veneer production;;;
-207;Suriname;p06;Veneer production;;;
-208;Tajikistan;p06;Veneer production;;;
-209;Eswatini;p06;Veneer production;;;
-210;Sweden;p06;Veneer production;;;
-211;Switzerland;p06;Veneer production;;;
-212;Syrian Arab Republic;p06;Veneer production;;;
-213;Turkmenistan;p06;Veneer production;;;
-214;China, Taiwan Province of;p06;Veneer production;;;
-215;United Republic of Tanzania;p06;Veneer production;;;
-216;Thailand;p06;Veneer production;;;
-217;Togo;p06;Veneer production;;;
-219;Tonga;p06;Veneer production;;;
-220;Trinidad and Tobago;p06;Veneer production;;;
-221;Oman;p06;Veneer production;;;
-222;Tunisia;p06;Veneer production;;;
-223;Turkey;p06;Veneer production;;;
-224;Turks and Caicos Islands;p06;Veneer production;;;
-225;United Arab Emirates;p06;Veneer production;;;
-226;Uganda;p06;Veneer production;;;
-229;United Kingdom;p06;Veneer production;;;
-230;Ukraine;p06;Veneer production;;;
-231;United States of America;p06;Veneer production;52.35;42.65;2.00
-233;Burkina Faso;p06;Veneer production;;;
-234;Uruguay;p06;Veneer production;;;
-235;Uzbekistan;p06;Veneer production;;;
-236;Venezuela (Bolivarian Republic of);p06;Veneer production;;;
-237;Viet Nam;p06;Veneer production;;;
-238;Ethiopia;p06;Veneer production;;;
-239;British Virgin Islands;p06;Veneer production;;;
-244;Samoa;p06;Veneer production;;;
-249;Yemen;p06;Veneer production;;;
-250;Democratic Republic of the Congo;p06;Veneer production;;;
-251;Zambia;p06;Veneer production;;;
-255;Belgium;p06;Veneer production;;;
-256;Luxembourg;p06;Veneer production;;;
-270;Mayotte;p06;Veneer production;;;
-272;Serbia;p06;Veneer production;;;
-273;Montenegro;p06;Veneer production;;;
-276;Sudan;p06;Veneer production;;;
-277;South Sudan;p06;Veneer production;;;
-5;American Samoa;p06;Veneer production;;;
-8;Antigua and Barbuda;p06;Veneer production;;;
-17;Bermuda;p06;Veneer production;;;
-24;British Indian Ocean Territory;p06;Veneer production;;;
-36;Cayman Islands;p06;Veneer production;;;
-43;Cocos (Keeling) Islands;p06;Veneer production;;;
-71;French Southern and Antarctic Territories;p06;Veneer production;;;
-85;Greenland;p06;Veneer production;;;
-86;Grenada;p06;Veneer production;;;
-88;Guam;p06;Veneer production;;;
-94;Holy See;p06;Veneer production;;;
-127;Marshall Islands;p06;Veneer production;;;
-142;Montserrat;p06;Veneer production;;;
-148;Nauru;p06;Veneer production;;;
-163;Northern Mariana Islands;p06;Veneer production;;;
-164;Pacific Islands Trust Territory;p06;Veneer production;;;
-172;Pitcairn Islands;p06;Veneer production;;;
-180;Palau;p06;Veneer production;;;
-187;Saint Helena, Ascension and Tristan da Cunha;p06;Veneer production;;;
-188;Saint Kitts and Nevis;p06;Veneer production;;;
-192;San Marino;p06;Veneer production;;;
-205;Western Sahara;p06;Veneer production;;;
-218;Tokelau;p06;Veneer production;;;
-227;Tuvalu;p06;Veneer production;;;
-228;USSR;p06;Veneer production;;;
-242;Wake Island;p06;Veneer production;;;
-243;Wallis and Futuna Islands;p06;Veneer production;;;
-248;Yugoslav SFR;p06;Veneer production;;;
-258;Anguilla;p06;Veneer production;;;
-279;Curaçao;p06;Veneer production;;;
-281;Saint-Martin (French Part);p06;Veneer production;;;
-299;Palestine;p06;Veneer production;;;
-252;Unspecified Area;p06;Veneer production;;;
-254;Others (adjustment);p06;Veneer production;;;
-;ASI;p06;Veneer production;56.88;34.00;3.75
-;EUR;p06;Veneer production;46.86;44.58;3.12
-;AFR;p06;Veneer production;53.00;42.00;1.00
-;LAM;p06;Veneer production;47.00;38.00;5.70
-;OCE;p06;Veneer production;;;
-;NAM;p06;Veneer production;52.00;40.00;4.00
-1;Armenia;p07;Plywood production;;;
-2;Afghanistan;p07;Plywood production;;;
-3;Albania;p07;Plywood production;;;
-4;Algeria;p07;Plywood production;;;
-6;Andorra;p07;Plywood production;;;
-7;Angola;p07;Plywood production;;;
-9;Argentina;p07;Plywood production;;;
-10;Australia;p07;Plywood production;;;
-11;Austria;p07;Plywood production;;;
-12;Bahamas;p07;Plywood production;;;
-13;Bahrain;p07;Plywood production;;;
-14;Barbados;p07;Plywood production;;;
-15;Belgium-Luxembourg;p07;Plywood production;;;
-16;Bangladesh;p07;Plywood production;;;
-18;Bhutan;p07;Plywood production;;;
-19;Bolivia (Plurinational State of);p07;Plywood production;;;
-20;Botswana;p07;Plywood production;;;
-21;Brazil;p07;Plywood production;;;
-22;Aruba;p07;Plywood production;;;
-23;Belize;p07;Plywood production;;;
-25;Solomon Islands;p07;Plywood production;;;
-26;Brunei Darussalam;p07;Plywood production;;;
-27;Bulgaria;p07;Plywood production;;;
-28;Myanmar;p07;Plywood production;;;
-29;Burundi;p07;Plywood production;;;
-32;Cameroon;p07;Plywood production;;;
-33;Canada;p07;Plywood production;52.00;37.00;6.00
-35;Cabo Verde;p07;Plywood production;;;
-37;Central African Republic;p07;Plywood production;;;
-38;Sri Lanka;p07;Plywood production;;;
-39;Chad;p07;Plywood production;;;
-40;Chile;p07;Plywood production;;;
-41;China, mainland;p07;Plywood production;63.75;30.00;3.50
-42;Christmas Island;p07;Plywood production;;;
-44;Colombia;p07;Plywood production;;;
-45;Comoros;p07;Plywood production;;;
-46;Congo;p07;Plywood production;;;
-47;Cook Islands;p07;Plywood production;;;
-48;Costa Rica;p07;Plywood production;;;
-49;Cuba;p07;Plywood production;;;
-50;Cyprus;p07;Plywood production;;;
-51;Czechoslovakia;p07;Plywood production;;;
-52;Azerbaijan;p07;Plywood production;;;
-53;Benin;p07;Plywood production;;;
-54;Denmark;p07;Plywood production;;;
-55;Dominica;p07;Plywood production;;;
-56;Dominican Republic;p07;Plywood production;;;
-57;Belarus;p07;Plywood production;;;
-58;Ecuador;p07;Plywood production;;;
-59;Egypt;p07;Plywood production;;;
-60;El Salvador;p07;Plywood production;;;
-61;Equatorial Guinea;p07;Plywood production;;;
-63;Estonia;p07;Plywood production;;;
-64;Faroe Islands;p07;Plywood production;;;
-65;Falkland Islands (Malvinas);p07;Plywood production;;;
-66;Fiji;p07;Plywood production;;;
-67;Finland;p07;Plywood production;41.20;48.50;2.70
-68;France;p07;Plywood production;46.65;;
-69;French Guyana;p07;Plywood production;;;
-70;French Polynesia;p07;Plywood production;;;
-72;Djibouti;p07;Plywood production;;;
-73;Georgia;p07;Plywood production;;;
-74;Gabon;p07;Plywood production;;;
-75;Gambia;p07;Plywood production;;;
-79;Germany;p07;Plywood production;55.00;;
-80;Bosnia and Herzegovina;p07;Plywood production;;;
-81;Ghana;p07;Plywood production;;;
-82;Gibraltar;p07;Plywood production;;;
-83;Kiribati;p07;Plywood production;;;
-84;Greece;p07;Plywood production;;;
-87;Guadeloupe;p07;Plywood production;;;
-89;Guatemala;p07;Plywood production;;;
-90;Guinea;p07;Plywood production;;;
-91;Guyana;p07;Plywood production;;;
-93;Haiti;p07;Plywood production;;;
-95;Honduras;p07;Plywood production;;;
-96;China, Hong Kong SAR;p07;Plywood production;;;
-97;Hungary;p07;Plywood production;;;
-98;Croatia;p07;Plywood production;;;
-99;Iceland;p07;Plywood production;;;
-100;India;p07;Plywood production;;;
-101;Indonesia;p07;Plywood production;;;
-102;Iran (Islamic Republic of);p07;Plywood production;;;
-103;Iraq;p07;Plywood production;;;
-104;Ireland;p07;Plywood production;;;
-105;Israel;p07;Plywood production;;;
-106;Italy;p07;Plywood production;;;
-107;Cote d'Ivoire;p07;Plywood production;;;
-108;Kazakhstan;p07;Plywood production;;;
-109;Jamaica;p07;Plywood production;;;
-110;Japan;p07;Plywood production;;;
-112;Jordan;p07;Plywood production;;;
-113;Kyrgyzstan;p07;Plywood production;;;
-114;Kenya;p07;Plywood production;;;
-115;Cambodia;p07;Plywood production;;;
-116;Democratic People's Republic of Korea;p07;Plywood production;;;
-117;Republic of Korea;p07;Plywood production;;;
-118;Kuwait;p07;Plywood production;;;
-119;Latvia;p07;Plywood production;;;
-120;Lao People's Democratic Republic;p07;Plywood production;;;
-121;Lebanon;p07;Plywood production;;;
-122;Lesotho;p07;Plywood production;;;
-123;Liberia;p07;Plywood production;;;
-124;Libya;p07;Plywood production;;;
-125;Liechtenstein;p07;Plywood production;;;
-126;Lithuania;p07;Plywood production;46.00;45.00;3.00
-128;China, Macao SAR;p07;Plywood production;;;
-129;Madagascar;p07;Plywood production;;;
-130;Malawi;p07;Plywood production;;;
-131;Malaysia;p07;Plywood production;50.00;38.00;4.00
-132;Maldives;p07;Plywood production;;;
-133;Mali;p07;Plywood production;;;
-134;Malta;p07;Plywood production;;;
-135;Martinique;p07;Plywood production;;;
-136;Mauritania;p07;Plywood production;;;
-137;Mauritius;p07;Plywood production;;;
-138;Mexico;p07;Plywood production;47.00;38.00;5.70
-141;Mongolia;p07;Plywood production;;;
-143;Morocco;p07;Plywood production;;;
-144;Mozambique;p07;Plywood production;;;
-145;Micronesia (Federated States of);p07;Plywood production;;;
-146;Republic of Moldova;p07;Plywood production;;;
-147;Namibia;p07;Plywood production;;;
-149;Nepal;p07;Plywood production;;;
-150;Netherlands;p07;Plywood production;51.00;45.00;2.00
-151;Netherlands Antilles;p07;Plywood production;;;
-153;New Caledonia;p07;Plywood production;;;
-154;North Macedonia;p07;Plywood production;;;
-155;Vanuatu;p07;Plywood production;;;
-156;New Zealand;p07;Plywood production;;;
-157;Nicaragua;p07;Plywood production;;;
-158;Niger;p07;Plywood production;;;
-159;Nigeria;p07;Plywood production;;;
-160;Niue;p07;Plywood production;;;
-161;Norfolk Island;p07;Plywood production;;;
-162;Norway;p07;Plywood production;;;
-165;Pakistan;p07;Plywood production;;;
-166;Panama;p07;Plywood production;;;
-167;Czechia;p07;Plywood production;;;
-168;Papua New Guinea;p07;Plywood production;;;
-169;Paraguay;p07;Plywood production;;;
-170;Peru;p07;Plywood production;;;
-171;Philippines;p07;Plywood production;;;
-173;Poland;p07;Plywood production;51.00;41.00;5.00
-174;Portugal;p07;Plywood production;;;
-175;Guinea-Bissau;p07;Plywood production;;;
-176;Timor-Leste;p07;Plywood production;;;
-178;Eritrea;p07;Plywood production;;;
-179;Qatar;p07;Plywood production;;;
-181;Zimbabwe;p07;Plywood production;;;
-182;Reunion;p07;Plywood production;;;
-183;Romania;p07;Plywood production;;;
-184;Rwanda;p07;Plywood production;;;
-185;Russian Federation;p07;Plywood production;44.00;38.00;4.00
-186;Serbia and Montenegro;p07;Plywood production;;;
-189;Saint Lucia;p07;Plywood production;;;
-190;Saint Pierre and Miquelon;p07;Plywood production;;;
-191;Saint Vincent and the Grenadines;p07;Plywood production;;;
-193;Sao Tome and Principe;p07;Plywood production;;;
-194;Saudi Arabia;p07;Plywood production;;;
-195;Senegal;p07;Plywood production;;;
-196;Seychelles;p07;Plywood production;;;
-197;Sierra Leone;p07;Plywood production;;;
-198;Slovenia;p07;Plywood production;40.00;50.00;2.00
-199;Slovakia;p07;Plywood production;;;
-200;Singapore;p07;Plywood production;;;
-201;Somalia;p07;Plywood production;;;
-202;South Africa;p07;Plywood production;53.00;42.00;1.00
-203;Spain;p07;Plywood production;;;
-207;Suriname;p07;Plywood production;;;
-208;Tajikistan;p07;Plywood production;;;
-209;Eswatini;p07;Plywood production;;;
-210;Sweden;p07;Plywood production;;;
-211;Switzerland;p07;Plywood production;;;
-212;Syrian Arab Republic;p07;Plywood production;;;
-213;Turkmenistan;p07;Plywood production;;;
-214;China, Taiwan Province of;p07;Plywood production;;;
-215;United Republic of Tanzania;p07;Plywood production;;;
-216;Thailand;p07;Plywood production;;;
-217;Togo;p07;Plywood production;;;
-219;Tonga;p07;Plywood production;;;
-220;Trinidad and Tobago;p07;Plywood production;;;
-221;Oman;p07;Plywood production;;;
-222;Tunisia;p07;Plywood production;;;
-223;Turkey;p07;Plywood production;;;
-224;Turks and Caicos Islands;p07;Plywood production;;;
-225;United Arab Emirates;p07;Plywood production;;;
-226;Uganda;p07;Plywood production;;;
-229;United Kingdom;p07;Plywood production;;;
-230;Ukraine;p07;Plywood production;;;
-231;United States of America;p07;Plywood production;52.35;42.65;2.00
-233;Burkina Faso;p07;Plywood production;;;
-234;Uruguay;p07;Plywood production;;;
-235;Uzbekistan;p07;Plywood production;;;
-236;Venezuela (Bolivarian Republic of);p07;Plywood production;;;
-237;Viet Nam;p07;Plywood production;;;
-238;Ethiopia;p07;Plywood production;;;
-239;British Virgin Islands;p07;Plywood production;;;
-244;Samoa;p07;Plywood production;;;
-249;Yemen;p07;Plywood production;;;
-250;Democratic Republic of the Congo;p07;Plywood production;;;
-251;Zambia;p07;Plywood production;;;
-255;Belgium;p07;Plywood production;;;
-256;Luxembourg;p07;Plywood production;;;
-270;Mayotte;p07;Plywood production;;;
-272;Serbia;p07;Plywood production;;;
-273;Montenegro;p07;Plywood production;;;
-276;Sudan;p07;Plywood production;;;
-277;South Sudan;p07;Plywood production;;;
-5;American Samoa;p07;Plywood production;;;
-8;Antigua and Barbuda;p07;Plywood production;;;
-17;Bermuda;p07;Plywood production;;;
-24;British Indian Ocean Territory;p07;Plywood production;;;
-36;Cayman Islands;p07;Plywood production;;;
-43;Cocos (Keeling) Islands;p07;Plywood production;;;
-71;French Southern and Antarctic Territories;p07;Plywood production;;;
-85;Greenland;p07;Plywood production;;;
-86;Grenada;p07;Plywood production;;;
-88;Guam;p07;Plywood production;;;
-94;Holy See;p07;Plywood production;;;
-127;Marshall Islands;p07;Plywood production;;;
-142;Montserrat;p07;Plywood production;;;
-148;Nauru;p07;Plywood production;;;
-163;Northern Mariana Islands;p07;Plywood production;;;
-164;Pacific Islands Trust Territory;p07;Plywood production;;;
-172;Pitcairn Islands;p07;Plywood production;;;
-180;Palau;p07;Plywood production;;;
-187;Saint Helena, Ascension and Tristan da Cunha;p07;Plywood production;;;
-188;Saint Kitts and Nevis;p07;Plywood production;;;
-192;San Marino;p07;Plywood production;;;
-205;Western Sahara;p07;Plywood production;;;
-218;Tokelau;p07;Plywood production;;;
-227;Tuvalu;p07;Plywood production;;;
-228;USSR;p07;Plywood production;;;
-242;Wake Island;p07;Plywood production;;;
-243;Wallis and Futuna Islands;p07;Plywood production;;;
-248;Yugoslav SFR;p07;Plywood production;;;
-258;Anguilla;p07;Plywood production;;;
-279;Curaçao;p07;Plywood production;;;
-281;Saint-Martin (French Part);p07;Plywood production;;;
-299;Palestine;p07;Plywood production;;;
-252;Unspecified Area;p07;Plywood production;;;
-254;Others (adjustment);p07;Plywood production;;;
-;ASI;p07;Plywood production;56.88;34.00;3.75
-;EUR;p07;Plywood production;46.86;44.58;3.12
-;AFR;p07;Plywood production;53.00;42.00;1.00
-;LAM;p07;Plywood production;47.00;38.00;5.70
-;OCE;p07;Plywood production;;;
-;NAM;p07;Plywood production;52.00;40.00;4.00
+area_code,area,proc_code,process,product,chips,residues
+1,Armenia,p04,"Sawnmill industry, coniferous",,,
+2,Afghanistan,p04,"Sawnmill industry, coniferous",,,
+3,Albania,p04,"Sawnmill industry, coniferous",,,
+4,Algeria,p04,"Sawnmill industry, coniferous",,,
+6,Andorra,p04,"Sawnmill industry, coniferous",,,
+7,Angola,p04,"Sawnmill industry, coniferous",,,
+9,Argentina,p04,"Sawnmill industry, coniferous",,,
+10,Australia,p04,"Sawnmill industry, coniferous",,,
+11,Austria,p04,"Sawnmill industry, coniferous",60,,
+12,Bahamas,p04,"Sawnmill industry, coniferous",,,
+13,Bahrain,p04,"Sawnmill industry, coniferous",,,
+14,Barbados,p04,"Sawnmill industry, coniferous",,,
+15,Belgium-Luxembourg,p04,"Sawnmill industry, coniferous",,,
+16,Bangladesh,p04,"Sawnmill industry, coniferous",,,
+18,Bhutan,p04,"Sawnmill industry, coniferous",,,
+19,Bolivia (Plurinational State of),p04,"Sawnmill industry, coniferous",,,
+20,Botswana,p04,"Sawnmill industry, coniferous",,,
+21,Brazil,p04,"Sawnmill industry, coniferous",45,,
+22,Aruba,p04,"Sawnmill industry, coniferous",,,
+23,Belize,p04,"Sawnmill industry, coniferous",,,
+25,Solomon Islands,p04,"Sawnmill industry, coniferous",,,
+26,Brunei Darussalam,p04,"Sawnmill industry, coniferous",,,
+27,Bulgaria,p04,"Sawnmill industry, coniferous",,,
+28,Myanmar,p04,"Sawnmill industry, coniferous",,,
+29,Burundi,p04,"Sawnmill industry, coniferous",,,
+32,Cameroon,p04,"Sawnmill industry, coniferous",,,
+33,Canada,p04,"Sawnmill industry, coniferous",45,38,13
+35,Cabo Verde,p04,"Sawnmill industry, coniferous",,,
+37,Central African Republic,p04,"Sawnmill industry, coniferous",,,
+38,Sri Lanka,p04,"Sawnmill industry, coniferous",,,
+39,Chad,p04,"Sawnmill industry, coniferous",,,
+40,Chile,p04,"Sawnmill industry, coniferous",51,30,19
+41,"China, mainland",p04,"Sawnmill industry, coniferous",50,30,18
+42,Christmas Island,p04,"Sawnmill industry, coniferous",,,
+44,Colombia,p04,"Sawnmill industry, coniferous",,,
+45,Comoros,p04,"Sawnmill industry, coniferous",,,
+46,Congo,p04,"Sawnmill industry, coniferous",,,
+47,Cook Islands,p04,"Sawnmill industry, coniferous",,,
+48,Costa Rica,p04,"Sawnmill industry, coniferous",,,
+49,Cuba,p04,"Sawnmill industry, coniferous",,,
+50,Cyprus,p04,"Sawnmill industry, coniferous",,,
+51,Czechoslovakia,p04,"Sawnmill industry, coniferous",,,
+52,Azerbaijan,p04,"Sawnmill industry, coniferous",,,
+53,Benin,p04,"Sawnmill industry, coniferous",,,
+54,Denmark,p04,"Sawnmill industry, coniferous",52,36,10
+55,Dominica,p04,"Sawnmill industry, coniferous",,,
+56,Dominican Republic,p04,"Sawnmill industry, coniferous",,,
+57,Belarus,p04,"Sawnmill industry, coniferous",,,
+58,Ecuador,p04,"Sawnmill industry, coniferous",,,
+59,Egypt,p04,"Sawnmill industry, coniferous",,,
+60,El Salvador,p04,"Sawnmill industry, coniferous",,,
+61,Equatorial Guinea,p04,"Sawnmill industry, coniferous",,,
+63,Estonia,p04,"Sawnmill industry, coniferous",,,
+64,Faroe Islands,p04,"Sawnmill industry, coniferous",,,
+65,Falkland Islands (Malvinas),p04,"Sawnmill industry, coniferous",,,
+66,Fiji,p04,"Sawnmill industry, coniferous",,,
+67,Finland,p04,"Sawnmill industry, coniferous",50,34,11
+68,France,p04,"Sawnmill industry, coniferous",55,28,13
+69,French Guyana,p04,"Sawnmill industry, coniferous",,,
+70,French Polynesia,p04,"Sawnmill industry, coniferous",,,
+72,Djibouti,p04,"Sawnmill industry, coniferous",,,
+73,Georgia,p04,"Sawnmill industry, coniferous",,,
+74,Gabon,p04,"Sawnmill industry, coniferous",,,
+75,Gambia,p04,"Sawnmill industry, coniferous",,,
+79,Germany,p04,"Sawnmill industry, coniferous",59,25,14
+80,Bosnia and Herzegovina,p04,"Sawnmill industry, coniferous",,,
+81,Ghana,p04,"Sawnmill industry, coniferous",,,
+82,Gibraltar,p04,"Sawnmill industry, coniferous",,,
+83,Kiribati,p04,"Sawnmill industry, coniferous",,,
+84,Greece,p04,"Sawnmill industry, coniferous",,,
+87,Guadeloupe,p04,"Sawnmill industry, coniferous",,,
+89,Guatemala,p04,"Sawnmill industry, coniferous",,,
+90,Guinea,p04,"Sawnmill industry, coniferous",,,
+91,Guyana,p04,"Sawnmill industry, coniferous",,,
+93,Haiti,p04,"Sawnmill industry, coniferous",,,
+95,Honduras,p04,"Sawnmill industry, coniferous",,,
+96,"China, Hong Kong SAR",p04,"Sawnmill industry, coniferous",,,
+97,Hungary,p04,"Sawnmill industry, coniferous",,,
+98,Croatia,p04,"Sawnmill industry, coniferous",,,
+99,Iceland,p04,"Sawnmill industry, coniferous",,,
+100,India,p04,"Sawnmill industry, coniferous",,,
+101,Indonesia,p04,"Sawnmill industry, coniferous",50,25,18
+102,Iran (Islamic Republic of),p04,"Sawnmill industry, coniferous",,,
+103,Iraq,p04,"Sawnmill industry, coniferous",,,
+104,Ireland,p04,"Sawnmill industry, coniferous",53,35,11
+105,Israel,p04,"Sawnmill industry, coniferous",,,
+106,Italy,p04,"Sawnmill industry, coniferous",,,
+107,Cote d'Ivoire,p04,"Sawnmill industry, coniferous",,,
+108,Kazakhstan,p04,"Sawnmill industry, coniferous",,,
+109,Jamaica,p04,"Sawnmill industry, coniferous",,,
+110,Japan,p04,"Sawnmill industry, coniferous",,,
+112,Jordan,p04,"Sawnmill industry, coniferous",,,
+113,Kyrgyzstan,p04,"Sawnmill industry, coniferous",,,
+114,Kenya,p04,"Sawnmill industry, coniferous",,,
+115,Cambodia,p04,"Sawnmill industry, coniferous",,,
+116,Democratic People's Republic of Korea,p04,"Sawnmill industry, coniferous",,,
+117,Republic of Korea,p04,"Sawnmill industry, coniferous",,,
+118,Kuwait,p04,"Sawnmill industry, coniferous",,,
+119,Latvia,p04,"Sawnmill industry, coniferous",,,
+120,Lao People's Democratic Republic,p04,"Sawnmill industry, coniferous",,,
+121,Lebanon,p04,"Sawnmill industry, coniferous",,,
+122,Lesotho,p04,"Sawnmill industry, coniferous",,,
+123,Liberia,p04,"Sawnmill industry, coniferous",,,
+124,Libya,p04,"Sawnmill industry, coniferous",,,
+125,Liechtenstein,p04,"Sawnmill industry, coniferous",,,
+126,Lithuania,p04,"Sawnmill industry, coniferous",48,36,11
+128,"China, Macao SAR",p04,"Sawnmill industry, coniferous",,,
+129,Madagascar,p04,"Sawnmill industry, coniferous",,,
+130,Malawi,p04,"Sawnmill industry, coniferous",,,
+131,Malaysia,p04,"Sawnmill industry, coniferous",,,
+132,Maldives,p04,"Sawnmill industry, coniferous",,,
+133,Mali,p04,"Sawnmill industry, coniferous",,,
+134,Malta,p04,"Sawnmill industry, coniferous",,,
+135,Martinique,p04,"Sawnmill industry, coniferous",,,
+136,Mauritania,p04,"Sawnmill industry, coniferous",,,
+137,Mauritius,p04,"Sawnmill industry, coniferous",,,
+138,Mexico,p04,"Sawnmill industry, coniferous",,,
+141,Mongolia,p04,"Sawnmill industry, coniferous",,,
+143,Morocco,p04,"Sawnmill industry, coniferous",,,
+144,Mozambique,p04,"Sawnmill industry, coniferous",,,
+145,Micronesia (Federated States of),p04,"Sawnmill industry, coniferous",,,
+146,Republic of Moldova,p04,"Sawnmill industry, coniferous",,,
+147,Namibia,p04,"Sawnmill industry, coniferous",,,
+149,Nepal,p04,"Sawnmill industry, coniferous",,,
+150,Netherlands,p04,"Sawnmill industry, coniferous",53,,
+151,Netherlands Antilles,p04,"Sawnmill industry, coniferous",,,
+153,New Caledonia,p04,"Sawnmill industry, coniferous",,,
+154,North Macedonia,p04,"Sawnmill industry, coniferous",,,
+155,Vanuatu,p04,"Sawnmill industry, coniferous",,,
+156,New Zealand,p04,"Sawnmill industry, coniferous",,,
+157,Nicaragua,p04,"Sawnmill industry, coniferous",,,
+158,Niger,p04,"Sawnmill industry, coniferous",,,
+159,Nigeria,p04,"Sawnmill industry, coniferous",,,
+160,Niue,p04,"Sawnmill industry, coniferous",,,
+161,Norfolk Island,p04,"Sawnmill industry, coniferous",,,
+162,Norway,p04,"Sawnmill industry, coniferous",50,34,10
+165,Pakistan,p04,"Sawnmill industry, coniferous",,,
+166,Panama,p04,"Sawnmill industry, coniferous",,,
+167,Czechia,p04,"Sawnmill industry, coniferous",60,25,12
+168,Papua New Guinea,p04,"Sawnmill industry, coniferous",,,
+169,Paraguay,p04,"Sawnmill industry, coniferous",,,
+170,Peru,p04,"Sawnmill industry, coniferous",,,
+171,Philippines,p04,"Sawnmill industry, coniferous",,,
+173,Poland,p04,"Sawnmill industry, coniferous",60,22,16
+174,Portugal,p04,"Sawnmill industry, coniferous",50,,
+175,Guinea-Bissau,p04,"Sawnmill industry, coniferous",,,
+176,Timor-Leste,p04,"Sawnmill industry, coniferous",,,
+178,Eritrea,p04,"Sawnmill industry, coniferous",,,
+179,Qatar,p04,"Sawnmill industry, coniferous",,,
+181,Zimbabwe,p04,"Sawnmill industry, coniferous",,,
+182,Reunion,p04,"Sawnmill industry, coniferous",,,
+183,Romania,p04,"Sawnmill industry, coniferous",,,
+184,Rwanda,p04,"Sawnmill industry, coniferous",,,
+185,Russian Federation,p04,"Sawnmill industry, coniferous",,,
+186,Serbia and Montenegro,p04,"Sawnmill industry, coniferous",,,
+189,Saint Lucia,p04,"Sawnmill industry, coniferous",,,
+190,Saint Pierre and Miquelon,p04,"Sawnmill industry, coniferous",,,
+191,Saint Vincent and the Grenadines,p04,"Sawnmill industry, coniferous",,,
+193,Sao Tome and Principe,p04,"Sawnmill industry, coniferous",,,
+194,Saudi Arabia,p04,"Sawnmill industry, coniferous",,,
+195,Senegal,p04,"Sawnmill industry, coniferous",,,
+196,Seychelles,p04,"Sawnmill industry, coniferous",,,
+197,Sierra Leone,p04,"Sawnmill industry, coniferous",,,
+198,Slovenia,p04,"Sawnmill industry, coniferous",56,27,12
+199,Slovakia,p04,"Sawnmill industry, coniferous",58,19,11
+200,Singapore,p04,"Sawnmill industry, coniferous",,,
+201,Somalia,p04,"Sawnmill industry, coniferous",,,
+202,South Africa,p04,"Sawnmill industry, coniferous",48,20,29
+203,Spain,p04,"Sawnmill industry, coniferous",59,22,12
+207,Suriname,p04,"Sawnmill industry, coniferous",,,
+208,Tajikistan,p04,"Sawnmill industry, coniferous",,,
+209,Eswatini,p04,"Sawnmill industry, coniferous",,,
+210,Sweden,p04,"Sawnmill industry, coniferous",49,32,14
+211,Switzerland,p04,"Sawnmill industry, coniferous",,,
+212,Syrian Arab Republic,p04,"Sawnmill industry, coniferous",,,
+213,Turkmenistan,p04,"Sawnmill industry, coniferous",,,
+214,"China, Taiwan Province of",p04,"Sawnmill industry, coniferous",,,
+215,United Republic of Tanzania,p04,"Sawnmill industry, coniferous",,,
+216,Thailand,p04,"Sawnmill industry, coniferous",,,
+217,Togo,p04,"Sawnmill industry, coniferous",,,
+219,Tonga,p04,"Sawnmill industry, coniferous",,,
+220,Trinidad and Tobago,p04,"Sawnmill industry, coniferous",,,
+221,Oman,p04,"Sawnmill industry, coniferous",,,
+222,Tunisia,p04,"Sawnmill industry, coniferous",,,
+223,Turkey,p04,"Sawnmill industry, coniferous",,,
+224,Turks and Caicos Islands,p04,"Sawnmill industry, coniferous",,,
+225,United Arab Emirates,p04,"Sawnmill industry, coniferous",,,
+226,Uganda,p04,"Sawnmill industry, coniferous",,,
+229,United Kingdom,p04,"Sawnmill industry, coniferous",54,30,13
+230,Ukraine,p04,"Sawnmill industry, coniferous",56,21,10
+231,United States of America,p04,"Sawnmill industry, coniferous",49,27,20
+233,Burkina Faso,p04,"Sawnmill industry, coniferous",,,
+234,Uruguay,p04,"Sawnmill industry, coniferous",,,
+235,Uzbekistan,p04,"Sawnmill industry, coniferous",,,
+236,Venezuela (Bolivarian Republic of),p04,"Sawnmill industry, coniferous",,,
+237,Viet Nam,p04,"Sawnmill industry, coniferous",,,
+238,Ethiopia,p04,"Sawnmill industry, coniferous",,,
+239,British Virgin Islands,p04,"Sawnmill industry, coniferous",,,
+244,Samoa,p04,"Sawnmill industry, coniferous",,,
+249,Yemen,p04,"Sawnmill industry, coniferous",,,
+250,Democratic Republic of the Congo,p04,"Sawnmill industry, coniferous",,,
+251,Zambia,p04,"Sawnmill industry, coniferous",,,
+255,Belgium,p04,"Sawnmill industry, coniferous",,,
+256,Luxembourg,p04,"Sawnmill industry, coniferous",,,
+270,Mayotte,p04,"Sawnmill industry, coniferous",,,
+272,Serbia,p04,"Sawnmill industry, coniferous",,,
+273,Montenegro,p04,"Sawnmill industry, coniferous",,,
+276,Sudan,p04,"Sawnmill industry, coniferous",,,
+277,South Sudan,p04,"Sawnmill industry, coniferous",,,
+5,American Samoa,p04,"Sawnmill industry, coniferous",,,
+8,Antigua and Barbuda,p04,"Sawnmill industry, coniferous",,,
+17,Bermuda,p04,"Sawnmill industry, coniferous",,,
+24,British Indian Ocean Territory,p04,"Sawnmill industry, coniferous",,,
+36,Cayman Islands,p04,"Sawnmill industry, coniferous",,,
+43,Cocos (Keeling) Islands,p04,"Sawnmill industry, coniferous",,,
+71,French Southern and Antarctic Territories,p04,"Sawnmill industry, coniferous",,,
+85,Greenland,p04,"Sawnmill industry, coniferous",,,
+86,Grenada,p04,"Sawnmill industry, coniferous",,,
+88,Guam,p04,"Sawnmill industry, coniferous",,,
+94,Holy See,p04,"Sawnmill industry, coniferous",,,
+127,Marshall Islands,p04,"Sawnmill industry, coniferous",,,
+142,Montserrat,p04,"Sawnmill industry, coniferous",,,
+148,Nauru,p04,"Sawnmill industry, coniferous",,,
+163,Northern Mariana Islands,p04,"Sawnmill industry, coniferous",,,
+164,Pacific Islands Trust Territory,p04,"Sawnmill industry, coniferous",,,
+172,Pitcairn Islands,p04,"Sawnmill industry, coniferous",,,
+180,Palau,p04,"Sawnmill industry, coniferous",,,
+187,"Saint Helena, Ascension and Tristan da Cunha",p04,"Sawnmill industry, coniferous",,,
+188,Saint Kitts and Nevis,p04,"Sawnmill industry, coniferous",,,
+192,San Marino,p04,"Sawnmill industry, coniferous",,,
+205,Western Sahara,p04,"Sawnmill industry, coniferous",,,
+218,Tokelau,p04,"Sawnmill industry, coniferous",,,
+227,Tuvalu,p04,"Sawnmill industry, coniferous",,,
+228,USSR,p04,"Sawnmill industry, coniferous",,,
+242,Wake Island,p04,"Sawnmill industry, coniferous",,,
+243,Wallis and Futuna Islands,p04,"Sawnmill industry, coniferous",,,
+248,Yugoslav SFR,p04,"Sawnmill industry, coniferous",,,
+258,Anguilla,p04,"Sawnmill industry, coniferous",,,
+279,Curaçao,p04,"Sawnmill industry, coniferous",,,
+281,Saint-Martin (French Part),p04,"Sawnmill industry, coniferous",,,
+299,Palestine,p04,"Sawnmill industry, coniferous",,,
+252,Unspecified Area,p04,"Sawnmill industry, coniferous",,,
+254,Others (adjustment),p04,"Sawnmill industry, coniferous",,,
+,ASI,p04,"Sawnmill industry, coniferous",50,26,19
+,EUR,p04,"Sawnmill industry, coniferous",55,28,13
+,AFR,p04,"Sawnmill industry, coniferous",48,20,29
+,LAM,p04,"Sawnmill industry, coniferous",48,30,19
+,OCE,p04,"Sawnmill industry, coniferous",,,
+,NAM,p04,"Sawnmill industry, coniferous",47,32,17
+1,Armenia,p05,"Sawnmill industry, non-coniferous all",,,
+2,Afghanistan,p05,"Sawnmill industry, non-coniferous all",,,
+3,Albania,p05,"Sawnmill industry, non-coniferous all",,,
+4,Algeria,p05,"Sawnmill industry, non-coniferous all",,,
+6,Andorra,p05,"Sawnmill industry, non-coniferous all",,,
+7,Angola,p05,"Sawnmill industry, non-coniferous all",,,
+9,Argentina,p05,"Sawnmill industry, non-coniferous all",,,
+10,Australia,p05,"Sawnmill industry, non-coniferous all",,,
+11,Austria,p05,"Sawnmill industry, non-coniferous all",35,,
+12,Bahamas,p05,"Sawnmill industry, non-coniferous all",,,
+13,Bahrain,p05,"Sawnmill industry, non-coniferous all",,,
+14,Barbados,p05,"Sawnmill industry, non-coniferous all",,,
+15,Belgium-Luxembourg,p05,"Sawnmill industry, non-coniferous all",,,
+16,Bangladesh,p05,"Sawnmill industry, non-coniferous all",,,
+18,Bhutan,p05,"Sawnmill industry, non-coniferous all",,,
+19,Bolivia (Plurinational State of),p05,"Sawnmill industry, non-coniferous all",,,
+20,Botswana,p05,"Sawnmill industry, non-coniferous all",,,
+21,Brazil,p05,"Sawnmill industry, non-coniferous all",45,,
+22,Aruba,p05,"Sawnmill industry, non-coniferous all",,,
+23,Belize,p05,"Sawnmill industry, non-coniferous all",,,
+25,Solomon Islands,p05,"Sawnmill industry, non-coniferous all",,,
+26,Brunei Darussalam,p05,"Sawnmill industry, non-coniferous all",,,
+27,Bulgaria,p05,"Sawnmill industry, non-coniferous all",,,
+28,Myanmar,p05,"Sawnmill industry, non-coniferous all",,,
+29,Burundi,p05,"Sawnmill industry, non-coniferous all",,,
+32,Cameroon,p05,"Sawnmill industry, non-coniferous all",,,
+33,Canada,p05,"Sawnmill industry, non-coniferous all",51,33,12
+35,Cabo Verde,p05,"Sawnmill industry, non-coniferous all",,,
+37,Central African Republic,p05,"Sawnmill industry, non-coniferous all",,,
+38,Sri Lanka,p05,"Sawnmill industry, non-coniferous all",,,
+39,Chad,p05,"Sawnmill industry, non-coniferous all",,,
+40,Chile,p05,"Sawnmill industry, non-coniferous all",52,,
+41,"China, mainland",p05,"Sawnmill industry, non-coniferous all",60,25,13
+42,Christmas Island,p05,"Sawnmill industry, non-coniferous all",,,
+44,Colombia,p05,"Sawnmill industry, non-coniferous all",,,
+45,Comoros,p05,"Sawnmill industry, non-coniferous all",,,
+46,Congo,p05,"Sawnmill industry, non-coniferous all",,,
+47,Cook Islands,p05,"Sawnmill industry, non-coniferous all",,,
+48,Costa Rica,p05,"Sawnmill industry, non-coniferous all",,,
+49,Cuba,p05,"Sawnmill industry, non-coniferous all",,,
+50,Cyprus,p05,"Sawnmill industry, non-coniferous all",,,
+51,Czechoslovakia,p05,"Sawnmill industry, non-coniferous all",,,
+52,Azerbaijan,p05,"Sawnmill industry, non-coniferous all",,,
+53,Benin,p05,"Sawnmill industry, non-coniferous all",,,
+54,Denmark,p05,"Sawnmill industry, non-coniferous all",47,35,15
+55,Dominica,p05,"Sawnmill industry, non-coniferous all",,,
+56,Dominican Republic,p05,"Sawnmill industry, non-coniferous all",,,
+57,Belarus,p05,"Sawnmill industry, non-coniferous all",,,
+58,Ecuador,p05,"Sawnmill industry, non-coniferous all",,,
+59,Egypt,p05,"Sawnmill industry, non-coniferous all",,,
+60,El Salvador,p05,"Sawnmill industry, non-coniferous all",,,
+61,Equatorial Guinea,p05,"Sawnmill industry, non-coniferous all",,,
+63,Estonia,p05,"Sawnmill industry, non-coniferous all",,,
+64,Faroe Islands,p05,"Sawnmill industry, non-coniferous all",,,
+65,Falkland Islands (Malvinas),p05,"Sawnmill industry, non-coniferous all",,,
+66,Fiji,p05,"Sawnmill industry, non-coniferous all",,,
+67,Finland,p05,"Sawnmill industry, non-coniferous all",54,,
+68,France,p05,"Sawnmill industry, non-coniferous all",47,36,14
+69,French Guyana,p05,"Sawnmill industry, non-coniferous all",,,
+70,French Polynesia,p05,"Sawnmill industry, non-coniferous all",,,
+72,Djibouti,p05,"Sawnmill industry, non-coniferous all",,,
+73,Georgia,p05,"Sawnmill industry, non-coniferous all",,,
+74,Gabon,p05,"Sawnmill industry, non-coniferous all",,,
+75,Gambia,p05,"Sawnmill industry, non-coniferous all",,,
+79,Germany,p05,"Sawnmill industry, non-coniferous all",60,14,22
+80,Bosnia and Herzegovina,p05,"Sawnmill industry, non-coniferous all",,,
+81,Ghana,p05,"Sawnmill industry, non-coniferous all",,,
+82,Gibraltar,p05,"Sawnmill industry, non-coniferous all",,,
+83,Kiribati,p05,"Sawnmill industry, non-coniferous all",,,
+84,Greece,p05,"Sawnmill industry, non-coniferous all",,,
+87,Guadeloupe,p05,"Sawnmill industry, non-coniferous all",,,
+89,Guatemala,p05,"Sawnmill industry, non-coniferous all",,,
+90,Guinea,p05,"Sawnmill industry, non-coniferous all",,,
+91,Guyana,p05,"Sawnmill industry, non-coniferous all",40,,
+93,Haiti,p05,"Sawnmill industry, non-coniferous all",,,
+95,Honduras,p05,"Sawnmill industry, non-coniferous all",,,
+96,"China, Hong Kong SAR",p05,"Sawnmill industry, non-coniferous all",,,
+97,Hungary,p05,"Sawnmill industry, non-coniferous all",,,
+98,Croatia,p05,"Sawnmill industry, non-coniferous all",,,
+99,Iceland,p05,"Sawnmill industry, non-coniferous all",,,
+100,India,p05,"Sawnmill industry, non-coniferous all",,,
+101,Indonesia,p05,"Sawnmill industry, non-coniferous all",52,24,15
+102,Iran (Islamic Republic of),p05,"Sawnmill industry, non-coniferous all",,,
+103,Iraq,p05,"Sawnmill industry, non-coniferous all",,,
+104,Ireland,p05,"Sawnmill industry, non-coniferous all",53,35,11
+105,Israel,p05,"Sawnmill industry, non-coniferous all",,,
+106,Italy,p05,"Sawnmill industry, non-coniferous all",,,
+107,Cote d'Ivoire,p05,"Sawnmill industry, non-coniferous all",,,
+108,Kazakhstan,p05,"Sawnmill industry, non-coniferous all",,,
+109,Jamaica,p05,"Sawnmill industry, non-coniferous all",,,
+110,Japan,p05,"Sawnmill industry, non-coniferous all",,,
+112,Jordan,p05,"Sawnmill industry, non-coniferous all",,,
+113,Kyrgyzstan,p05,"Sawnmill industry, non-coniferous all",,,
+114,Kenya,p05,"Sawnmill industry, non-coniferous all",,,
+115,Cambodia,p05,"Sawnmill industry, non-coniferous all",,,
+116,Democratic People's Republic of Korea,p05,"Sawnmill industry, non-coniferous all",,,
+117,Republic of Korea,p05,"Sawnmill industry, non-coniferous all",,,
+118,Kuwait,p05,"Sawnmill industry, non-coniferous all",,,
+119,Latvia,p05,"Sawnmill industry, non-coniferous all",,,
+120,Lao People's Democratic Republic,p05,"Sawnmill industry, non-coniferous all",,,
+121,Lebanon,p05,"Sawnmill industry, non-coniferous all",,,
+122,Lesotho,p05,"Sawnmill industry, non-coniferous all",,,
+123,Liberia,p05,"Sawnmill industry, non-coniferous all",,,
+124,Libya,p05,"Sawnmill industry, non-coniferous all",,,
+125,Liechtenstein,p05,"Sawnmill industry, non-coniferous all",,,
+126,Lithuania,p05,"Sawnmill industry, non-coniferous all",48,36,11
+128,"China, Macao SAR",p05,"Sawnmill industry, non-coniferous all",,,
+129,Madagascar,p05,"Sawnmill industry, non-coniferous all",,,
+130,Malawi,p05,"Sawnmill industry, non-coniferous all",,,
+131,Malaysia,p05,"Sawnmill industry, non-coniferous all",63,,
+132,Maldives,p05,"Sawnmill industry, non-coniferous all",,,
+133,Mali,p05,"Sawnmill industry, non-coniferous all",,,
+134,Malta,p05,"Sawnmill industry, non-coniferous all",,,
+135,Martinique,p05,"Sawnmill industry, non-coniferous all",,,
+136,Mauritania,p05,"Sawnmill industry, non-coniferous all",,,
+137,Mauritius,p05,"Sawnmill industry, non-coniferous all",,,
+138,Mexico,p05,"Sawnmill industry, non-coniferous all",,,
+141,Mongolia,p05,"Sawnmill industry, non-coniferous all",,,
+143,Morocco,p05,"Sawnmill industry, non-coniferous all",,,
+144,Mozambique,p05,"Sawnmill industry, non-coniferous all",,,
+145,Micronesia (Federated States of),p05,"Sawnmill industry, non-coniferous all",,,
+146,Republic of Moldova,p05,"Sawnmill industry, non-coniferous all",,,
+147,Namibia,p05,"Sawnmill industry, non-coniferous all",,,
+149,Nepal,p05,"Sawnmill industry, non-coniferous all",,,
+150,Netherlands,p05,"Sawnmill industry, non-coniferous all",51,,
+151,Netherlands Antilles,p05,"Sawnmill industry, non-coniferous all",,,
+153,New Caledonia,p05,"Sawnmill industry, non-coniferous all",,,
+154,North Macedonia,p05,"Sawnmill industry, non-coniferous all",,,
+155,Vanuatu,p05,"Sawnmill industry, non-coniferous all",,,
+156,New Zealand,p05,"Sawnmill industry, non-coniferous all",,,
+157,Nicaragua,p05,"Sawnmill industry, non-coniferous all",,,
+158,Niger,p05,"Sawnmill industry, non-coniferous all",,,
+159,Nigeria,p05,"Sawnmill industry, non-coniferous all",55,21,17
+160,Niue,p05,"Sawnmill industry, non-coniferous all",,,
+161,Norfolk Island,p05,"Sawnmill industry, non-coniferous all",,,
+162,Norway,p05,"Sawnmill industry, non-coniferous all",50,34,8
+165,Pakistan,p05,"Sawnmill industry, non-coniferous all",,,
+166,Panama,p05,"Sawnmill industry, non-coniferous all",,,
+167,Czechia,p05,"Sawnmill industry, non-coniferous all",46,,
+168,Papua New Guinea,p05,"Sawnmill industry, non-coniferous all",,,
+169,Paraguay,p05,"Sawnmill industry, non-coniferous all",,,
+170,Peru,p05,"Sawnmill industry, non-coniferous all",,,
+171,Philippines,p05,"Sawnmill industry, non-coniferous all",,,
+173,Poland,p05,"Sawnmill industry, non-coniferous all",63,18,17
+174,Portugal,p05,"Sawnmill industry, non-coniferous all",57,,
+175,Guinea-Bissau,p05,"Sawnmill industry, non-coniferous all",,,
+176,Timor-Leste,p05,"Sawnmill industry, non-coniferous all",,,
+178,Eritrea,p05,"Sawnmill industry, non-coniferous all",,,
+179,Qatar,p05,"Sawnmill industry, non-coniferous all",,,
+181,Zimbabwe,p05,"Sawnmill industry, non-coniferous all",,,
+182,Reunion,p05,"Sawnmill industry, non-coniferous all",,,
+183,Romania,p05,"Sawnmill industry, non-coniferous all",,,
+184,Rwanda,p05,"Sawnmill industry, non-coniferous all",,,
+185,Russian Federation,p05,"Sawnmill industry, non-coniferous all",,,
+186,Serbia and Montenegro,p05,"Sawnmill industry, non-coniferous all",,,
+189,Saint Lucia,p05,"Sawnmill industry, non-coniferous all",,,
+190,Saint Pierre and Miquelon,p05,"Sawnmill industry, non-coniferous all",,,
+191,Saint Vincent and the Grenadines,p05,"Sawnmill industry, non-coniferous all",,,
+193,Sao Tome and Principe,p05,"Sawnmill industry, non-coniferous all",,,
+194,Saudi Arabia,p05,"Sawnmill industry, non-coniferous all",,,
+195,Senegal,p05,"Sawnmill industry, non-coniferous all",,,
+196,Seychelles,p05,"Sawnmill industry, non-coniferous all",,,
+197,Sierra Leone,p05,"Sawnmill industry, non-coniferous all",,,
+198,Slovenia,p05,"Sawnmill industry, non-coniferous all",,,
+199,Slovakia,p05,"Sawnmill industry, non-coniferous all",66,17,9
+200,Singapore,p05,"Sawnmill industry, non-coniferous all",,,
+201,Somalia,p05,"Sawnmill industry, non-coniferous all",,,
+202,South Africa,p05,"Sawnmill industry, non-coniferous all",,,
+203,Spain,p05,"Sawnmill industry, non-coniferous all",53,27,14
+207,Suriname,p05,"Sawnmill industry, non-coniferous all",,,
+208,Tajikistan,p05,"Sawnmill industry, non-coniferous all",,,
+209,Eswatini,p05,"Sawnmill industry, non-coniferous all",,,
+210,Sweden,p05,"Sawnmill industry, non-coniferous all",53,,
+211,Switzerland,p05,"Sawnmill industry, non-coniferous all",,,
+212,Syrian Arab Republic,p05,"Sawnmill industry, non-coniferous all",,,
+213,Turkmenistan,p05,"Sawnmill industry, non-coniferous all",,,
+214,"China, Taiwan Province of",p05,"Sawnmill industry, non-coniferous all",,,
+215,United Republic of Tanzania,p05,"Sawnmill industry, non-coniferous all",,,
+216,Thailand,p05,"Sawnmill industry, non-coniferous all",,,
+217,Togo,p05,"Sawnmill industry, non-coniferous all",,,
+219,Tonga,p05,"Sawnmill industry, non-coniferous all",,,
+220,Trinidad and Tobago,p05,"Sawnmill industry, non-coniferous all",,,
+221,Oman,p05,"Sawnmill industry, non-coniferous all",,,
+222,Tunisia,p05,"Sawnmill industry, non-coniferous all",,,
+223,Turkey,p05,"Sawnmill industry, non-coniferous all",,,
+224,Turks and Caicos Islands,p05,"Sawnmill industry, non-coniferous all",,,
+225,United Arab Emirates,p05,"Sawnmill industry, non-coniferous all",,,
+226,Uganda,p05,"Sawnmill industry, non-coniferous all",,,
+229,United Kingdom,p05,"Sawnmill industry, non-coniferous all",40,,
+230,Ukraine,p05,"Sawnmill industry, non-coniferous all",61,24,10
+231,United States of America,p05,"Sawnmill industry, non-coniferous all",54,30,14
+233,Burkina Faso,p05,"Sawnmill industry, non-coniferous all",,,
+234,Uruguay,p05,"Sawnmill industry, non-coniferous all",,,
+235,Uzbekistan,p05,"Sawnmill industry, non-coniferous all",,,
+236,Venezuela (Bolivarian Republic of),p05,"Sawnmill industry, non-coniferous all",,,
+237,Viet Nam,p05,"Sawnmill industry, non-coniferous all",,,
+238,Ethiopia,p05,"Sawnmill industry, non-coniferous all",,,
+239,British Virgin Islands,p05,"Sawnmill industry, non-coniferous all",,,
+244,Samoa,p05,"Sawnmill industry, non-coniferous all",,,
+249,Yemen,p05,"Sawnmill industry, non-coniferous all",,,
+250,Democratic Republic of the Congo,p05,"Sawnmill industry, non-coniferous all",,,
+251,Zambia,p05,"Sawnmill industry, non-coniferous all",,,
+255,Belgium,p05,"Sawnmill industry, non-coniferous all",,,
+256,Luxembourg,p05,"Sawnmill industry, non-coniferous all",,,
+270,Mayotte,p05,"Sawnmill industry, non-coniferous all",,,
+272,Serbia,p05,"Sawnmill industry, non-coniferous all",,,
+273,Montenegro,p05,"Sawnmill industry, non-coniferous all",,,
+276,Sudan,p05,"Sawnmill industry, non-coniferous all",,,
+277,South Sudan,p05,"Sawnmill industry, non-coniferous all",,,
+5,American Samoa,p05,"Sawnmill industry, non-coniferous all",,,
+8,Antigua and Barbuda,p05,"Sawnmill industry, non-coniferous all",,,
+17,Bermuda,p05,"Sawnmill industry, non-coniferous all",,,
+24,British Indian Ocean Territory,p05,"Sawnmill industry, non-coniferous all",,,
+36,Cayman Islands,p05,"Sawnmill industry, non-coniferous all",,,
+43,Cocos (Keeling) Islands,p05,"Sawnmill industry, non-coniferous all",,,
+71,French Southern and Antarctic Territories,p05,"Sawnmill industry, non-coniferous all",,,
+85,Greenland,p05,"Sawnmill industry, non-coniferous all",,,
+86,Grenada,p05,"Sawnmill industry, non-coniferous all",,,
+88,Guam,p05,"Sawnmill industry, non-coniferous all",,,
+94,Holy See,p05,"Sawnmill industry, non-coniferous all",,,
+127,Marshall Islands,p05,"Sawnmill industry, non-coniferous all",,,
+142,Montserrat,p05,"Sawnmill industry, non-coniferous all",,,
+148,Nauru,p05,"Sawnmill industry, non-coniferous all",,,
+163,Northern Mariana Islands,p05,"Sawnmill industry, non-coniferous all",,,
+164,Pacific Islands Trust Territory,p05,"Sawnmill industry, non-coniferous all",,,
+172,Pitcairn Islands,p05,"Sawnmill industry, non-coniferous all",,,
+180,Palau,p05,"Sawnmill industry, non-coniferous all",,,
+187,"Saint Helena, Ascension and Tristan da Cunha",p05,"Sawnmill industry, non-coniferous all",,,
+188,Saint Kitts and Nevis,p05,"Sawnmill industry, non-coniferous all",,,
+192,San Marino,p05,"Sawnmill industry, non-coniferous all",,,
+205,Western Sahara,p05,"Sawnmill industry, non-coniferous all",,,
+218,Tokelau,p05,"Sawnmill industry, non-coniferous all",,,
+227,Tuvalu,p05,"Sawnmill industry, non-coniferous all",,,
+228,USSR,p05,"Sawnmill industry, non-coniferous all",,,
+242,Wake Island,p05,"Sawnmill industry, non-coniferous all",,,
+243,Wallis and Futuna Islands,p05,"Sawnmill industry, non-coniferous all",,,
+248,Yugoslav SFR,p05,"Sawnmill industry, non-coniferous all",,,
+258,Anguilla,p05,"Sawnmill industry, non-coniferous all",,,
+279,Curaçao,p05,"Sawnmill industry, non-coniferous all",,,
+281,Saint-Martin (French Part),p05,"Sawnmill industry, non-coniferous all",,,
+299,Palestine,p05,"Sawnmill industry, non-coniferous all",,,
+252,Unspecified Area,p05,"Sawnmill industry, non-coniferous all",,,
+254,Others (adjustment),p05,"Sawnmill industry, non-coniferous all",,,
+,ASI,p05,"Sawnmill industry, non-coniferous all",58,24,13
+,EUR,p05,"Sawnmill industry, non-coniferous all",52,27,16
+,AFR,p05,"Sawnmill industry, non-coniferous all",55,21,17
+,LAM,p05,"Sawnmill industry, non-coniferous all",46,44,10
+,OCE,p05,"Sawnmill industry, non-coniferous all",,,
+,NAM,p05,"Sawnmill industry, non-coniferous all",53,31,13
+1,Armenia,p06,Veneer production,,,
+2,Afghanistan,p06,Veneer production,,,
+3,Albania,p06,Veneer production,,,
+4,Algeria,p06,Veneer production,,,
+6,Andorra,p06,Veneer production,,,
+7,Angola,p06,Veneer production,,,
+9,Argentina,p06,Veneer production,,,
+10,Australia,p06,Veneer production,,,
+11,Austria,p06,Veneer production,,,
+12,Bahamas,p06,Veneer production,,,
+13,Bahrain,p06,Veneer production,,,
+14,Barbados,p06,Veneer production,,,
+15,Belgium-Luxembourg,p06,Veneer production,,,
+16,Bangladesh,p06,Veneer production,,,
+18,Bhutan,p06,Veneer production,,,
+19,Bolivia (Plurinational State of),p06,Veneer production,,,
+20,Botswana,p06,Veneer production,,,
+21,Brazil,p06,Veneer production,,,
+22,Aruba,p06,Veneer production,,,
+23,Belize,p06,Veneer production,,,
+25,Solomon Islands,p06,Veneer production,,,
+26,Brunei Darussalam,p06,Veneer production,,,
+27,Bulgaria,p06,Veneer production,,,
+28,Myanmar,p06,Veneer production,,,
+29,Burundi,p06,Veneer production,,,
+32,Cameroon,p06,Veneer production,,,
+33,Canada,p06,Veneer production,52,37,6
+35,Cabo Verde,p06,Veneer production,,,
+37,Central African Republic,p06,Veneer production,,,
+38,Sri Lanka,p06,Veneer production,,,
+39,Chad,p06,Veneer production,,,
+40,Chile,p06,Veneer production,,,
+41,"China, mainland",p06,Veneer production,63.75,30,3.5
+42,Christmas Island,p06,Veneer production,,,
+44,Colombia,p06,Veneer production,,,
+45,Comoros,p06,Veneer production,,,
+46,Congo,p06,Veneer production,,,
+47,Cook Islands,p06,Veneer production,,,
+48,Costa Rica,p06,Veneer production,,,
+49,Cuba,p06,Veneer production,,,
+50,Cyprus,p06,Veneer production,,,
+51,Czechoslovakia,p06,Veneer production,,,
+52,Azerbaijan,p06,Veneer production,,,
+53,Benin,p06,Veneer production,,,
+54,Denmark,p06,Veneer production,,,
+55,Dominica,p06,Veneer production,,,
+56,Dominican Republic,p06,Veneer production,,,
+57,Belarus,p06,Veneer production,,,
+58,Ecuador,p06,Veneer production,,,
+59,Egypt,p06,Veneer production,,,
+60,El Salvador,p06,Veneer production,,,
+61,Equatorial Guinea,p06,Veneer production,,,
+63,Estonia,p06,Veneer production,,,
+64,Faroe Islands,p06,Veneer production,,,
+65,Falkland Islands (Malvinas),p06,Veneer production,,,
+66,Fiji,p06,Veneer production,,,
+67,Finland,p06,Veneer production,41.2,48.5,2.7
+68,France,p06,Veneer production,46.65,,
+69,French Guyana,p06,Veneer production,,,
+70,French Polynesia,p06,Veneer production,,,
+72,Djibouti,p06,Veneer production,,,
+73,Georgia,p06,Veneer production,,,
+74,Gabon,p06,Veneer production,,,
+75,Gambia,p06,Veneer production,,,
+79,Germany,p06,Veneer production,55,,
+80,Bosnia and Herzegovina,p06,Veneer production,,,
+81,Ghana,p06,Veneer production,,,
+82,Gibraltar,p06,Veneer production,,,
+83,Kiribati,p06,Veneer production,,,
+84,Greece,p06,Veneer production,,,
+87,Guadeloupe,p06,Veneer production,,,
+89,Guatemala,p06,Veneer production,,,
+90,Guinea,p06,Veneer production,,,
+91,Guyana,p06,Veneer production,,,
+93,Haiti,p06,Veneer production,,,
+95,Honduras,p06,Veneer production,,,
+96,"China, Hong Kong SAR",p06,Veneer production,,,
+97,Hungary,p06,Veneer production,,,
+98,Croatia,p06,Veneer production,,,
+99,Iceland,p06,Veneer production,,,
+100,India,p06,Veneer production,,,
+101,Indonesia,p06,Veneer production,,,
+102,Iran (Islamic Republic of),p06,Veneer production,,,
+103,Iraq,p06,Veneer production,,,
+104,Ireland,p06,Veneer production,,,
+105,Israel,p06,Veneer production,,,
+106,Italy,p06,Veneer production,,,
+107,Cote d'Ivoire,p06,Veneer production,,,
+108,Kazakhstan,p06,Veneer production,,,
+109,Jamaica,p06,Veneer production,,,
+110,Japan,p06,Veneer production,,,
+112,Jordan,p06,Veneer production,,,
+113,Kyrgyzstan,p06,Veneer production,,,
+114,Kenya,p06,Veneer production,,,
+115,Cambodia,p06,Veneer production,,,
+116,Democratic People's Republic of Korea,p06,Veneer production,,,
+117,Republic of Korea,p06,Veneer production,,,
+118,Kuwait,p06,Veneer production,,,
+119,Latvia,p06,Veneer production,,,
+120,Lao People's Democratic Republic,p06,Veneer production,,,
+121,Lebanon,p06,Veneer production,,,
+122,Lesotho,p06,Veneer production,,,
+123,Liberia,p06,Veneer production,,,
+124,Libya,p06,Veneer production,,,
+125,Liechtenstein,p06,Veneer production,,,
+126,Lithuania,p06,Veneer production,46,45,3
+128,"China, Macao SAR",p06,Veneer production,,,
+129,Madagascar,p06,Veneer production,,,
+130,Malawi,p06,Veneer production,,,
+131,Malaysia,p06,Veneer production,50,38,4
+132,Maldives,p06,Veneer production,,,
+133,Mali,p06,Veneer production,,,
+134,Malta,p06,Veneer production,,,
+135,Martinique,p06,Veneer production,,,
+136,Mauritania,p06,Veneer production,,,
+137,Mauritius,p06,Veneer production,,,
+138,Mexico,p06,Veneer production,47,38,5.7
+141,Mongolia,p06,Veneer production,,,
+143,Morocco,p06,Veneer production,,,
+144,Mozambique,p06,Veneer production,,,
+145,Micronesia (Federated States of),p06,Veneer production,,,
+146,Republic of Moldova,p06,Veneer production,,,
+147,Namibia,p06,Veneer production,,,
+149,Nepal,p06,Veneer production,,,
+150,Netherlands,p06,Veneer production,51,45,2
+151,Netherlands Antilles,p06,Veneer production,,,
+153,New Caledonia,p06,Veneer production,,,
+154,North Macedonia,p06,Veneer production,,,
+155,Vanuatu,p06,Veneer production,,,
+156,New Zealand,p06,Veneer production,,,
+157,Nicaragua,p06,Veneer production,,,
+158,Niger,p06,Veneer production,,,
+159,Nigeria,p06,Veneer production,,,
+160,Niue,p06,Veneer production,,,
+161,Norfolk Island,p06,Veneer production,,,
+162,Norway,p06,Veneer production,,,
+165,Pakistan,p06,Veneer production,,,
+166,Panama,p06,Veneer production,,,
+167,Czechia,p06,Veneer production,,,
+168,Papua New Guinea,p06,Veneer production,,,
+169,Paraguay,p06,Veneer production,,,
+170,Peru,p06,Veneer production,,,
+171,Philippines,p06,Veneer production,,,
+173,Poland,p06,Veneer production,51,41,5
+174,Portugal,p06,Veneer production,,,
+175,Guinea-Bissau,p06,Veneer production,,,
+176,Timor-Leste,p06,Veneer production,,,
+178,Eritrea,p06,Veneer production,,,
+179,Qatar,p06,Veneer production,,,
+181,Zimbabwe,p06,Veneer production,,,
+182,Reunion,p06,Veneer production,,,
+183,Romania,p06,Veneer production,,,
+184,Rwanda,p06,Veneer production,,,
+185,Russian Federation,p06,Veneer production,44,38,4
+186,Serbia and Montenegro,p06,Veneer production,,,
+189,Saint Lucia,p06,Veneer production,,,
+190,Saint Pierre and Miquelon,p06,Veneer production,,,
+191,Saint Vincent and the Grenadines,p06,Veneer production,,,
+193,Sao Tome and Principe,p06,Veneer production,,,
+194,Saudi Arabia,p06,Veneer production,,,
+195,Senegal,p06,Veneer production,,,
+196,Seychelles,p06,Veneer production,,,
+197,Sierra Leone,p06,Veneer production,,,
+198,Slovenia,p06,Veneer production,40,50,2
+199,Slovakia,p06,Veneer production,,,
+200,Singapore,p06,Veneer production,,,
+201,Somalia,p06,Veneer production,,,
+202,South Africa,p06,Veneer production,53,42,1
+203,Spain,p06,Veneer production,,,
+207,Suriname,p06,Veneer production,,,
+208,Tajikistan,p06,Veneer production,,,
+209,Eswatini,p06,Veneer production,,,
+210,Sweden,p06,Veneer production,,,
+211,Switzerland,p06,Veneer production,,,
+212,Syrian Arab Republic,p06,Veneer production,,,
+213,Turkmenistan,p06,Veneer production,,,
+214,"China, Taiwan Province of",p06,Veneer production,,,
+215,United Republic of Tanzania,p06,Veneer production,,,
+216,Thailand,p06,Veneer production,,,
+217,Togo,p06,Veneer production,,,
+219,Tonga,p06,Veneer production,,,
+220,Trinidad and Tobago,p06,Veneer production,,,
+221,Oman,p06,Veneer production,,,
+222,Tunisia,p06,Veneer production,,,
+223,Turkey,p06,Veneer production,,,
+224,Turks and Caicos Islands,p06,Veneer production,,,
+225,United Arab Emirates,p06,Veneer production,,,
+226,Uganda,p06,Veneer production,,,
+229,United Kingdom,p06,Veneer production,,,
+230,Ukraine,p06,Veneer production,,,
+231,United States of America,p06,Veneer production,52.35,42.65,2
+233,Burkina Faso,p06,Veneer production,,,
+234,Uruguay,p06,Veneer production,,,
+235,Uzbekistan,p06,Veneer production,,,
+236,Venezuela (Bolivarian Republic of),p06,Veneer production,,,
+237,Viet Nam,p06,Veneer production,,,
+238,Ethiopia,p06,Veneer production,,,
+239,British Virgin Islands,p06,Veneer production,,,
+244,Samoa,p06,Veneer production,,,
+249,Yemen,p06,Veneer production,,,
+250,Democratic Republic of the Congo,p06,Veneer production,,,
+251,Zambia,p06,Veneer production,,,
+255,Belgium,p06,Veneer production,,,
+256,Luxembourg,p06,Veneer production,,,
+270,Mayotte,p06,Veneer production,,,
+272,Serbia,p06,Veneer production,,,
+273,Montenegro,p06,Veneer production,,,
+276,Sudan,p06,Veneer production,,,
+277,South Sudan,p06,Veneer production,,,
+5,American Samoa,p06,Veneer production,,,
+8,Antigua and Barbuda,p06,Veneer production,,,
+17,Bermuda,p06,Veneer production,,,
+24,British Indian Ocean Territory,p06,Veneer production,,,
+36,Cayman Islands,p06,Veneer production,,,
+43,Cocos (Keeling) Islands,p06,Veneer production,,,
+71,French Southern and Antarctic Territories,p06,Veneer production,,,
+85,Greenland,p06,Veneer production,,,
+86,Grenada,p06,Veneer production,,,
+88,Guam,p06,Veneer production,,,
+94,Holy See,p06,Veneer production,,,
+127,Marshall Islands,p06,Veneer production,,,
+142,Montserrat,p06,Veneer production,,,
+148,Nauru,p06,Veneer production,,,
+163,Northern Mariana Islands,p06,Veneer production,,,
+164,Pacific Islands Trust Territory,p06,Veneer production,,,
+172,Pitcairn Islands,p06,Veneer production,,,
+180,Palau,p06,Veneer production,,,
+187,"Saint Helena, Ascension and Tristan da Cunha",p06,Veneer production,,,
+188,Saint Kitts and Nevis,p06,Veneer production,,,
+192,San Marino,p06,Veneer production,,,
+205,Western Sahara,p06,Veneer production,,,
+218,Tokelau,p06,Veneer production,,,
+227,Tuvalu,p06,Veneer production,,,
+228,USSR,p06,Veneer production,,,
+242,Wake Island,p06,Veneer production,,,
+243,Wallis and Futuna Islands,p06,Veneer production,,,
+248,Yugoslav SFR,p06,Veneer production,,,
+258,Anguilla,p06,Veneer production,,,
+279,Curaçao,p06,Veneer production,,,
+281,Saint-Martin (French Part),p06,Veneer production,,,
+299,Palestine,p06,Veneer production,,,
+252,Unspecified Area,p06,Veneer production,,,
+254,Others (adjustment),p06,Veneer production,,,
+,ASI,p06,Veneer production,56.88,34,3.75
+,EUR,p06,Veneer production,46.86,44.58,3.12
+,AFR,p06,Veneer production,53,42,1
+,LAM,p06,Veneer production,47,38,5.7
+,OCE,p06,Veneer production,,,
+,NAM,p06,Veneer production,52,40,4
+1,Armenia,p07,Plywood production,,,
+2,Afghanistan,p07,Plywood production,,,
+3,Albania,p07,Plywood production,,,
+4,Algeria,p07,Plywood production,,,
+6,Andorra,p07,Plywood production,,,
+7,Angola,p07,Plywood production,,,
+9,Argentina,p07,Plywood production,,,
+10,Australia,p07,Plywood production,,,
+11,Austria,p07,Plywood production,,,
+12,Bahamas,p07,Plywood production,,,
+13,Bahrain,p07,Plywood production,,,
+14,Barbados,p07,Plywood production,,,
+15,Belgium-Luxembourg,p07,Plywood production,,,
+16,Bangladesh,p07,Plywood production,,,
+18,Bhutan,p07,Plywood production,,,
+19,Bolivia (Plurinational State of),p07,Plywood production,,,
+20,Botswana,p07,Plywood production,,,
+21,Brazil,p07,Plywood production,,,
+22,Aruba,p07,Plywood production,,,
+23,Belize,p07,Plywood production,,,
+25,Solomon Islands,p07,Plywood production,,,
+26,Brunei Darussalam,p07,Plywood production,,,
+27,Bulgaria,p07,Plywood production,,,
+28,Myanmar,p07,Plywood production,,,
+29,Burundi,p07,Plywood production,,,
+32,Cameroon,p07,Plywood production,,,
+33,Canada,p07,Plywood production,52,37,6
+35,Cabo Verde,p07,Plywood production,,,
+37,Central African Republic,p07,Plywood production,,,
+38,Sri Lanka,p07,Plywood production,,,
+39,Chad,p07,Plywood production,,,
+40,Chile,p07,Plywood production,,,
+41,"China, mainland",p07,Plywood production,63.75,30,3.5
+42,Christmas Island,p07,Plywood production,,,
+44,Colombia,p07,Plywood production,,,
+45,Comoros,p07,Plywood production,,,
+46,Congo,p07,Plywood production,,,
+47,Cook Islands,p07,Plywood production,,,
+48,Costa Rica,p07,Plywood production,,,
+49,Cuba,p07,Plywood production,,,
+50,Cyprus,p07,Plywood production,,,
+51,Czechoslovakia,p07,Plywood production,,,
+52,Azerbaijan,p07,Plywood production,,,
+53,Benin,p07,Plywood production,,,
+54,Denmark,p07,Plywood production,,,
+55,Dominica,p07,Plywood production,,,
+56,Dominican Republic,p07,Plywood production,,,
+57,Belarus,p07,Plywood production,,,
+58,Ecuador,p07,Plywood production,,,
+59,Egypt,p07,Plywood production,,,
+60,El Salvador,p07,Plywood production,,,
+61,Equatorial Guinea,p07,Plywood production,,,
+63,Estonia,p07,Plywood production,,,
+64,Faroe Islands,p07,Plywood production,,,
+65,Falkland Islands (Malvinas),p07,Plywood production,,,
+66,Fiji,p07,Plywood production,,,
+67,Finland,p07,Plywood production,41.2,48.5,2.7
+68,France,p07,Plywood production,46.65,,
+69,French Guyana,p07,Plywood production,,,
+70,French Polynesia,p07,Plywood production,,,
+72,Djibouti,p07,Plywood production,,,
+73,Georgia,p07,Plywood production,,,
+74,Gabon,p07,Plywood production,,,
+75,Gambia,p07,Plywood production,,,
+79,Germany,p07,Plywood production,55,,
+80,Bosnia and Herzegovina,p07,Plywood production,,,
+81,Ghana,p07,Plywood production,,,
+82,Gibraltar,p07,Plywood production,,,
+83,Kiribati,p07,Plywood production,,,
+84,Greece,p07,Plywood production,,,
+87,Guadeloupe,p07,Plywood production,,,
+89,Guatemala,p07,Plywood production,,,
+90,Guinea,p07,Plywood production,,,
+91,Guyana,p07,Plywood production,,,
+93,Haiti,p07,Plywood production,,,
+95,Honduras,p07,Plywood production,,,
+96,"China, Hong Kong SAR",p07,Plywood production,,,
+97,Hungary,p07,Plywood production,,,
+98,Croatia,p07,Plywood production,,,
+99,Iceland,p07,Plywood production,,,
+100,India,p07,Plywood production,,,
+101,Indonesia,p07,Plywood production,,,
+102,Iran (Islamic Republic of),p07,Plywood production,,,
+103,Iraq,p07,Plywood production,,,
+104,Ireland,p07,Plywood production,,,
+105,Israel,p07,Plywood production,,,
+106,Italy,p07,Plywood production,,,
+107,Cote d'Ivoire,p07,Plywood production,,,
+108,Kazakhstan,p07,Plywood production,,,
+109,Jamaica,p07,Plywood production,,,
+110,Japan,p07,Plywood production,,,
+112,Jordan,p07,Plywood production,,,
+113,Kyrgyzstan,p07,Plywood production,,,
+114,Kenya,p07,Plywood production,,,
+115,Cambodia,p07,Plywood production,,,
+116,Democratic People's Republic of Korea,p07,Plywood production,,,
+117,Republic of Korea,p07,Plywood production,,,
+118,Kuwait,p07,Plywood production,,,
+119,Latvia,p07,Plywood production,,,
+120,Lao People's Democratic Republic,p07,Plywood production,,,
+121,Lebanon,p07,Plywood production,,,
+122,Lesotho,p07,Plywood production,,,
+123,Liberia,p07,Plywood production,,,
+124,Libya,p07,Plywood production,,,
+125,Liechtenstein,p07,Plywood production,,,
+126,Lithuania,p07,Plywood production,46,45,3
+128,"China, Macao SAR",p07,Plywood production,,,
+129,Madagascar,p07,Plywood production,,,
+130,Malawi,p07,Plywood production,,,
+131,Malaysia,p07,Plywood production,50,38,4
+132,Maldives,p07,Plywood production,,,
+133,Mali,p07,Plywood production,,,
+134,Malta,p07,Plywood production,,,
+135,Martinique,p07,Plywood production,,,
+136,Mauritania,p07,Plywood production,,,
+137,Mauritius,p07,Plywood production,,,
+138,Mexico,p07,Plywood production,47,38,5.7
+141,Mongolia,p07,Plywood production,,,
+143,Morocco,p07,Plywood production,,,
+144,Mozambique,p07,Plywood production,,,
+145,Micronesia (Federated States of),p07,Plywood production,,,
+146,Republic of Moldova,p07,Plywood production,,,
+147,Namibia,p07,Plywood production,,,
+149,Nepal,p07,Plywood production,,,
+150,Netherlands,p07,Plywood production,51,45,2
+151,Netherlands Antilles,p07,Plywood production,,,
+153,New Caledonia,p07,Plywood production,,,
+154,North Macedonia,p07,Plywood production,,,
+155,Vanuatu,p07,Plywood production,,,
+156,New Zealand,p07,Plywood production,,,
+157,Nicaragua,p07,Plywood production,,,
+158,Niger,p07,Plywood production,,,
+159,Nigeria,p07,Plywood production,,,
+160,Niue,p07,Plywood production,,,
+161,Norfolk Island,p07,Plywood production,,,
+162,Norway,p07,Plywood production,,,
+165,Pakistan,p07,Plywood production,,,
+166,Panama,p07,Plywood production,,,
+167,Czechia,p07,Plywood production,,,
+168,Papua New Guinea,p07,Plywood production,,,
+169,Paraguay,p07,Plywood production,,,
+170,Peru,p07,Plywood production,,,
+171,Philippines,p07,Plywood production,,,
+173,Poland,p07,Plywood production,51,41,5
+174,Portugal,p07,Plywood production,,,
+175,Guinea-Bissau,p07,Plywood production,,,
+176,Timor-Leste,p07,Plywood production,,,
+178,Eritrea,p07,Plywood production,,,
+179,Qatar,p07,Plywood production,,,
+181,Zimbabwe,p07,Plywood production,,,
+182,Reunion,p07,Plywood production,,,
+183,Romania,p07,Plywood production,,,
+184,Rwanda,p07,Plywood production,,,
+185,Russian Federation,p07,Plywood production,44,38,4
+186,Serbia and Montenegro,p07,Plywood production,,,
+189,Saint Lucia,p07,Plywood production,,,
+190,Saint Pierre and Miquelon,p07,Plywood production,,,
+191,Saint Vincent and the Grenadines,p07,Plywood production,,,
+193,Sao Tome and Principe,p07,Plywood production,,,
+194,Saudi Arabia,p07,Plywood production,,,
+195,Senegal,p07,Plywood production,,,
+196,Seychelles,p07,Plywood production,,,
+197,Sierra Leone,p07,Plywood production,,,
+198,Slovenia,p07,Plywood production,40,50,2
+199,Slovakia,p07,Plywood production,,,
+200,Singapore,p07,Plywood production,,,
+201,Somalia,p07,Plywood production,,,
+202,South Africa,p07,Plywood production,53,42,1
+203,Spain,p07,Plywood production,,,
+207,Suriname,p07,Plywood production,,,
+208,Tajikistan,p07,Plywood production,,,
+209,Eswatini,p07,Plywood production,,,
+210,Sweden,p07,Plywood production,,,
+211,Switzerland,p07,Plywood production,,,
+212,Syrian Arab Republic,p07,Plywood production,,,
+213,Turkmenistan,p07,Plywood production,,,
+214,"China, Taiwan Province of",p07,Plywood production,,,
+215,United Republic of Tanzania,p07,Plywood production,,,
+216,Thailand,p07,Plywood production,,,
+217,Togo,p07,Plywood production,,,
+219,Tonga,p07,Plywood production,,,
+220,Trinidad and Tobago,p07,Plywood production,,,
+221,Oman,p07,Plywood production,,,
+222,Tunisia,p07,Plywood production,,,
+223,Turkey,p07,Plywood production,,,
+224,Turks and Caicos Islands,p07,Plywood production,,,
+225,United Arab Emirates,p07,Plywood production,,,
+226,Uganda,p07,Plywood production,,,
+229,United Kingdom,p07,Plywood production,,,
+230,Ukraine,p07,Plywood production,,,
+231,United States of America,p07,Plywood production,52.35,42.65,2
+233,Burkina Faso,p07,Plywood production,,,
+234,Uruguay,p07,Plywood production,,,
+235,Uzbekistan,p07,Plywood production,,,
+236,Venezuela (Bolivarian Republic of),p07,Plywood production,,,
+237,Viet Nam,p07,Plywood production,,,
+238,Ethiopia,p07,Plywood production,,,
+239,British Virgin Islands,p07,Plywood production,,,
+244,Samoa,p07,Plywood production,,,
+249,Yemen,p07,Plywood production,,,
+250,Democratic Republic of the Congo,p07,Plywood production,,,
+251,Zambia,p07,Plywood production,,,
+255,Belgium,p07,Plywood production,,,
+256,Luxembourg,p07,Plywood production,,,
+270,Mayotte,p07,Plywood production,,,
+272,Serbia,p07,Plywood production,,,
+273,Montenegro,p07,Plywood production,,,
+276,Sudan,p07,Plywood production,,,
+277,South Sudan,p07,Plywood production,,,
+5,American Samoa,p07,Plywood production,,,
+8,Antigua and Barbuda,p07,Plywood production,,,
+17,Bermuda,p07,Plywood production,,,
+24,British Indian Ocean Territory,p07,Plywood production,,,
+36,Cayman Islands,p07,Plywood production,,,
+43,Cocos (Keeling) Islands,p07,Plywood production,,,
+71,French Southern and Antarctic Territories,p07,Plywood production,,,
+85,Greenland,p07,Plywood production,,,
+86,Grenada,p07,Plywood production,,,
+88,Guam,p07,Plywood production,,,
+94,Holy See,p07,Plywood production,,,
+127,Marshall Islands,p07,Plywood production,,,
+142,Montserrat,p07,Plywood production,,,
+148,Nauru,p07,Plywood production,,,
+163,Northern Mariana Islands,p07,Plywood production,,,
+164,Pacific Islands Trust Territory,p07,Plywood production,,,
+172,Pitcairn Islands,p07,Plywood production,,,
+180,Palau,p07,Plywood production,,,
+187,"Saint Helena, Ascension and Tristan da Cunha",p07,Plywood production,,,
+188,Saint Kitts and Nevis,p07,Plywood production,,,
+192,San Marino,p07,Plywood production,,,
+205,Western Sahara,p07,Plywood production,,,
+218,Tokelau,p07,Plywood production,,,
+227,Tuvalu,p07,Plywood production,,,
+228,USSR,p07,Plywood production,,,
+242,Wake Island,p07,Plywood production,,,
+243,Wallis and Futuna Islands,p07,Plywood production,,,
+248,Yugoslav SFR,p07,Plywood production,,,
+258,Anguilla,p07,Plywood production,,,
+279,Curaçao,p07,Plywood production,,,
+281,Saint-Martin (French Part),p07,Plywood production,,,
+299,Palestine,p07,Plywood production,,,
+252,Unspecified Area,p07,Plywood production,,,
+254,Others (adjustment),p07,Plywood production,,,
+,ASI,p07,Plywood production,56.88,34,3.75
+,EUR,p07,Plywood production,46.86,44.58,3.12
+,AFR,p07,Plywood production,53,42,1
+,LAM,p07,Plywood production,47,38,5.7
+,OCE,p07,Plywood production,,,
+,NAM,p07,Plywood production,52,40,4

@@ -11,13 +11,15 @@ cat("\nEstimating BTD from CBS.\n")
 
 cbs <- readRDS("data/cbs.rds")
 
+years <- 1997:2017
+
 # dt_replace(cbs, fun = is.na, value = 0, cols = c("imports", "exports"))
 
 # Cast import and export columns
-cbs_imp <- data.table::dcast(cbs[year %in% year, c("area_code", "year", "com_code", "imports")],
+cbs_imp <- data.table::dcast(cbs[year %in% years, c("area_code", "year", "com_code", "imports")],
   year + com_code ~ area_code, value.var = "imports", fun.aggregate = na_sum,
   fill = 0)
-cbs_exp <- data.table::dcast(cbs[year %in% year, c("area_code", "year", "com_code", "exports")],
+cbs_exp <- data.table::dcast(cbs[year %in% years, c("area_code", "year", "com_code", "exports")],
   year + com_code ~ area_code, value.var = "exports", fun.aggregate = na_sum,
   fill = 0)
 
@@ -81,7 +83,7 @@ btd_est <- merge(est_exp, est_imp,
 rm(est_exp, est_imp); gc()
 
 # Average the estimates - note that 0 estimates may be considered NA
-btd_est[, `:=`(value = (imp_spread + exp_spread) / 2,
+btd_est[, `:=`(value = na_sum(imp_spread, exp_spread) / 2,
   exp_spread = NULL, imp_spread = NULL)]
 
 # Store result ------------------------------------------------------------
