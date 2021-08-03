@@ -71,8 +71,8 @@ shares[, `:=`(chips_final = round(chips * tcf_chips),
 ## Merge chips and residues supply ------------------------------------
 sup <- merge(sup, shares[, .(area_code, proc_code, year, chips = chips_final, residues = residues_final)], 
   by = c("area_code", "proc_code", "year"), all.x = TRUE)
-sup[proc_code %in% c("p04","p05","p06","p07") & com_code=="c17", production := chips]
-sup[proc_code %in% c("p04","p05","p06","p07") & com_code=="c18", production := residues]
+sup[proc_code %in% c("p04","p05","p06","p07") & com_code=="c17" & is.finite(chips), production := chips]
+sup[proc_code %in% c("p04","p05","p06","p07") & com_code=="c18" & is.finite(residues), production := residues]
 sup[, `:=`(chips = NULL, residues = NULL)]
 
 
@@ -92,7 +92,8 @@ sup <- rbindlist(list(sup, chips, residues), use.names = TRUE)
 
 # Adapt CBS -----------------------------------------------------------
 cbs <- merge(cbs, sup[, list(production_new = na_sum(production)), 
-  by = c("area_code", "com_code", "year")], by = c("area_code", "com_code", "year"))
+  by = c("area_code", "com_code", "year")], by = c("area_code", "com_code", "year"),
+  all = TRUE)
 cbs[, balancing_byprod := round(na_sum(production, -production_new))]
 cbs[production_new > production | is.na(production), production := production_new]
 

@@ -27,7 +27,7 @@ p11d;Dissolving pulp production;c01;Industrial roundwood, coniferous;c11d;Dissol
 p11d;Dissolving pulp production;c02;Industrial roundwood, non-coniferous;c11d;Dissolving wood pulp;tcf_pulp
 p11d;Dissolving pulp production;c17;Wood chips and particles;c11d;Dissolving wood pulp;tcf_pulp
 p11d;Dissolving pulp production;c18;Wood residues;c11d;Dissolving wood pulp;tcf_pulp
-p13;Recovered pulp production;c12;Recovered paper;c13;Recovered fibre pulp;100%
+p13;Recovered pulp production;c12;Recovered paper;c13;Recovered fibre pulp;tcf
 p14;Paper and paperboard production;c11a;Chemical wood pulp;c14;Paper and paperboard;100%
 p14;Paper and paperboard production;c11b;Mechanical and semi-chemical wood pulp;c14;Paper and paperboard;100%
 p14;Paper and paperboard production;c11c;Pulp from fibres other than wood;c14;Paper and paperboard;100%

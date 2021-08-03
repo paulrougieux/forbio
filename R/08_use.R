@@ -192,8 +192,10 @@ results[, `:=`(roundwood = NULL, chips = NULL)]
 
 
 # Estimate feedstock composition for board production
-results[proc_code == "p08", `:=`(value = if_else(com_code %in% c("c01","c02"), value * 0.5, value * 0.25))]
-results[proc_code == "p09", `:=`(value = if_else(com_code %in% c("c18"), value * 0.5, value * 0.25))]
+# results[proc_code == "p08", `:=`(value = if_else(com_code %in% c("c01","c02"), value * 0.5, value * 0.25))]
+# results[proc_code == "p09", `:=`(value = if_else(com_code %in% c("c18"), value * 0.5, value * 0.25))]
+results[proc_code %in% c("p08","p09"), 
+        `:=`(value = if_else(com_code %in% c("c01","c02"), value * 0.05, value * 0.425))]
 
 
 # Redistribute c/nc use according to availability 
@@ -304,6 +306,11 @@ cbs <- merge(cbs, use[type %in% c("100%","tcf_fill") & !is.na(use) & use > 0,
 cbs[!is.na(use), processing := na_sum(processing, -use)]
 cbs[, use := NULL]
 
+# Update processing in use
+use[, processing := NULL]
+use <- merge(use, cbs[, .(area_code, year, com_code, processing)],
+  by = c("area_code", "year", "com_code"), all.x = TRUE)
+
 
 
 
@@ -314,13 +321,17 @@ cbs[, use := NULL]
 
 
 # Balance supply and use ------------------------------------------------------
-sup_total <- sup[, list(production_sup = na_sum(production)), 
+sup_total <- merge(cbs[, .(area_code, com_code, year, sup_cbs = na_sum(production, imports, -exports))],
+  sup[, list(sup = na_sum(production)), 
+  by = c("area_code", "com_code", "year")],
+  by = c("area_code", "com_code", "year"))
+use_total <- use[, list(use = na_sum(use), energy = na_sum(energy)), 
   by = c("area_code", "com_code", "year")]
-use_total <- use[, list(production_use = na_sum(production), processing = na_sum(processing),
-  use = na_sum(use), energy = na_sum(energy)), by = c("area_code", "com_code", "year")]
 
 totals <- merge(sup_total, use_total)
-
+totals[, diff := na_sum(sup_cbs, -use, -energy)]
+totals[, `:=`(balancing = if_else(diff < 0, diff, 0), 
+  final_use = if_else(diff > 0, diff, 0))]
 
 
 
