@@ -277,7 +277,6 @@ use[, value := NULL]
 cbs <- merge(cbs, results[, list(value = na_sum(value)),
   by = c("year", "area_code", "com_code")],
   by = c("area_code", "year", "com_code"), all.x = TRUE)
-cbs[!is.na(value), processing := round(na_sum(processing, -value))]
 cbs[, value := NULL]
 
 # Update processing in use
@@ -345,6 +344,23 @@ use_fd <- cbs[, .(year, area_code, area, com_code, item,
 # Remove unneeded variables
 use <- use[, c("year", "area_code", "area", "comm_code", "com_code", "item",
                "proc_code", "proc", "type", "use")]
+
+
+# IEA Total Energy Supply ---------------------------------------------------
+
+#Upload data
+energy <- fread("inst/iea_energy.csv")
+energy_area <- fread("inst/iea_area.csv")
+
+#Clean data
+energy <- rename(energy, "iea_area" = "country")
+energy <- merge(
+  energy[, .(iea_area, unit, product, flow, year, value)],
+  energy_area[, .(iea_area, area_code)],
+  by = c("iea_area"))
+energy <- energy[!is.na(energy$area_code),]
+energy[value == "..", `:=`(value = "NA")]
+
 
 
 # Save ------------------------------------------------------
