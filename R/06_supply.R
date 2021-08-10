@@ -10,26 +10,27 @@ items <- fread("inst/products.csv")
 # Supply ------------------------------------------------------------------
 
 cbs <- readRDS("data/cbs.rds")
-sup <- fread("inst/sup.csv")
+sup_structure <- fread("inst/sup.csv")
 shares <- fread("inst/mb_sup_tidy.csv")
 
 
 cat("Allocate production to supplying processes.\n")
 
-shares <- merge(shares, sup[type=="100%", c("proc_code", "com_code")],
+shares <- merge(shares, sup_structure[type=="100%", c("proc_code", "com_code")],
   by = "proc_code", all.x = TRUE)
 
 # Allocate production to supplying processes including double-counting
 sup <- merge(
-  cbs[, c("area_code", "area", "year", "com_code", "item", "production")],
-  sup[com_code %in% unique(cbs$com_code)],
+  cbs[, .(area_code, area, year, com_code, item, production)],
+  sup_structure[com_code %in% unique(cbs$com_code)],
   by = c("com_code", "item"), all = TRUE, allow.cartesian = TRUE)
 
 
 # Downscale double-counted production -----------------------------------------
 cat("Calculate supply shares for multi-output processes.\n")
 
-shares <- merge(shares, cbs[, c("area_code", "year", "com_code", "production")],
+# shares <- merge(shares, cbs[, .(area_code, year, com_code, production)],
+shares <- merge(shares, cbs[, .(area_code, year, com_code, production)],
   by = c("area_code", "com_code"), allow.cartesian = TRUE)
 
 # Derive roundwood equivalents (rwe)
@@ -70,19 +71,22 @@ shares[, `:=`(chips_final = round(chips * tcf_chips),
 
 ## Merge chips and residues supply ------------------------------------
 sup <- merge(sup, shares[, .(area_code, proc_code, year, chips = chips_final, residues = residues_final)], 
-  by = c("area_code", "proc_code", "year"), all.x = TRUE)
-sup[proc_code %in% c("p04","p05","p06","p07") & com_code=="c17" & is.finite(chips), production := chips]
-sup[proc_code %in% c("p04","p05","p06","p07") & com_code=="c18" & is.finite(residues), production := residues]
+  by = c("area_code", "proc_code", "year"), all = TRUE)
+sup[proc_code %in% c("p04","p05","p06","p07") & com_code=="c17" & is.finite(chips), 
+  production := chips]
+sup[proc_code %in% c("p04","p05","p06","p07") & com_code=="c18" & is.finite(residues), 
+  production := residues]
 sup[, `:=`(chips = NULL, residues = NULL)]
 
 
+
 ## Merge chips and residues unknown supply ------------------------------------
-chips <- merge(unique(shares[!is.na(chips_pxy) & chips_pxy > 0, .(area_code, proc_code = NA, 
-  year, com_code = "c17", production = chips_pxy, process = NA, type = NA)]), 
+chips <- merge(unique(shares[!is.na(chips_pxy) & chips_pxy > 0, .(area_code, proc_code = "pxy", 
+  year, com_code = "c17", production = chips_pxy, process = "Unknown source", type = NA)]), 
   unique(sup[, .(area_code, area, com_code, item)]), 
   by = c("area_code", "com_code"), all.x = TRUE)
-residues <- merge(unique(shares[!is.na(residues_pxy) & residues_pxy > 0, .(area_code, proc_code = NA, 
-  year, com_code = "c18", production = residues_pxy, process = NA, type = NA)]), 
+residues <- merge(unique(shares[!is.na(residues_pxy) & residues_pxy > 0, .(area_code, proc_code = "pxy", 
+  year, com_code = "c18", production = residues_pxy, process = "Unknown source", type = NA)]), 
   unique(sup[, .(area_code, area, com_code, item)]), 
   by = c("area_code", "com_code"), all.x = TRUE)
 sup <- rbindlist(list(sup, chips, residues), use.names = TRUE)
@@ -90,17 +94,26 @@ sup <- rbindlist(list(sup, chips, residues), use.names = TRUE)
 
 
 
-# Adapt CBS -----------------------------------------------------------
+# Adapt and re-balance CBS -----------------------------------------------------------
 cbs <- merge(cbs, sup[, list(production_new = na_sum(production)), 
   by = c("area_code", "com_code", "year")], by = c("area_code", "com_code", "year"),
   all = TRUE)
-cbs[, balancing_byprod := round(na_sum(production, -production_new))]
-cbs[production_new > production | is.na(production), production := production_new]
+cbs[, bal_byprod := round(na_sum(production_new, -production))]
+cbs[, `:=`(total_supply = na_sum(production, bal_byprod, imports), bal_prod = 0,
+  dom_supply = na_sum(production, bal_byprod, imports, -exports), production_new = NULL)]
+cbs[dom_supply < 0, `:=`(bal_prod = -dom_supply, dom_supply = 0)]
+cbs[, `:=`(total_supply = na_sum(production, bal_byprod, bal_prod, imports),
+  dom_supply = na_sum(production, bal_byprod, bal_prod, imports, -exports))]
 
-cbs[, `:=`(total_supply = na_sum(production, imports),
-  dom_supply = na_sum(production, imports, -exports), production_new = NULL)]
 
-
+# Add supply from unknown sources
+sup_bal <- merge(
+  cbs[, .(area_code, area, year, com_code, item, production = bal_prod)],
+  unique(sup_structure[com_code %in% unique(cbs$com_code), 
+  .(proc_code = "pxy", process = "Unknown source", com_code, item, type = NA)]),
+  by = c("com_code", "item"), all.x = TRUE)
+sup_bal <- sup_bal[production != 0 & !is.na(production)]
+sup <- bind_rows(sup, sup_bal)
 
 
 # Store results -----------------------------------------------------------

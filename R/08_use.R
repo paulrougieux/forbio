@@ -9,6 +9,7 @@ items <- fread("inst/products.csv")
 years <- 1997:2017
 
 cbs <- readRDS("data/cbs_bal.rds")
+cbs[, processing := dom_supply]
 sup <- readRDS("data/sup.rds")
 use_items <- fread("inst/use.csv")
 source_use <- fread("inst/source_use.csv")
@@ -16,15 +17,9 @@ source_use <- fread("inst/source_use.csv")
 
 # Use ---------------------------------------------------------------------
 
-# Split use in energy and nonenergy
-cbs[, energy := 0]
-cbs <- rename(cbs, "processing" = "dom_supply")
-cbs[com_code %in% c("c15","c16","c20"), `:=`(energy = processing, processing = 0)]
-
-
 # Create long use table
 use <- merge(
-  cbs[, .(area_code, area, year, com_code, item, production, processing, energy)],
+  cbs[, .(area_code, area, year, com_code, item)],
   use_items[, .(proc_code, process, com_code, item, type)],
   by = c("com_code", "item"), all = TRUE, allow.cartesian = TRUE)
 use[, use := NA_real_]
@@ -121,10 +116,9 @@ Cs <- lapply(Cs, `dimnames<-`, list(tcf_codes[[2]], tcf_codes[[3]]))
 names(Cs) <- tcf_codes[[1]]
 
 # Get all relevant input and output data
-tcf_data <- use[area_code %in% tcf_codes[[1]] &
+tcf_data <- cbs[area_code %in% tcf_codes[[1]] &
   (com_code %in% tcf_codes[[2]] | com_code %in% tcf_codes[[3]]),
   .(year, area_code, com_code, production, processing)]
-tcf_data <- tcf_data[!duplicated(tcf_data), ] # Duplicates from proc_code
 setkey(tcf_data, year, area_code, com_code)
 areas <- tcf_codes[[1]]
 
@@ -166,7 +160,6 @@ for(x in years) {
 
 results <- results[paste(com_code,com_code_proc) %in%
   paste(source_use$source_code, source_use$com_code)]
-
 results[, `:=`(proc_code =
   source_use[match(results$com_code_proc, source_use$com_code), proc_code])]
 
@@ -192,8 +185,6 @@ results[, `:=`(roundwood = NULL, chips = NULL)]
 
 
 # Estimate feedstock composition for board production
-# results[proc_code == "p08", `:=`(value = if_else(com_code %in% c("c01","c02"), value * 0.5, value * 0.25))]
-# results[proc_code == "p09", `:=`(value = if_else(com_code %in% c("c18"), value * 0.5, value * 0.25))]
 results[proc_code %in% c("p08","p09"), 
         `:=`(value = if_else(com_code %in% c("c01","c02"), value * 0.05, value * 0.425))]
 
@@ -211,8 +202,8 @@ data <- merge(data, cbs[, .(area_code, com_code, year, processing)],
   by = c("area_code", "com_code", "year"))
 data[, `:=`(rest = processing - tcf, demand = na_sum(tcf_board, tcf_cnc, tcf_pulp), tcf = NULL)]
 # sum up remaining roundwood per country
-totals <- data[, list(processing_total = sum(processing), rest_total = sum(rest), 
-  demand_total = sum(demand) / 2), by = c("year", "area_code")]
+totals <- data[, list(processing_total = na_sum(processing), rest_total = na_sum(rest), 
+  demand_total = na_sum(demand) / 2), by = c("year", "area_code")]
 totals[, `:=`(processing_total = ifelse(processing_total < 0, 0, processing_total), 
   rest_total = ifelse(rest_total < 0, 0, rest_total))]
 data <- merge(data, totals[, .(year, area_code, processing_total, rest_total)],
@@ -251,7 +242,8 @@ data[com_code %in% c("c03","c17"), value := value * (1 - share)]
 data <- merge(data, tcf_pellets[, .(area_code, com_code = source_code, tcf)],
   by = c("area_code", "com_code"))
 data[, potential := processing / tcf]
-data <- merge(data, cbs[com_code=="c15", .(year, area_code, production)],
+data <- merge(data, cbs[com_code=="c15", .(year, area_code, 
+  production = na_sum(production, bal_prod, bal_byprod))],
   by = c("year", "area_code"))
 data <- merge(data, data[com_code=="c18", .(year, area_code, pellets_from_residues = value / tcf)], 
   by = c("year", "area_code"), all.x = TRUE)
@@ -269,23 +261,10 @@ results <- rbind(results[type != "tcf_pellets"],
 
 # Add to use (per item and process)
 use <- merge(use, results[, .(year, area_code, proc_code, com_code, value)],
-  by = c("year", "area_code", "proc_code", "com_code"), all.x = TRUE)
+  by = c("year", "area_code", "proc_code", "com_code"), all = TRUE)
 use[!is.na(value), `:=`(use = value)]
 use[, value := NULL]
 
-# Subtract from cbs processing (per item)
-cbs <- merge(cbs, results[, list(value = na_sum(value)),
-  by = c("year", "area_code", "com_code")],
-  by = c("area_code", "year", "com_code"), all.x = TRUE)
-cbs[, value := NULL]
-
-# Update processing in use
-use[, processing := NULL]
-use <- merge(use, cbs[, .(area_code, year, com_code, processing)],
-  by = c("area_code", "year", "com_code"), all.x = TRUE)
-
-rm(tcf, tcf_codes, tcf_data, areas, out, totals, data, pulp, tcf_board, tcf_pellets, tcf_pulp,
-   tcf_in, tcf_out, tcf_use, results, Cs, input, output, input_x, output_x, input_y, output_y)
 
 
 
@@ -295,21 +274,12 @@ rm(tcf, tcf_codes, tcf_data, areas, out, totals, data, pulp, tcf_board, tcf_pell
 cat("Allocating items going directly to a process.\n\t",
     paste0(unique(use[type %in% c("100%","tcf_fill"), item]), collapse = "; "),
     ".\n", sep = "")
+use <- merge(use,
+  cbs[, .(area_code, area, year, com_code, item, processing)],
+  by = c("area_code", "area", "year", "com_code", "item"), all.x = TRUE)
 use[type %in% c("100%","tcf_fill"), use := ifelse(processing > 0, processing, 0)]
-# use[type %in% c("100%","tcf_fill"), processing := processing - use]
-
-# Reduce processing in CBS
-cbs <- merge(cbs, use[type %in% c("100%","tcf_fill") & !is.na(use) & use > 0,
-  list(use = na_sum(use)), by = c("area_code", "year", "com_code")],
-  by = c("area_code", "year", "com_code"), all.x = TRUE)
-cbs[!is.na(use), processing := na_sum(processing, -use)]
-cbs[, use := NULL]
-
-# Update processing in use
 use[, processing := NULL]
-use <- merge(use, cbs[, .(area_code, year, com_code, processing)],
-  by = c("area_code", "year", "com_code"), all.x = TRUE)
-
+use <- use[!is.na(use) & use != 0]
 
 
 
@@ -319,19 +289,96 @@ use <- merge(use, cbs[, .(area_code, year, com_code, processing)],
 
 
 
+# Update CBS ------------------------------------------------------------
+# Subtract from cbs processing (per item) 
+cbs <- merge(cbs, results[, list(value = na_sum(value)),
+  by = c("year", "area_code", "com_code")],
+  by = c("area_code", "year", "com_code"), all.x = TRUE)
+cbs <- merge(cbs, use[type %in% c("100%","tcf_fill") & !is.na(use) & use > 0,
+  list(use = na_sum(use)), by = c("area_code", "year", "com_code")],
+  by = c("area_code", "year", "com_code"), all.x = TRUE)
+cbs[!is.na(value), processing := na_sum(processing, -value, -use)]
+cbs[, `:=`(value = NULL, use = NULL)]
+
+
+rm(tcf, tcf_codes, tcf_data, areas, out, totals, data, pulp, tcf_board, tcf_pellets, tcf_pulp,
+   tcf_in, tcf_out, tcf_use, results, Cs, input, output, input_x, output_x, input_y, output_y)
+
+
+
+
+
 # Balance supply and use ------------------------------------------------------
-sup_total <- merge(cbs[, .(area_code, com_code, year, sup_cbs = na_sum(production, imports, -exports))],
-  sup[, list(sup = na_sum(production)), 
+# allocate energy use
+cbs[, energy := 0]
+cbs[com_code %in% c("c03","c15","c16","c17","c18","c20"), `:=`(energy = dom_supply, processing = 0)]
+# balance processing
+cbs[, bal_processing := 0]
+cbs[processing < 0, `:=`(bal_processing = -processing, processing = 0, 
+  dom_supply = dom_supply + bal_processing, total_supply = total_supply + bal_processing)]
+# calculate total supply and use
+sup_total <- merge(cbs[, .(area_code, com_code, year, 
+  cbs_prod = na_sum(production, bal_prod, bal_byprod, bal_processing),
+  cbs_sup = dom_supply)],
+  sup[, list(sup_prod = na_sum(production)), 
   by = c("area_code", "com_code", "year")],
-  by = c("area_code", "com_code", "year"))
-use_total <- use[, list(use = na_sum(use), energy = na_sum(energy)), 
-  by = c("area_code", "com_code", "year")]
+  by = c("area_code", "com_code", "year"), all = TRUE)
+use_total <- merge(cbs[, .(area_code, com_code, year, 
+  cbs_use = na_sum(processing, energy))],
+  use[, list(use = na_sum(use)), 
+  by = c("area_code", "com_code", "year")],
+  by = c("area_code", "com_code", "year"), all = TRUE)
+use_total[, total_use := na_sum(use, cbs_use)]
 
 totals <- merge(sup_total, use_total)
-totals[, diff := na_sum(sup_cbs, -use, -energy)]
+totals <- totals[year %in% years]
+totals[, diff := na_sum(cbs_sup, -total_use)]
 totals[, `:=`(balancing = if_else(diff < 0, diff, 0), 
   final_use = if_else(diff > 0, diff, 0))]
 
+
+
+# read IEA data
+iea <- readRDS("input/energy.rds")
+energy <- totals[com_code %in% c("c03", "c15", "c17", "c18", "c20")]
+conversion <- fread("inst/tcf_energy.csv")
+energy <- merge(energy, conversion[, .(com_code, tcf)], by = "com_code")
+energy[, `:=`(final_use = (energy + final_use) * tcf,
+  energy = NULL, diff = NULL, balancing = NULL)]
+energy_totals <- merge(energy[, list(energy = na_sum(final_use)), by = c("area_code", "year")], 
+  iea[year %in% years & area_code %in% regions[baci == TRUE, area_code], 
+      .(area_code, area, year, iea = value * 1000)], 
+  by = c("area_code", "year"), all = TRUE)
+# calculate supply gap, i.e. where iea reports more solid biofuel use
+energy_totals[, diff := na_sum(iea, -energy) / conversion[com_code == "c03", tcf]]
+# ignore gap where iea does not report data
+energy_totals[is.na(iea), diff := 0]
+# add supply gap to sup
+sup <- rbindlist(list(sup, 
+  energy_totals[diff > 0, .(area_code, proc_code = 0, year, com_code = "c03", 
+  item = items[com_code == "c03", item], area, production = diff, process = 0, type = 0)]))
+# add negative supply gap (where iea reports less energy use) to balancing_energy
+cbs[, balancing_energy := 0]
+cbs <- rbindlist(list(cbs, 
+  energy_totals[diff < 0, .(area_code, year, com_code = "c03", area, 
+  item = items[com_code == "c03", item], unit = "m3", exports = 0, imports = 0, 
+  production = 0, total_supply = 0, processing = 0, balancing = 0, balancing_byprod = 0,
+  energy = 0, balancing_energy = diff)]))
+
+
+# derive total sup and use
+sup_total <- merge(cbs[, .(area_code, com_code, year, sup_cbs = na_sum(production, imports, -exports))],
+                   sup[, list(sup = na_sum(production)), 
+                       by = c("area_code", "com_code", "year")],
+                   by = c("area_code", "com_code", "year"))
+use_total <- use[, list(use = na_sum(use), energy = na_sum(energy)), 
+                 by = c("area_code", "com_code", "year")]
+
+totals <- merge(sup_total, use_total)
+totals <- totals[year %in% years]
+totals[, diff := na_sum(sup_cbs, -use, -energy)]
+totals[, `:=`(balancing = if_else(diff < 0, diff, 0), 
+              final_use = if_else(diff > 0, diff, 0))]
 
 
 # Allocate final demand ------------------------------------------------------
@@ -344,22 +391,6 @@ use_fd <- cbs[, .(year, area_code, area, com_code, item,
 # Remove unneeded variables
 use <- use[, c("year", "area_code", "area", "comm_code", "com_code", "item",
                "proc_code", "proc", "type", "use")]
-
-
-# IEA Total Energy Supply ---------------------------------------------------
-
-#Upload data
-energy <- fread("inst/iea_energy.csv")
-energy_area <- fread("inst/iea_area.csv")
-
-#Clean data
-energy <- rename(energy, "iea_area" = "country")
-energy <- merge(
-  energy[, .(iea_area, unit, product, flow, year, value)],
-  energy_area[, .(iea_area, area_code)],
-  by = c("iea_area"))
-energy <- energy[!is.na(energy$area_code),]
-energy[value == "..", `:=`(value = "NA")]
 
 
 
