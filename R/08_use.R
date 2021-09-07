@@ -186,11 +186,11 @@ results[, `:=`(roundwood = NULL, chips = NULL)]
 
 # Estimate feedstock composition for board production
 results[proc_code %in% c("p08","p09"), 
-        `:=`(value = if_else(com_code %in% c("c01","c02"), value * 0.05, value * 0.425))]
+  value := if_else(com_code %in% c("c01","c02"), value * 0.05, value * 0.425)]
 
 
 # Redistribute c/nc use according to availability 
-# for c06 veneer, c07 plywood, c10 osb, c11 pulp
+# for c06 veneer, c07 plywood, c08 fibreboard, c09 particle board, c10 osb, c11 pulp
 data <- merge(results[com_code %in% c("c01","c02"),], 
   source_use[, .(com_code=source_code, com_code_proc = com_code, type)], 
   by=c("com_code", "com_code_proc"))
@@ -198,38 +198,33 @@ data <- merge(results[com_code %in% c("c01","c02"),],
 data <- data[, list(value = sum(value, na.rm = TRUE)), 
   by = c("com_code", "year", "area_code", "type")]
 data <- spread(data, type, value)
-data <- merge(data, cbs[, .(area_code, com_code, year, processing)],
+data <- merge(data, cbs[, .(area_code, com_code, year, processing = na_sum(processing, bal_byprod, bal_prod))],
   by = c("area_code", "com_code", "year"))
 data[, `:=`(rest = processing - tcf, demand = na_sum(tcf_board, tcf_cnc, tcf_pulp), tcf = NULL)]
+data[, `:=`(rest = ifelse(rest < 0, 0, rest))]
 # sum up remaining roundwood per country
-totals <- data[, list(processing_total = na_sum(processing), rest_total = na_sum(rest), 
-  demand_total = na_sum(demand) / 2), by = c("year", "area_code")]
-totals[, `:=`(processing_total = ifelse(processing_total < 0, 0, processing_total), 
-  rest_total = ifelse(rest_total < 0, 0, rest_total))]
-data <- merge(data, totals[, .(year, area_code, processing_total, rest_total)],
+data <- merge(data, data[, list(rest_total = na_sum(rest)), by = c("year", "area_code")],
   by = c("year", "area_code"))
 # derive shares of remaining c & nc roundwood
-data[, `:=`(rest = rest / rest_total, processing = processing / processing_total)]
-data[, `:=`(rest = ifelse(!is.finite(rest), 0, rest), 
-  processing = ifelse(!is.finite(processing), 0, processing))]
-data[, `:=`(rest = ifelse(rest > 1, 1, rest), 
-  processing = ifelse(processing > 1, 1, processing))]
-data[, `:=`(rest = ifelse(rest < 0, 0, rest), 
-  processing = ifelse(processing < 0, 0, processing))]
-data[, `:=`(share = rest * rest_total / demand + processing * (demand - rest_total) / demand)]
+# data[, `:=`(rest = rest / rest_total, processing = processing / processing_total)]
+# data[, `:=`(rest = ifelse(!is.finite(rest), 0, rest), 
+#   processing = ifelse(!is.finite(processing), 0, processing))]
+# data[, `:=`(share = rest * rest_total / demand + processing * (demand - rest_total) / demand)]
+data[, share := rest / rest_total]
+data[, share := ifelse(!is.finite(share), 0, share)]
 
 # merge shares into results and apply to type 'tcf_cnc'
 results <- merge(results, data[, .(year, area_code, com_code, share)],
   by = c("year", "area_code", "com_code"), all.x = TRUE)
 results <- merge(results, source_use[, .(com_code=source_code, com_code_proc = com_code, type)], 
   by=c("com_code", "com_code_proc"))
-results[type!="tcf" & com_code %in% c("c01","c02"), `:=`(value = value * share)]
+results[type!="tcf" & com_code %in% c("c01","c02"), `:=`(value = round(value * share))]
 results[, share := NULL]
 
 
 # Redistribute input use for pellets production
 data <- results[type=="tcf_pellets", .(com_code, year, area_code, value)]
-data <- merge(data, cbs[, .(area_code, com_code, year, processing)],
+data <- merge(data, cbs[, .(area_code, com_code, year, processing = na_sum(processing, bal_byprod, bal_prod))],
   by = c("area_code", "com_code", "year"))
 data <- merge(data, data[com_code=="c18", .(year, area_code, share = processing / value)],
   by = c("year", "area_code"), all.x = TRUE)
@@ -291,17 +286,13 @@ use <- use[!is.na(use) & use != 0]
 
 # Update CBS ------------------------------------------------------------
 # Subtract from cbs processing (per item) 
-cbs <- merge(cbs, results[, list(value = na_sum(value)),
-  by = c("year", "area_code", "com_code")],
+cbs <- merge(cbs, use[, list(use = na_sum(use)), by = c("area_code", "year", "com_code")],
   by = c("area_code", "year", "com_code"), all.x = TRUE)
-cbs <- merge(cbs, use[type %in% c("100%","tcf_fill") & !is.na(use) & use > 0,
-  list(use = na_sum(use)), by = c("area_code", "year", "com_code")],
-  by = c("area_code", "year", "com_code"), all.x = TRUE)
-cbs[!is.na(value), processing := na_sum(processing, -value, -use)]
-cbs[, `:=`(value = NULL, use = NULL)]
+cbs[, processing := na_sum(processing, -use)]
+cbs[, use := NULL]
 
 
-rm(tcf, tcf_codes, tcf_data, areas, out, totals, data, pulp, tcf_board, tcf_pellets, tcf_pulp,
+rm(tcf, tcf_codes, tcf_data, areas, out, data, pulp, tcf_board, tcf_pellets, tcf_pulp,
    tcf_in, tcf_out, tcf_use, results, Cs, input, output, input_x, output_x, input_y, output_y)
 
 
@@ -311,7 +302,7 @@ rm(tcf, tcf_codes, tcf_data, areas, out, totals, data, pulp, tcf_board, tcf_pell
 # Balance supply and use ------------------------------------------------------
 # allocate energy use
 cbs[, energy := 0]
-cbs[com_code %in% c("c03","c15","c16","c17","c18","c20"), `:=`(energy = dom_supply, processing = 0)]
+cbs[com_code %in% c("c03","c15","c16","c17","c18","c20") & processing > 0, `:=`(energy = processing, processing = 0)]
 # balance processing
 cbs[, bal_processing := 0]
 cbs[processing < 0, `:=`(bal_processing = -processing, processing = 0, 
@@ -330,9 +321,9 @@ use_total <- merge(cbs[, .(area_code, com_code, year,
   by = c("area_code", "com_code", "year"), all = TRUE)
 use_total[, total_use := na_sum(use, cbs_use)]
 
-totals <- merge(sup_total, use_total)
+totals <- merge(sup_total, use_total, all = TRUE)
 totals <- totals[year %in% years]
-totals[, diff := na_sum(cbs_sup, -total_use)]
+totals[, `:=`(diff1 = na_sum(cbs_sup, -total_use), diff2 = na_sum(cbs_sup, -cbs_prod, sup_prod, -total_use))]
 totals[, `:=`(balancing = if_else(diff < 0, diff, 0), 
   final_use = if_else(diff > 0, diff, 0))]
 

@@ -101,9 +101,8 @@ cbs <- merge(cbs, sup[, list(production_new = na_sum(production)),
 cbs[, bal_byprod := round(na_sum(production_new, -production))]
 cbs[, `:=`(total_supply = na_sum(production, bal_byprod, imports), bal_prod = 0,
   dom_supply = na_sum(production, bal_byprod, imports, -exports), production_new = NULL)]
-cbs[dom_supply < 0, `:=`(bal_prod = -dom_supply, dom_supply = 0)]
-cbs[, `:=`(total_supply = na_sum(production, bal_byprod, bal_prod, imports),
-  dom_supply = na_sum(production, bal_byprod, bal_prod, imports, -exports))]
+cbs[dom_supply < 0, `:=`(bal_prod = -dom_supply, dom_supply = 0, 
+  total_supply = na_sum(production, bal_byprod, bal_prod, imports))]
 
 
 # Add supply from unknown sources

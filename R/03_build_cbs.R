@@ -30,14 +30,14 @@ fore[area_code==108 & com_code=="c02" & year %in% 2000:2001, exports := 0]
 
 
 
-# Balance supply and use ------------------------------------------------------
-
-fore[, `:=`(total_supply = na_sum(production, imports),
-   dom_supply = na_sum(production, imports, -exports),
-   bal_prod = 0)]
-fore[dom_supply < 0, `:=`(bal_prod = -dom_supply, dom_supply = 0)]
-fore[, `:=`(total_supply = na_sum(production, bal_prod, imports),
- dom_supply = na_sum(production, bal_prod, imports, -exports))]
+# # Balance supply and use ------------------------------------------------------
+# 
+# fore[, `:=`(total_supply = na_sum(production, imports),
+#    dom_supply = na_sum(production, imports, -exports),
+#    bal_prod = 0)]
+# fore[dom_supply < 0, `:=`(bal_prod = -dom_supply, dom_supply = 0)]
+# fore[, `:=`(total_supply = na_sum(production, bal_prod, imports),
+#  dom_supply = na_sum(production, bal_prod, imports, -exports))]
 
 
 
