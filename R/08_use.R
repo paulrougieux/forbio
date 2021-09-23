@@ -387,9 +387,9 @@ energy_totals[is.na(iea), diff := NA]
 
 
 # Allocate final demand ------------------------------------------------------
-totals[, area := regions$area[match(use_fd$area_code, regions$area_code)]]
+totals[, area := regions$area[match(totals$area_code, regions$area_code)]]
 totals[area_code==999, area := "RoW"]
-totals[, item := items$item[match(use_fd$com_code, items$com_code)]]
+totals[, item := items$item[match(totals$com_code, items$com_code)]]
 
 
 

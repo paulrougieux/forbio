@@ -1,5 +1,7 @@
 library(ggplot2)
 library(data.table)
+library("Matrix")
+
 
 #################################################################
 # Plot heatmap of Z (country x country)
@@ -128,14 +130,25 @@ agg <- function(x) {
   x <- as.matrix(x) %*% sapply(unique(colnames(x)),"==",colnames(x))
   return(x) }
 
+#Order regions 
+regions <- fread("inst/regions.csv")
+regions <- regions[baci==TRUE]
+regions <- regions[order(area_code)]
+
 Z <- readRDS("/mnt/nfs_fineprint/tmp/forbio/Z.rds")
 Z <- Z[["2017"]]
 Y <- readRDS("/mnt/nfs_fineprint/tmp/forbio/Y.rds")
 Y <- Y[["2017"]]
 
-regions <- read_csv("inst/regions.csv")
-# Austria is No 9 in the regions list
-reg <- 9
+colnames(Z) <- rownames(Z) <- paste0("r",sprintf("%03d", rep(regions$area_code, each=23)))
+colnames(Y) <- paste0("r",sprintf("%03d", rep(regions$area_code, each=2)))
+rownames(Y) <- paste0("r",sprintf("%03d", rep(regions$area_code, each=23)))
+
+
+# Austria's area_code is 11 but position is 9
+reg <- 11
+
+# Not sure if this is working since we did some changes in the regions' list
 Zdom <- cbind(Z[(23*(reg-1)+1):(23*reg),(23*(reg-1)+1):(23*reg)], Y[(23*(reg-1)+1):(23*reg),(2*(reg-1)+1):(2*reg)])
 Zimp <- cbind(Z[-((23*(reg-1)+1):(23*reg)),(23*(reg-1)+1):(23*reg)], Y[-((23*(reg-1)+1):(23*reg)),(2*(reg-1)+1):(2*reg)])
 Zexp <- cbind(Z[(23*(reg-1)+1):(23*reg),-((23*(reg-1)+1):(23*reg))], Y[(23*(reg-1)+1):(23*reg),-((2*(reg-1)+1):(2*reg))])
@@ -202,3 +215,71 @@ p <- ggplot(Zexp, aes(variable, rnames)) + geom_tile(aes(fill = ifelse(is.infini
 
 ggsave(filename = "./output/heatmap_z_aut_exp.png", plot = p, dpi = 640)
 
+
+#################################################################
+# Plot heatmap of Z and Y for China (product x product)
+#################################################################
+rm(list = ls()); gc()
+agg <- function(x) {
+  x <- as.matrix(x) %*% sapply(unique(colnames(x)),"==",colnames(x))
+  return(x) }
+
+regions <- fread("inst/regions.csv")
+regions <- regions[baci==TRUE]
+regions <- regions[order(area_code)]
+
+#Z <- readRDS("data/Z.rds")
+#Z <- as.matrix(Z[["2017"]])
+#Y <- readRDS("data/Y.rds")
+#Y <- as.matrix(Y[["2017"]])
+
+Z <- readRDS("/mnt/nfs_fineprint/tmp/forbio/Z.rds")
+Z <- Z[["2017"]]
+Y <- readRDS("/mnt/nfs_fineprint/tmp/forbio/Y.rds")
+Y <- Y[["2017"]]
+
+colnames(Z) <- rownames(Z) <- paste0("r",sprintf("%03d", rep(regions$area_code, each=23)))
+colnames(Y) <- paste0("r",sprintf("%03d", rep(regions$area_code, each=2)))
+rownames(Y) <- paste0("r",sprintf("%03d", rep(regions$area_code, each=23)))
+
+# China's area_code is 41, but no 35 in the list
+country <- 41
+#country <- 35
+
+colnames(Z)[colnames(Z) != paste0("r",sprintf("%03d", country))] <- "r999"
+rownames(Z)[rownames(Z) != paste0("r",sprintf("%03d", country))] <- "r999"
+colnames(Z) <- paste0(colnames(Z), "_", sprintf("%02d", rep(1:23, 222)))
+rownames(Z) <- paste0(rownames(Z), "_", sprintf("%02d", rep(1:23, 222)))
+Z <- t(agg(t(agg(Z[order(rownames(Z)), order(colnames(Z))]))))
+
+colnames(Y)[colnames(Y) != paste0("r",sprintf("%03d", country))] <- "r999"
+rownames(Y)[rownames(Y) != paste0("r",sprintf("%03d", country))] <- "r999"
+colnames(Y) <- paste0(colnames(Y), "_", rep(1:2, 222))
+rownames(Y) <- paste0(rownames(Y), "_", sprintf("%02d", rep(1:23, 222)))
+Y <- t(agg(t(agg(Y[order(rownames(Y)), order(colnames(Y))]))))
+
+Z[24:46, 24:46] <- 0
+Y[24:46, 3:4] <- 0
+
+X <- cbind(Z,Y)
+
+X <- data.table(X)
+# Add rownames to the data frame as a column
+X <- cbind(data.table(rnames=sprintf("%03d", 1:46)),X)
+# melt data for ggplot to draw graphs
+X <- data.table::melt(X)
+
+X$value <- round(X$value)
+
+X$rnames <- factor(X$rnames, labels = 46:1, levels = X$rnames[46:1])
+levels(X$variable) <- 1:50
+X$log <- log(X$value)
+X$log[!is.finite(X$log)] <- 0
+
+
+p <- ggplot(X, aes(variable, rnames)) + geom_tile(aes(fill = ifelse(is.infinite(log(value)), 0, log(value))), colour = "white") + 
+  viridis::scale_fill_viridis(direction = -1) + xlab("") + ylab("") + labs(fill="log(X)") +
+  theme(text = element_text(size=8)) + scale_x_discrete(breaks = c((1:50)), position = "top") + 
+  scale_y_discrete(breaks = c((1:46)))
+
+ggsave(filename = "./output/heatmap_z_y_chn_row.png", plot = p, dpi = 640)
