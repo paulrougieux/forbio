@@ -28,42 +28,55 @@ sup <- sup[year==yr]
 use <- use[year==yr]
 use_fd <- use_fd[year==yr]
 
-sup_totals <- aggregate(x = sup$production, by = list(sup$com_code, sup$proc_code), FUN = na_sum)
+sup_total <- aggregate(x = sup$production, by = list(sup$com_code, sup$proc_code), FUN = na_sum)
 
-use_totals <- aggregate(x = use$use, by = list(use$com_code, use$proc_code), FUN = na_sum)
+use_total <- aggregate(x = use$use, by = list(use$com_code, use$proc_code), FUN = na_sum)
 
 use_fd_mat <- aggregate(x = use_fd$material_use, by = list(use_fd$com_code), FUN = na_sum)
 use_fd_ene <- aggregate(x = use_fd$energy_use, by = list(use_fd$com_code), FUN = na_sum)
 
-# Convert into tC (SUP)
+## Convert into tC (SUP) ##
 
-sup_totals <- sup_totals %>% 
+sup_total <- sup_totals %>% 
                 rename(
                 com_code = Group.1,
                 proc_code = Group.2,
                 value = x
                 )
 
-sup_totals <- merge(sup_totals, carbon_cf[, .(com_code, tCdunit)],
+sup_total <- merge(sup_total, carbon_cf[, .(com_code, tCdunit)],
                     all.x = TRUE, by = "com_code")
 
-sup_totals$value_totals <- sup_totals$value * sup_totals$tCdunit
+sup_total$value_total <- sup_total$value * sup_total$tCdunit
+sup_total$value_total <- sup_total$value_total / 1000000
 
-# Convert into tC (USE)
+sup_table <- spread(sup_total, com_code, value_total, fill = NA)
+sup_table <- sup_table[, -3]
 
-use_totals <- use_totals %>%
+write.csv(sup_table,"./output/sup_table_2017.csv", row.names = FALSE)
+
+## Convert into tC (USE) ##
+
+use_total <- use_total %>%
                 rename(
                   com_code = Group.1,
                   proc_code = Group.2,
                   value = x
                  )
 
-use_totals <- merge(use_totals, carbon_cf[, .(com_code, tCdunit)],
+use_total <- merge(use_total, carbon_cf[, .(com_code, tCdunit)],
                     all.x = TRUE, by = "com_code")
 
-use_totals$value_totals <- use_totals$value * use_totals$tCdunit
+use_total$value_total <- use_total$value * use_total$tCdunit
+use_total$value_total <- use_total$value_total / 1000000
 
-# Convert into tC (energy USE)
+use_table <- spread(use_total, com_code, value_total, fill = NA)
+use_table <- use_table[, -3]
+
+write.csv(use_table,"./output/use_table_2017.csv", row.names = FALSE)
+
+
+## Convert into tC (energy USE) ##
 
 use_fd_ene <- use_fd_ene %>%
                       rename(
@@ -73,9 +86,12 @@ use_fd_ene <- use_fd_ene %>%
 use_fd_ene <- merge(use_fd_ene, carbon_cf[, .(com_code, tCdunit)],
                     all.x = TRUE, by = "com_code")
 
-use_fd_ene$value_totals <- use_fd_ene$value * use_fd_ene$tCdunit
+use_fd_ene$value_total <- use_fd_ene$value * use_fd_ene$tCdunit
+use_fd_ene$value_total <- use_fd_ene$value_total / 1000000
 
-# Convert into tC (material USE)
+write.csv(use_fd_ene,"./output/use_fdene_2017.csv", row.names = FALSE)
+
+## Convert into tC (material USE) ##
 
 use_fd_mat <- use_fd_mat %>%
   rename(
@@ -85,7 +101,10 @@ use_fd_mat <- use_fd_mat %>%
 use_fd_mat <- merge(use_fd_mat, carbon_cf[, .(com_code, tCdunit)],
                     all.x = TRUE, by = "com_code")
 
-use_fd_mat$value_totals <- use_fd_mat$value * use_fd_mat$tCdunit
+use_fd_mat$value_total <- use_fd_mat$value * use_fd_mat$tCdunit
+use_fd_mat$value_total <- use_fd_mat$value_total / 1000000
+
+write.csv(use_fd_mat,"./output/use_fdmat_2017.csv", row.names = FALSE)
 
 #---------------------------------------
 # GLOBAL RESULTS (2017) in m3 swe
