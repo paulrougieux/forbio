@@ -35,6 +35,11 @@ use_totals <- aggregate(x = use$use, by = list(use$com_code, use$proc_code), FUN
 use_fd_mat <- aggregate(x = use_fd$material_use, by = list(use_fd$com_code), FUN = na_sum)
 use_fd_ene <- aggregate(x = use_fd$energy_use, by = list(use_fd$com_code), FUN = na_sum)
 
+sup_total <- spread(sup_totals, Group.1, x, fill = 0)
+use_total <- spread(use_totals, Group.1, x, fill = 0)
+sup_total[,-1] <- round(sup_total[,-1] / 1000000)
+use_total[,-1] <- round(use_total[,-1] / 1000000)
+
 # Convert into tC (SUP)
 
 sup_totals <- sup_totals %>% 
