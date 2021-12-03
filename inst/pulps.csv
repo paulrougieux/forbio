@@ -55,7 +55,7 @@ area_code;area;proc_code;process;roundwood;chips
 64;Faroe Islands;p11a;Chemical pulp production;;
 65;Falkland Islands (Malvinas);p11a;Chemical pulp production;;
 66;Fiji;p11a;Chemical pulp production;;
-67;Finland;p11a;Chemical pulp production;0.90;0.10
+67;Finland;p11a;Chemical pulp production;0.9;0.1
 68;France;p11a;Chemical pulp production;;
 69;French Guyana;p11a;Chemical pulp production;;
 70;French Polynesia;p11a;Chemical pulp production;;
@@ -171,7 +171,7 @@ area_code;area;proc_code;process;roundwood;chips
 207;Suriname;p11a;Chemical pulp production;;
 208;Tajikistan;p11a;Chemical pulp production;;
 209;Eswatini;p11a;Chemical pulp production;;
-210;Sweden;p11a;Chemical pulp production;;
+210;Sweden;p11a;Chemical pulp production;0.77;0.23
 211;Switzerland;p11a;Chemical pulp production;;
 212;Syrian Arab Republic;p11a;Chemical pulp production;;
 213;Turkmenistan;p11a;Chemical pulp production;;
@@ -237,7 +237,7 @@ area_code;area;proc_code;process;roundwood;chips
 243;Wallis and Futuna Islands;p11a;Chemical pulp production;;
 248;Yugoslav SFR;p11a;Chemical pulp production;;
 258;Anguilla;p11a;Chemical pulp production;;
-279;CuraÃ§ao;p11a;Chemical pulp production;;
+279;Curaçao;p11a;Chemical pulp production;;
 281;Saint-Martin (French Part);p11a;Chemical pulp production;;
 299;Palestine;p11a;Chemical pulp production;;
 252;Unspecified Area;p11a;Chemical pulp production;;
@@ -304,7 +304,7 @@ area_code;area;proc_code;process;roundwood;chips
 64;Faroe Islands;p11b;Mechanical and semi-chemical pulp production;;
 65;Falkland Islands (Malvinas);p11b;Mechanical and semi-chemical pulp production;;
 66;Fiji;p11b;Mechanical and semi-chemical pulp production;;
-67;Finland;p11b;Mechanical and semi-chemical pulp production;0.90;0.10
+67;Finland;p11b;Mechanical and semi-chemical pulp production;0.9;0.1
 68;France;p11b;Mechanical and semi-chemical pulp production;;
 69;French Guyana;p11b;Mechanical and semi-chemical pulp production;;
 70;French Polynesia;p11b;Mechanical and semi-chemical pulp production;;
@@ -420,7 +420,7 @@ area_code;area;proc_code;process;roundwood;chips
 207;Suriname;p11b;Mechanical and semi-chemical pulp production;;
 208;Tajikistan;p11b;Mechanical and semi-chemical pulp production;;
 209;Eswatini;p11b;Mechanical and semi-chemical pulp production;;
-210;Sweden;p11b;Mechanical and semi-chemical pulp production;;
+210;Sweden;p11b;Mechanical and semi-chemical pulp production;0.77;0.23
 211;Switzerland;p11b;Mechanical and semi-chemical pulp production;;
 212;Syrian Arab Republic;p11b;Mechanical and semi-chemical pulp production;;
 213;Turkmenistan;p11b;Mechanical and semi-chemical pulp production;;
@@ -486,7 +486,7 @@ area_code;area;proc_code;process;roundwood;chips
 243;Wallis and Futuna Islands;p11b;Mechanical and semi-chemical pulp production;;
 248;Yugoslav SFR;p11b;Mechanical and semi-chemical pulp production;;
 258;Anguilla;p11b;Mechanical and semi-chemical pulp production;;
-279;CuraÃ§ao;p11b;Mechanical and semi-chemical pulp production;;
+279;Curaçao;p11b;Mechanical and semi-chemical pulp production;;
 281;Saint-Martin (French Part);p11b;Mechanical and semi-chemical pulp production;;
 299;Palestine;p11b;Mechanical and semi-chemical pulp production;;
 252;Unspecified Area;p11b;Mechanical and semi-chemical pulp production;;
@@ -553,7 +553,7 @@ area_code;area;proc_code;process;roundwood;chips
 64;Faroe Islands;p11d;Dissolving pulp production;;
 65;Falkland Islands (Malvinas);p11d;Dissolving pulp production;;
 66;Fiji;p11d;Dissolving pulp production;;
-67;Finland;p11d;Dissolving pulp production;0.90;0.10
+67;Finland;p11d;Dissolving pulp production;0.9;0.1
 68;France;p11d;Dissolving pulp production;;
 69;French Guyana;p11d;Dissolving pulp production;;
 70;French Polynesia;p11d;Dissolving pulp production;;
@@ -669,7 +669,7 @@ area_code;area;proc_code;process;roundwood;chips
 207;Suriname;p11d;Dissolving pulp production;;
 208;Tajikistan;p11d;Dissolving pulp production;;
 209;Eswatini;p11d;Dissolving pulp production;;
-210;Sweden;p11d;Dissolving pulp production;;
+210;Sweden;p11d;Dissolving pulp production;0.77;0.23
 211;Switzerland;p11d;Dissolving pulp production;;
 212;Syrian Arab Republic;p11d;Dissolving pulp production;;
 213;Turkmenistan;p11d;Dissolving pulp production;;
@@ -735,7 +735,7 @@ area_code;area;proc_code;process;roundwood;chips
 243;Wallis and Futuna Islands;p11d;Dissolving pulp production;;
 248;Yugoslav SFR;p11d;Dissolving pulp production;;
 258;Anguilla;p11d;Dissolving pulp production;;
-279;CuraÃ§ao;p11d;Dissolving pulp production;;
+279;Curaçao;p11d;Dissolving pulp production;;
 281;Saint-Martin (French Part);p11d;Dissolving pulp production;;
 299;Palestine;p11d;Dissolving pulp production;;
 252;Unspecified Area;p11d;Dissolving pulp production;;

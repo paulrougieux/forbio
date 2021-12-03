@@ -1,6 +1,6 @@
 proc_code;process;com_code;item;share;type
 p04;Sawnmill industry, coniferous;c01;Industrial roundwood, coniferous;1;tcf
-p05;Sawnmill industry, non-coniferous all;c02;Industrial roundwood, non-coniferous;1;tcf
+p05;Sawnmill industry, non-coniferous;c02;Industrial roundwood, non-coniferous;1;tcf
 p06;Veneer production;c01;Industrial roundwood, coniferous;1;tcf_cnc
 p06;Veneer production;c02;Industrial roundwood, non-coniferous;1;tcf_cnc
 p07;Plywood production;c01;Industrial roundwood, coniferous;1;tcf_cnc
@@ -33,7 +33,7 @@ p14;Paper and paperboard production;c11b;Mechanical and semi-chemical wood pulp;
 p14;Paper and paperboard production;c11c;Pulp from fibres other than wood;1;100%
 p14;Paper and paperboard production;c12;Recovered paper;0;100%
 p14;Paper and paperboard production;c13;Recovered fibre pulp;1;tcf_fill
-p15;Pellet production;c03;Wood fuel;0.15;tcf_pellets
-p15;Pellet production;c17;Wood chips and particles;0.2;tcf_pellets
-p15;Pellet production;c18;Wood residues;0.65;tcf_pellets
+p15;Pellet and agglomerate production;c03;Wood fuel;0.15;tcf_pellets
+p15;Pellet and agglomerate production;c17;Wood chips and particles;0.2;tcf_pellets
+p15;Pellet and agglomerate production;c18;Wood residues;0.65;tcf_pellets
 p16;Charcoal production;c03;Wood fuel;1;tcf

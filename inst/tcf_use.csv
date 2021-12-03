@@ -237,7 +237,7 @@ area_code;area;com_code;item;source_code;source;unit;tcf
 243;Wallis and Futuna Islands;c01;Industrial roundwood, coniferous;NA;NA;m3rw/m3p;1
 248;Yugoslav SFR;c01;Industrial roundwood, coniferous;NA;NA;m3rw/m3p;1
 258;Anguilla;c01;Industrial roundwood, coniferous;NA;NA;m3rw/m3p;1
-279;Cura√ßao;c01;Industrial roundwood, coniferous;NA;NA;m3rw/m3p;1
+279;CuraÁao;c01;Industrial roundwood, coniferous;NA;NA;m3rw/m3p;1
 281;Saint-Martin (French Part);c01;Industrial roundwood, coniferous;NA;NA;m3rw/m3p;1
 299;Palestine;c01;Industrial roundwood, coniferous;NA;NA;m3rw/m3p;1
 252;Unspecified Area;c01;Industrial roundwood, coniferous;NA;NA;m3rw/m3p;1
@@ -486,7 +486,7 @@ area_code;area;com_code;item;source_code;source;unit;tcf
 243;Wallis and Futuna Islands;c02;Industrial roundwood, non-coniferous;NA;NA;m3rw/m3p;1
 248;Yugoslav SFR;c02;Industrial roundwood, non-coniferous;NA;NA;m3rw/m3p;1
 258;Anguilla;c02;Industrial roundwood, non-coniferous;NA;NA;m3rw/m3p;1
-279;Cura√ßao;c02;Industrial roundwood, non-coniferous;NA;NA;m3rw/m3p;1
+279;CuraÁao;c02;Industrial roundwood, non-coniferous;NA;NA;m3rw/m3p;1
 281;Saint-Martin (French Part);c02;Industrial roundwood, non-coniferous;NA;NA;m3rw/m3p;1
 299;Palestine;c02;Industrial roundwood, non-coniferous;NA;NA;m3rw/m3p;1
 252;Unspecified Area;c02;Industrial roundwood, non-coniferous;NA;NA;m3rw/m3p;1
@@ -735,7 +735,7 @@ area_code;area;com_code;item;source_code;source;unit;tcf
 243;Wallis and Futuna Islands;c03;Wood fuel;NA;NA;m3rw/m3p;1
 248;Yugoslav SFR;c03;Wood fuel;NA;NA;m3rw/m3p;1
 258;Anguilla;c03;Wood fuel;NA;NA;m3rw/m3p;1
-279;Cura√ßao;c03;Wood fuel;NA;NA;m3rw/m3p;1
+279;CuraÁao;c03;Wood fuel;NA;NA;m3rw/m3p;1
 281;Saint-Martin (French Part);c03;Wood fuel;NA;NA;m3rw/m3p;1
 299;Palestine;c03;Wood fuel;NA;NA;m3rw/m3p;1
 252;Unspecified Area;c03;Wood fuel;NA;NA;m3rw/m3p;1
@@ -984,7 +984,7 @@ area_code;area;com_code;item;source_code;source;unit;tcf
 243;Wallis and Futuna Islands;c03;Wood fuel;NA;NA;m3rw/tonne;0
 248;Yugoslav SFR;c03;Wood fuel;NA;NA;m3rw/tonne;0
 258;Anguilla;c03;Wood fuel;NA;NA;m3rw/tonne;0
-279;Cura√ßao;c03;Wood fuel;NA;NA;m3rw/tonne;0
+279;CuraÁao;c03;Wood fuel;NA;NA;m3rw/tonne;0
 281;Saint-Martin (French Part);c03;Wood fuel;NA;NA;m3rw/tonne;0
 299;Palestine;c03;Wood fuel;NA;NA;m3rw/tonne;0
 252;Unspecified Area;c03;Wood fuel;NA;NA;m3rw/tonne;0
@@ -1233,7 +1233,7 @@ area_code;area;com_code;item;source_code;source;unit;tcf
 243;Wallis and Futuna Islands;c04;Sawnwood, coniferous;c01;Industrial roundwood, coniferous;m3rw/m3p;0
 248;Yugoslav SFR;c04;Sawnwood, coniferous;c01;Industrial roundwood, coniferous;m3rw/m3p;0
 258;Anguilla;c04;Sawnwood, coniferous;c01;Industrial roundwood, coniferous;m3rw/m3p;0
-279;Cura√ßao;c04;Sawnwood, coniferous;c01;Industrial roundwood, coniferous;m3rw/m3p;0
+279;CuraÁao;c04;Sawnwood, coniferous;c01;Industrial roundwood, coniferous;m3rw/m3p;0
 281;Saint-Martin (French Part);c04;Sawnwood, coniferous;c01;Industrial roundwood, coniferous;m3rw/m3p;0
 299;Palestine;c04;Sawnwood, coniferous;c01;Industrial roundwood, coniferous;m3rw/m3p;0
 252;Unspecified Area;c04;Sawnwood, coniferous;c01;Industrial roundwood, coniferous;m3rw/m3p;0
@@ -1482,7 +1482,7 @@ area_code;area;com_code;item;source_code;source;unit;tcf
 243;Wallis and Futuna Islands;c05;Sawnwood, non-coniferous all;c02;Industrial roundwood, non-coniferous;m3rw/m3p;0
 248;Yugoslav SFR;c05;Sawnwood, non-coniferous all;c02;Industrial roundwood, non-coniferous;m3rw/m3p;0
 258;Anguilla;c05;Sawnwood, non-coniferous all;c02;Industrial roundwood, non-coniferous;m3rw/m3p;0
-279;Cura√ßao;c05;Sawnwood, non-coniferous all;c02;Industrial roundwood, non-coniferous;m3rw/m3p;0
+279;CuraÁao;c05;Sawnwood, non-coniferous all;c02;Industrial roundwood, non-coniferous;m3rw/m3p;0
 281;Saint-Martin (French Part);c05;Sawnwood, non-coniferous all;c02;Industrial roundwood, non-coniferous;m3rw/m3p;0
 299;Palestine;c05;Sawnwood, non-coniferous all;c02;Industrial roundwood, non-coniferous;m3rw/m3p;0
 252;Unspecified Area;c05;Sawnwood, non-coniferous all;c02;Industrial roundwood, non-coniferous;m3rw/m3p;0
@@ -1731,7 +1731,7 @@ area_code;area;com_code;item;source_code;source;unit;tcf
 243;Wallis and Futuna Islands;c06;Veneer sheets;c01;Industrial roundwood, coniferous;m3rw/m3p;0
 248;Yugoslav SFR;c06;Veneer sheets;c01;Industrial roundwood, coniferous;m3rw/m3p;0
 258;Anguilla;c06;Veneer sheets;c01;Industrial roundwood, coniferous;m3rw/m3p;0
-279;Cura√ßao;c06;Veneer sheets;c01;Industrial roundwood, coniferous;m3rw/m3p;0
+279;CuraÁao;c06;Veneer sheets;c01;Industrial roundwood, coniferous;m3rw/m3p;0
 281;Saint-Martin (French Part);c06;Veneer sheets;c01;Industrial roundwood, coniferous;m3rw/m3p;0
 299;Palestine;c06;Veneer sheets;c01;Industrial roundwood, coniferous;m3rw/m3p;0
 252;Unspecified Area;c06;Veneer sheets;c01;Industrial roundwood, coniferous;m3rw/m3p;0
@@ -1980,7 +1980,7 @@ area_code;area;com_code;item;source_code;source;unit;tcf
 243;Wallis and Futuna Islands;c06;Veneer sheets;c02;Industrial roundwood, non-coniferous;m3rw/m3p;0
 248;Yugoslav SFR;c06;Veneer sheets;c02;Industrial roundwood, non-coniferous;m3rw/m3p;0
 258;Anguilla;c06;Veneer sheets;c02;Industrial roundwood, non-coniferous;m3rw/m3p;0
-279;Cura√ßao;c06;Veneer sheets;c02;Industrial roundwood, non-coniferous;m3rw/m3p;0
+279;CuraÁao;c06;Veneer sheets;c02;Industrial roundwood, non-coniferous;m3rw/m3p;0
 281;Saint-Martin (French Part);c06;Veneer sheets;c02;Industrial roundwood, non-coniferous;m3rw/m3p;0
 299;Palestine;c06;Veneer sheets;c02;Industrial roundwood, non-coniferous;m3rw/m3p;0
 252;Unspecified Area;c06;Veneer sheets;c02;Industrial roundwood, non-coniferous;m3rw/m3p;0
@@ -2229,7 +2229,7 @@ area_code;area;com_code;item;source_code;source;unit;tcf
 243;Wallis and Futuna Islands;c07;Plywood;c01;Industrial roundwood, coniferous;m3rw/m3p;0
 248;Yugoslav SFR;c07;Plywood;c01;Industrial roundwood, coniferous;m3rw/m3p;0
 258;Anguilla;c07;Plywood;c01;Industrial roundwood, coniferous;m3rw/m3p;0
-279;Cura√ßao;c07;Plywood;c01;Industrial roundwood, coniferous;m3rw/m3p;0
+279;CuraÁao;c07;Plywood;c01;Industrial roundwood, coniferous;m3rw/m3p;0
 281;Saint-Martin (French Part);c07;Plywood;c01;Industrial roundwood, coniferous;m3rw/m3p;0
 299;Palestine;c07;Plywood;c01;Industrial roundwood, coniferous;m3rw/m3p;0
 252;Unspecified Area;c07;Plywood;c01;Industrial roundwood, coniferous;m3rw/m3p;0
@@ -2478,7 +2478,7 @@ area_code;area;com_code;item;source_code;source;unit;tcf
 243;Wallis and Futuna Islands;c07;Plywood;c02;Industrial roundwood, non-coniferous;m3rw/m3p;0
 248;Yugoslav SFR;c07;Plywood;c02;Industrial roundwood, non-coniferous;m3rw/m3p;0
 258;Anguilla;c07;Plywood;c02;Industrial roundwood, non-coniferous;m3rw/m3p;0
-279;Cura√ßao;c07;Plywood;c02;Industrial roundwood, non-coniferous;m3rw/m3p;0
+279;CuraÁao;c07;Plywood;c02;Industrial roundwood, non-coniferous;m3rw/m3p;0
 281;Saint-Martin (French Part);c07;Plywood;c02;Industrial roundwood, non-coniferous;m3rw/m3p;0
 299;Palestine;c07;Plywood;c02;Industrial roundwood, non-coniferous;m3rw/m3p;0
 252;Unspecified Area;c07;Plywood;c02;Industrial roundwood, non-coniferous;m3rw/m3p;0
@@ -2489,255 +2489,255 @@ area_code;area;com_code;item;source_code;source;unit;tcf
 ;LAM;c07;Plywood;c02;Industrial roundwood, non-coniferous;m3rw/m3p;2.19
 ;OCE;c07;Plywood;c02;Industrial roundwood, non-coniferous;m3rw/m3p;0
 ;NAM;c07;Plywood;c02;Industrial roundwood, non-coniferous;m3rw/m3p;2.09
-1;Armenia;c08;Fibreboard;NA;NA;m3sw/m3p;0
-2;Afghanistan;c08;Fibreboard;NA;NA;m3sw/m3p;0
-3;Albania;c08;Fibreboard;NA;NA;m3sw/m3p;0
-4;Algeria;c08;Fibreboard;NA;NA;m3sw/m3p;0
-6;Andorra;c08;Fibreboard;NA;NA;m3sw/m3p;0
-7;Angola;c08;Fibreboard;NA;NA;m3sw/m3p;0
-9;Argentina;c08;Fibreboard;NA;NA;m3sw/m3p;0
-10;Australia;c08;Fibreboard;NA;NA;m3sw/m3p;0
-11;Austria;c08;Fibreboard;NA;NA;m3sw/m3p;0
-12;Bahamas;c08;Fibreboard;NA;NA;m3sw/m3p;0
-13;Bahrain;c08;Fibreboard;NA;NA;m3sw/m3p;0
-14;Barbados;c08;Fibreboard;NA;NA;m3sw/m3p;0
-15;Belgium-Luxembourg;c08;Fibreboard;NA;NA;m3sw/m3p;0
-16;Bangladesh;c08;Fibreboard;NA;NA;m3sw/m3p;0
-18;Bhutan;c08;Fibreboard;NA;NA;m3sw/m3p;0
-19;Bolivia (Plurinational State of);c08;Fibreboard;NA;NA;m3sw/m3p;0
-20;Botswana;c08;Fibreboard;NA;NA;m3sw/m3p;0
-21;Brazil;c08;Fibreboard;NA;NA;m3sw/m3p;0
-22;Aruba;c08;Fibreboard;NA;NA;m3sw/m3p;0
-23;Belize;c08;Fibreboard;NA;NA;m3sw/m3p;0
-25;Solomon Islands;c08;Fibreboard;NA;NA;m3sw/m3p;0
-26;Brunei Darussalam;c08;Fibreboard;NA;NA;m3sw/m3p;0
-27;Bulgaria;c08;Fibreboard;NA;NA;m3sw/m3p;0
-28;Myanmar;c08;Fibreboard;NA;NA;m3sw/m3p;0
-29;Burundi;c08;Fibreboard;NA;NA;m3sw/m3p;0
-32;Cameroon;c08;Fibreboard;NA;NA;m3sw/m3p;0
-33;Canada;c08;Fibreboard;NA;NA;m3sw/m3p;1.62
-35;Cabo Verde;c08;Fibreboard;NA;NA;m3sw/m3p;0
-37;Central African Republic;c08;Fibreboard;NA;NA;m3sw/m3p;0
-38;Sri Lanka;c08;Fibreboard;NA;NA;m3sw/m3p;0
-39;Chad;c08;Fibreboard;NA;NA;m3sw/m3p;0
-40;Chile;c08;Fibreboard;NA;NA;m3sw/m3p;1.95
-41;China, mainland;c08;Fibreboard;NA;NA;m3sw/m3p;1.8
-42;Christmas Island;c08;Fibreboard;NA;NA;m3sw/m3p;0
-44;Colombia;c08;Fibreboard;NA;NA;m3sw/m3p;0
-45;Comoros;c08;Fibreboard;NA;NA;m3sw/m3p;0
-46;Congo;c08;Fibreboard;NA;NA;m3sw/m3p;0
-47;Cook Islands;c08;Fibreboard;NA;NA;m3sw/m3p;0
-48;Costa Rica;c08;Fibreboard;NA;NA;m3sw/m3p;0
-49;Cuba;c08;Fibreboard;NA;NA;m3sw/m3p;0
-50;Cyprus;c08;Fibreboard;NA;NA;m3sw/m3p;0
-51;Czechoslovakia;c08;Fibreboard;NA;NA;m3sw/m3p;0
-52;Azerbaijan;c08;Fibreboard;NA;NA;m3sw/m3p;0
-53;Benin;c08;Fibreboard;NA;NA;m3sw/m3p;0
-54;Denmark;c08;Fibreboard;NA;NA;m3sw/m3p;0
-55;Dominica;c08;Fibreboard;NA;NA;m3sw/m3p;0
-56;Dominican Republic;c08;Fibreboard;NA;NA;m3sw/m3p;0
-57;Belarus;c08;Fibreboard;NA;NA;m3sw/m3p;0
-58;Ecuador;c08;Fibreboard;NA;NA;m3sw/m3p;0
-59;Egypt;c08;Fibreboard;NA;NA;m3sw/m3p;0
-60;El Salvador;c08;Fibreboard;NA;NA;m3sw/m3p;0
-61;Equatorial Guinea;c08;Fibreboard;NA;NA;m3sw/m3p;0
-63;Estonia;c08;Fibreboard;NA;NA;m3sw/m3p;0
-64;Faroe Islands;c08;Fibreboard;NA;NA;m3sw/m3p;0
-65;Falkland Islands (Malvinas);c08;Fibreboard;NA;NA;m3sw/m3p;0
-66;Fiji;c08;Fibreboard;NA;NA;m3sw/m3p;0
-67;Finland;c08;Fibreboard;NA;NA;m3sw/m3p;0
-68;France;c08;Fibreboard;NA;NA;m3sw/m3p;1.87
-69;French Guyana;c08;Fibreboard;NA;NA;m3sw/m3p;0
-70;French Polynesia;c08;Fibreboard;NA;NA;m3sw/m3p;0
-72;Djibouti;c08;Fibreboard;NA;NA;m3sw/m3p;0
-73;Georgia;c08;Fibreboard;NA;NA;m3sw/m3p;0
-74;Gabon;c08;Fibreboard;NA;NA;m3sw/m3p;0
-75;Gambia;c08;Fibreboard;NA;NA;m3sw/m3p;0
-79;Germany;c08;Fibreboard;NA;NA;m3sw/m3p;2.05
-80;Bosnia and Herzegovina;c08;Fibreboard;NA;NA;m3sw/m3p;0
-81;Ghana;c08;Fibreboard;NA;NA;m3sw/m3p;0
-82;Gibraltar;c08;Fibreboard;NA;NA;m3sw/m3p;0
-83;Kiribati;c08;Fibreboard;NA;NA;m3sw/m3p;0
-84;Greece;c08;Fibreboard;NA;NA;m3sw/m3p;0
-87;Guadeloupe;c08;Fibreboard;NA;NA;m3sw/m3p;0
-89;Guatemala;c08;Fibreboard;NA;NA;m3sw/m3p;0
-90;Guinea;c08;Fibreboard;NA;NA;m3sw/m3p;0
-91;Guyana;c08;Fibreboard;NA;NA;m3sw/m3p;0
-93;Haiti;c08;Fibreboard;NA;NA;m3sw/m3p;0
-95;Honduras;c08;Fibreboard;NA;NA;m3sw/m3p;0
-96;China, Hong Kong SAR;c08;Fibreboard;NA;NA;m3sw/m3p;0
-97;Hungary;c08;Fibreboard;NA;NA;m3sw/m3p;0
-98;Croatia;c08;Fibreboard;NA;NA;m3sw/m3p;0
-99;Iceland;c08;Fibreboard;NA;NA;m3sw/m3p;0
-100;India;c08;Fibreboard;NA;NA;m3sw/m3p;0
-101;Indonesia;c08;Fibreboard;NA;NA;m3sw/m3p;0
-102;Iran (Islamic Republic of);c08;Fibreboard;NA;NA;m3sw/m3p;1.8
-103;Iraq;c08;Fibreboard;NA;NA;m3sw/m3p;0
-104;Ireland;c08;Fibreboard;NA;NA;m3sw/m3p;1.93
-105;Israel;c08;Fibreboard;NA;NA;m3sw/m3p;0
-106;Italy;c08;Fibreboard;NA;NA;m3sw/m3p;0
-107;Cote d'Ivoire;c08;Fibreboard;NA;NA;m3sw/m3p;0
-108;Kazakhstan;c08;Fibreboard;NA;NA;m3sw/m3p;0
-109;Jamaica;c08;Fibreboard;NA;NA;m3sw/m3p;0
-110;Japan;c08;Fibreboard;NA;NA;m3sw/m3p;0
-112;Jordan;c08;Fibreboard;NA;NA;m3sw/m3p;0
-113;Kyrgyzstan;c08;Fibreboard;NA;NA;m3sw/m3p;0
-114;Kenya;c08;Fibreboard;NA;NA;m3sw/m3p;0
-115;Cambodia;c08;Fibreboard;NA;NA;m3sw/m3p;0
-116;Democratic People's Republic of Korea;c08;Fibreboard;NA;NA;m3sw/m3p;0
-117;Republic of Korea;c08;Fibreboard;NA;NA;m3sw/m3p;0
-118;Kuwait;c08;Fibreboard;NA;NA;m3sw/m3p;0
-119;Latvia;c08;Fibreboard;NA;NA;m3sw/m3p;0
-120;Lao People's Democratic Republic;c08;Fibreboard;NA;NA;m3sw/m3p;0
-121;Lebanon;c08;Fibreboard;NA;NA;m3sw/m3p;0
-122;Lesotho;c08;Fibreboard;NA;NA;m3sw/m3p;0
-123;Liberia;c08;Fibreboard;NA;NA;m3sw/m3p;0
-124;Libya;c08;Fibreboard;NA;NA;m3sw/m3p;0
-125;Liechtenstein;c08;Fibreboard;NA;NA;m3sw/m3p;0
-126;Lithuania;c08;Fibreboard;NA;NA;m3sw/m3p;2.03
-128;China, Macao SAR;c08;Fibreboard;NA;NA;m3sw/m3p;0
-129;Madagascar;c08;Fibreboard;NA;NA;m3sw/m3p;0
-130;Malawi;c08;Fibreboard;NA;NA;m3sw/m3p;0
-131;Malaysia;c08;Fibreboard;NA;NA;m3sw/m3p;0
-132;Maldives;c08;Fibreboard;NA;NA;m3sw/m3p;0
-133;Mali;c08;Fibreboard;NA;NA;m3sw/m3p;0
-134;Malta;c08;Fibreboard;NA;NA;m3sw/m3p;0
-135;Martinique;c08;Fibreboard;NA;NA;m3sw/m3p;0
-136;Mauritania;c08;Fibreboard;NA;NA;m3sw/m3p;0
-137;Mauritius;c08;Fibreboard;NA;NA;m3sw/m3p;0
-138;Mexico;c08;Fibreboard;NA;NA;m3sw/m3p;1.9
-141;Mongolia;c08;Fibreboard;NA;NA;m3sw/m3p;0
-143;Morocco;c08;Fibreboard;NA;NA;m3sw/m3p;0
-144;Mozambique;c08;Fibreboard;NA;NA;m3sw/m3p;0
-145;Micronesia (Federated States of);c08;Fibreboard;NA;NA;m3sw/m3p;0
-146;Republic of Moldova;c08;Fibreboard;NA;NA;m3sw/m3p;0
-147;Namibia;c08;Fibreboard;NA;NA;m3sw/m3p;0
-149;Nepal;c08;Fibreboard;NA;NA;m3sw/m3p;0
-150;Netherlands;c08;Fibreboard;NA;NA;m3sw/m3p;0
-151;Netherlands Antilles;c08;Fibreboard;NA;NA;m3sw/m3p;0
-153;New Caledonia;c08;Fibreboard;NA;NA;m3sw/m3p;0
-154;North Macedonia;c08;Fibreboard;NA;NA;m3sw/m3p;0
-155;Vanuatu;c08;Fibreboard;NA;NA;m3sw/m3p;0
-156;New Zealand;c08;Fibreboard;NA;NA;m3sw/m3p;0
-157;Nicaragua;c08;Fibreboard;NA;NA;m3sw/m3p;0
-158;Niger;c08;Fibreboard;NA;NA;m3sw/m3p;0
-159;Nigeria;c08;Fibreboard;NA;NA;m3sw/m3p;0
-160;Niue;c08;Fibreboard;NA;NA;m3sw/m3p;0
-161;Norfolk Island;c08;Fibreboard;NA;NA;m3sw/m3p;0
-162;Norway;c08;Fibreboard;NA;NA;m3sw/m3p;0
-165;Pakistan;c08;Fibreboard;NA;NA;m3sw/m3p;0
-166;Panama;c08;Fibreboard;NA;NA;m3sw/m3p;0
-167;Czechia;c08;Fibreboard;NA;NA;m3sw/m3p;0
-168;Papua New Guinea;c08;Fibreboard;NA;NA;m3sw/m3p;0
-169;Paraguay;c08;Fibreboard;NA;NA;m3sw/m3p;0
-170;Peru;c08;Fibreboard;NA;NA;m3sw/m3p;0
-171;Philippines;c08;Fibreboard;NA;NA;m3sw/m3p;0
-173;Poland;c08;Fibreboard;NA;NA;m3sw/m3p;2.1
-174;Portugal;c08;Fibreboard;NA;NA;m3sw/m3p;1.9
-175;Guinea-Bissau;c08;Fibreboard;NA;NA;m3sw/m3p;0
-176;Timor-Leste;c08;Fibreboard;NA;NA;m3sw/m3p;0
-178;Eritrea;c08;Fibreboard;NA;NA;m3sw/m3p;0
-179;Qatar;c08;Fibreboard;NA;NA;m3sw/m3p;0
-181;Zimbabwe;c08;Fibreboard;NA;NA;m3sw/m3p;0
-182;Reunion;c08;Fibreboard;NA;NA;m3sw/m3p;0
-183;Romania;c08;Fibreboard;NA;NA;m3sw/m3p;0
-184;Rwanda;c08;Fibreboard;NA;NA;m3sw/m3p;0
-185;Russian Federation;c08;Fibreboard;NA;NA;m3sw/m3p;0
-186;Serbia and Montenegro;c08;Fibreboard;NA;NA;m3sw/m3p;0
-189;Saint Lucia;c08;Fibreboard;NA;NA;m3sw/m3p;0
-190;Saint Pierre and Miquelon;c08;Fibreboard;NA;NA;m3sw/m3p;0
-191;Saint Vincent and the Grenadines;c08;Fibreboard;NA;NA;m3sw/m3p;0
-193;Sao Tome and Principe;c08;Fibreboard;NA;NA;m3sw/m3p;0
-194;Saudi Arabia;c08;Fibreboard;NA;NA;m3sw/m3p;0
-195;Senegal;c08;Fibreboard;NA;NA;m3sw/m3p;0
-196;Seychelles;c08;Fibreboard;NA;NA;m3sw/m3p;0
-197;Sierra Leone;c08;Fibreboard;NA;NA;m3sw/m3p;0
-198;Slovenia;c08;Fibreboard;NA;NA;m3sw/m3p;1.8
-199;Slovakia;c08;Fibreboard;NA;NA;m3sw/m3p;0
-200;Singapore;c08;Fibreboard;NA;NA;m3sw/m3p;0
-201;Somalia;c08;Fibreboard;NA;NA;m3sw/m3p;0
-202;South Africa;c08;Fibreboard;NA;NA;m3sw/m3p;0
-203;Spain;c08;Fibreboard;NA;NA;m3sw/m3p;1.75
-207;Suriname;c08;Fibreboard;NA;NA;m3sw/m3p;0
-208;Tajikistan;c08;Fibreboard;NA;NA;m3sw/m3p;0
-209;Eswatini;c08;Fibreboard;NA;NA;m3sw/m3p;0
-210;Sweden;c08;Fibreboard;NA;NA;m3sw/m3p;0
-211;Switzerland;c08;Fibreboard;NA;NA;m3sw/m3p;0
-212;Syrian Arab Republic;c08;Fibreboard;NA;NA;m3sw/m3p;0
-213;Turkmenistan;c08;Fibreboard;NA;NA;m3sw/m3p;0
-214;China, Taiwan Province of;c08;Fibreboard;NA;NA;m3sw/m3p;0
-215;United Republic of Tanzania;c08;Fibreboard;NA;NA;m3sw/m3p;0
-216;Thailand;c08;Fibreboard;NA;NA;m3sw/m3p;0
-217;Togo;c08;Fibreboard;NA;NA;m3sw/m3p;0
-219;Tonga;c08;Fibreboard;NA;NA;m3sw/m3p;0
-220;Trinidad and Tobago;c08;Fibreboard;NA;NA;m3sw/m3p;0
-221;Oman;c08;Fibreboard;NA;NA;m3sw/m3p;0
-222;Tunisia;c08;Fibreboard;NA;NA;m3sw/m3p;0
-223;Turkey;c08;Fibreboard;NA;NA;m3sw/m3p;0
-224;Turks and Caicos Islands;c08;Fibreboard;NA;NA;m3sw/m3p;0
-225;United Arab Emirates;c08;Fibreboard;NA;NA;m3sw/m3p;0
-226;Uganda;c08;Fibreboard;NA;NA;m3sw/m3p;0
-229;United Kingdom;c08;Fibreboard;NA;NA;m3sw/m3p;2.11
-230;Ukraine;c08;Fibreboard;NA;NA;m3sw/m3p;2.3
-231;United States of America;c08;Fibreboard;NA;NA;m3sw/m3p;1.68
-233;Burkina Faso;c08;Fibreboard;NA;NA;m3sw/m3p;0
-234;Uruguay;c08;Fibreboard;NA;NA;m3sw/m3p;0
-235;Uzbekistan;c08;Fibreboard;NA;NA;m3sw/m3p;0
-236;Venezuela (Bolivarian Republic of);c08;Fibreboard;NA;NA;m3sw/m3p;0
-237;Viet Nam;c08;Fibreboard;NA;NA;m3sw/m3p;0
-238;Ethiopia;c08;Fibreboard;NA;NA;m3sw/m3p;0
-239;British Virgin Islands;c08;Fibreboard;NA;NA;m3sw/m3p;0
-244;Samoa;c08;Fibreboard;NA;NA;m3sw/m3p;0
-249;Yemen;c08;Fibreboard;NA;NA;m3sw/m3p;0
-250;Democratic Republic of the Congo;c08;Fibreboard;NA;NA;m3sw/m3p;0
-251;Zambia;c08;Fibreboard;NA;NA;m3sw/m3p;0
-255;Belgium;c08;Fibreboard;NA;NA;m3sw/m3p;0
-256;Luxembourg;c08;Fibreboard;NA;NA;m3sw/m3p;0
-270;Mayotte;c08;Fibreboard;NA;NA;m3sw/m3p;0
-272;Serbia;c08;Fibreboard;NA;NA;m3sw/m3p;0
-273;Montenegro;c08;Fibreboard;NA;NA;m3sw/m3p;0
-276;Sudan;c08;Fibreboard;NA;NA;m3sw/m3p;0
-277;South Sudan;c08;Fibreboard;NA;NA;m3sw/m3p;0
-5;American Samoa;c08;Fibreboard;NA;NA;m3sw/m3p;0
-8;Antigua and Barbuda;c08;Fibreboard;NA;NA;m3sw/m3p;0
-17;Bermuda;c08;Fibreboard;NA;NA;m3sw/m3p;0
-24;British Indian Ocean Territory;c08;Fibreboard;NA;NA;m3sw/m3p;0
-36;Cayman Islands;c08;Fibreboard;NA;NA;m3sw/m3p;0
-43;Cocos (Keeling) Islands;c08;Fibreboard;NA;NA;m3sw/m3p;0
-71;French Southern and Antarctic Territories;c08;Fibreboard;NA;NA;m3sw/m3p;0
-85;Greenland;c08;Fibreboard;NA;NA;m3sw/m3p;0
-86;Grenada;c08;Fibreboard;NA;NA;m3sw/m3p;0
-88;Guam;c08;Fibreboard;NA;NA;m3sw/m3p;0
-94;Holy See;c08;Fibreboard;NA;NA;m3sw/m3p;0
-127;Marshall Islands;c08;Fibreboard;NA;NA;m3sw/m3p;0
-142;Montserrat;c08;Fibreboard;NA;NA;m3sw/m3p;0
-148;Nauru;c08;Fibreboard;NA;NA;m3sw/m3p;0
-163;Northern Mariana Islands;c08;Fibreboard;NA;NA;m3sw/m3p;0
-164;Pacific Islands Trust Territory;c08;Fibreboard;NA;NA;m3sw/m3p;0
-172;Pitcairn Islands;c08;Fibreboard;NA;NA;m3sw/m3p;0
-180;Palau;c08;Fibreboard;NA;NA;m3sw/m3p;0
-187;Saint Helena, Ascension and Tristan da Cunha;c08;Fibreboard;NA;NA;m3sw/m3p;0
-188;Saint Kitts and Nevis;c08;Fibreboard;NA;NA;m3sw/m3p;0
-192;San Marino;c08;Fibreboard;NA;NA;m3sw/m3p;0
-205;Western Sahara;c08;Fibreboard;NA;NA;m3sw/m3p;0
-218;Tokelau;c08;Fibreboard;NA;NA;m3sw/m3p;0
-227;Tuvalu;c08;Fibreboard;NA;NA;m3sw/m3p;0
-228;USSR;c08;Fibreboard;NA;NA;m3sw/m3p;0
-242;Wake Island;c08;Fibreboard;NA;NA;m3sw/m3p;0
-243;Wallis and Futuna Islands;c08;Fibreboard;NA;NA;m3sw/m3p;0
-248;Yugoslav SFR;c08;Fibreboard;NA;NA;m3sw/m3p;0
-258;Anguilla;c08;Fibreboard;NA;NA;m3sw/m3p;0
-279;Cura√ßao;c08;Fibreboard;NA;NA;m3sw/m3p;0
-281;Saint-Martin (French Part);c08;Fibreboard;NA;NA;m3sw/m3p;0
-299;Palestine;c08;Fibreboard;NA;NA;m3sw/m3p;0
-252;Unspecified Area;c08;Fibreboard;NA;NA;m3sw/m3p;0
-254;Others (adjustment);c08;Fibreboard;NA;NA;m3sw/m3p;0
-;ASI;c08;Fibreboard;NA;NA;m3sw/m3p;1.8
-;EUR;c08;Fibreboard;NA;NA;m3sw/m3p;1.96
-;AFR;c08;Fibreboard;NA;NA;m3sw/m3p;0
-;LAM;c08;Fibreboard;NA;NA;m3sw/m3p;1.84
-;OCE;c08;Fibreboard;NA;NA;m3sw/m3p;0
-;NAM;c08;Fibreboard;NA;NA;m3sw/m3p;1.65
+1;Armenia;c08;Fibreboard;NA;NA;m3sw/m3p;
+2;Afghanistan;c08;Fibreboard;NA;NA;m3sw/m3p;
+3;Albania;c08;Fibreboard;NA;NA;m3sw/m3p;
+4;Algeria;c08;Fibreboard;NA;NA;m3sw/m3p;
+6;Andorra;c08;Fibreboard;NA;NA;m3sw/m3p;
+7;Angola;c08;Fibreboard;NA;NA;m3sw/m3p;
+9;Argentina;c08;Fibreboard;NA;NA;m3sw/m3p;
+10;Australia;c08;Fibreboard;NA;NA;m3sw/m3p;
+11;Austria;c08;Fibreboard;NA;NA;m3sw/m3p;
+12;Bahamas;c08;Fibreboard;NA;NA;m3sw/m3p;
+13;Bahrain;c08;Fibreboard;NA;NA;m3sw/m3p;
+14;Barbados;c08;Fibreboard;NA;NA;m3sw/m3p;
+15;Belgium-Luxembourg;c08;Fibreboard;NA;NA;m3sw/m3p;
+16;Bangladesh;c08;Fibreboard;NA;NA;m3sw/m3p;
+18;Bhutan;c08;Fibreboard;NA;NA;m3sw/m3p;
+19;Bolivia (Plurinational State of);c08;Fibreboard;NA;NA;m3sw/m3p;
+20;Botswana;c08;Fibreboard;NA;NA;m3sw/m3p;
+21;Brazil;c08;Fibreboard;NA;NA;m3sw/m3p;
+22;Aruba;c08;Fibreboard;NA;NA;m3sw/m3p;
+23;Belize;c08;Fibreboard;NA;NA;m3sw/m3p;
+25;Solomon Islands;c08;Fibreboard;NA;NA;m3sw/m3p;
+26;Brunei Darussalam;c08;Fibreboard;NA;NA;m3sw/m3p;
+27;Bulgaria;c08;Fibreboard;NA;NA;m3sw/m3p;
+28;Myanmar;c08;Fibreboard;NA;NA;m3sw/m3p;
+29;Burundi;c08;Fibreboard;NA;NA;m3sw/m3p;
+32;Cameroon;c08;Fibreboard;NA;NA;m3sw/m3p;
+33;Canada;c08;Fibreboard;NA;NA;m3sw/m3p; 1.48 
+35;Cabo Verde;c08;Fibreboard;NA;NA;m3sw/m3p;
+37;Central African Republic;c08;Fibreboard;NA;NA;m3sw/m3p;
+38;Sri Lanka;c08;Fibreboard;NA;NA;m3sw/m3p;
+39;Chad;c08;Fibreboard;NA;NA;m3sw/m3p;
+40;Chile;c08;Fibreboard;NA;NA;m3sw/m3p; 1.56 
+41;China, mainland;c08;Fibreboard;NA;NA;m3sw/m3p; 1.80 
+42;Christmas Island;c08;Fibreboard;NA;NA;m3sw/m3p;
+44;Colombia;c08;Fibreboard;NA;NA;m3sw/m3p;
+45;Comoros;c08;Fibreboard;NA;NA;m3sw/m3p;
+46;Congo;c08;Fibreboard;NA;NA;m3sw/m3p;
+47;Cook Islands;c08;Fibreboard;NA;NA;m3sw/m3p;
+48;Costa Rica;c08;Fibreboard;NA;NA;m3sw/m3p;
+49;Cuba;c08;Fibreboard;NA;NA;m3sw/m3p;
+50;Cyprus;c08;Fibreboard;NA;NA;m3sw/m3p;
+51;Czechoslovakia;c08;Fibreboard;NA;NA;m3sw/m3p;
+52;Azerbaijan;c08;Fibreboard;NA;NA;m3sw/m3p;
+53;Benin;c08;Fibreboard;NA;NA;m3sw/m3p;
+54;Denmark;c08;Fibreboard;NA;NA;m3sw/m3p;
+55;Dominica;c08;Fibreboard;NA;NA;m3sw/m3p;
+56;Dominican Republic;c08;Fibreboard;NA;NA;m3sw/m3p;
+57;Belarus;c08;Fibreboard;NA;NA;m3sw/m3p;
+58;Ecuador;c08;Fibreboard;NA;NA;m3sw/m3p;
+59;Egypt;c08;Fibreboard;NA;NA;m3sw/m3p;
+60;El Salvador;c08;Fibreboard;NA;NA;m3sw/m3p;
+61;Equatorial Guinea;c08;Fibreboard;NA;NA;m3sw/m3p;
+63;Estonia;c08;Fibreboard;NA;NA;m3sw/m3p;
+64;Faroe Islands;c08;Fibreboard;NA;NA;m3sw/m3p;
+65;Falkland Islands (Malvinas);c08;Fibreboard;NA;NA;m3sw/m3p;
+66;Fiji;c08;Fibreboard;NA;NA;m3sw/m3p;
+67;Finland;c08;Fibreboard;NA;NA;m3sw/m3p; 1.98 
+68;France;c08;Fibreboard;NA;NA;m3sw/m3p; 1.51 
+69;French Guyana;c08;Fibreboard;NA;NA;m3sw/m3p;
+70;French Polynesia;c08;Fibreboard;NA;NA;m3sw/m3p;
+72;Djibouti;c08;Fibreboard;NA;NA;m3sw/m3p;
+73;Georgia;c08;Fibreboard;NA;NA;m3sw/m3p;
+74;Gabon;c08;Fibreboard;NA;NA;m3sw/m3p;
+75;Gambia;c08;Fibreboard;NA;NA;m3sw/m3p;
+79;Germany;c08;Fibreboard;NA;NA;m3sw/m3p; 1.57 
+80;Bosnia and Herzegovina;c08;Fibreboard;NA;NA;m3sw/m3p;
+81;Ghana;c08;Fibreboard;NA;NA;m3sw/m3p;
+82;Gibraltar;c08;Fibreboard;NA;NA;m3sw/m3p;
+83;Kiribati;c08;Fibreboard;NA;NA;m3sw/m3p;
+84;Greece;c08;Fibreboard;NA;NA;m3sw/m3p;
+87;Guadeloupe;c08;Fibreboard;NA;NA;m3sw/m3p;
+89;Guatemala;c08;Fibreboard;NA;NA;m3sw/m3p;
+90;Guinea;c08;Fibreboard;NA;NA;m3sw/m3p;
+91;Guyana;c08;Fibreboard;NA;NA;m3sw/m3p;
+93;Haiti;c08;Fibreboard;NA;NA;m3sw/m3p;
+95;Honduras;c08;Fibreboard;NA;NA;m3sw/m3p;
+96;China, Hong Kong SAR;c08;Fibreboard;NA;NA;m3sw/m3p;
+97;Hungary;c08;Fibreboard;NA;NA;m3sw/m3p;
+98;Croatia;c08;Fibreboard;NA;NA;m3sw/m3p;
+99;Iceland;c08;Fibreboard;NA;NA;m3sw/m3p;
+100;India;c08;Fibreboard;NA;NA;m3sw/m3p;
+101;Indonesia;c08;Fibreboard;NA;NA;m3sw/m3p; 1.80 
+102;Iran (Islamic Republic of);c08;Fibreboard;NA;NA;m3sw/m3p;
+103;Iraq;c08;Fibreboard;NA;NA;m3sw/m3p;
+104;Ireland;c08;Fibreboard;NA;NA;m3sw/m3p; 1.93 
+105;Israel;c08;Fibreboard;NA;NA;m3sw/m3p;
+106;Italy;c08;Fibreboard;NA;NA;m3sw/m3p;
+107;Cote d'Ivoire;c08;Fibreboard;NA;NA;m3sw/m3p;
+108;Kazakhstan;c08;Fibreboard;NA;NA;m3sw/m3p;
+109;Jamaica;c08;Fibreboard;NA;NA;m3sw/m3p;
+110;Japan;c08;Fibreboard;NA;NA;m3sw/m3p;
+112;Jordan;c08;Fibreboard;NA;NA;m3sw/m3p;
+113;Kyrgyzstan;c08;Fibreboard;NA;NA;m3sw/m3p;
+114;Kenya;c08;Fibreboard;NA;NA;m3sw/m3p;
+115;Cambodia;c08;Fibreboard;NA;NA;m3sw/m3p;
+116;Democratic People's Republic of Korea;c08;Fibreboard;NA;NA;m3sw/m3p;
+117;Republic of Korea;c08;Fibreboard;NA;NA;m3sw/m3p;
+118;Kuwait;c08;Fibreboard;NA;NA;m3sw/m3p;
+119;Latvia;c08;Fibreboard;NA;NA;m3sw/m3p;
+120;Lao People's Democratic Republic;c08;Fibreboard;NA;NA;m3sw/m3p;
+121;Lebanon;c08;Fibreboard;NA;NA;m3sw/m3p;
+122;Lesotho;c08;Fibreboard;NA;NA;m3sw/m3p;
+123;Liberia;c08;Fibreboard;NA;NA;m3sw/m3p;
+124;Libya;c08;Fibreboard;NA;NA;m3sw/m3p;
+125;Liechtenstein;c08;Fibreboard;NA;NA;m3sw/m3p;
+126;Lithuania;c08;Fibreboard;NA;NA;m3sw/m3p; 2.03 
+128;China, Macao SAR;c08;Fibreboard;NA;NA;m3sw/m3p;
+129;Madagascar;c08;Fibreboard;NA;NA;m3sw/m3p;
+130;Malawi;c08;Fibreboard;NA;NA;m3sw/m3p;
+131;Malaysia;c08;Fibreboard;NA;NA;m3sw/m3p;
+132;Maldives;c08;Fibreboard;NA;NA;m3sw/m3p;
+133;Mali;c08;Fibreboard;NA;NA;m3sw/m3p;
+134;Malta;c08;Fibreboard;NA;NA;m3sw/m3p;
+135;Martinique;c08;Fibreboard;NA;NA;m3sw/m3p;
+136;Mauritania;c08;Fibreboard;NA;NA;m3sw/m3p;
+137;Mauritius;c08;Fibreboard;NA;NA;m3sw/m3p;
+138;Mexico;c08;Fibreboard;NA;NA;m3sw/m3p; 1.90 
+141;Mongolia;c08;Fibreboard;NA;NA;m3sw/m3p;
+143;Morocco;c08;Fibreboard;NA;NA;m3sw/m3p;
+144;Mozambique;c08;Fibreboard;NA;NA;m3sw/m3p;
+145;Micronesia (Federated States of);c08;Fibreboard;NA;NA;m3sw/m3p;
+146;Republic of Moldova;c08;Fibreboard;NA;NA;m3sw/m3p;
+147;Namibia;c08;Fibreboard;NA;NA;m3sw/m3p;
+149;Nepal;c08;Fibreboard;NA;NA;m3sw/m3p;
+150;Netherlands;c08;Fibreboard;NA;NA;m3sw/m3p;
+151;Netherlands Antilles;c08;Fibreboard;NA;NA;m3sw/m3p;
+153;New Caledonia;c08;Fibreboard;NA;NA;m3sw/m3p;
+154;North Macedonia;c08;Fibreboard;NA;NA;m3sw/m3p;
+155;Vanuatu;c08;Fibreboard;NA;NA;m3sw/m3p;
+156;New Zealand;c08;Fibreboard;NA;NA;m3sw/m3p;
+157;Nicaragua;c08;Fibreboard;NA;NA;m3sw/m3p;
+158;Niger;c08;Fibreboard;NA;NA;m3sw/m3p;
+159;Nigeria;c08;Fibreboard;NA;NA;m3sw/m3p;
+160;Niue;c08;Fibreboard;NA;NA;m3sw/m3p;
+161;Norfolk Island;c08;Fibreboard;NA;NA;m3sw/m3p;
+162;Norway;c08;Fibreboard;NA;NA;m3sw/m3p;
+165;Pakistan;c08;Fibreboard;NA;NA;m3sw/m3p;
+166;Panama;c08;Fibreboard;NA;NA;m3sw/m3p;
+167;Czechia;c08;Fibreboard;NA;NA;m3sw/m3p;
+168;Papua New Guinea;c08;Fibreboard;NA;NA;m3sw/m3p;
+169;Paraguay;c08;Fibreboard;NA;NA;m3sw/m3p;
+170;Peru;c08;Fibreboard;NA;NA;m3sw/m3p;
+171;Philippines;c08;Fibreboard;NA;NA;m3sw/m3p;
+173;Poland;c08;Fibreboard;NA;NA;m3sw/m3p; 1.65 
+174;Portugal;c08;Fibreboard;NA;NA;m3sw/m3p;
+175;Guinea-Bissau;c08;Fibreboard;NA;NA;m3sw/m3p;
+176;Timor-Leste;c08;Fibreboard;NA;NA;m3sw/m3p;
+178;Eritrea;c08;Fibreboard;NA;NA;m3sw/m3p;
+179;Qatar;c08;Fibreboard;NA;NA;m3sw/m3p;
+181;Zimbabwe;c08;Fibreboard;NA;NA;m3sw/m3p;
+182;Reunion;c08;Fibreboard;NA;NA;m3sw/m3p;
+183;Romania;c08;Fibreboard;NA;NA;m3sw/m3p;
+184;Rwanda;c08;Fibreboard;NA;NA;m3sw/m3p;
+185;Russian Federation;c08;Fibreboard;NA;NA;m3sw/m3p;
+186;Serbia and Montenegro;c08;Fibreboard;NA;NA;m3sw/m3p;
+189;Saint Lucia;c08;Fibreboard;NA;NA;m3sw/m3p;
+190;Saint Pierre and Miquelon;c08;Fibreboard;NA;NA;m3sw/m3p;
+191;Saint Vincent and the Grenadines;c08;Fibreboard;NA;NA;m3sw/m3p;
+193;Sao Tome and Principe;c08;Fibreboard;NA;NA;m3sw/m3p;
+194;Saudi Arabia;c08;Fibreboard;NA;NA;m3sw/m3p;
+195;Senegal;c08;Fibreboard;NA;NA;m3sw/m3p;
+196;Seychelles;c08;Fibreboard;NA;NA;m3sw/m3p;
+197;Sierra Leone;c08;Fibreboard;NA;NA;m3sw/m3p;
+198;Slovenia;c08;Fibreboard;NA;NA;m3sw/m3p; 1.80 
+199;Slovakia;c08;Fibreboard;NA;NA;m3sw/m3p; 1.10 
+200;Singapore;c08;Fibreboard;NA;NA;m3sw/m3p;
+201;Somalia;c08;Fibreboard;NA;NA;m3sw/m3p;
+202;South Africa;c08;Fibreboard;NA;NA;m3sw/m3p;
+203;Spain;c08;Fibreboard;NA;NA;m3sw/m3p; 1.75 
+207;Suriname;c08;Fibreboard;NA;NA;m3sw/m3p;
+208;Tajikistan;c08;Fibreboard;NA;NA;m3sw/m3p;
+209;Eswatini;c08;Fibreboard;NA;NA;m3sw/m3p;
+210;Sweden;c08;Fibreboard;NA;NA;m3sw/m3p;
+211;Switzerland;c08;Fibreboard;NA;NA;m3sw/m3p;
+212;Syrian Arab Republic;c08;Fibreboard;NA;NA;m3sw/m3p;
+213;Turkmenistan;c08;Fibreboard;NA;NA;m3sw/m3p;
+214;China, Taiwan Province of;c08;Fibreboard;NA;NA;m3sw/m3p;
+215;United Republic of Tanzania;c08;Fibreboard;NA;NA;m3sw/m3p;
+216;Thailand;c08;Fibreboard;NA;NA;m3sw/m3p;
+217;Togo;c08;Fibreboard;NA;NA;m3sw/m3p;
+219;Tonga;c08;Fibreboard;NA;NA;m3sw/m3p;
+220;Trinidad and Tobago;c08;Fibreboard;NA;NA;m3sw/m3p;
+221;Oman;c08;Fibreboard;NA;NA;m3sw/m3p;
+222;Tunisia;c08;Fibreboard;NA;NA;m3sw/m3p;
+223;Turkey;c08;Fibreboard;NA;NA;m3sw/m3p;
+224;Turks and Caicos Islands;c08;Fibreboard;NA;NA;m3sw/m3p;
+225;United Arab Emirates;c08;Fibreboard;NA;NA;m3sw/m3p;
+226;Uganda;c08;Fibreboard;NA;NA;m3sw/m3p;
+229;United Kingdom;c08;Fibreboard;NA;NA;m3sw/m3p; 1.85 
+230;Ukraine;c08;Fibreboard;NA;NA;m3sw/m3p;
+231;United States of America;c08;Fibreboard;NA;NA;m3sw/m3p; 1.18 
+233;Burkina Faso;c08;Fibreboard;NA;NA;m3sw/m3p;
+234;Uruguay;c08;Fibreboard;NA;NA;m3sw/m3p;
+235;Uzbekistan;c08;Fibreboard;NA;NA;m3sw/m3p;
+236;Venezuela (Bolivarian Republic of);c08;Fibreboard;NA;NA;m3sw/m3p;
+237;Viet Nam;c08;Fibreboard;NA;NA;m3sw/m3p;
+238;Ethiopia;c08;Fibreboard;NA;NA;m3sw/m3p;
+239;British Virgin Islands;c08;Fibreboard;NA;NA;m3sw/m3p;
+244;Samoa;c08;Fibreboard;NA;NA;m3sw/m3p;
+249;Yemen;c08;Fibreboard;NA;NA;m3sw/m3p;
+250;Democratic Republic of the Congo;c08;Fibreboard;NA;NA;m3sw/m3p;
+251;Zambia;c08;Fibreboard;NA;NA;m3sw/m3p;
+255;Belgium;c08;Fibreboard;NA;NA;m3sw/m3p;
+256;Luxembourg;c08;Fibreboard;NA;NA;m3sw/m3p;
+270;Mayotte;c08;Fibreboard;NA;NA;m3sw/m3p;
+272;Serbia;c08;Fibreboard;NA;NA;m3sw/m3p;
+273;Montenegro;c08;Fibreboard;NA;NA;m3sw/m3p;
+276;Sudan;c08;Fibreboard;NA;NA;m3sw/m3p;
+277;South Sudan;c08;Fibreboard;NA;NA;m3sw/m3p;
+5;American Samoa;c08;Fibreboard;NA;NA;m3sw/m3p;
+8;Antigua and Barbuda;c08;Fibreboard;NA;NA;m3sw/m3p;
+17;Bermuda;c08;Fibreboard;NA;NA;m3sw/m3p;
+24;British Indian Ocean Territory;c08;Fibreboard;NA;NA;m3sw/m3p;
+36;Cayman Islands;c08;Fibreboard;NA;NA;m3sw/m3p;
+43;Cocos (Keeling) Islands;c08;Fibreboard;NA;NA;m3sw/m3p;
+71;French Southern and Antarctic Territories;c08;Fibreboard;NA;NA;m3sw/m3p;
+85;Greenland;c08;Fibreboard;NA;NA;m3sw/m3p;
+86;Grenada;c08;Fibreboard;NA;NA;m3sw/m3p;
+88;Guam;c08;Fibreboard;NA;NA;m3sw/m3p;
+94;Holy See;c08;Fibreboard;NA;NA;m3sw/m3p;
+127;Marshall Islands;c08;Fibreboard;NA;NA;m3sw/m3p;
+142;Montserrat;c08;Fibreboard;NA;NA;m3sw/m3p;
+148;Nauru;c08;Fibreboard;NA;NA;m3sw/m3p;
+163;Northern Mariana Islands;c08;Fibreboard;NA;NA;m3sw/m3p;
+164;Pacific Islands Trust Territory;c08;Fibreboard;NA;NA;m3sw/m3p;
+172;Pitcairn Islands;c08;Fibreboard;NA;NA;m3sw/m3p;
+180;Palau;c08;Fibreboard;NA;NA;m3sw/m3p;
+187;Saint Helena, Ascension and Tristan da Cunha;c08;Fibreboard;NA;NA;m3sw/m3p;
+188;Saint Kitts and Nevis;c08;Fibreboard;NA;NA;m3sw/m3p;
+192;San Marino;c08;Fibreboard;NA;NA;m3sw/m3p;
+205;Western Sahara;c08;Fibreboard;NA;NA;m3sw/m3p;
+218;Tokelau;c08;Fibreboard;NA;NA;m3sw/m3p;
+227;Tuvalu;c08;Fibreboard;NA;NA;m3sw/m3p;
+228;USSR;c08;Fibreboard;NA;NA;m3sw/m3p;
+242;Wake Island;c08;Fibreboard;NA;NA;m3sw/m3p;
+243;Wallis and Futuna Islands;c08;Fibreboard;NA;NA;m3sw/m3p;
+248;Yugoslav SFR;c08;Fibreboard;NA;NA;m3sw/m3p;
+258;Anguilla;c08;Fibreboard;NA;NA;m3sw/m3p;
+279;CuraÁao;c08;Fibreboard;NA;NA;m3sw/m3p;
+281;Saint-Martin (French Part);c08;Fibreboard;NA;NA;m3sw/m3p;
+299;Palestine;c08;Fibreboard;NA;NA;m3sw/m3p;
+252;Unspecified Area;c08;Fibreboard;NA;NA;m3sw/m3p;
+254;Others (adjustment);c08;Fibreboard;NA;NA;m3sw/m3p;
+;ASI;c08;Fibreboard;NA;NA;m3sw/m3p; 1.80 
+;EUR;c08;Fibreboard;NA;NA;m3sw/m3p; 1.72 
+;AFR;c08;Fibreboard;NA;NA;m3sw/m3p;
+;LAM;c08;Fibreboard;NA;NA;m3sw/m3p; 1.73 
+;OCE;c08;Fibreboard;NA;NA;m3sw/m3p;
+;NAM;c08;Fibreboard;NA;NA;m3sw/m3p; 1.33 
 1;Armenia;c09;Particle board ;NA;NA;m3sw/m3p;0
 2;Afghanistan;c09;Particle board ;NA;NA;m3sw/m3p;0
 3;Albania;c09;Particle board ;NA;NA;m3sw/m3p;0
@@ -2976,7 +2976,7 @@ area_code;area;com_code;item;source_code;source;unit;tcf
 243;Wallis and Futuna Islands;c09;Particle board;NA;NA;m3sw/m3p;0
 248;Yugoslav SFR;c09;Particle board;NA;NA;m3sw/m3p;0
 258;Anguilla;c09;Particle board;NA;NA;m3sw/m3p;0
-279;Cura√ßao;c09;Particle board;NA;NA;m3sw/m3p;0
+279;CuraÁao;c09;Particle board;NA;NA;m3sw/m3p;0
 281;Saint-Martin (French Part);c09;Particle board;NA;NA;m3sw/m3p;0
 299;Palestine;c09;Particle board;NA;NA;m3sw/m3p;0
 252;Unspecified Area;c09;Particle board;NA;NA;m3sw/m3p;0
@@ -3225,7 +3225,7 @@ area_code;area;com_code;item;source_code;source;unit;tcf
 243;Wallis and Futuna Islands;c09;Particle board;NA;NA;kg/m3p;0
 248;Yugoslav SFR;c09;Particle board;NA;NA;kg/m3p;0
 258;Anguilla;c09;Particle board;NA;NA;kg/m3p;0
-279;Cura√ßao;c09;Particle board;NA;NA;kg/m3p;0
+279;CuraÁao;c09;Particle board;NA;NA;kg/m3p;0
 281;Saint-Martin (French Part);c09;Particle board;NA;NA;kg/m3p;0
 299;Palestine;c09;Particle board;NA;NA;kg/m3p;0
 252;Unspecified Area;c09;Particle board;NA;NA;kg/m3p;0
@@ -3474,7 +3474,7 @@ area_code;area;com_code;item;source_code;source;unit;tcf
 243;Wallis and Futuna Islands;c10;OSB;NA;NA;m3sw/m3p;0
 248;Yugoslav SFR;c10;OSB;NA;NA;m3sw/m3p;0
 258;Anguilla;c10;OSB;NA;NA;m3sw/m3p;0
-279;Cura√ßao;c10;OSB;NA;NA;m3sw/m3p;0
+279;CuraÁao;c10;OSB;NA;NA;m3sw/m3p;0
 281;Saint-Martin (French Part);c10;OSB;NA;NA;m3sw/m3p;0
 299;Palestine;c10;OSB;NA;NA;m3sw/m3p;0
 252;Unspecified Area;c10;OSB;NA;NA;m3sw/m3p;0
@@ -3723,7 +3723,7 @@ area_code;area;com_code;item;source_code;source;unit;tcf
 243;Wallis and Futuna Islands;c10;OSB;NA;NA;kg/m3p;0
 248;Yugoslav SFR;c10;OSB;NA;NA;kg/m3p;0
 258;Anguilla;c10;OSB;NA;NA;kg/m3p;0
-279;Cura√ßao;c10;OSB;NA;NA;kg/m3p;0
+279;CuraÁao;c10;OSB;NA;NA;kg/m3p;0
 281;Saint-Martin (French Part);c10;OSB;NA;NA;kg/m3p;0
 299;Palestine;c10;OSB;NA;NA;kg/m3p;0
 252;Unspecified Area;c10;OSB;NA;NA;kg/m3p;0
@@ -3972,7 +3972,7 @@ area_code;area;com_code;item;source_code;source;unit;tcf
 243;Wallis and Futuna Islands;c11a;Chemical wood pulp;NA;NA;m3sw/tonne;0
 248;Yugoslav SFR;c11a;Chemical wood pulp;NA;NA;m3sw/tonne;0
 258;Anguilla;c11a;Chemical wood pulp;NA;NA;m3sw/tonne;0
-279;Cura√ßao;c11a;Chemical wood pulp;NA;NA;m3sw/tonne;0
+279;CuraÁao;c11a;Chemical wood pulp;NA;NA;m3sw/tonne;0
 281;Saint-Martin (French Part);c11a;Chemical wood pulp;NA;NA;m3sw/tonne;0
 299;Palestine;c11a;Chemical wood pulp;NA;NA;m3sw/tonne;0
 252;Unspecified Area;c11a;Chemical wood pulp;NA;NA;m3sw/tonne;0
@@ -4221,7 +4221,7 @@ area_code;area;com_code;item;source_code;source;unit;tcf
 243;Wallis and Futuna Islands;c11b;Mechanical and semi-chemical wood pulp;NA;NA;m3sw/tonne;0
 248;Yugoslav SFR;c11b;Mechanical and semi-chemical wood pulp;NA;NA;m3sw/tonne;0
 258;Anguilla;c11b;Mechanical and semi-chemical wood pulp;NA;NA;m3sw/tonne;0
-279;Cura√ßao;c11b;Mechanical and semi-chemical wood pulp;NA;NA;m3sw/tonne;0
+279;CuraÁao;c11b;Mechanical and semi-chemical wood pulp;NA;NA;m3sw/tonne;0
 281;Saint-Martin (French Part);c11b;Mechanical and semi-chemical wood pulp;NA;NA;m3sw/tonne;0
 299;Palestine;c11b;Mechanical and semi-chemical wood pulp;NA;NA;m3sw/tonne;0
 252;Unspecified Area;c11b;Mechanical and semi-chemical wood pulp;NA;NA;m3sw/tonne;0
@@ -4470,7 +4470,7 @@ area_code;area;com_code;item;source_code;source;unit;tcf
 243;Wallis and Futuna Islands;c11d;Dissolving wood pulp;NA;NA;m3sw/tonne;0
 248;Yugoslav SFR;c11d;Dissolving wood pulp;NA;NA;m3sw/tonne;0
 258;Anguilla;c11d;Dissolving wood pulp;NA;NA;m3sw/tonne;0
-279;Cura√ßao;c11d;Dissolving wood pulp;NA;NA;m3sw/tonne;0
+279;CuraÁao;c11d;Dissolving wood pulp;NA;NA;m3sw/tonne;0
 281;Saint-Martin (French Part);c11d;Dissolving wood pulp;NA;NA;m3sw/tonne;0
 299;Palestine;c11d;Dissolving wood pulp;NA;NA;m3sw/tonne;0
 252;Unspecified Area;c11d;Dissolving wood pulp;NA;NA;m3sw/tonne;0
@@ -4481,6 +4481,7 @@ area_code;area;com_code;item;source_code;source;unit;tcf
 ;LAM;c11d;Dissolving wood pulp;NA;NA;m3sw/tonne;0
 ;OCE;c11d;Dissolving wood pulp;NA;NA;m3sw/tonne;0
 ;NAM;c11d;Dissolving wood pulp;NA;NA;m3sw/tonne;0
+;NAM;c13;Recovered fibre pulp;c12;Recovered paper;mt/mt;0
 1;Armenia;c13;Recovered fibre pulp;NA;NA;m3sw/tonne;0
 2;Afghanistan;c13;Recovered fibre pulp;NA;NA;m3sw/tonne;0
 3;Albania;c13;Recovered fibre pulp;NA;NA;m3sw/tonne;0
@@ -4719,7 +4720,7 @@ area_code;area;com_code;item;source_code;source;unit;tcf
 243;Wallis and Futuna Islands;c13;Recovered fibre pulp;NA;NA;m3sw/tonne;0
 248;Yugoslav SFR;c13;Recovered fibre pulp;NA;NA;m3sw/tonne;0
 258;Anguilla;c13;Recovered fibre pulp;NA;NA;m3sw/tonne;0
-279;Cura√ßao;c13;Recovered fibre pulp;NA;NA;m3sw/tonne;0
+279;CuraÁao;c13;Recovered fibre pulp;NA;NA;m3sw/tonne;0
 281;Saint-Martin (French Part);c13;Recovered fibre pulp;NA;NA;m3sw/tonne;0
 299;Palestine;c13;Recovered fibre pulp;NA;NA;m3sw/tonne;0
 252;Unspecified Area;c13;Recovered fibre pulp;NA;NA;m3sw/tonne;0
@@ -4968,7 +4969,7 @@ area_code;area;com_code;item;source_code;source;unit;tcf
 243;Wallis and Futuna Islands;c14;Paper and Paperboard;NA;NA;m3sw/tonne;0
 248;Yugoslav SFR;c14;Paper and Paperboard;NA;NA;m3sw/tonne;0
 258;Anguilla;c14;Paper and Paperboard;NA;NA;m3sw/tonne;0
-279;Cura√ßao;c14;Paper and Paperboard;NA;NA;m3sw/tonne;0
+279;CuraÁao;c14;Paper and Paperboard;NA;NA;m3sw/tonne;0
 281;Saint-Martin (French Part);c14;Paper and Paperboard;NA;NA;m3sw/tonne;0
 299;Palestine;c14;Paper and Paperboard;NA;NA;m3sw/tonne;0
 252;Unspecified Area;c14;Paper and Paperboard;NA;NA;m3sw/tonne;0
@@ -5217,7 +5218,7 @@ area_code;area;com_code;item;source_code;source;unit;tcf
 243;Wallis and Futuna Islands;c15;Wood pellets and other agglomerates;NA;NA;m3sw/tonne;0
 248;Yugoslav SFR;c15;Wood pellets and other agglomerates;NA;NA;m3sw/tonne;0
 258;Anguilla;c15;Wood pellets and other agglomerates;NA;NA;m3sw/tonne;0
-279;Cura√ßao;c15;Wood pellets and other agglomerates;NA;NA;m3sw/tonne;0
+279;CuraÁao;c15;Wood pellets and other agglomerates;NA;NA;m3sw/tonne;0
 281;Saint-Martin (French Part);c15;Wood pellets and other agglomerates;NA;NA;m3sw/tonne;0
 299;Palestine;c15;Wood pellets and other agglomerates;NA;NA;m3sw/tonne;0
 252;Unspecified Area;c15;Wood pellets and other agglomerates;NA;NA;m3sw/tonne;0
@@ -5466,7 +5467,7 @@ area_code;area;com_code;item;source_code;source;unit;tcf
 243;Wallis and Futuna Islands;c16;Wood charcoal;c03;Wood fuel;m3sw/tonne;0
 248;Yugoslav SFR;c16;Wood charcoal;c03;Wood fuel;m3sw/tonne;0
 258;Anguilla;c16;Wood charcoal;c03;Wood fuel;m3sw/tonne;0
-279;Cura√ßao;c16;Wood charcoal;c03;Wood fuel;m3sw/tonne;0
+279;CuraÁao;c16;Wood charcoal;c03;Wood fuel;m3sw/tonne;0
 281;Saint-Martin (French Part);c16;Wood charcoal;c03;Wood fuel;m3sw/tonne;0
 299;Palestine;c16;Wood charcoal;c03;Wood fuel;m3sw/tonne;0
 252;Unspecified Area;c16;Wood charcoal;c03;Wood fuel;m3sw/tonne;0
@@ -5715,7 +5716,7 @@ area_code;area;com_code;item;source_code;source;unit;tcf
 243;Wallis and Futuna Islands;c17;Wood chips and particles;NA;NA;m3p/m3sw;0
 248;Yugoslav SFR;c17;Wood chips and particles;NA;NA;m3p/m3sw;0
 258;Anguilla;c17;Wood chips and particles;NA;NA;m3p/m3sw;0
-279;Cura√ßao;c17;Wood chips and particles;NA;NA;m3p/m3sw;0
+279;CuraÁao;c17;Wood chips and particles;NA;NA;m3p/m3sw;0
 281;Saint-Martin (French Part);c17;Wood chips and particles;NA;NA;m3p/m3sw;0
 299;Palestine;c17;Wood chips and particles;NA;NA;m3p/m3sw;0
 252;Unspecified Area;c17;Wood chips and particles;NA;NA;m3p/m3sw;0
@@ -5964,7 +5965,7 @@ area_code;area;com_code;item;source_code;source;unit;tcf
 243;Wallis and Futuna Islands;c18;Wood residues;NA;NA;m3p/m3sw;0
 248;Yugoslav SFR;c18;Wood residues;NA;NA;m3p/m3sw;0
 258;Anguilla;c18;Wood residues;NA;NA;m3p/m3sw;0
-279;Cura√ßao;c18;Wood residues;NA;NA;m3p/m3sw;0
+279;CuraÁao;c18;Wood residues;NA;NA;m3p/m3sw;0
 281;Saint-Martin (French Part);c18;Wood residues;NA;NA;m3p/m3sw;0
 299;Palestine;c18;Wood residues;NA;NA;m3p/m3sw;0
 252;Unspecified Area;c18;Wood residues;NA;NA;m3p/m3sw;0
@@ -6213,7 +6214,7 @@ area_code;area;com_code;item;source_code;source;unit;tcf
 243;Wallis and Futuna Islands;c18;Wood residues;NA;NA;m3sw/tonne;0
 248;Yugoslav SFR;c18;Wood residues;NA;NA;m3sw/tonne;0
 258;Anguilla;c18;Wood residues;NA;NA;m3sw/tonne;0
-279;Cura√ßao;c18;Wood residues;NA;NA;m3sw/tonne;0
+279;CuraÁao;c18;Wood residues;NA;NA;m3sw/tonne;0
 281;Saint-Martin (French Part);c18;Wood residues;NA;NA;m3sw/tonne;0
 299;Palestine;c18;Wood residues;NA;NA;m3sw/tonne;0
 252;Unspecified Area;c18;Wood residues;NA;NA;m3sw/tonne;0
@@ -6224,252 +6225,3 @@ area_code;area;com_code;item;source_code;source;unit;tcf
 ;LAM;c18;Wood residues;NA;NA;m3sw/tonne;1.94
 ;OCE;c18;Wood residues;NA;NA;m3sw/tonne;0
 ;NAM;c18;Wood residues;NA;NA;m3sw/tonne;1.47
-1;Armenia;c13;Recovered fibre pulp;c12;Recovered paper;tonne/tonne;0
-2;Afghanistan;c13;Recovered fibre pulp;c12;Recovered paper;tonne/tonne;0
-3;Albania;c13;Recovered fibre pulp;c12;Recovered paper;tonne/tonne;0
-4;Algeria;c13;Recovered fibre pulp;c12;Recovered paper;tonne/tonne;0
-6;Andorra;c13;Recovered fibre pulp;c12;Recovered paper;tonne/tonne;0
-7;Angola;c13;Recovered fibre pulp;c12;Recovered paper;tonne/tonne;0
-9;Argentina;c13;Recovered fibre pulp;c12;Recovered paper;tonne/tonne;0
-10;Australia;c13;Recovered fibre pulp;c12;Recovered paper;tonne/tonne;0
-11;Austria;c13;Recovered fibre pulp;c12;Recovered paper;tonne/tonne;0
-12;Bahamas;c13;Recovered fibre pulp;c12;Recovered paper;tonne/tonne;0
-13;Bahrain;c13;Recovered fibre pulp;c12;Recovered paper;tonne/tonne;0
-14;Barbados;c13;Recovered fibre pulp;c12;Recovered paper;tonne/tonne;0
-15;Belgium-Luxembourg;c13;Recovered fibre pulp;c12;Recovered paper;tonne/tonne;0
-16;Bangladesh;c13;Recovered fibre pulp;c12;Recovered paper;tonne/tonne;0
-18;Bhutan;c13;Recovered fibre pulp;c12;Recovered paper;tonne/tonne;0
-19;Bolivia (Plurinational State of);c13;Recovered fibre pulp;c12;Recovered paper;tonne/tonne;0
-20;Botswana;c13;Recovered fibre pulp;c12;Recovered paper;tonne/tonne;0
-21;Brazil;c13;Recovered fibre pulp;c12;Recovered paper;tonne/tonne;0
-22;Aruba;c13;Recovered fibre pulp;c12;Recovered paper;tonne/tonne;0
-23;Belize;c13;Recovered fibre pulp;c12;Recovered paper;tonne/tonne;0
-25;Solomon Islands;c13;Recovered fibre pulp;c12;Recovered paper;tonne/tonne;0
-26;Brunei Darussalam;c13;Recovered fibre pulp;c12;Recovered paper;tonne/tonne;0
-27;Bulgaria;c13;Recovered fibre pulp;c12;Recovered paper;tonne/tonne;0
-28;Myanmar;c13;Recovered fibre pulp;c12;Recovered paper;tonne/tonne;0
-29;Burundi;c13;Recovered fibre pulp;c12;Recovered paper;tonne/tonne;0
-32;Cameroon;c13;Recovered fibre pulp;c12;Recovered paper;tonne/tonne;0
-33;Canada;c13;Recovered fibre pulp;c12;Recovered paper;tonne/tonne;0
-35;Cabo Verde;c13;Recovered fibre pulp;c12;Recovered paper;tonne/tonne;0
-37;Central African Republic;c13;Recovered fibre pulp;c12;Recovered paper;tonne/tonne;0
-38;Sri Lanka;c13;Recovered fibre pulp;c12;Recovered paper;tonne/tonne;0
-39;Chad;c13;Recovered fibre pulp;c12;Recovered paper;tonne/tonne;0
-40;Chile;c13;Recovered fibre pulp;c12;Recovered paper;tonne/tonne;0
-41;China, mainland;c13;Recovered fibre pulp;c12;Recovered paper;tonne/tonne;1.22
-42;Christmas Island;c13;Recovered fibre pulp;c12;Recovered paper;tonne/tonne;0
-44;Colombia;c13;Recovered fibre pulp;c12;Recovered paper;tonne/tonne;0
-45;Comoros;c13;Recovered fibre pulp;c12;Recovered paper;tonne/tonne;0
-46;Congo;c13;Recovered fibre pulp;c12;Recovered paper;tonne/tonne;0
-47;Cook Islands;c13;Recovered fibre pulp;c12;Recovered paper;tonne/tonne;0
-48;Costa Rica;c13;Recovered fibre pulp;c12;Recovered paper;tonne/tonne;0
-49;Cuba;c13;Recovered fibre pulp;c12;Recovered paper;tonne/tonne;0
-50;Cyprus;c13;Recovered fibre pulp;c12;Recovered paper;tonne/tonne;0
-51;Czechoslovakia;c13;Recovered fibre pulp;c12;Recovered paper;tonne/tonne;0
-52;Azerbaijan;c13;Recovered fibre pulp;c12;Recovered paper;tonne/tonne;0
-53;Benin;c13;Recovered fibre pulp;c12;Recovered paper;tonne/tonne;0
-54;Denmark;c13;Recovered fibre pulp;c12;Recovered paper;tonne/tonne;0
-55;Dominica;c13;Recovered fibre pulp;c12;Recovered paper;tonne/tonne;0
-56;Dominican Republic;c13;Recovered fibre pulp;c12;Recovered paper;tonne/tonne;0
-57;Belarus;c13;Recovered fibre pulp;c12;Recovered paper;tonne/tonne;0
-58;Ecuador;c13;Recovered fibre pulp;c12;Recovered paper;tonne/tonne;0
-59;Egypt;c13;Recovered fibre pulp;c12;Recovered paper;tonne/tonne;0
-60;El Salvador;c13;Recovered fibre pulp;c12;Recovered paper;tonne/tonne;0
-61;Equatorial Guinea;c13;Recovered fibre pulp;c12;Recovered paper;tonne/tonne;0
-63;Estonia;c13;Recovered fibre pulp;c12;Recovered paper;tonne/tonne;0
-64;Faroe Islands;c13;Recovered fibre pulp;c12;Recovered paper;tonne/tonne;0
-65;Falkland Islands (Malvinas);c13;Recovered fibre pulp;c12;Recovered paper;tonne/tonne;0
-66;Fiji;c13;Recovered fibre pulp;c12;Recovered paper;tonne/tonne;0
-67;Finland;c13;Recovered fibre pulp;c12;Recovered paper;tonne/tonne;1.3
-68;France;c13;Recovered fibre pulp;c12;Recovered paper;tonne/tonne;0
-69;French Guyana;c13;Recovered fibre pulp;c12;Recovered paper;tonne/tonne;0
-70;French Polynesia;c13;Recovered fibre pulp;c12;Recovered paper;tonne/tonne;0
-72;Djibouti;c13;Recovered fibre pulp;c12;Recovered paper;tonne/tonne;0
-73;Georgia;c13;Recovered fibre pulp;c12;Recovered paper;tonne/tonne;0
-74;Gabon;c13;Recovered fibre pulp;c12;Recovered paper;tonne/tonne;0
-75;Gambia;c13;Recovered fibre pulp;c12;Recovered paper;tonne/tonne;0
-79;Germany;c13;Recovered fibre pulp;c12;Recovered paper;tonne/tonne;1.2
-80;Bosnia and Herzegovina;c13;Recovered fibre pulp;c12;Recovered paper;tonne/tonne;0
-81;Ghana;c13;Recovered fibre pulp;c12;Recovered paper;tonne/tonne;0
-82;Gibraltar;c13;Recovered fibre pulp;c12;Recovered paper;tonne/tonne;0
-83;Kiribati;c13;Recovered fibre pulp;c12;Recovered paper;tonne/tonne;0
-84;Greece;c13;Recovered fibre pulp;c12;Recovered paper;tonne/tonne;0
-87;Guadeloupe;c13;Recovered fibre pulp;c12;Recovered paper;tonne/tonne;0
-89;Guatemala;c13;Recovered fibre pulp;c12;Recovered paper;tonne/tonne;0
-90;Guinea;c13;Recovered fibre pulp;c12;Recovered paper;tonne/tonne;0
-91;Guyana;c13;Recovered fibre pulp;c12;Recovered paper;tonne/tonne;0
-93;Haiti;c13;Recovered fibre pulp;c12;Recovered paper;tonne/tonne;0
-95;Honduras;c13;Recovered fibre pulp;c12;Recovered paper;tonne/tonne;0
-96;China, Hong Kong SAR;c13;Recovered fibre pulp;c12;Recovered paper;tonne/tonne;0
-97;Hungary;c13;Recovered fibre pulp;c12;Recovered paper;tonne/tonne;0
-98;Croatia;c13;Recovered fibre pulp;c12;Recovered paper;tonne/tonne;0
-99;Iceland;c13;Recovered fibre pulp;c12;Recovered paper;tonne/tonne;0
-100;India;c13;Recovered fibre pulp;c12;Recovered paper;tonne/tonne;0
-101;Indonesia;c13;Recovered fibre pulp;c12;Recovered paper;tonne/tonne;0
-102;Iran (Islamic Republic of);c13;Recovered fibre pulp;c12;Recovered paper;tonne/tonne;1.25
-103;Iraq;c13;Recovered fibre pulp;c12;Recovered paper;tonne/tonne;0
-104;Ireland;c13;Recovered fibre pulp;c12;Recovered paper;tonne/tonne;0
-105;Israel;c13;Recovered fibre pulp;c12;Recovered paper;tonne/tonne;0
-106;Italy;c13;Recovered fibre pulp;c12;Recovered paper;tonne/tonne;0
-107;Cote d'Ivoire;c13;Recovered fibre pulp;c12;Recovered paper;tonne/tonne;0
-108;Kazakhstan;c13;Recovered fibre pulp;c12;Recovered paper;tonne/tonne;0
-109;Jamaica;c13;Recovered fibre pulp;c12;Recovered paper;tonne/tonne;0
-110;Japan;c13;Recovered fibre pulp;c12;Recovered paper;tonne/tonne;0
-112;Jordan;c13;Recovered fibre pulp;c12;Recovered paper;tonne/tonne;0
-113;Kyrgyzstan;c13;Recovered fibre pulp;c12;Recovered paper;tonne/tonne;0
-114;Kenya;c13;Recovered fibre pulp;c12;Recovered paper;tonne/tonne;0
-115;Cambodia;c13;Recovered fibre pulp;c12;Recovered paper;tonne/tonne;0
-116;Democratic People's Republic of Korea;c13;Recovered fibre pulp;c12;Recovered paper;tonne/tonne;0
-117;Republic of Korea;c13;Recovered fibre pulp;c12;Recovered paper;tonne/tonne;0
-118;Kuwait;c13;Recovered fibre pulp;c12;Recovered paper;tonne/tonne;0
-119;Latvia;c13;Recovered fibre pulp;c12;Recovered paper;tonne/tonne;0
-120;Lao People's Democratic Republic;c13;Recovered fibre pulp;c12;Recovered paper;tonne/tonne;0
-121;Lebanon;c13;Recovered fibre pulp;c12;Recovered paper;tonne/tonne;0
-122;Lesotho;c13;Recovered fibre pulp;c12;Recovered paper;tonne/tonne;0
-123;Liberia;c13;Recovered fibre pulp;c12;Recovered paper;tonne/tonne;0
-124;Libya;c13;Recovered fibre pulp;c12;Recovered paper;tonne/tonne;0
-125;Liechtenstein;c13;Recovered fibre pulp;c12;Recovered paper;tonne/tonne;0
-126;Lithuania;c13;Recovered fibre pulp;c12;Recovered paper;tonne/tonne;0
-128;China, Macao SAR;c13;Recovered fibre pulp;c12;Recovered paper;tonne/tonne;0
-129;Madagascar;c13;Recovered fibre pulp;c12;Recovered paper;tonne/tonne;0
-130;Malawi;c13;Recovered fibre pulp;c12;Recovered paper;tonne/tonne;0
-131;Malaysia;c13;Recovered fibre pulp;c12;Recovered paper;tonne/tonne;1.3
-132;Maldives;c13;Recovered fibre pulp;c12;Recovered paper;tonne/tonne;0
-133;Mali;c13;Recovered fibre pulp;c12;Recovered paper;tonne/tonne;0
-134;Malta;c13;Recovered fibre pulp;c12;Recovered paper;tonne/tonne;0
-135;Martinique;c13;Recovered fibre pulp;c12;Recovered paper;tonne/tonne;0
-136;Mauritania;c13;Recovered fibre pulp;c12;Recovered paper;tonne/tonne;0
-137;Mauritius;c13;Recovered fibre pulp;c12;Recovered paper;tonne/tonne;0
-138;Mexico;c13;Recovered fibre pulp;c12;Recovered paper;tonne/tonne;0
-141;Mongolia;c13;Recovered fibre pulp;c12;Recovered paper;tonne/tonne;0
-143;Morocco;c13;Recovered fibre pulp;c12;Recovered paper;tonne/tonne;0
-144;Mozambique;c13;Recovered fibre pulp;c12;Recovered paper;tonne/tonne;0
-145;Micronesia (Federated States of);c13;Recovered fibre pulp;c12;Recovered paper;tonne/tonne;0
-146;Republic of Moldova;c13;Recovered fibre pulp;c12;Recovered paper;tonne/tonne;0
-147;Namibia;c13;Recovered fibre pulp;c12;Recovered paper;tonne/tonne;0
-149;Nepal;c13;Recovered fibre pulp;c12;Recovered paper;tonne/tonne;0
-150;Netherlands;c13;Recovered fibre pulp;c12;Recovered paper;tonne/tonne;0
-151;Netherlands Antilles;c13;Recovered fibre pulp;c12;Recovered paper;tonne/tonne;0
-153;New Caledonia;c13;Recovered fibre pulp;c12;Recovered paper;tonne/tonne;0
-154;North Macedonia;c13;Recovered fibre pulp;c12;Recovered paper;tonne/tonne;0
-155;Vanuatu;c13;Recovered fibre pulp;c12;Recovered paper;tonne/tonne;0
-156;New Zealand;c13;Recovered fibre pulp;c12;Recovered paper;tonne/tonne;0
-157;Nicaragua;c13;Recovered fibre pulp;c12;Recovered paper;tonne/tonne;0
-158;Niger;c13;Recovered fibre pulp;c12;Recovered paper;tonne/tonne;0
-159;Nigeria;c13;Recovered fibre pulp;c12;Recovered paper;tonne/tonne;0
-160;Niue;c13;Recovered fibre pulp;c12;Recovered paper;tonne/tonne;0
-161;Norfolk Island;c13;Recovered fibre pulp;c12;Recovered paper;tonne/tonne;0
-162;Norway;c13;Recovered fibre pulp;c12;Recovered paper;tonne/tonne;0
-165;Pakistan;c13;Recovered fibre pulp;c12;Recovered paper;tonne/tonne;0
-166;Panama;c13;Recovered fibre pulp;c12;Recovered paper;tonne/tonne;0
-167;Czechia;c13;Recovered fibre pulp;c12;Recovered paper;tonne/tonne;0
-168;Papua New Guinea;c13;Recovered fibre pulp;c12;Recovered paper;tonne/tonne;0
-169;Paraguay;c13;Recovered fibre pulp;c12;Recovered paper;tonne/tonne;0
-170;Peru;c13;Recovered fibre pulp;c12;Recovered paper;tonne/tonne;0
-171;Philippines;c13;Recovered fibre pulp;c12;Recovered paper;tonne/tonne;0
-173;Poland;c13;Recovered fibre pulp;c12;Recovered paper;tonne/tonne;1.1
-174;Portugal;c13;Recovered fibre pulp;c12;Recovered paper;tonne/tonne;1.19
-175;Guinea-Bissau;c13;Recovered fibre pulp;c12;Recovered paper;tonne/tonne;0
-176;Timor-Leste;c13;Recovered fibre pulp;c12;Recovered paper;tonne/tonne;0
-178;Eritrea;c13;Recovered fibre pulp;c12;Recovered paper;tonne/tonne;0
-179;Qatar;c13;Recovered fibre pulp;c12;Recovered paper;tonne/tonne;0
-181;Zimbabwe;c13;Recovered fibre pulp;c12;Recovered paper;tonne/tonne;0
-182;Reunion;c13;Recovered fibre pulp;c12;Recovered paper;tonne/tonne;0
-183;Romania;c13;Recovered fibre pulp;c12;Recovered paper;tonne/tonne;0
-184;Rwanda;c13;Recovered fibre pulp;c12;Recovered paper;tonne/tonne;0
-185;Russian Federation;c13;Recovered fibre pulp;c12;Recovered paper;tonne/tonne;1.1
-186;Serbia and Montenegro;c13;Recovered fibre pulp;c12;Recovered paper;tonne/tonne;0
-189;Saint Lucia;c13;Recovered fibre pulp;c12;Recovered paper;tonne/tonne;0
-190;Saint Pierre and Miquelon;c13;Recovered fibre pulp;c12;Recovered paper;tonne/tonne;0
-191;Saint Vincent and the Grenadines;c13;Recovered fibre pulp;c12;Recovered paper;tonne/tonne;0
-193;Sao Tome and Principe;c13;Recovered fibre pulp;c12;Recovered paper;tonne/tonne;0
-194;Saudi Arabia;c13;Recovered fibre pulp;c12;Recovered paper;tonne/tonne;0
-195;Senegal;c13;Recovered fibre pulp;c12;Recovered paper;tonne/tonne;0
-196;Seychelles;c13;Recovered fibre pulp;c12;Recovered paper;tonne/tonne;0
-197;Sierra Leone;c13;Recovered fibre pulp;c12;Recovered paper;tonne/tonne;0
-198;Slovenia;c13;Recovered fibre pulp;c12;Recovered paper;tonne/tonne;1.2
-199;Slovakia;c13;Recovered fibre pulp;c12;Recovered paper;tonne/tonne;1.3
-200;Singapore;c13;Recovered fibre pulp;c12;Recovered paper;tonne/tonne;0
-201;Somalia;c13;Recovered fibre pulp;c12;Recovered paper;tonne/tonne;0
-202;South Africa;c13;Recovered fibre pulp;c12;Recovered paper;tonne/tonne;0
-203;Spain;c13;Recovered fibre pulp;c12;Recovered paper;tonne/tonne;1.15
-207;Suriname;c13;Recovered fibre pulp;c12;Recovered paper;tonne/tonne;0
-208;Tajikistan;c13;Recovered fibre pulp;c12;Recovered paper;tonne/tonne;0
-209;Eswatini;c13;Recovered fibre pulp;c12;Recovered paper;tonne/tonne;0
-210;Sweden;c13;Recovered fibre pulp;c12;Recovered paper;tonne/tonne;0
-211;Switzerland;c13;Recovered fibre pulp;c12;Recovered paper;tonne/tonne;0
-212;Syrian Arab Republic;c13;Recovered fibre pulp;c12;Recovered paper;tonne/tonne;0
-213;Turkmenistan;c13;Recovered fibre pulp;c12;Recovered paper;tonne/tonne;0
-214;China, Taiwan Province of;c13;Recovered fibre pulp;c12;Recovered paper;tonne/tonne;0
-215;United Republic of Tanzania;c13;Recovered fibre pulp;c12;Recovered paper;tonne/tonne;0
-216;Thailand;c13;Recovered fibre pulp;c12;Recovered paper;tonne/tonne;0
-217;Togo;c13;Recovered fibre pulp;c12;Recovered paper;tonne/tonne;0
-219;Tonga;c13;Recovered fibre pulp;c12;Recovered paper;tonne/tonne;0
-220;Trinidad and Tobago;c13;Recovered fibre pulp;c12;Recovered paper;tonne/tonne;0
-221;Oman;c13;Recovered fibre pulp;c12;Recovered paper;tonne/tonne;0
-222;Tunisia;c13;Recovered fibre pulp;c12;Recovered paper;tonne/tonne;0
-223;Turkey;c13;Recovered fibre pulp;c12;Recovered paper;tonne/tonne;0
-224;Turks and Caicos Islands;c13;Recovered fibre pulp;c12;Recovered paper;tonne/tonne;0
-225;United Arab Emirates;c13;Recovered fibre pulp;c12;Recovered paper;tonne/tonne;0
-226;Uganda;c13;Recovered fibre pulp;c12;Recovered paper;tonne/tonne;0
-229;United Kingdom;c13;Recovered fibre pulp;c12;Recovered paper;tonne/tonne;0
-230;Ukraine;c13;Recovered fibre pulp;c12;Recovered paper;tonne/tonne;0
-231;United States of America;c13;Recovered fibre pulp;c12;Recovered paper;tonne/tonne;0
-233;Burkina Faso;c13;Recovered fibre pulp;c12;Recovered paper;tonne/tonne;0
-234;Uruguay;c13;Recovered fibre pulp;c12;Recovered paper;tonne/tonne;1.2
-235;Uzbekistan;c13;Recovered fibre pulp;c12;Recovered paper;tonne/tonne;0
-236;Venezuela (Bolivarian Republic of);c13;Recovered fibre pulp;c12;Recovered paper;tonne/tonne;0
-237;Viet Nam;c13;Recovered fibre pulp;c12;Recovered paper;tonne/tonne;0
-238;Ethiopia;c13;Recovered fibre pulp;c12;Recovered paper;tonne/tonne;0
-239;British Virgin Islands;c13;Recovered fibre pulp;c12;Recovered paper;tonne/tonne;0
-244;Samoa;c13;Recovered fibre pulp;c12;Recovered paper;tonne/tonne;0
-249;Yemen;c13;Recovered fibre pulp;c12;Recovered paper;tonne/tonne;0
-250;Democratic Republic of the Congo;c13;Recovered fibre pulp;c12;Recovered paper;tonne/tonne;0
-251;Zambia;c13;Recovered fibre pulp;c12;Recovered paper;tonne/tonne;0
-255;Belgium;c13;Recovered fibre pulp;c12;Recovered paper;tonne/tonne;0
-256;Luxembourg;c13;Recovered fibre pulp;c12;Recovered paper;tonne/tonne;0
-270;Mayotte;c13;Recovered fibre pulp;c12;Recovered paper;tonne/tonne;0
-272;Serbia;c13;Recovered fibre pulp;c12;Recovered paper;tonne/tonne;0
-273;Montenegro;c13;Recovered fibre pulp;c12;Recovered paper;tonne/tonne;0
-276;Sudan;c13;Recovered fibre pulp;c12;Recovered paper;tonne/tonne;0
-277;South Sudan;c13;Recovered fibre pulp;c12;Recovered paper;tonne/tonne;0
-5;American Samoa;c13;Recovered fibre pulp;c12;Recovered paper;tonne/tonne;0
-8;Antigua and Barbuda;c13;Recovered fibre pulp;c12;Recovered paper;tonne/tonne;0
-17;Bermuda;c13;Recovered fibre pulp;c12;Recovered paper;tonne/tonne;0
-24;British Indian Ocean Territory;c13;Recovered fibre pulp;c12;Recovered paper;tonne/tonne;0
-36;Cayman Islands;c13;Recovered fibre pulp;c12;Recovered paper;tonne/tonne;0
-43;Cocos (Keeling) Islands;c13;Recovered fibre pulp;c12;Recovered paper;tonne/tonne;0
-71;French Southern and Antarctic Territories;c13;Recovered fibre pulp;c12;Recovered paper;tonne/tonne;0
-85;Greenland;c13;Recovered fibre pulp;c12;Recovered paper;tonne/tonne;0
-86;Grenada;c13;Recovered fibre pulp;c12;Recovered paper;tonne/tonne;0
-88;Guam;c13;Recovered fibre pulp;c12;Recovered paper;tonne/tonne;0
-94;Holy See;c13;Recovered fibre pulp;c12;Recovered paper;tonne/tonne;0
-127;Marshall Islands;c13;Recovered fibre pulp;c12;Recovered paper;tonne/tonne;0
-142;Montserrat;c13;Recovered fibre pulp;c12;Recovered paper;tonne/tonne;0
-148;Nauru;c13;Recovered fibre pulp;c12;Recovered paper;tonne/tonne;0
-163;Northern Mariana Islands;c13;Recovered fibre pulp;c12;Recovered paper;tonne/tonne;0
-164;Pacific Islands Trust Territory;c13;Recovered fibre pulp;c12;Recovered paper;tonne/tonne;0
-172;Pitcairn Islands;c13;Recovered fibre pulp;c12;Recovered paper;tonne/tonne;0
-180;Palau;c13;Recovered fibre pulp;c12;Recovered paper;tonne/tonne;0
-187;Saint Helena, Ascension and Tristan da Cunha;c13;Recovered fibre pulp;c12;Recovered paper;tonne/tonne;0
-188;Saint Kitts and Nevis;c13;Recovered fibre pulp;c12;Recovered paper;tonne/tonne;0
-192;San Marino;c13;Recovered fibre pulp;c12;Recovered paper;tonne/tonne;0
-205;Western Sahara;c13;Recovered fibre pulp;c12;Recovered paper;tonne/tonne;0
-218;Tokelau;c13;Recovered fibre pulp;c12;Recovered paper;tonne/tonne;0
-227;Tuvalu;c13;Recovered fibre pulp;c12;Recovered paper;tonne/tonne;0
-228;USSR;c13;Recovered fibre pulp;c12;Recovered paper;tonne/tonne;0
-242;Wake Island;c13;Recovered fibre pulp;c12;Recovered paper;tonne/tonne;0
-243;Wallis and Futuna Islands;c13;Recovered fibre pulp;c12;Recovered paper;tonne/tonne;0
-248;Yugoslav SFR;c13;Recovered fibre pulp;c12;Recovered paper;tonne/tonne;0
-258;Anguilla;c13;Recovered fibre pulp;c12;Recovered paper;tonne/tonne;0
-279;Cura√ßao;c13;Recovered fibre pulp;c12;Recovered paper;tonne/tonne;0
-281;Saint-Martin (French Part);c13;Recovered fibre pulp;c12;Recovered paper;tonne/tonne;0
-299;Palestine;c13;Recovered fibre pulp;c12;Recovered paper;tonne/tonne;0
-252;Unspecified Area;c13;Recovered fibre pulp;c12;Recovered paper;tonne/tonne;0
-254;Others (adjustment);c13;Recovered fibre pulp;c12;Recovered paper;tonne/tonne;0
-;ASI;c13;Recovered fibre pulp;c12;Recovered paper;tonne/tonne;1.26
-;EUR;c13;Recovered fibre pulp;c12;Recovered paper;tonne/tonne;1.19
-;AFR;c13;Recovered fibre pulp;c12;Recovered paper;tonne/tonne;0
-;LAM;c13;Recovered fibre pulp;c12;Recovered paper;tonne/tonne;1.2
-;OCE;c13;Recovered fibre pulp;c12;Recovered paper;tonne/tonne;0
-;NAM;c13;Recovered fibre pulp;c12;Recovered paper;tonne/tonne;0

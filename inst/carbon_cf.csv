@@ -18,7 +18,7 @@ c13;Recovered pulp;;;0.386;Own assumption based on IPCC (2019)
 c14;Paper and paper board;0.9;;0.386;IPCC (2019)
 c15;Wood pellets and other agglomerates;;;0.508;Baumgartner et al. (2015)
 c16;Charcoal;0.9;0.85;0.765;IPCC (2019)
-c17;Wood chips and particles;0.458;0.5;0.229;IPCC (2019)
-c18;Wood residues;0.458;0.5;0.229; IPCC (2019)
+c17;Wood chips and particles;0.458;0.5;0.07633;IPCC (2019) divided by 3
+c18;Wood residues;0.458;0.5;0.07633; IPCC (2019) divided by 3
 c19;Post-consumer wood;;;0.25625;Own assumption (average c04-7)
 c20;Black Liquor;;;0.5;Own assumption

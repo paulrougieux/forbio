@@ -1,0 +1,23 @@
+proc_code;process
+p01;Industrial roundwood production, coniferous
+p02;Industrial roundwood production, non-coniferous 
+p03;Wood fuel production
+p04;Sawmill industry, coniferous
+p05;Sawmill industry, non-coniferous
+p06;Veneer production
+p07;Plywood production
+p08;Fibreboard production
+p09;Particle board production
+p09;Particle board production
+p10;OSB production
+p11a;Chemical wood pulp production
+p11b;Mechanical and semi-chemical pulp production
+p11c;Non-wood pulp production
+p11d;Dissolving wood pulp production
+p12;Paper recovery
+p13;Recovered pulp production
+p14;Paper and paperboard production
+p15;Pellet and agglomerate production
+p16;Charcoal production
+p17;Wood recovery
+pxy;Unknown source
