@@ -21,6 +21,7 @@ sup[continent == "EU", continent := "EUR"]
 sup <- merge(sup, sup_cont[, .(continent = area, proc_code, 
   c_product = product, c_chips = chips, c_residues = residues)],
   by = c("continent", "proc_code"), all.x = TRUE)
+
 sup[, c_losses := 100 - (c_product + c_chips + c_residues)]
 sup[!is.na(product) & is.na(chips), 
     `:=`(chips = (100 - product - c_losses) / (c_chips + c_residues) * c_chips,
@@ -42,11 +43,6 @@ sup[is.na(product),
     `:=`(product = w_product, chips = w_chips, residues = w_residues)]
 sup[, `:=`(w_product = NULL, w_chips = NULL, w_residues = NULL)]
 
-# add world average MB for RoW
-row <- sup[area_code == 252]
-row[, `:=`(area = "RoW", area_code = 999)]
-sup <- rbindlist(list(sup, row))
-
 
 # shift 20% of chips to product and residues
 # because chips actually includes peeler cores, etc.
@@ -62,16 +58,17 @@ sup[, `:=`(product = product / total,
            total = NULL)]
 
 fwrite(sup, "inst/mb_sup_tidy.csv")
-rm(sup, sup_cont, sup_wrld, row)
+rm(sup, sup_cont, sup_wrld)
 
 
 
 # TCF USE ----------------------------------------------------------------
 
-cat("\nTidying technical conversion factors for use tables.\n")
+cat("\nTidying input-output technical conversion factors for use tables.\n")
 
 use <- fread("inst/tcf_use.csv")
 use[tcf == 0, tcf := NA]
+
 use_cont <- use[is.na(area_code)]
 use <- merge(use, regions[, .(area_code, continent)],
   by = "area_code")
@@ -95,12 +92,177 @@ use[, `:=`(tcf = ifelse(!is.na(tcf), tcf,
   ifelse(!is.na(c_tcf), c_tcf, w_tcf)), 
   c_tcf = NULL, w_tcf = NULL)]
 
-# add world average MB for RoW
-row <- use[area_code == 252]
-row[, `:=`(area = "RoW", area_code = 999)]
-use <- rbindlist(list(use, row))
-
 
 use <- use[, c("continent", "area_code", "area", "com_code","item","source_code","source","unit","tcf")]
 
 fwrite(use, "inst/tcf_use_tidy.csv")
+
+
+# Carbon TCF -------------------------------------------------------------
+
+cat("\nTidying different technical conversion factors to calculate carbon TCF in X steps.\n")
+# tcf in c01, c02, c03, c17 and c18 already refered to the basic density
+# that is (oven) dry weight to green volumen (c01-c03) or m3 product (c17,c18)
+
+## step 1
+cat("\nStep 1: Tidying density-related factors.\n")
+
+# upload density-related factors
+density <- fread("inst/tcf_density.csv")
+density[tcf == 0, tcf :=NA]
+
+# convert kg into tonne
+density[unit %in% c("kg/m3"),
+        `:=`(tcf = tcf / 1000)]
+density[unit == "kg/m3", unit := "tonne/m3"]
+
+density_cont <- density[is.na(area_code)]
+density <- merge(density, regions[, .(area_code, continent)],
+                 by = "area_code")
+density[continent == "EU", continent :="EUR"]
+
+# calculate world averages
+density_wrld <- density_cont %>%
+  group_by(com_code, source_code, unit) %>%
+  summarize(w_tcf = mean(tcf, na.rm = TRUE)) %>%
+  ungroup()
+
+# apply continental average tcf where no country-specific value available
+density <- merge(density, density_cont[, .(continent = area, com_code, source_code, unit, c_tcf = tcf)],
+            by = c ("continent", "com_code", "source_code", "unit"), all.x = TRUE)
+
+# apply world average tcf where no continental average available
+density <- merge(density, density_wrld,
+            by = c("com_code", "source_code", "unit"), all.x = TRUE)
+
+density[, `:=`(tcf = ifelse(!is.na(tcf), tcf, 
+                         ifelse(!is.na(tcf), c_tcf, w_tcf)), 
+           c_tcf = NULL, w_tcf = NULL)]
+
+
+density <- density[, c("continent", "area_code", "area", "com_code","item","source_code", "source", "unit", "tcf")]
+
+fwrite(density, "inst/density_tidy.csv")
+rm(density, density_cont, density_wrld)
+
+
+## step 2
+cat("\nStep 2: Tidying wood percetange value in wood-based panels.\n")
+
+# tidy wood percentage in wood-based panels
+wbp <- fread("inst/wood_wbp.csv")
+
+wbp[wood == 0, wood := NA]
+
+wbp_cont <- wbp[is.na(area_code)]
+wbp <- merge(wbp, regions[, .(area_code, continent)],
+            by = "area_code")
+wbp[continent == "EU", continent := "EUR"]
+
+wbp_wrld <- wbp_cont %>% 
+  group_by(com_code) %>% 
+  summarize(w_wood = mean(wood, na.rm = TRUE)) %>% 
+  ungroup()
+
+wbp <- merge(wbp, wbp_cont[, .(continent = area, com_code, c_wood = wood)], 
+            by = c("continent", "com_code"), all.x = TRUE)
+
+wbp <- merge(wbp, wbp_wrld,
+            by = c("com_code"), all.x = TRUE)
+
+wbp[, `:=`(wood = ifelse(!is.na(wood), wood, 
+                       ifelse(!is.na(c_wood), c_wood, w_wood)), 
+          c_wood = NULL, w_wood = NULL)]
+
+wbp <- wbp[, c("continent", "area_code", "area", "com_code","item","wood")]
+
+fwrite(wbp, "inst/wbp_tidy.csv")
+rm(wbp, wbp_cont, wbp_wrld)
+
+## step 3: basic density for wood-based panels (c08,c09,c10)
+cat("\nStep 3: Calculate basic density of wood-based panels.\n")
+
+# upload basic density and wood percentage data
+density <- fread("inst/density_tidy.csv")
+wbp <- fread("inst/wbp_tidy.csv")
+
+bd <- merge(density, wbp,
+             by = c("continent", "area_code", "area", "com_code", "item"), all.x = TRUE)
+
+# calculate wood basic density
+bd[, tcf_bd := tcf * wood / 100]
+
+bd[, `:=`(wood = NULL)]
+
+## step 4: basic density for sawnwood C, sawnwood NC, veneer and plywood (c04-c07)
+cat("\nStep 4: Calculate basic density of sawnwood C, sawnwood NC, veneer and plywood .\n")
+
+# upload & tidy shrinkage data
+shrinkage <- fread ("inst/shrinkage.csv")
+shrinkage[shrinkage == 0, shrinkage := NA]
+
+shrinkage_cont <- shrinkage[is.na(area_code)]
+shrinkage <- merge(shrinkage, regions[, .(area_code, continent)],
+             by = "area_code")
+shrinkage[continent == "EU", continent := "EUR"]
+
+shrinkage_wrld <- shrinkage_cont %>% 
+  group_by(com_code, source_code) %>% 
+  summarize(w_shrinkage = mean(shrinkage, na.rm = TRUE)) %>% 
+  ungroup()
+
+shrinkage <- merge(shrinkage, shrinkage_cont[, .(continent = area, com_code, source_code, c_shrinkage = shrinkage)], 
+             by = c("continent", "com_code", "source_code"), all.x = TRUE)
+
+shrinkage <- merge(shrinkage, shrinkage_wrld,
+             by = c("com_code", "source_code"), all.x = TRUE)
+
+shrinkage[, `:=`(shrinkage = ifelse(!is.na(shrinkage), shrinkage, 
+                        ifelse(!is.na(c_shrinkage), c_shrinkage, w_shrinkage)), 
+           c_shrinkage = NULL, w_shrinkage = NULL)]
+
+
+shrinkage <- shrinkage[, c("continent", "area_code", "area", "com_code","item","source_code","shrinkage")]
+
+fwrite(shrinkage, "inst/shrinkage_tidy.csv")
+rm(shrinkage_cont, shrinkage_wrld)
+
+# merge shrinkage data
+bd <- merge(bd, shrinkage,
+            by = c("continent", "area_code", "area", "com_code", "item", "source_code"), all.x = TRUE)
+
+# calculate basic density for c04 (standard moisture content 15%)
+bd[com_code %in% c("c04"),
+   `:=`(tcf_bd = tcf * (100 - shrinkage) / (100 + 15))]
+
+# calculate basic density for c05 (standard moisture content 12%)
+bd[com_code %in% c("c05"),
+   `:=`(tcf_bd = tcf * (100 - shrinkage) / (100 + 12))]
+
+# calculate basic density for c06 and c07 (standard moisture content 8%)
+bd[com_code %in% c("c06", "c07"),
+   `:=`(tcf_bd = tcf * (100 - shrinkage) / (100 + 8))]
+
+bd[, `:=`(shrinkage = NULL)]
+
+
+## step 6: Building carbon TCF
+cat("\nStep 6: Building carbon TCF.\n")
+
+bd[is.na(tcf_bd), tcf_bd := tcf]
+
+bd[, `:=`(tcf = NULL)]
+
+
+# Multiply by 0.5 all
+bd[, tcf_carbon := tcf_bd * 0.5]
+
+
+# Except for charcoal, which has 0.85 carbon content
+bd[com_code %in% c("c16"),
+      tcf_carbon := tcf_bd * 0.85 / 0.5]
+
+carbon <- bd[, c("continent", "area_code", "area", "com_code","item","source_code","tcf_carbon")]
+
+fwrite(shrinkage, "inst/carbon_tidy.csv")
+

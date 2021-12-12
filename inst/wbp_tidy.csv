@@ -1,0 +1,733 @@
+continent,area_code,area,com_code,item,wood
+AFR,4,Algeria,c08,Fibreboard,83.4333333333333
+AFR,7,Angola,c08,Fibreboard,83.4333333333333
+AFR,20,Botswana,c08,Fibreboard,83.4333333333333
+AFR,29,Burundi,c08,Fibreboard,83.4333333333333
+AFR,32,Cameroon,c08,Fibreboard,83.4333333333333
+AFR,35,Cabo Verde,c08,Fibreboard,83.4333333333333
+AFR,37,Central African Republic,c08,Fibreboard,83.4333333333333
+AFR,39,Chad,c08,Fibreboard,83.4333333333333
+AFR,45,Comoros,c08,Fibreboard,83.4333333333333
+AFR,46,Congo,c08,Fibreboard,83.4333333333333
+AFR,53,Benin,c08,Fibreboard,83.4333333333333
+AFR,59,Egypt,c08,Fibreboard,83.4333333333333
+AFR,61,Equatorial Guinea,c08,Fibreboard,83.4333333333333
+AFR,72,Djibouti,c08,Fibreboard,83.4333333333333
+AFR,74,Gabon,c08,Fibreboard,83.4333333333333
+AFR,75,Gambia,c08,Fibreboard,83.4333333333333
+AFR,81,Ghana,c08,Fibreboard,83.4333333333333
+AFR,90,Guinea,c08,Fibreboard,83.4333333333333
+AFR,107,Cote d'Ivoire,c08,Fibreboard,83.4333333333333
+AFR,114,Kenya,c08,Fibreboard,83.4333333333333
+AFR,122,Lesotho,c08,Fibreboard,83.4333333333333
+AFR,123,Liberia,c08,Fibreboard,83.4333333333333
+AFR,124,Libya,c08,Fibreboard,83.4333333333333
+AFR,129,Madagascar,c08,Fibreboard,83.4333333333333
+AFR,130,Malawi,c08,Fibreboard,83.4333333333333
+AFR,133,Mali,c08,Fibreboard,83.4333333333333
+AFR,136,Mauritania,c08,Fibreboard,83.4333333333333
+AFR,137,Mauritius,c08,Fibreboard,83.4333333333333
+AFR,143,Morocco,c08,Fibreboard,83.4333333333333
+AFR,144,Mozambique,c08,Fibreboard,83.4333333333333
+AFR,147,Namibia,c08,Fibreboard,83.4333333333333
+AFR,158,Niger,c08,Fibreboard,83.4333333333333
+AFR,159,Nigeria,c08,Fibreboard,83.4333333333333
+AFR,175,Guinea-Bissau,c08,Fibreboard,83.4333333333333
+AFR,178,Eritrea,c08,Fibreboard,83.4333333333333
+AFR,181,Zimbabwe,c08,Fibreboard,83.4333333333333
+AFR,182,Reunion,c08,Fibreboard,83.4333333333333
+AFR,184,Rwanda,c08,Fibreboard,83.4333333333333
+AFR,187,"Saint Helena, Ascension and Tristan da Cunha",c08,Fibreboard,83.4333333333333
+AFR,193,Sao Tome and Principe,c08,Fibreboard,83.4333333333333
+AFR,195,Senegal,c08,Fibreboard,83.4333333333333
+AFR,196,Seychelles,c08,Fibreboard,83.4333333333333
+AFR,197,Sierra Leone,c08,Fibreboard,83.4333333333333
+AFR,201,Somalia,c08,Fibreboard,83.4333333333333
+AFR,202,South Africa,c08,Fibreboard,83.4333333333333
+AFR,205,Western Sahara,c08,Fibreboard,83.4333333333333
+AFR,209,Eswatini,c08,Fibreboard,83.4333333333333
+AFR,215,United Republic of Tanzania,c08,Fibreboard,83.4333333333333
+AFR,217,Togo,c08,Fibreboard,83.4333333333333
+AFR,219,Tonga,c08,Fibreboard,83.4333333333333
+AFR,222,Tunisia,c08,Fibreboard,83.4333333333333
+AFR,226,Uganda,c08,Fibreboard,83.4333333333333
+AFR,233,Burkina Faso,c08,Fibreboard,83.4333333333333
+AFR,238,Ethiopia,c08,Fibreboard,83.4333333333333
+AFR,250,Democratic Republic of the Congo,c08,Fibreboard,83.4333333333333
+AFR,251,Zambia,c08,Fibreboard,83.4333333333333
+AFR,270,Mayotte,c08,Fibreboard,83.4333333333333
+AFR,276,Sudan,c08,Fibreboard,83.4333333333333
+AFR,277,South Sudan,c08,Fibreboard,83.4333333333333
+ASI,1,Armenia,c08,Fibreboard,83.3
+ASI,2,Afghanistan,c08,Fibreboard,83.3
+ASI,13,Bahrain,c08,Fibreboard,83.3
+ASI,16,Bangladesh,c08,Fibreboard,83.3
+ASI,18,Bhutan,c08,Fibreboard,83.3
+ASI,24,British Indian Ocean Territory,c08,Fibreboard,83.3
+ASI,26,Brunei Darussalam,c08,Fibreboard,83.3
+ASI,28,Myanmar,c08,Fibreboard,83.3
+ASI,38,Sri Lanka,c08,Fibreboard,83.3
+ASI,41,"China, mainland",c08,Fibreboard,80
+ASI,52,Azerbaijan,c08,Fibreboard,83.3
+ASI,73,Georgia,c08,Fibreboard,83.3
+ASI,96,"China, Hong Kong SAR",c08,Fibreboard,83.3
+ASI,100,India,c08,Fibreboard,83.3
+ASI,101,Indonesia,c08,Fibreboard,85
+ASI,102,Iran (Islamic Republic of),c08,Fibreboard,83.3
+ASI,103,Iraq,c08,Fibreboard,83.3
+ASI,105,Israel,c08,Fibreboard,83.3
+ASI,108,Kazakhstan,c08,Fibreboard,83.3
+ASI,110,Japan,c08,Fibreboard,83.3
+ASI,112,Jordan,c08,Fibreboard,83.3
+ASI,113,Kyrgyzstan,c08,Fibreboard,83.3
+ASI,115,Cambodia,c08,Fibreboard,83.3
+ASI,116,Democratic People's Republic of Korea,c08,Fibreboard,83.3
+ASI,117,Republic of Korea,c08,Fibreboard,83.3
+ASI,118,Kuwait,c08,Fibreboard,83.3
+ASI,120,Lao People's Democratic Republic,c08,Fibreboard,83.3
+ASI,121,Lebanon,c08,Fibreboard,83.3
+ASI,128,"China, Macao SAR",c08,Fibreboard,83.3
+ASI,131,Malaysia,c08,Fibreboard,85
+ASI,132,Maldives,c08,Fibreboard,83.3
+ASI,141,Mongolia,c08,Fibreboard,83.3
+ASI,149,Nepal,c08,Fibreboard,83.3
+ASI,164,Pacific Islands Trust Territory,c08,Fibreboard,83.3
+ASI,165,Pakistan,c08,Fibreboard,83.3
+ASI,171,Philippines,c08,Fibreboard,83.3
+ASI,176,Timor-Leste,c08,Fibreboard,83.3
+ASI,179,Qatar,c08,Fibreboard,83.3
+ASI,185,Russian Federation,c08,Fibreboard,83.3
+ASI,194,Saudi Arabia,c08,Fibreboard,83.3
+ASI,200,Singapore,c08,Fibreboard,83.3
+ASI,208,Tajikistan,c08,Fibreboard,83.3
+ASI,212,Syrian Arab Republic,c08,Fibreboard,83.3
+ASI,213,Turkmenistan,c08,Fibreboard,83.3
+ASI,214,"China, Taiwan Province of",c08,Fibreboard,83.3
+ASI,216,Thailand,c08,Fibreboard,83.3
+ASI,221,Oman,c08,Fibreboard,83.3
+ASI,225,United Arab Emirates,c08,Fibreboard,83.3
+ASI,228,USSR,c08,Fibreboard,83.3
+ASI,235,Uzbekistan,c08,Fibreboard,83.3
+ASI,237,Viet Nam,c08,Fibreboard,83.3
+ASI,249,Yemen,c08,Fibreboard,83.3
+ASI,299,Palestine,c08,Fibreboard,83.3
+EUR,3,Albania,c08,Fibreboard,84
+EUR,6,Andorra,c08,Fibreboard,84
+EUR,11,Austria,c08,Fibreboard,84
+EUR,15,Belgium-Luxembourg,c08,Fibreboard,84
+EUR,27,Bulgaria,c08,Fibreboard,84
+EUR,50,Cyprus,c08,Fibreboard,84
+EUR,51,Czechoslovakia,c08,Fibreboard,84
+EUR,54,Denmark,c08,Fibreboard,84
+EUR,57,Belarus,c08,Fibreboard,84
+EUR,63,Estonia,c08,Fibreboard,84
+EUR,64,Faroe Islands,c08,Fibreboard,84
+EUR,67,Finland,c08,Fibreboard,84
+EUR,68,France,c08,Fibreboard,83
+EUR,79,Germany,c08,Fibreboard,84
+EUR,80,Bosnia and Herzegovina,c08,Fibreboard,84
+EUR,82,Gibraltar,c08,Fibreboard,84
+EUR,84,Greece,c08,Fibreboard,84
+EUR,85,Greenland,c08,Fibreboard,84
+EUR,94,Holy See,c08,Fibreboard,84
+EUR,97,Hungary,c08,Fibreboard,84
+EUR,98,Croatia,c08,Fibreboard,84
+EUR,99,Iceland,c08,Fibreboard,84
+EUR,104,Ireland,c08,Fibreboard,85
+EUR,106,Italy,c08,Fibreboard,84
+EUR,119,Latvia,c08,Fibreboard,84
+EUR,125,Liechtenstein,c08,Fibreboard,84
+EUR,126,Lithuania,c08,Fibreboard,84
+EUR,134,Malta,c08,Fibreboard,84
+EUR,146,Republic of Moldova,c08,Fibreboard,84
+EUR,150,Netherlands,c08,Fibreboard,84
+EUR,154,North Macedonia,c08,Fibreboard,84
+EUR,162,Norway,c08,Fibreboard,84
+EUR,167,Czechia,c08,Fibreboard,84
+EUR,173,Poland,c08,Fibreboard,82
+EUR,174,Portugal,c08,Fibreboard,85
+EUR,183,Romania,c08,Fibreboard,84
+EUR,186,Serbia and Montenegro,c08,Fibreboard,84
+EUR,192,San Marino,c08,Fibreboard,84
+EUR,198,Slovenia,c08,Fibreboard,84
+EUR,199,Slovakia,c08,Fibreboard,84
+EUR,203,Spain,c08,Fibreboard,84
+EUR,210,Sweden,c08,Fibreboard,84
+EUR,211,Switzerland,c08,Fibreboard,84
+EUR,223,Turkey,c08,Fibreboard,84
+EUR,229,United Kingdom,c08,Fibreboard,84
+EUR,230,Ukraine,c08,Fibreboard,84
+EUR,248,Yugoslav SFR,c08,Fibreboard,84
+EUR,255,Belgium,c08,Fibreboard,84
+EUR,256,Luxembourg,c08,Fibreboard,84
+EUR,272,Serbia,c08,Fibreboard,84
+EUR,273,Montenegro,c08,Fibreboard,84
+LAM,8,Antigua and Barbuda,c08,Fibreboard,83
+LAM,9,Argentina,c08,Fibreboard,83
+LAM,12,Bahamas,c08,Fibreboard,83
+LAM,14,Barbados,c08,Fibreboard,83
+LAM,17,Bermuda,c08,Fibreboard,83
+LAM,19,Bolivia (Plurinational State of),c08,Fibreboard,83
+LAM,21,Brazil,c08,Fibreboard,83
+LAM,22,Aruba,c08,Fibreboard,83
+LAM,23,Belize,c08,Fibreboard,83
+LAM,36,Cayman Islands,c08,Fibreboard,83
+LAM,40,Chile,c08,Fibreboard,83
+LAM,44,Colombia,c08,Fibreboard,83
+LAM,48,Costa Rica,c08,Fibreboard,83
+LAM,49,Cuba,c08,Fibreboard,83
+LAM,55,Dominica,c08,Fibreboard,83
+LAM,56,Dominican Republic,c08,Fibreboard,83
+LAM,58,Ecuador,c08,Fibreboard,83
+LAM,60,El Salvador,c08,Fibreboard,83
+LAM,65,Falkland Islands (Malvinas),c08,Fibreboard,83
+LAM,69,French Guyana,c08,Fibreboard,83
+LAM,86,Grenada,c08,Fibreboard,83
+LAM,87,Guadeloupe,c08,Fibreboard,83
+LAM,89,Guatemala,c08,Fibreboard,83
+LAM,91,Guyana,c08,Fibreboard,83
+LAM,93,Haiti,c08,Fibreboard,83
+LAM,95,Honduras,c08,Fibreboard,83
+LAM,109,Jamaica,c08,Fibreboard,83
+LAM,135,Martinique,c08,Fibreboard,83
+LAM,138,Mexico,c08,Fibreboard,83
+LAM,142,Montserrat,c08,Fibreboard,83
+LAM,151,Netherlands Antilles,c08,Fibreboard,83
+LAM,157,Nicaragua,c08,Fibreboard,83
+LAM,166,Panama,c08,Fibreboard,83
+LAM,169,Paraguay,c08,Fibreboard,83
+LAM,170,Peru,c08,Fibreboard,83
+LAM,188,Saint Kitts and Nevis,c08,Fibreboard,83
+LAM,189,Saint Lucia,c08,Fibreboard,83
+LAM,191,Saint Vincent and the Grenadines,c08,Fibreboard,83
+LAM,207,Suriname,c08,Fibreboard,83
+LAM,220,Trinidad and Tobago,c08,Fibreboard,83
+LAM,224,Turks and Caicos Islands,c08,Fibreboard,83
+LAM,234,Uruguay,c08,Fibreboard,83
+LAM,236,Venezuela (Bolivarian Republic of),c08,Fibreboard,83
+LAM,239,British Virgin Islands,c08,Fibreboard,83
+LAM,258,Anguilla,c08,Fibreboard,83
+LAM,279,Curaçao,c08,Fibreboard,83
+LAM,281,Saint-Martin (French Part),c08,Fibreboard,83
+NAM,33,Canada,c08,Fibreboard,83.4333333333333
+NAM,190,Saint Pierre and Miquelon,c08,Fibreboard,83.4333333333333
+NAM,231,United States of America,c08,Fibreboard,83.4333333333333
+OCE,5,American Samoa,c08,Fibreboard,83.4333333333333
+OCE,10,Australia,c08,Fibreboard,83.4333333333333
+OCE,25,Solomon Islands,c08,Fibreboard,83.4333333333333
+OCE,42,Christmas Island,c08,Fibreboard,83.4333333333333
+OCE,43,Cocos (Keeling) Islands,c08,Fibreboard,83.4333333333333
+OCE,47,Cook Islands,c08,Fibreboard,83.4333333333333
+OCE,66,Fiji,c08,Fibreboard,83.4333333333333
+OCE,70,French Polynesia,c08,Fibreboard,83.4333333333333
+OCE,71,French Southern and Antarctic Territories,c08,Fibreboard,83.4333333333333
+OCE,83,Kiribati,c08,Fibreboard,83.4333333333333
+OCE,88,Guam,c08,Fibreboard,83.4333333333333
+OCE,127,Marshall Islands,c08,Fibreboard,83.4333333333333
+OCE,145,Micronesia (Federated States of),c08,Fibreboard,83.4333333333333
+OCE,148,Nauru,c08,Fibreboard,83.4333333333333
+OCE,153,New Caledonia,c08,Fibreboard,83.4333333333333
+OCE,155,Vanuatu,c08,Fibreboard,83.4333333333333
+OCE,156,New Zealand,c08,Fibreboard,83.4333333333333
+OCE,160,Niue,c08,Fibreboard,83.4333333333333
+OCE,161,Norfolk Island,c08,Fibreboard,83.4333333333333
+OCE,163,Northern Mariana Islands,c08,Fibreboard,83.4333333333333
+OCE,168,Papua New Guinea,c08,Fibreboard,83.4333333333333
+OCE,172,Pitcairn Islands,c08,Fibreboard,83.4333333333333
+OCE,180,Palau,c08,Fibreboard,83.4333333333333
+OCE,218,Tokelau,c08,Fibreboard,83.4333333333333
+OCE,227,Tuvalu,c08,Fibreboard,83.4333333333333
+OCE,242,Wake Island,c08,Fibreboard,83.4333333333333
+OCE,243,Wallis and Futuna Islands,c08,Fibreboard,83.4333333333333
+OCE,244,Samoa,c08,Fibreboard,83.4333333333333
+ROW,999,RoW,c08,Fibreboard,83.4333333333333
+XXX,252,Unspecified Area,c08,Fibreboard,83.4333333333333
+XXX,254,Others (adjustment),c08,Fibreboard,83.4333333333333
+AFR,4,Algeria,c09,Particle board,82.25
+AFR,7,Angola,c09,Particle board,82.25
+AFR,20,Botswana,c09,Particle board,82.25
+AFR,29,Burundi,c09,Particle board,82.25
+AFR,32,Cameroon,c09,Particle board,82.25
+AFR,35,Cabo Verde,c09,Particle board,82.25
+AFR,37,Central African Republic,c09,Particle board,82.25
+AFR,39,Chad,c09,Particle board,82.25
+AFR,45,Comoros,c09,Particle board,82.25
+AFR,46,Congo,c09,Particle board,82.25
+AFR,53,Benin,c09,Particle board,82.25
+AFR,59,Egypt,c09,Particle board,82.25
+AFR,61,Equatorial Guinea,c09,Particle board,82.25
+AFR,72,Djibouti,c09,Particle board,82.25
+AFR,74,Gabon,c09,Particle board,82.25
+AFR,75,Gambia,c09,Particle board,82.25
+AFR,81,Ghana,c09,Particle board,82.25
+AFR,90,Guinea,c09,Particle board,82.25
+AFR,107,Cote d'Ivoire,c09,Particle board,82.25
+AFR,114,Kenya,c09,Particle board,82.25
+AFR,122,Lesotho,c09,Particle board,82.25
+AFR,123,Liberia,c09,Particle board,82.25
+AFR,124,Libya,c09,Particle board,82.25
+AFR,129,Madagascar,c09,Particle board,82.25
+AFR,130,Malawi,c09,Particle board,82.25
+AFR,133,Mali,c09,Particle board,82.25
+AFR,136,Mauritania,c09,Particle board,82.25
+AFR,137,Mauritius,c09,Particle board,82.25
+AFR,143,Morocco,c09,Particle board,82.25
+AFR,144,Mozambique,c09,Particle board,82.25
+AFR,147,Namibia,c09,Particle board,82.25
+AFR,158,Niger,c09,Particle board,82.25
+AFR,159,Nigeria,c09,Particle board,82.25
+AFR,175,Guinea-Bissau,c09,Particle board,82.25
+AFR,178,Eritrea,c09,Particle board,82.25
+AFR,181,Zimbabwe,c09,Particle board,82.25
+AFR,182,Reunion,c09,Particle board,82.25
+AFR,184,Rwanda,c09,Particle board,82.25
+AFR,187,"Saint Helena, Ascension and Tristan da Cunha",c09,Particle board,82.25
+AFR,193,Sao Tome and Principe,c09,Particle board,82.25
+AFR,195,Senegal,c09,Particle board,82.25
+AFR,196,Seychelles,c09,Particle board,82.25
+AFR,197,Sierra Leone,c09,Particle board,82.25
+AFR,201,Somalia,c09,Particle board,82.25
+AFR,202,South Africa,c09,Particle board,82.25
+AFR,205,Western Sahara,c09,Particle board,82.25
+AFR,209,Eswatini,c09,Particle board,82.25
+AFR,215,United Republic of Tanzania,c09,Particle board,82.25
+AFR,217,Togo,c09,Particle board,82.25
+AFR,219,Tonga,c09,Particle board,82.25
+AFR,222,Tunisia,c09,Particle board,82.25
+AFR,226,Uganda,c09,Particle board,82.25
+AFR,233,Burkina Faso,c09,Particle board,82.25
+AFR,238,Ethiopia,c09,Particle board,82.25
+AFR,250,Democratic Republic of the Congo,c09,Particle board,82.25
+AFR,251,Zambia,c09,Particle board,82.25
+AFR,270,Mayotte,c09,Particle board,82.25
+AFR,276,Sudan,c09,Particle board,82.25
+AFR,277,South Sudan,c09,Particle board,82.25
+ASI,1,Armenia,c09,Particle board,82
+ASI,2,Afghanistan,c09,Particle board,82
+ASI,13,Bahrain,c09,Particle board,82
+ASI,16,Bangladesh,c09,Particle board,82
+ASI,18,Bhutan,c09,Particle board,82
+ASI,24,British Indian Ocean Territory,c09,Particle board,82
+ASI,26,Brunei Darussalam,c09,Particle board,82
+ASI,28,Myanmar,c09,Particle board,82
+ASI,38,Sri Lanka,c09,Particle board,82
+ASI,41,"China, mainland",c09,Particle board,79
+ASI,52,Azerbaijan,c09,Particle board,82
+ASI,73,Georgia,c09,Particle board,82
+ASI,96,"China, Hong Kong SAR",c09,Particle board,82
+ASI,100,India,c09,Particle board,82
+ASI,101,Indonesia,c09,Particle board,82
+ASI,102,Iran (Islamic Republic of),c09,Particle board,82
+ASI,103,Iraq,c09,Particle board,82
+ASI,105,Israel,c09,Particle board,82
+ASI,108,Kazakhstan,c09,Particle board,82
+ASI,110,Japan,c09,Particle board,82
+ASI,112,Jordan,c09,Particle board,82
+ASI,113,Kyrgyzstan,c09,Particle board,82
+ASI,115,Cambodia,c09,Particle board,82
+ASI,116,Democratic People's Republic of Korea,c09,Particle board,82
+ASI,117,Republic of Korea,c09,Particle board,82
+ASI,118,Kuwait,c09,Particle board,82
+ASI,120,Lao People's Democratic Republic,c09,Particle board,82
+ASI,121,Lebanon,c09,Particle board,82
+ASI,128,"China, Macao SAR",c09,Particle board,82
+ASI,131,Malaysia,c09,Particle board,84
+ASI,132,Maldives,c09,Particle board,82
+ASI,141,Mongolia,c09,Particle board,82
+ASI,149,Nepal,c09,Particle board,82
+ASI,164,Pacific Islands Trust Territory,c09,Particle board,82
+ASI,165,Pakistan,c09,Particle board,82
+ASI,171,Philippines,c09,Particle board,82
+ASI,176,Timor-Leste,c09,Particle board,82
+ASI,179,Qatar,c09,Particle board,82
+ASI,185,Russian Federation,c09,Particle board,83
+ASI,194,Saudi Arabia,c09,Particle board,82
+ASI,200,Singapore,c09,Particle board,82
+ASI,208,Tajikistan,c09,Particle board,82
+ASI,212,Syrian Arab Republic,c09,Particle board,82
+ASI,213,Turkmenistan,c09,Particle board,82
+ASI,214,"China, Taiwan Province of",c09,Particle board,82
+ASI,216,Thailand,c09,Particle board,82
+ASI,221,Oman,c09,Particle board,82
+ASI,225,United Arab Emirates,c09,Particle board,82
+ASI,228,USSR,c09,Particle board,82
+ASI,235,Uzbekistan,c09,Particle board,82
+ASI,237,Viet Nam,c09,Particle board,82
+ASI,249,Yemen,c09,Particle board,82
+ASI,299,Palestine,c09,Particle board,82
+EUR,3,Albania,c09,Particle board,83
+EUR,6,Andorra,c09,Particle board,83
+EUR,11,Austria,c09,Particle board,83
+EUR,15,Belgium-Luxembourg,c09,Particle board,83
+EUR,27,Bulgaria,c09,Particle board,83
+EUR,50,Cyprus,c09,Particle board,83
+EUR,51,Czechoslovakia,c09,Particle board,83
+EUR,54,Denmark,c09,Particle board,83
+EUR,57,Belarus,c09,Particle board,83
+EUR,63,Estonia,c09,Particle board,83
+EUR,64,Faroe Islands,c09,Particle board,83
+EUR,67,Finland,c09,Particle board,79
+EUR,68,France,c09,Particle board,82
+EUR,79,Germany,c09,Particle board,83
+EUR,80,Bosnia and Herzegovina,c09,Particle board,83
+EUR,82,Gibraltar,c09,Particle board,83
+EUR,84,Greece,c09,Particle board,83
+EUR,85,Greenland,c09,Particle board,83
+EUR,94,Holy See,c09,Particle board,83
+EUR,97,Hungary,c09,Particle board,83
+EUR,98,Croatia,c09,Particle board,83
+EUR,99,Iceland,c09,Particle board,83
+EUR,104,Ireland,c09,Particle board,79
+EUR,106,Italy,c09,Particle board,83
+EUR,119,Latvia,c09,Particle board,83
+EUR,125,Liechtenstein,c09,Particle board,83
+EUR,126,Lithuania,c09,Particle board,83
+EUR,134,Malta,c09,Particle board,83
+EUR,146,Republic of Moldova,c09,Particle board,83
+EUR,150,Netherlands,c09,Particle board,83
+EUR,154,North Macedonia,c09,Particle board,83
+EUR,162,Norway,c09,Particle board,83
+EUR,167,Czechia,c09,Particle board,83
+EUR,173,Poland,c09,Particle board,85
+EUR,174,Portugal,c09,Particle board,83
+EUR,183,Romania,c09,Particle board,83
+EUR,186,Serbia and Montenegro,c09,Particle board,83
+EUR,192,San Marino,c09,Particle board,83
+EUR,198,Slovenia,c09,Particle board,83
+EUR,199,Slovakia,c09,Particle board,83
+EUR,203,Spain,c09,Particle board,83
+EUR,210,Sweden,c09,Particle board,83
+EUR,211,Switzerland,c09,Particle board,83
+EUR,223,Turkey,c09,Particle board,83
+EUR,229,United Kingdom,c09,Particle board,83
+EUR,230,Ukraine,c09,Particle board,83
+EUR,248,Yugoslav SFR,c09,Particle board,83
+EUR,255,Belgium,c09,Particle board,83
+EUR,256,Luxembourg,c09,Particle board,83
+EUR,272,Serbia,c09,Particle board,83
+EUR,273,Montenegro,c09,Particle board,83
+LAM,8,Antigua and Barbuda,c09,Particle board,80
+LAM,9,Argentina,c09,Particle board,80
+LAM,12,Bahamas,c09,Particle board,80
+LAM,14,Barbados,c09,Particle board,80
+LAM,17,Bermuda,c09,Particle board,80
+LAM,19,Bolivia (Plurinational State of),c09,Particle board,80
+LAM,21,Brazil,c09,Particle board,80
+LAM,22,Aruba,c09,Particle board,80
+LAM,23,Belize,c09,Particle board,80
+LAM,36,Cayman Islands,c09,Particle board,80
+LAM,40,Chile,c09,Particle board,84
+LAM,44,Colombia,c09,Particle board,80
+LAM,48,Costa Rica,c09,Particle board,80
+LAM,49,Cuba,c09,Particle board,80
+LAM,55,Dominica,c09,Particle board,80
+LAM,56,Dominican Republic,c09,Particle board,80
+LAM,58,Ecuador,c09,Particle board,80
+LAM,60,El Salvador,c09,Particle board,80
+LAM,65,Falkland Islands (Malvinas),c09,Particle board,80
+LAM,69,French Guyana,c09,Particle board,80
+LAM,86,Grenada,c09,Particle board,80
+LAM,87,Guadeloupe,c09,Particle board,80
+LAM,89,Guatemala,c09,Particle board,80
+LAM,91,Guyana,c09,Particle board,80
+LAM,93,Haiti,c09,Particle board,80
+LAM,95,Honduras,c09,Particle board,80
+LAM,109,Jamaica,c09,Particle board,80
+LAM,135,Martinique,c09,Particle board,80
+LAM,138,Mexico,c09,Particle board,77
+LAM,142,Montserrat,c09,Particle board,80
+LAM,151,Netherlands Antilles,c09,Particle board,80
+LAM,157,Nicaragua,c09,Particle board,80
+LAM,166,Panama,c09,Particle board,80
+LAM,169,Paraguay,c09,Particle board,80
+LAM,170,Peru,c09,Particle board,80
+LAM,188,Saint Kitts and Nevis,c09,Particle board,80
+LAM,189,Saint Lucia,c09,Particle board,80
+LAM,191,Saint Vincent and the Grenadines,c09,Particle board,80
+LAM,207,Suriname,c09,Particle board,80
+LAM,220,Trinidad and Tobago,c09,Particle board,80
+LAM,224,Turks and Caicos Islands,c09,Particle board,80
+LAM,234,Uruguay,c09,Particle board,80
+LAM,236,Venezuela (Bolivarian Republic of),c09,Particle board,80
+LAM,239,British Virgin Islands,c09,Particle board,80
+LAM,258,Anguilla,c09,Particle board,80
+LAM,279,Curaçao,c09,Particle board,80
+LAM,281,Saint-Martin (French Part),c09,Particle board,80
+NAM,33,Canada,c09,Particle board,84
+NAM,190,Saint Pierre and Miquelon,c09,Particle board,84
+NAM,231,United States of America,c09,Particle board,84
+OCE,5,American Samoa,c09,Particle board,82.25
+OCE,10,Australia,c09,Particle board,82.25
+OCE,25,Solomon Islands,c09,Particle board,82.25
+OCE,42,Christmas Island,c09,Particle board,82.25
+OCE,43,Cocos (Keeling) Islands,c09,Particle board,82.25
+OCE,47,Cook Islands,c09,Particle board,82.25
+OCE,66,Fiji,c09,Particle board,82.25
+OCE,70,French Polynesia,c09,Particle board,82.25
+OCE,71,French Southern and Antarctic Territories,c09,Particle board,82.25
+OCE,83,Kiribati,c09,Particle board,82.25
+OCE,88,Guam,c09,Particle board,82.25
+OCE,127,Marshall Islands,c09,Particle board,82.25
+OCE,145,Micronesia (Federated States of),c09,Particle board,82.25
+OCE,148,Nauru,c09,Particle board,82.25
+OCE,153,New Caledonia,c09,Particle board,82.25
+OCE,155,Vanuatu,c09,Particle board,82.25
+OCE,156,New Zealand,c09,Particle board,82.25
+OCE,160,Niue,c09,Particle board,82.25
+OCE,161,Norfolk Island,c09,Particle board,82.25
+OCE,163,Northern Mariana Islands,c09,Particle board,82.25
+OCE,168,Papua New Guinea,c09,Particle board,82.25
+OCE,172,Pitcairn Islands,c09,Particle board,82.25
+OCE,180,Palau,c09,Particle board,82.25
+OCE,218,Tokelau,c09,Particle board,82.25
+OCE,227,Tuvalu,c09,Particle board,82.25
+OCE,242,Wake Island,c09,Particle board,82.25
+OCE,243,Wallis and Futuna Islands,c09,Particle board,82.25
+OCE,244,Samoa,c09,Particle board,82.25
+ROW,999,RoW,c09,Particle board,82.25
+XXX,252,Unspecified Area,c09,Particle board,82.25
+XXX,254,Others (adjustment),c09,Particle board,82.25
+AFR,4,Algeria,c10,OSB,88.6666666666667
+AFR,7,Angola,c10,OSB,88.6666666666667
+AFR,20,Botswana,c10,OSB,88.6666666666667
+AFR,29,Burundi,c10,OSB,88.6666666666667
+AFR,32,Cameroon,c10,OSB,88.6666666666667
+AFR,35,Cabo Verde,c10,OSB,88.6666666666667
+AFR,37,Central African Republic,c10,OSB,88.6666666666667
+AFR,39,Chad,c10,OSB,88.6666666666667
+AFR,45,Comoros,c10,OSB,88.6666666666667
+AFR,46,Congo,c10,OSB,88.6666666666667
+AFR,53,Benin,c10,OSB,88.6666666666667
+AFR,59,Egypt,c10,OSB,88.6666666666667
+AFR,61,Equatorial Guinea,c10,OSB,88.6666666666667
+AFR,72,Djibouti,c10,OSB,88.6666666666667
+AFR,74,Gabon,c10,OSB,88.6666666666667
+AFR,75,Gambia,c10,OSB,88.6666666666667
+AFR,81,Ghana,c10,OSB,88.6666666666667
+AFR,90,Guinea,c10,OSB,88.6666666666667
+AFR,107,Cote d'Ivoire,c10,OSB,88.6666666666667
+AFR,114,Kenya,c10,OSB,88.6666666666667
+AFR,122,Lesotho,c10,OSB,88.6666666666667
+AFR,123,Liberia,c10,OSB,88.6666666666667
+AFR,124,Libya,c10,OSB,88.6666666666667
+AFR,129,Madagascar,c10,OSB,88.6666666666667
+AFR,130,Malawi,c10,OSB,88.6666666666667
+AFR,133,Mali,c10,OSB,88.6666666666667
+AFR,136,Mauritania,c10,OSB,88.6666666666667
+AFR,137,Mauritius,c10,OSB,88.6666666666667
+AFR,143,Morocco,c10,OSB,88.6666666666667
+AFR,144,Mozambique,c10,OSB,88.6666666666667
+AFR,147,Namibia,c10,OSB,88.6666666666667
+AFR,158,Niger,c10,OSB,88.6666666666667
+AFR,159,Nigeria,c10,OSB,88.6666666666667
+AFR,175,Guinea-Bissau,c10,OSB,88.6666666666667
+AFR,178,Eritrea,c10,OSB,88.6666666666667
+AFR,181,Zimbabwe,c10,OSB,88.6666666666667
+AFR,182,Reunion,c10,OSB,88.6666666666667
+AFR,184,Rwanda,c10,OSB,88.6666666666667
+AFR,187,"Saint Helena, Ascension and Tristan da Cunha",c10,OSB,88.6666666666667
+AFR,193,Sao Tome and Principe,c10,OSB,88.6666666666667
+AFR,195,Senegal,c10,OSB,88.6666666666667
+AFR,196,Seychelles,c10,OSB,88.6666666666667
+AFR,197,Sierra Leone,c10,OSB,88.6666666666667
+AFR,201,Somalia,c10,OSB,88.6666666666667
+AFR,202,South Africa,c10,OSB,88.6666666666667
+AFR,205,Western Sahara,c10,OSB,88.6666666666667
+AFR,209,Eswatini,c10,OSB,88.6666666666667
+AFR,215,United Republic of Tanzania,c10,OSB,88.6666666666667
+AFR,217,Togo,c10,OSB,88.6666666666667
+AFR,219,Tonga,c10,OSB,88.6666666666667
+AFR,222,Tunisia,c10,OSB,88.6666666666667
+AFR,226,Uganda,c10,OSB,88.6666666666667
+AFR,233,Burkina Faso,c10,OSB,88.6666666666667
+AFR,238,Ethiopia,c10,OSB,88.6666666666667
+AFR,250,Democratic Republic of the Congo,c10,OSB,88.6666666666667
+AFR,251,Zambia,c10,OSB,88.6666666666667
+AFR,270,Mayotte,c10,OSB,88.6666666666667
+AFR,276,Sudan,c10,OSB,88.6666666666667
+AFR,277,South Sudan,c10,OSB,88.6666666666667
+ASI,1,Armenia,c10,OSB,90
+ASI,2,Afghanistan,c10,OSB,90
+ASI,13,Bahrain,c10,OSB,90
+ASI,16,Bangladesh,c10,OSB,90
+ASI,18,Bhutan,c10,OSB,90
+ASI,24,British Indian Ocean Territory,c10,OSB,90
+ASI,26,Brunei Darussalam,c10,OSB,90
+ASI,28,Myanmar,c10,OSB,90
+ASI,38,Sri Lanka,c10,OSB,90
+ASI,41,"China, mainland",c10,OSB,90
+ASI,52,Azerbaijan,c10,OSB,90
+ASI,73,Georgia,c10,OSB,90
+ASI,96,"China, Hong Kong SAR",c10,OSB,90
+ASI,100,India,c10,OSB,90
+ASI,101,Indonesia,c10,OSB,90
+ASI,102,Iran (Islamic Republic of),c10,OSB,90
+ASI,103,Iraq,c10,OSB,90
+ASI,105,Israel,c10,OSB,90
+ASI,108,Kazakhstan,c10,OSB,90
+ASI,110,Japan,c10,OSB,90
+ASI,112,Jordan,c10,OSB,90
+ASI,113,Kyrgyzstan,c10,OSB,90
+ASI,115,Cambodia,c10,OSB,90
+ASI,116,Democratic People's Republic of Korea,c10,OSB,90
+ASI,117,Republic of Korea,c10,OSB,90
+ASI,118,Kuwait,c10,OSB,90
+ASI,120,Lao People's Democratic Republic,c10,OSB,90
+ASI,121,Lebanon,c10,OSB,90
+ASI,128,"China, Macao SAR",c10,OSB,90
+ASI,131,Malaysia,c10,OSB,90
+ASI,132,Maldives,c10,OSB,90
+ASI,141,Mongolia,c10,OSB,90
+ASI,149,Nepal,c10,OSB,90
+ASI,164,Pacific Islands Trust Territory,c10,OSB,90
+ASI,165,Pakistan,c10,OSB,90
+ASI,171,Philippines,c10,OSB,90
+ASI,176,Timor-Leste,c10,OSB,90
+ASI,179,Qatar,c10,OSB,90
+ASI,185,Russian Federation,c10,OSB,90
+ASI,194,Saudi Arabia,c10,OSB,90
+ASI,200,Singapore,c10,OSB,90
+ASI,208,Tajikistan,c10,OSB,90
+ASI,212,Syrian Arab Republic,c10,OSB,90
+ASI,213,Turkmenistan,c10,OSB,90
+ASI,214,"China, Taiwan Province of",c10,OSB,90
+ASI,216,Thailand,c10,OSB,90
+ASI,221,Oman,c10,OSB,90
+ASI,225,United Arab Emirates,c10,OSB,90
+ASI,228,USSR,c10,OSB,90
+ASI,235,Uzbekistan,c10,OSB,90
+ASI,237,Viet Nam,c10,OSB,90
+ASI,249,Yemen,c10,OSB,90
+ASI,299,Palestine,c10,OSB,90
+EUR,3,Albania,c10,OSB,86
+EUR,6,Andorra,c10,OSB,86
+EUR,11,Austria,c10,OSB,86
+EUR,15,Belgium-Luxembourg,c10,OSB,86
+EUR,27,Bulgaria,c10,OSB,86
+EUR,50,Cyprus,c10,OSB,86
+EUR,51,Czechoslovakia,c10,OSB,86
+EUR,54,Denmark,c10,OSB,86
+EUR,57,Belarus,c10,OSB,86
+EUR,63,Estonia,c10,OSB,86
+EUR,64,Faroe Islands,c10,OSB,86
+EUR,67,Finland,c10,OSB,86
+EUR,68,France,c10,OSB,88
+EUR,79,Germany,c10,OSB,86
+EUR,80,Bosnia and Herzegovina,c10,OSB,86
+EUR,82,Gibraltar,c10,OSB,86
+EUR,84,Greece,c10,OSB,86
+EUR,85,Greenland,c10,OSB,86
+EUR,94,Holy See,c10,OSB,86
+EUR,97,Hungary,c10,OSB,86
+EUR,98,Croatia,c10,OSB,86
+EUR,99,Iceland,c10,OSB,86
+EUR,104,Ireland,c10,OSB,90
+EUR,106,Italy,c10,OSB,86
+EUR,119,Latvia,c10,OSB,86
+EUR,125,Liechtenstein,c10,OSB,86
+EUR,126,Lithuania,c10,OSB,86
+EUR,134,Malta,c10,OSB,86
+EUR,146,Republic of Moldova,c10,OSB,86
+EUR,150,Netherlands,c10,OSB,86
+EUR,154,North Macedonia,c10,OSB,86
+EUR,162,Norway,c10,OSB,86
+EUR,167,Czechia,c10,OSB,86
+EUR,173,Poland,c10,OSB,80
+EUR,174,Portugal,c10,OSB,86
+EUR,183,Romania,c10,OSB,86
+EUR,186,Serbia and Montenegro,c10,OSB,86
+EUR,192,San Marino,c10,OSB,86
+EUR,198,Slovenia,c10,OSB,86
+EUR,199,Slovakia,c10,OSB,86
+EUR,203,Spain,c10,OSB,86
+EUR,210,Sweden,c10,OSB,86
+EUR,211,Switzerland,c10,OSB,86
+EUR,223,Turkey,c10,OSB,86
+EUR,229,United Kingdom,c10,OSB,86
+EUR,230,Ukraine,c10,OSB,86
+EUR,248,Yugoslav SFR,c10,OSB,86
+EUR,255,Belgium,c10,OSB,86
+EUR,256,Luxembourg,c10,OSB,86
+EUR,272,Serbia,c10,OSB,86
+EUR,273,Montenegro,c10,OSB,86
+LAM,8,Antigua and Barbuda,c10,OSB,88.6666666666667
+LAM,9,Argentina,c10,OSB,88.6666666666667
+LAM,12,Bahamas,c10,OSB,88.6666666666667
+LAM,14,Barbados,c10,OSB,88.6666666666667
+LAM,17,Bermuda,c10,OSB,88.6666666666667
+LAM,19,Bolivia (Plurinational State of),c10,OSB,88.6666666666667
+LAM,21,Brazil,c10,OSB,88.6666666666667
+LAM,22,Aruba,c10,OSB,88.6666666666667
+LAM,23,Belize,c10,OSB,88.6666666666667
+LAM,36,Cayman Islands,c10,OSB,88.6666666666667
+LAM,40,Chile,c10,OSB,88.6666666666667
+LAM,44,Colombia,c10,OSB,88.6666666666667
+LAM,48,Costa Rica,c10,OSB,88.6666666666667
+LAM,49,Cuba,c10,OSB,88.6666666666667
+LAM,55,Dominica,c10,OSB,88.6666666666667
+LAM,56,Dominican Republic,c10,OSB,88.6666666666667
+LAM,58,Ecuador,c10,OSB,88.6666666666667
+LAM,60,El Salvador,c10,OSB,88.6666666666667
+LAM,65,Falkland Islands (Malvinas),c10,OSB,88.6666666666667
+LAM,69,French Guyana,c10,OSB,88.6666666666667
+LAM,86,Grenada,c10,OSB,88.6666666666667
+LAM,87,Guadeloupe,c10,OSB,88.6666666666667
+LAM,89,Guatemala,c10,OSB,88.6666666666667
+LAM,91,Guyana,c10,OSB,88.6666666666667
+LAM,93,Haiti,c10,OSB,88.6666666666667
+LAM,95,Honduras,c10,OSB,88.6666666666667
+LAM,109,Jamaica,c10,OSB,88.6666666666667
+LAM,135,Martinique,c10,OSB,88.6666666666667
+LAM,138,Mexico,c10,OSB,88.6666666666667
+LAM,142,Montserrat,c10,OSB,88.6666666666667
+LAM,151,Netherlands Antilles,c10,OSB,88.6666666666667
+LAM,157,Nicaragua,c10,OSB,88.6666666666667
+LAM,166,Panama,c10,OSB,88.6666666666667
+LAM,169,Paraguay,c10,OSB,88.6666666666667
+LAM,170,Peru,c10,OSB,88.6666666666667
+LAM,188,Saint Kitts and Nevis,c10,OSB,88.6666666666667
+LAM,189,Saint Lucia,c10,OSB,88.6666666666667
+LAM,191,Saint Vincent and the Grenadines,c10,OSB,88.6666666666667
+LAM,207,Suriname,c10,OSB,88.6666666666667
+LAM,220,Trinidad and Tobago,c10,OSB,88.6666666666667
+LAM,224,Turks and Caicos Islands,c10,OSB,88.6666666666667
+LAM,234,Uruguay,c10,OSB,88.6666666666667
+LAM,236,Venezuela (Bolivarian Republic of),c10,OSB,88.6666666666667
+LAM,239,British Virgin Islands,c10,OSB,88.6666666666667
+LAM,258,Anguilla,c10,OSB,88.6666666666667
+LAM,279,Curaçao,c10,OSB,88.6666666666667
+LAM,281,Saint-Martin (French Part),c10,OSB,88.6666666666667
+NAM,33,Canada,c10,OSB,90
+NAM,190,Saint Pierre and Miquelon,c10,OSB,90
+NAM,231,United States of America,c10,OSB,90
+OCE,5,American Samoa,c10,OSB,88.6666666666667
+OCE,10,Australia,c10,OSB,88.6666666666667
+OCE,25,Solomon Islands,c10,OSB,88.6666666666667
+OCE,42,Christmas Island,c10,OSB,88.6666666666667
+OCE,43,Cocos (Keeling) Islands,c10,OSB,88.6666666666667
+OCE,47,Cook Islands,c10,OSB,88.6666666666667
+OCE,66,Fiji,c10,OSB,88.6666666666667
+OCE,70,French Polynesia,c10,OSB,88.6666666666667
+OCE,71,French Southern and Antarctic Territories,c10,OSB,88.6666666666667
+OCE,83,Kiribati,c10,OSB,88.6666666666667
+OCE,88,Guam,c10,OSB,88.6666666666667
+OCE,127,Marshall Islands,c10,OSB,88.6666666666667
+OCE,145,Micronesia (Federated States of),c10,OSB,88.6666666666667
+OCE,148,Nauru,c10,OSB,88.6666666666667
+OCE,153,New Caledonia,c10,OSB,88.6666666666667
+OCE,155,Vanuatu,c10,OSB,88.6666666666667
+OCE,156,New Zealand,c10,OSB,88.6666666666667
+OCE,160,Niue,c10,OSB,88.6666666666667
+OCE,161,Norfolk Island,c10,OSB,88.6666666666667
+OCE,163,Northern Mariana Islands,c10,OSB,88.6666666666667
+OCE,168,Papua New Guinea,c10,OSB,88.6666666666667
+OCE,172,Pitcairn Islands,c10,OSB,88.6666666666667
+OCE,180,Palau,c10,OSB,88.6666666666667
+OCE,218,Tokelau,c10,OSB,88.6666666666667
+OCE,227,Tuvalu,c10,OSB,88.6666666666667
+OCE,242,Wake Island,c10,OSB,88.6666666666667
+OCE,243,Wallis and Futuna Islands,c10,OSB,88.6666666666667
+OCE,244,Samoa,c10,OSB,88.6666666666667
+ROW,999,RoW,c10,OSB,88.6666666666667
+XXX,252,Unspecified Area,c10,OSB,88.6666666666667
+XXX,254,Others (adjustment),c10,OSB,88.6666666666667
