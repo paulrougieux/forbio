@@ -240,6 +240,7 @@ OCE,227,Tuvalu,c01,"Industrial roundwood, coniferous",,,tonne/m3,0.421123355275
 OCE,242,Wake Island,c01,"Industrial roundwood, coniferous",,,tonne/m3,0.421123355275
 OCE,243,Wallis and Futuna Islands,c01,"Industrial roundwood, coniferous",,,tonne/m3,0.421123355275
 OCE,244,Samoa,c01,"Industrial roundwood, coniferous",,,tonne/m3,0.421123355275
+ROW,999,RoW,c01,"Industrial roundwood, coniferous",,,tonne/m3,0.421123355275
 XXX,252,Unspecified Area,c01,"Industrial roundwood, coniferous",,,tonne/m3,0.421123355275
 XXX,254,Others (adjustment),c01,"Industrial roundwood, coniferous",,,tonne/m3,0.421123355275
 AFR,4,Algeria,c02,"Industrial roundwood, non-coniferous",,,tonne/m3,0.59864583335
@@ -483,6 +484,7 @@ OCE,227,Tuvalu,c02,"Industrial roundwood, non-coniferous",,,tonne/m3,0.598645833
 OCE,242,Wake Island,c02,"Industrial roundwood, non-coniferous",,,tonne/m3,0.59864583335
 OCE,243,Wallis and Futuna Islands,c02,"Industrial roundwood, non-coniferous",,,tonne/m3,0.59864583335
 OCE,244,Samoa,c02,"Industrial roundwood, non-coniferous",,,tonne/m3,0.59864583335
+ROW,999,RoW,c02,"Industrial roundwood, non-coniferous",,,tonne/m3,0.59864583335
 XXX,252,Unspecified Area,c02,"Industrial roundwood, non-coniferous",,,tonne/m3,0.59864583335
 XXX,254,Others (adjustment),c02,"Industrial roundwood, non-coniferous",,,tonne/m3,0.59864583335
 AFR,4,Algeria,c03,Wood fuel,,,tonne/m3,0.632093333333333
@@ -726,6 +728,7 @@ OCE,227,Tuvalu,c03,Wood fuel,,,tonne/m3,0.632093333333333
 OCE,242,Wake Island,c03,Wood fuel,,,tonne/m3,0.632093333333333
 OCE,243,Wallis and Futuna Islands,c03,Wood fuel,,,tonne/m3,0.632093333333333
 OCE,244,Samoa,c03,Wood fuel,,,tonne/m3,0.632093333333333
+ROW,999,RoW,c03,Wood fuel,,,tonne/m3,0.632093333333333
 XXX,252,Unspecified Area,c03,Wood fuel,,,tonne/m3,0.632093333333333
 XXX,254,Others (adjustment),c03,Wood fuel,,,tonne/m3,0.632093333333333
 AFR,4,Algeria,c04,"Sawnwood, coniferous",c01,"Industrial roundwood, coniferous",tonne/m3,0.51
@@ -969,6 +972,7 @@ OCE,227,Tuvalu,c04,"Sawnwood, coniferous",c01,"Industrial roundwood, coniferous"
 OCE,242,Wake Island,c04,"Sawnwood, coniferous",c01,"Industrial roundwood, coniferous",tonne/m3,0.51
 OCE,243,Wallis and Futuna Islands,c04,"Sawnwood, coniferous",c01,"Industrial roundwood, coniferous",tonne/m3,0.51
 OCE,244,Samoa,c04,"Sawnwood, coniferous",c01,"Industrial roundwood, coniferous",tonne/m3,0.51
+ROW,999,RoW,c04,"Sawnwood, coniferous",c01,"Industrial roundwood, coniferous",tonne/m3,0.51
 XXX,252,Unspecified Area,c04,"Sawnwood, coniferous",c01,"Industrial roundwood, coniferous",tonne/m3,0.51
 XXX,254,Others (adjustment),c04,"Sawnwood, coniferous",c01,"Industrial roundwood, coniferous",tonne/m3,0.51
 AFR,4,Algeria,c05,"Sawnwood, non-coniferous all",c02,"Industrial roundwood, non-coniferous",tonne/m3,0.713
@@ -1212,6 +1216,7 @@ OCE,227,Tuvalu,c05,"Sawnwood, non-coniferous all",c02,"Industrial roundwood, non
 OCE,242,Wake Island,c05,"Sawnwood, non-coniferous all",c02,"Industrial roundwood, non-coniferous",tonne/m3,0.713
 OCE,243,Wallis and Futuna Islands,c05,"Sawnwood, non-coniferous all",c02,"Industrial roundwood, non-coniferous",tonne/m3,0.713
 OCE,244,Samoa,c05,"Sawnwood, non-coniferous all",c02,"Industrial roundwood, non-coniferous",tonne/m3,0.713
+ROW,999,RoW,c05,"Sawnwood, non-coniferous all",c02,"Industrial roundwood, non-coniferous",tonne/m3,0.713
 XXX,252,Unspecified Area,c05,"Sawnwood, non-coniferous all",c02,"Industrial roundwood, non-coniferous",tonne/m3,0.713
 XXX,254,Others (adjustment),c05,"Sawnwood, non-coniferous all",c02,"Industrial roundwood, non-coniferous",tonne/m3,0.713
 AFR,4,Algeria,c06,Veneer sheets,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
@@ -1455,6 +1460,7 @@ OCE,227,Tuvalu,c06,Veneer sheets,c01,"Industrial roundwood, coniferous",tonne/m3
 OCE,242,Wake Island,c06,Veneer sheets,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
 OCE,243,Wallis and Futuna Islands,c06,Veneer sheets,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
 OCE,244,Samoa,c06,Veneer sheets,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
+ROW,999,RoW,c06,Veneer sheets,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
 XXX,252,Unspecified Area,c06,Veneer sheets,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
 XXX,254,Others (adjustment),c06,Veneer sheets,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
 AFR,4,Algeria,c06,Veneer sheets,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
@@ -1698,6 +1704,7 @@ OCE,227,Tuvalu,c06,Veneer sheets,c02,"Industrial roundwood, non-coniferous",tonn
 OCE,242,Wake Island,c06,Veneer sheets,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
 OCE,243,Wallis and Futuna Islands,c06,Veneer sheets,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
 OCE,244,Samoa,c06,Veneer sheets,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
+ROW,999,RoW,c06,Veneer sheets,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
 XXX,252,Unspecified Area,c06,Veneer sheets,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
 XXX,254,Others (adjustment),c06,Veneer sheets,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
 AFR,4,Algeria,c07,Plywood,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
@@ -1941,6 +1948,7 @@ OCE,227,Tuvalu,c07,Plywood,c01,"Industrial roundwood, coniferous",tonne/m3,0.568
 OCE,242,Wake Island,c07,Plywood,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
 OCE,243,Wallis and Futuna Islands,c07,Plywood,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
 OCE,244,Samoa,c07,Plywood,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
+ROW,999,RoW,c07,Plywood,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
 XXX,252,Unspecified Area,c07,Plywood,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
 XXX,254,Others (adjustment),c07,Plywood,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
 AFR,4,Algeria,c07,Plywood,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
@@ -2184,6 +2192,7 @@ OCE,227,Tuvalu,c07,Plywood,c02,"Industrial roundwood, non-coniferous",tonne/m3,0
 OCE,242,Wake Island,c07,Plywood,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
 OCE,243,Wallis and Futuna Islands,c07,Plywood,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
 OCE,244,Samoa,c07,Plywood,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
+ROW,999,RoW,c07,Plywood,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
 XXX,252,Unspecified Area,c07,Plywood,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
 XXX,254,Others (adjustment),c07,Plywood,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
 AFR,4,Algeria,c08,Fibreboard,,,tonne/m3,0.6655575
@@ -2427,6 +2436,7 @@ OCE,227,Tuvalu,c08,Fibreboard,,,tonne/m3,0.6655575
 OCE,242,Wake Island,c08,Fibreboard,,,tonne/m3,0.6655575
 OCE,243,Wallis and Futuna Islands,c08,Fibreboard,,,tonne/m3,0.6655575
 OCE,244,Samoa,c08,Fibreboard,,,tonne/m3,0.6655575
+ROW,999,RoW,c08,Fibreboard,,,tonne/m3,0.6655575
 XXX,252,Unspecified Area,c08,Fibreboard,,,tonne/m3,0.6655575
 XXX,254,Others (adjustment),c08,Fibreboard,,,tonne/m3,0.6655575
 AFR,4,Algeria,c09,Particle board,,,tonne/m3,0.67575
@@ -2670,6 +2680,7 @@ OCE,227,Tuvalu,c09,Particle board,,,tonne/m3,0.67575
 OCE,242,Wake Island,c09,Particle board,,,tonne/m3,0.67575
 OCE,243,Wallis and Futuna Islands,c09,Particle board,,,tonne/m3,0.67575
 OCE,244,Samoa,c09,Particle board,,,tonne/m3,0.67575
+ROW,999,RoW,c09,Particle board,,,tonne/m3,0.67575
 XXX,252,Unspecified Area,c09,Particle board,,,tonne/m3,0.67575
 XXX,254,Others (adjustment),c09,Particle board,,,tonne/m3,0.67575
 AFR,4,Algeria,c10,OSB,,,tonne/m3,0.5875
@@ -2913,6 +2924,7 @@ OCE,227,Tuvalu,c10,OSB,,,tonne/m3,0.5875
 OCE,242,Wake Island,c10,OSB,,,tonne/m3,0.5875
 OCE,243,Wallis and Futuna Islands,c10,OSB,,,tonne/m3,0.5875
 OCE,244,Samoa,c10,OSB,,,tonne/m3,0.5875
+ROW,999,RoW,c10,OSB,,,tonne/m3,0.5875
 XXX,252,Unspecified Area,c10,OSB,,,tonne/m3,0.5875
 XXX,254,Others (adjustment),c10,OSB,,,tonne/m3,0.5875
 AFR,4,Algeria,c11a,Chemical wood pulp,,,tonne/tonne,0.9
@@ -3156,6 +3168,7 @@ OCE,227,Tuvalu,c11a,Chemical wood pulp,,,tonne/tonne,0.9
 OCE,242,Wake Island,c11a,Chemical wood pulp,,,tonne/tonne,0.9
 OCE,243,Wallis and Futuna Islands,c11a,Chemical wood pulp,,,tonne/tonne,0.9
 OCE,244,Samoa,c11a,Chemical wood pulp,,,tonne/tonne,0.9
+ROW,999,RoW,c11a,Chemical wood pulp,,,tonne/tonne,0.9
 XXX,252,Unspecified Area,c11a,Chemical wood pulp,,,tonne/tonne,0.9
 XXX,254,Others (adjustment),c11a,Chemical wood pulp,,,tonne/tonne,0.9
 AFR,4,Algeria,c11b,Mechanical and semi-chemical wood pulp,,,tonne/tonne,0.9
@@ -3399,6 +3412,7 @@ OCE,227,Tuvalu,c11b,Mechanical and semi-chemical wood pulp,,,tonne/tonne,0.9
 OCE,242,Wake Island,c11b,Mechanical and semi-chemical wood pulp,,,tonne/tonne,0.9
 OCE,243,Wallis and Futuna Islands,c11b,Mechanical and semi-chemical wood pulp,,,tonne/tonne,0.9
 OCE,244,Samoa,c11b,Mechanical and semi-chemical wood pulp,,,tonne/tonne,0.9
+ROW,999,RoW,c11b,Mechanical and semi-chemical wood pulp,,,tonne/tonne,0.9
 XXX,252,Unspecified Area,c11b,Mechanical and semi-chemical wood pulp,,,tonne/tonne,0.9
 XXX,254,Others (adjustment),c11b,Mechanical and semi-chemical wood pulp,,,tonne/tonne,0.9
 AFR,4,Algeria,c11d,Dissolving wood pulp,,,tonne/tonne,0.9
@@ -3642,6 +3656,7 @@ OCE,227,Tuvalu,c11d,Dissolving wood pulp,,,tonne/tonne,0.9
 OCE,242,Wake Island,c11d,Dissolving wood pulp,,,tonne/tonne,0.9
 OCE,243,Wallis and Futuna Islands,c11d,Dissolving wood pulp,,,tonne/tonne,0.9
 OCE,244,Samoa,c11d,Dissolving wood pulp,,,tonne/tonne,0.9
+ROW,999,RoW,c11d,Dissolving wood pulp,,,tonne/tonne,0.9
 XXX,252,Unspecified Area,c11d,Dissolving wood pulp,,,tonne/tonne,0.9
 XXX,254,Others (adjustment),c11d,Dissolving wood pulp,,,tonne/tonne,0.9
 AFR,4,Algeria,c13,Recovered fibre pulp,,,tonne/tonne,0.9
@@ -3885,6 +3900,7 @@ OCE,227,Tuvalu,c13,Recovered fibre pulp,,,tonne/tonne,0.9
 OCE,242,Wake Island,c13,Recovered fibre pulp,,,tonne/tonne,0.9
 OCE,243,Wallis and Futuna Islands,c13,Recovered fibre pulp,,,tonne/tonne,0.9
 OCE,244,Samoa,c13,Recovered fibre pulp,,,tonne/tonne,0.9
+ROW,999,RoW,c13,Recovered fibre pulp,,,tonne/tonne,0.9
 XXX,252,Unspecified Area,c13,Recovered fibre pulp,,,tonne/tonne,0.9
 XXX,254,Others (adjustment),c13,Recovered fibre pulp,,,tonne/tonne,0.9
 AFR,4,Algeria,c14,Paper and Paperboard,,,tonne/tonne,0.9
@@ -4128,6 +4144,7 @@ OCE,227,Tuvalu,c14,Paper and Paperboard,,,tonne/tonne,0.9
 OCE,242,Wake Island,c14,Paper and Paperboard,,,tonne/tonne,0.9
 OCE,243,Wallis and Futuna Islands,c14,Paper and Paperboard,,,tonne/tonne,0.9
 OCE,244,Samoa,c14,Paper and Paperboard,,,tonne/tonne,0.9
+ROW,999,RoW,c14,Paper and Paperboard,,,tonne/tonne,0.9
 XXX,252,Unspecified Area,c14,Paper and Paperboard,,,tonne/tonne,0.9
 XXX,254,Others (adjustment),c14,Paper and Paperboard,,,tonne/tonne,0.9
 AFR,4,Algeria,c15,Wood pellets and other agglomerates,,,tonne/tonne,0.9
@@ -4371,6 +4388,7 @@ OCE,227,Tuvalu,c15,Wood pellets and other agglomerates,,,tonne/tonne,0.9
 OCE,242,Wake Island,c15,Wood pellets and other agglomerates,,,tonne/tonne,0.9
 OCE,243,Wallis and Futuna Islands,c15,Wood pellets and other agglomerates,,,tonne/tonne,0.9
 OCE,244,Samoa,c15,Wood pellets and other agglomerates,,,tonne/tonne,0.9
+ROW,999,RoW,c15,Wood pellets and other agglomerates,,,tonne/tonne,0.9
 XXX,252,Unspecified Area,c15,Wood pellets and other agglomerates,,,tonne/tonne,0.9
 XXX,254,Others (adjustment),c15,Wood pellets and other agglomerates,,,tonne/tonne,0.9
 AFR,4,Algeria,c16,Wood charcoal,c03,Wood fuel,tonne/tonne,0.9
@@ -4614,6 +4632,7 @@ OCE,227,Tuvalu,c16,Wood charcoal,c03,Wood fuel,tonne/tonne,0.9
 OCE,242,Wake Island,c16,Wood charcoal,c03,Wood fuel,tonne/tonne,0.9
 OCE,243,Wallis and Futuna Islands,c16,Wood charcoal,c03,Wood fuel,tonne/tonne,0.9
 OCE,244,Samoa,c16,Wood charcoal,c03,Wood fuel,tonne/tonne,0.9
+ROW,999,RoW,c16,Wood charcoal,c03,Wood fuel,tonne/tonne,0.9
 XXX,252,Unspecified Area,c16,Wood charcoal,c03,Wood fuel,tonne/tonne,0.9
 XXX,254,Others (adjustment),c16,Wood charcoal,c03,Wood fuel,tonne/tonne,0.9
 AFR,4,Algeria,c17,Wood chips and particles,,,tonne/m3p,0.144
@@ -4857,6 +4876,7 @@ OCE,227,Tuvalu,c17,Wood chips and particles,,,tonne/m3p,0.144
 OCE,242,Wake Island,c17,Wood chips and particles,,,tonne/m3p,0.144
 OCE,243,Wallis and Futuna Islands,c17,Wood chips and particles,,,tonne/m3p,0.144
 OCE,244,Samoa,c17,Wood chips and particles,,,tonne/m3p,0.144
+ROW,999,RoW,c17,Wood chips and particles,,,tonne/m3p,0.144
 XXX,252,Unspecified Area,c17,Wood chips and particles,,,tonne/m3p,0.144
 XXX,254,Others (adjustment),c17,Wood chips and particles,,,tonne/m3p,0.144
 AFR,4,Algeria,c18,Wood residues,,,tonne/m3p,0.152
@@ -5100,5 +5120,494 @@ OCE,227,Tuvalu,c18,Wood residues,,,tonne/m3p,0.152
 OCE,242,Wake Island,c18,Wood residues,,,tonne/m3p,0.152
 OCE,243,Wallis and Futuna Islands,c18,Wood residues,,,tonne/m3p,0.152
 OCE,244,Samoa,c18,Wood residues,,,tonne/m3p,0.152
+ROW,999,RoW,c18,Wood residues,,,tonne/m3p,0.152
 XXX,252,Unspecified Area,c18,Wood residues,,,tonne/m3p,0.152
 XXX,254,Others (adjustment),c18,Wood residues,,,tonne/m3p,0.152
+AFR,4,Algeria,c19,Post-consumer wood,,,tonne/tonne,0.9
+AFR,7,Angola,c19,Post-consumer wood,,,tonne/tonne,0.9
+AFR,20,Botswana,c19,Post-consumer wood,,,tonne/tonne,0.9
+AFR,29,Burundi,c19,Post-consumer wood,,,tonne/tonne,0.9
+AFR,32,Cameroon,c19,Post-consumer wood,,,tonne/tonne,0.9
+AFR,35,Cabo Verde,c19,Post-consumer wood,,,tonne/tonne,0.9
+AFR,37,Central African Republic,c19,Post-consumer wood,,,tonne/tonne,0.9
+AFR,39,Chad,c19,Post-consumer wood,,,tonne/tonne,0.9
+AFR,45,Comoros,c19,Post-consumer wood,,,tonne/tonne,0.9
+AFR,46,Congo,c19,Post-consumer wood,,,tonne/tonne,0.9
+AFR,53,Benin,c19,Post-consumer wood,,,tonne/tonne,0.9
+AFR,59,Egypt,c19,Post-consumer wood,,,tonne/tonne,0.9
+AFR,61,Equatorial Guinea,c19,Post-consumer wood,,,tonne/tonne,0.9
+AFR,72,Djibouti,c19,Post-consumer wood,,,tonne/tonne,0.9
+AFR,74,Gabon,c19,Post-consumer wood,,,tonne/tonne,0.9
+AFR,75,Gambia,c19,Post-consumer wood,,,tonne/tonne,0.9
+AFR,81,Ghana,c19,Post-consumer wood,,,tonne/tonne,0.9
+AFR,90,Guinea,c19,Post-consumer wood,,,tonne/tonne,0.9
+AFR,107,Cote d'Ivoire,c19,Post-consumer wood,,,tonne/tonne,0.9
+AFR,114,Kenya,c19,Post-consumer wood,,,tonne/tonne,0.9
+AFR,122,Lesotho,c19,Post-consumer wood,,,tonne/tonne,0.9
+AFR,123,Liberia,c19,Post-consumer wood,,,tonne/tonne,0.9
+AFR,124,Libya,c19,Post-consumer wood,,,tonne/tonne,0.9
+AFR,129,Madagascar,c19,Post-consumer wood,,,tonne/tonne,0.9
+AFR,130,Malawi,c19,Post-consumer wood,,,tonne/tonne,0.9
+AFR,133,Mali,c19,Post-consumer wood,,,tonne/tonne,0.9
+AFR,136,Mauritania,c19,Post-consumer wood,,,tonne/tonne,0.9
+AFR,137,Mauritius,c19,Post-consumer wood,,,tonne/tonne,0.9
+AFR,143,Morocco,c19,Post-consumer wood,,,tonne/tonne,0.9
+AFR,144,Mozambique,c19,Post-consumer wood,,,tonne/tonne,0.9
+AFR,147,Namibia,c19,Post-consumer wood,,,tonne/tonne,0.9
+AFR,158,Niger,c19,Post-consumer wood,,,tonne/tonne,0.9
+AFR,159,Nigeria,c19,Post-consumer wood,,,tonne/tonne,0.9
+AFR,175,Guinea-Bissau,c19,Post-consumer wood,,,tonne/tonne,0.9
+AFR,178,Eritrea,c19,Post-consumer wood,,,tonne/tonne,0.9
+AFR,181,Zimbabwe,c19,Post-consumer wood,,,tonne/tonne,0.9
+AFR,182,Reunion,c19,Post-consumer wood,,,tonne/tonne,0.9
+AFR,184,Rwanda,c19,Post-consumer wood,,,tonne/tonne,0.9
+AFR,187,"Saint Helena, Ascension and Tristan da Cunha",c19,Post-consumer wood,,,tonne/tonne,0.9
+AFR,193,Sao Tome and Principe,c19,Post-consumer wood,,,tonne/tonne,0.9
+AFR,195,Senegal,c19,Post-consumer wood,,,tonne/tonne,0.9
+AFR,196,Seychelles,c19,Post-consumer wood,,,tonne/tonne,0.9
+AFR,197,Sierra Leone,c19,Post-consumer wood,,,tonne/tonne,0.9
+AFR,201,Somalia,c19,Post-consumer wood,,,tonne/tonne,0.9
+AFR,202,South Africa,c19,Post-consumer wood,,,tonne/tonne,0.9
+AFR,205,Western Sahara,c19,Post-consumer wood,,,tonne/tonne,0.9
+AFR,209,Eswatini,c19,Post-consumer wood,,,tonne/tonne,0.9
+AFR,215,United Republic of Tanzania,c19,Post-consumer wood,,,tonne/tonne,0.9
+AFR,217,Togo,c19,Post-consumer wood,,,tonne/tonne,0.9
+AFR,219,Tonga,c19,Post-consumer wood,,,tonne/tonne,0.9
+AFR,222,Tunisia,c19,Post-consumer wood,,,tonne/tonne,0.9
+AFR,226,Uganda,c19,Post-consumer wood,,,tonne/tonne,0.9
+AFR,233,Burkina Faso,c19,Post-consumer wood,,,tonne/tonne,0.9
+AFR,238,Ethiopia,c19,Post-consumer wood,,,tonne/tonne,0.9
+AFR,250,Democratic Republic of the Congo,c19,Post-consumer wood,,,tonne/tonne,0.9
+AFR,251,Zambia,c19,Post-consumer wood,,,tonne/tonne,0.9
+AFR,270,Mayotte,c19,Post-consumer wood,,,tonne/tonne,0.9
+AFR,276,Sudan,c19,Post-consumer wood,,,tonne/tonne,0.9
+AFR,277,South Sudan,c19,Post-consumer wood,,,tonne/tonne,0.9
+ASI,1,Armenia,c19,Post-consumer wood,,,tonne/tonne,0.9
+ASI,2,Afghanistan,c19,Post-consumer wood,,,tonne/tonne,0.9
+ASI,13,Bahrain,c19,Post-consumer wood,,,tonne/tonne,0.9
+ASI,16,Bangladesh,c19,Post-consumer wood,,,tonne/tonne,0.9
+ASI,18,Bhutan,c19,Post-consumer wood,,,tonne/tonne,0.9
+ASI,24,British Indian Ocean Territory,c19,Post-consumer wood,,,tonne/tonne,0.9
+ASI,26,Brunei Darussalam,c19,Post-consumer wood,,,tonne/tonne,0.9
+ASI,28,Myanmar,c19,Post-consumer wood,,,tonne/tonne,0.9
+ASI,38,Sri Lanka,c19,Post-consumer wood,,,tonne/tonne,0.9
+ASI,41,"China, mainland",c19,Post-consumer wood,,,tonne/tonne,0.9
+ASI,52,Azerbaijan,c19,Post-consumer wood,,,tonne/tonne,0.9
+ASI,73,Georgia,c19,Post-consumer wood,,,tonne/tonne,0.9
+ASI,96,"China, Hong Kong SAR",c19,Post-consumer wood,,,tonne/tonne,0.9
+ASI,100,India,c19,Post-consumer wood,,,tonne/tonne,0.9
+ASI,101,Indonesia,c19,Post-consumer wood,,,tonne/tonne,0.9
+ASI,102,Iran (Islamic Republic of),c19,Post-consumer wood,,,tonne/tonne,0.9
+ASI,103,Iraq,c19,Post-consumer wood,,,tonne/tonne,0.9
+ASI,105,Israel,c19,Post-consumer wood,,,tonne/tonne,0.9
+ASI,108,Kazakhstan,c19,Post-consumer wood,,,tonne/tonne,0.9
+ASI,110,Japan,c19,Post-consumer wood,,,tonne/tonne,0.9
+ASI,112,Jordan,c19,Post-consumer wood,,,tonne/tonne,0.9
+ASI,113,Kyrgyzstan,c19,Post-consumer wood,,,tonne/tonne,0.9
+ASI,115,Cambodia,c19,Post-consumer wood,,,tonne/tonne,0.9
+ASI,116,Democratic People's Republic of Korea,c19,Post-consumer wood,,,tonne/tonne,0.9
+ASI,117,Republic of Korea,c19,Post-consumer wood,,,tonne/tonne,0.9
+ASI,118,Kuwait,c19,Post-consumer wood,,,tonne/tonne,0.9
+ASI,120,Lao People's Democratic Republic,c19,Post-consumer wood,,,tonne/tonne,0.9
+ASI,121,Lebanon,c19,Post-consumer wood,,,tonne/tonne,0.9
+ASI,128,"China, Macao SAR",c19,Post-consumer wood,,,tonne/tonne,0.9
+ASI,131,Malaysia,c19,Post-consumer wood,,,tonne/tonne,0.9
+ASI,132,Maldives,c19,Post-consumer wood,,,tonne/tonne,0.9
+ASI,141,Mongolia,c19,Post-consumer wood,,,tonne/tonne,0.9
+ASI,149,Nepal,c19,Post-consumer wood,,,tonne/tonne,0.9
+ASI,164,Pacific Islands Trust Territory,c19,Post-consumer wood,,,tonne/tonne,0.9
+ASI,165,Pakistan,c19,Post-consumer wood,,,tonne/tonne,0.9
+ASI,171,Philippines,c19,Post-consumer wood,,,tonne/tonne,0.9
+ASI,176,Timor-Leste,c19,Post-consumer wood,,,tonne/tonne,0.9
+ASI,179,Qatar,c19,Post-consumer wood,,,tonne/tonne,0.9
+ASI,185,Russian Federation,c19,Post-consumer wood,,,tonne/tonne,0.9
+ASI,194,Saudi Arabia,c19,Post-consumer wood,,,tonne/tonne,0.9
+ASI,200,Singapore,c19,Post-consumer wood,,,tonne/tonne,0.9
+ASI,208,Tajikistan,c19,Post-consumer wood,,,tonne/tonne,0.9
+ASI,212,Syrian Arab Republic,c19,Post-consumer wood,,,tonne/tonne,0.9
+ASI,213,Turkmenistan,c19,Post-consumer wood,,,tonne/tonne,0.9
+ASI,214,"China, Taiwan Province of",c19,Post-consumer wood,,,tonne/tonne,0.9
+ASI,216,Thailand,c19,Post-consumer wood,,,tonne/tonne,0.9
+ASI,221,Oman,c19,Post-consumer wood,,,tonne/tonne,0.9
+ASI,225,United Arab Emirates,c19,Post-consumer wood,,,tonne/tonne,0.9
+ASI,228,USSR,c19,Post-consumer wood,,,tonne/tonne,0.9
+ASI,235,Uzbekistan,c19,Post-consumer wood,,,tonne/tonne,0.9
+ASI,237,Viet Nam,c19,Post-consumer wood,,,tonne/tonne,0.9
+ASI,249,Yemen,c19,Post-consumer wood,,,tonne/tonne,0.9
+ASI,299,Palestine,c19,Post-consumer wood,,,tonne/tonne,0.9
+EUR,3,Albania,c19,Post-consumer wood,,,tonne/tonne,0.9
+EUR,6,Andorra,c19,Post-consumer wood,,,tonne/tonne,0.9
+EUR,11,Austria,c19,Post-consumer wood,,,tonne/tonne,0.9
+EUR,15,Belgium-Luxembourg,c19,Post-consumer wood,,,tonne/tonne,0.9
+EUR,27,Bulgaria,c19,Post-consumer wood,,,tonne/tonne,0.9
+EUR,50,Cyprus,c19,Post-consumer wood,,,tonne/tonne,0.9
+EUR,51,Czechoslovakia,c19,Post-consumer wood,,,tonne/tonne,0.9
+EUR,54,Denmark,c19,Post-consumer wood,,,tonne/tonne,0.9
+EUR,57,Belarus,c19,Post-consumer wood,,,tonne/tonne,0.9
+EUR,63,Estonia,c19,Post-consumer wood,,,tonne/tonne,0.9
+EUR,64,Faroe Islands,c19,Post-consumer wood,,,tonne/tonne,0.9
+EUR,67,Finland,c19,Post-consumer wood,,,tonne/tonne,0.9
+EUR,68,France,c19,Post-consumer wood,,,tonne/tonne,0.9
+EUR,79,Germany,c19,Post-consumer wood,,,tonne/tonne,0.9
+EUR,80,Bosnia and Herzegovina,c19,Post-consumer wood,,,tonne/tonne,0.9
+EUR,82,Gibraltar,c19,Post-consumer wood,,,tonne/tonne,0.9
+EUR,84,Greece,c19,Post-consumer wood,,,tonne/tonne,0.9
+EUR,85,Greenland,c19,Post-consumer wood,,,tonne/tonne,0.9
+EUR,94,Holy See,c19,Post-consumer wood,,,tonne/tonne,0.9
+EUR,97,Hungary,c19,Post-consumer wood,,,tonne/tonne,0.9
+EUR,98,Croatia,c19,Post-consumer wood,,,tonne/tonne,0.9
+EUR,99,Iceland,c19,Post-consumer wood,,,tonne/tonne,0.9
+EUR,104,Ireland,c19,Post-consumer wood,,,tonne/tonne,0.9
+EUR,106,Italy,c19,Post-consumer wood,,,tonne/tonne,0.9
+EUR,119,Latvia,c19,Post-consumer wood,,,tonne/tonne,0.9
+EUR,125,Liechtenstein,c19,Post-consumer wood,,,tonne/tonne,0.9
+EUR,126,Lithuania,c19,Post-consumer wood,,,tonne/tonne,0.9
+EUR,134,Malta,c19,Post-consumer wood,,,tonne/tonne,0.9
+EUR,146,Republic of Moldova,c19,Post-consumer wood,,,tonne/tonne,0.9
+EUR,150,Netherlands,c19,Post-consumer wood,,,tonne/tonne,0.9
+EUR,154,North Macedonia,c19,Post-consumer wood,,,tonne/tonne,0.9
+EUR,162,Norway,c19,Post-consumer wood,,,tonne/tonne,0.9
+EUR,167,Czechia,c19,Post-consumer wood,,,tonne/tonne,0.9
+EUR,173,Poland,c19,Post-consumer wood,,,tonne/tonne,0.9
+EUR,174,Portugal,c19,Post-consumer wood,,,tonne/tonne,0.9
+EUR,183,Romania,c19,Post-consumer wood,,,tonne/tonne,0.9
+EUR,186,Serbia and Montenegro,c19,Post-consumer wood,,,tonne/tonne,0.9
+EUR,192,San Marino,c19,Post-consumer wood,,,tonne/tonne,0.9
+EUR,198,Slovenia,c19,Post-consumer wood,,,tonne/tonne,0.9
+EUR,199,Slovakia,c19,Post-consumer wood,,,tonne/tonne,0.9
+EUR,203,Spain,c19,Post-consumer wood,,,tonne/tonne,0.9
+EUR,210,Sweden,c19,Post-consumer wood,,,tonne/tonne,0.9
+EUR,211,Switzerland,c19,Post-consumer wood,,,tonne/tonne,0.9
+EUR,223,Turkey,c19,Post-consumer wood,,,tonne/tonne,0.9
+EUR,229,United Kingdom,c19,Post-consumer wood,,,tonne/tonne,0.9
+EUR,230,Ukraine,c19,Post-consumer wood,,,tonne/tonne,0.9
+EUR,248,Yugoslav SFR,c19,Post-consumer wood,,,tonne/tonne,0.9
+EUR,255,Belgium,c19,Post-consumer wood,,,tonne/tonne,0.9
+EUR,256,Luxembourg,c19,Post-consumer wood,,,tonne/tonne,0.9
+EUR,272,Serbia,c19,Post-consumer wood,,,tonne/tonne,0.9
+EUR,273,Montenegro,c19,Post-consumer wood,,,tonne/tonne,0.9
+LAM,8,Antigua and Barbuda,c19,Post-consumer wood,,,tonne/tonne,0.9
+LAM,9,Argentina,c19,Post-consumer wood,,,tonne/tonne,0.9
+LAM,12,Bahamas,c19,Post-consumer wood,,,tonne/tonne,0.9
+LAM,14,Barbados,c19,Post-consumer wood,,,tonne/tonne,0.9
+LAM,17,Bermuda,c19,Post-consumer wood,,,tonne/tonne,0.9
+LAM,19,Bolivia (Plurinational State of),c19,Post-consumer wood,,,tonne/tonne,0.9
+LAM,21,Brazil,c19,Post-consumer wood,,,tonne/tonne,0.9
+LAM,22,Aruba,c19,Post-consumer wood,,,tonne/tonne,0.9
+LAM,23,Belize,c19,Post-consumer wood,,,tonne/tonne,0.9
+LAM,36,Cayman Islands,c19,Post-consumer wood,,,tonne/tonne,0.9
+LAM,40,Chile,c19,Post-consumer wood,,,tonne/tonne,0.9
+LAM,44,Colombia,c19,Post-consumer wood,,,tonne/tonne,0.9
+LAM,48,Costa Rica,c19,Post-consumer wood,,,tonne/tonne,0.9
+LAM,49,Cuba,c19,Post-consumer wood,,,tonne/tonne,0.9
+LAM,55,Dominica,c19,Post-consumer wood,,,tonne/tonne,0.9
+LAM,56,Dominican Republic,c19,Post-consumer wood,,,tonne/tonne,0.9
+LAM,58,Ecuador,c19,Post-consumer wood,,,tonne/tonne,0.9
+LAM,60,El Salvador,c19,Post-consumer wood,,,tonne/tonne,0.9
+LAM,65,Falkland Islands (Malvinas),c19,Post-consumer wood,,,tonne/tonne,0.9
+LAM,69,French Guyana,c19,Post-consumer wood,,,tonne/tonne,0.9
+LAM,86,Grenada,c19,Post-consumer wood,,,tonne/tonne,0.9
+LAM,87,Guadeloupe,c19,Post-consumer wood,,,tonne/tonne,0.9
+LAM,89,Guatemala,c19,Post-consumer wood,,,tonne/tonne,0.9
+LAM,91,Guyana,c19,Post-consumer wood,,,tonne/tonne,0.9
+LAM,93,Haiti,c19,Post-consumer wood,,,tonne/tonne,0.9
+LAM,95,Honduras,c19,Post-consumer wood,,,tonne/tonne,0.9
+LAM,109,Jamaica,c19,Post-consumer wood,,,tonne/tonne,0.9
+LAM,135,Martinique,c19,Post-consumer wood,,,tonne/tonne,0.9
+LAM,138,Mexico,c19,Post-consumer wood,,,tonne/tonne,0.9
+LAM,142,Montserrat,c19,Post-consumer wood,,,tonne/tonne,0.9
+LAM,151,Netherlands Antilles,c19,Post-consumer wood,,,tonne/tonne,0.9
+LAM,157,Nicaragua,c19,Post-consumer wood,,,tonne/tonne,0.9
+LAM,166,Panama,c19,Post-consumer wood,,,tonne/tonne,0.9
+LAM,169,Paraguay,c19,Post-consumer wood,,,tonne/tonne,0.9
+LAM,170,Peru,c19,Post-consumer wood,,,tonne/tonne,0.9
+LAM,188,Saint Kitts and Nevis,c19,Post-consumer wood,,,tonne/tonne,0.9
+LAM,189,Saint Lucia,c19,Post-consumer wood,,,tonne/tonne,0.9
+LAM,191,Saint Vincent and the Grenadines,c19,Post-consumer wood,,,tonne/tonne,0.9
+LAM,207,Suriname,c19,Post-consumer wood,,,tonne/tonne,0.9
+LAM,220,Trinidad and Tobago,c19,Post-consumer wood,,,tonne/tonne,0.9
+LAM,224,Turks and Caicos Islands,c19,Post-consumer wood,,,tonne/tonne,0.9
+LAM,234,Uruguay,c19,Post-consumer wood,,,tonne/tonne,0.9
+LAM,236,Venezuela (Bolivarian Republic of),c19,Post-consumer wood,,,tonne/tonne,0.9
+LAM,239,British Virgin Islands,c19,Post-consumer wood,,,tonne/tonne,0.9
+LAM,258,Anguilla,c19,Post-consumer wood,,,tonne/tonne,0.9
+LAM,279,Cura‡ao,c19,Post-consumer wood,,,tonne/tonne,0.9
+LAM,281,Saint-Martin (French Part),c19,Post-consumer wood,,,tonne/tonne,0.9
+NAM,33,Canada,c19,Post-consumer wood,,,tonne/tonne,0.9
+NAM,190,Saint Pierre and Miquelon,c19,Post-consumer wood,,,tonne/tonne,0.9
+NAM,231,United States of America,c19,Post-consumer wood,,,tonne/tonne,0.9
+OCE,5,American Samoa,c19,Post-consumer wood,,,tonne/tonne,0.9
+OCE,10,Australia,c19,Post-consumer wood,,,tonne/tonne,0.9
+OCE,25,Solomon Islands,c19,Post-consumer wood,,,tonne/tonne,0.9
+OCE,42,Christmas Island,c19,Post-consumer wood,,,tonne/tonne,0.9
+OCE,43,Cocos (Keeling) Islands,c19,Post-consumer wood,,,tonne/tonne,0.9
+OCE,47,Cook Islands,c19,Post-consumer wood,,,tonne/tonne,0.9
+OCE,66,Fiji,c19,Post-consumer wood,,,tonne/tonne,0.9
+OCE,70,French Polynesia,c19,Post-consumer wood,,,tonne/tonne,0.9
+OCE,71,French Southern and Antarctic Territories,c19,Post-consumer wood,,,tonne/tonne,0.9
+OCE,83,Kiribati,c19,Post-consumer wood,,,tonne/tonne,0.9
+OCE,88,Guam,c19,Post-consumer wood,,,tonne/tonne,0.9
+OCE,127,Marshall Islands,c19,Post-consumer wood,,,tonne/tonne,0.9
+OCE,145,Micronesia (Federated States of),c19,Post-consumer wood,,,tonne/tonne,0.9
+OCE,148,Nauru,c19,Post-consumer wood,,,tonne/tonne,0.9
+OCE,153,New Caledonia,c19,Post-consumer wood,,,tonne/tonne,0.9
+OCE,155,Vanuatu,c19,Post-consumer wood,,,tonne/tonne,0.9
+OCE,156,New Zealand,c19,Post-consumer wood,,,tonne/tonne,0.9
+OCE,160,Niue,c19,Post-consumer wood,,,tonne/tonne,0.9
+OCE,161,Norfolk Island,c19,Post-consumer wood,,,tonne/tonne,0.9
+OCE,163,Northern Mariana Islands,c19,Post-consumer wood,,,tonne/tonne,0.9
+OCE,168,Papua New Guinea,c19,Post-consumer wood,,,tonne/tonne,0.9
+OCE,172,Pitcairn Islands,c19,Post-consumer wood,,,tonne/tonne,0.9
+OCE,180,Palau,c19,Post-consumer wood,,,tonne/tonne,0.9
+OCE,218,Tokelau,c19,Post-consumer wood,,,tonne/tonne,0.9
+OCE,227,Tuvalu,c19,Post-consumer wood,,,tonne/tonne,0.9
+OCE,242,Wake Island,c19,Post-consumer wood,,,tonne/tonne,0.9
+OCE,243,Wallis and Futuna Islands,c19,Post-consumer wood,,,tonne/tonne,0.9
+OCE,244,Samoa,c19,Post-consumer wood,,,tonne/tonne,0.9
+ROW,999,RoW,c19,Post-consumer wood,,,tonne/tonne,0.9
+XXX,252,Unspecified Area,c19,Post-consumer wood,,,tonne/tonne,0.9
+XXX,254,Others (adjustment),c19,Post-consumer wood,,,tonne/tonne,0.9
+AFR,4,Algeria,c20,Black liquor,,,tonne/tonne,
+AFR,7,Angola,c20,Black liquor,,,tonne/tonne,
+AFR,20,Botswana,c20,Black liquor,,,tonne/tonne,
+AFR,29,Burundi,c20,Black liquor,,,tonne/tonne,
+AFR,32,Cameroon,c20,Black liquor,,,tonne/tonne,
+AFR,35,Cabo Verde,c20,Black liquor,,,tonne/tonne,
+AFR,37,Central African Republic,c20,Black liquor,,,tonne/tonne,
+AFR,39,Chad,c20,Black liquor,,,tonne/tonne,
+AFR,45,Comoros,c20,Black liquor,,,tonne/tonne,
+AFR,46,Congo,c20,Black liquor,,,tonne/tonne,
+AFR,53,Benin,c20,Black liquor,,,tonne/tonne,
+AFR,59,Egypt,c20,Black liquor,,,tonne/tonne,
+AFR,61,Equatorial Guinea,c20,Black liquor,,,tonne/tonne,
+AFR,72,Djibouti,c20,Black liquor,,,tonne/tonne,
+AFR,74,Gabon,c20,Black liquor,,,tonne/tonne,
+AFR,75,Gambia,c20,Black liquor,,,tonne/tonne,
+AFR,81,Ghana,c20,Black liquor,,,tonne/tonne,
+AFR,90,Guinea,c20,Black liquor,,,tonne/tonne,
+AFR,107,Cote d'Ivoire,c20,Black liquor,,,tonne/tonne,
+AFR,114,Kenya,c20,Black liquor,,,tonne/tonne,
+AFR,122,Lesotho,c20,Black liquor,,,tonne/tonne,
+AFR,123,Liberia,c20,Black liquor,,,tonne/tonne,
+AFR,124,Libya,c20,Black liquor,,,tonne/tonne,
+AFR,129,Madagascar,c20,Black liquor,,,tonne/tonne,
+AFR,130,Malawi,c20,Black liquor,,,tonne/tonne,
+AFR,133,Mali,c20,Black liquor,,,tonne/tonne,
+AFR,136,Mauritania,c20,Black liquor,,,tonne/tonne,
+AFR,137,Mauritius,c20,Black liquor,,,tonne/tonne,
+AFR,143,Morocco,c20,Black liquor,,,tonne/tonne,
+AFR,144,Mozambique,c20,Black liquor,,,tonne/tonne,
+AFR,147,Namibia,c20,Black liquor,,,tonne/tonne,
+AFR,158,Niger,c20,Black liquor,,,tonne/tonne,
+AFR,159,Nigeria,c20,Black liquor,,,tonne/tonne,
+AFR,175,Guinea-Bissau,c20,Black liquor,,,tonne/tonne,
+AFR,178,Eritrea,c20,Black liquor,,,tonne/tonne,
+AFR,181,Zimbabwe,c20,Black liquor,,,tonne/tonne,
+AFR,182,Reunion,c20,Black liquor,,,tonne/tonne,
+AFR,184,Rwanda,c20,Black liquor,,,tonne/tonne,
+AFR,187,"Saint Helena, Ascension and Tristan da Cunha",c20,Black liquor,,,tonne/tonne,
+AFR,193,Sao Tome and Principe,c20,Black liquor,,,tonne/tonne,
+AFR,195,Senegal,c20,Black liquor,,,tonne/tonne,
+AFR,196,Seychelles,c20,Black liquor,,,tonne/tonne,
+AFR,197,Sierra Leone,c20,Black liquor,,,tonne/tonne,
+AFR,201,Somalia,c20,Black liquor,,,tonne/tonne,
+AFR,202,South Africa,c20,Black liquor,,,tonne/tonne,
+AFR,205,Western Sahara,c20,Black liquor,,,tonne/tonne,
+AFR,209,Eswatini,c20,Black liquor,,,tonne/tonne,
+AFR,215,United Republic of Tanzania,c20,Black liquor,,,tonne/tonne,
+AFR,217,Togo,c20,Black liquor,,,tonne/tonne,
+AFR,219,Tonga,c20,Black liquor,,,tonne/tonne,
+AFR,222,Tunisia,c20,Black liquor,,,tonne/tonne,
+AFR,226,Uganda,c20,Black liquor,,,tonne/tonne,
+AFR,233,Burkina Faso,c20,Black liquor,,,tonne/tonne,
+AFR,238,Ethiopia,c20,Black liquor,,,tonne/tonne,
+AFR,250,Democratic Republic of the Congo,c20,Black liquor,,,tonne/tonne,
+AFR,251,Zambia,c20,Black liquor,,,tonne/tonne,
+AFR,270,Mayotte,c20,Black liquor,,,tonne/tonne,
+AFR,276,Sudan,c20,Black liquor,,,tonne/tonne,
+AFR,277,South Sudan,c20,Black liquor,,,tonne/tonne,
+ASI,1,Armenia,c20,Black liquor,,,tonne/tonne,
+ASI,2,Afghanistan,c20,Black liquor,,,tonne/tonne,
+ASI,13,Bahrain,c20,Black liquor,,,tonne/tonne,
+ASI,16,Bangladesh,c20,Black liquor,,,tonne/tonne,
+ASI,18,Bhutan,c20,Black liquor,,,tonne/tonne,
+ASI,24,British Indian Ocean Territory,c20,Black liquor,,,tonne/tonne,
+ASI,26,Brunei Darussalam,c20,Black liquor,,,tonne/tonne,
+ASI,28,Myanmar,c20,Black liquor,,,tonne/tonne,
+ASI,38,Sri Lanka,c20,Black liquor,,,tonne/tonne,
+ASI,41,"China, mainland",c20,Black liquor,,,tonne/tonne,
+ASI,52,Azerbaijan,c20,Black liquor,,,tonne/tonne,
+ASI,73,Georgia,c20,Black liquor,,,tonne/tonne,
+ASI,96,"China, Hong Kong SAR",c20,Black liquor,,,tonne/tonne,
+ASI,100,India,c20,Black liquor,,,tonne/tonne,
+ASI,101,Indonesia,c20,Black liquor,,,tonne/tonne,
+ASI,102,Iran (Islamic Republic of),c20,Black liquor,,,tonne/tonne,
+ASI,103,Iraq,c20,Black liquor,,,tonne/tonne,
+ASI,105,Israel,c20,Black liquor,,,tonne/tonne,
+ASI,108,Kazakhstan,c20,Black liquor,,,tonne/tonne,
+ASI,110,Japan,c20,Black liquor,,,tonne/tonne,
+ASI,112,Jordan,c20,Black liquor,,,tonne/tonne,
+ASI,113,Kyrgyzstan,c20,Black liquor,,,tonne/tonne,
+ASI,115,Cambodia,c20,Black liquor,,,tonne/tonne,
+ASI,116,Democratic People's Republic of Korea,c20,Black liquor,,,tonne/tonne,
+ASI,117,Republic of Korea,c20,Black liquor,,,tonne/tonne,
+ASI,118,Kuwait,c20,Black liquor,,,tonne/tonne,
+ASI,120,Lao People's Democratic Republic,c20,Black liquor,,,tonne/tonne,
+ASI,121,Lebanon,c20,Black liquor,,,tonne/tonne,
+ASI,128,"China, Macao SAR",c20,Black liquor,,,tonne/tonne,
+ASI,131,Malaysia,c20,Black liquor,,,tonne/tonne,
+ASI,132,Maldives,c20,Black liquor,,,tonne/tonne,
+ASI,141,Mongolia,c20,Black liquor,,,tonne/tonne,
+ASI,149,Nepal,c20,Black liquor,,,tonne/tonne,
+ASI,164,Pacific Islands Trust Territory,c20,Black liquor,,,tonne/tonne,
+ASI,165,Pakistan,c20,Black liquor,,,tonne/tonne,
+ASI,171,Philippines,c20,Black liquor,,,tonne/tonne,
+ASI,176,Timor-Leste,c20,Black liquor,,,tonne/tonne,
+ASI,179,Qatar,c20,Black liquor,,,tonne/tonne,
+ASI,185,Russian Federation,c20,Black liquor,,,tonne/tonne,
+ASI,194,Saudi Arabia,c20,Black liquor,,,tonne/tonne,
+ASI,200,Singapore,c20,Black liquor,,,tonne/tonne,
+ASI,208,Tajikistan,c20,Black liquor,,,tonne/tonne,
+ASI,212,Syrian Arab Republic,c20,Black liquor,,,tonne/tonne,
+ASI,213,Turkmenistan,c20,Black liquor,,,tonne/tonne,
+ASI,214,"China, Taiwan Province of",c20,Black liquor,,,tonne/tonne,
+ASI,216,Thailand,c20,Black liquor,,,tonne/tonne,
+ASI,221,Oman,c20,Black liquor,,,tonne/tonne,
+ASI,225,United Arab Emirates,c20,Black liquor,,,tonne/tonne,
+ASI,228,USSR,c20,Black liquor,,,tonne/tonne,
+ASI,235,Uzbekistan,c20,Black liquor,,,tonne/tonne,
+ASI,237,Viet Nam,c20,Black liquor,,,tonne/tonne,
+ASI,249,Yemen,c20,Black liquor,,,tonne/tonne,
+ASI,299,Palestine,c20,Black liquor,,,tonne/tonne,
+EUR,3,Albania,c20,Black liquor,,,tonne/tonne,
+EUR,6,Andorra,c20,Black liquor,,,tonne/tonne,
+EUR,11,Austria,c20,Black liquor,,,tonne/tonne,
+EUR,15,Belgium-Luxembourg,c20,Black liquor,,,tonne/tonne,
+EUR,27,Bulgaria,c20,Black liquor,,,tonne/tonne,
+EUR,50,Cyprus,c20,Black liquor,,,tonne/tonne,
+EUR,51,Czechoslovakia,c20,Black liquor,,,tonne/tonne,
+EUR,54,Denmark,c20,Black liquor,,,tonne/tonne,
+EUR,57,Belarus,c20,Black liquor,,,tonne/tonne,
+EUR,63,Estonia,c20,Black liquor,,,tonne/tonne,
+EUR,64,Faroe Islands,c20,Black liquor,,,tonne/tonne,
+EUR,67,Finland,c20,Black liquor,,,tonne/tonne,
+EUR,68,France,c20,Black liquor,,,tonne/tonne,
+EUR,79,Germany,c20,Black liquor,,,tonne/tonne,
+EUR,80,Bosnia and Herzegovina,c20,Black liquor,,,tonne/tonne,
+EUR,82,Gibraltar,c20,Black liquor,,,tonne/tonne,
+EUR,84,Greece,c20,Black liquor,,,tonne/tonne,
+EUR,85,Greenland,c20,Black liquor,,,tonne/tonne,
+EUR,94,Holy See,c20,Black liquor,,,tonne/tonne,
+EUR,97,Hungary,c20,Black liquor,,,tonne/tonne,
+EUR,98,Croatia,c20,Black liquor,,,tonne/tonne,
+EUR,99,Iceland,c20,Black liquor,,,tonne/tonne,
+EUR,104,Ireland,c20,Black liquor,,,tonne/tonne,
+EUR,106,Italy,c20,Black liquor,,,tonne/tonne,
+EUR,119,Latvia,c20,Black liquor,,,tonne/tonne,
+EUR,125,Liechtenstein,c20,Black liquor,,,tonne/tonne,
+EUR,126,Lithuania,c20,Black liquor,,,tonne/tonne,
+EUR,134,Malta,c20,Black liquor,,,tonne/tonne,
+EUR,146,Republic of Moldova,c20,Black liquor,,,tonne/tonne,
+EUR,150,Netherlands,c20,Black liquor,,,tonne/tonne,
+EUR,154,North Macedonia,c20,Black liquor,,,tonne/tonne,
+EUR,162,Norway,c20,Black liquor,,,tonne/tonne,
+EUR,167,Czechia,c20,Black liquor,,,tonne/tonne,
+EUR,173,Poland,c20,Black liquor,,,tonne/tonne,
+EUR,174,Portugal,c20,Black liquor,,,tonne/tonne,
+EUR,183,Romania,c20,Black liquor,,,tonne/tonne,
+EUR,186,Serbia and Montenegro,c20,Black liquor,,,tonne/tonne,
+EUR,192,San Marino,c20,Black liquor,,,tonne/tonne,
+EUR,198,Slovenia,c20,Black liquor,,,tonne/tonne,
+EUR,199,Slovakia,c20,Black liquor,,,tonne/tonne,
+EUR,203,Spain,c20,Black liquor,,,tonne/tonne,
+EUR,210,Sweden,c20,Black liquor,,,tonne/tonne,
+EUR,211,Switzerland,c20,Black liquor,,,tonne/tonne,
+EUR,223,Turkey,c20,Black liquor,,,tonne/tonne,
+EUR,229,United Kingdom,c20,Black liquor,,,tonne/tonne,
+EUR,230,Ukraine,c20,Black liquor,,,tonne/tonne,
+EUR,248,Yugoslav SFR,c20,Black liquor,,,tonne/tonne,
+EUR,255,Belgium,c20,Black liquor,,,tonne/tonne,
+EUR,256,Luxembourg,c20,Black liquor,,,tonne/tonne,
+EUR,272,Serbia,c20,Black liquor,,,tonne/tonne,
+EUR,273,Montenegro,c20,Black liquor,,,tonne/tonne,
+LAM,8,Antigua and Barbuda,c20,Black liquor,,,tonne/tonne,
+LAM,9,Argentina,c20,Black liquor,,,tonne/tonne,
+LAM,12,Bahamas,c20,Black liquor,,,tonne/tonne,
+LAM,14,Barbados,c20,Black liquor,,,tonne/tonne,
+LAM,17,Bermuda,c20,Black liquor,,,tonne/tonne,
+LAM,19,Bolivia (Plurinational State of),c20,Black liquor,,,tonne/tonne,
+LAM,21,Brazil,c20,Black liquor,,,tonne/tonne,
+LAM,22,Aruba,c20,Black liquor,,,tonne/tonne,
+LAM,23,Belize,c20,Black liquor,,,tonne/tonne,
+LAM,36,Cayman Islands,c20,Black liquor,,,tonne/tonne,
+LAM,40,Chile,c20,Black liquor,,,tonne/tonne,
+LAM,44,Colombia,c20,Black liquor,,,tonne/tonne,
+LAM,48,Costa Rica,c20,Black liquor,,,tonne/tonne,
+LAM,49,Cuba,c20,Black liquor,,,tonne/tonne,
+LAM,55,Dominica,c20,Black liquor,,,tonne/tonne,
+LAM,56,Dominican Republic,c20,Black liquor,,,tonne/tonne,
+LAM,58,Ecuador,c20,Black liquor,,,tonne/tonne,
+LAM,60,El Salvador,c20,Black liquor,,,tonne/tonne,
+LAM,65,Falkland Islands (Malvinas),c20,Black liquor,,,tonne/tonne,
+LAM,69,French Guyana,c20,Black liquor,,,tonne/tonne,
+LAM,86,Grenada,c20,Black liquor,,,tonne/tonne,
+LAM,87,Guadeloupe,c20,Black liquor,,,tonne/tonne,
+LAM,89,Guatemala,c20,Black liquor,,,tonne/tonne,
+LAM,91,Guyana,c20,Black liquor,,,tonne/tonne,
+LAM,93,Haiti,c20,Black liquor,,,tonne/tonne,
+LAM,95,Honduras,c20,Black liquor,,,tonne/tonne,
+LAM,109,Jamaica,c20,Black liquor,,,tonne/tonne,
+LAM,135,Martinique,c20,Black liquor,,,tonne/tonne,
+LAM,138,Mexico,c20,Black liquor,,,tonne/tonne,
+LAM,142,Montserrat,c20,Black liquor,,,tonne/tonne,
+LAM,151,Netherlands Antilles,c20,Black liquor,,,tonne/tonne,
+LAM,157,Nicaragua,c20,Black liquor,,,tonne/tonne,
+LAM,166,Panama,c20,Black liquor,,,tonne/tonne,
+LAM,169,Paraguay,c20,Black liquor,,,tonne/tonne,
+LAM,170,Peru,c20,Black liquor,,,tonne/tonne,
+LAM,188,Saint Kitts and Nevis,c20,Black liquor,,,tonne/tonne,
+LAM,189,Saint Lucia,c20,Black liquor,,,tonne/tonne,
+LAM,191,Saint Vincent and the Grenadines,c20,Black liquor,,,tonne/tonne,
+LAM,207,Suriname,c20,Black liquor,,,tonne/tonne,
+LAM,220,Trinidad and Tobago,c20,Black liquor,,,tonne/tonne,
+LAM,224,Turks and Caicos Islands,c20,Black liquor,,,tonne/tonne,
+LAM,234,Uruguay,c20,Black liquor,,,tonne/tonne,
+LAM,236,Venezuela (Bolivarian Republic of),c20,Black liquor,,,tonne/tonne,
+LAM,239,British Virgin Islands,c20,Black liquor,,,tonne/tonne,
+LAM,258,Anguilla,c20,Black liquor,,,tonne/tonne,
+LAM,279,Cura‡ao,c20,Black liquor,,,tonne/tonne,
+LAM,281,Saint-Martin (French Part),c20,Black liquor,,,tonne/tonne,
+NAM,33,Canada,c20,Black liquor,,,tonne/tonne,
+NAM,190,Saint Pierre and Miquelon,c20,Black liquor,,,tonne/tonne,
+NAM,231,United States of America,c20,Black liquor,,,tonne/tonne,
+OCE,5,American Samoa,c20,Black liquor,,,tonne/tonne,
+OCE,10,Australia,c20,Black liquor,,,tonne/tonne,
+OCE,25,Solomon Islands,c20,Black liquor,,,tonne/tonne,
+OCE,42,Christmas Island,c20,Black liquor,,,tonne/tonne,
+OCE,43,Cocos (Keeling) Islands,c20,Black liquor,,,tonne/tonne,
+OCE,47,Cook Islands,c20,Black liquor,,,tonne/tonne,
+OCE,66,Fiji,c20,Black liquor,,,tonne/tonne,
+OCE,70,French Polynesia,c20,Black liquor,,,tonne/tonne,
+OCE,71,French Southern and Antarctic Territories,c20,Black liquor,,,tonne/tonne,
+OCE,83,Kiribati,c20,Black liquor,,,tonne/tonne,
+OCE,88,Guam,c20,Black liquor,,,tonne/tonne,
+OCE,127,Marshall Islands,c20,Black liquor,,,tonne/tonne,
+OCE,145,Micronesia (Federated States of),c20,Black liquor,,,tonne/tonne,
+OCE,148,Nauru,c20,Black liquor,,,tonne/tonne,
+OCE,153,New Caledonia,c20,Black liquor,,,tonne/tonne,
+OCE,155,Vanuatu,c20,Black liquor,,,tonne/tonne,
+OCE,156,New Zealand,c20,Black liquor,,,tonne/tonne,
+OCE,160,Niue,c20,Black liquor,,,tonne/tonne,
+OCE,161,Norfolk Island,c20,Black liquor,,,tonne/tonne,
+OCE,163,Northern Mariana Islands,c20,Black liquor,,,tonne/tonne,
+OCE,168,Papua New Guinea,c20,Black liquor,,,tonne/tonne,
+OCE,172,Pitcairn Islands,c20,Black liquor,,,tonne/tonne,
+OCE,180,Palau,c20,Black liquor,,,tonne/tonne,
+OCE,218,Tokelau,c20,Black liquor,,,tonne/tonne,
+OCE,227,Tuvalu,c20,Black liquor,,,tonne/tonne,
+OCE,242,Wake Island,c20,Black liquor,,,tonne/tonne,
+OCE,243,Wallis and Futuna Islands,c20,Black liquor,,,tonne/tonne,
+OCE,244,Samoa,c20,Black liquor,,,tonne/tonne,
+ROW,999,RoW,c20,Black liquor,,,tonne/tonne,
+XXX,252,Unspecified Area,c20,Black liquor,,,tonne/tonne,
+XXX,254,Others (adjustment),c20,Black liquor,,,tonne/tonne,

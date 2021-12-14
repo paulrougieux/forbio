@@ -62,7 +62,7 @@ rm(sup, sup_cont, sup_wrld)
 
 
 
-# TCF USE ----------------------------------------------------------------
+# TCF USE ---------------------------------------------------------------------
 
 cat("\nTidying input-output technical conversion factors for use tables.\n")
 
@@ -98,10 +98,10 @@ use <- use[, c("continent", "area_code", "area", "com_code","item","source_code"
 fwrite(use, "inst/tcf_use_tidy.csv")
 
 
-# Carbon TCF -------------------------------------------------------------
+# Carbon TCF -------------------------------------------------------------------------
 
-cat("\nTidying different technical conversion factors to calculate carbon TCF in X steps.\n")
-# tcf in c01, c02, c03, c17 and c18 already refered to the basic density
+cat("\nTidying different technical conversion factors to calculate carbon TCF.\n")
+# tcf in c01, c02, c03, c17 and c18 already refer to the basic density
 # that is (oven) dry weight to green volumen (c01-c03) or m3 product (c17,c18)
 
 ## step 1
@@ -225,7 +225,7 @@ shrinkage[, `:=`(shrinkage = ifelse(!is.na(shrinkage), shrinkage,
 shrinkage <- shrinkage[, c("continent", "area_code", "area", "com_code","item","source_code","shrinkage")]
 
 fwrite(shrinkage, "inst/shrinkage_tidy.csv")
-rm(shrinkage_cont, shrinkage_wrld)
+rm(wbp, shrinkage_cont, shrinkage_wrld)
 
 # merge shrinkage data
 bd <- merge(bd, shrinkage,
@@ -245,7 +245,6 @@ bd[com_code %in% c("c06", "c07"),
 
 bd[, `:=`(shrinkage = NULL)]
 
-
 ## step 6: Building carbon TCF
 cat("\nStep 6: Building carbon TCF.\n")
 
@@ -257,12 +256,27 @@ bd[, `:=`(tcf = NULL)]
 # Multiply by 0.5 all
 bd[, tcf_carbon := tcf_bd * 0.5]
 
-
 # Except for charcoal, which has 0.85 carbon content
 bd[com_code %in% c("c16"),
       tcf_carbon := tcf_bd * 0.85 / 0.5]
 
-carbon <- bd[, c("continent", "area_code", "area", "com_code","item","source_code","tcf_carbon")]
+# Except for black liquor, which has 0.35 carbon content
+bd[com_code %in% c("c20"),
+   tcf_carbon := tcf_bd * 0.35 / 0.5]
 
-fwrite(shrinkage, "inst/carbon_tidy.csv")
+carbon <- bd[, c("continent", "area_code", "area", "com_code","item","source_code","source","tcf_carbon")]
+
+fwrite(carbon, "inst/carbon_tidy.csv")
+rm(bd, carbon, density, shrinkage)
+
+# TCF swe ---------------------------------------------------------------------
+
+#cat("\nTidying swe technical conversion factors.\n")
+
+# provisorisch:
+# used "tcf_use_tidy" as basis
+# divided 1/tcf for c17 and c18 to obtain the right unit (m3sw/m3p)
+# I used this: tcf_in[unit=="m3rw/m3p", `:=`(tcf = 1 / tcf, unit = "m3p/m3rw")]
+# calculated mean of tcf from c04-c10 and multiplied by 2 (average of m3p/tonne) to obtain tcf for c19
+# divided tcf of c11a to obtain tcf for c20
 

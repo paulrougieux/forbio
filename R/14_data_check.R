@@ -107,50 +107,50 @@ use_fd_mat$value_total <- use_fd_mat$value_total / 1000000
 write.csv(use_fd_mat,"./output/use_fdmat_2017.csv", row.names = FALSE)
 
 #---------------------------------------
-# GLOBAL RESULTS (2017) in m3 swe
+#GLOBAL RESULTS (2017) in m3 swe
 #---------------------------------------
-# 
-# 'tcf <- fread("inst/tcf_use_tidy.csv")
-# 
-# yr <- 2017
-# 
-# cbs <- cbs[year==yr]
-# sup <- sup[year==yr]
-# use <- use[year==yr]
-# 
-# sup_totals <- aggregate(x = sup$production, by = list(sup$com_code, sup$proc_code), FUN = na_sum)
-# 
-# use_totals <- aggregate(x = use$use, by = list(use$com_code, use$proc_code), FUN = na_sum)
-# 
-# # Convert into m3 swe (SUP)
-# 
-# sup_totals <- sup_totals %>% 
-#   rename(
-#     com_code = Group.1,
-#     proc_code = Group.2,
-#     value = x
-#   )
-# 
-# sup_totals <- merge(sup_totals, tcf[, .(com_code, tCdunit)],
-#                     all.x = TRUE, by = "com_code")
-# 
-# sup_totals$value_totals <- sup_totals$value * sup_totals$tCdunit
-# 
-# # Convert into m3 swe (USE)
-# 
-# use_totals <- use_totals %>%
-#   rename(
-#     com_code = Group.1,
-#     proc_code = Group.2,
-#     value = x
-#   )
-# 
-# use_totals <- merge(use_totals, carbon_cf[, .(com_code, tCdunit)],
-#                     all.x = TRUE, by = "com_code")
-# 
-# use_totals$value_totals <- use_totals$value * use_totals$tCdunit
-# 
-# 
+
+tcf <- fread("inst/tcf_use_tidy.csv")
+
+yr <- 2017
+
+cbs <- cbs[year==yr]
+sup <- sup[year==yr]
+use <- use[year==yr]
+
+sup_totals <- aggregate(x = sup$production, by = list(sup$com_code, sup$proc_code), FUN = na_sum)
+
+use_totals <- aggregate(x = use$use, by = list(use$com_code, use$proc_code), FUN = na_sum)
+
+# Convert into m3 swe (SUP)
+
+sup_totals <- sup_totals %>%
+  rename(
+    com_code = Group.1,
+    proc_code = Group.2,
+    value = x
+  )
+
+sup_totals <- merge(sup_totals, tcf[, .(com_code, tCdunit)],
+                    all.x = TRUE, by = "com_code")
+
+sup_totals$value_totals <- sup_totals$value * sup_totals$tCdunit
+
+# Convert into m3 swe (USE)
+
+use_totals <- use_totals %>%
+  rename(
+    com_code = Group.1,
+    proc_code = Group.2,
+    value = x
+  )
+
+use_totals <- merge(use_totals, carbon_cf[, .(com_code, tCdunit)],
+                    all.x = TRUE, by = "com_code")
+
+use_totals$value_totals <- use_totals$value * use_totals$tCdunit
+
+
 
 
 #---------------------------------------
