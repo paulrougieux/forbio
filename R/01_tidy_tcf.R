@@ -190,7 +190,7 @@ bd <- merge(density, wbp,
              by = c("continent", "area_code", "area", "com_code", "item"), all.x = TRUE)
 
 # calculate wood basic density
-bd[, tcf_bd := tcf * wood / 100]
+bd[, tcf_bd := tcf * (wood / 100)]
 
 bd[, `:=`(wood = NULL)]
 
@@ -228,6 +228,7 @@ fwrite(shrinkage, "inst/shrinkage_tidy.csv")
 rm(wbp, shrinkage_cont, shrinkage_wrld)
 
 # merge shrinkage data
+shrinkage <- fread ("inst/shrinkage_tidy.csv")
 bd <- merge(bd, shrinkage,
             by = c("continent", "area_code", "area", "com_code", "item", "source_code"), all.x = TRUE)
 
@@ -258,11 +259,11 @@ bd[, tcf_carbon := tcf_bd * 0.5]
 
 # Except for charcoal, which has 0.85 carbon content
 bd[com_code %in% c("c16"),
-      tcf_carbon := tcf_bd * 0.85 / 0.5]
+      tcf_carbon := tcf_bd * 0.85]
 
 # Except for black liquor, which has 0.35 carbon content
 bd[com_code %in% c("c20"),
-   tcf_carbon := tcf_bd * 0.35 / 0.5]
+   tcf_carbon := tcf_bd * 0.35]
 
 carbon <- bd[, c("continent", "area_code", "area", "com_code","item","source_code","source","tcf_carbon")]
 

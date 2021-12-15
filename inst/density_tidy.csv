@@ -207,7 +207,7 @@ LAM,234,Uruguay,c01,"Industrial roundwood, coniferous",,,tonne/m3,0.405
 LAM,236,Venezuela (Bolivarian Republic of),c01,"Industrial roundwood, coniferous",,,tonne/m3,0.421123355275
 LAM,239,British Virgin Islands,c01,"Industrial roundwood, coniferous",,,tonne/m3,0.421123355275
 LAM,258,Anguilla,c01,"Industrial roundwood, coniferous",,,tonne/m3,0.421123355275
-LAM,279,Curaáao,c01,"Industrial roundwood, coniferous",,,tonne/m3,0.421123355275
+LAM,279,Cura√ßao,c01,"Industrial roundwood, coniferous",,,tonne/m3,0.421123355275
 LAM,281,Saint-Martin (French Part),c01,"Industrial roundwood, coniferous",,,tonne/m3,0.421123355275
 NAM,33,Canada,c01,"Industrial roundwood, coniferous",,,tonne/m3,0.421123355275
 NAM,190,Saint Pierre and Miquelon,c01,"Industrial roundwood, coniferous",,,tonne/m3,0.421123355275
@@ -451,7 +451,7 @@ LAM,234,Uruguay,c02,"Industrial roundwood, non-coniferous",,,tonne/m3,0.469
 LAM,236,Venezuela (Bolivarian Republic of),c02,"Industrial roundwood, non-coniferous",,,tonne/m3,0.59864583335
 LAM,239,British Virgin Islands,c02,"Industrial roundwood, non-coniferous",,,tonne/m3,0.59864583335
 LAM,258,Anguilla,c02,"Industrial roundwood, non-coniferous",,,tonne/m3,0.59864583335
-LAM,279,Curaáao,c02,"Industrial roundwood, non-coniferous",,,tonne/m3,0.59864583335
+LAM,279,Cura√ßao,c02,"Industrial roundwood, non-coniferous",,,tonne/m3,0.59864583335
 LAM,281,Saint-Martin (French Part),c02,"Industrial roundwood, non-coniferous",,,tonne/m3,0.59864583335
 NAM,33,Canada,c02,"Industrial roundwood, non-coniferous",,,tonne/m3,0.59864583335
 NAM,190,Saint Pierre and Miquelon,c02,"Industrial roundwood, non-coniferous",,,tonne/m3,0.59864583335
@@ -695,7 +695,7 @@ LAM,234,Uruguay,c03,Wood fuel,,,tonne/m3,0.649
 LAM,236,Venezuela (Bolivarian Republic of),c03,Wood fuel,,,tonne/m3,0.632093333333333
 LAM,239,British Virgin Islands,c03,Wood fuel,,,tonne/m3,0.632093333333333
 LAM,258,Anguilla,c03,Wood fuel,,,tonne/m3,0.632093333333333
-LAM,279,Curaáao,c03,Wood fuel,,,tonne/m3,0.632093333333333
+LAM,279,Cura√ßao,c03,Wood fuel,,,tonne/m3,0.632093333333333
 LAM,281,Saint-Martin (French Part),c03,Wood fuel,,,tonne/m3,0.632093333333333
 NAM,33,Canada,c03,Wood fuel,,,tonne/m3,0.632093333333333
 NAM,190,Saint Pierre and Miquelon,c03,Wood fuel,,,tonne/m3,0.632093333333333
@@ -939,7 +939,7 @@ LAM,234,Uruguay,c04,"Sawnwood, coniferous",c01,"Industrial roundwood, coniferous
 LAM,236,Venezuela (Bolivarian Republic of),c04,"Sawnwood, coniferous",c01,"Industrial roundwood, coniferous",tonne/m3,0.51
 LAM,239,British Virgin Islands,c04,"Sawnwood, coniferous",c01,"Industrial roundwood, coniferous",tonne/m3,0.51
 LAM,258,Anguilla,c04,"Sawnwood, coniferous",c01,"Industrial roundwood, coniferous",tonne/m3,0.51
-LAM,279,Curaáao,c04,"Sawnwood, coniferous",c01,"Industrial roundwood, coniferous",tonne/m3,0.51
+LAM,279,Cura√ßao,c04,"Sawnwood, coniferous",c01,"Industrial roundwood, coniferous",tonne/m3,0.51
 LAM,281,Saint-Martin (French Part),c04,"Sawnwood, coniferous",c01,"Industrial roundwood, coniferous",tonne/m3,0.51
 NAM,33,Canada,c04,"Sawnwood, coniferous",c01,"Industrial roundwood, coniferous",tonne/m3,0.51
 NAM,190,Saint Pierre and Miquelon,c04,"Sawnwood, coniferous",c01,"Industrial roundwood, coniferous",tonne/m3,0.51
@@ -1183,7 +1183,7 @@ LAM,234,Uruguay,c05,"Sawnwood, non-coniferous all",c02,"Industrial roundwood, no
 LAM,236,Venezuela (Bolivarian Republic of),c05,"Sawnwood, non-coniferous all",c02,"Industrial roundwood, non-coniferous",tonne/m3,0.713
 LAM,239,British Virgin Islands,c05,"Sawnwood, non-coniferous all",c02,"Industrial roundwood, non-coniferous",tonne/m3,0.713
 LAM,258,Anguilla,c05,"Sawnwood, non-coniferous all",c02,"Industrial roundwood, non-coniferous",tonne/m3,0.713
-LAM,279,Curaáao,c05,"Sawnwood, non-coniferous all",c02,"Industrial roundwood, non-coniferous",tonne/m3,0.713
+LAM,279,Cura√ßao,c05,"Sawnwood, non-coniferous all",c02,"Industrial roundwood, non-coniferous",tonne/m3,0.713
 LAM,281,Saint-Martin (French Part),c05,"Sawnwood, non-coniferous all",c02,"Industrial roundwood, non-coniferous",tonne/m3,0.713
 NAM,33,Canada,c05,"Sawnwood, non-coniferous all",c02,"Industrial roundwood, non-coniferous",tonne/m3,0.713
 NAM,190,Saint Pierre and Miquelon,c05,"Sawnwood, non-coniferous all",c02,"Industrial roundwood, non-coniferous",tonne/m3,0.713
@@ -1427,7 +1427,7 @@ LAM,234,Uruguay,c06,Veneer sheets,c01,"Industrial roundwood, coniferous",tonne/m
 LAM,236,Venezuela (Bolivarian Republic of),c06,Veneer sheets,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
 LAM,239,British Virgin Islands,c06,Veneer sheets,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
 LAM,258,Anguilla,c06,Veneer sheets,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-LAM,279,Curaáao,c06,Veneer sheets,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
+LAM,279,Cura√ßao,c06,Veneer sheets,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
 LAM,281,Saint-Martin (French Part),c06,Veneer sheets,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
 NAM,33,Canada,c06,Veneer sheets,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
 NAM,190,Saint Pierre and Miquelon,c06,Veneer sheets,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
@@ -1671,7 +1671,7 @@ LAM,234,Uruguay,c06,Veneer sheets,c02,"Industrial roundwood, non-coniferous",ton
 LAM,236,Venezuela (Bolivarian Republic of),c06,Veneer sheets,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
 LAM,239,British Virgin Islands,c06,Veneer sheets,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
 LAM,258,Anguilla,c06,Veneer sheets,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-LAM,279,Curaáao,c06,Veneer sheets,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
+LAM,279,Cura√ßao,c06,Veneer sheets,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
 LAM,281,Saint-Martin (French Part),c06,Veneer sheets,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
 NAM,33,Canada,c06,Veneer sheets,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
 NAM,190,Saint Pierre and Miquelon,c06,Veneer sheets,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
@@ -1915,7 +1915,7 @@ LAM,234,Uruguay,c07,Plywood,c01,"Industrial roundwood, coniferous",tonne/m3,0.51
 LAM,236,Venezuela (Bolivarian Republic of),c07,Plywood,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
 LAM,239,British Virgin Islands,c07,Plywood,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
 LAM,258,Anguilla,c07,Plywood,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-LAM,279,Curaáao,c07,Plywood,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
+LAM,279,Cura√ßao,c07,Plywood,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
 LAM,281,Saint-Martin (French Part),c07,Plywood,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
 NAM,33,Canada,c07,Plywood,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
 NAM,190,Saint Pierre and Miquelon,c07,Plywood,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
@@ -2159,7 +2159,7 @@ LAM,234,Uruguay,c07,Plywood,c02,"Industrial roundwood, non-coniferous",tonne/m3,
 LAM,236,Venezuela (Bolivarian Republic of),c07,Plywood,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
 LAM,239,British Virgin Islands,c07,Plywood,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
 LAM,258,Anguilla,c07,Plywood,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-LAM,279,Curaáao,c07,Plywood,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
+LAM,279,Cura√ßao,c07,Plywood,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
 LAM,281,Saint-Martin (French Part),c07,Plywood,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
 NAM,33,Canada,c07,Plywood,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
 NAM,190,Saint Pierre and Miquelon,c07,Plywood,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
@@ -2403,7 +2403,7 @@ LAM,234,Uruguay,c08,Fibreboard,,,tonne/m3,0.6655575
 LAM,236,Venezuela (Bolivarian Republic of),c08,Fibreboard,,,tonne/m3,0.6655575
 LAM,239,British Virgin Islands,c08,Fibreboard,,,tonne/m3,0.6655575
 LAM,258,Anguilla,c08,Fibreboard,,,tonne/m3,0.6655575
-LAM,279,Curaáao,c08,Fibreboard,,,tonne/m3,0.6655575
+LAM,279,Cura√ßao,c08,Fibreboard,,,tonne/m3,0.6655575
 LAM,281,Saint-Martin (French Part),c08,Fibreboard,,,tonne/m3,0.6655575
 NAM,33,Canada,c08,Fibreboard,,,tonne/m3,0.6655575
 NAM,190,Saint Pierre and Miquelon,c08,Fibreboard,,,tonne/m3,0.6655575
@@ -2647,7 +2647,7 @@ LAM,234,Uruguay,c09,Particle board,,,tonne/m3,0.67575
 LAM,236,Venezuela (Bolivarian Republic of),c09,Particle board,,,tonne/m3,0.67575
 LAM,239,British Virgin Islands,c09,Particle board,,,tonne/m3,0.67575
 LAM,258,Anguilla,c09,Particle board,,,tonne/m3,0.67575
-LAM,279,Curaáao,c09,Particle board,,,tonne/m3,0.67575
+LAM,279,Cura√ßao,c09,Particle board,,,tonne/m3,0.67575
 LAM,281,Saint-Martin (French Part),c09,Particle board,,,tonne/m3,0.67575
 NAM,33,Canada,c09,Particle board,,,tonne/m3,0.67575
 NAM,190,Saint Pierre and Miquelon,c09,Particle board,,,tonne/m3,0.67575
@@ -2891,7 +2891,7 @@ LAM,234,Uruguay,c10,OSB,,,tonne/m3,0.5875
 LAM,236,Venezuela (Bolivarian Republic of),c10,OSB,,,tonne/m3,0.5875
 LAM,239,British Virgin Islands,c10,OSB,,,tonne/m3,0.5875
 LAM,258,Anguilla,c10,OSB,,,tonne/m3,0.5875
-LAM,279,Curaáao,c10,OSB,,,tonne/m3,0.5875
+LAM,279,Cura√ßao,c10,OSB,,,tonne/m3,0.5875
 LAM,281,Saint-Martin (French Part),c10,OSB,,,tonne/m3,0.5875
 NAM,33,Canada,c10,OSB,,,tonne/m3,0.5875
 NAM,190,Saint Pierre and Miquelon,c10,OSB,,,tonne/m3,0.5875
@@ -3135,7 +3135,7 @@ LAM,234,Uruguay,c11a,Chemical wood pulp,,,tonne/tonne,0.9
 LAM,236,Venezuela (Bolivarian Republic of),c11a,Chemical wood pulp,,,tonne/tonne,0.9
 LAM,239,British Virgin Islands,c11a,Chemical wood pulp,,,tonne/tonne,0.9
 LAM,258,Anguilla,c11a,Chemical wood pulp,,,tonne/tonne,0.9
-LAM,279,Curaáao,c11a,Chemical wood pulp,,,tonne/tonne,0.9
+LAM,279,Cura√ßao,c11a,Chemical wood pulp,,,tonne/tonne,0.9
 LAM,281,Saint-Martin (French Part),c11a,Chemical wood pulp,,,tonne/tonne,0.9
 NAM,33,Canada,c11a,Chemical wood pulp,,,tonne/tonne,0.9
 NAM,190,Saint Pierre and Miquelon,c11a,Chemical wood pulp,,,tonne/tonne,0.9
@@ -3379,7 +3379,7 @@ LAM,234,Uruguay,c11b,Mechanical and semi-chemical wood pulp,,,tonne/tonne,0.9
 LAM,236,Venezuela (Bolivarian Republic of),c11b,Mechanical and semi-chemical wood pulp,,,tonne/tonne,0.9
 LAM,239,British Virgin Islands,c11b,Mechanical and semi-chemical wood pulp,,,tonne/tonne,0.9
 LAM,258,Anguilla,c11b,Mechanical and semi-chemical wood pulp,,,tonne/tonne,0.9
-LAM,279,Curaáao,c11b,Mechanical and semi-chemical wood pulp,,,tonne/tonne,0.9
+LAM,279,Cura√ßao,c11b,Mechanical and semi-chemical wood pulp,,,tonne/tonne,0.9
 LAM,281,Saint-Martin (French Part),c11b,Mechanical and semi-chemical wood pulp,,,tonne/tonne,0.9
 NAM,33,Canada,c11b,Mechanical and semi-chemical wood pulp,,,tonne/tonne,0.9
 NAM,190,Saint Pierre and Miquelon,c11b,Mechanical and semi-chemical wood pulp,,,tonne/tonne,0.9
@@ -3623,7 +3623,7 @@ LAM,234,Uruguay,c11d,Dissolving wood pulp,,,tonne/tonne,0.9
 LAM,236,Venezuela (Bolivarian Republic of),c11d,Dissolving wood pulp,,,tonne/tonne,0.9
 LAM,239,British Virgin Islands,c11d,Dissolving wood pulp,,,tonne/tonne,0.9
 LAM,258,Anguilla,c11d,Dissolving wood pulp,,,tonne/tonne,0.9
-LAM,279,Curaáao,c11d,Dissolving wood pulp,,,tonne/tonne,0.9
+LAM,279,Cura√ßao,c11d,Dissolving wood pulp,,,tonne/tonne,0.9
 LAM,281,Saint-Martin (French Part),c11d,Dissolving wood pulp,,,tonne/tonne,0.9
 NAM,33,Canada,c11d,Dissolving wood pulp,,,tonne/tonne,0.9
 NAM,190,Saint Pierre and Miquelon,c11d,Dissolving wood pulp,,,tonne/tonne,0.9
@@ -3867,7 +3867,7 @@ LAM,234,Uruguay,c13,Recovered fibre pulp,,,tonne/tonne,0.9
 LAM,236,Venezuela (Bolivarian Republic of),c13,Recovered fibre pulp,,,tonne/tonne,0.9
 LAM,239,British Virgin Islands,c13,Recovered fibre pulp,,,tonne/tonne,0.9
 LAM,258,Anguilla,c13,Recovered fibre pulp,,,tonne/tonne,0.9
-LAM,279,Curaáao,c13,Recovered fibre pulp,,,tonne/tonne,0.9
+LAM,279,Cura√ßao,c13,Recovered fibre pulp,,,tonne/tonne,0.9
 LAM,281,Saint-Martin (French Part),c13,Recovered fibre pulp,,,tonne/tonne,0.9
 NAM,33,Canada,c13,Recovered fibre pulp,,,tonne/tonne,0.9
 NAM,190,Saint Pierre and Miquelon,c13,Recovered fibre pulp,,,tonne/tonne,0.9
@@ -4111,7 +4111,7 @@ LAM,234,Uruguay,c14,Paper and Paperboard,,,tonne/tonne,0.9
 LAM,236,Venezuela (Bolivarian Republic of),c14,Paper and Paperboard,,,tonne/tonne,0.9
 LAM,239,British Virgin Islands,c14,Paper and Paperboard,,,tonne/tonne,0.9
 LAM,258,Anguilla,c14,Paper and Paperboard,,,tonne/tonne,0.9
-LAM,279,Curaáao,c14,Paper and Paperboard,,,tonne/tonne,0.9
+LAM,279,Cura√ßao,c14,Paper and Paperboard,,,tonne/tonne,0.9
 LAM,281,Saint-Martin (French Part),c14,Paper and Paperboard,,,tonne/tonne,0.9
 NAM,33,Canada,c14,Paper and Paperboard,,,tonne/tonne,0.9
 NAM,190,Saint Pierre and Miquelon,c14,Paper and Paperboard,,,tonne/tonne,0.9
@@ -4355,7 +4355,7 @@ LAM,234,Uruguay,c15,Wood pellets and other agglomerates,,,tonne/tonne,0.9
 LAM,236,Venezuela (Bolivarian Republic of),c15,Wood pellets and other agglomerates,,,tonne/tonne,0.9
 LAM,239,British Virgin Islands,c15,Wood pellets and other agglomerates,,,tonne/tonne,0.9
 LAM,258,Anguilla,c15,Wood pellets and other agglomerates,,,tonne/tonne,0.9
-LAM,279,Curaáao,c15,Wood pellets and other agglomerates,,,tonne/tonne,0.9
+LAM,279,Cura√ßao,c15,Wood pellets and other agglomerates,,,tonne/tonne,0.9
 LAM,281,Saint-Martin (French Part),c15,Wood pellets and other agglomerates,,,tonne/tonne,0.9
 NAM,33,Canada,c15,Wood pellets and other agglomerates,,,tonne/tonne,0.9
 NAM,190,Saint Pierre and Miquelon,c15,Wood pellets and other agglomerates,,,tonne/tonne,0.9
@@ -4599,7 +4599,7 @@ LAM,234,Uruguay,c16,Wood charcoal,c03,Wood fuel,tonne/tonne,0.9
 LAM,236,Venezuela (Bolivarian Republic of),c16,Wood charcoal,c03,Wood fuel,tonne/tonne,0.9
 LAM,239,British Virgin Islands,c16,Wood charcoal,c03,Wood fuel,tonne/tonne,0.9
 LAM,258,Anguilla,c16,Wood charcoal,c03,Wood fuel,tonne/tonne,0.9
-LAM,279,Curaáao,c16,Wood charcoal,c03,Wood fuel,tonne/tonne,0.9
+LAM,279,Cura√ßao,c16,Wood charcoal,c03,Wood fuel,tonne/tonne,0.9
 LAM,281,Saint-Martin (French Part),c16,Wood charcoal,c03,Wood fuel,tonne/tonne,0.9
 NAM,33,Canada,c16,Wood charcoal,c03,Wood fuel,tonne/tonne,0.9
 NAM,190,Saint Pierre and Miquelon,c16,Wood charcoal,c03,Wood fuel,tonne/tonne,0.9
@@ -4843,7 +4843,7 @@ LAM,234,Uruguay,c17,Wood chips and particles,,,tonne/m3p,0.144
 LAM,236,Venezuela (Bolivarian Republic of),c17,Wood chips and particles,,,tonne/m3p,0.144
 LAM,239,British Virgin Islands,c17,Wood chips and particles,,,tonne/m3p,0.144
 LAM,258,Anguilla,c17,Wood chips and particles,,,tonne/m3p,0.144
-LAM,279,Curaáao,c17,Wood chips and particles,,,tonne/m3p,0.144
+LAM,279,Cura√ßao,c17,Wood chips and particles,,,tonne/m3p,0.144
 LAM,281,Saint-Martin (French Part),c17,Wood chips and particles,,,tonne/m3p,0.144
 NAM,33,Canada,c17,Wood chips and particles,,,tonne/m3p,0.144
 NAM,190,Saint Pierre and Miquelon,c17,Wood chips and particles,,,tonne/m3p,0.144
@@ -5087,7 +5087,7 @@ LAM,234,Uruguay,c18,Wood residues,,,tonne/m3p,0.152
 LAM,236,Venezuela (Bolivarian Republic of),c18,Wood residues,,,tonne/m3p,0.152
 LAM,239,British Virgin Islands,c18,Wood residues,,,tonne/m3p,0.152
 LAM,258,Anguilla,c18,Wood residues,,,tonne/m3p,0.152
-LAM,279,Curaáao,c18,Wood residues,,,tonne/m3p,0.152
+LAM,279,Cura√ßao,c18,Wood residues,,,tonne/m3p,0.152
 LAM,281,Saint-Martin (French Part),c18,Wood residues,,,tonne/m3p,0.152
 NAM,33,Canada,c18,Wood residues,,,tonne/m3p,0.152
 NAM,190,Saint Pierre and Miquelon,c18,Wood residues,,,tonne/m3p,0.152
@@ -5331,7 +5331,7 @@ LAM,234,Uruguay,c19,Post-consumer wood,,,tonne/tonne,0.9
 LAM,236,Venezuela (Bolivarian Republic of),c19,Post-consumer wood,,,tonne/tonne,0.9
 LAM,239,British Virgin Islands,c19,Post-consumer wood,,,tonne/tonne,0.9
 LAM,258,Anguilla,c19,Post-consumer wood,,,tonne/tonne,0.9
-LAM,279,Curaáao,c19,Post-consumer wood,,,tonne/tonne,0.9
+LAM,279,Cura√ßao,c19,Post-consumer wood,,,tonne/tonne,0.9
 LAM,281,Saint-Martin (French Part),c19,Post-consumer wood,,,tonne/tonne,0.9
 NAM,33,Canada,c19,Post-consumer wood,,,tonne/tonne,0.9
 NAM,190,Saint Pierre and Miquelon,c19,Post-consumer wood,,,tonne/tonne,0.9
@@ -5367,247 +5367,247 @@ OCE,244,Samoa,c19,Post-consumer wood,,,tonne/tonne,0.9
 ROW,999,RoW,c19,Post-consumer wood,,,tonne/tonne,0.9
 XXX,252,Unspecified Area,c19,Post-consumer wood,,,tonne/tonne,0.9
 XXX,254,Others (adjustment),c19,Post-consumer wood,,,tonne/tonne,0.9
-AFR,4,Algeria,c20,Black liquor,,,tonne/tonne,
-AFR,7,Angola,c20,Black liquor,,,tonne/tonne,
-AFR,20,Botswana,c20,Black liquor,,,tonne/tonne,
-AFR,29,Burundi,c20,Black liquor,,,tonne/tonne,
-AFR,32,Cameroon,c20,Black liquor,,,tonne/tonne,
-AFR,35,Cabo Verde,c20,Black liquor,,,tonne/tonne,
-AFR,37,Central African Republic,c20,Black liquor,,,tonne/tonne,
-AFR,39,Chad,c20,Black liquor,,,tonne/tonne,
-AFR,45,Comoros,c20,Black liquor,,,tonne/tonne,
-AFR,46,Congo,c20,Black liquor,,,tonne/tonne,
-AFR,53,Benin,c20,Black liquor,,,tonne/tonne,
-AFR,59,Egypt,c20,Black liquor,,,tonne/tonne,
-AFR,61,Equatorial Guinea,c20,Black liquor,,,tonne/tonne,
-AFR,72,Djibouti,c20,Black liquor,,,tonne/tonne,
-AFR,74,Gabon,c20,Black liquor,,,tonne/tonne,
-AFR,75,Gambia,c20,Black liquor,,,tonne/tonne,
-AFR,81,Ghana,c20,Black liquor,,,tonne/tonne,
-AFR,90,Guinea,c20,Black liquor,,,tonne/tonne,
-AFR,107,Cote d'Ivoire,c20,Black liquor,,,tonne/tonne,
-AFR,114,Kenya,c20,Black liquor,,,tonne/tonne,
-AFR,122,Lesotho,c20,Black liquor,,,tonne/tonne,
-AFR,123,Liberia,c20,Black liquor,,,tonne/tonne,
-AFR,124,Libya,c20,Black liquor,,,tonne/tonne,
-AFR,129,Madagascar,c20,Black liquor,,,tonne/tonne,
-AFR,130,Malawi,c20,Black liquor,,,tonne/tonne,
-AFR,133,Mali,c20,Black liquor,,,tonne/tonne,
-AFR,136,Mauritania,c20,Black liquor,,,tonne/tonne,
-AFR,137,Mauritius,c20,Black liquor,,,tonne/tonne,
-AFR,143,Morocco,c20,Black liquor,,,tonne/tonne,
-AFR,144,Mozambique,c20,Black liquor,,,tonne/tonne,
-AFR,147,Namibia,c20,Black liquor,,,tonne/tonne,
-AFR,158,Niger,c20,Black liquor,,,tonne/tonne,
-AFR,159,Nigeria,c20,Black liquor,,,tonne/tonne,
-AFR,175,Guinea-Bissau,c20,Black liquor,,,tonne/tonne,
-AFR,178,Eritrea,c20,Black liquor,,,tonne/tonne,
-AFR,181,Zimbabwe,c20,Black liquor,,,tonne/tonne,
-AFR,182,Reunion,c20,Black liquor,,,tonne/tonne,
-AFR,184,Rwanda,c20,Black liquor,,,tonne/tonne,
-AFR,187,"Saint Helena, Ascension and Tristan da Cunha",c20,Black liquor,,,tonne/tonne,
-AFR,193,Sao Tome and Principe,c20,Black liquor,,,tonne/tonne,
-AFR,195,Senegal,c20,Black liquor,,,tonne/tonne,
-AFR,196,Seychelles,c20,Black liquor,,,tonne/tonne,
-AFR,197,Sierra Leone,c20,Black liquor,,,tonne/tonne,
-AFR,201,Somalia,c20,Black liquor,,,tonne/tonne,
-AFR,202,South Africa,c20,Black liquor,,,tonne/tonne,
-AFR,205,Western Sahara,c20,Black liquor,,,tonne/tonne,
-AFR,209,Eswatini,c20,Black liquor,,,tonne/tonne,
-AFR,215,United Republic of Tanzania,c20,Black liquor,,,tonne/tonne,
-AFR,217,Togo,c20,Black liquor,,,tonne/tonne,
-AFR,219,Tonga,c20,Black liquor,,,tonne/tonne,
-AFR,222,Tunisia,c20,Black liquor,,,tonne/tonne,
-AFR,226,Uganda,c20,Black liquor,,,tonne/tonne,
-AFR,233,Burkina Faso,c20,Black liquor,,,tonne/tonne,
-AFR,238,Ethiopia,c20,Black liquor,,,tonne/tonne,
-AFR,250,Democratic Republic of the Congo,c20,Black liquor,,,tonne/tonne,
-AFR,251,Zambia,c20,Black liquor,,,tonne/tonne,
-AFR,270,Mayotte,c20,Black liquor,,,tonne/tonne,
-AFR,276,Sudan,c20,Black liquor,,,tonne/tonne,
-AFR,277,South Sudan,c20,Black liquor,,,tonne/tonne,
-ASI,1,Armenia,c20,Black liquor,,,tonne/tonne,
-ASI,2,Afghanistan,c20,Black liquor,,,tonne/tonne,
-ASI,13,Bahrain,c20,Black liquor,,,tonne/tonne,
-ASI,16,Bangladesh,c20,Black liquor,,,tonne/tonne,
-ASI,18,Bhutan,c20,Black liquor,,,tonne/tonne,
-ASI,24,British Indian Ocean Territory,c20,Black liquor,,,tonne/tonne,
-ASI,26,Brunei Darussalam,c20,Black liquor,,,tonne/tonne,
-ASI,28,Myanmar,c20,Black liquor,,,tonne/tonne,
-ASI,38,Sri Lanka,c20,Black liquor,,,tonne/tonne,
-ASI,41,"China, mainland",c20,Black liquor,,,tonne/tonne,
-ASI,52,Azerbaijan,c20,Black liquor,,,tonne/tonne,
-ASI,73,Georgia,c20,Black liquor,,,tonne/tonne,
-ASI,96,"China, Hong Kong SAR",c20,Black liquor,,,tonne/tonne,
-ASI,100,India,c20,Black liquor,,,tonne/tonne,
-ASI,101,Indonesia,c20,Black liquor,,,tonne/tonne,
-ASI,102,Iran (Islamic Republic of),c20,Black liquor,,,tonne/tonne,
-ASI,103,Iraq,c20,Black liquor,,,tonne/tonne,
-ASI,105,Israel,c20,Black liquor,,,tonne/tonne,
-ASI,108,Kazakhstan,c20,Black liquor,,,tonne/tonne,
-ASI,110,Japan,c20,Black liquor,,,tonne/tonne,
-ASI,112,Jordan,c20,Black liquor,,,tonne/tonne,
-ASI,113,Kyrgyzstan,c20,Black liquor,,,tonne/tonne,
-ASI,115,Cambodia,c20,Black liquor,,,tonne/tonne,
-ASI,116,Democratic People's Republic of Korea,c20,Black liquor,,,tonne/tonne,
-ASI,117,Republic of Korea,c20,Black liquor,,,tonne/tonne,
-ASI,118,Kuwait,c20,Black liquor,,,tonne/tonne,
-ASI,120,Lao People's Democratic Republic,c20,Black liquor,,,tonne/tonne,
-ASI,121,Lebanon,c20,Black liquor,,,tonne/tonne,
-ASI,128,"China, Macao SAR",c20,Black liquor,,,tonne/tonne,
-ASI,131,Malaysia,c20,Black liquor,,,tonne/tonne,
-ASI,132,Maldives,c20,Black liquor,,,tonne/tonne,
-ASI,141,Mongolia,c20,Black liquor,,,tonne/tonne,
-ASI,149,Nepal,c20,Black liquor,,,tonne/tonne,
-ASI,164,Pacific Islands Trust Territory,c20,Black liquor,,,tonne/tonne,
-ASI,165,Pakistan,c20,Black liquor,,,tonne/tonne,
-ASI,171,Philippines,c20,Black liquor,,,tonne/tonne,
-ASI,176,Timor-Leste,c20,Black liquor,,,tonne/tonne,
-ASI,179,Qatar,c20,Black liquor,,,tonne/tonne,
-ASI,185,Russian Federation,c20,Black liquor,,,tonne/tonne,
-ASI,194,Saudi Arabia,c20,Black liquor,,,tonne/tonne,
-ASI,200,Singapore,c20,Black liquor,,,tonne/tonne,
-ASI,208,Tajikistan,c20,Black liquor,,,tonne/tonne,
-ASI,212,Syrian Arab Republic,c20,Black liquor,,,tonne/tonne,
-ASI,213,Turkmenistan,c20,Black liquor,,,tonne/tonne,
-ASI,214,"China, Taiwan Province of",c20,Black liquor,,,tonne/tonne,
-ASI,216,Thailand,c20,Black liquor,,,tonne/tonne,
-ASI,221,Oman,c20,Black liquor,,,tonne/tonne,
-ASI,225,United Arab Emirates,c20,Black liquor,,,tonne/tonne,
-ASI,228,USSR,c20,Black liquor,,,tonne/tonne,
-ASI,235,Uzbekistan,c20,Black liquor,,,tonne/tonne,
-ASI,237,Viet Nam,c20,Black liquor,,,tonne/tonne,
-ASI,249,Yemen,c20,Black liquor,,,tonne/tonne,
-ASI,299,Palestine,c20,Black liquor,,,tonne/tonne,
-EUR,3,Albania,c20,Black liquor,,,tonne/tonne,
-EUR,6,Andorra,c20,Black liquor,,,tonne/tonne,
-EUR,11,Austria,c20,Black liquor,,,tonne/tonne,
-EUR,15,Belgium-Luxembourg,c20,Black liquor,,,tonne/tonne,
-EUR,27,Bulgaria,c20,Black liquor,,,tonne/tonne,
-EUR,50,Cyprus,c20,Black liquor,,,tonne/tonne,
-EUR,51,Czechoslovakia,c20,Black liquor,,,tonne/tonne,
-EUR,54,Denmark,c20,Black liquor,,,tonne/tonne,
-EUR,57,Belarus,c20,Black liquor,,,tonne/tonne,
-EUR,63,Estonia,c20,Black liquor,,,tonne/tonne,
-EUR,64,Faroe Islands,c20,Black liquor,,,tonne/tonne,
-EUR,67,Finland,c20,Black liquor,,,tonne/tonne,
-EUR,68,France,c20,Black liquor,,,tonne/tonne,
-EUR,79,Germany,c20,Black liquor,,,tonne/tonne,
-EUR,80,Bosnia and Herzegovina,c20,Black liquor,,,tonne/tonne,
-EUR,82,Gibraltar,c20,Black liquor,,,tonne/tonne,
-EUR,84,Greece,c20,Black liquor,,,tonne/tonne,
-EUR,85,Greenland,c20,Black liquor,,,tonne/tonne,
-EUR,94,Holy See,c20,Black liquor,,,tonne/tonne,
-EUR,97,Hungary,c20,Black liquor,,,tonne/tonne,
-EUR,98,Croatia,c20,Black liquor,,,tonne/tonne,
-EUR,99,Iceland,c20,Black liquor,,,tonne/tonne,
-EUR,104,Ireland,c20,Black liquor,,,tonne/tonne,
-EUR,106,Italy,c20,Black liquor,,,tonne/tonne,
-EUR,119,Latvia,c20,Black liquor,,,tonne/tonne,
-EUR,125,Liechtenstein,c20,Black liquor,,,tonne/tonne,
-EUR,126,Lithuania,c20,Black liquor,,,tonne/tonne,
-EUR,134,Malta,c20,Black liquor,,,tonne/tonne,
-EUR,146,Republic of Moldova,c20,Black liquor,,,tonne/tonne,
-EUR,150,Netherlands,c20,Black liquor,,,tonne/tonne,
-EUR,154,North Macedonia,c20,Black liquor,,,tonne/tonne,
-EUR,162,Norway,c20,Black liquor,,,tonne/tonne,
-EUR,167,Czechia,c20,Black liquor,,,tonne/tonne,
-EUR,173,Poland,c20,Black liquor,,,tonne/tonne,
-EUR,174,Portugal,c20,Black liquor,,,tonne/tonne,
-EUR,183,Romania,c20,Black liquor,,,tonne/tonne,
-EUR,186,Serbia and Montenegro,c20,Black liquor,,,tonne/tonne,
-EUR,192,San Marino,c20,Black liquor,,,tonne/tonne,
-EUR,198,Slovenia,c20,Black liquor,,,tonne/tonne,
-EUR,199,Slovakia,c20,Black liquor,,,tonne/tonne,
-EUR,203,Spain,c20,Black liquor,,,tonne/tonne,
-EUR,210,Sweden,c20,Black liquor,,,tonne/tonne,
-EUR,211,Switzerland,c20,Black liquor,,,tonne/tonne,
-EUR,223,Turkey,c20,Black liquor,,,tonne/tonne,
-EUR,229,United Kingdom,c20,Black liquor,,,tonne/tonne,
-EUR,230,Ukraine,c20,Black liquor,,,tonne/tonne,
-EUR,248,Yugoslav SFR,c20,Black liquor,,,tonne/tonne,
-EUR,255,Belgium,c20,Black liquor,,,tonne/tonne,
-EUR,256,Luxembourg,c20,Black liquor,,,tonne/tonne,
-EUR,272,Serbia,c20,Black liquor,,,tonne/tonne,
-EUR,273,Montenegro,c20,Black liquor,,,tonne/tonne,
-LAM,8,Antigua and Barbuda,c20,Black liquor,,,tonne/tonne,
-LAM,9,Argentina,c20,Black liquor,,,tonne/tonne,
-LAM,12,Bahamas,c20,Black liquor,,,tonne/tonne,
-LAM,14,Barbados,c20,Black liquor,,,tonne/tonne,
-LAM,17,Bermuda,c20,Black liquor,,,tonne/tonne,
-LAM,19,Bolivia (Plurinational State of),c20,Black liquor,,,tonne/tonne,
-LAM,21,Brazil,c20,Black liquor,,,tonne/tonne,
-LAM,22,Aruba,c20,Black liquor,,,tonne/tonne,
-LAM,23,Belize,c20,Black liquor,,,tonne/tonne,
-LAM,36,Cayman Islands,c20,Black liquor,,,tonne/tonne,
-LAM,40,Chile,c20,Black liquor,,,tonne/tonne,
-LAM,44,Colombia,c20,Black liquor,,,tonne/tonne,
-LAM,48,Costa Rica,c20,Black liquor,,,tonne/tonne,
-LAM,49,Cuba,c20,Black liquor,,,tonne/tonne,
-LAM,55,Dominica,c20,Black liquor,,,tonne/tonne,
-LAM,56,Dominican Republic,c20,Black liquor,,,tonne/tonne,
-LAM,58,Ecuador,c20,Black liquor,,,tonne/tonne,
-LAM,60,El Salvador,c20,Black liquor,,,tonne/tonne,
-LAM,65,Falkland Islands (Malvinas),c20,Black liquor,,,tonne/tonne,
-LAM,69,French Guyana,c20,Black liquor,,,tonne/tonne,
-LAM,86,Grenada,c20,Black liquor,,,tonne/tonne,
-LAM,87,Guadeloupe,c20,Black liquor,,,tonne/tonne,
-LAM,89,Guatemala,c20,Black liquor,,,tonne/tonne,
-LAM,91,Guyana,c20,Black liquor,,,tonne/tonne,
-LAM,93,Haiti,c20,Black liquor,,,tonne/tonne,
-LAM,95,Honduras,c20,Black liquor,,,tonne/tonne,
-LAM,109,Jamaica,c20,Black liquor,,,tonne/tonne,
-LAM,135,Martinique,c20,Black liquor,,,tonne/tonne,
-LAM,138,Mexico,c20,Black liquor,,,tonne/tonne,
-LAM,142,Montserrat,c20,Black liquor,,,tonne/tonne,
-LAM,151,Netherlands Antilles,c20,Black liquor,,,tonne/tonne,
-LAM,157,Nicaragua,c20,Black liquor,,,tonne/tonne,
-LAM,166,Panama,c20,Black liquor,,,tonne/tonne,
-LAM,169,Paraguay,c20,Black liquor,,,tonne/tonne,
-LAM,170,Peru,c20,Black liquor,,,tonne/tonne,
-LAM,188,Saint Kitts and Nevis,c20,Black liquor,,,tonne/tonne,
-LAM,189,Saint Lucia,c20,Black liquor,,,tonne/tonne,
-LAM,191,Saint Vincent and the Grenadines,c20,Black liquor,,,tonne/tonne,
-LAM,207,Suriname,c20,Black liquor,,,tonne/tonne,
-LAM,220,Trinidad and Tobago,c20,Black liquor,,,tonne/tonne,
-LAM,224,Turks and Caicos Islands,c20,Black liquor,,,tonne/tonne,
-LAM,234,Uruguay,c20,Black liquor,,,tonne/tonne,
-LAM,236,Venezuela (Bolivarian Republic of),c20,Black liquor,,,tonne/tonne,
-LAM,239,British Virgin Islands,c20,Black liquor,,,tonne/tonne,
-LAM,258,Anguilla,c20,Black liquor,,,tonne/tonne,
-LAM,279,Curaáao,c20,Black liquor,,,tonne/tonne,
-LAM,281,Saint-Martin (French Part),c20,Black liquor,,,tonne/tonne,
-NAM,33,Canada,c20,Black liquor,,,tonne/tonne,
-NAM,190,Saint Pierre and Miquelon,c20,Black liquor,,,tonne/tonne,
-NAM,231,United States of America,c20,Black liquor,,,tonne/tonne,
-OCE,5,American Samoa,c20,Black liquor,,,tonne/tonne,
-OCE,10,Australia,c20,Black liquor,,,tonne/tonne,
-OCE,25,Solomon Islands,c20,Black liquor,,,tonne/tonne,
-OCE,42,Christmas Island,c20,Black liquor,,,tonne/tonne,
-OCE,43,Cocos (Keeling) Islands,c20,Black liquor,,,tonne/tonne,
-OCE,47,Cook Islands,c20,Black liquor,,,tonne/tonne,
-OCE,66,Fiji,c20,Black liquor,,,tonne/tonne,
-OCE,70,French Polynesia,c20,Black liquor,,,tonne/tonne,
-OCE,71,French Southern and Antarctic Territories,c20,Black liquor,,,tonne/tonne,
-OCE,83,Kiribati,c20,Black liquor,,,tonne/tonne,
-OCE,88,Guam,c20,Black liquor,,,tonne/tonne,
-OCE,127,Marshall Islands,c20,Black liquor,,,tonne/tonne,
-OCE,145,Micronesia (Federated States of),c20,Black liquor,,,tonne/tonne,
-OCE,148,Nauru,c20,Black liquor,,,tonne/tonne,
-OCE,153,New Caledonia,c20,Black liquor,,,tonne/tonne,
-OCE,155,Vanuatu,c20,Black liquor,,,tonne/tonne,
-OCE,156,New Zealand,c20,Black liquor,,,tonne/tonne,
-OCE,160,Niue,c20,Black liquor,,,tonne/tonne,
-OCE,161,Norfolk Island,c20,Black liquor,,,tonne/tonne,
-OCE,163,Northern Mariana Islands,c20,Black liquor,,,tonne/tonne,
-OCE,168,Papua New Guinea,c20,Black liquor,,,tonne/tonne,
-OCE,172,Pitcairn Islands,c20,Black liquor,,,tonne/tonne,
-OCE,180,Palau,c20,Black liquor,,,tonne/tonne,
-OCE,218,Tokelau,c20,Black liquor,,,tonne/tonne,
-OCE,227,Tuvalu,c20,Black liquor,,,tonne/tonne,
-OCE,242,Wake Island,c20,Black liquor,,,tonne/tonne,
-OCE,243,Wallis and Futuna Islands,c20,Black liquor,,,tonne/tonne,
-OCE,244,Samoa,c20,Black liquor,,,tonne/tonne,
-ROW,999,RoW,c20,Black liquor,,,tonne/tonne,
-XXX,252,Unspecified Area,c20,Black liquor,,,tonne/tonne,
-XXX,254,Others (adjustment),c20,Black liquor,,,tonne/tonne,
+AFR,4,Algeria,c20,Black liquor,,,tonne/tonne,1
+AFR,7,Angola,c20,Black liquor,,,tonne/tonne,1
+AFR,20,Botswana,c20,Black liquor,,,tonne/tonne,1
+AFR,29,Burundi,c20,Black liquor,,,tonne/tonne,1
+AFR,32,Cameroon,c20,Black liquor,,,tonne/tonne,1
+AFR,35,Cabo Verde,c20,Black liquor,,,tonne/tonne,1
+AFR,37,Central African Republic,c20,Black liquor,,,tonne/tonne,1
+AFR,39,Chad,c20,Black liquor,,,tonne/tonne,1
+AFR,45,Comoros,c20,Black liquor,,,tonne/tonne,1
+AFR,46,Congo,c20,Black liquor,,,tonne/tonne,1
+AFR,53,Benin,c20,Black liquor,,,tonne/tonne,1
+AFR,59,Egypt,c20,Black liquor,,,tonne/tonne,1
+AFR,61,Equatorial Guinea,c20,Black liquor,,,tonne/tonne,1
+AFR,72,Djibouti,c20,Black liquor,,,tonne/tonne,1
+AFR,74,Gabon,c20,Black liquor,,,tonne/tonne,1
+AFR,75,Gambia,c20,Black liquor,,,tonne/tonne,1
+AFR,81,Ghana,c20,Black liquor,,,tonne/tonne,1
+AFR,90,Guinea,c20,Black liquor,,,tonne/tonne,1
+AFR,107,Cote d'Ivoire,c20,Black liquor,,,tonne/tonne,1
+AFR,114,Kenya,c20,Black liquor,,,tonne/tonne,1
+AFR,122,Lesotho,c20,Black liquor,,,tonne/tonne,1
+AFR,123,Liberia,c20,Black liquor,,,tonne/tonne,1
+AFR,124,Libya,c20,Black liquor,,,tonne/tonne,1
+AFR,129,Madagascar,c20,Black liquor,,,tonne/tonne,1
+AFR,130,Malawi,c20,Black liquor,,,tonne/tonne,1
+AFR,133,Mali,c20,Black liquor,,,tonne/tonne,1
+AFR,136,Mauritania,c20,Black liquor,,,tonne/tonne,1
+AFR,137,Mauritius,c20,Black liquor,,,tonne/tonne,1
+AFR,143,Morocco,c20,Black liquor,,,tonne/tonne,1
+AFR,144,Mozambique,c20,Black liquor,,,tonne/tonne,1
+AFR,147,Namibia,c20,Black liquor,,,tonne/tonne,1
+AFR,158,Niger,c20,Black liquor,,,tonne/tonne,1
+AFR,159,Nigeria,c20,Black liquor,,,tonne/tonne,1
+AFR,175,Guinea-Bissau,c20,Black liquor,,,tonne/tonne,1
+AFR,178,Eritrea,c20,Black liquor,,,tonne/tonne,1
+AFR,181,Zimbabwe,c20,Black liquor,,,tonne/tonne,1
+AFR,182,Reunion,c20,Black liquor,,,tonne/tonne,1
+AFR,184,Rwanda,c20,Black liquor,,,tonne/tonne,1
+AFR,187,"Saint Helena, Ascension and Tristan da Cunha",c20,Black liquor,,,tonne/tonne,1
+AFR,193,Sao Tome and Principe,c20,Black liquor,,,tonne/tonne,1
+AFR,195,Senegal,c20,Black liquor,,,tonne/tonne,1
+AFR,196,Seychelles,c20,Black liquor,,,tonne/tonne,1
+AFR,197,Sierra Leone,c20,Black liquor,,,tonne/tonne,1
+AFR,201,Somalia,c20,Black liquor,,,tonne/tonne,1
+AFR,202,South Africa,c20,Black liquor,,,tonne/tonne,1
+AFR,205,Western Sahara,c20,Black liquor,,,tonne/tonne,1
+AFR,209,Eswatini,c20,Black liquor,,,tonne/tonne,1
+AFR,215,United Republic of Tanzania,c20,Black liquor,,,tonne/tonne,1
+AFR,217,Togo,c20,Black liquor,,,tonne/tonne,1
+AFR,219,Tonga,c20,Black liquor,,,tonne/tonne,1
+AFR,222,Tunisia,c20,Black liquor,,,tonne/tonne,1
+AFR,226,Uganda,c20,Black liquor,,,tonne/tonne,1
+AFR,233,Burkina Faso,c20,Black liquor,,,tonne/tonne,1
+AFR,238,Ethiopia,c20,Black liquor,,,tonne/tonne,1
+AFR,250,Democratic Republic of the Congo,c20,Black liquor,,,tonne/tonne,1
+AFR,251,Zambia,c20,Black liquor,,,tonne/tonne,1
+AFR,270,Mayotte,c20,Black liquor,,,tonne/tonne,1
+AFR,276,Sudan,c20,Black liquor,,,tonne/tonne,1
+AFR,277,South Sudan,c20,Black liquor,,,tonne/tonne,1
+ASI,1,Armenia,c20,Black liquor,,,tonne/tonne,1
+ASI,2,Afghanistan,c20,Black liquor,,,tonne/tonne,1
+ASI,13,Bahrain,c20,Black liquor,,,tonne/tonne,1
+ASI,16,Bangladesh,c20,Black liquor,,,tonne/tonne,1
+ASI,18,Bhutan,c20,Black liquor,,,tonne/tonne,1
+ASI,24,British Indian Ocean Territory,c20,Black liquor,,,tonne/tonne,1
+ASI,26,Brunei Darussalam,c20,Black liquor,,,tonne/tonne,1
+ASI,28,Myanmar,c20,Black liquor,,,tonne/tonne,1
+ASI,38,Sri Lanka,c20,Black liquor,,,tonne/tonne,1
+ASI,41,"China, mainland",c20,Black liquor,,,tonne/tonne,1
+ASI,52,Azerbaijan,c20,Black liquor,,,tonne/tonne,1
+ASI,73,Georgia,c20,Black liquor,,,tonne/tonne,1
+ASI,96,"China, Hong Kong SAR",c20,Black liquor,,,tonne/tonne,1
+ASI,100,India,c20,Black liquor,,,tonne/tonne,1
+ASI,101,Indonesia,c20,Black liquor,,,tonne/tonne,1
+ASI,102,Iran (Islamic Republic of),c20,Black liquor,,,tonne/tonne,1
+ASI,103,Iraq,c20,Black liquor,,,tonne/tonne,1
+ASI,105,Israel,c20,Black liquor,,,tonne/tonne,1
+ASI,108,Kazakhstan,c20,Black liquor,,,tonne/tonne,1
+ASI,110,Japan,c20,Black liquor,,,tonne/tonne,1
+ASI,112,Jordan,c20,Black liquor,,,tonne/tonne,1
+ASI,113,Kyrgyzstan,c20,Black liquor,,,tonne/tonne,1
+ASI,115,Cambodia,c20,Black liquor,,,tonne/tonne,1
+ASI,116,Democratic People's Republic of Korea,c20,Black liquor,,,tonne/tonne,1
+ASI,117,Republic of Korea,c20,Black liquor,,,tonne/tonne,1
+ASI,118,Kuwait,c20,Black liquor,,,tonne/tonne,1
+ASI,120,Lao People's Democratic Republic,c20,Black liquor,,,tonne/tonne,1
+ASI,121,Lebanon,c20,Black liquor,,,tonne/tonne,1
+ASI,128,"China, Macao SAR",c20,Black liquor,,,tonne/tonne,1
+ASI,131,Malaysia,c20,Black liquor,,,tonne/tonne,1
+ASI,132,Maldives,c20,Black liquor,,,tonne/tonne,1
+ASI,141,Mongolia,c20,Black liquor,,,tonne/tonne,1
+ASI,149,Nepal,c20,Black liquor,,,tonne/tonne,1
+ASI,164,Pacific Islands Trust Territory,c20,Black liquor,,,tonne/tonne,1
+ASI,165,Pakistan,c20,Black liquor,,,tonne/tonne,1
+ASI,171,Philippines,c20,Black liquor,,,tonne/tonne,1
+ASI,176,Timor-Leste,c20,Black liquor,,,tonne/tonne,1
+ASI,179,Qatar,c20,Black liquor,,,tonne/tonne,1
+ASI,185,Russian Federation,c20,Black liquor,,,tonne/tonne,1
+ASI,194,Saudi Arabia,c20,Black liquor,,,tonne/tonne,1
+ASI,200,Singapore,c20,Black liquor,,,tonne/tonne,1
+ASI,208,Tajikistan,c20,Black liquor,,,tonne/tonne,1
+ASI,212,Syrian Arab Republic,c20,Black liquor,,,tonne/tonne,1
+ASI,213,Turkmenistan,c20,Black liquor,,,tonne/tonne,1
+ASI,214,"China, Taiwan Province of",c20,Black liquor,,,tonne/tonne,1
+ASI,216,Thailand,c20,Black liquor,,,tonne/tonne,1
+ASI,221,Oman,c20,Black liquor,,,tonne/tonne,1
+ASI,225,United Arab Emirates,c20,Black liquor,,,tonne/tonne,1
+ASI,228,USSR,c20,Black liquor,,,tonne/tonne,1
+ASI,235,Uzbekistan,c20,Black liquor,,,tonne/tonne,1
+ASI,237,Viet Nam,c20,Black liquor,,,tonne/tonne,1
+ASI,249,Yemen,c20,Black liquor,,,tonne/tonne,1
+ASI,299,Palestine,c20,Black liquor,,,tonne/tonne,1
+EUR,3,Albania,c20,Black liquor,,,tonne/tonne,1
+EUR,6,Andorra,c20,Black liquor,,,tonne/tonne,1
+EUR,11,Austria,c20,Black liquor,,,tonne/tonne,1
+EUR,15,Belgium-Luxembourg,c20,Black liquor,,,tonne/tonne,1
+EUR,27,Bulgaria,c20,Black liquor,,,tonne/tonne,1
+EUR,50,Cyprus,c20,Black liquor,,,tonne/tonne,1
+EUR,51,Czechoslovakia,c20,Black liquor,,,tonne/tonne,1
+EUR,54,Denmark,c20,Black liquor,,,tonne/tonne,1
+EUR,57,Belarus,c20,Black liquor,,,tonne/tonne,1
+EUR,63,Estonia,c20,Black liquor,,,tonne/tonne,1
+EUR,64,Faroe Islands,c20,Black liquor,,,tonne/tonne,1
+EUR,67,Finland,c20,Black liquor,,,tonne/tonne,1
+EUR,68,France,c20,Black liquor,,,tonne/tonne,1
+EUR,79,Germany,c20,Black liquor,,,tonne/tonne,1
+EUR,80,Bosnia and Herzegovina,c20,Black liquor,,,tonne/tonne,1
+EUR,82,Gibraltar,c20,Black liquor,,,tonne/tonne,1
+EUR,84,Greece,c20,Black liquor,,,tonne/tonne,1
+EUR,85,Greenland,c20,Black liquor,,,tonne/tonne,1
+EUR,94,Holy See,c20,Black liquor,,,tonne/tonne,1
+EUR,97,Hungary,c20,Black liquor,,,tonne/tonne,1
+EUR,98,Croatia,c20,Black liquor,,,tonne/tonne,1
+EUR,99,Iceland,c20,Black liquor,,,tonne/tonne,1
+EUR,104,Ireland,c20,Black liquor,,,tonne/tonne,1
+EUR,106,Italy,c20,Black liquor,,,tonne/tonne,1
+EUR,119,Latvia,c20,Black liquor,,,tonne/tonne,1
+EUR,125,Liechtenstein,c20,Black liquor,,,tonne/tonne,1
+EUR,126,Lithuania,c20,Black liquor,,,tonne/tonne,1
+EUR,134,Malta,c20,Black liquor,,,tonne/tonne,1
+EUR,146,Republic of Moldova,c20,Black liquor,,,tonne/tonne,1
+EUR,150,Netherlands,c20,Black liquor,,,tonne/tonne,1
+EUR,154,North Macedonia,c20,Black liquor,,,tonne/tonne,1
+EUR,162,Norway,c20,Black liquor,,,tonne/tonne,1
+EUR,167,Czechia,c20,Black liquor,,,tonne/tonne,1
+EUR,173,Poland,c20,Black liquor,,,tonne/tonne,1
+EUR,174,Portugal,c20,Black liquor,,,tonne/tonne,1
+EUR,183,Romania,c20,Black liquor,,,tonne/tonne,1
+EUR,186,Serbia and Montenegro,c20,Black liquor,,,tonne/tonne,1
+EUR,192,San Marino,c20,Black liquor,,,tonne/tonne,1
+EUR,198,Slovenia,c20,Black liquor,,,tonne/tonne,1
+EUR,199,Slovakia,c20,Black liquor,,,tonne/tonne,1
+EUR,203,Spain,c20,Black liquor,,,tonne/tonne,1
+EUR,210,Sweden,c20,Black liquor,,,tonne/tonne,1
+EUR,211,Switzerland,c20,Black liquor,,,tonne/tonne,1
+EUR,223,Turkey,c20,Black liquor,,,tonne/tonne,1
+EUR,229,United Kingdom,c20,Black liquor,,,tonne/tonne,1
+EUR,230,Ukraine,c20,Black liquor,,,tonne/tonne,1
+EUR,248,Yugoslav SFR,c20,Black liquor,,,tonne/tonne,1
+EUR,255,Belgium,c20,Black liquor,,,tonne/tonne,1
+EUR,256,Luxembourg,c20,Black liquor,,,tonne/tonne,1
+EUR,272,Serbia,c20,Black liquor,,,tonne/tonne,1
+EUR,273,Montenegro,c20,Black liquor,,,tonne/tonne,1
+LAM,8,Antigua and Barbuda,c20,Black liquor,,,tonne/tonne,1
+LAM,9,Argentina,c20,Black liquor,,,tonne/tonne,1
+LAM,12,Bahamas,c20,Black liquor,,,tonne/tonne,1
+LAM,14,Barbados,c20,Black liquor,,,tonne/tonne,1
+LAM,17,Bermuda,c20,Black liquor,,,tonne/tonne,1
+LAM,19,Bolivia (Plurinational State of),c20,Black liquor,,,tonne/tonne,1
+LAM,21,Brazil,c20,Black liquor,,,tonne/tonne,1
+LAM,22,Aruba,c20,Black liquor,,,tonne/tonne,1
+LAM,23,Belize,c20,Black liquor,,,tonne/tonne,1
+LAM,36,Cayman Islands,c20,Black liquor,,,tonne/tonne,1
+LAM,40,Chile,c20,Black liquor,,,tonne/tonne,1
+LAM,44,Colombia,c20,Black liquor,,,tonne/tonne,1
+LAM,48,Costa Rica,c20,Black liquor,,,tonne/tonne,1
+LAM,49,Cuba,c20,Black liquor,,,tonne/tonne,1
+LAM,55,Dominica,c20,Black liquor,,,tonne/tonne,1
+LAM,56,Dominican Republic,c20,Black liquor,,,tonne/tonne,1
+LAM,58,Ecuador,c20,Black liquor,,,tonne/tonne,1
+LAM,60,El Salvador,c20,Black liquor,,,tonne/tonne,1
+LAM,65,Falkland Islands (Malvinas),c20,Black liquor,,,tonne/tonne,1
+LAM,69,French Guyana,c20,Black liquor,,,tonne/tonne,1
+LAM,86,Grenada,c20,Black liquor,,,tonne/tonne,1
+LAM,87,Guadeloupe,c20,Black liquor,,,tonne/tonne,1
+LAM,89,Guatemala,c20,Black liquor,,,tonne/tonne,1
+LAM,91,Guyana,c20,Black liquor,,,tonne/tonne,1
+LAM,93,Haiti,c20,Black liquor,,,tonne/tonne,1
+LAM,95,Honduras,c20,Black liquor,,,tonne/tonne,1
+LAM,109,Jamaica,c20,Black liquor,,,tonne/tonne,1
+LAM,135,Martinique,c20,Black liquor,,,tonne/tonne,1
+LAM,138,Mexico,c20,Black liquor,,,tonne/tonne,1
+LAM,142,Montserrat,c20,Black liquor,,,tonne/tonne,1
+LAM,151,Netherlands Antilles,c20,Black liquor,,,tonne/tonne,1
+LAM,157,Nicaragua,c20,Black liquor,,,tonne/tonne,1
+LAM,166,Panama,c20,Black liquor,,,tonne/tonne,1
+LAM,169,Paraguay,c20,Black liquor,,,tonne/tonne,1
+LAM,170,Peru,c20,Black liquor,,,tonne/tonne,1
+LAM,188,Saint Kitts and Nevis,c20,Black liquor,,,tonne/tonne,1
+LAM,189,Saint Lucia,c20,Black liquor,,,tonne/tonne,1
+LAM,191,Saint Vincent and the Grenadines,c20,Black liquor,,,tonne/tonne,1
+LAM,207,Suriname,c20,Black liquor,,,tonne/tonne,1
+LAM,220,Trinidad and Tobago,c20,Black liquor,,,tonne/tonne,1
+LAM,224,Turks and Caicos Islands,c20,Black liquor,,,tonne/tonne,1
+LAM,234,Uruguay,c20,Black liquor,,,tonne/tonne,1
+LAM,236,Venezuela (Bolivarian Republic of),c20,Black liquor,,,tonne/tonne,1
+LAM,239,British Virgin Islands,c20,Black liquor,,,tonne/tonne,1
+LAM,258,Anguilla,c20,Black liquor,,,tonne/tonne,1
+LAM,279,Cura√ßao,c20,Black liquor,,,tonne/tonne,1
+LAM,281,Saint-Martin (French Part),c20,Black liquor,,,tonne/tonne,1
+NAM,33,Canada,c20,Black liquor,,,tonne/tonne,1
+NAM,190,Saint Pierre and Miquelon,c20,Black liquor,,,tonne/tonne,1
+NAM,231,United States of America,c20,Black liquor,,,tonne/tonne,1
+OCE,5,American Samoa,c20,Black liquor,,,tonne/tonne,1
+OCE,10,Australia,c20,Black liquor,,,tonne/tonne,1
+OCE,25,Solomon Islands,c20,Black liquor,,,tonne/tonne,1
+OCE,42,Christmas Island,c20,Black liquor,,,tonne/tonne,1
+OCE,43,Cocos (Keeling) Islands,c20,Black liquor,,,tonne/tonne,1
+OCE,47,Cook Islands,c20,Black liquor,,,tonne/tonne,1
+OCE,66,Fiji,c20,Black liquor,,,tonne/tonne,1
+OCE,70,French Polynesia,c20,Black liquor,,,tonne/tonne,1
+OCE,71,French Southern and Antarctic Territories,c20,Black liquor,,,tonne/tonne,1
+OCE,83,Kiribati,c20,Black liquor,,,tonne/tonne,1
+OCE,88,Guam,c20,Black liquor,,,tonne/tonne,1
+OCE,127,Marshall Islands,c20,Black liquor,,,tonne/tonne,1
+OCE,145,Micronesia (Federated States of),c20,Black liquor,,,tonne/tonne,1
+OCE,148,Nauru,c20,Black liquor,,,tonne/tonne,1
+OCE,153,New Caledonia,c20,Black liquor,,,tonne/tonne,1
+OCE,155,Vanuatu,c20,Black liquor,,,tonne/tonne,1
+OCE,156,New Zealand,c20,Black liquor,,,tonne/tonne,1
+OCE,160,Niue,c20,Black liquor,,,tonne/tonne,1
+OCE,161,Norfolk Island,c20,Black liquor,,,tonne/tonne,1
+OCE,163,Northern Mariana Islands,c20,Black liquor,,,tonne/tonne,1
+OCE,168,Papua New Guinea,c20,Black liquor,,,tonne/tonne,1
+OCE,172,Pitcairn Islands,c20,Black liquor,,,tonne/tonne,1
+OCE,180,Palau,c20,Black liquor,,,tonne/tonne,1
+OCE,218,Tokelau,c20,Black liquor,,,tonne/tonne,1
+OCE,227,Tuvalu,c20,Black liquor,,,tonne/tonne,1
+OCE,242,Wake Island,c20,Black liquor,,,tonne/tonne,1
+OCE,243,Wallis and Futuna Islands,c20,Black liquor,,,tonne/tonne,1
+OCE,244,Samoa,c20,Black liquor,,,tonne/tonne,1
+ROW,999,RoW,c20,Black liquor,,,tonne/tonne,1
+XXX,252,Unspecified Area,c20,Black liquor,,,tonne/tonne,1
+XXX,254,Others (adjustment),c20,Black liquor,,,tonne/tonne,1

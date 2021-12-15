@@ -150,7 +150,7 @@ input <- tcf_data[data.table(expand.grid(year = years,
 input[, `:=`(value = processing, production = NULL, processing = NULL)]
 dt_replace(input, is.na, 0, cols = "value")
 
-# Prepare template to be filled - pocessing per process
+# Prepare template to be filled - processing per process
 results <- tcf_data[data.table(expand.grid(year = years, area_code = areas,
   com_code = tcf_codes[[3]], com_code_proc = tcf_codes[[2]]))]
 setkey(results, com_code, com_code_proc)
@@ -192,22 +192,47 @@ pulp[, `:=`(roundwood = if_else(!is.na(roundwood), roundwood,
 # Estimate feedstock composition for pulp production
 results <- merge(results, pulp[, .(area_code, proc_code, roundwood, chips)],
   by = c("area_code", "proc_code"), all.x = TRUE)
+
 results[grepl("p11", proc_code), `:=`(roundwood = if_else(is.na(roundwood), 0.66, roundwood),
   chips = if_else(is.na(chips), 0.34, chips))]
 results[grepl("p11", proc_code), `:=`(value = if_else(com_code %in% c("c01","c02"), value * roundwood, value))]
 results[grepl("p11", proc_code), `:=`(value = if_else(com_code %in% c("c17"), value * chips, value))]
 results[grepl("p11", proc_code), `:=`(value = if_else(com_code %in% c("c18"), value * 0, value))]
+
 results[, `:=`(roundwood = NULL, chips = NULL)]
 
 
-# Estimate feedstock composition for board production
-results[proc_code %in% c("p08","p09"), 
+# Estimate feedstock composition for fibreboard production
+results[proc_code %in% c("p08"), 
   value := if_else(com_code %in% c("c01","c02"), value * 0.05, value * 0.425)]
 
-# For c09 - particle board first subtrate inputs from c19
-# according to countries?
-# need a cvs with FAOT/ITTO/UNECE factors
-# and also Mantau
+
+# Estimates for feedstock composition for particle board production
+wastepb <- fread("inst/waste_pb.csv")
+wastepb[, `:=`(continent = regions$continent[match(wastepb$area_code, regions$area_code)])]
+wastepb[continent == "EU", `:=`(continent = "EUR")]
+wastepb[, `:=`(waste = if_else(!is.na(waste), waste, 
+                               waste[match(paste(wastepb$continent, wastepb$proc_code), paste(wastepb$area, wastepb$proc_code))]))]
+
+# Estimate feedstock composition for particle board production
+results <- merge(results, wastepb[, .(area_code, proc_code, waste)],
+                 by = c("area_code", "proc_code"), all.x = TRUE)
+
+## I stayed here
+
+results[proc_code %in% c("p09"), `:=`(waste = if_else(is.na(waste), 0, waste))]
+results[proc_code %in% c("p09"), `:=`(value = if_else(com_code %in% c("c01", "c02"), value * 0.05, value))]
+results[proc_code %in% c("p09"), `:=`(value = if_else(com_code %in% c("c17", "c18"), value * 0.425, value))]
+results[proc_code %in% c("p09"), `:=`(value = if_else(com_code %in% c("c19"), value * waste, value))]
+
+
+results[grepl("p11", proc_code), `:=`(roundwood = if_else(is.na(roundwood), 0.66, roundwood),
+                                      chips = if_else(is.na(chips), 0.34, chips))]
+results[grepl("p11", proc_code), `:=`(value = if_else(com_code %in% c("c01","c02"), value * roundwood, value))]
+results[grepl("p11", proc_code), `:=`(value = if_else(com_code %in% c("c17"), value * chips, value))]
+results[grepl("p11", proc_code), `:=`(value = if_else(com_code %in% c("c18"), value * 0, value))]
+
+
 # And write sth like "This value (percentage) should be used as a maximum"
 
 
