@@ -7,10 +7,11 @@ agg <- function(x) {
   x <- as.matrix(x) %*% sapply(unique(colnames(x)),"==",colnames(x))
   return(x) }
 
-Z <- readRDS("data/Z.rds")
-Z <- Z[["2017"]]
-Y <- readRDS("data/Y.rds")
-Y <- Y[["2017"]]
+# For 2016 since c19 is not yet solved in use calculation
+Z <- readRDS("/mnt/nfs_fineprint/tmp/forbio/Z.rds")
+Z <- Z[["2016"]]
+Y <- readRDS("/mnt/nfs_fineprint/tmp/forbio/Y.rds")
+Y <- Y[["2016"]]
 
 regions <- fread("inst/regions.csv")
 regions <- regions[baci==TRUE]
@@ -100,9 +101,9 @@ agg <- function(x) {
   x <- as.matrix(x) %*% sapply(unique(colnames(x)),"==",colnames(x))
   return(x) }
 
-Z <- readRDS("data/Z.rds")
+Z <- readRDS("/mnt/nfs_fineprint/tmp/forbio/Z.rds")
 Z <- Z[["2017"]]
-Y <- readRDS("data/Y.rds")
+Y <- readRDS("/mnt/nfs_fineprint/tmp/forbio/Y.rds")
 Y <- Y[["2017"]]
 
 regions <- fread("inst/regions.csv")
@@ -190,10 +191,11 @@ regions <- read_csv("inst/regions.csv")
 regions <- regions[baci==TRUE]
 regions <- regions[order(area_code)]
 
-Z <- readRDS("data/Z.rds")
+Z <- readRDS("/mnt/nfs_fineprint/tmp/forbio/Z.rds")
 Z <- as.matrix(Z[["2017"]])
-Y <- readRDS("data/Y.rds")
+Y <- readRDS("/mnt/nfs_fineprint/tmp/forbio/Y.rds")
 Y <- as.matrix(Y[["2017"]])
+
 colnames(Z) <- rownames(Z) <- paste0("r",sprintf("%03d", rep(regions$area_code, each=23)))
 colnames(Y) <- paste0("r",sprintf("%03d", rep(regions$area_code, each=2)))
 rownames(Y) <- paste0("r",sprintf("%03d", rep(regions$area_code, each=23)))
@@ -266,9 +268,9 @@ agg <- function(x) {
   x <- as.matrix(x) %*% sapply(unique(colnames(x)),"==",colnames(x))
   return(x) }
 
-Z <- readRDS("data/Z.rds")
+Z <- readRDS("/mnt/nfs_fineprint/tmp/forbio/Z.rds")
 Z <- Z[["2017"]]
-Y <- readRDS("data/Y.rds")
+Y <- readRDS("/mnt/nfs_fineprint/tmp/forbio/Y.rds")
 Y <- Y[["2017"]]
 
 regions <- read_csv("inst/regions.csv")
@@ -348,9 +350,9 @@ agg <- function(x) {
   x <- as.matrix(x) %*% sapply(unique(colnames(x)),"==",colnames(x))
   return(x) }
 
-Z <- readRDS("data/Z.rds")
+Z <- readRDS("/mnt/nfs_fineprint/tmp/forbio/Z.rds")
 Z <- Z[["2017"]]
-Y <- readRDS("data/Y.rds")
+Y <- readRDS("/mnt/nfs_fineprint/tmp/forbio/Y.rds")
 Y <- Y[["2017"]]
 
 regions <- read_csv("inst/regions.csv")

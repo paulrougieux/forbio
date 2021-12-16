@@ -39,9 +39,11 @@ cat("Allocating part of the TCF commodities to TCF use. Applies to items:\n\t",
   paste0(unique(use[type %in% c("tcf", "tcf_cnc", "tcf_pellets", "tcf_board", "tcf_pulp"), process]), 
     collapse = "; "), ".\n", sep = "")
 
-# technical conversion factors
+# Upload technical conversion factors
 tcf <- fread("inst/tcf_use_tidy.csv")
 tcf <- tcf[!(com_code=="c13" & unit=="m3sw/tonne")]
+
+# Create tcf for c10 as output of c01 and c02 each
 tcf[com_code=="c10", `:=`(source = items$item[items$com_code=="c01"], source_code = "c01")]
 osb <- tcf[com_code=="c10"]
 osb[, `:=`(source = items$item[items$com_code=="c02"], source_code = "c02")]
@@ -59,8 +61,10 @@ tcf_use <- fread("inst/tcf_use_tidy.csv")
 tcf_out <- tcf_use[com_code=="c15" & unit=="m3sw/tonne"]
 tcf_in <- tcf_use[com_code %in% source_use[type=="tcf_pellets", source_code] &
                     unit %in% c("m3rw/m3p","m3sw/m3p")]
+
 # tcf_in <- tcf_use[com_code %in% source_use[type=="tcf_pellets", source_code] &
 # unit %in% c("m3rw/m3p", "m3p/m3sw")]
+
 tcf_in[unit=="m3rw/m3p", `:=`(tcf = 1 / tcf, unit = "m3p/m3sw")]
 tcf_in[unit=="m3sw/m3p", `:=`(tcf = 1 / tcf, unit = "m3p/m3sw")]
 # unique(tcf_in[, .(item, source, unit)])
@@ -180,7 +184,7 @@ results[, `:=`(proc_code =
   source_use[match(results$com_code_proc, source_use$com_code), proc_code])]
 
 
-# Estimates for feedstock composition for pulp production
+# Tidying estimates for feedstock composition for pulp production
 pulp <- fread("inst/pulp.csv")
 pulp[, `:=`(continent = regions$continent[match(pulp$area_code, regions$area_code)])]
 pulp[continent == "EU", `:=`(continent = "EUR")]
@@ -207,7 +211,7 @@ results[proc_code %in% c("p08"),
   value := if_else(com_code %in% c("c01","c02"), value * 0.05, value * 0.425)]
 
 
-# Estimates for feedstock composition for particle board production
+# Tidying waste (c19) estimates for feedstock composition for particle board production
 wastepb <- fread("inst/waste_pb.csv")
 wastepb[, `:=`(continent = regions$continent[match(wastepb$area_code, regions$area_code)])]
 wastepb[continent == "EU", `:=`(continent = "EUR")]
@@ -215,26 +219,21 @@ wastepb[, `:=`(waste = if_else(!is.na(waste), waste,
                                waste[match(paste(wastepb$continent, wastepb$proc_code), paste(wastepb$area, wastepb$proc_code))]))]
 
 # Estimate feedstock composition for particle board production
+
 results <- merge(results, wastepb[, .(area_code, proc_code, waste)],
                  by = c("area_code", "proc_code"), all.x = TRUE)
 
-## I stayed here
-
 results[proc_code %in% c("p09"), `:=`(waste = if_else(is.na(waste), 0, waste))]
+
 results[proc_code %in% c("p09"), `:=`(value = if_else(com_code %in% c("c01", "c02"), value * 0.05, value))]
 results[proc_code %in% c("p09"), `:=`(value = if_else(com_code %in% c("c17", "c18"), value * 0.425, value))]
 results[proc_code %in% c("p09"), `:=`(value = if_else(com_code %in% c("c19"), value * waste, value))]
 
+results[, `:=`(waste = NULL)]
 
-results[grepl("p11", proc_code), `:=`(roundwood = if_else(is.na(roundwood), 0.66, roundwood),
-                                      chips = if_else(is.na(chips), 0.34, chips))]
-results[grepl("p11", proc_code), `:=`(value = if_else(com_code %in% c("c01","c02"), value * roundwood, value))]
-results[grepl("p11", proc_code), `:=`(value = if_else(com_code %in% c("c17"), value * chips, value))]
-results[grepl("p11", proc_code), `:=`(value = if_else(com_code %in% c("c18"), value * 0, value))]
-
-
+# I stayed here
 # And write sth like "This value (percentage) should be used as a maximum"
-
+# See how we did in pellets
 
 
 # Redistribute c/nc use according to availability 
@@ -242,6 +241,7 @@ results[grepl("p11", proc_code), `:=`(value = if_else(com_code %in% c("c18"), va
 data <- merge(results[com_code %in% c("c01","c02"),], 
   source_use[, .(com_code=source_code, com_code_proc = com_code, type)], 
   by=c("com_code", "com_code_proc"))
+
 # sum per type, i.e. tcf and tcf_cnc
 data <- data[, list(value = sum(value, na.rm = TRUE)), 
   by = c("com_code", "year", "area_code", "type")]
@@ -250,14 +250,17 @@ data <- merge(data, cbs[, .(area_code, com_code, year, processing = na_sum(proce
   by = c("area_code", "com_code", "year"))
 data[, `:=`(rest = processing - tcf, demand = na_sum(tcf_board, tcf_cnc, tcf_pulp), tcf = NULL)]
 data[, `:=`(rest = ifelse(rest < 0, 0, rest))]
+
 # sum up remaining roundwood per country
 data <- merge(data, data[, list(rest_total = na_sum(rest)), by = c("year", "area_code")],
   by = c("year", "area_code"))
+
 # derive shares of remaining c & nc roundwood
 # data[, `:=`(rest = rest / rest_total, processing = processing / processing_total)]
 # data[, `:=`(rest = ifelse(!is.finite(rest), 0, rest), 
 #   processing = ifelse(!is.finite(processing), 0, processing))]
 # data[, `:=`(share = rest * rest_total / demand + processing * (demand - rest_total) / demand)]
+
 data[, share := rest / rest_total]
 data[, share := ifelse(!is.finite(share), 0, share)]
 
