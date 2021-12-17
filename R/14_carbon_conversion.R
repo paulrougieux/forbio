@@ -16,12 +16,12 @@ use_fd <- readRDS("data/use_fd_final.rds")
 years <- seq(1997, 2017)
 
 #---------------------------------------
-# GLOBAL RESULTS (2017) in tC
+# GLOBAL RESULTS (2016) in tC
 #---------------------------------------
 
-carbon_cf <- fread("inst/carbon_cf.csv")
+carbon_cf <- fread("inst/carbon_tidy.csv")
 
-yr <- 2017
+yr <- 2016
 
 cbs <- cbs[year==yr]
 sup <- sup[year==yr]
@@ -29,6 +29,9 @@ use <- use[year==yr]
 use_fd <- use_fd[year==yr]
 
 ### here I should convert into tC ####
+
+## Convert into tC (SUP) ##
+
 
 sup_total <- aggregate(x = sup$production, by = list(sup$com_code, sup$proc_code), FUN = na_sum)
 
@@ -39,7 +42,7 @@ use_fd_ene <- aggregate(x = use_fd$energy_use, by = list(use_fd$com_code), FUN =
 
 ## Convert into tC (SUP) ##
 
-sup_total <- sup_total %>% 
+sup_total <- sup_total %>%
                 rename(
                 com_code = Group.1,
                 proc_code = Group.2,
