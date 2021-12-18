@@ -268,7 +268,25 @@ bd[com_code %in% c("c20"),
 carbon <- bd[, c("continent", "area_code", "area", "com_code","item","source_code","source","tcf_carbon")]
 
 fwrite(carbon, "inst/carbon_tidy.csv")
-rm(bd, carbon, density, shrinkage)
+
+# build average for c06 and c07
+# quick fix in excel
+# but ideally it should be here 
+#
+# carbon2 <- fread("inst/carbon_tidy.csv")
+# 
+# c2 <- carbon2[tcf_carbon, area_code, source_code %in% c("c02"),
+#                by = c("com_code"), all.x = TRUE]
+# # 
+# carbon3 <- carbon2[com_code %in% c("c06", "c07"),
+#                    source_code %in% c("c01"),
+#                    tc_c02 := tcf_carbon]
+
+                   
+                   
+fwrite(carbon, "inst/carbon_tidy.csv")
+
+rm(bd, carbon, carbon2, density, shrinkage)
 
 # TCF swe ---------------------------------------------------------------------
 
