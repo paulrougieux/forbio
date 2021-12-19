@@ -205,31 +205,36 @@ results[grepl("p11", proc_code), `:=`(value = if_else(com_code %in% c("c18"), va
 
 results[, `:=`(roundwood = NULL, chips = NULL)]
 
-
 # Estimate feedstock composition for fibreboard production
-results[proc_code %in% c("p08"), 
-  value := if_else(com_code %in% c("c01","c02"), value * 0.05, value * 0.425)]
+# Also for particle board, as a temporary solution
+# since I don't know yet how to allocate c19
+results[proc_code %in% c("p08", "p09"), 
+        value := if_else(com_code %in% c("c01","c02"), value * 0.05, value * 0.425)]
 
 
-# Tidying waste (c19) estimates for feedstock composition for particle board production
-wastepb <- fread("inst/waste_pb.csv")
-wastepb[, `:=`(continent = regions$continent[match(wastepb$area_code, regions$area_code)])]
-wastepb[continent == "EU", `:=`(continent = "EUR")]
-wastepb[, `:=`(waste = if_else(!is.na(waste), waste, 
-                               waste[match(paste(wastepb$continent, wastepb$proc_code), paste(wastepb$area, wastepb$proc_code))]))]
+# # Estimate feedstock composition for fibreboard production
+# results[proc_code %in% c("p08"), 
+#   value := if_else(com_code %in% c("c01","c02"), value * 0.05, value * 0.425)]
 
-# Estimate feedstock composition for particle board production
+# # Tidying waste (c19) estimates for feedstock composition for particle board production
+# wastepb <- fread("inst/waste_pb.csv")
+# wastepb[, `:=`(continent = regions$continent[match(wastepb$area_code, regions$area_code)])]
+# wastepb[continent == "EU", `:=`(continent = "EUR")]
+# wastepb[, `:=`(waste = if_else(!is.na(waste), waste, 
+#                                waste[match(paste(wastepb$continent, wastepb$proc_code), paste(wastepb$area, wastepb$proc_code))]))]
 
-results <- merge(results, wastepb[, .(area_code, proc_code, waste)],
-                 by = c("area_code", "proc_code"), all.x = TRUE)
-
-results[proc_code %in% c("p09"), `:=`(waste = if_else(is.na(waste), 0, waste))]
-
-results[proc_code %in% c("p09"), `:=`(value = if_else(com_code %in% c("c01", "c02"), value * 0.05, value))]
-results[proc_code %in% c("p09"), `:=`(value = if_else(com_code %in% c("c17", "c18"), value * 0.425, value))]
-results[proc_code %in% c("p09"), `:=`(value = if_else(com_code %in% c("c19"), value * waste, value))]
-
-results[, `:=`(waste = NULL)]
+# # Estimate feedstock composition for particle board production
+# 
+# results <- merge(results, wastepb[, .(area_code, proc_code, waste)],
+#                  by = c("area_code", "proc_code"), all.x = TRUE)
+# 
+# results[proc_code %in% c("p09"), `:=`(waste = if_else(is.na(waste), 0, waste))]
+# 
+# results[proc_code %in% c("p09"), `:=`(value = if_else(com_code %in% c("c01", "c02"), value * 0.05, value))]
+# results[proc_code %in% c("p09"), `:=`(value = if_else(com_code %in% c("c17", "c18"), value * 0.425, value))]
+# results[proc_code %in% c("p09"), `:=`(value = if_else(com_code %in% c("c19"), value * waste, value))]
+# 
+# results[, `:=`(waste = NULL)]
 
 # I stayed here
 # And write sth like "This value (percentage) should be used as a maximum"
@@ -354,7 +359,8 @@ rm(tcf, tcf_codes, tcf_data, areas, out, data, pulp, tcf_board, tcf_pellets, tcf
 # Balance supply and use ------------------------------------------------------
 # allocate energy use
 cbs[, energy := 0]
-cbs[com_code %in% c("c03","c15","c16","c17","c18","c20") & processing > 0, `:=`(energy = processing, processing = 0)]
+cbs[com_code %in% c("c03","c15","c16","c17","c18","c19","c20") & processing > 0, `:=`(energy = processing, processing = 0)]
+#cbs[com_code %in% c("c03","c15","c16","c17","c18","c20") & processing > 0, `:=`(energy = processing, processing = 0)]
 
 # balance processing
 cbs[, bal_processing := 0]
@@ -401,19 +407,19 @@ totals[, `:=`(cbs_prod = NULL, cbs_sup = NULL, sup_prod = NULL, diff = NULL,
 
 # Check energy use ------------------------------------------------------
 # read IEA data
-iea <- readRDS("input/energy.rds")
-energy <- totals[com_code %in% c("c03", "c15", "c17", "c18", "c20")]
-conversion <- fread("inst/tcf_energy.csv")
-energy <- merge(energy, conversion[, .(com_code, tcf)], by = "com_code")
-energy[, energy_use := energy_use * tcf]
-energy_totals <- merge(energy[, list(energy = na_sum(energy_use)), by = c("area_code", "year")], 
-  iea[year %in% years & area_code %in% regions[baci == TRUE, area_code], 
-      .(area_code, area, year, iea = value * 1000)], 
-  by = c("area_code", "year"), all = TRUE)
-# calculate supply gap, i.e. where iea reports more solid biofuel use
-energy_totals[, diff := na_sum(iea, -energy) / conversion[com_code == "c03", tcf]]
-# ignore gap where iea does not report data
-energy_totals[is.na(iea), diff := NA]
+# iea <- readRDS("input/energy.rds")
+# energy <- totals[com_code %in% c("c03", "c15", "c17", "c18", "c20")]
+# conversion <- fread("inst/tcf_energy.csv")
+# energy <- merge(energy, conversion[, .(com_code, tcf)], by = "com_code")
+# energy[, energy_use := energy_use * tcf]
+# energy_totals <- merge(energy[, list(energy = na_sum(energy_use)), by = c("area_code", "year")], 
+#   iea[year %in% years & area_code %in% regions[baci == TRUE, area_code], 
+#       .(area_code, area, year, iea = value * 1000)], 
+#   by = c("area_code", "year"), all = TRUE)
+# # calculate supply gap, i.e. where iea reports more solid biofuel use
+# energy_totals[, diff := na_sum(iea, -energy) / conversion[com_code == "c03", tcf]]
+# # ignore gap where iea does not report data
+# energy_totals[is.na(iea), diff := NA]
 
 # add supply gap to sup
 # we decided not to manipulate the energy use data and to keep the discrepancies with iea
@@ -427,7 +433,6 @@ energy_totals[is.na(iea), diff := NA]
 #   item = items[com_code == "c03", item], unit = "m3", exports = 0, imports = 0, 
 #   production = 0, total_supply = 0, processing = 0, balancing = 0, balancing_byprod = 0,
 #   energy = 0, balancing_energy = diff)]))
-
 
 
 

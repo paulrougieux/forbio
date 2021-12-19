@@ -13,7 +13,6 @@ p09;Particle board production;c01;Industrial roundwood, coniferous;c09;Particle 
 p09;Particle board production;c02;Industrial roundwood, non-coniferous;c09;Particle board;tcf_board
 p09;Particle board production;c17;Wood chips and particles;c09;Particle board;tcf_board
 p09;Particle board production;c18;Wood residues;c09;Particle board;tcf_board
-p09;Particle board production;c19;Post-consumer wood;c09;Particle board;tcf_board
 p10;OSB production;c01;Industrial roundwood, coniferous;c10;OSB;tcf_cnc
 p10;OSB production;c02;Industrial roundwood, non-coniferous;c10;OSB;tcf_cnc
 p11a;Chemical pulp production;c01;Industrial roundwood, coniferous;c11a;Chemical wood pulp;tcf_pulp

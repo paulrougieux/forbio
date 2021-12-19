@@ -1219,982 +1219,494 @@ OCE,244,Samoa,c05,"Sawnwood, non-coniferous all",c02,"Industrial roundwood, non-
 ROW,999,RoW,c05,"Sawnwood, non-coniferous all",c02,"Industrial roundwood, non-coniferous",tonne/m3,0.713
 XXX,252,Unspecified Area,c05,"Sawnwood, non-coniferous all",c02,"Industrial roundwood, non-coniferous",tonne/m3,0.713
 XXX,254,Others (adjustment),c05,"Sawnwood, non-coniferous all",c02,"Industrial roundwood, non-coniferous",tonne/m3,0.713
-AFR,4,Algeria,c06,Veneer sheets,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-AFR,7,Angola,c06,Veneer sheets,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-AFR,20,Botswana,c06,Veneer sheets,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-AFR,29,Burundi,c06,Veneer sheets,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-AFR,32,Cameroon,c06,Veneer sheets,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-AFR,35,Cabo Verde,c06,Veneer sheets,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-AFR,37,Central African Republic,c06,Veneer sheets,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-AFR,39,Chad,c06,Veneer sheets,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-AFR,45,Comoros,c06,Veneer sheets,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-AFR,46,Congo,c06,Veneer sheets,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-AFR,53,Benin,c06,Veneer sheets,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-AFR,59,Egypt,c06,Veneer sheets,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-AFR,61,Equatorial Guinea,c06,Veneer sheets,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-AFR,72,Djibouti,c06,Veneer sheets,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-AFR,74,Gabon,c06,Veneer sheets,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-AFR,75,Gambia,c06,Veneer sheets,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-AFR,81,Ghana,c06,Veneer sheets,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-AFR,90,Guinea,c06,Veneer sheets,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-AFR,107,Cote d'Ivoire,c06,Veneer sheets,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-AFR,114,Kenya,c06,Veneer sheets,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-AFR,122,Lesotho,c06,Veneer sheets,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-AFR,123,Liberia,c06,Veneer sheets,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-AFR,124,Libya,c06,Veneer sheets,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-AFR,129,Madagascar,c06,Veneer sheets,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-AFR,130,Malawi,c06,Veneer sheets,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-AFR,133,Mali,c06,Veneer sheets,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-AFR,136,Mauritania,c06,Veneer sheets,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-AFR,137,Mauritius,c06,Veneer sheets,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-AFR,143,Morocco,c06,Veneer sheets,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-AFR,144,Mozambique,c06,Veneer sheets,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-AFR,147,Namibia,c06,Veneer sheets,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-AFR,158,Niger,c06,Veneer sheets,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-AFR,159,Nigeria,c06,Veneer sheets,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-AFR,175,Guinea-Bissau,c06,Veneer sheets,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-AFR,178,Eritrea,c06,Veneer sheets,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-AFR,181,Zimbabwe,c06,Veneer sheets,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-AFR,182,Reunion,c06,Veneer sheets,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-AFR,184,Rwanda,c06,Veneer sheets,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-AFR,187,"Saint Helena, Ascension and Tristan da Cunha",c06,Veneer sheets,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-AFR,193,Sao Tome and Principe,c06,Veneer sheets,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-AFR,195,Senegal,c06,Veneer sheets,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-AFR,196,Seychelles,c06,Veneer sheets,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-AFR,197,Sierra Leone,c06,Veneer sheets,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-AFR,201,Somalia,c06,Veneer sheets,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-AFR,202,South Africa,c06,Veneer sheets,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-AFR,205,Western Sahara,c06,Veneer sheets,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-AFR,209,Eswatini,c06,Veneer sheets,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-AFR,215,United Republic of Tanzania,c06,Veneer sheets,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-AFR,217,Togo,c06,Veneer sheets,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-AFR,219,Tonga,c06,Veneer sheets,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-AFR,222,Tunisia,c06,Veneer sheets,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-AFR,226,Uganda,c06,Veneer sheets,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-AFR,233,Burkina Faso,c06,Veneer sheets,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-AFR,238,Ethiopia,c06,Veneer sheets,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-AFR,250,Democratic Republic of the Congo,c06,Veneer sheets,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-AFR,251,Zambia,c06,Veneer sheets,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-AFR,270,Mayotte,c06,Veneer sheets,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-AFR,276,Sudan,c06,Veneer sheets,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-AFR,277,South Sudan,c06,Veneer sheets,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-ASI,1,Armenia,c06,Veneer sheets,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-ASI,2,Afghanistan,c06,Veneer sheets,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-ASI,13,Bahrain,c06,Veneer sheets,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-ASI,16,Bangladesh,c06,Veneer sheets,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-ASI,18,Bhutan,c06,Veneer sheets,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-ASI,24,British Indian Ocean Territory,c06,Veneer sheets,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-ASI,26,Brunei Darussalam,c06,Veneer sheets,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-ASI,28,Myanmar,c06,Veneer sheets,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-ASI,38,Sri Lanka,c06,Veneer sheets,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-ASI,41,"China, mainland",c06,Veneer sheets,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-ASI,52,Azerbaijan,c06,Veneer sheets,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-ASI,73,Georgia,c06,Veneer sheets,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-ASI,96,"China, Hong Kong SAR",c06,Veneer sheets,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-ASI,100,India,c06,Veneer sheets,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-ASI,101,Indonesia,c06,Veneer sheets,c01,"Industrial roundwood, coniferous",tonne/m3,0.62
-ASI,102,Iran (Islamic Republic of),c06,Veneer sheets,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-ASI,103,Iraq,c06,Veneer sheets,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-ASI,105,Israel,c06,Veneer sheets,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-ASI,108,Kazakhstan,c06,Veneer sheets,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-ASI,110,Japan,c06,Veneer sheets,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-ASI,112,Jordan,c06,Veneer sheets,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-ASI,113,Kyrgyzstan,c06,Veneer sheets,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-ASI,115,Cambodia,c06,Veneer sheets,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-ASI,116,Democratic People's Republic of Korea,c06,Veneer sheets,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-ASI,117,Republic of Korea,c06,Veneer sheets,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-ASI,118,Kuwait,c06,Veneer sheets,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-ASI,120,Lao People's Democratic Republic,c06,Veneer sheets,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-ASI,121,Lebanon,c06,Veneer sheets,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-ASI,128,"China, Macao SAR",c06,Veneer sheets,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-ASI,131,Malaysia,c06,Veneer sheets,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-ASI,132,Maldives,c06,Veneer sheets,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-ASI,141,Mongolia,c06,Veneer sheets,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-ASI,149,Nepal,c06,Veneer sheets,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-ASI,164,Pacific Islands Trust Territory,c06,Veneer sheets,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-ASI,165,Pakistan,c06,Veneer sheets,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-ASI,171,Philippines,c06,Veneer sheets,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-ASI,176,Timor-Leste,c06,Veneer sheets,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-ASI,179,Qatar,c06,Veneer sheets,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-ASI,185,Russian Federation,c06,Veneer sheets,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-ASI,194,Saudi Arabia,c06,Veneer sheets,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-ASI,200,Singapore,c06,Veneer sheets,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-ASI,208,Tajikistan,c06,Veneer sheets,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-ASI,212,Syrian Arab Republic,c06,Veneer sheets,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-ASI,213,Turkmenistan,c06,Veneer sheets,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-ASI,214,"China, Taiwan Province of",c06,Veneer sheets,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-ASI,216,Thailand,c06,Veneer sheets,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-ASI,221,Oman,c06,Veneer sheets,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-ASI,225,United Arab Emirates,c06,Veneer sheets,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-ASI,228,USSR,c06,Veneer sheets,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-ASI,235,Uzbekistan,c06,Veneer sheets,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-ASI,237,Viet Nam,c06,Veneer sheets,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-ASI,249,Yemen,c06,Veneer sheets,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-ASI,299,Palestine,c06,Veneer sheets,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-EUR,3,Albania,c06,Veneer sheets,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-EUR,6,Andorra,c06,Veneer sheets,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-EUR,11,Austria,c06,Veneer sheets,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-EUR,15,Belgium-Luxembourg,c06,Veneer sheets,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-EUR,27,Bulgaria,c06,Veneer sheets,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-EUR,50,Cyprus,c06,Veneer sheets,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-EUR,51,Czechoslovakia,c06,Veneer sheets,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-EUR,54,Denmark,c06,Veneer sheets,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-EUR,57,Belarus,c06,Veneer sheets,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-EUR,63,Estonia,c06,Veneer sheets,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-EUR,64,Faroe Islands,c06,Veneer sheets,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-EUR,67,Finland,c06,Veneer sheets,c01,"Industrial roundwood, coniferous",tonne/m3,0.535
-EUR,68,France,c06,Veneer sheets,c01,"Industrial roundwood, coniferous",tonne/m3,0.55
-EUR,79,Germany,c06,Veneer sheets,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-EUR,80,Bosnia and Herzegovina,c06,Veneer sheets,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-EUR,82,Gibraltar,c06,Veneer sheets,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-EUR,84,Greece,c06,Veneer sheets,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-EUR,85,Greenland,c06,Veneer sheets,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-EUR,94,Holy See,c06,Veneer sheets,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-EUR,97,Hungary,c06,Veneer sheets,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-EUR,98,Croatia,c06,Veneer sheets,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-EUR,99,Iceland,c06,Veneer sheets,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-EUR,104,Ireland,c06,Veneer sheets,c01,"Industrial roundwood, coniferous",tonne/m3,0.65
-EUR,106,Italy,c06,Veneer sheets,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-EUR,119,Latvia,c06,Veneer sheets,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-EUR,125,Liechtenstein,c06,Veneer sheets,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-EUR,126,Lithuania,c06,Veneer sheets,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-EUR,134,Malta,c06,Veneer sheets,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-EUR,146,Republic of Moldova,c06,Veneer sheets,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-EUR,150,Netherlands,c06,Veneer sheets,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-EUR,154,North Macedonia,c06,Veneer sheets,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-EUR,162,Norway,c06,Veneer sheets,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-EUR,167,Czechia,c06,Veneer sheets,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-EUR,173,Poland,c06,Veneer sheets,c01,"Industrial roundwood, coniferous",tonne/m3,0.65
-EUR,174,Portugal,c06,Veneer sheets,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-EUR,183,Romania,c06,Veneer sheets,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-EUR,186,Serbia and Montenegro,c06,Veneer sheets,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-EUR,192,San Marino,c06,Veneer sheets,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-EUR,198,Slovenia,c06,Veneer sheets,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-EUR,199,Slovakia,c06,Veneer sheets,c01,"Industrial roundwood, coniferous",tonne/m3,0.5
-EUR,203,Spain,c06,Veneer sheets,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-EUR,210,Sweden,c06,Veneer sheets,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-EUR,211,Switzerland,c06,Veneer sheets,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-EUR,223,Turkey,c06,Veneer sheets,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-EUR,229,United Kingdom,c06,Veneer sheets,c01,"Industrial roundwood, coniferous",tonne/m3,0.649
-EUR,230,Ukraine,c06,Veneer sheets,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-EUR,248,Yugoslav SFR,c06,Veneer sheets,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-EUR,255,Belgium,c06,Veneer sheets,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-EUR,256,Luxembourg,c06,Veneer sheets,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-EUR,272,Serbia,c06,Veneer sheets,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-EUR,273,Montenegro,c06,Veneer sheets,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-LAM,8,Antigua and Barbuda,c06,Veneer sheets,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-LAM,9,Argentina,c06,Veneer sheets,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-LAM,12,Bahamas,c06,Veneer sheets,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-LAM,14,Barbados,c06,Veneer sheets,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-LAM,17,Bermuda,c06,Veneer sheets,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-LAM,19,Bolivia (Plurinational State of),c06,Veneer sheets,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-LAM,21,Brazil,c06,Veneer sheets,c01,"Industrial roundwood, coniferous",tonne/m3,0.42
-LAM,22,Aruba,c06,Veneer sheets,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-LAM,23,Belize,c06,Veneer sheets,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-LAM,36,Cayman Islands,c06,Veneer sheets,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-LAM,40,Chile,c06,Veneer sheets,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-LAM,44,Colombia,c06,Veneer sheets,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-LAM,48,Costa Rica,c06,Veneer sheets,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-LAM,49,Cuba,c06,Veneer sheets,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-LAM,55,Dominica,c06,Veneer sheets,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-LAM,56,Dominican Republic,c06,Veneer sheets,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-LAM,58,Ecuador,c06,Veneer sheets,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-LAM,60,El Salvador,c06,Veneer sheets,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-LAM,65,Falkland Islands (Malvinas),c06,Veneer sheets,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-LAM,69,French Guyana,c06,Veneer sheets,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-LAM,86,Grenada,c06,Veneer sheets,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-LAM,87,Guadeloupe,c06,Veneer sheets,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-LAM,89,Guatemala,c06,Veneer sheets,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-LAM,91,Guyana,c06,Veneer sheets,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-LAM,93,Haiti,c06,Veneer sheets,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-LAM,95,Honduras,c06,Veneer sheets,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-LAM,109,Jamaica,c06,Veneer sheets,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-LAM,135,Martinique,c06,Veneer sheets,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-LAM,138,Mexico,c06,Veneer sheets,c01,"Industrial roundwood, coniferous",tonne/m3,0.55
-LAM,142,Montserrat,c06,Veneer sheets,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-LAM,151,Netherlands Antilles,c06,Veneer sheets,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-LAM,157,Nicaragua,c06,Veneer sheets,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-LAM,166,Panama,c06,Veneer sheets,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-LAM,169,Paraguay,c06,Veneer sheets,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-LAM,170,Peru,c06,Veneer sheets,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-LAM,188,Saint Kitts and Nevis,c06,Veneer sheets,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-LAM,189,Saint Lucia,c06,Veneer sheets,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-LAM,191,Saint Vincent and the Grenadines,c06,Veneer sheets,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-LAM,207,Suriname,c06,Veneer sheets,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-LAM,220,Trinidad and Tobago,c06,Veneer sheets,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-LAM,224,Turks and Caicos Islands,c06,Veneer sheets,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-LAM,234,Uruguay,c06,Veneer sheets,c01,"Industrial roundwood, coniferous",tonne/m3,0.519
-LAM,236,Venezuela (Bolivarian Republic of),c06,Veneer sheets,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-LAM,239,British Virgin Islands,c06,Veneer sheets,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-LAM,258,Anguilla,c06,Veneer sheets,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-LAM,279,Curaçao,c06,Veneer sheets,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-LAM,281,Saint-Martin (French Part),c06,Veneer sheets,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-NAM,33,Canada,c06,Veneer sheets,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-NAM,190,Saint Pierre and Miquelon,c06,Veneer sheets,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-NAM,231,United States of America,c06,Veneer sheets,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-OCE,5,American Samoa,c06,Veneer sheets,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-OCE,10,Australia,c06,Veneer sheets,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-OCE,25,Solomon Islands,c06,Veneer sheets,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-OCE,42,Christmas Island,c06,Veneer sheets,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-OCE,43,Cocos (Keeling) Islands,c06,Veneer sheets,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-OCE,47,Cook Islands,c06,Veneer sheets,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-OCE,66,Fiji,c06,Veneer sheets,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-OCE,70,French Polynesia,c06,Veneer sheets,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-OCE,71,French Southern and Antarctic Territories,c06,Veneer sheets,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-OCE,83,Kiribati,c06,Veneer sheets,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-OCE,88,Guam,c06,Veneer sheets,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-OCE,127,Marshall Islands,c06,Veneer sheets,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-OCE,145,Micronesia (Federated States of),c06,Veneer sheets,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-OCE,148,Nauru,c06,Veneer sheets,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-OCE,153,New Caledonia,c06,Veneer sheets,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-OCE,155,Vanuatu,c06,Veneer sheets,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-OCE,156,New Zealand,c06,Veneer sheets,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-OCE,160,Niue,c06,Veneer sheets,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-OCE,161,Norfolk Island,c06,Veneer sheets,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-OCE,163,Northern Mariana Islands,c06,Veneer sheets,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-OCE,168,Papua New Guinea,c06,Veneer sheets,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-OCE,172,Pitcairn Islands,c06,Veneer sheets,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-OCE,180,Palau,c06,Veneer sheets,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-OCE,218,Tokelau,c06,Veneer sheets,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-OCE,227,Tuvalu,c06,Veneer sheets,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-OCE,242,Wake Island,c06,Veneer sheets,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-OCE,243,Wallis and Futuna Islands,c06,Veneer sheets,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-OCE,244,Samoa,c06,Veneer sheets,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-ROW,999,RoW,c06,Veneer sheets,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-XXX,252,Unspecified Area,c06,Veneer sheets,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-XXX,254,Others (adjustment),c06,Veneer sheets,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-AFR,4,Algeria,c06,Veneer sheets,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-AFR,7,Angola,c06,Veneer sheets,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-AFR,20,Botswana,c06,Veneer sheets,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-AFR,29,Burundi,c06,Veneer sheets,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-AFR,32,Cameroon,c06,Veneer sheets,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-AFR,35,Cabo Verde,c06,Veneer sheets,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-AFR,37,Central African Republic,c06,Veneer sheets,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-AFR,39,Chad,c06,Veneer sheets,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-AFR,45,Comoros,c06,Veneer sheets,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-AFR,46,Congo,c06,Veneer sheets,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-AFR,53,Benin,c06,Veneer sheets,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-AFR,59,Egypt,c06,Veneer sheets,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-AFR,61,Equatorial Guinea,c06,Veneer sheets,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-AFR,72,Djibouti,c06,Veneer sheets,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-AFR,74,Gabon,c06,Veneer sheets,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-AFR,75,Gambia,c06,Veneer sheets,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-AFR,81,Ghana,c06,Veneer sheets,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-AFR,90,Guinea,c06,Veneer sheets,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-AFR,107,Cote d'Ivoire,c06,Veneer sheets,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-AFR,114,Kenya,c06,Veneer sheets,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-AFR,122,Lesotho,c06,Veneer sheets,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-AFR,123,Liberia,c06,Veneer sheets,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-AFR,124,Libya,c06,Veneer sheets,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-AFR,129,Madagascar,c06,Veneer sheets,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-AFR,130,Malawi,c06,Veneer sheets,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-AFR,133,Mali,c06,Veneer sheets,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-AFR,136,Mauritania,c06,Veneer sheets,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-AFR,137,Mauritius,c06,Veneer sheets,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-AFR,143,Morocco,c06,Veneer sheets,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-AFR,144,Mozambique,c06,Veneer sheets,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-AFR,147,Namibia,c06,Veneer sheets,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-AFR,158,Niger,c06,Veneer sheets,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-AFR,159,Nigeria,c06,Veneer sheets,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-AFR,175,Guinea-Bissau,c06,Veneer sheets,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-AFR,178,Eritrea,c06,Veneer sheets,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-AFR,181,Zimbabwe,c06,Veneer sheets,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-AFR,182,Reunion,c06,Veneer sheets,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-AFR,184,Rwanda,c06,Veneer sheets,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-AFR,187,"Saint Helena, Ascension and Tristan da Cunha",c06,Veneer sheets,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-AFR,193,Sao Tome and Principe,c06,Veneer sheets,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-AFR,195,Senegal,c06,Veneer sheets,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-AFR,196,Seychelles,c06,Veneer sheets,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-AFR,197,Sierra Leone,c06,Veneer sheets,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-AFR,201,Somalia,c06,Veneer sheets,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-AFR,202,South Africa,c06,Veneer sheets,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-AFR,205,Western Sahara,c06,Veneer sheets,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-AFR,209,Eswatini,c06,Veneer sheets,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-AFR,215,United Republic of Tanzania,c06,Veneer sheets,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-AFR,217,Togo,c06,Veneer sheets,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-AFR,219,Tonga,c06,Veneer sheets,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-AFR,222,Tunisia,c06,Veneer sheets,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-AFR,226,Uganda,c06,Veneer sheets,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-AFR,233,Burkina Faso,c06,Veneer sheets,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-AFR,238,Ethiopia,c06,Veneer sheets,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-AFR,250,Democratic Republic of the Congo,c06,Veneer sheets,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-AFR,251,Zambia,c06,Veneer sheets,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-AFR,270,Mayotte,c06,Veneer sheets,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-AFR,276,Sudan,c06,Veneer sheets,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-AFR,277,South Sudan,c06,Veneer sheets,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-ASI,1,Armenia,c06,Veneer sheets,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-ASI,2,Afghanistan,c06,Veneer sheets,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-ASI,13,Bahrain,c06,Veneer sheets,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-ASI,16,Bangladesh,c06,Veneer sheets,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-ASI,18,Bhutan,c06,Veneer sheets,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-ASI,24,British Indian Ocean Territory,c06,Veneer sheets,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-ASI,26,Brunei Darussalam,c06,Veneer sheets,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-ASI,28,Myanmar,c06,Veneer sheets,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-ASI,38,Sri Lanka,c06,Veneer sheets,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-ASI,41,"China, mainland",c06,Veneer sheets,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-ASI,52,Azerbaijan,c06,Veneer sheets,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-ASI,73,Georgia,c06,Veneer sheets,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-ASI,96,"China, Hong Kong SAR",c06,Veneer sheets,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-ASI,100,India,c06,Veneer sheets,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-ASI,101,Indonesia,c06,Veneer sheets,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.65
-ASI,102,Iran (Islamic Republic of),c06,Veneer sheets,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-ASI,103,Iraq,c06,Veneer sheets,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-ASI,105,Israel,c06,Veneer sheets,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-ASI,108,Kazakhstan,c06,Veneer sheets,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-ASI,110,Japan,c06,Veneer sheets,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-ASI,112,Jordan,c06,Veneer sheets,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-ASI,113,Kyrgyzstan,c06,Veneer sheets,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-ASI,115,Cambodia,c06,Veneer sheets,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-ASI,116,Democratic People's Republic of Korea,c06,Veneer sheets,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-ASI,117,Republic of Korea,c06,Veneer sheets,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-ASI,118,Kuwait,c06,Veneer sheets,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-ASI,120,Lao People's Democratic Republic,c06,Veneer sheets,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-ASI,121,Lebanon,c06,Veneer sheets,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-ASI,128,"China, Macao SAR",c06,Veneer sheets,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-ASI,131,Malaysia,c06,Veneer sheets,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.65
-ASI,132,Maldives,c06,Veneer sheets,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-ASI,141,Mongolia,c06,Veneer sheets,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-ASI,149,Nepal,c06,Veneer sheets,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-ASI,164,Pacific Islands Trust Territory,c06,Veneer sheets,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-ASI,165,Pakistan,c06,Veneer sheets,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-ASI,171,Philippines,c06,Veneer sheets,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-ASI,176,Timor-Leste,c06,Veneer sheets,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-ASI,179,Qatar,c06,Veneer sheets,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-ASI,185,Russian Federation,c06,Veneer sheets,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.65
-ASI,194,Saudi Arabia,c06,Veneer sheets,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-ASI,200,Singapore,c06,Veneer sheets,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-ASI,208,Tajikistan,c06,Veneer sheets,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-ASI,212,Syrian Arab Republic,c06,Veneer sheets,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-ASI,213,Turkmenistan,c06,Veneer sheets,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-ASI,214,"China, Taiwan Province of",c06,Veneer sheets,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-ASI,216,Thailand,c06,Veneer sheets,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-ASI,221,Oman,c06,Veneer sheets,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-ASI,225,United Arab Emirates,c06,Veneer sheets,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-ASI,228,USSR,c06,Veneer sheets,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-ASI,235,Uzbekistan,c06,Veneer sheets,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-ASI,237,Viet Nam,c06,Veneer sheets,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-ASI,249,Yemen,c06,Veneer sheets,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-ASI,299,Palestine,c06,Veneer sheets,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-EUR,3,Albania,c06,Veneer sheets,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-EUR,6,Andorra,c06,Veneer sheets,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-EUR,11,Austria,c06,Veneer sheets,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-EUR,15,Belgium-Luxembourg,c06,Veneer sheets,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-EUR,27,Bulgaria,c06,Veneer sheets,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-EUR,50,Cyprus,c06,Veneer sheets,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-EUR,51,Czechoslovakia,c06,Veneer sheets,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-EUR,54,Denmark,c06,Veneer sheets,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-EUR,57,Belarus,c06,Veneer sheets,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-EUR,63,Estonia,c06,Veneer sheets,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-EUR,64,Faroe Islands,c06,Veneer sheets,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-EUR,67,Finland,c06,Veneer sheets,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.68
-EUR,68,France,c06,Veneer sheets,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-EUR,79,Germany,c06,Veneer sheets,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-EUR,80,Bosnia and Herzegovina,c06,Veneer sheets,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-EUR,82,Gibraltar,c06,Veneer sheets,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-EUR,84,Greece,c06,Veneer sheets,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-EUR,85,Greenland,c06,Veneer sheets,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-EUR,94,Holy See,c06,Veneer sheets,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-EUR,97,Hungary,c06,Veneer sheets,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-EUR,98,Croatia,c06,Veneer sheets,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-EUR,99,Iceland,c06,Veneer sheets,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-EUR,104,Ireland,c06,Veneer sheets,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.65
-EUR,106,Italy,c06,Veneer sheets,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-EUR,119,Latvia,c06,Veneer sheets,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-EUR,125,Liechtenstein,c06,Veneer sheets,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-EUR,126,Lithuania,c06,Veneer sheets,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-EUR,134,Malta,c06,Veneer sheets,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-EUR,146,Republic of Moldova,c06,Veneer sheets,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-EUR,150,Netherlands,c06,Veneer sheets,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-EUR,154,North Macedonia,c06,Veneer sheets,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-EUR,162,Norway,c06,Veneer sheets,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-EUR,167,Czechia,c06,Veneer sheets,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-EUR,173,Poland,c06,Veneer sheets,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.65
-EUR,174,Portugal,c06,Veneer sheets,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-EUR,183,Romania,c06,Veneer sheets,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-EUR,186,Serbia and Montenegro,c06,Veneer sheets,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-EUR,192,San Marino,c06,Veneer sheets,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-EUR,198,Slovenia,c06,Veneer sheets,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-EUR,199,Slovakia,c06,Veneer sheets,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.6
-EUR,203,Spain,c06,Veneer sheets,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-EUR,210,Sweden,c06,Veneer sheets,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-EUR,211,Switzerland,c06,Veneer sheets,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-EUR,223,Turkey,c06,Veneer sheets,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-EUR,229,United Kingdom,c06,Veneer sheets,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-EUR,230,Ukraine,c06,Veneer sheets,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-EUR,248,Yugoslav SFR,c06,Veneer sheets,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-EUR,255,Belgium,c06,Veneer sheets,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-EUR,256,Luxembourg,c06,Veneer sheets,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-EUR,272,Serbia,c06,Veneer sheets,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-EUR,273,Montenegro,c06,Veneer sheets,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-LAM,8,Antigua and Barbuda,c06,Veneer sheets,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-LAM,9,Argentina,c06,Veneer sheets,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-LAM,12,Bahamas,c06,Veneer sheets,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-LAM,14,Barbados,c06,Veneer sheets,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-LAM,17,Bermuda,c06,Veneer sheets,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-LAM,19,Bolivia (Plurinational State of),c06,Veneer sheets,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-LAM,21,Brazil,c06,Veneer sheets,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.47
-LAM,22,Aruba,c06,Veneer sheets,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-LAM,23,Belize,c06,Veneer sheets,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-LAM,36,Cayman Islands,c06,Veneer sheets,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-LAM,40,Chile,c06,Veneer sheets,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-LAM,44,Colombia,c06,Veneer sheets,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-LAM,48,Costa Rica,c06,Veneer sheets,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-LAM,49,Cuba,c06,Veneer sheets,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-LAM,55,Dominica,c06,Veneer sheets,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-LAM,56,Dominican Republic,c06,Veneer sheets,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-LAM,58,Ecuador,c06,Veneer sheets,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-LAM,60,El Salvador,c06,Veneer sheets,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-LAM,65,Falkland Islands (Malvinas),c06,Veneer sheets,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-LAM,69,French Guyana,c06,Veneer sheets,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-LAM,86,Grenada,c06,Veneer sheets,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-LAM,87,Guadeloupe,c06,Veneer sheets,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-LAM,89,Guatemala,c06,Veneer sheets,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-LAM,91,Guyana,c06,Veneer sheets,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.764
-LAM,93,Haiti,c06,Veneer sheets,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-LAM,95,Honduras,c06,Veneer sheets,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-LAM,109,Jamaica,c06,Veneer sheets,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-LAM,135,Martinique,c06,Veneer sheets,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-LAM,138,Mexico,c06,Veneer sheets,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.7
-LAM,142,Montserrat,c06,Veneer sheets,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-LAM,151,Netherlands Antilles,c06,Veneer sheets,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-LAM,157,Nicaragua,c06,Veneer sheets,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-LAM,166,Panama,c06,Veneer sheets,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-LAM,169,Paraguay,c06,Veneer sheets,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-LAM,170,Peru,c06,Veneer sheets,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-LAM,188,Saint Kitts and Nevis,c06,Veneer sheets,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-LAM,189,Saint Lucia,c06,Veneer sheets,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-LAM,191,Saint Vincent and the Grenadines,c06,Veneer sheets,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-LAM,207,Suriname,c06,Veneer sheets,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-LAM,220,Trinidad and Tobago,c06,Veneer sheets,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-LAM,224,Turks and Caicos Islands,c06,Veneer sheets,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-LAM,234,Uruguay,c06,Veneer sheets,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.545
-LAM,236,Venezuela (Bolivarian Republic of),c06,Veneer sheets,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-LAM,239,British Virgin Islands,c06,Veneer sheets,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-LAM,258,Anguilla,c06,Veneer sheets,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-LAM,279,Curaçao,c06,Veneer sheets,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-LAM,281,Saint-Martin (French Part),c06,Veneer sheets,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-NAM,33,Canada,c06,Veneer sheets,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-NAM,190,Saint Pierre and Miquelon,c06,Veneer sheets,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-NAM,231,United States of America,c06,Veneer sheets,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-OCE,5,American Samoa,c06,Veneer sheets,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-OCE,10,Australia,c06,Veneer sheets,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-OCE,25,Solomon Islands,c06,Veneer sheets,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-OCE,42,Christmas Island,c06,Veneer sheets,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-OCE,43,Cocos (Keeling) Islands,c06,Veneer sheets,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-OCE,47,Cook Islands,c06,Veneer sheets,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-OCE,66,Fiji,c06,Veneer sheets,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-OCE,70,French Polynesia,c06,Veneer sheets,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-OCE,71,French Southern and Antarctic Territories,c06,Veneer sheets,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-OCE,83,Kiribati,c06,Veneer sheets,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-OCE,88,Guam,c06,Veneer sheets,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-OCE,127,Marshall Islands,c06,Veneer sheets,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-OCE,145,Micronesia (Federated States of),c06,Veneer sheets,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-OCE,148,Nauru,c06,Veneer sheets,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-OCE,153,New Caledonia,c06,Veneer sheets,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-OCE,155,Vanuatu,c06,Veneer sheets,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-OCE,156,New Zealand,c06,Veneer sheets,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-OCE,160,Niue,c06,Veneer sheets,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-OCE,161,Norfolk Island,c06,Veneer sheets,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-OCE,163,Northern Mariana Islands,c06,Veneer sheets,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-OCE,168,Papua New Guinea,c06,Veneer sheets,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-OCE,172,Pitcairn Islands,c06,Veneer sheets,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-OCE,180,Palau,c06,Veneer sheets,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-OCE,218,Tokelau,c06,Veneer sheets,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-OCE,227,Tuvalu,c06,Veneer sheets,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-OCE,242,Wake Island,c06,Veneer sheets,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-OCE,243,Wallis and Futuna Islands,c06,Veneer sheets,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-OCE,244,Samoa,c06,Veneer sheets,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-ROW,999,RoW,c06,Veneer sheets,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-XXX,252,Unspecified Area,c06,Veneer sheets,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-XXX,254,Others (adjustment),c06,Veneer sheets,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-AFR,4,Algeria,c07,Plywood,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-AFR,7,Angola,c07,Plywood,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-AFR,20,Botswana,c07,Plywood,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-AFR,29,Burundi,c07,Plywood,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-AFR,32,Cameroon,c07,Plywood,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-AFR,35,Cabo Verde,c07,Plywood,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-AFR,37,Central African Republic,c07,Plywood,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-AFR,39,Chad,c07,Plywood,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-AFR,45,Comoros,c07,Plywood,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-AFR,46,Congo,c07,Plywood,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-AFR,53,Benin,c07,Plywood,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-AFR,59,Egypt,c07,Plywood,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-AFR,61,Equatorial Guinea,c07,Plywood,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-AFR,72,Djibouti,c07,Plywood,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-AFR,74,Gabon,c07,Plywood,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-AFR,75,Gambia,c07,Plywood,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-AFR,81,Ghana,c07,Plywood,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-AFR,90,Guinea,c07,Plywood,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-AFR,107,Cote d'Ivoire,c07,Plywood,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-AFR,114,Kenya,c07,Plywood,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-AFR,122,Lesotho,c07,Plywood,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-AFR,123,Liberia,c07,Plywood,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-AFR,124,Libya,c07,Plywood,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-AFR,129,Madagascar,c07,Plywood,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-AFR,130,Malawi,c07,Plywood,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-AFR,133,Mali,c07,Plywood,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-AFR,136,Mauritania,c07,Plywood,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-AFR,137,Mauritius,c07,Plywood,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-AFR,143,Morocco,c07,Plywood,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-AFR,144,Mozambique,c07,Plywood,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-AFR,147,Namibia,c07,Plywood,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-AFR,158,Niger,c07,Plywood,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-AFR,159,Nigeria,c07,Plywood,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-AFR,175,Guinea-Bissau,c07,Plywood,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-AFR,178,Eritrea,c07,Plywood,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-AFR,181,Zimbabwe,c07,Plywood,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-AFR,182,Reunion,c07,Plywood,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-AFR,184,Rwanda,c07,Plywood,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-AFR,187,"Saint Helena, Ascension and Tristan da Cunha",c07,Plywood,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-AFR,193,Sao Tome and Principe,c07,Plywood,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-AFR,195,Senegal,c07,Plywood,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-AFR,196,Seychelles,c07,Plywood,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-AFR,197,Sierra Leone,c07,Plywood,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-AFR,201,Somalia,c07,Plywood,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-AFR,202,South Africa,c07,Plywood,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-AFR,205,Western Sahara,c07,Plywood,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-AFR,209,Eswatini,c07,Plywood,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-AFR,215,United Republic of Tanzania,c07,Plywood,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-AFR,217,Togo,c07,Plywood,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-AFR,219,Tonga,c07,Plywood,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-AFR,222,Tunisia,c07,Plywood,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-AFR,226,Uganda,c07,Plywood,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-AFR,233,Burkina Faso,c07,Plywood,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-AFR,238,Ethiopia,c07,Plywood,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-AFR,250,Democratic Republic of the Congo,c07,Plywood,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-AFR,251,Zambia,c07,Plywood,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-AFR,270,Mayotte,c07,Plywood,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-AFR,276,Sudan,c07,Plywood,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-AFR,277,South Sudan,c07,Plywood,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-ASI,1,Armenia,c07,Plywood,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-ASI,2,Afghanistan,c07,Plywood,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-ASI,13,Bahrain,c07,Plywood,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-ASI,16,Bangladesh,c07,Plywood,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-ASI,18,Bhutan,c07,Plywood,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-ASI,24,British Indian Ocean Territory,c07,Plywood,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-ASI,26,Brunei Darussalam,c07,Plywood,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-ASI,28,Myanmar,c07,Plywood,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-ASI,38,Sri Lanka,c07,Plywood,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-ASI,41,"China, mainland",c07,Plywood,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-ASI,52,Azerbaijan,c07,Plywood,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-ASI,73,Georgia,c07,Plywood,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-ASI,96,"China, Hong Kong SAR",c07,Plywood,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-ASI,100,India,c07,Plywood,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-ASI,101,Indonesia,c07,Plywood,c01,"Industrial roundwood, coniferous",tonne/m3,0.62
-ASI,102,Iran (Islamic Republic of),c07,Plywood,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-ASI,103,Iraq,c07,Plywood,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-ASI,105,Israel,c07,Plywood,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-ASI,108,Kazakhstan,c07,Plywood,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-ASI,110,Japan,c07,Plywood,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-ASI,112,Jordan,c07,Plywood,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-ASI,113,Kyrgyzstan,c07,Plywood,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-ASI,115,Cambodia,c07,Plywood,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-ASI,116,Democratic People's Republic of Korea,c07,Plywood,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-ASI,117,Republic of Korea,c07,Plywood,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-ASI,118,Kuwait,c07,Plywood,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-ASI,120,Lao People's Democratic Republic,c07,Plywood,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-ASI,121,Lebanon,c07,Plywood,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-ASI,128,"China, Macao SAR",c07,Plywood,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-ASI,131,Malaysia,c07,Plywood,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-ASI,132,Maldives,c07,Plywood,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-ASI,141,Mongolia,c07,Plywood,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-ASI,149,Nepal,c07,Plywood,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-ASI,164,Pacific Islands Trust Territory,c07,Plywood,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-ASI,165,Pakistan,c07,Plywood,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-ASI,171,Philippines,c07,Plywood,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-ASI,176,Timor-Leste,c07,Plywood,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-ASI,179,Qatar,c07,Plywood,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-ASI,185,Russian Federation,c07,Plywood,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-ASI,194,Saudi Arabia,c07,Plywood,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-ASI,200,Singapore,c07,Plywood,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-ASI,208,Tajikistan,c07,Plywood,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-ASI,212,Syrian Arab Republic,c07,Plywood,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-ASI,213,Turkmenistan,c07,Plywood,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-ASI,214,"China, Taiwan Province of",c07,Plywood,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-ASI,216,Thailand,c07,Plywood,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-ASI,221,Oman,c07,Plywood,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-ASI,225,United Arab Emirates,c07,Plywood,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-ASI,228,USSR,c07,Plywood,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-ASI,235,Uzbekistan,c07,Plywood,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-ASI,237,Viet Nam,c07,Plywood,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-ASI,249,Yemen,c07,Plywood,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-ASI,299,Palestine,c07,Plywood,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-EUR,3,Albania,c07,Plywood,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-EUR,6,Andorra,c07,Plywood,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-EUR,11,Austria,c07,Plywood,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-EUR,15,Belgium-Luxembourg,c07,Plywood,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-EUR,27,Bulgaria,c07,Plywood,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-EUR,50,Cyprus,c07,Plywood,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-EUR,51,Czechoslovakia,c07,Plywood,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-EUR,54,Denmark,c07,Plywood,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-EUR,57,Belarus,c07,Plywood,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-EUR,63,Estonia,c07,Plywood,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-EUR,64,Faroe Islands,c07,Plywood,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-EUR,67,Finland,c07,Plywood,c01,"Industrial roundwood, coniferous",tonne/m3,0.535
-EUR,68,France,c07,Plywood,c01,"Industrial roundwood, coniferous",tonne/m3,0.55
-EUR,79,Germany,c07,Plywood,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-EUR,80,Bosnia and Herzegovina,c07,Plywood,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-EUR,82,Gibraltar,c07,Plywood,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-EUR,84,Greece,c07,Plywood,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-EUR,85,Greenland,c07,Plywood,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-EUR,94,Holy See,c07,Plywood,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-EUR,97,Hungary,c07,Plywood,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-EUR,98,Croatia,c07,Plywood,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-EUR,99,Iceland,c07,Plywood,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-EUR,104,Ireland,c07,Plywood,c01,"Industrial roundwood, coniferous",tonne/m3,0.65
-EUR,106,Italy,c07,Plywood,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-EUR,119,Latvia,c07,Plywood,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-EUR,125,Liechtenstein,c07,Plywood,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-EUR,126,Lithuania,c07,Plywood,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-EUR,134,Malta,c07,Plywood,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-EUR,146,Republic of Moldova,c07,Plywood,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-EUR,150,Netherlands,c07,Plywood,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-EUR,154,North Macedonia,c07,Plywood,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-EUR,162,Norway,c07,Plywood,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-EUR,167,Czechia,c07,Plywood,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-EUR,173,Poland,c07,Plywood,c01,"Industrial roundwood, coniferous",tonne/m3,0.65
-EUR,174,Portugal,c07,Plywood,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-EUR,183,Romania,c07,Plywood,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-EUR,186,Serbia and Montenegro,c07,Plywood,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-EUR,192,San Marino,c07,Plywood,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-EUR,198,Slovenia,c07,Plywood,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-EUR,199,Slovakia,c07,Plywood,c01,"Industrial roundwood, coniferous",tonne/m3,0.5
-EUR,203,Spain,c07,Plywood,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-EUR,210,Sweden,c07,Plywood,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-EUR,211,Switzerland,c07,Plywood,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-EUR,223,Turkey,c07,Plywood,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-EUR,229,United Kingdom,c07,Plywood,c01,"Industrial roundwood, coniferous",tonne/m3,0.649
-EUR,230,Ukraine,c07,Plywood,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-EUR,248,Yugoslav SFR,c07,Plywood,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-EUR,255,Belgium,c07,Plywood,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-EUR,256,Luxembourg,c07,Plywood,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-EUR,272,Serbia,c07,Plywood,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-EUR,273,Montenegro,c07,Plywood,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-LAM,8,Antigua and Barbuda,c07,Plywood,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-LAM,9,Argentina,c07,Plywood,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-LAM,12,Bahamas,c07,Plywood,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-LAM,14,Barbados,c07,Plywood,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-LAM,17,Bermuda,c07,Plywood,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-LAM,19,Bolivia (Plurinational State of),c07,Plywood,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-LAM,21,Brazil,c07,Plywood,c01,"Industrial roundwood, coniferous",tonne/m3,0.42
-LAM,22,Aruba,c07,Plywood,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-LAM,23,Belize,c07,Plywood,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-LAM,36,Cayman Islands,c07,Plywood,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-LAM,40,Chile,c07,Plywood,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-LAM,44,Colombia,c07,Plywood,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-LAM,48,Costa Rica,c07,Plywood,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-LAM,49,Cuba,c07,Plywood,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-LAM,55,Dominica,c07,Plywood,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-LAM,56,Dominican Republic,c07,Plywood,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-LAM,58,Ecuador,c07,Plywood,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-LAM,60,El Salvador,c07,Plywood,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-LAM,65,Falkland Islands (Malvinas),c07,Plywood,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-LAM,69,French Guyana,c07,Plywood,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-LAM,86,Grenada,c07,Plywood,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-LAM,87,Guadeloupe,c07,Plywood,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-LAM,89,Guatemala,c07,Plywood,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-LAM,91,Guyana,c07,Plywood,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-LAM,93,Haiti,c07,Plywood,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-LAM,95,Honduras,c07,Plywood,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-LAM,109,Jamaica,c07,Plywood,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-LAM,135,Martinique,c07,Plywood,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-LAM,138,Mexico,c07,Plywood,c01,"Industrial roundwood, coniferous",tonne/m3,0.55
-LAM,142,Montserrat,c07,Plywood,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-LAM,151,Netherlands Antilles,c07,Plywood,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-LAM,157,Nicaragua,c07,Plywood,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-LAM,166,Panama,c07,Plywood,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-LAM,169,Paraguay,c07,Plywood,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-LAM,170,Peru,c07,Plywood,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-LAM,188,Saint Kitts and Nevis,c07,Plywood,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-LAM,189,Saint Lucia,c07,Plywood,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-LAM,191,Saint Vincent and the Grenadines,c07,Plywood,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-LAM,207,Suriname,c07,Plywood,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-LAM,220,Trinidad and Tobago,c07,Plywood,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-LAM,224,Turks and Caicos Islands,c07,Plywood,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-LAM,234,Uruguay,c07,Plywood,c01,"Industrial roundwood, coniferous",tonne/m3,0.519
-LAM,236,Venezuela (Bolivarian Republic of),c07,Plywood,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-LAM,239,British Virgin Islands,c07,Plywood,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-LAM,258,Anguilla,c07,Plywood,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-LAM,279,Curaçao,c07,Plywood,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-LAM,281,Saint-Martin (French Part),c07,Plywood,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-NAM,33,Canada,c07,Plywood,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-NAM,190,Saint Pierre and Miquelon,c07,Plywood,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-NAM,231,United States of America,c07,Plywood,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-OCE,5,American Samoa,c07,Plywood,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-OCE,10,Australia,c07,Plywood,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-OCE,25,Solomon Islands,c07,Plywood,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-OCE,42,Christmas Island,c07,Plywood,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-OCE,43,Cocos (Keeling) Islands,c07,Plywood,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-OCE,47,Cook Islands,c07,Plywood,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-OCE,66,Fiji,c07,Plywood,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-OCE,70,French Polynesia,c07,Plywood,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-OCE,71,French Southern and Antarctic Territories,c07,Plywood,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-OCE,83,Kiribati,c07,Plywood,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-OCE,88,Guam,c07,Plywood,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-OCE,127,Marshall Islands,c07,Plywood,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-OCE,145,Micronesia (Federated States of),c07,Plywood,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-OCE,148,Nauru,c07,Plywood,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-OCE,153,New Caledonia,c07,Plywood,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-OCE,155,Vanuatu,c07,Plywood,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-OCE,156,New Zealand,c07,Plywood,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-OCE,160,Niue,c07,Plywood,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-OCE,161,Norfolk Island,c07,Plywood,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-OCE,163,Northern Mariana Islands,c07,Plywood,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-OCE,168,Papua New Guinea,c07,Plywood,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-OCE,172,Pitcairn Islands,c07,Plywood,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-OCE,180,Palau,c07,Plywood,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-OCE,218,Tokelau,c07,Plywood,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-OCE,227,Tuvalu,c07,Plywood,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-OCE,242,Wake Island,c07,Plywood,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-OCE,243,Wallis and Futuna Islands,c07,Plywood,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-OCE,244,Samoa,c07,Plywood,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-ROW,999,RoW,c07,Plywood,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-XXX,252,Unspecified Area,c07,Plywood,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-XXX,254,Others (adjustment),c07,Plywood,c01,"Industrial roundwood, coniferous",tonne/m3,0.568333333333333
-AFR,4,Algeria,c07,Plywood,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-AFR,7,Angola,c07,Plywood,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-AFR,20,Botswana,c07,Plywood,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-AFR,29,Burundi,c07,Plywood,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-AFR,32,Cameroon,c07,Plywood,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-AFR,35,Cabo Verde,c07,Plywood,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-AFR,37,Central African Republic,c07,Plywood,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-AFR,39,Chad,c07,Plywood,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-AFR,45,Comoros,c07,Plywood,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-AFR,46,Congo,c07,Plywood,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-AFR,53,Benin,c07,Plywood,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-AFR,59,Egypt,c07,Plywood,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-AFR,61,Equatorial Guinea,c07,Plywood,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-AFR,72,Djibouti,c07,Plywood,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-AFR,74,Gabon,c07,Plywood,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-AFR,75,Gambia,c07,Plywood,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-AFR,81,Ghana,c07,Plywood,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-AFR,90,Guinea,c07,Plywood,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-AFR,107,Cote d'Ivoire,c07,Plywood,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-AFR,114,Kenya,c07,Plywood,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-AFR,122,Lesotho,c07,Plywood,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-AFR,123,Liberia,c07,Plywood,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-AFR,124,Libya,c07,Plywood,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-AFR,129,Madagascar,c07,Plywood,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-AFR,130,Malawi,c07,Plywood,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-AFR,133,Mali,c07,Plywood,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-AFR,136,Mauritania,c07,Plywood,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-AFR,137,Mauritius,c07,Plywood,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-AFR,143,Morocco,c07,Plywood,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-AFR,144,Mozambique,c07,Plywood,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-AFR,147,Namibia,c07,Plywood,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-AFR,158,Niger,c07,Plywood,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-AFR,159,Nigeria,c07,Plywood,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-AFR,175,Guinea-Bissau,c07,Plywood,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-AFR,178,Eritrea,c07,Plywood,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-AFR,181,Zimbabwe,c07,Plywood,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-AFR,182,Reunion,c07,Plywood,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-AFR,184,Rwanda,c07,Plywood,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-AFR,187,"Saint Helena, Ascension and Tristan da Cunha",c07,Plywood,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-AFR,193,Sao Tome and Principe,c07,Plywood,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-AFR,195,Senegal,c07,Plywood,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-AFR,196,Seychelles,c07,Plywood,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-AFR,197,Sierra Leone,c07,Plywood,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-AFR,201,Somalia,c07,Plywood,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-AFR,202,South Africa,c07,Plywood,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-AFR,205,Western Sahara,c07,Plywood,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-AFR,209,Eswatini,c07,Plywood,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-AFR,215,United Republic of Tanzania,c07,Plywood,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-AFR,217,Togo,c07,Plywood,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-AFR,219,Tonga,c07,Plywood,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-AFR,222,Tunisia,c07,Plywood,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-AFR,226,Uganda,c07,Plywood,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-AFR,233,Burkina Faso,c07,Plywood,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-AFR,238,Ethiopia,c07,Plywood,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-AFR,250,Democratic Republic of the Congo,c07,Plywood,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-AFR,251,Zambia,c07,Plywood,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-AFR,270,Mayotte,c07,Plywood,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-AFR,276,Sudan,c07,Plywood,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-AFR,277,South Sudan,c07,Plywood,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-ASI,1,Armenia,c07,Plywood,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-ASI,2,Afghanistan,c07,Plywood,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-ASI,13,Bahrain,c07,Plywood,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-ASI,16,Bangladesh,c07,Plywood,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-ASI,18,Bhutan,c07,Plywood,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-ASI,24,British Indian Ocean Territory,c07,Plywood,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-ASI,26,Brunei Darussalam,c07,Plywood,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-ASI,28,Myanmar,c07,Plywood,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-ASI,38,Sri Lanka,c07,Plywood,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-ASI,41,"China, mainland",c07,Plywood,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-ASI,52,Azerbaijan,c07,Plywood,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-ASI,73,Georgia,c07,Plywood,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-ASI,96,"China, Hong Kong SAR",c07,Plywood,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-ASI,100,India,c07,Plywood,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-ASI,101,Indonesia,c07,Plywood,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.65
-ASI,102,Iran (Islamic Republic of),c07,Plywood,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-ASI,103,Iraq,c07,Plywood,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-ASI,105,Israel,c07,Plywood,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-ASI,108,Kazakhstan,c07,Plywood,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-ASI,110,Japan,c07,Plywood,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-ASI,112,Jordan,c07,Plywood,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-ASI,113,Kyrgyzstan,c07,Plywood,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-ASI,115,Cambodia,c07,Plywood,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-ASI,116,Democratic People's Republic of Korea,c07,Plywood,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-ASI,117,Republic of Korea,c07,Plywood,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-ASI,118,Kuwait,c07,Plywood,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-ASI,120,Lao People's Democratic Republic,c07,Plywood,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-ASI,121,Lebanon,c07,Plywood,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-ASI,128,"China, Macao SAR",c07,Plywood,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-ASI,131,Malaysia,c07,Plywood,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.65
-ASI,132,Maldives,c07,Plywood,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-ASI,141,Mongolia,c07,Plywood,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-ASI,149,Nepal,c07,Plywood,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-ASI,164,Pacific Islands Trust Territory,c07,Plywood,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-ASI,165,Pakistan,c07,Plywood,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-ASI,171,Philippines,c07,Plywood,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-ASI,176,Timor-Leste,c07,Plywood,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-ASI,179,Qatar,c07,Plywood,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-ASI,185,Russian Federation,c07,Plywood,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.65
-ASI,194,Saudi Arabia,c07,Plywood,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-ASI,200,Singapore,c07,Plywood,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-ASI,208,Tajikistan,c07,Plywood,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-ASI,212,Syrian Arab Republic,c07,Plywood,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-ASI,213,Turkmenistan,c07,Plywood,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-ASI,214,"China, Taiwan Province of",c07,Plywood,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-ASI,216,Thailand,c07,Plywood,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-ASI,221,Oman,c07,Plywood,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-ASI,225,United Arab Emirates,c07,Plywood,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-ASI,228,USSR,c07,Plywood,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-ASI,235,Uzbekistan,c07,Plywood,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-ASI,237,Viet Nam,c07,Plywood,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-ASI,249,Yemen,c07,Plywood,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-ASI,299,Palestine,c07,Plywood,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-EUR,3,Albania,c07,Plywood,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-EUR,6,Andorra,c07,Plywood,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-EUR,11,Austria,c07,Plywood,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-EUR,15,Belgium-Luxembourg,c07,Plywood,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-EUR,27,Bulgaria,c07,Plywood,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-EUR,50,Cyprus,c07,Plywood,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-EUR,51,Czechoslovakia,c07,Plywood,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-EUR,54,Denmark,c07,Plywood,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-EUR,57,Belarus,c07,Plywood,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-EUR,63,Estonia,c07,Plywood,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-EUR,64,Faroe Islands,c07,Plywood,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-EUR,67,Finland,c07,Plywood,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.68
-EUR,68,France,c07,Plywood,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-EUR,79,Germany,c07,Plywood,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-EUR,80,Bosnia and Herzegovina,c07,Plywood,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-EUR,82,Gibraltar,c07,Plywood,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-EUR,84,Greece,c07,Plywood,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-EUR,85,Greenland,c07,Plywood,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-EUR,94,Holy See,c07,Plywood,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-EUR,97,Hungary,c07,Plywood,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-EUR,98,Croatia,c07,Plywood,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-EUR,99,Iceland,c07,Plywood,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-EUR,104,Ireland,c07,Plywood,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.65
-EUR,106,Italy,c07,Plywood,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-EUR,119,Latvia,c07,Plywood,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-EUR,125,Liechtenstein,c07,Plywood,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-EUR,126,Lithuania,c07,Plywood,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-EUR,134,Malta,c07,Plywood,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-EUR,146,Republic of Moldova,c07,Plywood,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-EUR,150,Netherlands,c07,Plywood,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-EUR,154,North Macedonia,c07,Plywood,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-EUR,162,Norway,c07,Plywood,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-EUR,167,Czechia,c07,Plywood,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-EUR,173,Poland,c07,Plywood,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.65
-EUR,174,Portugal,c07,Plywood,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-EUR,183,Romania,c07,Plywood,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-EUR,186,Serbia and Montenegro,c07,Plywood,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-EUR,192,San Marino,c07,Plywood,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-EUR,198,Slovenia,c07,Plywood,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-EUR,199,Slovakia,c07,Plywood,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.6
-EUR,203,Spain,c07,Plywood,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-EUR,210,Sweden,c07,Plywood,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-EUR,211,Switzerland,c07,Plywood,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-EUR,223,Turkey,c07,Plywood,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-EUR,229,United Kingdom,c07,Plywood,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-EUR,230,Ukraine,c07,Plywood,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-EUR,248,Yugoslav SFR,c07,Plywood,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-EUR,255,Belgium,c07,Plywood,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-EUR,256,Luxembourg,c07,Plywood,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-EUR,272,Serbia,c07,Plywood,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-EUR,273,Montenegro,c07,Plywood,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-LAM,8,Antigua and Barbuda,c07,Plywood,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-LAM,9,Argentina,c07,Plywood,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-LAM,12,Bahamas,c07,Plywood,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-LAM,14,Barbados,c07,Plywood,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-LAM,17,Bermuda,c07,Plywood,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-LAM,19,Bolivia (Plurinational State of),c07,Plywood,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-LAM,21,Brazil,c07,Plywood,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.47
-LAM,22,Aruba,c07,Plywood,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-LAM,23,Belize,c07,Plywood,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-LAM,36,Cayman Islands,c07,Plywood,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-LAM,40,Chile,c07,Plywood,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-LAM,44,Colombia,c07,Plywood,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-LAM,48,Costa Rica,c07,Plywood,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-LAM,49,Cuba,c07,Plywood,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-LAM,55,Dominica,c07,Plywood,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-LAM,56,Dominican Republic,c07,Plywood,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-LAM,58,Ecuador,c07,Plywood,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-LAM,60,El Salvador,c07,Plywood,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-LAM,65,Falkland Islands (Malvinas),c07,Plywood,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-LAM,69,French Guyana,c07,Plywood,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-LAM,86,Grenada,c07,Plywood,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-LAM,87,Guadeloupe,c07,Plywood,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-LAM,89,Guatemala,c07,Plywood,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-LAM,91,Guyana,c07,Plywood,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.764
-LAM,93,Haiti,c07,Plywood,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-LAM,95,Honduras,c07,Plywood,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-LAM,109,Jamaica,c07,Plywood,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-LAM,135,Martinique,c07,Plywood,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-LAM,138,Mexico,c07,Plywood,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.7
-LAM,142,Montserrat,c07,Plywood,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-LAM,151,Netherlands Antilles,c07,Plywood,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-LAM,157,Nicaragua,c07,Plywood,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-LAM,166,Panama,c07,Plywood,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-LAM,169,Paraguay,c07,Plywood,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-LAM,170,Peru,c07,Plywood,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-LAM,188,Saint Kitts and Nevis,c07,Plywood,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-LAM,189,Saint Lucia,c07,Plywood,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-LAM,191,Saint Vincent and the Grenadines,c07,Plywood,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-LAM,207,Suriname,c07,Plywood,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-LAM,220,Trinidad and Tobago,c07,Plywood,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-LAM,224,Turks and Caicos Islands,c07,Plywood,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-LAM,234,Uruguay,c07,Plywood,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.545
-LAM,236,Venezuela (Bolivarian Republic of),c07,Plywood,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-LAM,239,British Virgin Islands,c07,Plywood,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-LAM,258,Anguilla,c07,Plywood,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-LAM,279,Curaçao,c07,Plywood,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-LAM,281,Saint-Martin (French Part),c07,Plywood,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-NAM,33,Canada,c07,Plywood,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-NAM,190,Saint Pierre and Miquelon,c07,Plywood,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-NAM,231,United States of America,c07,Plywood,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-OCE,5,American Samoa,c07,Plywood,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-OCE,10,Australia,c07,Plywood,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-OCE,25,Solomon Islands,c07,Plywood,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-OCE,42,Christmas Island,c07,Plywood,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-OCE,43,Cocos (Keeling) Islands,c07,Plywood,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-OCE,47,Cook Islands,c07,Plywood,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-OCE,66,Fiji,c07,Plywood,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-OCE,70,French Polynesia,c07,Plywood,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-OCE,71,French Southern and Antarctic Territories,c07,Plywood,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-OCE,83,Kiribati,c07,Plywood,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-OCE,88,Guam,c07,Plywood,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-OCE,127,Marshall Islands,c07,Plywood,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-OCE,145,Micronesia (Federated States of),c07,Plywood,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-OCE,148,Nauru,c07,Plywood,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-OCE,153,New Caledonia,c07,Plywood,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-OCE,155,Vanuatu,c07,Plywood,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-OCE,156,New Zealand,c07,Plywood,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-OCE,160,Niue,c07,Plywood,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-OCE,161,Norfolk Island,c07,Plywood,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-OCE,163,Northern Mariana Islands,c07,Plywood,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-OCE,168,Papua New Guinea,c07,Plywood,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-OCE,172,Pitcairn Islands,c07,Plywood,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-OCE,180,Palau,c07,Plywood,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-OCE,218,Tokelau,c07,Plywood,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-OCE,227,Tuvalu,c07,Plywood,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-OCE,242,Wake Island,c07,Plywood,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-OCE,243,Wallis and Futuna Islands,c07,Plywood,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-OCE,244,Samoa,c07,Plywood,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-ROW,999,RoW,c07,Plywood,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-XXX,252,Unspecified Area,c07,Plywood,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
-XXX,254,Others (adjustment),c07,Plywood,c02,"Industrial roundwood, non-coniferous",tonne/m3,0.638666666666667
+AFR,4,Algeria,c06,Veneer sheets,"","",tonne/m3,0.6035
+AFR,7,Angola,c06,Veneer sheets,"","",tonne/m3,0.6035
+AFR,20,Botswana,c06,Veneer sheets,"","",tonne/m3,0.6035
+AFR,29,Burundi,c06,Veneer sheets,"","",tonne/m3,0.6035
+AFR,32,Cameroon,c06,Veneer sheets,"","",tonne/m3,0.6035
+AFR,35,Cabo Verde,c06,Veneer sheets,"","",tonne/m3,0.6035
+AFR,37,Central African Republic,c06,Veneer sheets,"","",tonne/m3,0.6035
+AFR,39,Chad,c06,Veneer sheets,"","",tonne/m3,0.6035
+AFR,45,Comoros,c06,Veneer sheets,"","",tonne/m3,0.6035
+AFR,46,Congo,c06,Veneer sheets,"","",tonne/m3,0.6035
+AFR,53,Benin,c06,Veneer sheets,"","",tonne/m3,0.6035
+AFR,59,Egypt,c06,Veneer sheets,"","",tonne/m3,0.6035
+AFR,61,Equatorial Guinea,c06,Veneer sheets,"","",tonne/m3,0.6035
+AFR,72,Djibouti,c06,Veneer sheets,"","",tonne/m3,0.6035
+AFR,74,Gabon,c06,Veneer sheets,"","",tonne/m3,0.6035
+AFR,75,Gambia,c06,Veneer sheets,"","",tonne/m3,0.6035
+AFR,81,Ghana,c06,Veneer sheets,"","",tonne/m3,0.6035
+AFR,90,Guinea,c06,Veneer sheets,"","",tonne/m3,0.6035
+AFR,107,Cote d'Ivoire,c06,Veneer sheets,"","",tonne/m3,0.6035
+AFR,114,Kenya,c06,Veneer sheets,"","",tonne/m3,0.6035
+AFR,122,Lesotho,c06,Veneer sheets,"","",tonne/m3,0.6035
+AFR,123,Liberia,c06,Veneer sheets,"","",tonne/m3,0.6035
+AFR,124,Libya,c06,Veneer sheets,"","",tonne/m3,0.6035
+AFR,129,Madagascar,c06,Veneer sheets,"","",tonne/m3,0.6035
+AFR,130,Malawi,c06,Veneer sheets,"","",tonne/m3,0.6035
+AFR,133,Mali,c06,Veneer sheets,"","",tonne/m3,0.6035
+AFR,136,Mauritania,c06,Veneer sheets,"","",tonne/m3,0.6035
+AFR,137,Mauritius,c06,Veneer sheets,"","",tonne/m3,0.6035
+AFR,143,Morocco,c06,Veneer sheets,"","",tonne/m3,0.6035
+AFR,144,Mozambique,c06,Veneer sheets,"","",tonne/m3,0.6035
+AFR,147,Namibia,c06,Veneer sheets,"","",tonne/m3,0.6035
+AFR,158,Niger,c06,Veneer sheets,"","",tonne/m3,0.6035
+AFR,159,Nigeria,c06,Veneer sheets,"","",tonne/m3,0.6035
+AFR,175,Guinea-Bissau,c06,Veneer sheets,"","",tonne/m3,0.6035
+AFR,178,Eritrea,c06,Veneer sheets,"","",tonne/m3,0.6035
+AFR,181,Zimbabwe,c06,Veneer sheets,"","",tonne/m3,0.6035
+AFR,182,Reunion,c06,Veneer sheets,"","",tonne/m3,0.6035
+AFR,184,Rwanda,c06,Veneer sheets,"","",tonne/m3,0.6035
+AFR,187,"Saint Helena, Ascension and Tristan da Cunha",c06,Veneer sheets,"","",tonne/m3,0.6035
+AFR,193,Sao Tome and Principe,c06,Veneer sheets,"","",tonne/m3,0.6035
+AFR,195,Senegal,c06,Veneer sheets,"","",tonne/m3,0.6035
+AFR,196,Seychelles,c06,Veneer sheets,"","",tonne/m3,0.6035
+AFR,197,Sierra Leone,c06,Veneer sheets,"","",tonne/m3,0.6035
+AFR,201,Somalia,c06,Veneer sheets,"","",tonne/m3,0.6035
+AFR,202,South Africa,c06,Veneer sheets,"","",tonne/m3,0.6035
+AFR,205,Western Sahara,c06,Veneer sheets,"","",tonne/m3,0.6035
+AFR,209,Eswatini,c06,Veneer sheets,"","",tonne/m3,0.6035
+AFR,215,United Republic of Tanzania,c06,Veneer sheets,"","",tonne/m3,0.6035
+AFR,217,Togo,c06,Veneer sheets,"","",tonne/m3,0.6035
+AFR,219,Tonga,c06,Veneer sheets,"","",tonne/m3,0.6035
+AFR,222,Tunisia,c06,Veneer sheets,"","",tonne/m3,0.6035
+AFR,226,Uganda,c06,Veneer sheets,"","",tonne/m3,0.6035
+AFR,233,Burkina Faso,c06,Veneer sheets,"","",tonne/m3,0.6035
+AFR,238,Ethiopia,c06,Veneer sheets,"","",tonne/m3,0.6035
+AFR,250,Democratic Republic of the Congo,c06,Veneer sheets,"","",tonne/m3,0.6035
+AFR,251,Zambia,c06,Veneer sheets,"","",tonne/m3,0.6035
+AFR,270,Mayotte,c06,Veneer sheets,"","",tonne/m3,0.6035
+AFR,276,Sudan,c06,Veneer sheets,"","",tonne/m3,0.6035
+AFR,277,South Sudan,c06,Veneer sheets,"","",tonne/m3,0.6035
+ASI,1,Armenia,c06,Veneer sheets,"","",tonne/m3,0.6035
+ASI,2,Afghanistan,c06,Veneer sheets,"","",tonne/m3,0.6035
+ASI,13,Bahrain,c06,Veneer sheets,"","",tonne/m3,0.6035
+ASI,16,Bangladesh,c06,Veneer sheets,"","",tonne/m3,0.6035
+ASI,18,Bhutan,c06,Veneer sheets,"","",tonne/m3,0.6035
+ASI,24,British Indian Ocean Territory,c06,Veneer sheets,"","",tonne/m3,0.6035
+ASI,26,Brunei Darussalam,c06,Veneer sheets,"","",tonne/m3,0.6035
+ASI,28,Myanmar,c06,Veneer sheets,"","",tonne/m3,0.6035
+ASI,38,Sri Lanka,c06,Veneer sheets,"","",tonne/m3,0.6035
+ASI,41,"China, mainland",c06,Veneer sheets,"","",tonne/m3,0.6035
+ASI,52,Azerbaijan,c06,Veneer sheets,"","",tonne/m3,0.6035
+ASI,73,Georgia,c06,Veneer sheets,"","",tonne/m3,0.6035
+ASI,96,"China, Hong Kong SAR",c06,Veneer sheets,"","",tonne/m3,0.6035
+ASI,100,India,c06,Veneer sheets,"","",tonne/m3,0.6035
+ASI,101,Indonesia,c06,Veneer sheets,"","",tonne/m3,0.635
+ASI,102,Iran (Islamic Republic of),c06,Veneer sheets,"","",tonne/m3,0.6035
+ASI,103,Iraq,c06,Veneer sheets,"","",tonne/m3,0.6035
+ASI,105,Israel,c06,Veneer sheets,"","",tonne/m3,0.6035
+ASI,108,Kazakhstan,c06,Veneer sheets,"","",tonne/m3,0.6035
+ASI,110,Japan,c06,Veneer sheets,"","",tonne/m3,0.6035
+ASI,112,Jordan,c06,Veneer sheets,"","",tonne/m3,0.6035
+ASI,113,Kyrgyzstan,c06,Veneer sheets,"","",tonne/m3,0.6035
+ASI,115,Cambodia,c06,Veneer sheets,"","",tonne/m3,0.6035
+ASI,116,Democratic People's Republic of Korea,c06,Veneer sheets,"","",tonne/m3,0.6035
+ASI,117,Republic of Korea,c06,Veneer sheets,"","",tonne/m3,0.6035
+ASI,118,Kuwait,c06,Veneer sheets,"","",tonne/m3,0.6035
+ASI,120,Lao People's Democratic Republic,c06,Veneer sheets,"","",tonne/m3,0.6035
+ASI,121,Lebanon,c06,Veneer sheets,"","",tonne/m3,0.6035
+ASI,128,"China, Macao SAR",c06,Veneer sheets,"","",tonne/m3,0.6035
+ASI,131,Malaysia,c06,Veneer sheets,"","",tonne/m3,0.325
+ASI,132,Maldives,c06,Veneer sheets,"","",tonne/m3,0.6035
+ASI,141,Mongolia,c06,Veneer sheets,"","",tonne/m3,0.6035
+ASI,149,Nepal,c06,Veneer sheets,"","",tonne/m3,0.6035
+ASI,164,Pacific Islands Trust Territory,c06,Veneer sheets,"","",tonne/m3,0.6035
+ASI,165,Pakistan,c06,Veneer sheets,"","",tonne/m3,0.6035
+ASI,171,Philippines,c06,Veneer sheets,"","",tonne/m3,0.6035
+ASI,176,Timor-Leste,c06,Veneer sheets,"","",tonne/m3,0.6035
+ASI,179,Qatar,c06,Veneer sheets,"","",tonne/m3,0.6035
+ASI,185,Russian Federation,c06,Veneer sheets,"","",tonne/m3,0.325
+ASI,194,Saudi Arabia,c06,Veneer sheets,"","",tonne/m3,0.6035
+ASI,200,Singapore,c06,Veneer sheets,"","",tonne/m3,0.6035
+ASI,208,Tajikistan,c06,Veneer sheets,"","",tonne/m3,0.6035
+ASI,212,Syrian Arab Republic,c06,Veneer sheets,"","",tonne/m3,0.6035
+ASI,213,Turkmenistan,c06,Veneer sheets,"","",tonne/m3,0.6035
+ASI,214,"China, Taiwan Province of",c06,Veneer sheets,"","",tonne/m3,0.6035
+ASI,216,Thailand,c06,Veneer sheets,"","",tonne/m3,0.6035
+ASI,221,Oman,c06,Veneer sheets,"","",tonne/m3,0.6035
+ASI,225,United Arab Emirates,c06,Veneer sheets,"","",tonne/m3,0.6035
+ASI,228,USSR,c06,Veneer sheets,"","",tonne/m3,0.6035
+ASI,235,Uzbekistan,c06,Veneer sheets,"","",tonne/m3,0.6035
+ASI,237,Viet Nam,c06,Veneer sheets,"","",tonne/m3,0.6035
+ASI,249,Yemen,c06,Veneer sheets,"","",tonne/m3,0.6035
+ASI,299,Palestine,c06,Veneer sheets,"","",tonne/m3,0.6035
+EUR,3,Albania,c06,Veneer sheets,"","",tonne/m3,0.6035
+EUR,6,Andorra,c06,Veneer sheets,"","",tonne/m3,0.6035
+EUR,11,Austria,c06,Veneer sheets,"","",tonne/m3,0.6035
+EUR,15,Belgium-Luxembourg,c06,Veneer sheets,"","",tonne/m3,0.6035
+EUR,27,Bulgaria,c06,Veneer sheets,"","",tonne/m3,0.6035
+EUR,50,Cyprus,c06,Veneer sheets,"","",tonne/m3,0.6035
+EUR,51,Czechoslovakia,c06,Veneer sheets,"","",tonne/m3,0.6035
+EUR,54,Denmark,c06,Veneer sheets,"","",tonne/m3,0.6035
+EUR,57,Belarus,c06,Veneer sheets,"","",tonne/m3,0.6035
+EUR,63,Estonia,c06,Veneer sheets,"","",tonne/m3,0.6035
+EUR,64,Faroe Islands,c06,Veneer sheets,"","",tonne/m3,0.6035
+EUR,67,Finland,c06,Veneer sheets,"","",tonne/m3,0.6075
+EUR,68,France,c06,Veneer sheets,"","",tonne/m3,0.275
+EUR,79,Germany,c06,Veneer sheets,"","",tonne/m3,0.6035
+EUR,80,Bosnia and Herzegovina,c06,Veneer sheets,"","",tonne/m3,0.6035
+EUR,82,Gibraltar,c06,Veneer sheets,"","",tonne/m3,0.6035
+EUR,84,Greece,c06,Veneer sheets,"","",tonne/m3,0.6035
+EUR,85,Greenland,c06,Veneer sheets,"","",tonne/m3,0.6035
+EUR,94,Holy See,c06,Veneer sheets,"","",tonne/m3,0.6035
+EUR,97,Hungary,c06,Veneer sheets,"","",tonne/m3,0.6035
+EUR,98,Croatia,c06,Veneer sheets,"","",tonne/m3,0.6035
+EUR,99,Iceland,c06,Veneer sheets,"","",tonne/m3,0.6035
+EUR,104,Ireland,c06,Veneer sheets,"","",tonne/m3,0.65
+EUR,106,Italy,c06,Veneer sheets,"","",tonne/m3,0.6035
+EUR,119,Latvia,c06,Veneer sheets,"","",tonne/m3,0.6035
+EUR,125,Liechtenstein,c06,Veneer sheets,"","",tonne/m3,0.6035
+EUR,126,Lithuania,c06,Veneer sheets,"","",tonne/m3,0.6035
+EUR,134,Malta,c06,Veneer sheets,"","",tonne/m3,0.6035
+EUR,146,Republic of Moldova,c06,Veneer sheets,"","",tonne/m3,0.6035
+EUR,150,Netherlands,c06,Veneer sheets,"","",tonne/m3,0.6035
+EUR,154,North Macedonia,c06,Veneer sheets,"","",tonne/m3,0.6035
+EUR,162,Norway,c06,Veneer sheets,"","",tonne/m3,0.6035
+EUR,167,Czechia,c06,Veneer sheets,"","",tonne/m3,0.6035
+EUR,173,Poland,c06,Veneer sheets,"","",tonne/m3,0.65
+EUR,174,Portugal,c06,Veneer sheets,"","",tonne/m3,0.6035
+EUR,183,Romania,c06,Veneer sheets,"","",tonne/m3,0.6035
+EUR,186,Serbia and Montenegro,c06,Veneer sheets,"","",tonne/m3,0.6035
+EUR,192,San Marino,c06,Veneer sheets,"","",tonne/m3,0.6035
+EUR,198,Slovenia,c06,Veneer sheets,"","",tonne/m3,0.6035
+EUR,199,Slovakia,c06,Veneer sheets,"","",tonne/m3,0.55
+EUR,203,Spain,c06,Veneer sheets,"","",tonne/m3,0.6035
+EUR,210,Sweden,c06,Veneer sheets,"","",tonne/m3,0.6035
+EUR,211,Switzerland,c06,Veneer sheets,"","",tonne/m3,0.6035
+EUR,223,Turkey,c06,Veneer sheets,"","",tonne/m3,0.6035
+EUR,229,United Kingdom,c06,Veneer sheets,"","",tonne/m3,0.3245
+EUR,230,Ukraine,c06,Veneer sheets,"","",tonne/m3,0.6035
+EUR,248,Yugoslav SFR,c06,Veneer sheets,"","",tonne/m3,0.6035
+EUR,255,Belgium,c06,Veneer sheets,"","",tonne/m3,0.6035
+EUR,256,Luxembourg,c06,Veneer sheets,"","",tonne/m3,0.6035
+EUR,272,Serbia,c06,Veneer sheets,"","",tonne/m3,0.6035
+EUR,273,Montenegro,c06,Veneer sheets,"","",tonne/m3,0.6035
+LAM,8,Antigua and Barbuda,c06,Veneer sheets,"","",tonne/m3,0.6035
+LAM,9,Argentina,c06,Veneer sheets,"","",tonne/m3,0.6035
+LAM,12,Bahamas,c06,Veneer sheets,"","",tonne/m3,0.6035
+LAM,14,Barbados,c06,Veneer sheets,"","",tonne/m3,0.6035
+LAM,17,Bermuda,c06,Veneer sheets,"","",tonne/m3,0.6035
+LAM,19,Bolivia (Plurinational State of),c06,Veneer sheets,"","",tonne/m3,0.6035
+LAM,21,Brazil,c06,Veneer sheets,"","",tonne/m3,0.445
+LAM,22,Aruba,c06,Veneer sheets,"","",tonne/m3,0.6035
+LAM,23,Belize,c06,Veneer sheets,"","",tonne/m3,0.6035
+LAM,36,Cayman Islands,c06,Veneer sheets,"","",tonne/m3,0.6035
+LAM,40,Chile,c06,Veneer sheets,"","",tonne/m3,0.6035
+LAM,44,Colombia,c06,Veneer sheets,"","",tonne/m3,0.6035
+LAM,48,Costa Rica,c06,Veneer sheets,"","",tonne/m3,0.6035
+LAM,49,Cuba,c06,Veneer sheets,"","",tonne/m3,0.6035
+LAM,55,Dominica,c06,Veneer sheets,"","",tonne/m3,0.6035
+LAM,56,Dominican Republic,c06,Veneer sheets,"","",tonne/m3,0.6035
+LAM,58,Ecuador,c06,Veneer sheets,"","",tonne/m3,0.6035
+LAM,60,El Salvador,c06,Veneer sheets,"","",tonne/m3,0.6035
+LAM,65,Falkland Islands (Malvinas),c06,Veneer sheets,"","",tonne/m3,0.6035
+LAM,69,French Guyana,c06,Veneer sheets,"","",tonne/m3,0.6035
+LAM,86,Grenada,c06,Veneer sheets,"","",tonne/m3,0.6035
+LAM,87,Guadeloupe,c06,Veneer sheets,"","",tonne/m3,0.6035
+LAM,89,Guatemala,c06,Veneer sheets,"","",tonne/m3,0.6035
+LAM,91,Guyana,c06,Veneer sheets,"","",tonne/m3,0.382
+LAM,93,Haiti,c06,Veneer sheets,"","",tonne/m3,0.6035
+LAM,95,Honduras,c06,Veneer sheets,"","",tonne/m3,0.6035
+LAM,109,Jamaica,c06,Veneer sheets,"","",tonne/m3,0.6035
+LAM,135,Martinique,c06,Veneer sheets,"","",tonne/m3,0.6035
+LAM,138,Mexico,c06,Veneer sheets,"","",tonne/m3,0.625
+LAM,142,Montserrat,c06,Veneer sheets,"","",tonne/m3,0.6035
+LAM,151,Netherlands Antilles,c06,Veneer sheets,"","",tonne/m3,0.6035
+LAM,157,Nicaragua,c06,Veneer sheets,"","",tonne/m3,0.6035
+LAM,166,Panama,c06,Veneer sheets,"","",tonne/m3,0.6035
+LAM,169,Paraguay,c06,Veneer sheets,"","",tonne/m3,0.6035
+LAM,170,Peru,c06,Veneer sheets,"","",tonne/m3,0.6035
+LAM,188,Saint Kitts and Nevis,c06,Veneer sheets,"","",tonne/m3,0.6035
+LAM,189,Saint Lucia,c06,Veneer sheets,"","",tonne/m3,0.6035
+LAM,191,Saint Vincent and the Grenadines,c06,Veneer sheets,"","",tonne/m3,0.6035
+LAM,207,Suriname,c06,Veneer sheets,"","",tonne/m3,0.6035
+LAM,220,Trinidad and Tobago,c06,Veneer sheets,"","",tonne/m3,0.6035
+LAM,224,Turks and Caicos Islands,c06,Veneer sheets,"","",tonne/m3,0.6035
+LAM,234,Uruguay,c06,Veneer sheets,"","",tonne/m3,0.532
+LAM,236,Venezuela (Bolivarian Republic of),c06,Veneer sheets,"","",tonne/m3,0.6035
+LAM,239,British Virgin Islands,c06,Veneer sheets,"","",tonne/m3,0.6035
+LAM,258,Anguilla,c06,Veneer sheets,"","",tonne/m3,0.6035
+LAM,279,Curaçao,c06,Veneer sheets,"","",tonne/m3,0.6035
+LAM,281,Saint-Martin (French Part),c06,Veneer sheets,"","",tonne/m3,0.6035
+NAM,33,Canada,c06,Veneer sheets,"","",tonne/m3,0.6035
+NAM,190,Saint Pierre and Miquelon,c06,Veneer sheets,"","",tonne/m3,0.6035
+NAM,231,United States of America,c06,Veneer sheets,"","",tonne/m3,0.6035
+OCE,5,American Samoa,c06,Veneer sheets,"","",tonne/m3,0.6035
+OCE,10,Australia,c06,Veneer sheets,"","",tonne/m3,0.6035
+OCE,25,Solomon Islands,c06,Veneer sheets,"","",tonne/m3,0.6035
+OCE,42,Christmas Island,c06,Veneer sheets,"","",tonne/m3,0.6035
+OCE,43,Cocos (Keeling) Islands,c06,Veneer sheets,"","",tonne/m3,0.6035
+OCE,47,Cook Islands,c06,Veneer sheets,"","",tonne/m3,0.6035
+OCE,66,Fiji,c06,Veneer sheets,"","",tonne/m3,0.6035
+OCE,70,French Polynesia,c06,Veneer sheets,"","",tonne/m3,0.6035
+OCE,71,French Southern and Antarctic Territories,c06,Veneer sheets,"","",tonne/m3,0.6035
+OCE,83,Kiribati,c06,Veneer sheets,"","",tonne/m3,0.6035
+OCE,88,Guam,c06,Veneer sheets,"","",tonne/m3,0.6035
+OCE,127,Marshall Islands,c06,Veneer sheets,"","",tonne/m3,0.6035
+OCE,145,Micronesia (Federated States of),c06,Veneer sheets,"","",tonne/m3,0.6035
+OCE,148,Nauru,c06,Veneer sheets,"","",tonne/m3,0.6035
+OCE,153,New Caledonia,c06,Veneer sheets,"","",tonne/m3,0.6035
+OCE,155,Vanuatu,c06,Veneer sheets,"","",tonne/m3,0.6035
+OCE,156,New Zealand,c06,Veneer sheets,"","",tonne/m3,0.6035
+OCE,160,Niue,c06,Veneer sheets,"","",tonne/m3,0.6035
+OCE,161,Norfolk Island,c06,Veneer sheets,"","",tonne/m3,0.6035
+OCE,163,Northern Mariana Islands,c06,Veneer sheets,"","",tonne/m3,0.6035
+OCE,168,Papua New Guinea,c06,Veneer sheets,"","",tonne/m3,0.6035
+OCE,172,Pitcairn Islands,c06,Veneer sheets,"","",tonne/m3,0.6035
+OCE,180,Palau,c06,Veneer sheets,"","",tonne/m3,0.6035
+OCE,218,Tokelau,c06,Veneer sheets,"","",tonne/m3,0.6035
+OCE,227,Tuvalu,c06,Veneer sheets,"","",tonne/m3,0.6035
+OCE,242,Wake Island,c06,Veneer sheets,"","",tonne/m3,0.6035
+OCE,243,Wallis and Futuna Islands,c06,Veneer sheets,"","",tonne/m3,0.6035
+OCE,244,Samoa,c06,Veneer sheets,"","",tonne/m3,0.6035
+ROW,999,RoW,c06,Veneer sheets,"","",tonne/m3,0.6035
+XXX,252,Unspecified Area,c06,Veneer sheets,"","",tonne/m3,0.6035
+XXX,254,Others (adjustment),c06,Veneer sheets,"","",tonne/m3,0.6035
+AFR,4,Algeria,c07,Plywood,"","",tonne/m3,0.6035
+AFR,7,Angola,c07,Plywood,"","",tonne/m3,0.6035
+AFR,20,Botswana,c07,Plywood,"","",tonne/m3,0.6035
+AFR,29,Burundi,c07,Plywood,"","",tonne/m3,0.6035
+AFR,32,Cameroon,c07,Plywood,"","",tonne/m3,0.6035
+AFR,35,Cabo Verde,c07,Plywood,"","",tonne/m3,0.6035
+AFR,37,Central African Republic,c07,Plywood,"","",tonne/m3,0.6035
+AFR,39,Chad,c07,Plywood,"","",tonne/m3,0.6035
+AFR,45,Comoros,c07,Plywood,"","",tonne/m3,0.6035
+AFR,46,Congo,c07,Plywood,"","",tonne/m3,0.6035
+AFR,53,Benin,c07,Plywood,"","",tonne/m3,0.6035
+AFR,59,Egypt,c07,Plywood,"","",tonne/m3,0.6035
+AFR,61,Equatorial Guinea,c07,Plywood,"","",tonne/m3,0.6035
+AFR,72,Djibouti,c07,Plywood,"","",tonne/m3,0.6035
+AFR,74,Gabon,c07,Plywood,"","",tonne/m3,0.6035
+AFR,75,Gambia,c07,Plywood,"","",tonne/m3,0.6035
+AFR,81,Ghana,c07,Plywood,"","",tonne/m3,0.6035
+AFR,90,Guinea,c07,Plywood,"","",tonne/m3,0.6035
+AFR,107,Cote d'Ivoire,c07,Plywood,"","",tonne/m3,0.6035
+AFR,114,Kenya,c07,Plywood,"","",tonne/m3,0.6035
+AFR,122,Lesotho,c07,Plywood,"","",tonne/m3,0.6035
+AFR,123,Liberia,c07,Plywood,"","",tonne/m3,0.6035
+AFR,124,Libya,c07,Plywood,"","",tonne/m3,0.6035
+AFR,129,Madagascar,c07,Plywood,"","",tonne/m3,0.6035
+AFR,130,Malawi,c07,Plywood,"","",tonne/m3,0.6035
+AFR,133,Mali,c07,Plywood,"","",tonne/m3,0.6035
+AFR,136,Mauritania,c07,Plywood,"","",tonne/m3,0.6035
+AFR,137,Mauritius,c07,Plywood,"","",tonne/m3,0.6035
+AFR,143,Morocco,c07,Plywood,"","",tonne/m3,0.6035
+AFR,144,Mozambique,c07,Plywood,"","",tonne/m3,0.6035
+AFR,147,Namibia,c07,Plywood,"","",tonne/m3,0.6035
+AFR,158,Niger,c07,Plywood,"","",tonne/m3,0.6035
+AFR,159,Nigeria,c07,Plywood,"","",tonne/m3,0.6035
+AFR,175,Guinea-Bissau,c07,Plywood,"","",tonne/m3,0.6035
+AFR,178,Eritrea,c07,Plywood,"","",tonne/m3,0.6035
+AFR,181,Zimbabwe,c07,Plywood,"","",tonne/m3,0.6035
+AFR,182,Reunion,c07,Plywood,"","",tonne/m3,0.6035
+AFR,184,Rwanda,c07,Plywood,"","",tonne/m3,0.6035
+AFR,187,"Saint Helena, Ascension and Tristan da Cunha",c07,Plywood,"","",tonne/m3,0.6035
+AFR,193,Sao Tome and Principe,c07,Plywood,"","",tonne/m3,0.6035
+AFR,195,Senegal,c07,Plywood,"","",tonne/m3,0.6035
+AFR,196,Seychelles,c07,Plywood,"","",tonne/m3,0.6035
+AFR,197,Sierra Leone,c07,Plywood,"","",tonne/m3,0.6035
+AFR,201,Somalia,c07,Plywood,"","",tonne/m3,0.6035
+AFR,202,South Africa,c07,Plywood,"","",tonne/m3,0.6035
+AFR,205,Western Sahara,c07,Plywood,"","",tonne/m3,0.6035
+AFR,209,Eswatini,c07,Plywood,"","",tonne/m3,0.6035
+AFR,215,United Republic of Tanzania,c07,Plywood,"","",tonne/m3,0.6035
+AFR,217,Togo,c07,Plywood,"","",tonne/m3,0.6035
+AFR,219,Tonga,c07,Plywood,"","",tonne/m3,0.6035
+AFR,222,Tunisia,c07,Plywood,"","",tonne/m3,0.6035
+AFR,226,Uganda,c07,Plywood,"","",tonne/m3,0.6035
+AFR,233,Burkina Faso,c07,Plywood,"","",tonne/m3,0.6035
+AFR,238,Ethiopia,c07,Plywood,"","",tonne/m3,0.6035
+AFR,250,Democratic Republic of the Congo,c07,Plywood,"","",tonne/m3,0.6035
+AFR,251,Zambia,c07,Plywood,"","",tonne/m3,0.6035
+AFR,270,Mayotte,c07,Plywood,"","",tonne/m3,0.6035
+AFR,276,Sudan,c07,Plywood,"","",tonne/m3,0.6035
+AFR,277,South Sudan,c07,Plywood,"","",tonne/m3,0.6035
+ASI,1,Armenia,c07,Plywood,"","",tonne/m3,0.6035
+ASI,2,Afghanistan,c07,Plywood,"","",tonne/m3,0.6035
+ASI,13,Bahrain,c07,Plywood,"","",tonne/m3,0.6035
+ASI,16,Bangladesh,c07,Plywood,"","",tonne/m3,0.6035
+ASI,18,Bhutan,c07,Plywood,"","",tonne/m3,0.6035
+ASI,24,British Indian Ocean Territory,c07,Plywood,"","",tonne/m3,0.6035
+ASI,26,Brunei Darussalam,c07,Plywood,"","",tonne/m3,0.6035
+ASI,28,Myanmar,c07,Plywood,"","",tonne/m3,0.6035
+ASI,38,Sri Lanka,c07,Plywood,"","",tonne/m3,0.6035
+ASI,41,"China, mainland",c07,Plywood,"","",tonne/m3,0.6035
+ASI,52,Azerbaijan,c07,Plywood,"","",tonne/m3,0.6035
+ASI,73,Georgia,c07,Plywood,"","",tonne/m3,0.6035
+ASI,96,"China, Hong Kong SAR",c07,Plywood,"","",tonne/m3,0.6035
+ASI,100,India,c07,Plywood,"","",tonne/m3,0.6035
+ASI,101,Indonesia,c07,Plywood,"","",tonne/m3,0.635
+ASI,102,Iran (Islamic Republic of),c07,Plywood,"","",tonne/m3,0.6035
+ASI,103,Iraq,c07,Plywood,"","",tonne/m3,0.6035
+ASI,105,Israel,c07,Plywood,"","",tonne/m3,0.6035
+ASI,108,Kazakhstan,c07,Plywood,"","",tonne/m3,0.6035
+ASI,110,Japan,c07,Plywood,"","",tonne/m3,0.6035
+ASI,112,Jordan,c07,Plywood,"","",tonne/m3,0.6035
+ASI,113,Kyrgyzstan,c07,Plywood,"","",tonne/m3,0.6035
+ASI,115,Cambodia,c07,Plywood,"","",tonne/m3,0.6035
+ASI,116,Democratic People's Republic of Korea,c07,Plywood,"","",tonne/m3,0.6035
+ASI,117,Republic of Korea,c07,Plywood,"","",tonne/m3,0.6035
+ASI,118,Kuwait,c07,Plywood,"","",tonne/m3,0.6035
+ASI,120,Lao People's Democratic Republic,c07,Plywood,"","",tonne/m3,0.6035
+ASI,121,Lebanon,c07,Plywood,"","",tonne/m3,0.6035
+ASI,128,"China, Macao SAR",c07,Plywood,"","",tonne/m3,0.6035
+ASI,131,Malaysia,c07,Plywood,"","",tonne/m3,0.325
+ASI,132,Maldives,c07,Plywood,"","",tonne/m3,0.6035
+ASI,141,Mongolia,c07,Plywood,"","",tonne/m3,0.6035
+ASI,149,Nepal,c07,Plywood,"","",tonne/m3,0.6035
+ASI,164,Pacific Islands Trust Territory,c07,Plywood,"","",tonne/m3,0.6035
+ASI,165,Pakistan,c07,Plywood,"","",tonne/m3,0.6035
+ASI,171,Philippines,c07,Plywood,"","",tonne/m3,0.6035
+ASI,176,Timor-Leste,c07,Plywood,"","",tonne/m3,0.6035
+ASI,179,Qatar,c07,Plywood,"","",tonne/m3,0.6035
+ASI,185,Russian Federation,c07,Plywood,"","",tonne/m3,0.325
+ASI,194,Saudi Arabia,c07,Plywood,"","",tonne/m3,0.6035
+ASI,200,Singapore,c07,Plywood,"","",tonne/m3,0.6035
+ASI,208,Tajikistan,c07,Plywood,"","",tonne/m3,0.6035
+ASI,212,Syrian Arab Republic,c07,Plywood,"","",tonne/m3,0.6035
+ASI,213,Turkmenistan,c07,Plywood,"","",tonne/m3,0.6035
+ASI,214,"China, Taiwan Province of",c07,Plywood,"","",tonne/m3,0.6035
+ASI,216,Thailand,c07,Plywood,"","",tonne/m3,0.6035
+ASI,221,Oman,c07,Plywood,"","",tonne/m3,0.6035
+ASI,225,United Arab Emirates,c07,Plywood,"","",tonne/m3,0.6035
+ASI,228,USSR,c07,Plywood,"","",tonne/m3,0.6035
+ASI,235,Uzbekistan,c07,Plywood,"","",tonne/m3,0.6035
+ASI,237,Viet Nam,c07,Plywood,"","",tonne/m3,0.6035
+ASI,249,Yemen,c07,Plywood,"","",tonne/m3,0.6035
+ASI,299,Palestine,c07,Plywood,"","",tonne/m3,0.6035
+EUR,3,Albania,c07,Plywood,"","",tonne/m3,0.6035
+EUR,6,Andorra,c07,Plywood,"","",tonne/m3,0.6035
+EUR,11,Austria,c07,Plywood,"","",tonne/m3,0.6035
+EUR,15,Belgium-Luxembourg,c07,Plywood,"","",tonne/m3,0.6035
+EUR,27,Bulgaria,c07,Plywood,"","",tonne/m3,0.6035
+EUR,50,Cyprus,c07,Plywood,"","",tonne/m3,0.6035
+EUR,51,Czechoslovakia,c07,Plywood,"","",tonne/m3,0.6035
+EUR,54,Denmark,c07,Plywood,"","",tonne/m3,0.6035
+EUR,57,Belarus,c07,Plywood,"","",tonne/m3,0.6035
+EUR,63,Estonia,c07,Plywood,"","",tonne/m3,0.6035
+EUR,64,Faroe Islands,c07,Plywood,"","",tonne/m3,0.6035
+EUR,67,Finland,c07,Plywood,"","",tonne/m3,0.6075
+EUR,68,France,c07,Plywood,"","",tonne/m3,0.275
+EUR,79,Germany,c07,Plywood,"","",tonne/m3,0.6035
+EUR,80,Bosnia and Herzegovina,c07,Plywood,"","",tonne/m3,0.6035
+EUR,82,Gibraltar,c07,Plywood,"","",tonne/m3,0.6035
+EUR,84,Greece,c07,Plywood,"","",tonne/m3,0.6035
+EUR,85,Greenland,c07,Plywood,"","",tonne/m3,0.6035
+EUR,94,Holy See,c07,Plywood,"","",tonne/m3,0.6035
+EUR,97,Hungary,c07,Plywood,"","",tonne/m3,0.6035
+EUR,98,Croatia,c07,Plywood,"","",tonne/m3,0.6035
+EUR,99,Iceland,c07,Plywood,"","",tonne/m3,0.6035
+EUR,104,Ireland,c07,Plywood,"","",tonne/m3,0.65
+EUR,106,Italy,c07,Plywood,"","",tonne/m3,0.6035
+EUR,119,Latvia,c07,Plywood,"","",tonne/m3,0.6035
+EUR,125,Liechtenstein,c07,Plywood,"","",tonne/m3,0.6035
+EUR,126,Lithuania,c07,Plywood,"","",tonne/m3,0.6035
+EUR,134,Malta,c07,Plywood,"","",tonne/m3,0.6035
+EUR,146,Republic of Moldova,c07,Plywood,"","",tonne/m3,0.6035
+EUR,150,Netherlands,c07,Plywood,"","",tonne/m3,0.6035
+EUR,154,North Macedonia,c07,Plywood,"","",tonne/m3,0.6035
+EUR,162,Norway,c07,Plywood,"","",tonne/m3,0.6035
+EUR,167,Czechia,c07,Plywood,"","",tonne/m3,0.6035
+EUR,173,Poland,c07,Plywood,"","",tonne/m3,0.65
+EUR,174,Portugal,c07,Plywood,"","",tonne/m3,0.6035
+EUR,183,Romania,c07,Plywood,"","",tonne/m3,0.6035
+EUR,186,Serbia and Montenegro,c07,Plywood,"","",tonne/m3,0.6035
+EUR,192,San Marino,c07,Plywood,"","",tonne/m3,0.6035
+EUR,198,Slovenia,c07,Plywood,"","",tonne/m3,0.6035
+EUR,199,Slovakia,c07,Plywood,"","",tonne/m3,0.55
+EUR,203,Spain,c07,Plywood,"","",tonne/m3,0.6035
+EUR,210,Sweden,c07,Plywood,"","",tonne/m3,0.6035
+EUR,211,Switzerland,c07,Plywood,"","",tonne/m3,0.6035
+EUR,223,Turkey,c07,Plywood,"","",tonne/m3,0.6035
+EUR,229,United Kingdom,c07,Plywood,"","",tonne/m3,0.3245
+EUR,230,Ukraine,c07,Plywood,"","",tonne/m3,0.6035
+EUR,248,Yugoslav SFR,c07,Plywood,"","",tonne/m3,0.6035
+EUR,255,Belgium,c07,Plywood,"","",tonne/m3,0.6035
+EUR,256,Luxembourg,c07,Plywood,"","",tonne/m3,0.6035
+EUR,272,Serbia,c07,Plywood,"","",tonne/m3,0.6035
+EUR,273,Montenegro,c07,Plywood,"","",tonne/m3,0.6035
+LAM,8,Antigua and Barbuda,c07,Plywood,"","",tonne/m3,0.6035
+LAM,9,Argentina,c07,Plywood,"","",tonne/m3,0.6035
+LAM,12,Bahamas,c07,Plywood,"","",tonne/m3,0.6035
+LAM,14,Barbados,c07,Plywood,"","",tonne/m3,0.6035
+LAM,17,Bermuda,c07,Plywood,"","",tonne/m3,0.6035
+LAM,19,Bolivia (Plurinational State of),c07,Plywood,"","",tonne/m3,0.6035
+LAM,21,Brazil,c07,Plywood,"","",tonne/m3,0.445
+LAM,22,Aruba,c07,Plywood,"","",tonne/m3,0.6035
+LAM,23,Belize,c07,Plywood,"","",tonne/m3,0.6035
+LAM,36,Cayman Islands,c07,Plywood,"","",tonne/m3,0.6035
+LAM,40,Chile,c07,Plywood,"","",tonne/m3,0.6035
+LAM,44,Colombia,c07,Plywood,"","",tonne/m3,0.6035
+LAM,48,Costa Rica,c07,Plywood,"","",tonne/m3,0.6035
+LAM,49,Cuba,c07,Plywood,"","",tonne/m3,0.6035
+LAM,55,Dominica,c07,Plywood,"","",tonne/m3,0.6035
+LAM,56,Dominican Republic,c07,Plywood,"","",tonne/m3,0.6035
+LAM,58,Ecuador,c07,Plywood,"","",tonne/m3,0.6035
+LAM,60,El Salvador,c07,Plywood,"","",tonne/m3,0.6035
+LAM,65,Falkland Islands (Malvinas),c07,Plywood,"","",tonne/m3,0.6035
+LAM,69,French Guyana,c07,Plywood,"","",tonne/m3,0.6035
+LAM,86,Grenada,c07,Plywood,"","",tonne/m3,0.6035
+LAM,87,Guadeloupe,c07,Plywood,"","",tonne/m3,0.6035
+LAM,89,Guatemala,c07,Plywood,"","",tonne/m3,0.6035
+LAM,91,Guyana,c07,Plywood,"","",tonne/m3,0.382
+LAM,93,Haiti,c07,Plywood,"","",tonne/m3,0.6035
+LAM,95,Honduras,c07,Plywood,"","",tonne/m3,0.6035
+LAM,109,Jamaica,c07,Plywood,"","",tonne/m3,0.6035
+LAM,135,Martinique,c07,Plywood,"","",tonne/m3,0.6035
+LAM,138,Mexico,c07,Plywood,"","",tonne/m3,0.625
+LAM,142,Montserrat,c07,Plywood,"","",tonne/m3,0.6035
+LAM,151,Netherlands Antilles,c07,Plywood,"","",tonne/m3,0.6035
+LAM,157,Nicaragua,c07,Plywood,"","",tonne/m3,0.6035
+LAM,166,Panama,c07,Plywood,"","",tonne/m3,0.6035
+LAM,169,Paraguay,c07,Plywood,"","",tonne/m3,0.6035
+LAM,170,Peru,c07,Plywood,"","",tonne/m3,0.6035
+LAM,188,Saint Kitts and Nevis,c07,Plywood,"","",tonne/m3,0.6035
+LAM,189,Saint Lucia,c07,Plywood,"","",tonne/m3,0.6035
+LAM,191,Saint Vincent and the Grenadines,c07,Plywood,"","",tonne/m3,0.6035
+LAM,207,Suriname,c07,Plywood,"","",tonne/m3,0.6035
+LAM,220,Trinidad and Tobago,c07,Plywood,"","",tonne/m3,0.6035
+LAM,224,Turks and Caicos Islands,c07,Plywood,"","",tonne/m3,0.6035
+LAM,234,Uruguay,c07,Plywood,"","",tonne/m3,0.532
+LAM,236,Venezuela (Bolivarian Republic of),c07,Plywood,"","",tonne/m3,0.6035
+LAM,239,British Virgin Islands,c07,Plywood,"","",tonne/m3,0.6035
+LAM,258,Anguilla,c07,Plywood,"","",tonne/m3,0.6035
+LAM,279,Curaçao,c07,Plywood,"","",tonne/m3,0.6035
+LAM,281,Saint-Martin (French Part),c07,Plywood,"","",tonne/m3,0.6035
+NAM,33,Canada,c07,Plywood,"","",tonne/m3,0.6035
+NAM,190,Saint Pierre and Miquelon,c07,Plywood,"","",tonne/m3,0.6035
+NAM,231,United States of America,c07,Plywood,"","",tonne/m3,0.6035
+OCE,5,American Samoa,c07,Plywood,"","",tonne/m3,0.6035
+OCE,10,Australia,c07,Plywood,"","",tonne/m3,0.6035
+OCE,25,Solomon Islands,c07,Plywood,"","",tonne/m3,0.6035
+OCE,42,Christmas Island,c07,Plywood,"","",tonne/m3,0.6035
+OCE,43,Cocos (Keeling) Islands,c07,Plywood,"","",tonne/m3,0.6035
+OCE,47,Cook Islands,c07,Plywood,"","",tonne/m3,0.6035
+OCE,66,Fiji,c07,Plywood,"","",tonne/m3,0.6035
+OCE,70,French Polynesia,c07,Plywood,"","",tonne/m3,0.6035
+OCE,71,French Southern and Antarctic Territories,c07,Plywood,"","",tonne/m3,0.6035
+OCE,83,Kiribati,c07,Plywood,"","",tonne/m3,0.6035
+OCE,88,Guam,c07,Plywood,"","",tonne/m3,0.6035
+OCE,127,Marshall Islands,c07,Plywood,"","",tonne/m3,0.6035
+OCE,145,Micronesia (Federated States of),c07,Plywood,"","",tonne/m3,0.6035
+OCE,148,Nauru,c07,Plywood,"","",tonne/m3,0.6035
+OCE,153,New Caledonia,c07,Plywood,"","",tonne/m3,0.6035
+OCE,155,Vanuatu,c07,Plywood,"","",tonne/m3,0.6035
+OCE,156,New Zealand,c07,Plywood,"","",tonne/m3,0.6035
+OCE,160,Niue,c07,Plywood,"","",tonne/m3,0.6035
+OCE,161,Norfolk Island,c07,Plywood,"","",tonne/m3,0.6035
+OCE,163,Northern Mariana Islands,c07,Plywood,"","",tonne/m3,0.6035
+OCE,168,Papua New Guinea,c07,Plywood,"","",tonne/m3,0.6035
+OCE,172,Pitcairn Islands,c07,Plywood,"","",tonne/m3,0.6035
+OCE,180,Palau,c07,Plywood,"","",tonne/m3,0.6035
+OCE,218,Tokelau,c07,Plywood,"","",tonne/m3,0.6035
+OCE,227,Tuvalu,c07,Plywood,"","",tonne/m3,0.6035
+OCE,242,Wake Island,c07,Plywood,"","",tonne/m3,0.6035
+OCE,243,Wallis and Futuna Islands,c07,Plywood,"","",tonne/m3,0.6035
+OCE,244,Samoa,c07,Plywood,"","",tonne/m3,0.6035
+ROW,999,RoW,c07,Plywood,"","",tonne/m3,0.6035
+XXX,252,Unspecified Area,c07,Plywood,"","",tonne/m3,0.6035
+XXX,254,Others (adjustment),c07,Plywood,"","",tonne/m3,0.6035
 AFR,4,Algeria,c08,Fibreboard,,,tonne/m3,0.6655575
 AFR,7,Angola,c08,Fibreboard,,,tonne/m3,0.6655575
 AFR,20,Botswana,c08,Fibreboard,,,tonne/m3,0.6655575
@@ -3415,6 +2927,250 @@ OCE,244,Samoa,c11b,Mechanical and semi-chemical wood pulp,,,tonne/tonne,0.9
 ROW,999,RoW,c11b,Mechanical and semi-chemical wood pulp,,,tonne/tonne,0.9
 XXX,252,Unspecified Area,c11b,Mechanical and semi-chemical wood pulp,,,tonne/tonne,0.9
 XXX,254,Others (adjustment),c11b,Mechanical and semi-chemical wood pulp,,,tonne/tonne,0.9
+AFR,4,Algeria,c11c,Pulp from fibres other than wood,,,tonne/tonne,0.9
+AFR,7,Angola,c11c,Pulp from fibres other than wood,,,tonne/tonne,0.9
+AFR,20,Botswana,c11c,Pulp from fibres other than wood,,,tonne/tonne,0.9
+AFR,29,Burundi,c11c,Pulp from fibres other than wood,,,tonne/tonne,0.9
+AFR,32,Cameroon,c11c,Pulp from fibres other than wood,,,tonne/tonne,0.9
+AFR,35,Cabo Verde,c11c,Pulp from fibres other than wood,,,tonne/tonne,0.9
+AFR,37,Central African Republic,c11c,Pulp from fibres other than wood,,,tonne/tonne,0.9
+AFR,39,Chad,c11c,Pulp from fibres other than wood,,,tonne/tonne,0.9
+AFR,45,Comoros,c11c,Pulp from fibres other than wood,,,tonne/tonne,0.9
+AFR,46,Congo,c11c,Pulp from fibres other than wood,,,tonne/tonne,0.9
+AFR,53,Benin,c11c,Pulp from fibres other than wood,,,tonne/tonne,0.9
+AFR,59,Egypt,c11c,Pulp from fibres other than wood,,,tonne/tonne,0.9
+AFR,61,Equatorial Guinea,c11c,Pulp from fibres other than wood,,,tonne/tonne,0.9
+AFR,72,Djibouti,c11c,Pulp from fibres other than wood,,,tonne/tonne,0.9
+AFR,74,Gabon,c11c,Pulp from fibres other than wood,,,tonne/tonne,0.9
+AFR,75,Gambia,c11c,Pulp from fibres other than wood,,,tonne/tonne,0.9
+AFR,81,Ghana,c11c,Pulp from fibres other than wood,,,tonne/tonne,0.9
+AFR,90,Guinea,c11c,Pulp from fibres other than wood,,,tonne/tonne,0.9
+AFR,107,Cote d'Ivoire,c11c,Pulp from fibres other than wood,,,tonne/tonne,0.9
+AFR,114,Kenya,c11c,Pulp from fibres other than wood,,,tonne/tonne,0.9
+AFR,122,Lesotho,c11c,Pulp from fibres other than wood,,,tonne/tonne,0.9
+AFR,123,Liberia,c11c,Pulp from fibres other than wood,,,tonne/tonne,0.9
+AFR,124,Libya,c11c,Pulp from fibres other than wood,,,tonne/tonne,0.9
+AFR,129,Madagascar,c11c,Pulp from fibres other than wood,,,tonne/tonne,0.9
+AFR,130,Malawi,c11c,Pulp from fibres other than wood,,,tonne/tonne,0.9
+AFR,133,Mali,c11c,Pulp from fibres other than wood,,,tonne/tonne,0.9
+AFR,136,Mauritania,c11c,Pulp from fibres other than wood,,,tonne/tonne,0.9
+AFR,137,Mauritius,c11c,Pulp from fibres other than wood,,,tonne/tonne,0.9
+AFR,143,Morocco,c11c,Pulp from fibres other than wood,,,tonne/tonne,0.9
+AFR,144,Mozambique,c11c,Pulp from fibres other than wood,,,tonne/tonne,0.9
+AFR,147,Namibia,c11c,Pulp from fibres other than wood,,,tonne/tonne,0.9
+AFR,158,Niger,c11c,Pulp from fibres other than wood,,,tonne/tonne,0.9
+AFR,159,Nigeria,c11c,Pulp from fibres other than wood,,,tonne/tonne,0.9
+AFR,175,Guinea-Bissau,c11c,Pulp from fibres other than wood,,,tonne/tonne,0.9
+AFR,178,Eritrea,c11c,Pulp from fibres other than wood,,,tonne/tonne,0.9
+AFR,181,Zimbabwe,c11c,Pulp from fibres other than wood,,,tonne/tonne,0.9
+AFR,182,Reunion,c11c,Pulp from fibres other than wood,,,tonne/tonne,0.9
+AFR,184,Rwanda,c11c,Pulp from fibres other than wood,,,tonne/tonne,0.9
+AFR,187,"Saint Helena, Ascension and Tristan da Cunha",c11c,Pulp from fibres other than wood,,,tonne/tonne,0.9
+AFR,193,Sao Tome and Principe,c11c,Pulp from fibres other than wood,,,tonne/tonne,0.9
+AFR,195,Senegal,c11c,Pulp from fibres other than wood,,,tonne/tonne,0.9
+AFR,196,Seychelles,c11c,Pulp from fibres other than wood,,,tonne/tonne,0.9
+AFR,197,Sierra Leone,c11c,Pulp from fibres other than wood,,,tonne/tonne,0.9
+AFR,201,Somalia,c11c,Pulp from fibres other than wood,,,tonne/tonne,0.9
+AFR,202,South Africa,c11c,Pulp from fibres other than wood,,,tonne/tonne,0.9
+AFR,205,Western Sahara,c11c,Pulp from fibres other than wood,,,tonne/tonne,0.9
+AFR,209,Eswatini,c11c,Pulp from fibres other than wood,,,tonne/tonne,0.9
+AFR,215,United Republic of Tanzania,c11c,Pulp from fibres other than wood,,,tonne/tonne,0.9
+AFR,217,Togo,c11c,Pulp from fibres other than wood,,,tonne/tonne,0.9
+AFR,219,Tonga,c11c,Pulp from fibres other than wood,,,tonne/tonne,0.9
+AFR,222,Tunisia,c11c,Pulp from fibres other than wood,,,tonne/tonne,0.9
+AFR,226,Uganda,c11c,Pulp from fibres other than wood,,,tonne/tonne,0.9
+AFR,233,Burkina Faso,c11c,Pulp from fibres other than wood,,,tonne/tonne,0.9
+AFR,238,Ethiopia,c11c,Pulp from fibres other than wood,,,tonne/tonne,0.9
+AFR,250,Democratic Republic of the Congo,c11c,Pulp from fibres other than wood,,,tonne/tonne,0.9
+AFR,251,Zambia,c11c,Pulp from fibres other than wood,,,tonne/tonne,0.9
+AFR,270,Mayotte,c11c,Pulp from fibres other than wood,,,tonne/tonne,0.9
+AFR,276,Sudan,c11c,Pulp from fibres other than wood,,,tonne/tonne,0.9
+AFR,277,South Sudan,c11c,Pulp from fibres other than wood,,,tonne/tonne,0.9
+ASI,1,Armenia,c11c,Pulp from fibres other than wood,,,tonne/tonne,0.9
+ASI,2,Afghanistan,c11c,Pulp from fibres other than wood,,,tonne/tonne,0.9
+ASI,13,Bahrain,c11c,Pulp from fibres other than wood,,,tonne/tonne,0.9
+ASI,16,Bangladesh,c11c,Pulp from fibres other than wood,,,tonne/tonne,0.9
+ASI,18,Bhutan,c11c,Pulp from fibres other than wood,,,tonne/tonne,0.9
+ASI,24,British Indian Ocean Territory,c11c,Pulp from fibres other than wood,,,tonne/tonne,0.9
+ASI,26,Brunei Darussalam,c11c,Pulp from fibres other than wood,,,tonne/tonne,0.9
+ASI,28,Myanmar,c11c,Pulp from fibres other than wood,,,tonne/tonne,0.9
+ASI,38,Sri Lanka,c11c,Pulp from fibres other than wood,,,tonne/tonne,0.9
+ASI,41,"China, mainland",c11c,Pulp from fibres other than wood,,,tonne/tonne,0.9
+ASI,52,Azerbaijan,c11c,Pulp from fibres other than wood,,,tonne/tonne,0.9
+ASI,73,Georgia,c11c,Pulp from fibres other than wood,,,tonne/tonne,0.9
+ASI,96,"China, Hong Kong SAR",c11c,Pulp from fibres other than wood,,,tonne/tonne,0.9
+ASI,100,India,c11c,Pulp from fibres other than wood,,,tonne/tonne,0.9
+ASI,101,Indonesia,c11c,Pulp from fibres other than wood,,,tonne/tonne,0.9
+ASI,102,Iran (Islamic Republic of),c11c,Pulp from fibres other than wood,,,tonne/tonne,0.9
+ASI,103,Iraq,c11c,Pulp from fibres other than wood,,,tonne/tonne,0.9
+ASI,105,Israel,c11c,Pulp from fibres other than wood,,,tonne/tonne,0.9
+ASI,108,Kazakhstan,c11c,Pulp from fibres other than wood,,,tonne/tonne,0.9
+ASI,110,Japan,c11c,Pulp from fibres other than wood,,,tonne/tonne,0.9
+ASI,112,Jordan,c11c,Pulp from fibres other than wood,,,tonne/tonne,0.9
+ASI,113,Kyrgyzstan,c11c,Pulp from fibres other than wood,,,tonne/tonne,0.9
+ASI,115,Cambodia,c11c,Pulp from fibres other than wood,,,tonne/tonne,0.9
+ASI,116,Democratic People's Republic of Korea,c11c,Pulp from fibres other than wood,,,tonne/tonne,0.9
+ASI,117,Republic of Korea,c11c,Pulp from fibres other than wood,,,tonne/tonne,0.9
+ASI,118,Kuwait,c11c,Pulp from fibres other than wood,,,tonne/tonne,0.9
+ASI,120,Lao People's Democratic Republic,c11c,Pulp from fibres other than wood,,,tonne/tonne,0.9
+ASI,121,Lebanon,c11c,Pulp from fibres other than wood,,,tonne/tonne,0.9
+ASI,128,"China, Macao SAR",c11c,Pulp from fibres other than wood,,,tonne/tonne,0.9
+ASI,131,Malaysia,c11c,Pulp from fibres other than wood,,,tonne/tonne,0.9
+ASI,132,Maldives,c11c,Pulp from fibres other than wood,,,tonne/tonne,0.9
+ASI,141,Mongolia,c11c,Pulp from fibres other than wood,,,tonne/tonne,0.9
+ASI,149,Nepal,c11c,Pulp from fibres other than wood,,,tonne/tonne,0.9
+ASI,164,Pacific Islands Trust Territory,c11c,Pulp from fibres other than wood,,,tonne/tonne,0.9
+ASI,165,Pakistan,c11c,Pulp from fibres other than wood,,,tonne/tonne,0.9
+ASI,171,Philippines,c11c,Pulp from fibres other than wood,,,tonne/tonne,0.9
+ASI,176,Timor-Leste,c11c,Pulp from fibres other than wood,,,tonne/tonne,0.9
+ASI,179,Qatar,c11c,Pulp from fibres other than wood,,,tonne/tonne,0.9
+ASI,185,Russian Federation,c11c,Pulp from fibres other than wood,,,tonne/tonne,0.9
+ASI,194,Saudi Arabia,c11c,Pulp from fibres other than wood,,,tonne/tonne,0.9
+ASI,200,Singapore,c11c,Pulp from fibres other than wood,,,tonne/tonne,0.9
+ASI,208,Tajikistan,c11c,Pulp from fibres other than wood,,,tonne/tonne,0.9
+ASI,212,Syrian Arab Republic,c11c,Pulp from fibres other than wood,,,tonne/tonne,0.9
+ASI,213,Turkmenistan,c11c,Pulp from fibres other than wood,,,tonne/tonne,0.9
+ASI,214,"China, Taiwan Province of",c11c,Pulp from fibres other than wood,,,tonne/tonne,0.9
+ASI,216,Thailand,c11c,Pulp from fibres other than wood,,,tonne/tonne,0.9
+ASI,221,Oman,c11c,Pulp from fibres other than wood,,,tonne/tonne,0.9
+ASI,225,United Arab Emirates,c11c,Pulp from fibres other than wood,,,tonne/tonne,0.9
+ASI,228,USSR,c11c,Pulp from fibres other than wood,,,tonne/tonne,0.9
+ASI,235,Uzbekistan,c11c,Pulp from fibres other than wood,,,tonne/tonne,0.9
+ASI,237,Viet Nam,c11c,Pulp from fibres other than wood,,,tonne/tonne,0.9
+ASI,249,Yemen,c11c,Pulp from fibres other than wood,,,tonne/tonne,0.9
+ASI,299,Palestine,c11c,Pulp from fibres other than wood,,,tonne/tonne,0.9
+EUR,3,Albania,c11c,Pulp from fibres other than wood,,,tonne/tonne,0.9
+EUR,6,Andorra,c11c,Pulp from fibres other than wood,,,tonne/tonne,0.9
+EUR,11,Austria,c11c,Pulp from fibres other than wood,,,tonne/tonne,0.9
+EUR,15,Belgium-Luxembourg,c11c,Pulp from fibres other than wood,,,tonne/tonne,0.9
+EUR,27,Bulgaria,c11c,Pulp from fibres other than wood,,,tonne/tonne,0.9
+EUR,50,Cyprus,c11c,Pulp from fibres other than wood,,,tonne/tonne,0.9
+EUR,51,Czechoslovakia,c11c,Pulp from fibres other than wood,,,tonne/tonne,0.9
+EUR,54,Denmark,c11c,Pulp from fibres other than wood,,,tonne/tonne,0.9
+EUR,57,Belarus,c11c,Pulp from fibres other than wood,,,tonne/tonne,0.9
+EUR,63,Estonia,c11c,Pulp from fibres other than wood,,,tonne/tonne,0.9
+EUR,64,Faroe Islands,c11c,Pulp from fibres other than wood,,,tonne/tonne,0.9
+EUR,67,Finland,c11c,Pulp from fibres other than wood,,,tonne/tonne,0.9
+EUR,68,France,c11c,Pulp from fibres other than wood,,,tonne/tonne,0.9
+EUR,79,Germany,c11c,Pulp from fibres other than wood,,,tonne/tonne,0.9
+EUR,80,Bosnia and Herzegovina,c11c,Pulp from fibres other than wood,,,tonne/tonne,0.9
+EUR,82,Gibraltar,c11c,Pulp from fibres other than wood,,,tonne/tonne,0.9
+EUR,84,Greece,c11c,Pulp from fibres other than wood,,,tonne/tonne,0.9
+EUR,85,Greenland,c11c,Pulp from fibres other than wood,,,tonne/tonne,0.9
+EUR,94,Holy See,c11c,Pulp from fibres other than wood,,,tonne/tonne,0.9
+EUR,97,Hungary,c11c,Pulp from fibres other than wood,,,tonne/tonne,0.9
+EUR,98,Croatia,c11c,Pulp from fibres other than wood,,,tonne/tonne,0.9
+EUR,99,Iceland,c11c,Pulp from fibres other than wood,,,tonne/tonne,0.9
+EUR,104,Ireland,c11c,Pulp from fibres other than wood,,,tonne/tonne,0.9
+EUR,106,Italy,c11c,Pulp from fibres other than wood,,,tonne/tonne,0.9
+EUR,119,Latvia,c11c,Pulp from fibres other than wood,,,tonne/tonne,0.9
+EUR,125,Liechtenstein,c11c,Pulp from fibres other than wood,,,tonne/tonne,0.9
+EUR,126,Lithuania,c11c,Pulp from fibres other than wood,,,tonne/tonne,0.9
+EUR,134,Malta,c11c,Pulp from fibres other than wood,,,tonne/tonne,0.9
+EUR,146,Republic of Moldova,c11c,Pulp from fibres other than wood,,,tonne/tonne,0.9
+EUR,150,Netherlands,c11c,Pulp from fibres other than wood,,,tonne/tonne,0.9
+EUR,154,North Macedonia,c11c,Pulp from fibres other than wood,,,tonne/tonne,0.9
+EUR,162,Norway,c11c,Pulp from fibres other than wood,,,tonne/tonne,0.9
+EUR,167,Czechia,c11c,Pulp from fibres other than wood,,,tonne/tonne,0.9
+EUR,173,Poland,c11c,Pulp from fibres other than wood,,,tonne/tonne,0.9
+EUR,174,Portugal,c11c,Pulp from fibres other than wood,,,tonne/tonne,0.9
+EUR,183,Romania,c11c,Pulp from fibres other than wood,,,tonne/tonne,0.9
+EUR,186,Serbia and Montenegro,c11c,Pulp from fibres other than wood,,,tonne/tonne,0.9
+EUR,192,San Marino,c11c,Pulp from fibres other than wood,,,tonne/tonne,0.9
+EUR,198,Slovenia,c11c,Pulp from fibres other than wood,,,tonne/tonne,0.9
+EUR,199,Slovakia,c11c,Pulp from fibres other than wood,,,tonne/tonne,0.9
+EUR,203,Spain,c11c,Pulp from fibres other than wood,,,tonne/tonne,0.9
+EUR,210,Sweden,c11c,Pulp from fibres other than wood,,,tonne/tonne,0.9
+EUR,211,Switzerland,c11c,Pulp from fibres other than wood,,,tonne/tonne,0.9
+EUR,223,Turkey,c11c,Pulp from fibres other than wood,,,tonne/tonne,0.9
+EUR,229,United Kingdom,c11c,Pulp from fibres other than wood,,,tonne/tonne,0.9
+EUR,230,Ukraine,c11c,Pulp from fibres other than wood,,,tonne/tonne,0.9
+EUR,248,Yugoslav SFR,c11c,Pulp from fibres other than wood,,,tonne/tonne,0.9
+EUR,255,Belgium,c11c,Pulp from fibres other than wood,,,tonne/tonne,0.9
+EUR,256,Luxembourg,c11c,Pulp from fibres other than wood,,,tonne/tonne,0.9
+EUR,272,Serbia,c11c,Pulp from fibres other than wood,,,tonne/tonne,0.9
+EUR,273,Montenegro,c11c,Pulp from fibres other than wood,,,tonne/tonne,0.9
+LAM,8,Antigua and Barbuda,c11c,Pulp from fibres other than wood,,,tonne/tonne,0.9
+LAM,9,Argentina,c11c,Pulp from fibres other than wood,,,tonne/tonne,0.9
+LAM,12,Bahamas,c11c,Pulp from fibres other than wood,,,tonne/tonne,0.9
+LAM,14,Barbados,c11c,Pulp from fibres other than wood,,,tonne/tonne,0.9
+LAM,17,Bermuda,c11c,Pulp from fibres other than wood,,,tonne/tonne,0.9
+LAM,19,Bolivia (Plurinational State of),c11c,Pulp from fibres other than wood,,,tonne/tonne,0.9
+LAM,21,Brazil,c11c,Pulp from fibres other than wood,,,tonne/tonne,0.9
+LAM,22,Aruba,c11c,Pulp from fibres other than wood,,,tonne/tonne,0.9
+LAM,23,Belize,c11c,Pulp from fibres other than wood,,,tonne/tonne,0.9
+LAM,36,Cayman Islands,c11c,Pulp from fibres other than wood,,,tonne/tonne,0.9
+LAM,40,Chile,c11c,Pulp from fibres other than wood,,,tonne/tonne,0.9
+LAM,44,Colombia,c11c,Pulp from fibres other than wood,,,tonne/tonne,0.9
+LAM,48,Costa Rica,c11c,Pulp from fibres other than wood,,,tonne/tonne,0.9
+LAM,49,Cuba,c11c,Pulp from fibres other than wood,,,tonne/tonne,0.9
+LAM,55,Dominica,c11c,Pulp from fibres other than wood,,,tonne/tonne,0.9
+LAM,56,Dominican Republic,c11c,Pulp from fibres other than wood,,,tonne/tonne,0.9
+LAM,58,Ecuador,c11c,Pulp from fibres other than wood,,,tonne/tonne,0.9
+LAM,60,El Salvador,c11c,Pulp from fibres other than wood,,,tonne/tonne,0.9
+LAM,65,Falkland Islands (Malvinas),c11c,Pulp from fibres other than wood,,,tonne/tonne,0.9
+LAM,69,French Guyana,c11c,Pulp from fibres other than wood,,,tonne/tonne,0.9
+LAM,86,Grenada,c11c,Pulp from fibres other than wood,,,tonne/tonne,0.9
+LAM,87,Guadeloupe,c11c,Pulp from fibres other than wood,,,tonne/tonne,0.9
+LAM,89,Guatemala,c11c,Pulp from fibres other than wood,,,tonne/tonne,0.9
+LAM,91,Guyana,c11c,Pulp from fibres other than wood,,,tonne/tonne,0.9
+LAM,93,Haiti,c11c,Pulp from fibres other than wood,,,tonne/tonne,0.9
+LAM,95,Honduras,c11c,Pulp from fibres other than wood,,,tonne/tonne,0.9
+LAM,109,Jamaica,c11c,Pulp from fibres other than wood,,,tonne/tonne,0.9
+LAM,135,Martinique,c11c,Pulp from fibres other than wood,,,tonne/tonne,0.9
+LAM,138,Mexico,c11c,Pulp from fibres other than wood,,,tonne/tonne,0.9
+LAM,142,Montserrat,c11c,Pulp from fibres other than wood,,,tonne/tonne,0.9
+LAM,151,Netherlands Antilles,c11c,Pulp from fibres other than wood,,,tonne/tonne,0.9
+LAM,157,Nicaragua,c11c,Pulp from fibres other than wood,,,tonne/tonne,0.9
+LAM,166,Panama,c11c,Pulp from fibres other than wood,,,tonne/tonne,0.9
+LAM,169,Paraguay,c11c,Pulp from fibres other than wood,,,tonne/tonne,0.9
+LAM,170,Peru,c11c,Pulp from fibres other than wood,,,tonne/tonne,0.9
+LAM,188,Saint Kitts and Nevis,c11c,Pulp from fibres other than wood,,,tonne/tonne,0.9
+LAM,189,Saint Lucia,c11c,Pulp from fibres other than wood,,,tonne/tonne,0.9
+LAM,191,Saint Vincent and the Grenadines,c11c,Pulp from fibres other than wood,,,tonne/tonne,0.9
+LAM,207,Suriname,c11c,Pulp from fibres other than wood,,,tonne/tonne,0.9
+LAM,220,Trinidad and Tobago,c11c,Pulp from fibres other than wood,,,tonne/tonne,0.9
+LAM,224,Turks and Caicos Islands,c11c,Pulp from fibres other than wood,,,tonne/tonne,0.9
+LAM,234,Uruguay,c11c,Pulp from fibres other than wood,,,tonne/tonne,0.9
+LAM,236,Venezuela (Bolivarian Republic of),c11c,Pulp from fibres other than wood,,,tonne/tonne,0.9
+LAM,239,British Virgin Islands,c11c,Pulp from fibres other than wood,,,tonne/tonne,0.9
+LAM,258,Anguilla,c11c,Pulp from fibres other than wood,,,tonne/tonne,0.9
+LAM,279,Curaçao,c11c,Pulp from fibres other than wood,,,tonne/tonne,0.9
+LAM,281,Saint-Martin (French Part),c11c,Pulp from fibres other than wood,,,tonne/tonne,0.9
+NAM,33,Canada,c11c,Pulp from fibres other than wood,,,tonne/tonne,0.9
+NAM,190,Saint Pierre and Miquelon,c11c,Pulp from fibres other than wood,,,tonne/tonne,0.9
+NAM,231,United States of America,c11c,Pulp from fibres other than wood,,,tonne/tonne,0.9
+OCE,5,American Samoa,c11c,Pulp from fibres other than wood,,,tonne/tonne,0.9
+OCE,10,Australia,c11c,Pulp from fibres other than wood,,,tonne/tonne,0.9
+OCE,25,Solomon Islands,c11c,Pulp from fibres other than wood,,,tonne/tonne,0.9
+OCE,42,Christmas Island,c11c,Pulp from fibres other than wood,,,tonne/tonne,0.9
+OCE,43,Cocos (Keeling) Islands,c11c,Pulp from fibres other than wood,,,tonne/tonne,0.9
+OCE,47,Cook Islands,c11c,Pulp from fibres other than wood,,,tonne/tonne,0.9
+OCE,66,Fiji,c11c,Pulp from fibres other than wood,,,tonne/tonne,0.9
+OCE,70,French Polynesia,c11c,Pulp from fibres other than wood,,,tonne/tonne,0.9
+OCE,71,French Southern and Antarctic Territories,c11c,Pulp from fibres other than wood,,,tonne/tonne,0.9
+OCE,83,Kiribati,c11c,Pulp from fibres other than wood,,,tonne/tonne,0.9
+OCE,88,Guam,c11c,Pulp from fibres other than wood,,,tonne/tonne,0.9
+OCE,127,Marshall Islands,c11c,Pulp from fibres other than wood,,,tonne/tonne,0.9
+OCE,145,Micronesia (Federated States of),c11c,Pulp from fibres other than wood,,,tonne/tonne,0.9
+OCE,148,Nauru,c11c,Pulp from fibres other than wood,,,tonne/tonne,0.9
+OCE,153,New Caledonia,c11c,Pulp from fibres other than wood,,,tonne/tonne,0.9
+OCE,155,Vanuatu,c11c,Pulp from fibres other than wood,,,tonne/tonne,0.9
+OCE,156,New Zealand,c11c,Pulp from fibres other than wood,,,tonne/tonne,0.9
+OCE,160,Niue,c11c,Pulp from fibres other than wood,,,tonne/tonne,0.9
+OCE,161,Norfolk Island,c11c,Pulp from fibres other than wood,,,tonne/tonne,0.9
+OCE,163,Northern Mariana Islands,c11c,Pulp from fibres other than wood,,,tonne/tonne,0.9
+OCE,168,Papua New Guinea,c11c,Pulp from fibres other than wood,,,tonne/tonne,0.9
+OCE,172,Pitcairn Islands,c11c,Pulp from fibres other than wood,,,tonne/tonne,0.9
+OCE,180,Palau,c11c,Pulp from fibres other than wood,,,tonne/tonne,0.9
+OCE,218,Tokelau,c11c,Pulp from fibres other than wood,,,tonne/tonne,0.9
+OCE,227,Tuvalu,c11c,Pulp from fibres other than wood,,,tonne/tonne,0.9
+OCE,242,Wake Island,c11c,Pulp from fibres other than wood,,,tonne/tonne,0.9
+OCE,243,Wallis and Futuna Islands,c11c,Pulp from fibres other than wood,,,tonne/tonne,0.9
+OCE,244,Samoa,c11c,Pulp from fibres other than wood,,,tonne/tonne,0.9
+ROW,999,RoW,c11c,Pulp from fibres other than wood,,,tonne/tonne,0.9
+XXX,252,Unspecified Area,c11c,Pulp from fibres other than wood,,,tonne/tonne,0.9
+XXX,254,Others (adjustment),c11c,Pulp from fibres other than wood,,,tonne/tonne,0.9
 AFR,4,Algeria,c11d,Dissolving wood pulp,,,tonne/tonne,0.9
 AFR,7,Angola,c11d,Dissolving wood pulp,,,tonne/tonne,0.9
 AFR,20,Botswana,c11d,Dissolving wood pulp,,,tonne/tonne,0.9
@@ -3659,6 +3415,250 @@ OCE,244,Samoa,c11d,Dissolving wood pulp,,,tonne/tonne,0.9
 ROW,999,RoW,c11d,Dissolving wood pulp,,,tonne/tonne,0.9
 XXX,252,Unspecified Area,c11d,Dissolving wood pulp,,,tonne/tonne,0.9
 XXX,254,Others (adjustment),c11d,Dissolving wood pulp,,,tonne/tonne,0.9
+AFR,4,Algeria,c12,Recovered paper,,,tonne/tonne,0.9
+AFR,7,Angola,c12,Recovered paper,,,tonne/tonne,0.9
+AFR,20,Botswana,c12,Recovered paper,,,tonne/tonne,0.9
+AFR,29,Burundi,c12,Recovered paper,,,tonne/tonne,0.9
+AFR,32,Cameroon,c12,Recovered paper,,,tonne/tonne,0.9
+AFR,35,Cabo Verde,c12,Recovered paper,,,tonne/tonne,0.9
+AFR,37,Central African Republic,c12,Recovered paper,,,tonne/tonne,0.9
+AFR,39,Chad,c12,Recovered paper,,,tonne/tonne,0.9
+AFR,45,Comoros,c12,Recovered paper,,,tonne/tonne,0.9
+AFR,46,Congo,c12,Recovered paper,,,tonne/tonne,0.9
+AFR,53,Benin,c12,Recovered paper,,,tonne/tonne,0.9
+AFR,59,Egypt,c12,Recovered paper,,,tonne/tonne,0.9
+AFR,61,Equatorial Guinea,c12,Recovered paper,,,tonne/tonne,0.9
+AFR,72,Djibouti,c12,Recovered paper,,,tonne/tonne,0.9
+AFR,74,Gabon,c12,Recovered paper,,,tonne/tonne,0.9
+AFR,75,Gambia,c12,Recovered paper,,,tonne/tonne,0.9
+AFR,81,Ghana,c12,Recovered paper,,,tonne/tonne,0.9
+AFR,90,Guinea,c12,Recovered paper,,,tonne/tonne,0.9
+AFR,107,Cote d'Ivoire,c12,Recovered paper,,,tonne/tonne,0.9
+AFR,114,Kenya,c12,Recovered paper,,,tonne/tonne,0.9
+AFR,122,Lesotho,c12,Recovered paper,,,tonne/tonne,0.9
+AFR,123,Liberia,c12,Recovered paper,,,tonne/tonne,0.9
+AFR,124,Libya,c12,Recovered paper,,,tonne/tonne,0.9
+AFR,129,Madagascar,c12,Recovered paper,,,tonne/tonne,0.9
+AFR,130,Malawi,c12,Recovered paper,,,tonne/tonne,0.9
+AFR,133,Mali,c12,Recovered paper,,,tonne/tonne,0.9
+AFR,136,Mauritania,c12,Recovered paper,,,tonne/tonne,0.9
+AFR,137,Mauritius,c12,Recovered paper,,,tonne/tonne,0.9
+AFR,143,Morocco,c12,Recovered paper,,,tonne/tonne,0.9
+AFR,144,Mozambique,c12,Recovered paper,,,tonne/tonne,0.9
+AFR,147,Namibia,c12,Recovered paper,,,tonne/tonne,0.9
+AFR,158,Niger,c12,Recovered paper,,,tonne/tonne,0.9
+AFR,159,Nigeria,c12,Recovered paper,,,tonne/tonne,0.9
+AFR,175,Guinea-Bissau,c12,Recovered paper,,,tonne/tonne,0.9
+AFR,178,Eritrea,c12,Recovered paper,,,tonne/tonne,0.9
+AFR,181,Zimbabwe,c12,Recovered paper,,,tonne/tonne,0.9
+AFR,182,Reunion,c12,Recovered paper,,,tonne/tonne,0.9
+AFR,184,Rwanda,c12,Recovered paper,,,tonne/tonne,0.9
+AFR,187,"Saint Helena, Ascension and Tristan da Cunha",c12,Recovered paper,,,tonne/tonne,0.9
+AFR,193,Sao Tome and Principe,c12,Recovered paper,,,tonne/tonne,0.9
+AFR,195,Senegal,c12,Recovered paper,,,tonne/tonne,0.9
+AFR,196,Seychelles,c12,Recovered paper,,,tonne/tonne,0.9
+AFR,197,Sierra Leone,c12,Recovered paper,,,tonne/tonne,0.9
+AFR,201,Somalia,c12,Recovered paper,,,tonne/tonne,0.9
+AFR,202,South Africa,c12,Recovered paper,,,tonne/tonne,0.9
+AFR,205,Western Sahara,c12,Recovered paper,,,tonne/tonne,0.9
+AFR,209,Eswatini,c12,Recovered paper,,,tonne/tonne,0.9
+AFR,215,United Republic of Tanzania,c12,Recovered paper,,,tonne/tonne,0.9
+AFR,217,Togo,c12,Recovered paper,,,tonne/tonne,0.9
+AFR,219,Tonga,c12,Recovered paper,,,tonne/tonne,0.9
+AFR,222,Tunisia,c12,Recovered paper,,,tonne/tonne,0.9
+AFR,226,Uganda,c12,Recovered paper,,,tonne/tonne,0.9
+AFR,233,Burkina Faso,c12,Recovered paper,,,tonne/tonne,0.9
+AFR,238,Ethiopia,c12,Recovered paper,,,tonne/tonne,0.9
+AFR,250,Democratic Republic of the Congo,c12,Recovered paper,,,tonne/tonne,0.9
+AFR,251,Zambia,c12,Recovered paper,,,tonne/tonne,0.9
+AFR,270,Mayotte,c12,Recovered paper,,,tonne/tonne,0.9
+AFR,276,Sudan,c12,Recovered paper,,,tonne/tonne,0.9
+AFR,277,South Sudan,c12,Recovered paper,,,tonne/tonne,0.9
+ASI,1,Armenia,c12,Recovered paper,,,tonne/tonne,0.9
+ASI,2,Afghanistan,c12,Recovered paper,,,tonne/tonne,0.9
+ASI,13,Bahrain,c12,Recovered paper,,,tonne/tonne,0.9
+ASI,16,Bangladesh,c12,Recovered paper,,,tonne/tonne,0.9
+ASI,18,Bhutan,c12,Recovered paper,,,tonne/tonne,0.9
+ASI,24,British Indian Ocean Territory,c12,Recovered paper,,,tonne/tonne,0.9
+ASI,26,Brunei Darussalam,c12,Recovered paper,,,tonne/tonne,0.9
+ASI,28,Myanmar,c12,Recovered paper,,,tonne/tonne,0.9
+ASI,38,Sri Lanka,c12,Recovered paper,,,tonne/tonne,0.9
+ASI,41,"China, mainland",c12,Recovered paper,,,tonne/tonne,0.9
+ASI,52,Azerbaijan,c12,Recovered paper,,,tonne/tonne,0.9
+ASI,73,Georgia,c12,Recovered paper,,,tonne/tonne,0.9
+ASI,96,"China, Hong Kong SAR",c12,Recovered paper,,,tonne/tonne,0.9
+ASI,100,India,c12,Recovered paper,,,tonne/tonne,0.9
+ASI,101,Indonesia,c12,Recovered paper,,,tonne/tonne,0.9
+ASI,102,Iran (Islamic Republic of),c12,Recovered paper,,,tonne/tonne,0.9
+ASI,103,Iraq,c12,Recovered paper,,,tonne/tonne,0.9
+ASI,105,Israel,c12,Recovered paper,,,tonne/tonne,0.9
+ASI,108,Kazakhstan,c12,Recovered paper,,,tonne/tonne,0.9
+ASI,110,Japan,c12,Recovered paper,,,tonne/tonne,0.9
+ASI,112,Jordan,c12,Recovered paper,,,tonne/tonne,0.9
+ASI,113,Kyrgyzstan,c12,Recovered paper,,,tonne/tonne,0.9
+ASI,115,Cambodia,c12,Recovered paper,,,tonne/tonne,0.9
+ASI,116,Democratic People's Republic of Korea,c12,Recovered paper,,,tonne/tonne,0.9
+ASI,117,Republic of Korea,c12,Recovered paper,,,tonne/tonne,0.9
+ASI,118,Kuwait,c12,Recovered paper,,,tonne/tonne,0.9
+ASI,120,Lao People's Democratic Republic,c12,Recovered paper,,,tonne/tonne,0.9
+ASI,121,Lebanon,c12,Recovered paper,,,tonne/tonne,0.9
+ASI,128,"China, Macao SAR",c12,Recovered paper,,,tonne/tonne,0.9
+ASI,131,Malaysia,c12,Recovered paper,,,tonne/tonne,0.9
+ASI,132,Maldives,c12,Recovered paper,,,tonne/tonne,0.9
+ASI,141,Mongolia,c12,Recovered paper,,,tonne/tonne,0.9
+ASI,149,Nepal,c12,Recovered paper,,,tonne/tonne,0.9
+ASI,164,Pacific Islands Trust Territory,c12,Recovered paper,,,tonne/tonne,0.9
+ASI,165,Pakistan,c12,Recovered paper,,,tonne/tonne,0.9
+ASI,171,Philippines,c12,Recovered paper,,,tonne/tonne,0.9
+ASI,176,Timor-Leste,c12,Recovered paper,,,tonne/tonne,0.9
+ASI,179,Qatar,c12,Recovered paper,,,tonne/tonne,0.9
+ASI,185,Russian Federation,c12,Recovered paper,,,tonne/tonne,0.9
+ASI,194,Saudi Arabia,c12,Recovered paper,,,tonne/tonne,0.9
+ASI,200,Singapore,c12,Recovered paper,,,tonne/tonne,0.9
+ASI,208,Tajikistan,c12,Recovered paper,,,tonne/tonne,0.9
+ASI,212,Syrian Arab Republic,c12,Recovered paper,,,tonne/tonne,0.9
+ASI,213,Turkmenistan,c12,Recovered paper,,,tonne/tonne,0.9
+ASI,214,"China, Taiwan Province of",c12,Recovered paper,,,tonne/tonne,0.9
+ASI,216,Thailand,c12,Recovered paper,,,tonne/tonne,0.9
+ASI,221,Oman,c12,Recovered paper,,,tonne/tonne,0.9
+ASI,225,United Arab Emirates,c12,Recovered paper,,,tonne/tonne,0.9
+ASI,228,USSR,c12,Recovered paper,,,tonne/tonne,0.9
+ASI,235,Uzbekistan,c12,Recovered paper,,,tonne/tonne,0.9
+ASI,237,Viet Nam,c12,Recovered paper,,,tonne/tonne,0.9
+ASI,249,Yemen,c12,Recovered paper,,,tonne/tonne,0.9
+ASI,299,Palestine,c12,Recovered paper,,,tonne/tonne,0.9
+EUR,3,Albania,c12,Recovered paper,,,tonne/tonne,0.9
+EUR,6,Andorra,c12,Recovered paper,,,tonne/tonne,0.9
+EUR,11,Austria,c12,Recovered paper,,,tonne/tonne,0.9
+EUR,15,Belgium-Luxembourg,c12,Recovered paper,,,tonne/tonne,0.9
+EUR,27,Bulgaria,c12,Recovered paper,,,tonne/tonne,0.9
+EUR,50,Cyprus,c12,Recovered paper,,,tonne/tonne,0.9
+EUR,51,Czechoslovakia,c12,Recovered paper,,,tonne/tonne,0.9
+EUR,54,Denmark,c12,Recovered paper,,,tonne/tonne,0.9
+EUR,57,Belarus,c12,Recovered paper,,,tonne/tonne,0.9
+EUR,63,Estonia,c12,Recovered paper,,,tonne/tonne,0.9
+EUR,64,Faroe Islands,c12,Recovered paper,,,tonne/tonne,0.9
+EUR,67,Finland,c12,Recovered paper,,,tonne/tonne,0.9
+EUR,68,France,c12,Recovered paper,,,tonne/tonne,0.9
+EUR,79,Germany,c12,Recovered paper,,,tonne/tonne,0.9
+EUR,80,Bosnia and Herzegovina,c12,Recovered paper,,,tonne/tonne,0.9
+EUR,82,Gibraltar,c12,Recovered paper,,,tonne/tonne,0.9
+EUR,84,Greece,c12,Recovered paper,,,tonne/tonne,0.9
+EUR,85,Greenland,c12,Recovered paper,,,tonne/tonne,0.9
+EUR,94,Holy See,c12,Recovered paper,,,tonne/tonne,0.9
+EUR,97,Hungary,c12,Recovered paper,,,tonne/tonne,0.9
+EUR,98,Croatia,c12,Recovered paper,,,tonne/tonne,0.9
+EUR,99,Iceland,c12,Recovered paper,,,tonne/tonne,0.9
+EUR,104,Ireland,c12,Recovered paper,,,tonne/tonne,0.9
+EUR,106,Italy,c12,Recovered paper,,,tonne/tonne,0.9
+EUR,119,Latvia,c12,Recovered paper,,,tonne/tonne,0.9
+EUR,125,Liechtenstein,c12,Recovered paper,,,tonne/tonne,0.9
+EUR,126,Lithuania,c12,Recovered paper,,,tonne/tonne,0.9
+EUR,134,Malta,c12,Recovered paper,,,tonne/tonne,0.9
+EUR,146,Republic of Moldova,c12,Recovered paper,,,tonne/tonne,0.9
+EUR,150,Netherlands,c12,Recovered paper,,,tonne/tonne,0.9
+EUR,154,North Macedonia,c12,Recovered paper,,,tonne/tonne,0.9
+EUR,162,Norway,c12,Recovered paper,,,tonne/tonne,0.9
+EUR,167,Czechia,c12,Recovered paper,,,tonne/tonne,0.9
+EUR,173,Poland,c12,Recovered paper,,,tonne/tonne,0.9
+EUR,174,Portugal,c12,Recovered paper,,,tonne/tonne,0.9
+EUR,183,Romania,c12,Recovered paper,,,tonne/tonne,0.9
+EUR,186,Serbia and Montenegro,c12,Recovered paper,,,tonne/tonne,0.9
+EUR,192,San Marino,c12,Recovered paper,,,tonne/tonne,0.9
+EUR,198,Slovenia,c12,Recovered paper,,,tonne/tonne,0.9
+EUR,199,Slovakia,c12,Recovered paper,,,tonne/tonne,0.9
+EUR,203,Spain,c12,Recovered paper,,,tonne/tonne,0.9
+EUR,210,Sweden,c12,Recovered paper,,,tonne/tonne,0.9
+EUR,211,Switzerland,c12,Recovered paper,,,tonne/tonne,0.9
+EUR,223,Turkey,c12,Recovered paper,,,tonne/tonne,0.9
+EUR,229,United Kingdom,c12,Recovered paper,,,tonne/tonne,0.9
+EUR,230,Ukraine,c12,Recovered paper,,,tonne/tonne,0.9
+EUR,248,Yugoslav SFR,c12,Recovered paper,,,tonne/tonne,0.9
+EUR,255,Belgium,c12,Recovered paper,,,tonne/tonne,0.9
+EUR,256,Luxembourg,c12,Recovered paper,,,tonne/tonne,0.9
+EUR,272,Serbia,c12,Recovered paper,,,tonne/tonne,0.9
+EUR,273,Montenegro,c12,Recovered paper,,,tonne/tonne,0.9
+LAM,8,Antigua and Barbuda,c12,Recovered paper,,,tonne/tonne,0.9
+LAM,9,Argentina,c12,Recovered paper,,,tonne/tonne,0.9
+LAM,12,Bahamas,c12,Recovered paper,,,tonne/tonne,0.9
+LAM,14,Barbados,c12,Recovered paper,,,tonne/tonne,0.9
+LAM,17,Bermuda,c12,Recovered paper,,,tonne/tonne,0.9
+LAM,19,Bolivia (Plurinational State of),c12,Recovered paper,,,tonne/tonne,0.9
+LAM,21,Brazil,c12,Recovered paper,,,tonne/tonne,0.9
+LAM,22,Aruba,c12,Recovered paper,,,tonne/tonne,0.9
+LAM,23,Belize,c12,Recovered paper,,,tonne/tonne,0.9
+LAM,36,Cayman Islands,c12,Recovered paper,,,tonne/tonne,0.9
+LAM,40,Chile,c12,Recovered paper,,,tonne/tonne,0.9
+LAM,44,Colombia,c12,Recovered paper,,,tonne/tonne,0.9
+LAM,48,Costa Rica,c12,Recovered paper,,,tonne/tonne,0.9
+LAM,49,Cuba,c12,Recovered paper,,,tonne/tonne,0.9
+LAM,55,Dominica,c12,Recovered paper,,,tonne/tonne,0.9
+LAM,56,Dominican Republic,c12,Recovered paper,,,tonne/tonne,0.9
+LAM,58,Ecuador,c12,Recovered paper,,,tonne/tonne,0.9
+LAM,60,El Salvador,c12,Recovered paper,,,tonne/tonne,0.9
+LAM,65,Falkland Islands (Malvinas),c12,Recovered paper,,,tonne/tonne,0.9
+LAM,69,French Guyana,c12,Recovered paper,,,tonne/tonne,0.9
+LAM,86,Grenada,c12,Recovered paper,,,tonne/tonne,0.9
+LAM,87,Guadeloupe,c12,Recovered paper,,,tonne/tonne,0.9
+LAM,89,Guatemala,c12,Recovered paper,,,tonne/tonne,0.9
+LAM,91,Guyana,c12,Recovered paper,,,tonne/tonne,0.9
+LAM,93,Haiti,c12,Recovered paper,,,tonne/tonne,0.9
+LAM,95,Honduras,c12,Recovered paper,,,tonne/tonne,0.9
+LAM,109,Jamaica,c12,Recovered paper,,,tonne/tonne,0.9
+LAM,135,Martinique,c12,Recovered paper,,,tonne/tonne,0.9
+LAM,138,Mexico,c12,Recovered paper,,,tonne/tonne,0.9
+LAM,142,Montserrat,c12,Recovered paper,,,tonne/tonne,0.9
+LAM,151,Netherlands Antilles,c12,Recovered paper,,,tonne/tonne,0.9
+LAM,157,Nicaragua,c12,Recovered paper,,,tonne/tonne,0.9
+LAM,166,Panama,c12,Recovered paper,,,tonne/tonne,0.9
+LAM,169,Paraguay,c12,Recovered paper,,,tonne/tonne,0.9
+LAM,170,Peru,c12,Recovered paper,,,tonne/tonne,0.9
+LAM,188,Saint Kitts and Nevis,c12,Recovered paper,,,tonne/tonne,0.9
+LAM,189,Saint Lucia,c12,Recovered paper,,,tonne/tonne,0.9
+LAM,191,Saint Vincent and the Grenadines,c12,Recovered paper,,,tonne/tonne,0.9
+LAM,207,Suriname,c12,Recovered paper,,,tonne/tonne,0.9
+LAM,220,Trinidad and Tobago,c12,Recovered paper,,,tonne/tonne,0.9
+LAM,224,Turks and Caicos Islands,c12,Recovered paper,,,tonne/tonne,0.9
+LAM,234,Uruguay,c12,Recovered paper,,,tonne/tonne,0.9
+LAM,236,Venezuela (Bolivarian Republic of),c12,Recovered paper,,,tonne/tonne,0.9
+LAM,239,British Virgin Islands,c12,Recovered paper,,,tonne/tonne,0.9
+LAM,258,Anguilla,c12,Recovered paper,,,tonne/tonne,0.9
+LAM,279,Curaçao,c12,Recovered paper,,,tonne/tonne,0.9
+LAM,281,Saint-Martin (French Part),c12,Recovered paper,,,tonne/tonne,0.9
+NAM,33,Canada,c12,Recovered paper,,,tonne/tonne,0.9
+NAM,190,Saint Pierre and Miquelon,c12,Recovered paper,,,tonne/tonne,0.9
+NAM,231,United States of America,c12,Recovered paper,,,tonne/tonne,0.9
+OCE,5,American Samoa,c12,Recovered paper,,,tonne/tonne,0.9
+OCE,10,Australia,c12,Recovered paper,,,tonne/tonne,0.9
+OCE,25,Solomon Islands,c12,Recovered paper,,,tonne/tonne,0.9
+OCE,42,Christmas Island,c12,Recovered paper,,,tonne/tonne,0.9
+OCE,43,Cocos (Keeling) Islands,c12,Recovered paper,,,tonne/tonne,0.9
+OCE,47,Cook Islands,c12,Recovered paper,,,tonne/tonne,0.9
+OCE,66,Fiji,c12,Recovered paper,,,tonne/tonne,0.9
+OCE,70,French Polynesia,c12,Recovered paper,,,tonne/tonne,0.9
+OCE,71,French Southern and Antarctic Territories,c12,Recovered paper,,,tonne/tonne,0.9
+OCE,83,Kiribati,c12,Recovered paper,,,tonne/tonne,0.9
+OCE,88,Guam,c12,Recovered paper,,,tonne/tonne,0.9
+OCE,127,Marshall Islands,c12,Recovered paper,,,tonne/tonne,0.9
+OCE,145,Micronesia (Federated States of),c12,Recovered paper,,,tonne/tonne,0.9
+OCE,148,Nauru,c12,Recovered paper,,,tonne/tonne,0.9
+OCE,153,New Caledonia,c12,Recovered paper,,,tonne/tonne,0.9
+OCE,155,Vanuatu,c12,Recovered paper,,,tonne/tonne,0.9
+OCE,156,New Zealand,c12,Recovered paper,,,tonne/tonne,0.9
+OCE,160,Niue,c12,Recovered paper,,,tonne/tonne,0.9
+OCE,161,Norfolk Island,c12,Recovered paper,,,tonne/tonne,0.9
+OCE,163,Northern Mariana Islands,c12,Recovered paper,,,tonne/tonne,0.9
+OCE,168,Papua New Guinea,c12,Recovered paper,,,tonne/tonne,0.9
+OCE,172,Pitcairn Islands,c12,Recovered paper,,,tonne/tonne,0.9
+OCE,180,Palau,c12,Recovered paper,,,tonne/tonne,0.9
+OCE,218,Tokelau,c12,Recovered paper,,,tonne/tonne,0.9
+OCE,227,Tuvalu,c12,Recovered paper,,,tonne/tonne,0.9
+OCE,242,Wake Island,c12,Recovered paper,,,tonne/tonne,0.9
+OCE,243,Wallis and Futuna Islands,c12,Recovered paper,,,tonne/tonne,0.9
+OCE,244,Samoa,c12,Recovered paper,,,tonne/tonne,0.9
+ROW,999,RoW,c12,Recovered paper,,,tonne/tonne,0.9
+XXX,252,Unspecified Area,c12,Recovered paper,,,tonne/tonne,0.9
+XXX,254,Others (adjustment),c12,Recovered paper,,,tonne/tonne,0.9
 AFR,4,Algeria,c13,Recovered fibre pulp,,,tonne/tonne,0.9
 AFR,7,Angola,c13,Recovered fibre pulp,,,tonne/tonne,0.9
 AFR,20,Botswana,c13,Recovered fibre pulp,,,tonne/tonne,0.9

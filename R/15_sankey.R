@@ -1,4 +1,5 @@
 
+
 devtools::install_github("ropensci/plotly")
 library(plotly)
 
@@ -11,7 +12,7 @@ p <- plotly::plot_ly(
   orientation = "h",
   
   node = list(
-    label = c("A1", "A2", "B1", "B2", "C1", "C2"),
+    label = c("p01", "p02", "p03", "p04", "p05", "p06",),
     color = c("blue", "blue", "blue", "blue", "blue", "blue"),
     pad = 15,
     thickness = 20,
@@ -23,12 +24,12 @@ p <- plotly::plot_ly(
   
   link = list(
     source = c(0,1,0,2,3,3),
-    target = c(2,3,3,4,4,5),
+    target = c(3,3,3,4,4,5),
     value =  c(8,4,2,8,4,2)
   )
 ) %>%
   plotly::layout(
-    title = "Basic Sankey Diagram",
+    title = "Global carbon flows in the forestry industry",
     font = list(
       size = 10
     )

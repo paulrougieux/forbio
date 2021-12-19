@@ -16,14 +16,14 @@ use_fd <- readRDS("data/use_fd_final.rds")
 years <- seq(1997, 2017)
 
 #---------------------------------------
-# GLOBAL RESULTS (2016) in tC
+# GLOBAL RESULTS (1997) in tC
 #---------------------------------------
 
 # Upload data #
 
-carbon_cf <- fread("inst/carbon_tidy_2.csv")
+carbon_cf <- fread("inst/carbon_tidy.csv")
 
-yr <- 2016
+yr <- 1997
 
 cbs <- cbs[year==yr]
 sup <- sup[year==yr]
@@ -59,11 +59,11 @@ fd_carbon[, energy_use_tC := energy_use * tcf_carbon]
 fd_carbon[, `:=`(tcf_carbon = NULL, material_use = NULL, energy_use = NULL)]
 
 
-# Save data sets #
+# Save data sets for heatmap #
 
-# saveRDS(sup_carbon, "data/sup_final_2016_tC.rds")
-# saveRDS(use_carbon, "data/use_final_2016_tC.rds")
-# saveRDS(fd_carbon, "data/use_fd_final_2016_tC.rds")
+# saveRDS(sup_carbon, "data/sup_final_1997_tC.rds")
+# saveRDS(use_carbon, "data/use_final_1997_tC.rds")
+# saveRDS(fd_carbon, "data/use_fd_final_1997_tC.rds")
 
 
 # Aggregation of all countries #
@@ -89,7 +89,7 @@ sup_total <- sup_total %>%
 sup_total$MtC <- (sup_total$value / 1000000)
 sup_table <- spread(sup_total, com_code, MtC, fill = NA)
 
-write.csv(sup_table,"./output/sup_table_2016.csv", row.names = FALSE)
+write.csv(sup_table,"./output/sup_table_1997.csv", row.names = FALSE)
 
 
 # Rename and save USE #
@@ -104,7 +104,7 @@ use_total <- use_total %>%
 use_total$MtC <- (use_total$value / 1000000)
 use_table <- spread(use_total, com_code, MtC, fill = NA)
 
-write.csv(use_table,"./output/use_table_2016.csv", row.names = FALSE)
+write.csv(use_table,"./output/use_table_1997.csv", row.names = FALSE)
 
 
 # Rename and save FD energy use
@@ -118,7 +118,7 @@ fd_ene_total <- fd_ene_total %>%
 fd_ene_total$MtC <- (fd_ene_total$value / 1000000)
 # fd_ene_table <- spread(fd_ene_total, com_code, MtC, fill = NA)
 
-write.csv(fd_ene_total,"./output/fd_ene_2016.csv", row.names = FALSE)
+write.csv(fd_ene_total,"./output/fd_ene_1997.csv", row.names = FALSE)
 
 # Rename and save FD material use 
 
@@ -132,12 +132,111 @@ fd_mat_total$MtC <- (fd_mat_total$value / 1000000)
 
 # fd_mat_table <- spread(fd_mat_total, com_code, MtC, fill = NA)
 
-write.csv(fd_mat_total,"./output/fd_mat_2016.csv", row.names = FALSE)
+write.csv(fd_mat_total,"./output/fd_mat_1997.csv", row.names = FALSE)
 
+
+#--------------------------------------
+# Carbon conversion for heatmap - did not continue
+# conversion needs to be done before
+#--------------------------------------
+
+# # Upload data #
+# 
+# carbon_cf <- fread("inst/carbon_tidy.csv")
+# 
+# # Year 1997
+# 
+# yr <- 1997
+# 
+# cbs <- cbs[year==yr]
+# sup <- sup[year==yr]
+# use <- use[year==yr]
+# use_fd <- use_fd[year==yr]
+# 
+# 
+# # Merge of carbon tcf into each dataset #
+# 
+# sup_carbon <- merge(sup, carbon_cf[, .(area_code, com_code, tcf_carbon)],
+#                     all.x = TRUE, by = c("com_code", "area_code"))
+# 
+# use_carbon <- merge(use, carbon_cf[, .(area_code, com_code, tcf_carbon)],
+#                     all.x = TRUE, by = c("com_code", "area_code"))
+# 
+# fd_carbon <- merge(use_fd, carbon_cf[, .(area_code, com_code, tcf_carbon)],
+#                    all.x = TRUE, by = c("com_code", "area_code"))
+# 
+# # cbs_carbon <- merge(cbs, carbon_cf[, .(area_code, com_code, tcf_carbon)],
+# #                     all.x = TRUE, by = c("com_code", "area_code"))
+# 
+# 
+# # Conversion of each dataset into tC #
+# 
+# sup_carbon[, production_tC := production * tcf_carbon]
+# sup_carbon[, `:=`(tcf_carbon = NULL, production = NULL)]
+# 
+# use_carbon[, use_tC := use * tcf_carbon]
+# use_carbon[, `:=`(tcf_carbon = NULL, use = NULL)]
+# 
+# fd_carbon[, mat_use_tC := material_use * tcf_carbon]
+# fd_carbon[, energy_use_tC := energy_use * tcf_carbon]
+# fd_carbon[, `:=`(tcf_carbon = NULL, material_use = NULL, energy_use = NULL)]
+# 
+# 
+# # Save data sets for heatmap #
+# 
+# saveRDS(sup_carbon, "data/sup_final_1997_tC.rds")
+# saveRDS(use_carbon, "data/use_final_1997_tC.rds")
+# saveRDS(fd_carbon, "data/use_fd_final_1997_tC.rds")
+# 
+# 
+# # Year 2017
+# yr <- 2017
+# 
+# cbs <- cbs[year==yr]
+# sup <- sup[year==yr]
+# use <- use[year==yr]
+# use_fd <- use_fd[year==yr]
+# 
+# 
+# # Merge of carbon tcf into each dataset #
+# 
+# sup_carbon <- merge(sup, carbon_cf[, .(area_code, com_code, tcf_carbon)],
+#                     all.x = TRUE, by = c("com_code", "area_code"))
+# 
+# use_carbon <- merge(use, carbon_cf[, .(area_code, com_code, tcf_carbon)],
+#                     all.x = TRUE, by = c("com_code", "area_code"))
+# 
+# fd_carbon <- merge(use_fd, carbon_cf[, .(area_code, com_code, tcf_carbon)],
+#                    all.x = TRUE, by = c("com_code", "area_code"))
+# 
+# # cbs_carbon <- merge(cbs, carbon_cf[, .(area_code, com_code, tcf_carbon)],
+# #                     all.x = TRUE, by = c("com_code", "area_code"))
+# 
+# 
+# # Conversion of each dataset into tC #
+# 
+# sup_carbon[, production_tC := production * tcf_carbon]
+# sup_carbon[, `:=`(tcf_carbon = NULL, production = NULL)]
+# 
+# use_carbon[, use_tC := use * tcf_carbon]
+# use_carbon[, `:=`(tcf_carbon = NULL, use = NULL)]
+# 
+# fd_carbon[, mat_use_tC := material_use * tcf_carbon]
+# fd_carbon[, energy_use_tC := energy_use * tcf_carbon]
+# fd_carbon[, `:=`(tcf_carbon = NULL, material_use = NULL, energy_use = NULL)]
+# 
+# 
+# # Save data sets for heatmap #
+# 
+# saveRDS(sup_carbon, "data/sup_final_2017_tC.rds")
+# saveRDS(use_carbon, "data/use_final_2017_tC.rds")
+# saveRDS(fd_carbon, "data/use_fd_final_2017_tC.rds")
+# 
+# 
 
 
 #---------------------------------------
-#GLOBAL RESULTS (2017) in m3 swe
+# GLOBAL RESULTS (2017) in m3 swe
 #---------------------------------------
 
 # tcf <- fread("inst/tcf_use_tidy.csv")
@@ -179,7 +278,6 @@ write.csv(fd_mat_total,"./output/fd_mat_2016.csv", row.names = FALSE)
 #                     all.x = TRUE, by = "com_code")
 # 
 # use_totals$value_totals <- use_totals$value * use_totals$tCdunit
-
 
 
 

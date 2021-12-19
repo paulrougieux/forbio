@@ -109,6 +109,8 @@ cat("\nStep 1: Tidying density-related factors.\n")
 
 # upload density-related factors
 density <- fread("inst/tcf_density.csv")
+density <- fread ("inst/tcf_density_correctedbyhand.csv")
+
 density[tcf == 0, tcf :=NA]
 
 # convert kg into tonne
@@ -298,4 +300,3 @@ rm(bd, carbon, carbon2, density, shrinkage)
 # I used this: tcf_in[unit=="m3rw/m3p", `:=`(tcf = 1 / tcf, unit = "m3p/m3rw")]
 # calculated mean of tcf from c04-c10 and multiplied by 2 (average of m3p/tonne) to obtain tcf for c19
 # divided tcf of c11a to obtain tcf for c20
-
