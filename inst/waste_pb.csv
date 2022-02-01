@@ -11,7 +11,7 @@ area_code;area;proc_code;process;waste
 12;Bahamas;p09;Particle board production;    
 13;Bahrain;p09;Particle board production;    
 14;Barbados;p09;Particle board production;    
-15;Belgium-Luxembourg;p09;Particle board production;50
+15;Belgium-Luxembourg;p09;Particle board production;0.50
 16;Bangladesh;p09;Particle board production;    
 18;Bhutan;p09;Particle board production;    
 19;Bolivia (Plurinational State of);p09;Particle board production;    
@@ -43,7 +43,7 @@ area_code;area;proc_code;process;waste
 51;Czechoslovakia;p09;Particle board production;    
 52;Azerbaijan;p09;Particle board production;    
 53;Benin;p09;Particle board production;    
-54;Denmark;p09;Particle board production;50
+54;Denmark;p09;Particle board production;0.50
 55;Dominica;p09;Particle board production;    
 56;Dominican Republic;p09;Particle board production;    
 57;Belarus;p09;Particle board production;    
@@ -56,14 +56,14 @@ area_code;area;proc_code;process;waste
 65;Falkland Islands (Malvinas);p09;Particle board production;    
 66;Fiji;p09;Particle board production;    
 67;Finland;p09;Particle board production;    
-68;France;p09;Particle board production;25
+68;France;p09;Particle board production;0.25
 69;French Guyana;p09;Particle board production;    
 70;French Polynesia;p09;Particle board production;    
 72;Djibouti;p09;Particle board production;    
 73;Georgia;p09;Particle board production;    
 74;Gabon;p09;Particle board production;    
 75;Gambia;p09;Particle board production;    
-79;Germany;p09;Particle board production;25
+79;Germany;p09;Particle board production;0.25
 80;Bosnia and Herzegovina;p09;Particle board production;    
 81;Ghana;p09;Particle board production;    
 82;Gibraltar;p09;Particle board production;    
@@ -83,9 +83,9 @@ area_code;area;proc_code;process;waste
 101;Indonesia;p09;Particle board production;    
 102;Iran (Islamic Republic of);p09;Particle board production;    
 103;Iraq;p09;Particle board production;    
-104;Ireland;p09;Particle board production;45
+104;Ireland;p09;Particle board production;0.45
 105;Israel;p09;Particle board production;    
-106;Italy;p09;Particle board production;100
+106;Italy;p09;Particle board production;1
 107;Cote d'Ivoire;p09;Particle board production;    
 108;Kazakhstan;p09;Particle board production;    
 109;Jamaica;p09;Particle board production;    
@@ -137,13 +137,13 @@ area_code;area;proc_code;process;waste
 162;Norway;p09;Particle board production;    
 165;Pakistan;p09;Particle board production;    
 166;Panama;p09;Particle board production;    
-167;Czechia;p09;Particle board production;33.3
+167;Czechia;p09;Particle board production;0.33
 168;Papua New Guinea;p09;Particle board production;    
 169;Paraguay;p09;Particle board production;    
 170;Peru;p09;Particle board production;    
 171;Philippines;p09;Particle board production;    
-173;Poland;p09;Particle board production;50
-174;Portugal;p09;Particle board production;30
+173;Poland;p09;Particle board production;0.50
+174;Portugal;p09;Particle board production;0.30
 175;Guinea-Bissau;p09;Particle board production;    
 176;Timor-Leste;p09;Particle board production;    
 178;Eritrea;p09;Particle board production;    
@@ -167,7 +167,7 @@ area_code;area;proc_code;process;waste
 200;Singapore;p09;Particle board production;    
 201;Somalia;p09;Particle board production;    
 202;South Africa;p09;Particle board production;    
-203;Spain;p09;Particle board production;30
+203;Spain;p09;Particle board production;0.30
 207;Suriname;p09;Particle board production;    
 208;Tajikistan;p09;Particle board production;    
 209;Eswatini;p09;Particle board production;    
@@ -187,7 +187,7 @@ area_code;area;proc_code;process;waste
 224;Turks and Caicos Islands;p09;Particle board production;    
 225;United Arab Emirates;p09;Particle board production;    
 226;Uganda;p09;Particle board production;    
-229;United Kingdom;p09;Particle board production;50
+229;United Kingdom;p09;Particle board production;0.50
 230;Ukraine;p09;Particle board production;    
 231;United States of America;p09;Particle board production;    
 233;Burkina Faso;p09;Particle board production;    

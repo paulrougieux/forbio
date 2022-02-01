@@ -267,7 +267,11 @@ bd[com_code %in% c("c16"),
 bd[com_code %in% c("c20"),
    tcf_carbon := tcf_bd * 0.35]
 
-carbon <- bd[, c("continent", "area_code", "area", "com_code","item","source_code","source","tcf_carbon")]
+carbon <- bd[, c("continent", "area_code", "area", "com_code","item","tcf_carbon")]
+
+carbon <- carbon[area_code %in% regions$area_code[regions$baci == TRUE]]
+carbon <- carbon[with(carbon, order(area_code, com_code))]
+
 
 fwrite(carbon, "inst/carbon_tidy.csv")
 

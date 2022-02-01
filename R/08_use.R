@@ -206,39 +206,27 @@ results[grepl("p11", proc_code), `:=`(value = if_else(com_code %in% c("c18"), va
 results[, `:=`(roundwood = NULL, chips = NULL)]
 
 # Estimate feedstock composition for fibreboard and particle board production
-# Use of c19 not included (in the case of particle board production)
-# results[proc_code %in% c("p08", "p09"), 
-#         value := if_else(com_code %in% c("c01","c02"), value * 0.05, value * 0.425)]
+results[proc_code %in% c("p08", "p09"),
+        value := if_else(com_code %in% c("c01","c02"), value * 0.05, value * 0.425)]
 
-
-# Estimate feedstock composition for fibreboard production
-results[proc_code %in% c("p08"),
- value := if_else(com_code %in% c("c01","c02"), value * 0.05, value * 0.425)]
-
-# Tidying waste (c19) estimates used as feedstock for particle board production
+# Particle board production for the year 2017 which includes c19
+# Read share of c19 as inputs for particle board production
 wastepb <- fread("inst/waste_pb.csv")
-wastepb[, `:=`(continent = regions$continent[match(wastepb$area_code, regions$area_code)])]
-wastepb[continent == "EU", `:=`(continent = "EUR")]
-wastepb[, `:=`(waste = if_else(!is.na(waste), waste,
-                              waste[match(paste(wastepb$continent, wastepb$proc_code), paste(wastepb$area, wastepb$proc_code))]))]
 
 # Estimate feedstock composition for particle board production
 results <- merge(results, wastepb[, .(area_code, proc_code, waste)],
                  by = c("area_code", "proc_code"), all.x = TRUE)
+results[proc_code %in% c("p09") & year>= 2017, `:=`(waste = if_else(is.na(waste), 0, waste))]
+results[proc_code %in% c("p09") & com_code == "c19", value := value * waste]
+results[proc_code %in% c("p09") & com_code == "c19" & value>0 & year == 2017]
 
-results[proc_code %in% c("p09"), `:=`(waste = if_else(is.na(waste), 0, waste))]
-
-results[proc_code %in% c("p09"), `:=`(value = if_else(com_code %in% c("c19"), value * waste, value))]
-
-# I stayed here
-# Write sth like "This value (waste) should be used as a maximum"
-# And then calculate the following:
-
-results[proc_code %in% c("p09"), `:=`(value = if_else(com_code %in% c("c01", "c02"), value * 0.05, value))]
-results[proc_code %in% c("p09"), `:=`(value = if_else(com_code %in% c("c17", "c18"), value * 0.425, value))]
-
-results[, `:=`(waste = NULL)]
-
+# Downscale the other inputs (c01, c02, c17, c18)
+results <- merge(results, wastepb[, .(area_code, proc_code, waste)],
+                 by = c("area_code", "proc_code"), all.x = TRUE)
+results[, `:=`(primary = 1 - wastepb[, waste][match(results$area_code, wastepb$area_code)])]
+results[proc_code == "p09" & com_code != "c19" & year>= 2017 & !is.na(primary), `:=`(value = value*primary)]
+results[, `:=`(waste = NULL, primary = NULL)]
+results[com_code == "c19" & year< 2017, `:=`(value = 0)]
 
 # Redistribute c/nc use according to availability 
 # for c06 veneer, c07 plywood, c08 fibreboard, c09 particle board, c10 osb, c11 pulp
