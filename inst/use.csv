@@ -5,14 +5,15 @@ p06;Veneer production;c01;Industrial roundwood, coniferous;1;tcf_cnc
 p06;Veneer production;c02;Industrial roundwood, non-coniferous;1;tcf_cnc
 p07;Plywood production;c01;Industrial roundwood, coniferous;1;tcf_cnc
 p07;Plywood production;c02;Industrial roundwood, non-coniferous;1;tcf_cnc
-p08;Fibreboard production;c01;Industrial roundwood, coniferous;0.5;tcf_board
-p08;Fibreboard production;c02;Industrial roundwood, non-coniferous;0.5;tcf_board
-p08;Fibreboard production;c17;Wood chips and particles;0.25;tcf_board
-p08;Fibreboard production;c18;Wood residues;0.25;tcf_board
-p09;Particle board production;c01;Industrial roundwood, coniferous;0.25;tcf_board
-p09;Particle board production;c02;Industrial roundwood, non-coniferous;0.25;tcf_board
-p09;Particle board production;c17;Wood chips and particles;0.25;tcf_board
-p09;Particle board production;c18;Wood residues;0.5;tcf_board
+p08;Fibreboard production;c01;Industrial roundwood, coniferous;0.05;tcf_board
+p08;Fibreboard production;c02;Industrial roundwood, non-coniferous;0.05;tcf_board
+p08;Fibreboard production;c17;Wood chips and particles;0.425;tcf_board
+p08;Fibreboard production;c18;Wood residues;0.425;tcf_board
+p09;Particle board production;c01;Industrial roundwood, coniferous;0.05;tcf_board
+p09;Particle board production;c02;Industrial roundwood, non-coniferous;0.05;tcf_board
+p09;Particle board production;c17;Wood chips and particles;0.425;tcf_board
+p09;Particle board production;c18;Wood residues;0.425;tcf_board
+p09;Particle board production;c19;Post-consumer wood;1;tcf_board
 p10;OSB production;c01;Industrial roundwood, coniferous;1;tcf_cnc
 p10;OSB production;c02;Industrial roundwood, non-coniferous;1;tcf_cnc
 p11a;Chemical pulp production;c01;Industrial roundwood, coniferous;0.666666667;tcf_pulp
