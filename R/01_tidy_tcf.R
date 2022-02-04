@@ -6,6 +6,62 @@ source("R/01_tidy_functions.R")
 regions <- fread("inst/regions.csv")
 products <- fread("inst/products.csv")
 
+# Preparation ----------------------------------------------------------
+
+cat("\nAggregation of (sub)items and building (weighted) averages.\n")
+
+## c03 fuelwood
+# Build weighted average of wood basic density
+
+# read files
+density <- fread("inst/tcf_density_raw.csv")
+# this file is on process, FAOSTAT complementary data is needed
+woodfuel_cnc <- fread("inst/woodfuel_cnc.csv")
+# select
+
+## c06 veneer & c07 plywood
+# read files
+veneerplywood_cnc <- fread("inst/veneerplywood_cnc.csv")
+
+## c08 fibreboard
+# read files
+# this file does not exist yet
+fibreboard_subcom <- fread("inst/fibreboard_subcom.csv")
+
+## c11a wood pulp mechanical/semi-chemical
+# build average
+# or if single number, then use this number
+
+
+## c13 recovered fibre pulp
+# build average of all tcf of all wood pulp multiplied by 'recovered paper(input to output)'
+
+
+# c15 pellets & agglomerates
+# build average of both ("solid wood m3 per tonne product")
+# and if single number, use that number
+
+# c17 chips
+# build "oven-dry tonne/m³ loose"
+# by: 1/(green swe to oven-dry tonne)/(Oven-dry tonne/m³ loose)
+# be careful with unit (which will later be turn around or not, in the Use Script)
+
+# c18 wood residues
+# select "sawdust" and "shavings"
+# build "oven-dry tonne/ m³ loose"
+# by: 1/(green swe to oven-dry tonne)/(Oven-dry tonne/m³ loose)
+# build category "wood residues"
+# build average 
+
+
+
+
+# Outcome should be a
+# mb_sup_prep.csv
+# tcf_use_prep.csv
+# tcf_density_prep.csv
+# wood_wbp_prep.csv
+# shrinkage.csv 
 
 # MB SUP ----------------------------------------------------------------
 
