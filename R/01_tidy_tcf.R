@@ -10,18 +10,82 @@ products <- fread("inst/products.csv")
 
 cat("\nAggregation of (sub)items and building (weighted) averages.\n")
 
-## c03 fuelwood
-# Build weighted average of wood basic density
+## c03 Wood fuel: weighted average of c/nc wood basic density
 
 # read files
 density <- fread("inst/tcf_density_raw.csv")
-# this file is on process, FAOSTAT complementary data is needed
+woodfuel_den <- density[com_code == 'c03']
 woodfuel_cnc <- fread("inst/woodfuel_cnc.csv")
-# select
 
-## c06 veneer & c07 plywood
+# create separate tables for c and nc respectively
+tcf_nc <- woodfuel_den[source == 'Roundwood, non-coniferous']
+tcf_nc <- tcf_nc %>%
+  rename(tcf_nc = tcf)
+
+tcf_c <- woodfuel_den[source == 'Roundwood, coniferous']
+tcf_c <- tcf_c %>%
+  rename(tcf_c = tcf)
+
+# Calculation of weighted average of tcf
+woodfuel <- merge(tcf_c, tcf_nc[, .(area_code, area, tcf_nc)],
+                  by = c("area_code","area"), all.x = TRUE)
+woodfuel <- merge(woodfuel, woodfuel_cnc[, .(area_code, area, c_share, nc_share)],
+                  by = c("area_code","area"), all.x = TRUE)
+woodfuel[, `:=`(tcf = c_share * tcf_c + nc_share * tcf_nc)]
+woodfuel[, `:=`(c_share = NULL, tcf_c = NULL, nc_share = NULL, tcf_nc = NULL)]
+woodfuel$source <- NA
+
+woodfuel <- woodfuel[order(woodfuel$area_code),]
+
+# Replace tcf
+density <- density[!(density$com_code=="c03"),]
+density <- rbind(density, woodfuel)
+density <- density[order(density$com_code),]
+
+rm(woodfuel_den, tcf_c, tcf_nc, woodfuel_cnc, woodfuel)
+
+# ATTENTION: CHECK IF CONTINENTAL NUMBERS HAVE CHANGED ? PROBABLY NOT
+# MAYBE I NEED TO BUILD THEM AGAIN BASED ON THE JUST CALCULATED WEIGHTED AVERAGE
+
+## c06 veneer & c07 plywood: build c/nc weighted average
+
 # read files
 veneerplywood_cnc <- fread("inst/veneerplywood_cnc.csv")
+
+veneerplywood_den <- density[com_code == c("c06","c07")]
+
+
+# # create separate tables for c and nc respectively
+# tcf_nc <- woodfuel_den[source == 'Roundwood, non-coniferous']
+# tcf_nc <- tcf_nc %>%
+#   rename(tcf_nc = tcf)
+# 
+# tcf_c <- woodfuel_den[source == 'Roundwood, coniferous']
+# tcf_c <- tcf_c %>%
+#   rename(tcf_c = tcf)
+# 
+# # Calculation of weighted average of tcf
+# woodfuel <- merge(tcf_c, tcf_nc[, .(area_code, area, tcf_nc)],
+#                   by = c("area_code","area"), all.x = TRUE)
+# woodfuel <- merge(woodfuel, woodfuel_cnc[, .(area_code, area, c_share, nc_share)],
+#                   by = c("area_code","area"), all.x = TRUE)
+# woodfuel[, `:=`(tcf = c_share * tcf_c + nc_share * tcf_nc)]
+# woodfuel[, `:=`(c_share = NULL, tcf_c = NULL, nc_share = NULL, tcf_nc = NULL)]
+# woodfuel$source <- NA
+# 
+# woodfuel <- woodfuel[order(woodfuel$area_code),]
+# 
+# # Replace tcf
+# density <- density[!(density$com_code=="c03"),]
+# density <- rbind(density, woodfuel)
+# density <- density[order(density$com_code),]
+# 
+# rm(woodfuel_den, tcf_c, tcf_nc, woodfuel_cnc, woodfuel)
+
+
+
+
+
 
 ## c08 fibreboard
 # read files

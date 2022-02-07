@@ -1,4 +1,4 @@
-area_code;area;com_code;item;C_share;NC_share
+area_code;area;com_code;item;c_share;nc_share
 1;Armenia;c06;Veneer sheets;;
 2;Afghanistan;c06;Veneer sheets;;
 3;Albania;c06;Veneer sheets;;
@@ -25,13 +25,13 @@ area_code;area;com_code;item;C_share;NC_share
 28;Myanmar;c06;Veneer sheets;;
 29;Burundi;c06;Veneer sheets;;
 32;Cameroon;c06;Veneer sheets;;
-33;Canada;c06;Veneer sheets;87;13
+33;Canada;c06;Veneer sheets;0.87;0.13
 35;Cabo Verde;c06;Veneer sheets;;
 37;Central African Republic;c06;Veneer sheets;;
 38;Sri Lanka;c06;Veneer sheets;;
 39;Chad;c06;Veneer sheets;;
-40;Chile;c06;Veneer sheets;98;2
-41;China, mainland;c06;Veneer sheets;25;75
+40;Chile;c06;Veneer sheets;0.98;0.02
+41;China, mainland;c06;Veneer sheets;0.25;0.75
 42;Christmas Island;c06;Veneer sheets;;
 44;Colombia;c06;Veneer sheets;;
 45;Comoros;c06;Veneer sheets;;
@@ -55,15 +55,15 @@ area_code;area;com_code;item;C_share;NC_share
 64;Faroe Islands;c06;Veneer sheets;;
 65;Falkland Islands (Malvinas);c06;Veneer sheets;;
 66;Fiji;c06;Veneer sheets;;
-67;Finland;c06;Veneer sheets;70;30
-68;France;c06;Veneer sheets;33;67
+67;Finland;c06;Veneer sheets;0.7;0.3
+68;France;c06;Veneer sheets;0.33;0.67
 69;French Guyana;c06;Veneer sheets;;
 70;French Polynesia;c06;Veneer sheets;;
 72;Djibouti;c06;Veneer sheets;;
 73;Georgia;c06;Veneer sheets;;
 74;Gabon;c06;Veneer sheets;;
 75;Gambia;c06;Veneer sheets;;
-79;Germany;c06;Veneer sheets;100;
+79;Germany;c06;Veneer sheets;1;
 80;Bosnia and Herzegovina;c06;Veneer sheets;;
 81;Ghana;c06;Veneer sheets;;
 82;Gibraltar;c06;Veneer sheets;;
@@ -72,15 +72,15 @@ area_code;area;com_code;item;C_share;NC_share
 87;Guadeloupe;c06;Veneer sheets;;
 89;Guatemala;c06;Veneer sheets;;
 90;Guinea;c06;Veneer sheets;;
-91;Guyana;c06;Veneer sheets;;100
+91;Guyana;c06;Veneer sheets;;1
 93;Haiti;c06;Veneer sheets;;
 95;Honduras;c06;Veneer sheets;;
 96;China, Hong Kong SAR;c06;Veneer sheets;;
 97;Hungary;c06;Veneer sheets;;
-98;Croatia;c06;Veneer sheets;0;100
+98;Croatia;c06;Veneer sheets;0;1
 99;Iceland;c06;Veneer sheets;;
 100;India;c06;Veneer sheets;;
-101;Indonesia;c06;Veneer sheets;1;99
+101;Indonesia;c06;Veneer sheets;0.01;0.99
 102;Iran (Islamic Republic of);c06;Veneer sheets;;
 103;Iraq;c06;Veneer sheets;;
 104;Ireland;c06;Veneer sheets;;
@@ -89,7 +89,7 @@ area_code;area;com_code;item;C_share;NC_share
 107;Cote d'Ivoire;c06;Veneer sheets;;
 108;Kazakhstan;c06;Veneer sheets;;
 109;Jamaica;c06;Veneer sheets;;
-110;Japan;c06;Veneer sheets;93;7
+110;Japan;c06;Veneer sheets;0.93;0.07
 112;Jordan;c06;Veneer sheets;;
 113;Kyrgyzstan;c06;Veneer sheets;;
 114;Kenya;c06;Veneer sheets;;
@@ -108,14 +108,14 @@ area_code;area;com_code;item;C_share;NC_share
 128;China, Macao SAR;c06;Veneer sheets;;
 129;Madagascar;c06;Veneer sheets;;
 130;Malawi;c06;Veneer sheets;;
-131;Malaysia;c06;Veneer sheets;;100
+131;Malaysia;c06;Veneer sheets;0;1
 132;Maldives;c06;Veneer sheets;;
 133;Mali;c06;Veneer sheets;;
 134;Malta;c06;Veneer sheets;;
 135;Martinique;c06;Veneer sheets;;
 136;Mauritania;c06;Veneer sheets;;
 137;Mauritius;c06;Veneer sheets;;
-138;Mexico;c06;Veneer sheets;70;30
+138;Mexico;c06;Veneer sheets;0.7;0.3
 141;Mongolia;c06;Veneer sheets;;
 143;Morocco;c06;Veneer sheets;;
 144;Mozambique;c06;Veneer sheets;;
@@ -128,7 +128,7 @@ area_code;area;com_code;item;C_share;NC_share
 153;New Caledonia;c06;Veneer sheets;;
 154;North Macedonia;c06;Veneer sheets;;
 155;Vanuatu;c06;Veneer sheets;;
-156;New Zealand;c06;Veneer sheets;100;
+156;New Zealand;c06;Veneer sheets;1;
 157;Nicaragua;c06;Veneer sheets;;
 158;Niger;c06;Veneer sheets;;
 159;Nigeria;c06;Veneer sheets;;
@@ -142,8 +142,8 @@ area_code;area;com_code;item;C_share;NC_share
 169;Paraguay;c06;Veneer sheets;;
 170;Peru;c06;Veneer sheets;;
 171;Philippines;c06;Veneer sheets;;
-173;Poland;c06;Veneer sheets;31;69
-174;Portugal;c06;Veneer sheets;63;37
+173;Poland;c06;Veneer sheets;0.31;0.69
+174;Portugal;c06;Veneer sheets;0.63;0.37
 175;Guinea-Bissau;c06;Veneer sheets;;
 176;Timor-Leste;c06;Veneer sheets;;
 178;Eritrea;c06;Veneer sheets;;
@@ -152,7 +152,7 @@ area_code;area;com_code;item;C_share;NC_share
 182;Reunion;c06;Veneer sheets;;
 183;Romania;c06;Veneer sheets;;
 184;Rwanda;c06;Veneer sheets;;
-185;Russian Federation;c06;Veneer sheets;5;95
+185;Russian Federation;c06;Veneer sheets;0.05;0.95
 186;Serbia and Montenegro;c06;Veneer sheets;;
 189;Saint Lucia;c06;Veneer sheets;;
 190;Saint Pierre and Miquelon;c06;Veneer sheets;;
@@ -162,16 +162,16 @@ area_code;area;com_code;item;C_share;NC_share
 195;Senegal;c06;Veneer sheets;;
 196;Seychelles;c06;Veneer sheets;;
 197;Sierra Leone;c06;Veneer sheets;;
-198;Slovenia;c06;Veneer sheets;5;95
-199;Slovakia;c06;Veneer sheets;36;64
+198;Slovenia;c06;Veneer sheets;0.05;0.95
+199;Slovakia;c06;Veneer sheets;0.36;0.64
 200;Singapore;c06;Veneer sheets;;
 201;Somalia;c06;Veneer sheets;;
-202;South Africa;c06;Veneer sheets;100;
-203;Spain;c06;Veneer sheets;40;60
-207;Suriname;c06;Veneer sheets;;100
+202;South Africa;c06;Veneer sheets;1;
+203;Spain;c06;Veneer sheets;0.4;0.6
+207;Suriname;c06;Veneer sheets;;1
 208;Tajikistan;c06;Veneer sheets;;
 209;Eswatini;c06;Veneer sheets;;
-210;Sweden;c06;Veneer sheets;100;
+210;Sweden;c06;Veneer sheets;1;
 211;Switzerland;c06;Veneer sheets;;
 212;Syrian Arab Republic;c06;Veneer sheets;;
 213;Turkmenistan;c06;Veneer sheets;;
@@ -189,9 +189,9 @@ area_code;area;com_code;item;C_share;NC_share
 226;Uganda;c06;Veneer sheets;;
 229;United Kingdom;c06;Veneer sheets;;
 230;Ukraine;c06;Veneer sheets;;
-231;United States of America;c06;Veneer sheets;87;13
+231;United States of America;c06;Veneer sheets;0.87;0.13
 233;Burkina Faso;c06;Veneer sheets;;
-234;Uruguay;c06;Veneer sheets;57;43
+234;Uruguay;c06;Veneer sheets;0.57;0.43
 235;Uzbekistan;c06;Veneer sheets;;
 236;Venezuela (Bolivarian Republic of);c06;Veneer sheets;;
 237;Viet Nam;c06;Veneer sheets;;
@@ -237,11 +237,12 @@ area_code;area;com_code;item;C_share;NC_share
 243;Wallis and Futuna Islands;c06;Veneer sheets;;
 248;Yugoslav SFR;c06;Veneer sheets;;
 258;Anguilla;c06;Veneer sheets;;
-279;Curaçao;c06;Veneer sheets;;
+279;CuraÃ§ao;c06;Veneer sheets;;
 281;Saint-Martin (French Part);c06;Veneer sheets;;
 299;Palestine;c06;Veneer sheets;;
 252;Unspecified Area;c06;Veneer sheets;;
 254;Others (adjustment);c06;Veneer sheets;;
+999;RoW;c06;Veneer sheets;;
 ;ASI;c06;Veneer sheets;;
 ;EUR;c06;Veneer sheets;;
 ;AFR;c06;Veneer sheets;;
@@ -274,13 +275,13 @@ area_code;area;com_code;item;C_share;NC_share
 28;Myanmar;c07;Plywood;;
 29;Burundi;c07;Plywood;;
 32;Cameroon;c07;Plywood;;
-33;Canada;c07;Plywood;87;13
+33;Canada;c07;Plywood;0.87;0.13
 35;Cabo Verde;c07;Plywood;;
 37;Central African Republic;c07;Plywood;;
 38;Sri Lanka;c07;Plywood;;
 39;Chad;c07;Plywood;;
-40;Chile;c07;Plywood;98;2
-41;China, mainland;c07;Plywood;25;75
+40;Chile;c07;Plywood;0.98;0.02
+41;China, mainland;c07;Plywood;0.25;0.75
 42;Christmas Island;c07;Plywood;;
 44;Colombia;c07;Plywood;;
 45;Comoros;c07;Plywood;;
@@ -304,15 +305,15 @@ area_code;area;com_code;item;C_share;NC_share
 64;Faroe Islands;c07;Plywood;;
 65;Falkland Islands (Malvinas);c07;Plywood;;
 66;Fiji;c07;Plywood;;
-67;Finland;c07;Plywood;70;30
-68;France;c07;Plywood;33;67
+67;Finland;c07;Plywood;0.7;0.3
+68;France;c07;Plywood;0.33;0.67
 69;French Guyana;c07;Plywood;;
 70;French Polynesia;c07;Plywood;;
 72;Djibouti;c07;Plywood;;
 73;Georgia;c07;Plywood;;
 74;Gabon;c07;Plywood;;
 75;Gambia;c07;Plywood;;
-79;Germany;c07;Plywood;100;
+79;Germany;c07;Plywood;1;
 80;Bosnia and Herzegovina;c07;Plywood;;
 81;Ghana;c07;Plywood;;
 82;Gibraltar;c07;Plywood;;
@@ -321,15 +322,15 @@ area_code;area;com_code;item;C_share;NC_share
 87;Guadeloupe;c07;Plywood;;
 89;Guatemala;c07;Plywood;;
 90;Guinea;c07;Plywood;;
-91;Guyana;c07;Plywood;;100
+91;Guyana;c07;Plywood;;1
 93;Haiti;c07;Plywood;;
 95;Honduras;c07;Plywood;;
 96;China, Hong Kong SAR;c07;Plywood;;
 97;Hungary;c07;Plywood;;
-98;Croatia;c07;Plywood;0;100
+98;Croatia;c07;Plywood;0;1
 99;Iceland;c07;Plywood;;
 100;India;c07;Plywood;;
-101;Indonesia;c07;Plywood;1;99
+101;Indonesia;c07;Plywood;0.01;0.99
 102;Iran (Islamic Republic of);c07;Plywood;;
 103;Iraq;c07;Plywood;;
 104;Ireland;c07;Plywood;;
@@ -338,7 +339,7 @@ area_code;area;com_code;item;C_share;NC_share
 107;Cote d'Ivoire;c07;Plywood;;
 108;Kazakhstan;c07;Plywood;;
 109;Jamaica;c07;Plywood;;
-110;Japan;c07;Plywood;93;7
+110;Japan;c07;Plywood;0.93;0.07
 112;Jordan;c07;Plywood;;
 113;Kyrgyzstan;c07;Plywood;;
 114;Kenya;c07;Plywood;;
@@ -357,14 +358,14 @@ area_code;area;com_code;item;C_share;NC_share
 128;China, Macao SAR;c07;Plywood;;
 129;Madagascar;c07;Plywood;;
 130;Malawi;c07;Plywood;;
-131;Malaysia;c07;Plywood;;100
+131;Malaysia;c07;Plywood;0;1
 132;Maldives;c07;Plywood;;
 133;Mali;c07;Plywood;;
 134;Malta;c07;Plywood;;
 135;Martinique;c07;Plywood;;
 136;Mauritania;c07;Plywood;;
 137;Mauritius;c07;Plywood;;
-138;Mexico;c07;Plywood;70;30
+138;Mexico;c07;Plywood;0.7;0.3
 141;Mongolia;c07;Plywood;;
 143;Morocco;c07;Plywood;;
 144;Mozambique;c07;Plywood;;
@@ -377,7 +378,7 @@ area_code;area;com_code;item;C_share;NC_share
 153;New Caledonia;c07;Plywood;;
 154;North Macedonia;c07;Plywood;;
 155;Vanuatu;c07;Plywood;;
-156;New Zealand;c07;Plywood;100;
+156;New Zealand;c07;Plywood;1;
 157;Nicaragua;c07;Plywood;;
 158;Niger;c07;Plywood;;
 159;Nigeria;c07;Plywood;;
@@ -391,8 +392,8 @@ area_code;area;com_code;item;C_share;NC_share
 169;Paraguay;c07;Plywood;;
 170;Peru;c07;Plywood;;
 171;Philippines;c07;Plywood;;
-173;Poland;c07;Plywood;31;69
-174;Portugal;c07;Plywood;63;37
+173;Poland;c07;Plywood;0.31;0.69
+174;Portugal;c07;Plywood;0.63;0.37
 175;Guinea-Bissau;c07;Plywood;;
 176;Timor-Leste;c07;Plywood;;
 178;Eritrea;c07;Plywood;;
@@ -401,7 +402,7 @@ area_code;area;com_code;item;C_share;NC_share
 182;Reunion;c07;Plywood;;
 183;Romania;c07;Plywood;;
 184;Rwanda;c07;Plywood;;
-185;Russian Federation;c07;Plywood;5;95
+185;Russian Federation;c07;Plywood;0.05;0.95
 186;Serbia and Montenegro;c07;Plywood;;
 189;Saint Lucia;c07;Plywood;;
 190;Saint Pierre and Miquelon;c07;Plywood;;
@@ -411,16 +412,16 @@ area_code;area;com_code;item;C_share;NC_share
 195;Senegal;c07;Plywood;;
 196;Seychelles;c07;Plywood;;
 197;Sierra Leone;c07;Plywood;;
-198;Slovenia;c07;Plywood;5;95
-199;Slovakia;c07;Plywood;36;64
+198;Slovenia;c07;Plywood;0.05;0.95
+199;Slovakia;c07;Plywood;0.36;0.64
 200;Singapore;c07;Plywood;;
 201;Somalia;c07;Plywood;;
-202;South Africa;c07;Plywood;100;
-203;Spain;c07;Plywood;40;60
-207;Suriname;c07;Plywood;;100
+202;South Africa;c07;Plywood;1;
+203;Spain;c07;Plywood;0.4;0.6
+207;Suriname;c07;Plywood;;1
 208;Tajikistan;c07;Plywood;;
 209;Eswatini;c07;Plywood;;
-210;Sweden;c07;Plywood;100;
+210;Sweden;c07;Plywood;1;
 211;Switzerland;c07;Plywood;;
 212;Syrian Arab Republic;c07;Plywood;;
 213;Turkmenistan;c07;Plywood;;
@@ -438,9 +439,9 @@ area_code;area;com_code;item;C_share;NC_share
 226;Uganda;c07;Plywood;;
 229;United Kingdom;c07;Plywood;;
 230;Ukraine;c07;Plywood;;
-231;United States of America;c07;Plywood;87;13
+231;United States of America;c07;Plywood;0.87;0.13
 233;Burkina Faso;c07;Plywood;;
-234;Uruguay;c07;Plywood;57;43
+234;Uruguay;c07;Plywood;0.57;0.43
 235;Uzbekistan;c07;Plywood;;
 236;Venezuela (Bolivarian Republic of);c07;Plywood;;
 237;Viet Nam;c07;Plywood;;
@@ -486,11 +487,12 @@ area_code;area;com_code;item;C_share;NC_share
 243;Wallis and Futuna Islands;c07;Plywood;;
 248;Yugoslav SFR;c07;Plywood;;
 258;Anguilla;c07;Plywood;;
-279;Curaçao;c07;Plywood;;
+279;CuraÃ§ao;c07;Plywood;;
 281;Saint-Martin (French Part);c07;Plywood;;
 299;Palestine;c07;Plywood;;
 252;Unspecified Area;c07;Plywood;;
 254;Others (adjustment);c07;Plywood;;
+999;RoW;c07;Plywood;;
 ;ASI;c07;Plywood;;
 ;EUR;c07;Plywood;;
 ;AFR;c07;Plywood;;
