@@ -69,6 +69,7 @@ btd <- btd[, list(value = na_sum(value)), by = c("com_code", "item",
 
 # Change units from tonnes to m3
 # for wood fuel, particle board, OSB, wood residues
+# Apply tcf_density 
 tcf <- fread("inst/tcf_use_tidy.csv")
 tcf <- rbind(tcf[com_code == "c03" & unit == "m3rw/tonne",],
   tcf[com_code == "c09" & unit == "kg/m3p",],

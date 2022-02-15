@@ -1,0 +1,43 @@
+com_code;item;subcom_code;subitem;prod_code;unit
+c01;Industrial roundwood, coniferous;c01_1;Sawlogs and veneerlogs, coniferous;1601;m3
+c01;Industrial roundwood, coniferous;c01_2;Pulpwood, coniferous;1602;m3
+c02;Industrial roundwood, non-coniferous;c02_1;Sawlogs and veneerlogs, non-coniferous;1604;m3
+c02;Industrial roundwood, non-coniferous;c02_2;Pulpwood, non-coniferous;1603;m3
+c03;Wood fuel;c03_c;Wood fuel, coniferous;1627;m3
+c03;Wood fuel;c03_nc;Wood fuel, non-coniferous;1628;m3
+c04;Sawnwood, coniferous;NA;NA;NA;NA
+c05;Sawnwood, non-coniferous;NA;NA;NA;NA
+c06;Veneer sheets;c06_c;Veneer sheets, coniferous;NA;NA
+c06;Veneer sheets;c06_nc;Veneer sheets, non-coniferous;NA;NA
+c07;Plywood;c07_c;Plywood, coniferous;NA;NA
+c07;Plywood;c07_nc;Plywood, non-coniferous;NA;NA
+c08;Fibreboard;c08_1;Fibreboard, hard;1647;m3
+c08;Fibreboard;c08_2;Fibreboard, MDF/HDF;1648;m3
+c08;Fibreboard;c08_3;Fibreboard, other;1650;m3
+c09;Particle board ;NA;NA;NA;NA
+c10;OSB;NA;NA;NA;NA
+c11a;Chemical wood pulp;NA;NA;NA;NA
+c11b;Mechanical and semi-chemical wood pulp;c11b_1;Mechanical wood pulp;1654;tonnes
+c11b;Mechanical and semi-chemical wood pulp;c11b_2;Semi-chemical wood pulp;1655;tonnes
+c11c;Pulp from fibres other than wood;NA;NA;NA;NA
+c11d;Dissolving wood pulp;NA;NA;NA;NA
+c12;Recovered paper;NA;NA;NA;NA
+c13;Recovered fibre pulp;NA;NA;NA;NA
+c14;Paper and paperboard;c14_1;Newsprints;1671;tonnes
+c14;Paper and paperboard;c14_2;Printing writing papers;1674;tonnes
+c14;Paper and paperboard;c14_2a;Printing writing papers, uncoated mechanical;1612;tonnes
+c14;Paper and paperboard;c14_2b;Printing writing papers, coated paper;1616;tonnes
+c14;Paper and paperboard;c14_3;Other paper and paperboard;1675;tonnes
+c14;Paper and paperboard;c14_3a;Other paper and paperboard, sanitary and household paper;1676;tonnes
+c14;Paper and paperboard;c14_3b;Other paper and paperboard, packaging materials;1681;tonnes
+c14;Paper and paperboard;c14_3c;Other paper and paperboard, case materials;1617;tonnes
+c14;Paper and paperboard;c14_3d;Other paper and paperboard, cartonboard;1618;tonnes
+c14;Paper and paperboard;c14_3e;Other paper and paperboard, wrapping papers;1621;tonnes
+c14;Paper and paperboard;c14_3f;Other paper and paperboard, other papers mainly for packaging;1622;tonnes
+c14;Paper and paperboard;c14_3g;Other paper and paperboard, nes;1683;tonnes
+c15;Wood pellets and other agglomerates;NA;NA;NA;NA
+c16;Wood charcoal;NA;NA;NA;NA
+c17;Wood chips and particles;NA;NA;NA;NA
+c18;Wood residues;NA;NA;NA;NA
+c19;Post-consumer wood;NA;NA;NA;NA
+c20;Black liquor;NA;NA;NA;NA
