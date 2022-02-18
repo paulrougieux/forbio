@@ -8,36 +8,32 @@ products <- fread("inst/products.csv")
 
 
 # MB SUP ----------------------------------------------------------------
-
 cat("\nTidying material balances for supply tables.\n")
 
-cat("\nTidying material balances of sawnwood.\n")
 
-# Read files
-# sup <- fread("inst/mb_sup.csv")
-# sup_cont <- sup[is.na(area_code)]
-# sup <- merge(sup, regions[, .(area_code, continent)],
-#              by = "area_code")
-# sup[continent == "EU", continent := "EUR"]
+cat("\nTidying material balances of sawnwood c04 and c05.\n")
 
 # Read file
 sup_sawnwood <- fread("inst/mb_sawnwood_raw.csv")
 
-# Tidy categories
+# Aggregation and renaming items
 sup_sawnwood[,  `:=`(residues = na_sum(sup_sawnwood$sawdust, sup_sawnwood$shavings))]
 sup_sawnwood[, `:=`(sawdust = NULL, shavings = NULL)]
-
-sup_cont <- sup_sawnwood[is.na(area_code)]
-sup_sawnwood <- merge(sup_sawnwood, regions[, .(area_code, continent)],
-  by = "area_code")
-sup_sawnwood[continent == "EU", continent := "EUR"]
+sup_sawnwood <- sup_sawnwood[, c("area_code", "area", "proc_code", 
+                                 "process", "product","chips","residues","shrinkage","literature")]
 
 # Apply continental average MB where no country-specific value available
+sup_cont <- sup_sawnwood[is.na(area_code)]
+sup_sawnwood <- merge(sup_sawnwood, regions[, .(area_code, continent)],
+                      by = "area_code")
+sup_sawnwood[continent == "EU", continent := "EUR"]
 sup_sawnwood <- merge(sup_sawnwood, sup_cont[, .(continent = area, proc_code, 
   c_product = product, c_chips = chips, c_residues = residues)],
   by = c("continent", "proc_code"), all.x = TRUE)
 
 # Calculate new "losses" to replace "shrinkage"
+# However, losses(shrinkage) need to be save for later calculation of product basic density
+# I don't know yet where to do this step - We'll see
 sup_sawnwood[,`:=`(shrinkage = NULL)]
 sup_sawnwood[, c_losses := 100 - (c_product + c_chips + c_residues)]
 sup_sawnwood[!is.na(product) & is.na(chips), 
@@ -46,47 +42,187 @@ sup_sawnwood[!is.na(product) & is.na(chips),
 sup_sawnwood[is.na(product), 
     `:=`(product = c_product, chips = c_chips, residues = c_residues)]
 
-#### I STAYED HERE ####
+# Correct c_losses to 0 when this is -1 and allocate -1 to chips
+sup_sawnwood[c_losses == "-1",
+             c_losses := "0"]
+sup_sawnwood[c_losses == "0",
+             c_chips := c_chips - 1]
 
-## losses/shrinkage need to be save for later calculation of product basic density
+sup_sawnwood[, `:=`(c_product = NULL, c_chips = NULL, c_residues = NULL, c_losses = NULL, literature = NULL)]
 
-sup_sawnwood[, `:=`(c_product = NULL, c_chips = NULL, c_residues = NULL, c_losses = NULL)]
-
-# apply world average MB where no continental average available
+# Apply world average MB where no continental average available
 sup_wrld <- sup_cont %>% 
   group_by(proc_code) %>% 
   summarize(w_product = mean(product, na.rm = TRUE),
             w_chips = mean(chips, na.rm = TRUE),
             w_residues = mean(residues, na.rm = TRUE)) %>% 
   ungroup()
-sup <- merge(sup, sup_wrld,
+sup_sawnwood <- merge(sup_sawnwood, sup_wrld,
   by = c("proc_code"), all.x = TRUE)
-sup[is.na(product), 
+sup_sawnwood[is.na(product), 
     `:=`(product = w_product, chips = w_chips, residues = w_residues)]
-sup[, `:=`(w_product = NULL, w_chips = NULL, w_residues = NULL)]
+sup_sawnwood[, `:=`(w_product = NULL, w_chips = NULL, w_residues = NULL)]
+
+# Convert into percentages ignoring losses
+sup_sawnwood[, total := product + chips + residues]
+sup_sawnwood[, `:=`(product = product / total,
+           chips = chips / total,
+           residues = residues / total,
+           total = NULL)]
+
+#fwrite(sup_sawnwood, "inst/mb_sawnwood_tidy.csv")
+rm(sup_cont, sup_wrld)
 
 
-# shift 20% of chips to product and residues
-# because chips actually includes peeler cores, etc.
-sup[proc_code %in% c("p06", "p07"), 
-    `:=`(product = product + chips * 0.2, residues = residues + chips * 0.2, chips = chips * 0.6)]
+cat("\nTidying material balances of veneer and plywood.\n")
 
+# Read file
+sup_venply <- fread("inst/mb_veneer,plywood_raw.csv")
+share_cnc <- fread("inst/share_cnc.csv")
 
-# convert into percentages ignoring losses
+share_venply <- share_cnc[com_code %in% c("c06","c07")]
+setnames(share_venply,c("com_code","item"),c("proc_code","process"))
+share_venply[proc_code == "c06", proc_code := "p06"]
+share_venply[proc_code == "c07", proc_code := "p07"]
+
+# Rename items 
+setnames(sup_venply,c("chips,peeler_cores","sanding_dust"),c("chips","residues"))
+
+# Prepare structure to calculate weighted average of TCFs
+sup_venply_average <- sup_venply[subproc_code %in% c("p06_c", "p07_c")]
+sup_venply_average[, `:=` (subproc_code = NULL, subprocess = NULL,
+                           product = NA, chips = NA, residues = NA, shrinkage = NA)]
+sup_venply_average <- merge(sup_venply_average,
+                     share_venply[, .(area_code, area, proc_code, c_share, nc_share)],
+                     by = c("area_code", "area", "proc_code"),all.x = TRUE)
+
+sup_c <- sup_venply[subproc_code %in% c("p06_c","p07_c")]
+sup_c <- sup_c %>%
+  rename(product_c = product, chips_c = chips, residues_c = residues, shrinkage_c = shrinkage)
+
+sup_nc <- sup_venply[subproc_code %in% c("p06_nc","p07_nc")]
+sup_nc <- sup_nc %>%
+  rename(product_nc = product, chips_nc = chips, residues_nc = residues, shrinkage_nc = shrinkage)
+
+sup_venply_average <- merge(sup_venply_average,
+                            sup_c[, .(area_code, area, proc_code, process, product_c, chips_c, residues_c, shrinkage_c)],
+                            by = c("area_code", "area", "proc_code", "process"),
+                            all.x = TRUE)
+sup_venply_average <- merge(sup_venply_average,
+                            sup_nc[, .(area_code, area, proc_code, process, product_nc, chips_nc, residues_nc, shrinkage_nc)],
+                            by = c("area_code", "area", "proc_code", "process"),
+                            all.x = TRUE)
+
+# Calculations
+sup_venply <- sup_venply_average[, `:=`(product = (c_share * product_c + nc_share * product_nc) / 100,
+                          chips = (c_share * chips_c + nc_share * chips_nc) / 100,
+                          residues = (c_share * residues_c + nc_share * residues_nc) / 100,
+                          shrinkage = (c_share * shrinkage_c + nc_share * shrinkage_nc) / 100)]
+sup_venply[is.na(product), 
+             `:=`(product = (product_c + product_nc)/2, chips = (chips_c + chips_nc)/2,
+                  residues = (residues_c + residues_nc)/2, shrinkage = (shrinkage_c + shrinkage_nc)/2)]
+sup_venply[is.na(product) & is.na(product_c), 
+           `:=`(product = product_nc, chips = chips_nc, residues = residues_nc, shrinkage = shrinkage_nc)]
+sup_venply[is.na(product) & is.na(product_nc), 
+           `:=`(product = product_c, chips = chips_c, residues = residues_c, shrinkage = shrinkage_c)]
+
+sup_venply[, `:=`(c_share = NULL, product_c = NULL, nc_share = NULL, product_nc = NULL, chips_c = NULL, chips_nc = NULL,
+                  residues_c = NULL, residues_nc = NULL, shrinkage_c = NULL, shrinkage_nc = NULL, literature = NULL)]
+
+sup_venply <- sup_venply[order(sup_venply$area_code),]
+
+rm(share_venply, sup_venply_average, sup_c, sup_nc)
+
+# Recalculate continental average (due to new weighted countries' averages)
+sup_venply <- merge(sup_venply, regions[, .(area_code, continent)],
+                    by = "area_code",
+                    all.x = TRUE)
+sup_venply[continent == "EU", continent := "EUR"]
+
+## I STAYED HERE 18.02; 15:44 ##
+## What follows is DRAFT ##
+
+# test 1
+library(dplyr)
+sup_venply %>% filter(continent == "AFR") %>% summarize(Avg = mean(Age))
+#test 2
+sup_venply[area == "AFR",
+           product := mean(sup_venply[sup_venply$continent == 'AFR', 'product'], na.rm = TRUE)]
+# do it with every continent
+
+# Apply continental average MB where no country-specific value available
+sup_cont <- sup_venply[is.na(area_code)]
+sup_venply <- merge(sup_venply, regions[, .(area_code, continent)],
+                    by = "area_code")
+sup_venply[continent == "EU", continent := "EUR"]
+
+sup_venply <- merge(sup_venply, sup_cont[, .(continent = area, proc_code, 
+                                                 c_product = product, c_chips = chips, c_residues = residues)],
+                      by = c("continent", "proc_code"), all.x = TRUE)
+
+# Calculate new "losses" to replace "shrinkage"
+# However, losses(shrinkage) need to be save for later calculation of product basic density
+# I don't know yet where to do this step
+# We'll see
+sup_venply[,`:=`(shrinkage = NULL)]
+sup_venply[, c_losses := 100 - (c_product + c_chips + c_residues)]
+sup_venply[!is.na(product) & is.na(chips), 
+             `:=`(chips = (100 - product - c_losses) / (c_chips + c_residues) * c_chips,
+                  residues = (100 - product - c_losses) / (c_chips + c_residues) * c_residues)]
+sup_venply[is.na(product), 
+             `:=`(product = c_product, chips = c_chips, residues = c_residues)]
+
+# Correct c_chips for LAM since c_losses is -1
+sup_venply[c_losses == "-1",
+             c_losses := "0"]
+sup_venply[c_losses == "0",
+             c_chips := c_chips - 1]
+
+sup_venply[, `:=`(c_product = NULL, c_chips = NULL, c_residues = NULL, c_losses = NULL)]
+
+# Apply world average MB where no continental average available
+sup_wrld <- sup_cont %>% 
+  group_by(proc_code) %>% 
+  summarize(w_product = mean(product, na.rm = TRUE),
+            w_chips = mean(chips, na.rm = TRUE),
+            w_residues = mean(residues, na.rm = TRUE)) %>% 
+  ungroup()
+sup_venply <- merge(sup_venply, sup_wrld,
+                      by = c("proc_code"), all.x = TRUE)
+sup_venply[is.na(product), 
+             `:=`(product = w_product, chips = w_chips, residues = w_residues)]
+sup_venply[, `:=`(w_product = NULL, w_chips = NULL, w_residues = NULL)]
+
+# Shift 20% of chips to product and residues
+# because original category was "chips, peeler cores, etc."
+#sup_venply[proc_code %in% c("p06", "p07"), 
+#    `:=`(product = product + chips * 0.2, residues = residues + chips * 0.2, chips = chips * 0.6)]
+sup_venply[`:=`(product = product + chips * 0.2, residues = residues + chips * 0.2, chips = chips * 0.6)]
+
+# Convert into percentages ignoring losses
 sup[, total := product + chips + residues]
 sup[, `:=`(product = product / total,
            chips = chips / total,
            residues = residues / total,
            total = NULL)]
 
-fwrite(sup, "inst/mb_sup_tidy.csv")
+#fwrite(sup, "inst/mb_sup_tidy.csv")
 rm(sup, sup_cont, sup_wrld)
+
+# Save mb_sup_tidy
+sup <- rbind(sup_sawnwood, sup_venply)
+fwrite(sup, "inst/mb_sup_tidy.csv")
+
+# Save shrinkage_tidy
+shrinkage_venply <- sup_venply[product = NULL, chips = NULL, residues = NULL]
+shrinkage_sawnwood <- sup_sawnwood[product = NULL, chips = NULL, residues = NULL]
+shrinkage_tidy <- rbind(shrinkage_venply, shrinkage_sawnwood)
+
 
 # Preparation ----------------------------------------------------------
 
 cat("\nAggregation of (sub)items and building weighted averages.\n")
-cat("\nfor c03, c06, c07.\n")
-cat("\nand for c01, c02, c08.\n")
+cat("\nfirst for c03, c06, c07.\n")
 
 ## Weighted average of c/nc tcf_raw ##
 ## For c03 wood fuel, c06 veneer sheets and c07 plywood ##
@@ -120,11 +256,28 @@ tcf_average <- merge(tcf_average,
                      all.x = TRUE)
 
 tcf_average[, `:=`(tcf = (c_share * tcf_c + nc_share * tcf_nc) / 100)]
+
+## Check cases that like in MB, there is no share information
+## but still tcfs
+## therefore normal average should be built
+## or take the existent tcf (either C or NC)
+
+# see example venply
+sup_venply[is.na(product), 
+           `:=`(product = (product_c + product_nc)/2, chips = (chips_c + chips_nc)/2,
+                residues = (residues_c + residues_nc)/2, shrinkage = (shrinkage_c + shrinkage_nc)/2)]
+sup_venply[is.na(product) & is.na(product_c), 
+           `:=`(product = product_nc, chips = chips_nc, residues = residues_nc, shrinkage = shrinkage_nc)]
+sup_venply[is.na(product) & is.na(product_nc), 
+           `:=`(product = product_c, chips = chips_c, residues = residues_c, shrinkage = shrinkage_c)]
+# end of example
+
 tcf_average[, `:=`(c_share = NULL, tcf_c = NULL, nc_share = NULL, tcf_nc = NULL)]
 tcf_average$literature <- NA
 
 tcf_average <- tcf_average[order(tcf_average$area_code),]
 
+cat("\nNow calculate weighted averages for c01, c02 and c08.\n")
 
 ## for c01 industrial roundwood, coniferous ##
 # Read file
