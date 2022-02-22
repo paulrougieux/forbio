@@ -10,8 +10,8 @@ products <- fread("inst/products.csv")
 # MB SUP ----------------------------------------------------------------
 cat("\nTidying material balances for supply tables.\n")
 
-
-cat("\nTidying material balances of sawnwood c04 and c05.\n")
+# Begin with c04 and c05
+cat("\nStep 1: Tidying material balances of sawnwood c04 and c05.\n")
 
 # Read file
 sup_sawnwood <- fread("inst/mb_sawnwood_raw.csv")
@@ -74,7 +74,8 @@ sup_sawnwood[, `:=`(product = product / total,
 rm(sup_cont, sup_wrld)
 
 
-cat("\nTidying material balances of veneer and plywood.\n")
+## Continue with c06 and c07 ##
+cat("\nStep 2: Tidying material balances of veneer and plywood.\n")
 
 # Read file
 sup_venply <- fread("inst/mb_veneer,plywood_raw.csv")
@@ -139,31 +140,39 @@ sup_venply <- merge(sup_venply, regions[, .(area_code, continent)],
                     all.x = TRUE)
 sup_venply[continent == "EU", continent := "EUR"]
 
-## I STAYED HERE 18.02; 15:44 ##
-## What follows is DRAFT ##
+sup_cont <- sup_venply %>%
+  group_by(continent, proc_code, process) %>%
+  summarize(product = mean(product, na.rm = TRUE),
+            chips = mean(chips, na.rm = TRUE),
+            residues = mean(residues, na.rm = TRUE),
+            shrinkage = mean(shrinkage, na.rm = TRUE)) %>%
+  ungroup()
+setnames(sup_cont,c("continent"),c("area"))
 
-# test 1
-library(dplyr)
-sup_venply %>% filter(continent == "AFR") %>% summarize(Avg = mean(Age))
-#test 2
-sup_venply[area == "AFR",
-           product := mean(sup_venply[sup_venply$continent == 'AFR', 'product'], na.rm = TRUE)]
-# do it with every continent
+setDT(sup_cont)
+sup_cont <- sup_cont[ area != 'XXX']
+sup_cont <- sup_cont[ area != 'ROW']
+
+sup_venply <- sup_venply[!is.na(area_code)]
+
+sup_venply <- rbind(sup_venply, sup_cont, fill=TRUE)
+
+rm(sup_cont, sup_cont_ply, sup_cont_ven)
 
 # Apply continental average MB where no country-specific value available
+
 sup_cont <- sup_venply[is.na(area_code)]
-sup_venply <- merge(sup_venply, regions[, .(area_code, continent)],
-                    by = "area_code")
-sup_venply[continent == "EU", continent := "EUR"]
 
 sup_venply <- merge(sup_venply, sup_cont[, .(continent = area, proc_code, 
-                                                 c_product = product, c_chips = chips, c_residues = residues)],
+                                                 c_product = product, c_chips = chips, c_residues = residues, c_shrinkage = shrinkage)],
                       by = c("continent", "proc_code"), all.x = TRUE)
 
 # Calculate new "losses" to replace "shrinkage"
 # However, losses(shrinkage) need to be save for later calculation of product basic density
 # I don't know yet where to do this step
 # We'll see
+# Update 22.02: This step is not working. Sum of all MB elements are not 100 yet
+# how is it for sawnwood?
 sup_venply[,`:=`(shrinkage = NULL)]
 sup_venply[, c_losses := 100 - (c_product + c_chips + c_residues)]
 sup_venply[!is.na(product) & is.na(chips), 
@@ -171,12 +180,6 @@ sup_venply[!is.na(product) & is.na(chips),
                   residues = (100 - product - c_losses) / (c_chips + c_residues) * c_residues)]
 sup_venply[is.na(product), 
              `:=`(product = c_product, chips = c_chips, residues = c_residues)]
-
-# Correct c_chips for LAM since c_losses is -1
-sup_venply[c_losses == "-1",
-             c_losses := "0"]
-sup_venply[c_losses == "0",
-             c_chips := c_chips - 1]
 
 sup_venply[, `:=`(c_product = NULL, c_chips = NULL, c_residues = NULL, c_losses = NULL)]
 
@@ -197,11 +200,14 @@ sup_venply[, `:=`(w_product = NULL, w_chips = NULL, w_residues = NULL)]
 # because original category was "chips, peeler cores, etc."
 #sup_venply[proc_code %in% c("p06", "p07"), 
 #    `:=`(product = product + chips * 0.2, residues = residues + chips * 0.2, chips = chips * 0.6)]
-sup_venply[`:=`(product = product + chips * 0.2, residues = residues + chips * 0.2, chips = chips * 0.6)]
+
+sup_venply[, `:=`(product = product + chips * 0.2, residues = residues + chips * 0.2, chips = chips * 0.6)]
+
+## MAYBE I CAN MERGE THE SANWOOD DATA TABLE HERE ALREADY
 
 # Convert into percentages ignoring losses
-sup[, total := product + chips + residues]
-sup[, `:=`(product = product / total,
+sup_venply[, total := product + chips + residues]
+sup_venply[, `:=`(product = product / total,
            chips = chips / total,
            residues = residues / total,
            total = NULL)]
