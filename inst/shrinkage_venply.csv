@@ -1,0 +1,501 @@
+area_code,area,proc_code,process,shrinkage
+,AFR,p06,Veneer production,4
+,ASI,p06,Veneer production,5.375
+,EUR,p06,Veneer production,6.76666666666667
+,LAM,p06,Veneer production,9.3
+,NAM,p06,Veneer production,4
+,OCE,p06,Veneer production,5.73708333333333
+4,Algeria,p06,Veneer production,4
+7,Angola,p06,Veneer production,4
+20,Botswana,p06,Veneer production,4
+29,Burundi,p06,Veneer production,4
+32,Cameroon,p06,Veneer production,4
+35,Cabo Verde,p06,Veneer production,4
+37,Central African Republic,p06,Veneer production,4
+39,Chad,p06,Veneer production,4
+45,Comoros,p06,Veneer production,4
+46,Congo,p06,Veneer production,4
+53,Benin,p06,Veneer production,4
+59,Egypt,p06,Veneer production,4
+61,Equatorial Guinea,p06,Veneer production,4
+72,Djibouti,p06,Veneer production,4
+74,Gabon,p06,Veneer production,4
+75,Gambia,p06,Veneer production,4
+81,Ghana,p06,Veneer production,4
+90,Guinea,p06,Veneer production,4
+107,Cote d'Ivoire,p06,Veneer production,4
+114,Kenya,p06,Veneer production,4
+122,Lesotho,p06,Veneer production,4
+123,Liberia,p06,Veneer production,4
+124,Libya,p06,Veneer production,4
+129,Madagascar,p06,Veneer production,4
+130,Malawi,p06,Veneer production,4
+133,Mali,p06,Veneer production,4
+136,Mauritania,p06,Veneer production,4
+137,Mauritius,p06,Veneer production,4
+143,Morocco,p06,Veneer production,4
+144,Mozambique,p06,Veneer production,4
+147,Namibia,p06,Veneer production,4
+158,Niger,p06,Veneer production,4
+159,Nigeria,p06,Veneer production,4
+175,Guinea-Bissau,p06,Veneer production,4
+178,Eritrea,p06,Veneer production,4
+181,Zimbabwe,p06,Veneer production,4
+182,Reunion,p06,Veneer production,4
+184,Rwanda,p06,Veneer production,4
+187,"Saint Helena, Ascension and Tristan da Cunha",p06,Veneer production,4
+193,Sao Tome and Principe,p06,Veneer production,4
+195,Senegal,p06,Veneer production,4
+196,Seychelles,p06,Veneer production,4
+197,Sierra Leone,p06,Veneer production,4
+201,Somalia,p06,Veneer production,4
+202,South Africa,p06,Veneer production,4
+205,Western Sahara,p06,Veneer production,4
+209,Eswatini,p06,Veneer production,4
+215,United Republic of Tanzania,p06,Veneer production,4
+217,Togo,p06,Veneer production,4
+219,Tonga,p06,Veneer production,4
+222,Tunisia,p06,Veneer production,4
+226,Uganda,p06,Veneer production,4
+233,Burkina Faso,p06,Veneer production,4
+238,Ethiopia,p06,Veneer production,4
+250,Democratic Republic of the Congo,p06,Veneer production,4
+251,Zambia,p06,Veneer production,4
+270,Mayotte,p06,Veneer production,4
+276,Sudan,p06,Veneer production,4
+277,South Sudan,p06,Veneer production,4
+1,Armenia,p06,Veneer production,5.375
+2,Afghanistan,p06,Veneer production,5.375
+13,Bahrain,p06,Veneer production,5.375
+16,Bangladesh,p06,Veneer production,5.375
+18,Bhutan,p06,Veneer production,5.375
+24,British Indian Ocean Territory,p06,Veneer production,5.375
+26,Brunei Darussalam,p06,Veneer production,5.375
+28,Myanmar,p06,Veneer production,5.375
+38,Sri Lanka,p06,Veneer production,5.375
+41,"China, mainland",p06,Veneer production,2.75
+52,Azerbaijan,p06,Veneer production,5.375
+73,Georgia,p06,Veneer production,5.375
+96,"China, Hong Kong SAR",p06,Veneer production,5.375
+100,India,p06,Veneer production,5.375
+101,Indonesia,p06,Veneer production,5.375
+102,Iran (Islamic Republic of),p06,Veneer production,5.375
+103,Iraq,p06,Veneer production,5.375
+105,Israel,p06,Veneer production,5.375
+108,Kazakhstan,p06,Veneer production,5.375
+110,Japan,p06,Veneer production,5.375
+112,Jordan,p06,Veneer production,5.375
+113,Kyrgyzstan,p06,Veneer production,5.375
+115,Cambodia,p06,Veneer production,5.375
+116,Democratic People's Republic of Korea,p06,Veneer production,5.375
+117,Republic of Korea,p06,Veneer production,5.375
+118,Kuwait,p06,Veneer production,5.375
+120,Lao People's Democratic Republic,p06,Veneer production,5.375
+121,Lebanon,p06,Veneer production,5.375
+128,"China, Macao SAR",p06,Veneer production,5.375
+131,Malaysia,p06,Veneer production,8
+132,Maldives,p06,Veneer production,5.375
+141,Mongolia,p06,Veneer production,5.375
+149,Nepal,p06,Veneer production,5.375
+164,Pacific Islands Trust Territory,p06,Veneer production,5.375
+165,Pakistan,p06,Veneer production,5.375
+171,Philippines,p06,Veneer production,5.375
+176,Timor-Leste,p06,Veneer production,5.375
+179,Qatar,p06,Veneer production,5.375
+194,Saudi Arabia,p06,Veneer production,5.375
+200,Singapore,p06,Veneer production,5.375
+208,Tajikistan,p06,Veneer production,5.375
+212,Syrian Arab Republic,p06,Veneer production,5.375
+213,Turkmenistan,p06,Veneer production,5.375
+214,"China, Taiwan Province of",p06,Veneer production,5.375
+216,Thailand,p06,Veneer production,5.375
+221,Oman,p06,Veneer production,5.375
+225,United Arab Emirates,p06,Veneer production,5.375
+228,USSR,p06,Veneer production,5.375
+235,Uzbekistan,p06,Veneer production,5.375
+237,Viet Nam,p06,Veneer production,5.375
+249,Yemen,p06,Veneer production,5.375
+299,Palestine,p06,Veneer production,5.375
+3,Albania,p06,Veneer production,5.34374999999999
+6,Andorra,p06,Veneer production,5.34374999999999
+11,Austria,p06,Veneer production,5.34374999999999
+15,Belgium-Luxembourg,p06,Veneer production,5.34374999999999
+27,Bulgaria,p06,Veneer production,5.34374999999999
+50,Cyprus,p06,Veneer production,5.34374999999999
+51,Czechoslovakia,p06,Veneer production,5.34374999999999
+54,Denmark,p06,Veneer production,5.34374999999999
+57,Belarus,p06,Veneer production,5.34374999999999
+63,Estonia,p06,Veneer production,5.34374999999999
+64,Faroe Islands,p06,Veneer production,5.34374999999999
+67,Finland,p06,Veneer production,7.6
+68,France,p06,Veneer production,5.34375000000001
+79,Germany,p06,Veneer production,5.34375
+80,Bosnia and Herzegovina,p06,Veneer production,5.34374999999999
+82,Gibraltar,p06,Veneer production,5.34374999999999
+84,Greece,p06,Veneer production,5.34374999999999
+85,Greenland,p06,Veneer production,5.34374999999999
+94,Holy See,p06,Veneer production,5.34374999999999
+97,Hungary,p06,Veneer production,5.34374999999999
+98,Croatia,p06,Veneer production,5.34374999999999
+99,Iceland,p06,Veneer production,5.34374999999999
+104,Ireland,p06,Veneer production,5.34374999999999
+106,Italy,p06,Veneer production,5.34374999999999
+119,Latvia,p06,Veneer production,5.34374999999999
+125,Liechtenstein,p06,Veneer production,5.34374999999999
+126,Lithuania,p06,Veneer production,6
+134,Malta,p06,Veneer production,5.34374999999999
+146,Republic of Moldova,p06,Veneer production,5.34374999999999
+150,Netherlands,p06,Veneer production,2
+154,North Macedonia,p06,Veneer production,5.34374999999999
+162,Norway,p06,Veneer production,5.34374999999999
+167,Czechia,p06,Veneer production,5.34374999999999
+173,Poland,p06,Veneer production,3
+174,Portugal,p06,Veneer production,5.34374999999999
+183,Romania,p06,Veneer production,5.34374999999999
+185,Russian Federation,p06,Veneer production,14
+186,Serbia and Montenegro,p06,Veneer production,5.34374999999999
+192,San Marino,p06,Veneer production,5.34374999999999
+198,Slovenia,p06,Veneer production,8
+199,Slovakia,p06,Veneer production,5.34374999999999
+203,Spain,p06,Veneer production,5.34374999999999
+210,Sweden,p06,Veneer production,5.34374999999999
+211,Switzerland,p06,Veneer production,5.34374999999999
+223,Turkey,p06,Veneer production,5.34374999999999
+229,United Kingdom,p06,Veneer production,5.34374999999999
+230,Ukraine,p06,Veneer production,5.34374999999999
+248,Yugoslav SFR,p06,Veneer production,5.34374999999999
+255,Belgium,p06,Veneer production,5.34374999999999
+256,Luxembourg,p06,Veneer production,5.34374999999999
+272,Serbia,p06,Veneer production,5.34374999999999
+273,Montenegro,p06,Veneer production,5.34374999999999
+8,Antigua and Barbuda,p06,Veneer production,9.96666666666666
+9,Argentina,p06,Veneer production,9.96666666666666
+12,Bahamas,p06,Veneer production,9.96666666666666
+14,Barbados,p06,Veneer production,9.96666666666666
+17,Bermuda,p06,Veneer production,9.96666666666666
+19,Bolivia (Plurinational State of),p06,Veneer production,9.96666666666666
+21,Brazil,p06,Veneer production,9.96666666666666
+22,Aruba,p06,Veneer production,9.96666666666666
+23,Belize,p06,Veneer production,9.96666666666666
+36,Cayman Islands,p06,Veneer production,9.96666666666666
+40,Chile,p06,Veneer production,9.96666666666665
+44,Colombia,p06,Veneer production,9.96666666666666
+48,Costa Rica,p06,Veneer production,9.96666666666666
+49,Cuba,p06,Veneer production,9.96666666666666
+55,Dominica,p06,Veneer production,9.96666666666666
+56,Dominican Republic,p06,Veneer production,9.96666666666666
+58,Ecuador,p06,Veneer production,9.96666666666666
+60,El Salvador,p06,Veneer production,9.96666666666666
+65,Falkland Islands (Malvinas),p06,Veneer production,9.96666666666666
+69,French Guyana,p06,Veneer production,9.96666666666666
+86,Grenada,p06,Veneer production,9.96666666666666
+87,Guadeloupe,p06,Veneer production,9.96666666666666
+89,Guatemala,p06,Veneer production,9.96666666666666
+91,Guyana,p06,Veneer production,9.96666666666666
+93,Haiti,p06,Veneer production,9.96666666666666
+95,Honduras,p06,Veneer production,9.96666666666666
+109,Jamaica,p06,Veneer production,9.96666666666666
+135,Martinique,p06,Veneer production,9.96666666666666
+138,Mexico,p06,Veneer production,9.3
+142,Montserrat,p06,Veneer production,9.96666666666666
+151,Netherlands Antilles,p06,Veneer production,9.96666666666666
+157,Nicaragua,p06,Veneer production,9.96666666666666
+166,Panama,p06,Veneer production,9.96666666666666
+169,Paraguay,p06,Veneer production,9.96666666666666
+170,Peru,p06,Veneer production,9.96666666666666
+188,Saint Kitts and Nevis,p06,Veneer production,9.96666666666666
+189,Saint Lucia,p06,Veneer production,9.96666666666666
+191,Saint Vincent and the Grenadines,p06,Veneer production,9.96666666666666
+207,Suriname,p06,Veneer production,9.96666666666666
+220,Trinidad and Tobago,p06,Veneer production,9.96666666666666
+224,Turks and Caicos Islands,p06,Veneer production,9.96666666666666
+234,Uruguay,p06,Veneer production,9.96666666666666
+236,Venezuela (Bolivarian Republic of),p06,Veneer production,9.96666666666666
+239,British Virgin Islands,p06,Veneer production,9.96666666666666
+258,Anguilla,p06,Veneer production,9.96666666666666
+279,Curaçao,p06,Veneer production,9.96666666666666
+281,Saint-Martin (French Part),p06,Veneer production,9.96666666666666
+33,Canada,p06,Veneer production,5
+190,Saint Pierre and Miquelon,p06,Veneer production,4
+231,United States of America,p06,Veneer production,3
+5,American Samoa,p06,Veneer production,5.73708333333333
+10,Australia,p06,Veneer production,5.73708333333333
+25,Solomon Islands,p06,Veneer production,5.73708333333333
+42,Christmas Island,p06,Veneer production,5.73708333333333
+43,Cocos (Keeling) Islands,p06,Veneer production,5.73708333333333
+47,Cook Islands,p06,Veneer production,5.73708333333333
+66,Fiji,p06,Veneer production,5.73708333333333
+70,French Polynesia,p06,Veneer production,5.73708333333333
+71,French Southern and Antarctic Territories,p06,Veneer production,5.73708333333333
+83,Kiribati,p06,Veneer production,5.73708333333333
+88,Guam,p06,Veneer production,5.73708333333333
+127,Marshall Islands,p06,Veneer production,5.73708333333333
+145,Micronesia (Federated States of),p06,Veneer production,5.73708333333333
+148,Nauru,p06,Veneer production,5.73708333333333
+153,New Caledonia,p06,Veneer production,5.73708333333333
+155,Vanuatu,p06,Veneer production,5.73708333333333
+156,New Zealand,p06,Veneer production,5.73708333333333
+160,Niue,p06,Veneer production,5.73708333333333
+161,Norfolk Island,p06,Veneer production,5.73708333333333
+163,Northern Mariana Islands,p06,Veneer production,5.73708333333333
+168,Papua New Guinea,p06,Veneer production,5.73708333333333
+172,Pitcairn Islands,p06,Veneer production,5.73708333333333
+180,Palau,p06,Veneer production,5.73708333333333
+218,Tokelau,p06,Veneer production,5.73708333333333
+227,Tuvalu,p06,Veneer production,5.73708333333333
+242,Wake Island,p06,Veneer production,5.73708333333333
+243,Wallis and Futuna Islands,p06,Veneer production,5.73708333333333
+244,Samoa,p06,Veneer production,5.73708333333333
+999,RoW,p06,Veneer production,5.73708333333333
+252,Unspecified Area,p06,Veneer production,5.73708333333333
+254,Others (adjustment),p06,Veneer production,5.73708333333333
+,AFR,p07,Plywood production,4
+,ASI,p07,Plywood production,5.375
+,EUR,p07,Plywood production,6.76666666666667
+,LAM,p07,Plywood production,9.3
+,NAM,p07,Plywood production,4
+,OCE,p07,Plywood production,5.73708333333333
+4,Algeria,p07,Plywood production,4
+7,Angola,p07,Plywood production,4
+20,Botswana,p07,Plywood production,4
+29,Burundi,p07,Plywood production,4
+32,Cameroon,p07,Plywood production,4
+35,Cabo Verde,p07,Plywood production,4
+37,Central African Republic,p07,Plywood production,4
+39,Chad,p07,Plywood production,4
+45,Comoros,p07,Plywood production,4
+46,Congo,p07,Plywood production,4
+53,Benin,p07,Plywood production,4
+59,Egypt,p07,Plywood production,4
+61,Equatorial Guinea,p07,Plywood production,4
+72,Djibouti,p07,Plywood production,4
+74,Gabon,p07,Plywood production,4
+75,Gambia,p07,Plywood production,4
+81,Ghana,p07,Plywood production,4
+90,Guinea,p07,Plywood production,4
+107,Cote d'Ivoire,p07,Plywood production,4
+114,Kenya,p07,Plywood production,4
+122,Lesotho,p07,Plywood production,4
+123,Liberia,p07,Plywood production,4
+124,Libya,p07,Plywood production,4
+129,Madagascar,p07,Plywood production,4
+130,Malawi,p07,Plywood production,4
+133,Mali,p07,Plywood production,4
+136,Mauritania,p07,Plywood production,4
+137,Mauritius,p07,Plywood production,4
+143,Morocco,p07,Plywood production,4
+144,Mozambique,p07,Plywood production,4
+147,Namibia,p07,Plywood production,4
+158,Niger,p07,Plywood production,4
+159,Nigeria,p07,Plywood production,4
+175,Guinea-Bissau,p07,Plywood production,4
+178,Eritrea,p07,Plywood production,4
+181,Zimbabwe,p07,Plywood production,4
+182,Reunion,p07,Plywood production,4
+184,Rwanda,p07,Plywood production,4
+187,"Saint Helena, Ascension and Tristan da Cunha",p07,Plywood production,4
+193,Sao Tome and Principe,p07,Plywood production,4
+195,Senegal,p07,Plywood production,4
+196,Seychelles,p07,Plywood production,4
+197,Sierra Leone,p07,Plywood production,4
+201,Somalia,p07,Plywood production,4
+202,South Africa,p07,Plywood production,4
+205,Western Sahara,p07,Plywood production,4
+209,Eswatini,p07,Plywood production,4
+215,United Republic of Tanzania,p07,Plywood production,4
+217,Togo,p07,Plywood production,4
+219,Tonga,p07,Plywood production,4
+222,Tunisia,p07,Plywood production,4
+226,Uganda,p07,Plywood production,4
+233,Burkina Faso,p07,Plywood production,4
+238,Ethiopia,p07,Plywood production,4
+250,Democratic Republic of the Congo,p07,Plywood production,4
+251,Zambia,p07,Plywood production,4
+270,Mayotte,p07,Plywood production,4
+276,Sudan,p07,Plywood production,4
+277,South Sudan,p07,Plywood production,4
+1,Armenia,p07,Plywood production,5.375
+2,Afghanistan,p07,Plywood production,5.375
+13,Bahrain,p07,Plywood production,5.375
+16,Bangladesh,p07,Plywood production,5.375
+18,Bhutan,p07,Plywood production,5.375
+24,British Indian Ocean Territory,p07,Plywood production,5.375
+26,Brunei Darussalam,p07,Plywood production,5.375
+28,Myanmar,p07,Plywood production,5.375
+38,Sri Lanka,p07,Plywood production,5.375
+41,"China, mainland",p07,Plywood production,2.75
+52,Azerbaijan,p07,Plywood production,5.375
+73,Georgia,p07,Plywood production,5.375
+96,"China, Hong Kong SAR",p07,Plywood production,5.375
+100,India,p07,Plywood production,5.375
+101,Indonesia,p07,Plywood production,5.375
+102,Iran (Islamic Republic of),p07,Plywood production,5.375
+103,Iraq,p07,Plywood production,5.375
+105,Israel,p07,Plywood production,5.375
+108,Kazakhstan,p07,Plywood production,5.375
+110,Japan,p07,Plywood production,5.375
+112,Jordan,p07,Plywood production,5.375
+113,Kyrgyzstan,p07,Plywood production,5.375
+115,Cambodia,p07,Plywood production,5.375
+116,Democratic People's Republic of Korea,p07,Plywood production,5.375
+117,Republic of Korea,p07,Plywood production,5.375
+118,Kuwait,p07,Plywood production,5.375
+120,Lao People's Democratic Republic,p07,Plywood production,5.375
+121,Lebanon,p07,Plywood production,5.375
+128,"China, Macao SAR",p07,Plywood production,5.375
+131,Malaysia,p07,Plywood production,8
+132,Maldives,p07,Plywood production,5.375
+141,Mongolia,p07,Plywood production,5.375
+149,Nepal,p07,Plywood production,5.375
+164,Pacific Islands Trust Territory,p07,Plywood production,5.375
+165,Pakistan,p07,Plywood production,5.375
+171,Philippines,p07,Plywood production,5.375
+176,Timor-Leste,p07,Plywood production,5.375
+179,Qatar,p07,Plywood production,5.375
+194,Saudi Arabia,p07,Plywood production,5.375
+200,Singapore,p07,Plywood production,5.375
+208,Tajikistan,p07,Plywood production,5.375
+212,Syrian Arab Republic,p07,Plywood production,5.375
+213,Turkmenistan,p07,Plywood production,5.375
+214,"China, Taiwan Province of",p07,Plywood production,5.375
+216,Thailand,p07,Plywood production,5.375
+221,Oman,p07,Plywood production,5.375
+225,United Arab Emirates,p07,Plywood production,5.375
+228,USSR,p07,Plywood production,5.375
+235,Uzbekistan,p07,Plywood production,5.375
+237,Viet Nam,p07,Plywood production,5.375
+249,Yemen,p07,Plywood production,5.375
+299,Palestine,p07,Plywood production,5.375
+3,Albania,p07,Plywood production,5.34374999999999
+6,Andorra,p07,Plywood production,5.34374999999999
+11,Austria,p07,Plywood production,5.34374999999999
+15,Belgium-Luxembourg,p07,Plywood production,5.34374999999999
+27,Bulgaria,p07,Plywood production,5.34374999999999
+50,Cyprus,p07,Plywood production,5.34374999999999
+51,Czechoslovakia,p07,Plywood production,5.34374999999999
+54,Denmark,p07,Plywood production,5.34374999999999
+57,Belarus,p07,Plywood production,5.34374999999999
+63,Estonia,p07,Plywood production,5.34374999999999
+64,Faroe Islands,p07,Plywood production,5.34374999999999
+67,Finland,p07,Plywood production,7.6
+68,France,p07,Plywood production,5.34375000000001
+79,Germany,p07,Plywood production,5.34375
+80,Bosnia and Herzegovina,p07,Plywood production,5.34374999999999
+82,Gibraltar,p07,Plywood production,5.34374999999999
+84,Greece,p07,Plywood production,5.34374999999999
+85,Greenland,p07,Plywood production,5.34374999999999
+94,Holy See,p07,Plywood production,5.34374999999999
+97,Hungary,p07,Plywood production,5.34374999999999
+98,Croatia,p07,Plywood production,5.34374999999999
+99,Iceland,p07,Plywood production,5.34374999999999
+104,Ireland,p07,Plywood production,5.34374999999999
+106,Italy,p07,Plywood production,5.34374999999999
+119,Latvia,p07,Plywood production,5.34374999999999
+125,Liechtenstein,p07,Plywood production,5.34374999999999
+126,Lithuania,p07,Plywood production,6
+134,Malta,p07,Plywood production,5.34374999999999
+146,Republic of Moldova,p07,Plywood production,5.34374999999999
+150,Netherlands,p07,Plywood production,2
+154,North Macedonia,p07,Plywood production,5.34374999999999
+162,Norway,p07,Plywood production,5.34374999999999
+167,Czechia,p07,Plywood production,5.34374999999999
+173,Poland,p07,Plywood production,3
+174,Portugal,p07,Plywood production,5.34374999999999
+183,Romania,p07,Plywood production,5.34374999999999
+185,Russian Federation,p07,Plywood production,14
+186,Serbia and Montenegro,p07,Plywood production,5.34374999999999
+192,San Marino,p07,Plywood production,5.34374999999999
+198,Slovenia,p07,Plywood production,8
+199,Slovakia,p07,Plywood production,5.34374999999999
+203,Spain,p07,Plywood production,5.34374999999999
+210,Sweden,p07,Plywood production,5.34374999999999
+211,Switzerland,p07,Plywood production,5.34374999999999
+223,Turkey,p07,Plywood production,5.34374999999999
+229,United Kingdom,p07,Plywood production,5.34374999999999
+230,Ukraine,p07,Plywood production,5.34374999999999
+248,Yugoslav SFR,p07,Plywood production,5.34374999999999
+255,Belgium,p07,Plywood production,5.34374999999999
+256,Luxembourg,p07,Plywood production,5.34374999999999
+272,Serbia,p07,Plywood production,5.34374999999999
+273,Montenegro,p07,Plywood production,5.34374999999999
+8,Antigua and Barbuda,p07,Plywood production,9.96666666666666
+9,Argentina,p07,Plywood production,9.96666666666666
+12,Bahamas,p07,Plywood production,9.96666666666666
+14,Barbados,p07,Plywood production,9.96666666666666
+17,Bermuda,p07,Plywood production,9.96666666666666
+19,Bolivia (Plurinational State of),p07,Plywood production,9.96666666666666
+21,Brazil,p07,Plywood production,9.96666666666666
+22,Aruba,p07,Plywood production,9.96666666666666
+23,Belize,p07,Plywood production,9.96666666666666
+36,Cayman Islands,p07,Plywood production,9.96666666666666
+40,Chile,p07,Plywood production,9.96666666666665
+44,Colombia,p07,Plywood production,9.96666666666666
+48,Costa Rica,p07,Plywood production,9.96666666666666
+49,Cuba,p07,Plywood production,9.96666666666666
+55,Dominica,p07,Plywood production,9.96666666666666
+56,Dominican Republic,p07,Plywood production,9.96666666666666
+58,Ecuador,p07,Plywood production,9.96666666666666
+60,El Salvador,p07,Plywood production,9.96666666666666
+65,Falkland Islands (Malvinas),p07,Plywood production,9.96666666666666
+69,French Guyana,p07,Plywood production,9.96666666666666
+86,Grenada,p07,Plywood production,9.96666666666666
+87,Guadeloupe,p07,Plywood production,9.96666666666666
+89,Guatemala,p07,Plywood production,9.96666666666666
+91,Guyana,p07,Plywood production,9.96666666666666
+93,Haiti,p07,Plywood production,9.96666666666666
+95,Honduras,p07,Plywood production,9.96666666666666
+109,Jamaica,p07,Plywood production,9.96666666666666
+135,Martinique,p07,Plywood production,9.96666666666666
+138,Mexico,p07,Plywood production,9.3
+142,Montserrat,p07,Plywood production,9.96666666666666
+151,Netherlands Antilles,p07,Plywood production,9.96666666666666
+157,Nicaragua,p07,Plywood production,9.96666666666666
+166,Panama,p07,Plywood production,9.96666666666666
+169,Paraguay,p07,Plywood production,9.96666666666666
+170,Peru,p07,Plywood production,9.96666666666666
+188,Saint Kitts and Nevis,p07,Plywood production,9.96666666666666
+189,Saint Lucia,p07,Plywood production,9.96666666666666
+191,Saint Vincent and the Grenadines,p07,Plywood production,9.96666666666666
+207,Suriname,p07,Plywood production,9.96666666666666
+220,Trinidad and Tobago,p07,Plywood production,9.96666666666666
+224,Turks and Caicos Islands,p07,Plywood production,9.96666666666666
+234,Uruguay,p07,Plywood production,9.96666666666666
+236,Venezuela (Bolivarian Republic of),p07,Plywood production,9.96666666666666
+239,British Virgin Islands,p07,Plywood production,9.96666666666666
+258,Anguilla,p07,Plywood production,9.96666666666666
+279,Curaçao,p07,Plywood production,9.96666666666666
+281,Saint-Martin (French Part),p07,Plywood production,9.96666666666666
+33,Canada,p07,Plywood production,5
+190,Saint Pierre and Miquelon,p07,Plywood production,4
+231,United States of America,p07,Plywood production,3
+5,American Samoa,p07,Plywood production,5.73708333333333
+10,Australia,p07,Plywood production,5.73708333333333
+25,Solomon Islands,p07,Plywood production,5.73708333333333
+42,Christmas Island,p07,Plywood production,5.73708333333333
+43,Cocos (Keeling) Islands,p07,Plywood production,5.73708333333333
+47,Cook Islands,p07,Plywood production,5.73708333333333
+66,Fiji,p07,Plywood production,5.73708333333333
+70,French Polynesia,p07,Plywood production,5.73708333333333
+71,French Southern and Antarctic Territories,p07,Plywood production,5.73708333333333
+83,Kiribati,p07,Plywood production,5.73708333333333
+88,Guam,p07,Plywood production,5.73708333333333
+127,Marshall Islands,p07,Plywood production,5.73708333333333
+145,Micronesia (Federated States of),p07,Plywood production,5.73708333333333
+148,Nauru,p07,Plywood production,5.73708333333333
+153,New Caledonia,p07,Plywood production,5.73708333333333
+155,Vanuatu,p07,Plywood production,5.73708333333333
+156,New Zealand,p07,Plywood production,5.73708333333333
+160,Niue,p07,Plywood production,5.73708333333333
+161,Norfolk Island,p07,Plywood production,5.73708333333333
+163,Northern Mariana Islands,p07,Plywood production,5.73708333333333
+168,Papua New Guinea,p07,Plywood production,5.73708333333333
+172,Pitcairn Islands,p07,Plywood production,5.73708333333333
+180,Palau,p07,Plywood production,5.73708333333333
+218,Tokelau,p07,Plywood production,5.73708333333333
+227,Tuvalu,p07,Plywood production,5.73708333333333
+242,Wake Island,p07,Plywood production,5.73708333333333
+243,Wallis and Futuna Islands,p07,Plywood production,5.73708333333333
+244,Samoa,p07,Plywood production,5.73708333333333
+999,RoW,p07,Plywood production,5.73708333333333
+252,Unspecified Area,p07,Plywood production,5.73708333333333
+254,Others (adjustment),p07,Plywood production,5.73708333333333

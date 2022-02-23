@@ -20,7 +20,7 @@ sup_sawnwood <- fread("inst/mb_sawnwood_raw.csv")
 sup_sawnwood[,  `:=`(residues = na_sum(sup_sawnwood$sawdust, sup_sawnwood$shavings))]
 sup_sawnwood[, `:=`(sawdust = NULL, shavings = NULL)]
 sup_sawnwood <- sup_sawnwood[, c("area_code", "area", "proc_code", 
-                                 "process", "product","chips","residues","shrinkage","literature")]
+                                 "process", "product","chips","residues","shrinkage")]
 
 # Apply continental average MB where no country-specific value available
 sup_cont <- sup_sawnwood[is.na(area_code)]
@@ -31,24 +31,27 @@ sup_sawnwood <- merge(sup_sawnwood, sup_cont[, .(continent = area, proc_code,
   c_product = product, c_chips = chips, c_residues = residues)],
   by = c("continent", "proc_code"), all.x = TRUE)
 
-# Calculate new "losses" to replace "shrinkage"
-# However, losses(shrinkage) need to be save for later calculation of product basic density
-# I don't know yet where to do this step - We'll see
-sup_sawnwood[,`:=`(shrinkage = NULL)]
+# Calculate new "losses"(shrinkage)
 sup_sawnwood[, c_losses := 100 - (c_product + c_chips + c_residues)]
+
+# Correct c_losses to 0 when this is -1 and allocate -1 to chips
+sup_sawnwood[c_losses == -1,
+             c_losses := 0]
+sup_sawnwood[c_losses == 0,
+             c_chips := c_chips - 1]
+
+# Or allocation in both but this does not seem to work
+# sup_sawnwood[c_losses == 0,
+#              c_chips := c_chips - 0.5,
+#              c_residues := c_residues - 0.5]
+
 sup_sawnwood[!is.na(product) & is.na(chips), 
     `:=`(chips = (100 - product - c_losses) / (c_chips + c_residues) * c_chips,
          residues = (100 - product - c_losses) / (c_chips + c_residues) * c_residues)]
 sup_sawnwood[is.na(product), 
     `:=`(product = c_product, chips = c_chips, residues = c_residues)]
 
-# Correct c_losses to 0 when this is -1 and allocate -1 to chips
-sup_sawnwood[c_losses == "-1",
-             c_losses := "0"]
-sup_sawnwood[c_losses == "0",
-             c_chips := c_chips - 1]
-
-sup_sawnwood[, `:=`(c_product = NULL, c_chips = NULL, c_residues = NULL, c_losses = NULL, literature = NULL)]
+sup_sawnwood[, `:=`(c_product = NULL, c_chips = NULL, c_residues = NULL, c_losses = NULL)]
 
 # Apply world average MB where no continental average available
 sup_wrld <- sup_cont %>% 
@@ -63,6 +66,12 @@ sup_sawnwood[is.na(product),
     `:=`(product = w_product, chips = w_chips, residues = w_residues)]
 sup_sawnwood[, `:=`(w_product = NULL, w_chips = NULL, w_residues = NULL)]
 
+# Create shrinkage csv
+sup_sawnwood[is.na(shrinkage),
+             `:=`(shrinkage = 100 - product - chips - residues)]
+shrinkage_sawnwood <- sup_sawnwood[, c("area_code", "area", "proc_code","process","shrinkage")]
+fwrite(shrinkage_sawnwood, "inst/shrinkage_sawnwood.csv")
+
 # Convert into percentages ignoring losses
 sup_sawnwood[, total := product + chips + residues]
 sup_sawnwood[, `:=`(product = product / total,
@@ -70,8 +79,7 @@ sup_sawnwood[, `:=`(product = product / total,
            residues = residues / total,
            total = NULL)]
 
-#fwrite(sup_sawnwood, "inst/mb_sawnwood_tidy.csv")
-rm(sup_cont, sup_wrld)
+rm(sup_cont, sup_wrld, shrinkage_sawnwood)
 
 
 ## Continue with c06 and c07 ##
@@ -114,7 +122,7 @@ sup_venply_average <- merge(sup_venply_average,
                             by = c("area_code", "area", "proc_code", "process"),
                             all.x = TRUE)
 
-# Calculations
+# Calculate weighted averages
 sup_venply <- sup_venply_average[, `:=`(product = (c_share * product_c + nc_share * product_nc) / 100,
                           chips = (c_share * chips_c + nc_share * chips_nc) / 100,
                           residues = (c_share * residues_c + nc_share * residues_nc) / 100,
@@ -152,28 +160,16 @@ setnames(sup_cont,c("continent"),c("area"))
 setDT(sup_cont)
 sup_cont <- sup_cont[ area != 'XXX']
 sup_cont <- sup_cont[ area != 'ROW']
-
 sup_venply <- sup_venply[!is.na(area_code)]
-
 sup_venply <- rbind(sup_venply, sup_cont, fill=TRUE)
 
-rm(sup_cont, sup_cont_ply, sup_cont_ven)
-
 # Apply continental average MB where no country-specific value available
-
 sup_cont <- sup_venply[is.na(area_code)]
-
 sup_venply <- merge(sup_venply, sup_cont[, .(continent = area, proc_code, 
-                                                 c_product = product, c_chips = chips, c_residues = residues, c_shrinkage = shrinkage)],
+                                                 c_product = product, c_chips = chips, c_residues = residues)],
                       by = c("continent", "proc_code"), all.x = TRUE)
 
-# Calculate new "losses" to replace "shrinkage"
-# However, losses(shrinkage) need to be save for later calculation of product basic density
-# I don't know yet where to do this step
-# We'll see
-# Update 22.02: This step is not working. Sum of all MB elements are not 100 yet
-# how is it for sawnwood?
-sup_venply[,`:=`(shrinkage = NULL)]
+# Calculate new "losses" ("shrinkage")
 sup_venply[, c_losses := 100 - (c_product + c_chips + c_residues)]
 sup_venply[!is.na(product) & is.na(chips), 
              `:=`(chips = (100 - product - c_losses) / (c_chips + c_residues) * c_chips,
@@ -196,14 +192,14 @@ sup_venply[is.na(product),
              `:=`(product = w_product, chips = w_chips, residues = w_residues)]
 sup_venply[, `:=`(w_product = NULL, w_chips = NULL, w_residues = NULL)]
 
-# Shift 20% of chips to product and residues
-# because original category was "chips, peeler cores, etc."
-#sup_venply[proc_code %in% c("p06", "p07"), 
-#    `:=`(product = product + chips * 0.2, residues = residues + chips * 0.2, chips = chips * 0.6)]
-
+# Shift 20% of chips to product and residues (original category was "chips, peeler cores, etc.")
 sup_venply[, `:=`(product = product + chips * 0.2, residues = residues + chips * 0.2, chips = chips * 0.6)]
 
-## MAYBE I CAN MERGE THE SANWOOD DATA TABLE HERE ALREADY
+# Create shrinkage csv
+sup_venply[is.na(shrinkage),
+             `:=`(shrinkage = 100 - product - chips - residues)]
+shrinkage_venply <- sup_venply[, c("area_code", "area", "proc_code","process","shrinkage")]
+fwrite(shrinkage_venply, "inst/shrinkage_venply.csv")
 
 # Convert into percentages ignoring losses
 sup_venply[, total := product + chips + residues]
@@ -212,42 +208,33 @@ sup_venply[, `:=`(product = product / total,
            residues = residues / total,
            total = NULL)]
 
-#fwrite(sup, "inst/mb_sup_tidy.csv")
-rm(sup, sup_cont, sup_wrld)
-
 # Save mb_sup_tidy
+sup_venply <- sup_venply[!is.na(area_code)]
 sup <- rbind(sup_sawnwood, sup_venply)
 fwrite(sup, "inst/mb_sup_tidy.csv")
 
-# Save shrinkage_tidy
-shrinkage_venply <- sup_venply[product = NULL, chips = NULL, residues = NULL]
-shrinkage_sawnwood <- sup_sawnwood[product = NULL, chips = NULL, residues = NULL]
-shrinkage_tidy <- rbind(shrinkage_venply, shrinkage_sawnwood)
+rm(shrinkage_venply, sup_cont, sup_wrld, sup_sawnwood, sup_venply, sup)
 
 
-# Preparation ----------------------------------------------------------
+# TCF -----------------------------------------------------------------------------------------
 
-cat("\nAggregation of (sub)items and building weighted averages.\n")
-cat("\nfirst for c03, c06, c07.\n")
-
-## Weighted average of c/nc tcf_raw ##
-## For c03 wood fuel, c06 veneer sheets and c07 plywood ##
+cat("\nStep 1: Aggregation of (sub)items to build weighted averages for c03, c06, c07.\n")
 
 # Read files
-tcf <- fread("inst/tcf_raw.csv")
+tcf_raw <- fread("inst/tcf_raw.csv")
 share_cnc <- fread("inst/share_cnc.csv")
 
-# Calculation of weighted average of TCFs
-tcf_average <- tcf[subcom_code %in% c("c03_c", "c06_c", "c07_c")]
-tcf_average[, `:=` (subcom_code = NA, subitem = NA, source_code = NA, source = NA, tcf = NA, literature = "own calculation")]
+# Preparing structure of table
+tcf_average <- tcf_raw[subcom_code %in% c("c03_c", "c06_c", "c07_c")]
+tcf_average[, `:=` (subcom_code = NA, subitem = NA, source_code = NA, source = NA, tcf = NA)]
 tcf_average <- merge(tcf_average,
                      share_cnc[, .(area_code, area, com_code, item, c_share, nc_share)],
                      by = c("area_code", "area", "com_code", "item"),all.x = TRUE)
 
-tcf_c <- tcf[subcom_code %in% c("c03_c","c06_c","c07_c")]
+tcf_c <- tcf_raw[subcom_code %in% c("c03_c","c06_c","c07_c")]
 tcf_c <- tcf_c %>%
   rename(tcf_c = tcf)
-tcf_nc <- tcf[subcom_code %in% c("c03_nc","c06_nc","c07_nc")]
+tcf_nc <- tcf_raw[subcom_code %in% c("c03_nc","c06_nc","c07_nc")]
 tcf_nc <- tcf_nc %>%
   rename(tcf_nc = tcf)
 
@@ -255,60 +242,351 @@ tcf_average <- merge(tcf_average,
                      tcf_c[, .(area_code, area, com_code, item, unit, tcf_type, tcf_c)],
                      by = c("area_code", "area", "com_code", "item", "unit", "tcf_type"),
                      all.x = TRUE)
-
 tcf_average <- merge(tcf_average,
                      tcf_nc[, .(area_code, area, com_code, item, unit, tcf_type, tcf_nc)],
                      by = c("area_code", "area", "com_code", "item", "unit", "tcf_type"),
                      all.x = TRUE)
 
+# Calculation of (weighted) averages
 tcf_average[, `:=`(tcf = (c_share * tcf_c + nc_share * tcf_nc) / 100)]
-
-## Check cases that like in MB, there is no share information
-## but still tcfs
-## therefore normal average should be built
-## or take the existent tcf (either C or NC)
-
-# see example venply
-sup_venply[is.na(product), 
-           `:=`(product = (product_c + product_nc)/2, chips = (chips_c + chips_nc)/2,
-                residues = (residues_c + residues_nc)/2, shrinkage = (shrinkage_c + shrinkage_nc)/2)]
-sup_venply[is.na(product) & is.na(product_c), 
-           `:=`(product = product_nc, chips = chips_nc, residues = residues_nc, shrinkage = shrinkage_nc)]
-sup_venply[is.na(product) & is.na(product_nc), 
-           `:=`(product = product_c, chips = chips_c, residues = residues_c, shrinkage = shrinkage_c)]
-# end of example
-
-tcf_average[, `:=`(c_share = NULL, tcf_c = NULL, nc_share = NULL, tcf_nc = NULL)]
-tcf_average$literature <- NA
-
+tcf_average[is.na(tcf_c), `:=`(tcf = tcf_nc)]
+tcf_average[is.na(tcf_nc), `:=`(tcf = tcf_c)]
+tcf_average[is.na(c_share) & is.na(nc_share) & !is.na(tcf_nc) & !is.na(tcf_c),
+                                                      `:=`(tcf = (tcf_nc + tcf_c)/2)]
+tcf_average[, `:=`(c_share = NULL, nc_share = NULL, tcf_c = NULL, tcf_nc = NULL, 
+                   subcom_code = NULL, subitem = NULL, source_code = NULL, source = NULL,
+                   literature = NULL, description = NULL)]
 tcf_average <- tcf_average[order(tcf_average$area_code),]
+
+rm(share_cnc, tcf, tcf_c, tcf_nc)
+
+# Recalculate continental averages
+tcf_average <- merge(tcf_average, regions[, .(area_code, continent)],
+                    by = "area_code",
+                    all.x = TRUE)
+tcf_average[continent == "EU", continent := "EUR"]
+tcf_cont <- tcf_average %>%
+  group_by(continent, com_code, item, tcf_type, unit) %>%
+  summarize(tcf = mean(tcf, na.rm = TRUE)) %>%
+  ungroup()
+setnames(tcf_cont,c("continent"),c("area"))
+setDT(tcf_cont)
+tcf_cont <- tcf_cont[ area != 'XXX']
+tcf_cont <- tcf_cont[ area != 'ROW']
+tcf_cont <- tcf_cont[, "continent":= NA]
+tcf_cont <- tcf_cont[, "area_code":= NA]
+tcf_average <- rbind(tcf_average, tcf_cont, fill=TRUE)
+# The following should be done more elegantly (with region)
+tcf_average <- tcf_average[continent != 'XXX']
+
+# Apply continental average tcf where no country-specific value available
+tcf_average <- merge(tcf_average, tcf_cont[, .(continent = area, com_code, tcf_type, c_tcf = tcf)],
+                    by = c("continent", "com_code", "tcf_type"), all.x = TRUE)
+tcf_average[is.na(tcf), `:=`(tcf = c_tcf)]
+tcf_average[, `:=`(c_tcf = NULL)]
+
+# Apply world average tcf where no continental average available
+tcf_wrld <- tcf_cont %>% 
+  group_by(com_code, tcf_type) %>% 
+  summarize(w_tcf = mean(tcf, na.rm = TRUE)) %>% 
+  ungroup()
+tcf_average <- merge(tcf_average, tcf_wrld,
+                    by = c("com_code", "tcf_type"), all.x = TRUE)
+tcf_average[is.na(tcf), `:=`(tcf = w_tcf)]
+tcf_average[, `:=`(w_tcf = NULL, continent = NULL)]
+rm(tcf_cont, tcf_wrld)
+
+# Unite with rest of tcf_raw, replacing old tcf
+tcf_raw <- fread("inst/tcf_raw.csv")
+tcf_average <- tcf_average[, `:=`(description = NA, literature = NA, subcom_code = NA, subitem = NA, source = NA, source_code = NA)]
+
+`%nin%` = Negate(`%in%`)
+
+tcf_raw <-tcf_raw[com_code %nin% c("c03", "c06", "c07"),]
+tcf_prep <- rbind(tcf_raw, tcf_average)
+
+rm(tcf_average, tcf_raw)
 
 cat("\nNow calculate weighted averages for c01, c02 and c08.\n")
 
-## for c01 industrial roundwood, coniferous ##
+## For c01 industrial roundwood, coniferous ##
+
 # Read file
 share_irwc <- fread("inst/share_irwc.csv")
-# Calculation of weighted average of TCFs
+
+# Prepare structure of table
+tcf_average <- tcf_prep[subcom_code == "c01_1"]
+tcf_average[, `:=` (subcom_code = NA, subitem = NA, source_code = NA, source = NA, tcf = NA)]
+tcf_average <- merge(tcf_average,
+                     share_irwc[, .(area_code, area, com_code, item, c01_1_share, c01_2_share)],
+                     by = c("area_code", "area", "com_code", "item"),all.x = TRUE)
+
+tcf_1 <- tcf_prep[subcom_code == "c01_1"]
+tcf_1 <- tcf_1 %>%
+  rename(tcf_1 = tcf)
+tcf_2 <- tcf_prep[subcom_code == "c01_2"]
+tcf_2 <- tcf_2 %>%
+  rename(tcf_2 = tcf)
+
+tcf_average <- merge(tcf_average,
+                     tcf_1[, .(area_code, area, com_code, item, unit, tcf_type, tcf_1)],
+                     by = c("area_code", "area", "com_code", "item", "unit", "tcf_type"),
+                     all.x = TRUE)
+tcf_average <- merge(tcf_average,
+                     tcf_2[, .(area_code, area, com_code, item, unit, tcf_type, tcf_2)],
+                     by = c("area_code", "area", "com_code", "item", "unit", "tcf_type"),
+                     all.x = TRUE)
+
+# Calculation of (weighted) averages
+tcf_average[, `:=`(tcf = (c01_1_share * tcf_1 + c01_2_share * tcf_2) / 100)]
+tcf_average[is.na(tcf_1), `:=`(tcf = tcf_2)]
+tcf_average[is.na(tcf_2), `:=`(tcf = tcf_1)]
+tcf_average[is.na(c01_1_share) & is.na(c01_2_share) & !is.na(tcf_1) & !is.na(tcf_2),
+            `:=`(tcf = (tcf_1 + tcf_2)/2)]
+tcf_average[, `:=`(c01_1_share = NULL, c01_2_share = NULL, tcf_1 = NULL, tcf_2 = NULL, 
+                   subcom_code = NULL, subitem = NULL, source_code = NULL, source = NULL,
+                   literature = NULL, description = NULL)]
+tcf_average <- tcf_average[order(tcf_average$area_code),]
+
+rm(share_irwc, tcf_1, tcf_2)
+
+# Recalculate continental averages
+tcf_average <- merge(tcf_average, regions[, .(area_code, continent)],
+                     by = "area_code",
+                     all.x = TRUE)
+tcf_average[continent == "EU", continent := "EUR"]
+tcf_cont <- tcf_average %>%
+  group_by(continent, com_code, item, tcf_type, unit) %>%
+  summarize(tcf = mean(tcf, na.rm = TRUE)) %>%
+  ungroup()
+setnames(tcf_cont,c("continent"),c("area"))
+setDT(tcf_cont)
+tcf_cont <- tcf_cont[ area != 'XXX']
+tcf_cont <- tcf_cont[ area != 'ROW']
+tcf_cont <- tcf_cont[, "continent":= NA]
+tcf_cont <- tcf_cont[, "area_code":= NA]
+tcf_average <- rbind(tcf_average, tcf_cont, fill=TRUE)
+# The following should be done more elegantly (with region)
+tcf_average <- tcf_average[continent != 'XXX']
+
+# Apply continental average tcf where no country-specific value available
+tcf_average <- merge(tcf_average, tcf_cont[, .(continent = area, com_code, tcf_type, c_tcf = tcf)],
+                     by = c("continent", "com_code", "tcf_type"), all.x = TRUE)
+tcf_average[is.na(tcf), `:=`(tcf = c_tcf)]
+tcf_average[, `:=`(c_tcf = NULL)]
+
+# Apply world average tcf where no continental average available
+tcf_wrld <- tcf_cont %>% 
+  group_by(com_code, tcf_type) %>% 
+  summarize(w_tcf = mean(tcf, na.rm = TRUE)) %>% 
+  ungroup()
+tcf_average <- merge(tcf_average, tcf_wrld,
+                     by = c("com_code", "tcf_type"), all.x = TRUE)
+tcf_average[is.na(tcf), `:=`(tcf = w_tcf)]
+tcf_average[tcf == "0", `:=`(tcf = w_tcf)]
+tcf_average[, `:=`(w_tcf = NULL, continent = NULL)]
+rm(tcf_cont, tcf_wrld)
+
+# Unite with rest of tcf_raw, replacing old tcf
+tcf_average <- tcf_average[, `:=`(description = NA, literature = NA, subcom_code = NA, subitem = NA, source = NA, source_code = NA)]
+
+tcf_prep <-tcf_prep[com_code != "c01",]
+tcf_prep <- rbind(tcf_prep, tcf_average)
+
+rm(tcf_average)
 
 
 ## c02 industrial roundwood, non-coniferous ##
+
 # Read file
 share_irwnc <- fread("inst/share_irwnc.csv")
-# Calculation of weighted average of TCFs
 
+# Prepare structure of table
+tcf_average <- tcf_prep[subcom_code == "c02_1"]
+tcf_average[, `:=` (subcom_code = NA, subitem = NA, source_code = NA, source = NA, tcf = NA)]
+tcf_average <- merge(tcf_average,
+                     share_irwnc[, .(area_code, area, com_code, item, c02_1_share, c02_2_share)],
+                     by = c("area_code", "area", "com_code", "item"),all.x = TRUE)
+
+tcf_1 <- tcf_prep[subcom_code == "c02_1"]
+tcf_1 <- tcf_1 %>%
+  rename(tcf_1 = tcf)
+tcf_2 <- tcf_prep[subcom_code == "c02_2"]
+tcf_2 <- tcf_2 %>%
+  rename(tcf_2 = tcf)
+
+tcf_average <- merge(tcf_average,
+                     tcf_1[, .(area_code, area, com_code, item, unit, tcf_type, tcf_1)],
+                     by = c("area_code", "area", "com_code", "item", "unit", "tcf_type"),
+                     all.x = TRUE)
+tcf_average <- merge(tcf_average,
+                     tcf_2[, .(area_code, area, com_code, item, unit, tcf_type, tcf_2)],
+                     by = c("area_code", "area", "com_code", "item", "unit", "tcf_type"),
+                     all.x = TRUE)
+
+# Calculation of (weighted) averages
+tcf_average[, `:=`(tcf = (c02_1_share * tcf_1 + c02_2_share * tcf_2) / 100)]
+tcf_average[is.na(tcf_1), `:=`(tcf = tcf_2)]
+tcf_average[is.na(tcf_2), `:=`(tcf = tcf_1)]
+tcf_average[is.na(c02_1_share) & is.na(c02_2_share) & !is.na(tcf_1) & !is.na(tcf_2),
+            `:=`(tcf = (tcf_1 + tcf_2)/2)]
+tcf_average[, `:=`(c02_1_share = NULL, c02_2_share = NULL, tcf_1 = NULL, tcf_2 = NULL, 
+                   subcom_code = NULL, subitem = NULL, source_code = NULL, source = NULL,
+                   literature = NULL, description = NULL)]
+tcf_average <- tcf_average[order(tcf_average$area_code),]
+
+rm(share_irwnc, tcf_1, tcf_2)
+
+# Recalculate continental averages
+tcf_average <- merge(tcf_average, regions[, .(area_code, continent)],
+                     by = "area_code",
+                     all.x = TRUE)
+tcf_average[continent == "EU", continent := "EUR"]
+tcf_cont <- tcf_average %>%
+  group_by(continent, com_code, item, tcf_type, unit) %>%
+  summarize(tcf = mean(tcf, na.rm = TRUE)) %>%
+  ungroup()
+setnames(tcf_cont,c("continent"),c("area"))
+setDT(tcf_cont)
+tcf_cont <- tcf_cont[ area != 'XXX']
+tcf_cont <- tcf_cont[ area != 'ROW']
+tcf_cont <- tcf_cont[, "continent":= NA]
+tcf_cont <- tcf_cont[, "area_code":= NA]
+tcf_average <- rbind(tcf_average, tcf_cont, fill=TRUE)
+# The following should be done more elegantly (with region)
+tcf_average <- tcf_average[continent != 'XXX']
+
+# Apply continental average tcf where no country-specific value available
+tcf_average <- merge(tcf_average, tcf_cont[, .(continent = area, com_code, tcf_type, c_tcf = tcf)],
+                     by = c("continent", "com_code", "tcf_type"), all.x = TRUE)
+tcf_average[is.na(tcf), `:=`(tcf = c_tcf)]
+tcf_average[, `:=`(c_tcf = NULL)]
+
+# Apply world average tcf where no continental average available
+tcf_wrld <- tcf_cont %>% 
+  group_by(com_code, tcf_type) %>% 
+  summarize(w_tcf = mean(tcf, na.rm = TRUE)) %>% 
+  ungroup()
+tcf_average <- merge(tcf_average, tcf_wrld,
+                     by = c("com_code", "tcf_type"), all.x = TRUE)
+tcf_average[is.na(tcf), `:=`(tcf = w_tcf)]
+tcf_average[tcf == "0", `:=`(tcf = w_tcf)]
+tcf_average[, `:=`(w_tcf = NULL, continent = NULL)]
+rm(tcf_cont, tcf_wrld)
+
+# Unite with rest of tcf_raw, replacing old tcf
+tcf_average <- tcf_average[, `:=`(description = NA, literature = NA, subcom_code = NA, subitem = NA, source = NA, source_code = NA)]
+
+tcf_prep <-tcf_prep[com_code != "c02",]
+tcf_prep <- rbind(tcf_prep, tcf_average)
+
+rm(tcf_average)
 
 ## c08 fibreboard ##
+
 # Read file
 share_fb <- fread("inst/share_fb.csv")
-# Calculation of weighted average of TCFs
+
+# Preparing structure of table
+tcf_average <- tcf_prep[subcom_code == "c08_1"]
+tcf_average[, `:=` (subcom_code = NA, subitem = NA, source_code = NA, source = NA, tcf = NA)]
+tcf_average <- merge(tcf_average,
+                     share_fb[, .(area_code, area, com_code, item, c08_1_share, c08_2_share, c08_3_share)],
+                     by = c("area_code", "area", "com_code", "item"),all.x = TRUE)
+
+tcf_1 <- tcf_prep[subcom_code == "c08_1"]
+tcf_1 <- tcf_1 %>%
+  rename(tcf_1 = tcf)
+tcf_2 <- tcf_prep[subcom_code == "c08_2"]
+tcf_2 <- tcf_2 %>%
+  rename(tcf_2 = tcf)
+tcf_3 <- tcf_prep[subcom_code == "c08_3"]
+tcf_3 <- tcf_3 %>%
+  rename(tcf_3 = tcf)
+
+tcf_average <- merge(tcf_average,
+                     tcf_1[, .(area_code, area, com_code, item, unit, tcf_type, tcf_1)],
+                     by = c("area_code", "area", "com_code", "item", "unit", "tcf_type"),
+                     all.x = TRUE)
+tcf_average <- merge(tcf_average,
+                     tcf_2[, .(area_code, area, com_code, item, unit, tcf_type, tcf_2)],
+                     by = c("area_code", "area", "com_code", "item", "unit", "tcf_type"),
+                     all.x = TRUE)
+tcf_average <- merge(tcf_average,
+                     tcf_3[, .(area_code, area, com_code, item, unit, tcf_type, tcf_3)],
+                     by = c("area_code", "area", "com_code", "item", "unit", "tcf_type"),
+                     all.x = TRUE)
+
+########################### I stayed HERE #####################################
+
+# Calculation of (weighted) averages
+tcf_average[, `:=`(tcf = (c08_1_share * tcf_1 + c08_2_share * tcf_2 + c08_3_share * tcf_3) / 100)]
+#tcf_average[is.na(tcf_1), `:=`(tcf = tcf_nc)]
+#tcf_average[is.na(tcf_nc), `:=`(tcf = tcf_c)]
+tcf_average[is.na(c08_1_share) & is.na(c08_2_share) & is.na(c08_3_share) & !is.na(tcf_1) & !is.na(tcf_2),
+            `:=`(tcf = (tcf_1 + tcf_2)/2)]
+
+
+tcf_average[, `:=`(c08_1_share = NULL, c08_2_share = NULL, c08_3_share = NULL, tcf_1 = NULL, tcf_2 = NULL, tcf_3 = NULL,
+                   subcom_code = NULL, subitem = NULL, source_code = NULL, source = NULL,
+                   literature = NULL, description = NULL)]
+tcf_average <- tcf_average[order(tcf_average$area_code),]
+
+rm(share_cnc, tcf, tcf_c, tcf_nc)
+
+# Recalculate continental averages
+tcf_average <- merge(tcf_average, regions[, .(area_code, continent)],
+                     by = "area_code",
+                     all.x = TRUE)
+tcf_average[continent == "EU", continent := "EUR"]
+tcf_cont <- tcf_average %>%
+  group_by(continent, com_code, item, tcf_type, unit) %>%
+  summarize(tcf = mean(tcf, na.rm = TRUE)) %>%
+  ungroup()
+setnames(tcf_cont,c("continent"),c("area"))
+setDT(tcf_cont)
+tcf_cont <- tcf_cont[ area != 'XXX']
+tcf_cont <- tcf_cont[ area != 'ROW']
+tcf_cont <- tcf_cont[, "continent":= NA]
+tcf_cont <- tcf_cont[, "area_code":= NA]
+tcf_average <- rbind(tcf_average, tcf_cont, fill=TRUE)
+# The following should be done more elegantly (with region)
+tcf_average <- tcf_average[continent != 'XXX']
+
+# Apply continental average tcf where no country-specific value available
+tcf_average <- merge(tcf_average, tcf_cont[, .(continent = area, com_code, tcf_type, c_tcf = tcf)],
+                     by = c("continent", "com_code", "tcf_type"), all.x = TRUE)
+tcf_average[is.na(tcf), `:=`(tcf = c_tcf)]
+tcf_average[, `:=`(c_tcf = NULL)]
+
+# Apply world average tcf where no continental average available
+tcf_wrld <- tcf_cont %>% 
+  group_by(com_code, tcf_type) %>% 
+  summarize(w_tcf = mean(tcf, na.rm = TRUE)) %>% 
+  ungroup()
+tcf_average <- merge(tcf_average, tcf_wrld,
+                     by = c("com_code", "tcf_type"), all.x = TRUE)
+tcf_average[is.na(tcf), `:=`(tcf = w_tcf)]
+tcf_average[, `:=`(w_tcf = NULL, continent = NULL)]
+rm(tcf_cont, tcf_wrld)
+
+# Unite with rest of tcf_raw, replacing old tcf
+tcf_raw <- fread("inst/tcf_raw.csv")
+tcf_average <- tcf_average[, `:=`(description = NA, literature = NA, subcom_code = NA, subitem = NA, source = NA, source_code = NA)]
+
+`%nin%` = Negate(`%in%`)
+
+tcf_raw <-tcf_raw[com_code %nin% c("c03", "c06", "c07"),]
+tcf_prep <- rbind(tcf_raw, tcf_average)
+
+rm(tcf_average, tcf_raw)
 
 
 cat("\nAggregation of (sub)items and building averages.\n")
 cat("\nfor c11a.\n")
 
 ## c11a wood pulp mechanical/semi-chemical ##
-# build average
-
+# build normal average, i.e. just /2
 
 ## c13 recovered fibre pulp
 # build average of all tcf of all wood pulp multiplied by 'recovered paper(input to output)'
@@ -329,7 +607,7 @@ cat("\nfor c11a.\n")
 
 # TCF USE ---------------------------------------------------------------------
 
-cat("\nTidying input-output technical conversion factors for use tables.\n")
+cat("\nTidying tcf_use for use tables.\n")
 
 use <- fread("inst/tcf_use.csv")
 use[tcf == 0, tcf := NA]
@@ -363,7 +641,7 @@ use <- use[, c("continent", "area_code", "area", "com_code","item","source_code"
 fwrite(use, "inst/tcf_use_tidy.csv")
 
 
-# TCF CARBON -------------------------------------------------------------------------
+# TCF CARBON ------------------------------------------------------------------------------
 
 cat("\nTidying different technical conversion factors to calculate carbon TCF.\n")
 # tcf in c01, c02, c03, c17 and c18 already refer to the basic density
