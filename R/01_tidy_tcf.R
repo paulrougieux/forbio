@@ -520,12 +520,12 @@ tcf_average <- merge(tcf_average,
 ########################### I stayed HERE #####################################
 
 # Calculation of (weighted) averages
-tcf_average[, `:=`(tcf = (c08_1_share * tcf_1 + c08_2_share * tcf_2 + c08_3_share * tcf_3) / 100)]
-#tcf_average[is.na(tcf_1), `:=`(tcf = tcf_nc)]
-#tcf_average[is.na(tcf_nc), `:=`(tcf = tcf_c)]
+tcf_average[, `:=`(tcf = (c08_1_share * tcf_1 + c08_2_share * tcf_2 + c08_3_share * tcf_3) / (c08_1_share + c08_2_share + c08_3_share))]
+#tcf_average[is.na(tcf_1) & is.na(tcf_3), `:=`(tcf = tcf_2)]
+#tcf_average[is.na(tcf_1) & is.na(tcf_2), `:=`(tcf = tcf_3)]
+#tcf_average[is.na(tcf_2) & is.na(tcf_3), `:=`(tcf = tcf_1)]
 tcf_average[is.na(c08_1_share) & is.na(c08_2_share) & is.na(c08_3_share) & !is.na(tcf_1) & !is.na(tcf_2),
             `:=`(tcf = (tcf_1 + tcf_2)/2)]
-
 
 tcf_average[, `:=`(c08_1_share = NULL, c08_2_share = NULL, c08_3_share = NULL, tcf_1 = NULL, tcf_2 = NULL, tcf_3 = NULL,
                    subcom_code = NULL, subitem = NULL, source_code = NULL, source = NULL,
