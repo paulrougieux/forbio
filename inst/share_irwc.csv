@@ -1,158 +1,158 @@
 area_code;area;com_code;item;c01_1_share;c01_2_share
-1;Armenia;c01;Industrial roundwood, coniferous;0.0;0.0
-2;Afghanistan;c01;Industrial roundwood, coniferous;NA;NA
-3;Albania;c01;Industrial roundwood, coniferous;0.0;0.0
-4;Algeria;c01;Industrial roundwood, coniferous;NA;NA
+1;Armenia;c01;Industrial roundwood, coniferous;0.00;0.00
+2;Afghanistan;c01;Industrial roundwood, coniferous;100.00;0.00
+3;Albania;c01;Industrial roundwood, coniferous;100.00;0.00
+4;Algeria;c01;Industrial roundwood, coniferous;32.89;67.11
 6;Andorra;c01;Industrial roundwood, coniferous;NA;NA
 7;Angola;c01;Industrial roundwood, coniferous;NA;NA
-9;Argentina;c01;Industrial roundwood, coniferous;7.8;92.2
-10;Australia;c01;Industrial roundwood, coniferous;0.0;100.0
-11;Austria;c01;Industrial roundwood, coniferous;11.8;88.2
-12;Bahamas;c01;Industrial roundwood, coniferous;NA;NA
+9;Argentina;c01;Industrial roundwood, coniferous;56.28;43.72
+10;Australia;c01;Industrial roundwood, coniferous;63.07;36.93
+11;Austria;c01;Industrial roundwood, coniferous;78.54;21.46
+12;Bahamas;c01;Industrial roundwood, coniferous;100.00;0.00
 13;Bahrain;c01;Industrial roundwood, coniferous;NA;NA
 14;Barbados;c01;Industrial roundwood, coniferous;NA;NA
 15;Belgium-Luxembourg;c01;Industrial roundwood, coniferous;NA;NA
-16;Bangladesh;c01;Industrial roundwood, coniferous;100.0;0.0
-18;Bhutan;c01;Industrial roundwood, coniferous;NA;NA
-19;Bolivia (Plurinational State of);c01;Industrial roundwood, coniferous;33.3;0.0
+16;Bangladesh;c01;Industrial roundwood, coniferous;NA;NA
+18;Bhutan;c01;Industrial roundwood, coniferous;100.00;0.00
+19;Bolivia (Plurinational State of);c01;Industrial roundwood, coniferous;100.00;0.00
 20;Botswana;c01;Industrial roundwood, coniferous;NA;NA
-21;Brazil;c01;Industrial roundwood, coniferous;6.4;93.6
+21;Brazil;c01;Industrial roundwood, coniferous;63.60;36.40
 22;Aruba;c01;Industrial roundwood, coniferous;NA;NA
-23;Belize;c01;Industrial roundwood, coniferous;NA;NA
-25;Solomon Islands;c01;Industrial roundwood, coniferous;NA;NA
-26;Brunei Darussalam;c01;Industrial roundwood, coniferous;NA;NA
-27;Bulgaria;c01;Industrial roundwood, coniferous;87.7;12.3
-28;Myanmar;c01;Industrial roundwood, coniferous;NA;NA
-29;Burundi;c01;Industrial roundwood, coniferous;NA;NA
+23;Belize;c01;Industrial roundwood, coniferous;100.00;0.00
+25;Solomon Islands;c01;Industrial roundwood, coniferous;0.00;0.00
+26;Brunei Darussalam;c01;Industrial roundwood, coniferous;0.00;0.00
+27;Bulgaria;c01;Industrial roundwood, coniferous;48.09;51.91
+28;Myanmar;c01;Industrial roundwood, coniferous;100.00;0.00
+29;Burundi;c01;Industrial roundwood, coniferous;100.00;0.00
 32;Cameroon;c01;Industrial roundwood, coniferous;NA;NA
-33;Canada;c01;Industrial roundwood, coniferous;6.8;85.6
+33;Canada;c01;Industrial roundwood, coniferous;96.33;3.67
 35;Cabo Verde;c01;Industrial roundwood, coniferous;NA;NA
 37;Central African Republic;c01;Industrial roundwood, coniferous;NA;NA
-38;Sri Lanka;c01;Industrial roundwood, coniferous;0.0;100.0
+38;Sri Lanka;c01;Industrial roundwood, coniferous;0.00;0.00
 39;Chad;c01;Industrial roundwood, coniferous;NA;NA
-40;Chile;c01;Industrial roundwood, coniferous;3.1;96.9
-41;China, mainland;c01;Industrial roundwood, coniferous;5.8;93.8
+40;Chile;c01;Industrial roundwood, coniferous;65.83;34.17
+41;China, mainland;c01;Industrial roundwood, coniferous;66.26;33.74
 42;Christmas Island;c01;Industrial roundwood, coniferous;NA;NA
-44;Colombia;c01;Industrial roundwood, coniferous;18.8;81.2
+44;Colombia;c01;Industrial roundwood, coniferous;31.87;68.13
 45;Comoros;c01;Industrial roundwood, coniferous;NA;NA
-46;Congo;c01;Industrial roundwood, coniferous;NA;NA
-47;Cook Islands;c01;Industrial roundwood, coniferous;NA;NA
-48;Costa Rica;c01;Industrial roundwood, coniferous;NA;NA
-49;Cuba;c01;Industrial roundwood, coniferous;100.0;0.0
-50;Cyprus;c01;Industrial roundwood, coniferous;0.0;0.0
+46;Congo;c01;Industrial roundwood, coniferous;0.00;0.00
+47;Cook Islands;c01;Industrial roundwood, coniferous;100.00;0.00
+48;Costa Rica;c01;Industrial roundwood, coniferous;100.00;0.00
+49;Cuba;c01;Industrial roundwood, coniferous;100.00;0.00
+50;Cyprus;c01;Industrial roundwood, coniferous;100.00;0.00
 51;Czechoslovakia;c01;Industrial roundwood, coniferous;NA;NA
-52;Azerbaijan;c01;Industrial roundwood, coniferous;0.0;0.0
+52;Azerbaijan;c01;Industrial roundwood, coniferous;0.00;0.00
 53;Benin;c01;Industrial roundwood, coniferous;NA;NA
-54;Denmark;c01;Industrial roundwood, coniferous;0.0;0.0
+54;Denmark;c01;Industrial roundwood, coniferous;74.75;25.25
 55;Dominica;c01;Industrial roundwood, coniferous;NA;NA
-56;Dominican Republic;c01;Industrial roundwood, coniferous;NA;NA
-57;Belarus;c01;Industrial roundwood, coniferous;9.3;90.1
-58;Ecuador;c01;Industrial roundwood, coniferous;51.7;48.3
-59;Egypt;c01;Industrial roundwood, coniferous;0.0;100.0
-60;El Salvador;c01;Industrial roundwood, coniferous;NA;NA
+56;Dominican Republic;c01;Industrial roundwood, coniferous;100.00;0.00
+57;Belarus;c01;Industrial roundwood, coniferous;61.85;38.15
+58;Ecuador;c01;Industrial roundwood, coniferous;100.00;0.00
+59;Egypt;c01;Industrial roundwood, coniferous;NA;NA
+60;El Salvador;c01;Industrial roundwood, coniferous;0.00;0.00
 61;Equatorial Guinea;c01;Industrial roundwood, coniferous;NA;NA
-63;Estonia;c01;Industrial roundwood, coniferous;0.0;0.0
+63;Estonia;c01;Industrial roundwood, coniferous;73.96;26.04
 64;Faroe Islands;c01;Industrial roundwood, coniferous;NA;NA
 65;Falkland Islands (Malvinas);c01;Industrial roundwood, coniferous;NA;NA
-66;Fiji;c01;Industrial roundwood, coniferous;NA;NA
-67;Finland;c01;Industrial roundwood, coniferous;100.0;0.0
-68;France;c01;Industrial roundwood, coniferous;8.2;86.0
+66;Fiji;c01;Industrial roundwood, coniferous;27.54;72.46
+67;Finland;c01;Industrial roundwood, coniferous;49.95;50.05
+68;France;c01;Industrial roundwood, coniferous;74.28;25.72
 69;French Guyana;c01;Industrial roundwood, coniferous;NA;NA
 70;French Polynesia;c01;Industrial roundwood, coniferous;NA;NA
 72;Djibouti;c01;Industrial roundwood, coniferous;NA;NA
-73;Georgia;c01;Industrial roundwood, coniferous;0.0;0.0
+73;Georgia;c01;Industrial roundwood, coniferous;100.00;0.00
 74;Gabon;c01;Industrial roundwood, coniferous;NA;NA
 75;Gambia;c01;Industrial roundwood, coniferous;NA;NA
-79;Germany;c01;Industrial roundwood, coniferous;0.0;79.0
-80;Bosnia and Herzegovina;c01;Industrial roundwood, coniferous;0.0;100.0
-81;Ghana;c01;Industrial roundwood, coniferous;0.0;0.0
+79;Germany;c01;Industrial roundwood, coniferous;82.73;17.27
+80;Bosnia and Herzegovina;c01;Industrial roundwood, coniferous;72.46;27.54
+81;Ghana;c01;Industrial roundwood, coniferous;NA;NA
 82;Gibraltar;c01;Industrial roundwood, coniferous;NA;NA
 83;Kiribati;c01;Industrial roundwood, coniferous;NA;NA
-84;Greece;c01;Industrial roundwood, coniferous;0.0;100.0
+84;Greece;c01;Industrial roundwood, coniferous;100.00;0.00
 87;Guadeloupe;c01;Industrial roundwood, coniferous;NA;NA
-89;Guatemala;c01;Industrial roundwood, coniferous;NA;NA
+89;Guatemala;c01;Industrial roundwood, coniferous;100.00;0.00
 90;Guinea;c01;Industrial roundwood, coniferous;NA;NA
-91;Guyana;c01;Industrial roundwood, coniferous;NA;NA
-93;Haiti;c01;Industrial roundwood, coniferous;NA;NA
-95;Honduras;c01;Industrial roundwood, coniferous;NA;NA
+91;Guyana;c01;Industrial roundwood, coniferous;0.00;0.00
+93;Haiti;c01;Industrial roundwood, coniferous;100.00;0.00
+95;Honduras;c01;Industrial roundwood, coniferous;100.00;0.00
 96;China, Hong Kong SAR;c01;Industrial roundwood, coniferous;NA;NA
-97;Hungary;c01;Industrial roundwood, coniferous;0.5;95.4
-98;Croatia;c01;Industrial roundwood, coniferous;0.0;0.0
-99;Iceland;c01;Industrial roundwood, coniferous;0.0;0.0
-100;India;c01;Industrial roundwood, coniferous;8.0;91.7
-101;Indonesia;c01;Industrial roundwood, coniferous;5.6;69.6
-102;Iran (Islamic Republic of);c01;Industrial roundwood, coniferous;0.2;99.8
+97;Hungary;c01;Industrial roundwood, coniferous;23.14;76.86
+98;Croatia;c01;Industrial roundwood, coniferous;72.70;27.30
+99;Iceland;c01;Industrial roundwood, coniferous;100.00;0.00
+100;India;c01;Industrial roundwood, coniferous;95.09;4.91
+101;Indonesia;c01;Industrial roundwood, coniferous;0.00;0.00
+102;Iran (Islamic Republic of);c01;Industrial roundwood, coniferous;NA;NA
 103;Iraq;c01;Industrial roundwood, coniferous;NA;NA
-104;Ireland;c01;Industrial roundwood, coniferous;0.0;85.7
-105;Israel;c01;Industrial roundwood, coniferous;0.0;100.0
-106;Italy;c01;Industrial roundwood, coniferous;1.5;98.2
+104;Ireland;c01;Industrial roundwood, coniferous;67.55;32.45
+105;Israel;c01;Industrial roundwood, coniferous;60.61;39.39
+106;Italy;c01;Industrial roundwood, coniferous;87.06;12.94
 107;Cote d'Ivoire;c01;Industrial roundwood, coniferous;NA;NA
-108;Kazakhstan;c01;Industrial roundwood, coniferous;100.0;0.0
-109;Jamaica;c01;Industrial roundwood, coniferous;NA;NA
-110;Japan;c01;Industrial roundwood, coniferous;5.7;51.2
+108;Kazakhstan;c01;Industrial roundwood, coniferous;0.00;0.00
+109;Jamaica;c01;Industrial roundwood, coniferous;100.00;0.00
+110;Japan;c01;Industrial roundwood, coniferous;86.80;13.20
 112;Jordan;c01;Industrial roundwood, coniferous;NA;NA
-113;Kyrgyzstan;c01;Industrial roundwood, coniferous;0.0;0.0
-114;Kenya;c01;Industrial roundwood, coniferous;100.0;0.0
-115;Cambodia;c01;Industrial roundwood, coniferous;NA;NA
-116;Democratic People's Republic of Korea;c01;Industrial roundwood, coniferous;NA;NA
-117;Republic of Korea;c01;Industrial roundwood, coniferous;0.0;100.0
+113;Kyrgyzstan;c01;Industrial roundwood, coniferous;100.00;0.00
+114;Kenya;c01;Industrial roundwood, coniferous;77.82;22.18
+115;Cambodia;c01;Industrial roundwood, coniferous;100.00;0.00
+116;Democratic People's Republic of Korea;c01;Industrial roundwood, coniferous;100.00;0.00
+117;Republic of Korea;c01;Industrial roundwood, coniferous;36.76;63.24
 118;Kuwait;c01;Industrial roundwood, coniferous;NA;NA
-119;Latvia;c01;Industrial roundwood, coniferous;0.0;0.0
-120;Lao People's Democratic Republic;c01;Industrial roundwood, coniferous;NA;NA
-121;Lebanon;c01;Industrial roundwood, coniferous;NA;NA
-122;Lesotho;c01;Industrial roundwood, coniferous;NA;NA
-123;Liberia;c01;Industrial roundwood, coniferous;0.0;0.0
+119;Latvia;c01;Industrial roundwood, coniferous;76.39;23.61
+120;Lao People's Democratic Republic;c01;Industrial roundwood, coniferous;0.00;0.00
+121;Lebanon;c01;Industrial roundwood, coniferous;100.00;0.00
+122;Lesotho;c01;Industrial roundwood, coniferous;100.00;0.00
+123;Liberia;c01;Industrial roundwood, coniferous;NA;NA
 124;Libya;c01;Industrial roundwood, coniferous;NA;NA
-125;Liechtenstein;c01;Industrial roundwood, coniferous;0.0;0.0
-126;Lithuania;c01;Industrial roundwood, coniferous;100.0;0.0
+125;Liechtenstein;c01;Industrial roundwood, coniferous;100.00;0.00
+126;Lithuania;c01;Industrial roundwood, coniferous;76.81;23.19
 128;China, Macao SAR;c01;Industrial roundwood, coniferous;NA;NA
-129;Madagascar;c01;Industrial roundwood, coniferous;0.0;0.0
-130;Malawi;c01;Industrial roundwood, coniferous;0.0;100.0
-131;Malaysia;c01;Industrial roundwood, coniferous;6.4;93.6
+129;Madagascar;c01;Industrial roundwood, coniferous;89.38;10.62
+130;Malawi;c01;Industrial roundwood, coniferous;100.00;0.00
+131;Malaysia;c01;Industrial roundwood, coniferous;100.00;0.00
 132;Maldives;c01;Industrial roundwood, coniferous;NA;NA
 133;Mali;c01;Industrial roundwood, coniferous;NA;NA
-134;Malta;c01;Industrial roundwood, coniferous;0.0;0.0
+134;Malta;c01;Industrial roundwood, coniferous;0.00;0.00
 135;Martinique;c01;Industrial roundwood, coniferous;NA;NA
 136;Mauritania;c01;Industrial roundwood, coniferous;NA;NA
-137;Mauritius;c01;Industrial roundwood, coniferous;0.0;0.0
-138;Mexico;c01;Industrial roundwood, coniferous;54.7;45.3
-141;Mongolia;c01;Industrial roundwood, coniferous;NA;NA
-143;Morocco;c01;Industrial roundwood, coniferous;NA;NA
-144;Mozambique;c01;Industrial roundwood, coniferous;NA;NA
+137;Mauritius;c01;Industrial roundwood, coniferous;100.00;0.00
+138;Mexico;c01;Industrial roundwood, coniferous;92.96;7.04
+141;Mongolia;c01;Industrial roundwood, coniferous;100.00;0.00
+143;Morocco;c01;Industrial roundwood, coniferous;100.00;0.00
+144;Mozambique;c01;Industrial roundwood, coniferous;100.00;0.00
 145;Micronesia (Federated States of);c01;Industrial roundwood, coniferous;NA;NA
-146;Republic of Moldova;c01;Industrial roundwood, coniferous;0.0;0.0
+146;Republic of Moldova;c01;Industrial roundwood, coniferous;0.00;0.00
 147;Namibia;c01;Industrial roundwood, coniferous;NA;NA
-149;Nepal;c01;Industrial roundwood, coniferous;NA;NA
-150;Netherlands;c01;Industrial roundwood, coniferous;0.0;0.0
+149;Nepal;c01;Industrial roundwood, coniferous;0.00;0.00
+150;Netherlands;c01;Industrial roundwood, coniferous;40.19;59.81
 151;Netherlands Antilles;c01;Industrial roundwood, coniferous;NA;NA
-153;New Caledonia;c01;Industrial roundwood, coniferous;NA;NA
-154;North Macedonia;c01;Industrial roundwood, coniferous;0.0;0.0
-155;Vanuatu;c01;Industrial roundwood, coniferous;NA;NA
-156;New Zealand;c01;Industrial roundwood, coniferous;0.0;100.0
-157;Nicaragua;c01;Industrial roundwood, coniferous;NA;NA
+153;New Caledonia;c01;Industrial roundwood, coniferous;100.00;0.00
+154;North Macedonia;c01;Industrial roundwood, coniferous;100.00;0.00
+155;Vanuatu;c01;Industrial roundwood, coniferous;0.00;0.00
+156;New Zealand;c01;Industrial roundwood, coniferous;89.47;10.53
+157;Nicaragua;c01;Industrial roundwood, coniferous;100.00;0.00
 158;Niger;c01;Industrial roundwood, coniferous;NA;NA
 159;Nigeria;c01;Industrial roundwood, coniferous;NA;NA
 160;Niue;c01;Industrial roundwood, coniferous;NA;NA
 161;Norfolk Island;c01;Industrial roundwood, coniferous;NA;NA
-162;Norway;c01;Industrial roundwood, coniferous;29.9;0.0
-165;Pakistan;c01;Industrial roundwood, coniferous;16.3;83.8
-166;Panama;c01;Industrial roundwood, coniferous;NA;NA
-167;Czechia;c01;Industrial roundwood, coniferous;0.0;100.0
-168;Papua New Guinea;c01;Industrial roundwood, coniferous;NA;NA
+162;Norway;c01;Industrial roundwood, coniferous;58.04;41.96
+165;Pakistan;c01;Industrial roundwood, coniferous;100.00;0.00
+166;Panama;c01;Industrial roundwood, coniferous;100.00;0.00
+167;Czechia;c01;Industrial roundwood, coniferous;68.16;31.84
+168;Papua New Guinea;c01;Industrial roundwood, coniferous;100.00;0.00
 169;Paraguay;c01;Industrial roundwood, coniferous;NA;NA
-170;Peru;c01;Industrial roundwood, coniferous;0.0;0.0
-171;Philippines;c01;Industrial roundwood, coniferous;100.0;0.0
-173;Poland;c01;Industrial roundwood, coniferous;2.4;70.8
-174;Portugal;c01;Industrial roundwood, coniferous;6.2;91.7
+170;Peru;c01;Industrial roundwood, coniferous;0.00;0.00
+171;Philippines;c01;Industrial roundwood, coniferous;0.00;0.00
+173;Poland;c01;Industrial roundwood, coniferous;46.28;53.72
+174;Portugal;c01;Industrial roundwood, coniferous;51.04;48.96
 175;Guinea-Bissau;c01;Industrial roundwood, coniferous;NA;NA
 176;Timor-Leste;c01;Industrial roundwood, coniferous;NA;NA
 178;Eritrea;c01;Industrial roundwood, coniferous;NA;NA
 179;Qatar;c01;Industrial roundwood, coniferous;NA;NA
-181;Zimbabwe;c01;Industrial roundwood, coniferous;NA;NA
+181;Zimbabwe;c01;Industrial roundwood, coniferous;95.58;4.42
 182;Reunion;c01;Industrial roundwood, coniferous;NA;NA
-183;Romania;c01;Industrial roundwood, coniferous;0.0;95.8
-184;Rwanda;c01;Industrial roundwood, coniferous;NA;NA
-185;Russian Federation;c01;Industrial roundwood, coniferous;11.7;88.3
+183;Romania;c01;Industrial roundwood, coniferous;89.73;10.27
+184;Rwanda;c01;Industrial roundwood, coniferous;100.00;0.00
+185;Russian Federation;c01;Industrial roundwood, coniferous;78.35;21.65
 186;Serbia and Montenegro;c01;Industrial roundwood, coniferous;NA;NA
 189;Saint Lucia;c01;Industrial roundwood, coniferous;NA;NA
 190;Saint Pierre and Miquelon;c01;Industrial roundwood, coniferous;NA;NA
@@ -160,53 +160,53 @@ area_code;area;com_code;item;c01_1_share;c01_2_share
 193;Sao Tome and Principe;c01;Industrial roundwood, coniferous;NA;NA
 194;Saudi Arabia;c01;Industrial roundwood, coniferous;NA;NA
 195;Senegal;c01;Industrial roundwood, coniferous;NA;NA
-196;Seychelles;c01;Industrial roundwood, coniferous;0.0;0.0
+196;Seychelles;c01;Industrial roundwood, coniferous;0.00;0.00
 197;Sierra Leone;c01;Industrial roundwood, coniferous;NA;NA
-198;Slovenia;c01;Industrial roundwood, coniferous;0.0;100.0
-199;Slovakia;c01;Industrial roundwood, coniferous;0.0;0.0
+198;Slovenia;c01;Industrial roundwood, coniferous;79.48;20.52
+199;Slovakia;c01;Industrial roundwood, coniferous;70.06;29.94
 200;Singapore;c01;Industrial roundwood, coniferous;NA;NA
 201;Somalia;c01;Industrial roundwood, coniferous;NA;NA
-202;South Africa;c01;Industrial roundwood, coniferous;31.9;68.1
-203;Spain;c01;Industrial roundwood, coniferous;1.7;93.8
-207;Suriname;c01;Industrial roundwood, coniferous;NA;NA
-208;Tajikistan;c01;Industrial roundwood, coniferous;0.0;0.0
-209;Eswatini;c01;Industrial roundwood, coniferous;NA;NA
-210;Sweden;c01;Industrial roundwood, coniferous;0.0;0.0
-211;Switzerland;c01;Industrial roundwood, coniferous;0.0;58.6
-212;Syrian Arab Republic;c01;Industrial roundwood, coniferous;NA;NA
-213;Turkmenistan;c01;Industrial roundwood, coniferous;0.0;0.0
-214;China, Taiwan Province of;c01;Industrial roundwood, coniferous;100.0;0.0
-215;United Republic of Tanzania;c01;Industrial roundwood, coniferous;100.0;0.0
-216;Thailand;c01;Industrial roundwood, coniferous;6.3;88.1
+202;South Africa;c01;Industrial roundwood, coniferous;69.60;30.40
+203;Spain;c01;Industrial roundwood, coniferous;56.49;43.51
+207;Suriname;c01;Industrial roundwood, coniferous;100.00;0.00
+208;Tajikistan;c01;Industrial roundwood, coniferous;0.00;0.00
+209;Eswatini;c01;Industrial roundwood, coniferous;30.09;69.91
+210;Sweden;c01;Industrial roundwood, coniferous;59.66;40.34
+211;Switzerland;c01;Industrial roundwood, coniferous;87.72;12.28
+212;Syrian Arab Republic;c01;Industrial roundwood, coniferous;100.00;0.00
+213;Turkmenistan;c01;Industrial roundwood, coniferous;0.00;0.00
+214;China, Taiwan Province of;c01;Industrial roundwood, coniferous;1.58;98.42
+215;United Republic of Tanzania;c01;Industrial roundwood, coniferous;79.66;20.34
+216;Thailand;c01;Industrial roundwood, coniferous;NA;NA
 217;Togo;c01;Industrial roundwood, coniferous;NA;NA
-219;Tonga;c01;Industrial roundwood, coniferous;NA;NA
-220;Trinidad and Tobago;c01;Industrial roundwood, coniferous;NA;NA
+219;Tonga;c01;Industrial roundwood, coniferous;100.00;0.00
+220;Trinidad and Tobago;c01;Industrial roundwood, coniferous;100.00;0.00
 221;Oman;c01;Industrial roundwood, coniferous;NA;NA
-222;Tunisia;c01;Industrial roundwood, coniferous;0.0;100.0
-223;Turkey;c01;Industrial roundwood, coniferous;0.0;98.8
+222;Tunisia;c01;Industrial roundwood, coniferous;53.55;46.45
+223;Turkey;c01;Industrial roundwood, coniferous;52.08;47.92
 224;Turks and Caicos Islands;c01;Industrial roundwood, coniferous;NA;NA
 225;United Arab Emirates;c01;Industrial roundwood, coniferous;NA;NA
-226;Uganda;c01;Industrial roundwood, coniferous;NA;NA
+226;Uganda;c01;Industrial roundwood, coniferous;100.00;0.00
 229;United Kingdom;c01;Industrial roundwood, coniferous;NA;NA
-230;Ukraine;c01;Industrial roundwood, coniferous;80.4;19.6
-231;United States of America;c01;Industrial roundwood, coniferous;4.8;46.9
+230;Ukraine;c01;Industrial roundwood, coniferous;86.43;13.57
+231;United States of America;c01;Industrial roundwood, coniferous;49.69;50.31
 233;Burkina Faso;c01;Industrial roundwood, coniferous;NA;NA
-234;Uruguay;c01;Industrial roundwood, coniferous;0.0;0.0
-235;Uzbekistan;c01;Industrial roundwood, coniferous;0.0;81.2
-236;Venezuela (Bolivarian Republic of);c01;Industrial roundwood, coniferous;0.4;91.4
-237;Viet Nam;c01;Industrial roundwood, coniferous;0.0;84.2
-238;Ethiopia;c01;Industrial roundwood, coniferous;100.0;0.0
+234;Uruguay;c01;Industrial roundwood, coniferous;100.00;0.00
+235;Uzbekistan;c01;Industrial roundwood, coniferous;0.00;0.00
+236;Venezuela (Bolivarian Republic of);c01;Industrial roundwood, coniferous;40.94;59.06
+237;Viet Nam;c01;Industrial roundwood, coniferous;100.00;0.00
+238;Ethiopia;c01;Industrial roundwood, coniferous;50.00;50.00
 239;British Virgin Islands;c01;Industrial roundwood, coniferous;NA;NA
 244;Samoa;c01;Industrial roundwood, coniferous;NA;NA
 249;Yemen;c01;Industrial roundwood, coniferous;NA;NA
 250;Democratic Republic of the Congo;c01;Industrial roundwood, coniferous;NA;NA
-251;Zambia;c01;Industrial roundwood, coniferous;NA;NA
-255;Belgium;c01;Industrial roundwood, coniferous;0.0;100.0
-256;Luxembourg;c01;Industrial roundwood, coniferous;0.0;100.0
+251;Zambia;c01;Industrial roundwood, coniferous;70.07;29.93
+255;Belgium;c01;Industrial roundwood, coniferous;65.63;34.38
+256;Luxembourg;c01;Industrial roundwood, coniferous;72.90;27.10
 270;Mayotte;c01;Industrial roundwood, coniferous;NA;NA
-272;Serbia;c01;Industrial roundwood, coniferous;100.0;0.0
-273;Montenegro;c01;Industrial roundwood, coniferous;0.0;0.0
-276;Sudan;c01;Industrial roundwood, coniferous;NA;NA
+272;Serbia;c01;Industrial roundwood, coniferous;75.80;24.20
+273;Montenegro;c01;Industrial roundwood, coniferous;78.00;22.00
+276;Sudan;c01;Industrial roundwood, coniferous;0.00;0.00
 277;South Sudan;c01;Industrial roundwood, coniferous;NA;NA
 5;American Samoa;c01;Industrial roundwood, coniferous;NA;NA
 8;Antigua and Barbuda;c01;Industrial roundwood, coniferous;NA;NA
