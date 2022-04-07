@@ -1,0 +1,1465 @@
+continent,area_code,area,com_code,item,source_code,shrinkage
+AFR,4,Algeria,c04,"Sawnwood, coniferous",c01,3
+AFR,7,Angola,c04,"Sawnwood, coniferous",c01,3
+AFR,20,Botswana,c04,"Sawnwood, coniferous",c01,3
+AFR,29,Burundi,c04,"Sawnwood, coniferous",c01,3
+AFR,32,Cameroon,c04,"Sawnwood, coniferous",c01,3
+AFR,35,Cabo Verde,c04,"Sawnwood, coniferous",c01,3
+AFR,37,Central African Republic,c04,"Sawnwood, coniferous",c01,3
+AFR,39,Chad,c04,"Sawnwood, coniferous",c01,3
+AFR,45,Comoros,c04,"Sawnwood, coniferous",c01,3
+AFR,46,Congo,c04,"Sawnwood, coniferous",c01,3
+AFR,53,Benin,c04,"Sawnwood, coniferous",c01,3
+AFR,59,Egypt,c04,"Sawnwood, coniferous",c01,3
+AFR,61,Equatorial Guinea,c04,"Sawnwood, coniferous",c01,3
+AFR,72,Djibouti,c04,"Sawnwood, coniferous",c01,3
+AFR,74,Gabon,c04,"Sawnwood, coniferous",c01,3
+AFR,75,Gambia,c04,"Sawnwood, coniferous",c01,3
+AFR,81,Ghana,c04,"Sawnwood, coniferous",c01,3
+AFR,90,Guinea,c04,"Sawnwood, coniferous",c01,3
+AFR,107,Cote d'Ivoire,c04,"Sawnwood, coniferous",c01,3
+AFR,114,Kenya,c04,"Sawnwood, coniferous",c01,3
+AFR,122,Lesotho,c04,"Sawnwood, coniferous",c01,3
+AFR,123,Liberia,c04,"Sawnwood, coniferous",c01,3
+AFR,124,Libya,c04,"Sawnwood, coniferous",c01,3
+AFR,129,Madagascar,c04,"Sawnwood, coniferous",c01,3
+AFR,130,Malawi,c04,"Sawnwood, coniferous",c01,3
+AFR,133,Mali,c04,"Sawnwood, coniferous",c01,3
+AFR,136,Mauritania,c04,"Sawnwood, coniferous",c01,3
+AFR,137,Mauritius,c04,"Sawnwood, coniferous",c01,3
+AFR,143,Morocco,c04,"Sawnwood, coniferous",c01,3
+AFR,144,Mozambique,c04,"Sawnwood, coniferous",c01,3
+AFR,147,Namibia,c04,"Sawnwood, coniferous",c01,3
+AFR,158,Niger,c04,"Sawnwood, coniferous",c01,3
+AFR,159,Nigeria,c04,"Sawnwood, coniferous",c01,3
+AFR,175,Guinea-Bissau,c04,"Sawnwood, coniferous",c01,3
+AFR,178,Eritrea,c04,"Sawnwood, coniferous",c01,3
+AFR,181,Zimbabwe,c04,"Sawnwood, coniferous",c01,3
+AFR,182,Reunion,c04,"Sawnwood, coniferous",c01,3
+AFR,184,Rwanda,c04,"Sawnwood, coniferous",c01,3
+AFR,187,"Saint Helena, Ascension and Tristan da Cunha",c04,"Sawnwood, coniferous",c01,3
+AFR,193,Sao Tome and Principe,c04,"Sawnwood, coniferous",c01,3
+AFR,195,Senegal,c04,"Sawnwood, coniferous",c01,3
+AFR,196,Seychelles,c04,"Sawnwood, coniferous",c01,3
+AFR,197,Sierra Leone,c04,"Sawnwood, coniferous",c01,3
+AFR,201,Somalia,c04,"Sawnwood, coniferous",c01,3
+AFR,202,South Africa,c04,"Sawnwood, coniferous",c01,3
+AFR,205,Western Sahara,c04,"Sawnwood, coniferous",c01,3
+AFR,209,Eswatini,c04,"Sawnwood, coniferous",c01,3
+AFR,215,United Republic of Tanzania,c04,"Sawnwood, coniferous",c01,3
+AFR,217,Togo,c04,"Sawnwood, coniferous",c01,3
+AFR,219,Tonga,c04,"Sawnwood, coniferous",c01,3
+AFR,222,Tunisia,c04,"Sawnwood, coniferous",c01,3
+AFR,226,Uganda,c04,"Sawnwood, coniferous",c01,3
+AFR,233,Burkina Faso,c04,"Sawnwood, coniferous",c01,3
+AFR,238,Ethiopia,c04,"Sawnwood, coniferous",c01,3
+AFR,250,Democratic Republic of the Congo,c04,"Sawnwood, coniferous",c01,3
+AFR,251,Zambia,c04,"Sawnwood, coniferous",c01,3
+AFR,270,Mayotte,c04,"Sawnwood, coniferous",c01,3
+AFR,276,Sudan,c04,"Sawnwood, coniferous",c01,3
+AFR,277,South Sudan,c04,"Sawnwood, coniferous",c01,3
+ASI,1,Armenia,c04,"Sawnwood, coniferous",c01,5
+ASI,2,Afghanistan,c04,"Sawnwood, coniferous",c01,5
+ASI,13,Bahrain,c04,"Sawnwood, coniferous",c01,5
+ASI,16,Bangladesh,c04,"Sawnwood, coniferous",c01,5
+ASI,18,Bhutan,c04,"Sawnwood, coniferous",c01,5
+ASI,24,British Indian Ocean Territory,c04,"Sawnwood, coniferous",c01,5
+ASI,26,Brunei Darussalam,c04,"Sawnwood, coniferous",c01,5
+ASI,28,Myanmar,c04,"Sawnwood, coniferous",c01,5
+ASI,38,Sri Lanka,c04,"Sawnwood, coniferous",c01,5
+ASI,41,"China, mainland",c04,"Sawnwood, coniferous",c01,2
+ASI,52,Azerbaijan,c04,"Sawnwood, coniferous",c01,5
+ASI,73,Georgia,c04,"Sawnwood, coniferous",c01,5
+ASI,96,"China, Hong Kong SAR",c04,"Sawnwood, coniferous",c01,5
+ASI,100,India,c04,"Sawnwood, coniferous",c01,5
+ASI,101,Indonesia,c04,"Sawnwood, coniferous",c01,7
+ASI,102,Iran (Islamic Republic of),c04,"Sawnwood, coniferous",c01,5
+ASI,103,Iraq,c04,"Sawnwood, coniferous",c01,5
+ASI,105,Israel,c04,"Sawnwood, coniferous",c01,5
+ASI,108,Kazakhstan,c04,"Sawnwood, coniferous",c01,5
+ASI,110,Japan,c04,"Sawnwood, coniferous",c01,5
+ASI,112,Jordan,c04,"Sawnwood, coniferous",c01,5
+ASI,113,Kyrgyzstan,c04,"Sawnwood, coniferous",c01,5
+ASI,115,Cambodia,c04,"Sawnwood, coniferous",c01,5
+ASI,116,Democratic People's Republic of Korea,c04,"Sawnwood, coniferous",c01,5
+ASI,117,Republic of Korea,c04,"Sawnwood, coniferous",c01,5
+ASI,118,Kuwait,c04,"Sawnwood, coniferous",c01,5
+ASI,120,Lao People's Democratic Republic,c04,"Sawnwood, coniferous",c01,5
+ASI,121,Lebanon,c04,"Sawnwood, coniferous",c01,5
+ASI,128,"China, Macao SAR",c04,"Sawnwood, coniferous",c01,5
+ASI,131,Malaysia,c04,"Sawnwood, coniferous",c01,5
+ASI,132,Maldives,c04,"Sawnwood, coniferous",c01,5
+ASI,141,Mongolia,c04,"Sawnwood, coniferous",c01,5
+ASI,149,Nepal,c04,"Sawnwood, coniferous",c01,5
+ASI,164,Pacific Islands Trust Territory,c04,"Sawnwood, coniferous",c01,5
+ASI,165,Pakistan,c04,"Sawnwood, coniferous",c01,5
+ASI,171,Philippines,c04,"Sawnwood, coniferous",c01,5
+ASI,176,Timor-Leste,c04,"Sawnwood, coniferous",c01,5
+ASI,179,Qatar,c04,"Sawnwood, coniferous",c01,5
+ASI,185,Russian Federation,c04,"Sawnwood, coniferous",c01,5
+ASI,194,Saudi Arabia,c04,"Sawnwood, coniferous",c01,5
+ASI,200,Singapore,c04,"Sawnwood, coniferous",c01,5
+ASI,208,Tajikistan,c04,"Sawnwood, coniferous",c01,5
+ASI,212,Syrian Arab Republic,c04,"Sawnwood, coniferous",c01,5
+ASI,213,Turkmenistan,c04,"Sawnwood, coniferous",c01,5
+ASI,214,"China, Taiwan Province of",c04,"Sawnwood, coniferous",c01,5
+ASI,216,Thailand,c04,"Sawnwood, coniferous",c01,5
+ASI,221,Oman,c04,"Sawnwood, coniferous",c01,5
+ASI,225,United Arab Emirates,c04,"Sawnwood, coniferous",c01,5
+ASI,228,USSR,c04,"Sawnwood, coniferous",c01,5
+ASI,235,Uzbekistan,c04,"Sawnwood, coniferous",c01,5
+ASI,237,Viet Nam,c04,"Sawnwood, coniferous",c01,5
+ASI,249,Yemen,c04,"Sawnwood, coniferous",c01,5
+ASI,299,Palestine,c04,"Sawnwood, coniferous",c01,5
+EUR,3,Albania,c04,"Sawnwood, coniferous",c01,5
+EUR,6,Andorra,c04,"Sawnwood, coniferous",c01,5
+EUR,11,Austria,c04,"Sawnwood, coniferous",c01,5
+EUR,15,Belgium-Luxembourg,c04,"Sawnwood, coniferous",c01,5
+EUR,27,Bulgaria,c04,"Sawnwood, coniferous",c01,5
+EUR,50,Cyprus,c04,"Sawnwood, coniferous",c01,5
+EUR,51,Czechoslovakia,c04,"Sawnwood, coniferous",c01,5
+EUR,54,Denmark,c04,"Sawnwood, coniferous",c01,2
+EUR,57,Belarus,c04,"Sawnwood, coniferous",c01,5
+EUR,63,Estonia,c04,"Sawnwood, coniferous",c01,5
+EUR,64,Faroe Islands,c04,"Sawnwood, coniferous",c01,5
+EUR,67,Finland,c04,"Sawnwood, coniferous",c01,5
+EUR,68,France,c04,"Sawnwood, coniferous",c01,4
+EUR,79,Germany,c04,"Sawnwood, coniferous",c01,2
+EUR,80,Bosnia and Herzegovina,c04,"Sawnwood, coniferous",c01,5
+EUR,82,Gibraltar,c04,"Sawnwood, coniferous",c01,5
+EUR,84,Greece,c04,"Sawnwood, coniferous",c01,5
+EUR,85,Greenland,c04,"Sawnwood, coniferous",c01,5
+EUR,94,Holy See,c04,"Sawnwood, coniferous",c01,5
+EUR,97,Hungary,c04,"Sawnwood, coniferous",c01,5
+EUR,98,Croatia,c04,"Sawnwood, coniferous",c01,5
+EUR,99,Iceland,c04,"Sawnwood, coniferous",c01,5
+EUR,104,Ireland,c04,"Sawnwood, coniferous",c01,1
+EUR,106,Italy,c04,"Sawnwood, coniferous",c01,5
+EUR,119,Latvia,c04,"Sawnwood, coniferous",c01,5
+EUR,125,Liechtenstein,c04,"Sawnwood, coniferous",c01,5
+EUR,126,Lithuania,c04,"Sawnwood, coniferous",c01,5
+EUR,134,Malta,c04,"Sawnwood, coniferous",c01,5
+EUR,146,Republic of Moldova,c04,"Sawnwood, coniferous",c01,5
+EUR,150,Netherlands,c04,"Sawnwood, coniferous",c01,5
+EUR,154,North Macedonia,c04,"Sawnwood, coniferous",c01,5
+EUR,162,Norway,c04,"Sawnwood, coniferous",c01,6
+EUR,167,Czechia,c04,"Sawnwood, coniferous",c01,3
+EUR,173,Poland,c04,"Sawnwood, coniferous",c01,2
+EUR,174,Portugal,c04,"Sawnwood, coniferous",c01,5
+EUR,183,Romania,c04,"Sawnwood, coniferous",c01,5
+EUR,186,Serbia and Montenegro,c04,"Sawnwood, coniferous",c01,5
+EUR,192,San Marino,c04,"Sawnwood, coniferous",c01,5
+EUR,198,Slovenia,c04,"Sawnwood, coniferous",c01,5
+EUR,199,Slovakia,c04,"Sawnwood, coniferous",c01,12
+EUR,203,Spain,c04,"Sawnwood, coniferous",c01,7
+EUR,210,Sweden,c04,"Sawnwood, coniferous",c01,5
+EUR,211,Switzerland,c04,"Sawnwood, coniferous",c01,5
+EUR,223,Turkey,c04,"Sawnwood, coniferous",c01,5
+EUR,229,United Kingdom,c04,"Sawnwood, coniferous",c01,5
+EUR,230,Ukraine,c04,"Sawnwood, coniferous",c01,7
+EUR,248,Yugoslav SFR,c04,"Sawnwood, coniferous",c01,5
+EUR,255,Belgium,c04,"Sawnwood, coniferous",c01,5
+EUR,256,Luxembourg,c04,"Sawnwood, coniferous",c01,5
+EUR,272,Serbia,c04,"Sawnwood, coniferous",c01,5
+EUR,273,Montenegro,c04,"Sawnwood, coniferous",c01,5
+LAM,8,Antigua and Barbuda,c04,"Sawnwood, coniferous",c01,4.25
+LAM,9,Argentina,c04,"Sawnwood, coniferous",c01,4.25
+LAM,12,Bahamas,c04,"Sawnwood, coniferous",c01,4.25
+LAM,14,Barbados,c04,"Sawnwood, coniferous",c01,4.25
+LAM,17,Bermuda,c04,"Sawnwood, coniferous",c01,4.25
+LAM,19,Bolivia (Plurinational State of),c04,"Sawnwood, coniferous",c01,4.25
+LAM,21,Brazil,c04,"Sawnwood, coniferous",c01,4.25
+LAM,22,Aruba,c04,"Sawnwood, coniferous",c01,4.25
+LAM,23,Belize,c04,"Sawnwood, coniferous",c01,4.25
+LAM,36,Cayman Islands,c04,"Sawnwood, coniferous",c01,4.25
+LAM,40,Chile,c04,"Sawnwood, coniferous",c01,4.25
+LAM,44,Colombia,c04,"Sawnwood, coniferous",c01,4.25
+LAM,48,Costa Rica,c04,"Sawnwood, coniferous",c01,4.25
+LAM,49,Cuba,c04,"Sawnwood, coniferous",c01,4.25
+LAM,55,Dominica,c04,"Sawnwood, coniferous",c01,4.25
+LAM,56,Dominican Republic,c04,"Sawnwood, coniferous",c01,4.25
+LAM,58,Ecuador,c04,"Sawnwood, coniferous",c01,4.25
+LAM,60,El Salvador,c04,"Sawnwood, coniferous",c01,4.25
+LAM,65,Falkland Islands (Malvinas),c04,"Sawnwood, coniferous",c01,4.25
+LAM,69,French Guyana,c04,"Sawnwood, coniferous",c01,4.25
+LAM,86,Grenada,c04,"Sawnwood, coniferous",c01,4.25
+LAM,87,Guadeloupe,c04,"Sawnwood, coniferous",c01,4.25
+LAM,89,Guatemala,c04,"Sawnwood, coniferous",c01,4.25
+LAM,91,Guyana,c04,"Sawnwood, coniferous",c01,4.25
+LAM,93,Haiti,c04,"Sawnwood, coniferous",c01,4.25
+LAM,95,Honduras,c04,"Sawnwood, coniferous",c01,4.25
+LAM,109,Jamaica,c04,"Sawnwood, coniferous",c01,4.25
+LAM,135,Martinique,c04,"Sawnwood, coniferous",c01,4.25
+LAM,138,Mexico,c04,"Sawnwood, coniferous",c01,4.25
+LAM,142,Montserrat,c04,"Sawnwood, coniferous",c01,4.25
+LAM,151,Netherlands Antilles,c04,"Sawnwood, coniferous",c01,4.25
+LAM,157,Nicaragua,c04,"Sawnwood, coniferous",c01,4.25
+LAM,166,Panama,c04,"Sawnwood, coniferous",c01,4.25
+LAM,169,Paraguay,c04,"Sawnwood, coniferous",c01,4.25
+LAM,170,Peru,c04,"Sawnwood, coniferous",c01,4.25
+LAM,188,Saint Kitts and Nevis,c04,"Sawnwood, coniferous",c01,4.25
+LAM,189,Saint Lucia,c04,"Sawnwood, coniferous",c01,4.25
+LAM,191,Saint Vincent and the Grenadines,c04,"Sawnwood, coniferous",c01,4.25
+LAM,207,Suriname,c04,"Sawnwood, coniferous",c01,4.25
+LAM,220,Trinidad and Tobago,c04,"Sawnwood, coniferous",c01,4.25
+LAM,224,Turks and Caicos Islands,c04,"Sawnwood, coniferous",c01,4.25
+LAM,234,Uruguay,c04,"Sawnwood, coniferous",c01,4.25
+LAM,236,Venezuela (Bolivarian Republic of),c04,"Sawnwood, coniferous",c01,4.25
+LAM,239,British Virgin Islands,c04,"Sawnwood, coniferous",c01,4.25
+LAM,258,Anguilla,c04,"Sawnwood, coniferous",c01,4.25
+LAM,279,Curaçao,c04,"Sawnwood, coniferous",c01,4.25
+LAM,281,Saint-Martin (French Part),c04,"Sawnwood, coniferous",c01,4.25
+NAM,33,Canada,c04,"Sawnwood, coniferous",c01,4
+NAM,190,Saint Pierre and Miquelon,c04,"Sawnwood, coniferous",c01,4
+NAM,231,United States of America,c04,"Sawnwood, coniferous",c01,4
+OCE,5,American Samoa,c04,"Sawnwood, coniferous",c01,4.25
+OCE,10,Australia,c04,"Sawnwood, coniferous",c01,4.25
+OCE,25,Solomon Islands,c04,"Sawnwood, coniferous",c01,4.25
+OCE,42,Christmas Island,c04,"Sawnwood, coniferous",c01,4.25
+OCE,43,Cocos (Keeling) Islands,c04,"Sawnwood, coniferous",c01,4.25
+OCE,47,Cook Islands,c04,"Sawnwood, coniferous",c01,4.25
+OCE,66,Fiji,c04,"Sawnwood, coniferous",c01,4.25
+OCE,70,French Polynesia,c04,"Sawnwood, coniferous",c01,4.25
+OCE,71,French Southern and Antarctic Territories,c04,"Sawnwood, coniferous",c01,4.25
+OCE,83,Kiribati,c04,"Sawnwood, coniferous",c01,4.25
+OCE,88,Guam,c04,"Sawnwood, coniferous",c01,4.25
+OCE,127,Marshall Islands,c04,"Sawnwood, coniferous",c01,4.25
+OCE,145,Micronesia (Federated States of),c04,"Sawnwood, coniferous",c01,4.25
+OCE,148,Nauru,c04,"Sawnwood, coniferous",c01,4.25
+OCE,153,New Caledonia,c04,"Sawnwood, coniferous",c01,4.25
+OCE,155,Vanuatu,c04,"Sawnwood, coniferous",c01,4.25
+OCE,156,New Zealand,c04,"Sawnwood, coniferous",c01,4.25
+OCE,160,Niue,c04,"Sawnwood, coniferous",c01,4.25
+OCE,161,Norfolk Island,c04,"Sawnwood, coniferous",c01,4.25
+OCE,163,Northern Mariana Islands,c04,"Sawnwood, coniferous",c01,4.25
+OCE,168,Papua New Guinea,c04,"Sawnwood, coniferous",c01,4.25
+OCE,172,Pitcairn Islands,c04,"Sawnwood, coniferous",c01,4.25
+OCE,180,Palau,c04,"Sawnwood, coniferous",c01,4.25
+OCE,218,Tokelau,c04,"Sawnwood, coniferous",c01,4.25
+OCE,227,Tuvalu,c04,"Sawnwood, coniferous",c01,4.25
+OCE,242,Wake Island,c04,"Sawnwood, coniferous",c01,4.25
+OCE,243,Wallis and Futuna Islands,c04,"Sawnwood, coniferous",c01,4.25
+OCE,244,Samoa,c04,"Sawnwood, coniferous",c01,4.25
+ROW,999,RoW,c04,"Sawnwood, coniferous",c01,4.25
+XXX,252,Unspecified Area,c04,"Sawnwood, coniferous",c01,4.25
+XXX,254,Others (adjustment),c04,"Sawnwood, coniferous",c01,4.25
+AFR,4,Algeria,c05,"Sawnwood, non-coniferous all",c02,7
+AFR,7,Angola,c05,"Sawnwood, non-coniferous all",c02,7
+AFR,20,Botswana,c05,"Sawnwood, non-coniferous all",c02,7
+AFR,29,Burundi,c05,"Sawnwood, non-coniferous all",c02,7
+AFR,32,Cameroon,c05,"Sawnwood, non-coniferous all",c02,7
+AFR,35,Cabo Verde,c05,"Sawnwood, non-coniferous all",c02,7
+AFR,37,Central African Republic,c05,"Sawnwood, non-coniferous all",c02,7
+AFR,39,Chad,c05,"Sawnwood, non-coniferous all",c02,7
+AFR,45,Comoros,c05,"Sawnwood, non-coniferous all",c02,7
+AFR,46,Congo,c05,"Sawnwood, non-coniferous all",c02,7
+AFR,53,Benin,c05,"Sawnwood, non-coniferous all",c02,7
+AFR,59,Egypt,c05,"Sawnwood, non-coniferous all",c02,7
+AFR,61,Equatorial Guinea,c05,"Sawnwood, non-coniferous all",c02,7
+AFR,72,Djibouti,c05,"Sawnwood, non-coniferous all",c02,7
+AFR,74,Gabon,c05,"Sawnwood, non-coniferous all",c02,7
+AFR,75,Gambia,c05,"Sawnwood, non-coniferous all",c02,7
+AFR,81,Ghana,c05,"Sawnwood, non-coniferous all",c02,7
+AFR,90,Guinea,c05,"Sawnwood, non-coniferous all",c02,7
+AFR,107,Cote d'Ivoire,c05,"Sawnwood, non-coniferous all",c02,7
+AFR,114,Kenya,c05,"Sawnwood, non-coniferous all",c02,7
+AFR,122,Lesotho,c05,"Sawnwood, non-coniferous all",c02,7
+AFR,123,Liberia,c05,"Sawnwood, non-coniferous all",c02,7
+AFR,124,Libya,c05,"Sawnwood, non-coniferous all",c02,7
+AFR,129,Madagascar,c05,"Sawnwood, non-coniferous all",c02,7
+AFR,130,Malawi,c05,"Sawnwood, non-coniferous all",c02,7
+AFR,133,Mali,c05,"Sawnwood, non-coniferous all",c02,7
+AFR,136,Mauritania,c05,"Sawnwood, non-coniferous all",c02,7
+AFR,137,Mauritius,c05,"Sawnwood, non-coniferous all",c02,7
+AFR,143,Morocco,c05,"Sawnwood, non-coniferous all",c02,7
+AFR,144,Mozambique,c05,"Sawnwood, non-coniferous all",c02,7
+AFR,147,Namibia,c05,"Sawnwood, non-coniferous all",c02,7
+AFR,158,Niger,c05,"Sawnwood, non-coniferous all",c02,7
+AFR,159,Nigeria,c05,"Sawnwood, non-coniferous all",c02,7
+AFR,175,Guinea-Bissau,c05,"Sawnwood, non-coniferous all",c02,7
+AFR,178,Eritrea,c05,"Sawnwood, non-coniferous all",c02,7
+AFR,181,Zimbabwe,c05,"Sawnwood, non-coniferous all",c02,7
+AFR,182,Reunion,c05,"Sawnwood, non-coniferous all",c02,7
+AFR,184,Rwanda,c05,"Sawnwood, non-coniferous all",c02,7
+AFR,187,"Saint Helena, Ascension and Tristan da Cunha",c05,"Sawnwood, non-coniferous all",c02,7
+AFR,193,Sao Tome and Principe,c05,"Sawnwood, non-coniferous all",c02,7
+AFR,195,Senegal,c05,"Sawnwood, non-coniferous all",c02,7
+AFR,196,Seychelles,c05,"Sawnwood, non-coniferous all",c02,7
+AFR,197,Sierra Leone,c05,"Sawnwood, non-coniferous all",c02,7
+AFR,201,Somalia,c05,"Sawnwood, non-coniferous all",c02,7
+AFR,202,South Africa,c05,"Sawnwood, non-coniferous all",c02,7
+AFR,205,Western Sahara,c05,"Sawnwood, non-coniferous all",c02,7
+AFR,209,Eswatini,c05,"Sawnwood, non-coniferous all",c02,7
+AFR,215,United Republic of Tanzania,c05,"Sawnwood, non-coniferous all",c02,7
+AFR,217,Togo,c05,"Sawnwood, non-coniferous all",c02,7
+AFR,219,Tonga,c05,"Sawnwood, non-coniferous all",c02,7
+AFR,222,Tunisia,c05,"Sawnwood, non-coniferous all",c02,7
+AFR,226,Uganda,c05,"Sawnwood, non-coniferous all",c02,7
+AFR,233,Burkina Faso,c05,"Sawnwood, non-coniferous all",c02,7
+AFR,238,Ethiopia,c05,"Sawnwood, non-coniferous all",c02,7
+AFR,250,Democratic Republic of the Congo,c05,"Sawnwood, non-coniferous all",c02,7
+AFR,251,Zambia,c05,"Sawnwood, non-coniferous all",c02,7
+AFR,270,Mayotte,c05,"Sawnwood, non-coniferous all",c02,7
+AFR,276,Sudan,c05,"Sawnwood, non-coniferous all",c02,7
+AFR,277,South Sudan,c05,"Sawnwood, non-coniferous all",c02,7
+ASI,1,Armenia,c05,"Sawnwood, non-coniferous all",c02,5
+ASI,2,Afghanistan,c05,"Sawnwood, non-coniferous all",c02,5
+ASI,13,Bahrain,c05,"Sawnwood, non-coniferous all",c02,5
+ASI,16,Bangladesh,c05,"Sawnwood, non-coniferous all",c02,5
+ASI,18,Bhutan,c05,"Sawnwood, non-coniferous all",c02,5
+ASI,24,British Indian Ocean Territory,c05,"Sawnwood, non-coniferous all",c02,5
+ASI,26,Brunei Darussalam,c05,"Sawnwood, non-coniferous all",c02,5
+ASI,28,Myanmar,c05,"Sawnwood, non-coniferous all",c02,5
+ASI,38,Sri Lanka,c05,"Sawnwood, non-coniferous all",c02,5
+ASI,41,"China, mainland",c05,"Sawnwood, non-coniferous all",c02,2
+ASI,52,Azerbaijan,c05,"Sawnwood, non-coniferous all",c02,5
+ASI,73,Georgia,c05,"Sawnwood, non-coniferous all",c02,5
+ASI,96,"China, Hong Kong SAR",c05,"Sawnwood, non-coniferous all",c02,5
+ASI,100,India,c05,"Sawnwood, non-coniferous all",c02,5
+ASI,101,Indonesia,c05,"Sawnwood, non-coniferous all",c02,9
+ASI,102,Iran (Islamic Republic of),c05,"Sawnwood, non-coniferous all",c02,5
+ASI,103,Iraq,c05,"Sawnwood, non-coniferous all",c02,5
+ASI,105,Israel,c05,"Sawnwood, non-coniferous all",c02,5
+ASI,108,Kazakhstan,c05,"Sawnwood, non-coniferous all",c02,5
+ASI,110,Japan,c05,"Sawnwood, non-coniferous all",c02,5
+ASI,112,Jordan,c05,"Sawnwood, non-coniferous all",c02,5
+ASI,113,Kyrgyzstan,c05,"Sawnwood, non-coniferous all",c02,5
+ASI,115,Cambodia,c05,"Sawnwood, non-coniferous all",c02,5
+ASI,116,Democratic People's Republic of Korea,c05,"Sawnwood, non-coniferous all",c02,5
+ASI,117,Republic of Korea,c05,"Sawnwood, non-coniferous all",c02,5
+ASI,118,Kuwait,c05,"Sawnwood, non-coniferous all",c02,5
+ASI,120,Lao People's Democratic Republic,c05,"Sawnwood, non-coniferous all",c02,5
+ASI,121,Lebanon,c05,"Sawnwood, non-coniferous all",c02,5
+ASI,128,"China, Macao SAR",c05,"Sawnwood, non-coniferous all",c02,5
+ASI,131,Malaysia,c05,"Sawnwood, non-coniferous all",c02,8
+ASI,132,Maldives,c05,"Sawnwood, non-coniferous all",c02,5
+ASI,141,Mongolia,c05,"Sawnwood, non-coniferous all",c02,5
+ASI,149,Nepal,c05,"Sawnwood, non-coniferous all",c02,5
+ASI,164,Pacific Islands Trust Territory,c05,"Sawnwood, non-coniferous all",c02,5
+ASI,165,Pakistan,c05,"Sawnwood, non-coniferous all",c02,5
+ASI,171,Philippines,c05,"Sawnwood, non-coniferous all",c02,5
+ASI,176,Timor-Leste,c05,"Sawnwood, non-coniferous all",c02,5
+ASI,179,Qatar,c05,"Sawnwood, non-coniferous all",c02,5
+ASI,185,Russian Federation,c05,"Sawnwood, non-coniferous all",c02,5
+ASI,194,Saudi Arabia,c05,"Sawnwood, non-coniferous all",c02,5
+ASI,200,Singapore,c05,"Sawnwood, non-coniferous all",c02,5
+ASI,208,Tajikistan,c05,"Sawnwood, non-coniferous all",c02,5
+ASI,212,Syrian Arab Republic,c05,"Sawnwood, non-coniferous all",c02,5
+ASI,213,Turkmenistan,c05,"Sawnwood, non-coniferous all",c02,5
+ASI,214,"China, Taiwan Province of",c05,"Sawnwood, non-coniferous all",c02,5
+ASI,216,Thailand,c05,"Sawnwood, non-coniferous all",c02,5
+ASI,221,Oman,c05,"Sawnwood, non-coniferous all",c02,5
+ASI,225,United Arab Emirates,c05,"Sawnwood, non-coniferous all",c02,5
+ASI,228,USSR,c05,"Sawnwood, non-coniferous all",c02,5
+ASI,235,Uzbekistan,c05,"Sawnwood, non-coniferous all",c02,5
+ASI,237,Viet Nam,c05,"Sawnwood, non-coniferous all",c02,5
+ASI,249,Yemen,c05,"Sawnwood, non-coniferous all",c02,5
+ASI,299,Palestine,c05,"Sawnwood, non-coniferous all",c02,5
+EUR,3,Albania,c05,"Sawnwood, non-coniferous all",c02,5
+EUR,6,Andorra,c05,"Sawnwood, non-coniferous all",c02,5
+EUR,11,Austria,c05,"Sawnwood, non-coniferous all",c02,5
+EUR,15,Belgium-Luxembourg,c05,"Sawnwood, non-coniferous all",c02,5
+EUR,27,Bulgaria,c05,"Sawnwood, non-coniferous all",c02,5
+EUR,50,Cyprus,c05,"Sawnwood, non-coniferous all",c02,5
+EUR,51,Czechoslovakia,c05,"Sawnwood, non-coniferous all",c02,5
+EUR,54,Denmark,c05,"Sawnwood, non-coniferous all",c02,3
+EUR,57,Belarus,c05,"Sawnwood, non-coniferous all",c02,5
+EUR,63,Estonia,c05,"Sawnwood, non-coniferous all",c02,5
+EUR,64,Faroe Islands,c05,"Sawnwood, non-coniferous all",c02,5
+EUR,67,Finland,c05,"Sawnwood, non-coniferous all",c02,5
+EUR,68,France,c05,"Sawnwood, non-coniferous all",c02,3
+EUR,79,Germany,c05,"Sawnwood, non-coniferous all",c02,4
+EUR,80,Bosnia and Herzegovina,c05,"Sawnwood, non-coniferous all",c02,5
+EUR,82,Gibraltar,c05,"Sawnwood, non-coniferous all",c02,5
+EUR,84,Greece,c05,"Sawnwood, non-coniferous all",c02,5
+EUR,85,Greenland,c05,"Sawnwood, non-coniferous all",c02,5
+EUR,94,Holy See,c05,"Sawnwood, non-coniferous all",c02,5
+EUR,97,Hungary,c05,"Sawnwood, non-coniferous all",c02,5
+EUR,98,Croatia,c05,"Sawnwood, non-coniferous all",c02,5
+EUR,99,Iceland,c05,"Sawnwood, non-coniferous all",c02,5
+EUR,104,Ireland,c05,"Sawnwood, non-coniferous all",c02,1
+EUR,106,Italy,c05,"Sawnwood, non-coniferous all",c02,5
+EUR,119,Latvia,c05,"Sawnwood, non-coniferous all",c02,5
+EUR,125,Liechtenstein,c05,"Sawnwood, non-coniferous all",c02,5
+EUR,126,Lithuania,c05,"Sawnwood, non-coniferous all",c02,5
+EUR,134,Malta,c05,"Sawnwood, non-coniferous all",c02,5
+EUR,146,Republic of Moldova,c05,"Sawnwood, non-coniferous all",c02,5
+EUR,150,Netherlands,c05,"Sawnwood, non-coniferous all",c02,5
+EUR,154,North Macedonia,c05,"Sawnwood, non-coniferous all",c02,5
+EUR,162,Norway,c05,"Sawnwood, non-coniferous all",c02,8
+EUR,167,Czechia,c05,"Sawnwood, non-coniferous all",c02,5
+EUR,173,Poland,c05,"Sawnwood, non-coniferous all",c02,2
+EUR,174,Portugal,c05,"Sawnwood, non-coniferous all",c02,5
+EUR,183,Romania,c05,"Sawnwood, non-coniferous all",c02,5
+EUR,186,Serbia and Montenegro,c05,"Sawnwood, non-coniferous all",c02,5
+EUR,192,San Marino,c05,"Sawnwood, non-coniferous all",c02,5
+EUR,198,Slovenia,c05,"Sawnwood, non-coniferous all",c02,5
+EUR,199,Slovakia,c05,"Sawnwood, non-coniferous all",c02,8
+EUR,203,Spain,c05,"Sawnwood, non-coniferous all",c02,6
+EUR,210,Sweden,c05,"Sawnwood, non-coniferous all",c02,5
+EUR,211,Switzerland,c05,"Sawnwood, non-coniferous all",c02,5
+EUR,223,Turkey,c05,"Sawnwood, non-coniferous all",c02,5
+EUR,229,United Kingdom,c05,"Sawnwood, non-coniferous all",c02,5
+EUR,230,Ukraine,c05,"Sawnwood, non-coniferous all",c02,5
+EUR,248,Yugoslav SFR,c05,"Sawnwood, non-coniferous all",c02,5
+EUR,255,Belgium,c05,"Sawnwood, non-coniferous all",c02,5
+EUR,256,Luxembourg,c05,"Sawnwood, non-coniferous all",c02,5
+EUR,272,Serbia,c05,"Sawnwood, non-coniferous all",c02,5
+EUR,273,Montenegro,c05,"Sawnwood, non-coniferous all",c02,5
+LAM,8,Antigua and Barbuda,c05,"Sawnwood, non-coniferous all",c02,5
+LAM,9,Argentina,c05,"Sawnwood, non-coniferous all",c02,5
+LAM,12,Bahamas,c05,"Sawnwood, non-coniferous all",c02,5
+LAM,14,Barbados,c05,"Sawnwood, non-coniferous all",c02,5
+LAM,17,Bermuda,c05,"Sawnwood, non-coniferous all",c02,5
+LAM,19,Bolivia (Plurinational State of),c05,"Sawnwood, non-coniferous all",c02,5
+LAM,21,Brazil,c05,"Sawnwood, non-coniferous all",c02,5
+LAM,22,Aruba,c05,"Sawnwood, non-coniferous all",c02,5
+LAM,23,Belize,c05,"Sawnwood, non-coniferous all",c02,5
+LAM,36,Cayman Islands,c05,"Sawnwood, non-coniferous all",c02,5
+LAM,40,Chile,c05,"Sawnwood, non-coniferous all",c02,5
+LAM,44,Colombia,c05,"Sawnwood, non-coniferous all",c02,5
+LAM,48,Costa Rica,c05,"Sawnwood, non-coniferous all",c02,5
+LAM,49,Cuba,c05,"Sawnwood, non-coniferous all",c02,5
+LAM,55,Dominica,c05,"Sawnwood, non-coniferous all",c02,5
+LAM,56,Dominican Republic,c05,"Sawnwood, non-coniferous all",c02,5
+LAM,58,Ecuador,c05,"Sawnwood, non-coniferous all",c02,5
+LAM,60,El Salvador,c05,"Sawnwood, non-coniferous all",c02,5
+LAM,65,Falkland Islands (Malvinas),c05,"Sawnwood, non-coniferous all",c02,5
+LAM,69,French Guyana,c05,"Sawnwood, non-coniferous all",c02,5
+LAM,86,Grenada,c05,"Sawnwood, non-coniferous all",c02,5
+LAM,87,Guadeloupe,c05,"Sawnwood, non-coniferous all",c02,5
+LAM,89,Guatemala,c05,"Sawnwood, non-coniferous all",c02,5
+LAM,91,Guyana,c05,"Sawnwood, non-coniferous all",c02,5
+LAM,93,Haiti,c05,"Sawnwood, non-coniferous all",c02,5
+LAM,95,Honduras,c05,"Sawnwood, non-coniferous all",c02,5
+LAM,109,Jamaica,c05,"Sawnwood, non-coniferous all",c02,5
+LAM,135,Martinique,c05,"Sawnwood, non-coniferous all",c02,5
+LAM,138,Mexico,c05,"Sawnwood, non-coniferous all",c02,5
+LAM,142,Montserrat,c05,"Sawnwood, non-coniferous all",c02,5
+LAM,151,Netherlands Antilles,c05,"Sawnwood, non-coniferous all",c02,5
+LAM,157,Nicaragua,c05,"Sawnwood, non-coniferous all",c02,5
+LAM,166,Panama,c05,"Sawnwood, non-coniferous all",c02,5
+LAM,169,Paraguay,c05,"Sawnwood, non-coniferous all",c02,5
+LAM,170,Peru,c05,"Sawnwood, non-coniferous all",c02,5
+LAM,188,Saint Kitts and Nevis,c05,"Sawnwood, non-coniferous all",c02,5
+LAM,189,Saint Lucia,c05,"Sawnwood, non-coniferous all",c02,5
+LAM,191,Saint Vincent and the Grenadines,c05,"Sawnwood, non-coniferous all",c02,5
+LAM,207,Suriname,c05,"Sawnwood, non-coniferous all",c02,5
+LAM,220,Trinidad and Tobago,c05,"Sawnwood, non-coniferous all",c02,5
+LAM,224,Turks and Caicos Islands,c05,"Sawnwood, non-coniferous all",c02,5
+LAM,234,Uruguay,c05,"Sawnwood, non-coniferous all",c02,5
+LAM,236,Venezuela (Bolivarian Republic of),c05,"Sawnwood, non-coniferous all",c02,5
+LAM,239,British Virgin Islands,c05,"Sawnwood, non-coniferous all",c02,5
+LAM,258,Anguilla,c05,"Sawnwood, non-coniferous all",c02,5
+LAM,279,Curaçao,c05,"Sawnwood, non-coniferous all",c02,5
+LAM,281,Saint-Martin (French Part),c05,"Sawnwood, non-coniferous all",c02,5
+NAM,33,Canada,c05,"Sawnwood, non-coniferous all",c02,4
+NAM,190,Saint Pierre and Miquelon,c05,"Sawnwood, non-coniferous all",c02,3
+NAM,231,United States of America,c05,"Sawnwood, non-coniferous all",c02,2
+OCE,5,American Samoa,c05,"Sawnwood, non-coniferous all",c02,5
+OCE,10,Australia,c05,"Sawnwood, non-coniferous all",c02,5
+OCE,25,Solomon Islands,c05,"Sawnwood, non-coniferous all",c02,5
+OCE,42,Christmas Island,c05,"Sawnwood, non-coniferous all",c02,5
+OCE,43,Cocos (Keeling) Islands,c05,"Sawnwood, non-coniferous all",c02,5
+OCE,47,Cook Islands,c05,"Sawnwood, non-coniferous all",c02,5
+OCE,66,Fiji,c05,"Sawnwood, non-coniferous all",c02,5
+OCE,70,French Polynesia,c05,"Sawnwood, non-coniferous all",c02,5
+OCE,71,French Southern and Antarctic Territories,c05,"Sawnwood, non-coniferous all",c02,5
+OCE,83,Kiribati,c05,"Sawnwood, non-coniferous all",c02,5
+OCE,88,Guam,c05,"Sawnwood, non-coniferous all",c02,5
+OCE,127,Marshall Islands,c05,"Sawnwood, non-coniferous all",c02,5
+OCE,145,Micronesia (Federated States of),c05,"Sawnwood, non-coniferous all",c02,5
+OCE,148,Nauru,c05,"Sawnwood, non-coniferous all",c02,5
+OCE,153,New Caledonia,c05,"Sawnwood, non-coniferous all",c02,5
+OCE,155,Vanuatu,c05,"Sawnwood, non-coniferous all",c02,5
+OCE,156,New Zealand,c05,"Sawnwood, non-coniferous all",c02,5
+OCE,160,Niue,c05,"Sawnwood, non-coniferous all",c02,5
+OCE,161,Norfolk Island,c05,"Sawnwood, non-coniferous all",c02,5
+OCE,163,Northern Mariana Islands,c05,"Sawnwood, non-coniferous all",c02,5
+OCE,168,Papua New Guinea,c05,"Sawnwood, non-coniferous all",c02,5
+OCE,172,Pitcairn Islands,c05,"Sawnwood, non-coniferous all",c02,5
+OCE,180,Palau,c05,"Sawnwood, non-coniferous all",c02,5
+OCE,218,Tokelau,c05,"Sawnwood, non-coniferous all",c02,5
+OCE,227,Tuvalu,c05,"Sawnwood, non-coniferous all",c02,5
+OCE,242,Wake Island,c05,"Sawnwood, non-coniferous all",c02,5
+OCE,243,Wallis and Futuna Islands,c05,"Sawnwood, non-coniferous all",c02,5
+OCE,244,Samoa,c05,"Sawnwood, non-coniferous all",c02,5
+ROW,999,RoW,c05,"Sawnwood, non-coniferous all",c02,5
+XXX,252,Unspecified Area,c05,"Sawnwood, non-coniferous all",c02,5
+XXX,254,Others (adjustment),c05,"Sawnwood, non-coniferous all",c02,5
+AFR,4,Algeria,c06,Veneer sheets,c01,4
+AFR,7,Angola,c06,Veneer sheets,c01,4
+AFR,20,Botswana,c06,Veneer sheets,c01,4
+AFR,29,Burundi,c06,Veneer sheets,c01,4
+AFR,32,Cameroon,c06,Veneer sheets,c01,4
+AFR,35,Cabo Verde,c06,Veneer sheets,c01,4
+AFR,37,Central African Republic,c06,Veneer sheets,c01,4
+AFR,39,Chad,c06,Veneer sheets,c01,4
+AFR,45,Comoros,c06,Veneer sheets,c01,4
+AFR,46,Congo,c06,Veneer sheets,c01,4
+AFR,53,Benin,c06,Veneer sheets,c01,4
+AFR,59,Egypt,c06,Veneer sheets,c01,4
+AFR,61,Equatorial Guinea,c06,Veneer sheets,c01,4
+AFR,72,Djibouti,c06,Veneer sheets,c01,4
+AFR,74,Gabon,c06,Veneer sheets,c01,4
+AFR,75,Gambia,c06,Veneer sheets,c01,4
+AFR,81,Ghana,c06,Veneer sheets,c01,4
+AFR,90,Guinea,c06,Veneer sheets,c01,4
+AFR,107,Cote d'Ivoire,c06,Veneer sheets,c01,4
+AFR,114,Kenya,c06,Veneer sheets,c01,4
+AFR,122,Lesotho,c06,Veneer sheets,c01,4
+AFR,123,Liberia,c06,Veneer sheets,c01,4
+AFR,124,Libya,c06,Veneer sheets,c01,4
+AFR,129,Madagascar,c06,Veneer sheets,c01,4
+AFR,130,Malawi,c06,Veneer sheets,c01,4
+AFR,133,Mali,c06,Veneer sheets,c01,4
+AFR,136,Mauritania,c06,Veneer sheets,c01,4
+AFR,137,Mauritius,c06,Veneer sheets,c01,4
+AFR,143,Morocco,c06,Veneer sheets,c01,4
+AFR,144,Mozambique,c06,Veneer sheets,c01,4
+AFR,147,Namibia,c06,Veneer sheets,c01,4
+AFR,158,Niger,c06,Veneer sheets,c01,4
+AFR,159,Nigeria,c06,Veneer sheets,c01,4
+AFR,175,Guinea-Bissau,c06,Veneer sheets,c01,4
+AFR,178,Eritrea,c06,Veneer sheets,c01,4
+AFR,181,Zimbabwe,c06,Veneer sheets,c01,4
+AFR,182,Reunion,c06,Veneer sheets,c01,4
+AFR,184,Rwanda,c06,Veneer sheets,c01,4
+AFR,187,"Saint Helena, Ascension and Tristan da Cunha",c06,Veneer sheets,c01,4
+AFR,193,Sao Tome and Principe,c06,Veneer sheets,c01,4
+AFR,195,Senegal,c06,Veneer sheets,c01,4
+AFR,196,Seychelles,c06,Veneer sheets,c01,4
+AFR,197,Sierra Leone,c06,Veneer sheets,c01,4
+AFR,201,Somalia,c06,Veneer sheets,c01,4
+AFR,202,South Africa,c06,Veneer sheets,c01,4
+AFR,205,Western Sahara,c06,Veneer sheets,c01,4
+AFR,209,Eswatini,c06,Veneer sheets,c01,4
+AFR,215,United Republic of Tanzania,c06,Veneer sheets,c01,4
+AFR,217,Togo,c06,Veneer sheets,c01,4
+AFR,219,Tonga,c06,Veneer sheets,c01,4
+AFR,222,Tunisia,c06,Veneer sheets,c01,4
+AFR,226,Uganda,c06,Veneer sheets,c01,4
+AFR,233,Burkina Faso,c06,Veneer sheets,c01,4
+AFR,238,Ethiopia,c06,Veneer sheets,c01,4
+AFR,250,Democratic Republic of the Congo,c06,Veneer sheets,c01,4
+AFR,251,Zambia,c06,Veneer sheets,c01,4
+AFR,270,Mayotte,c06,Veneer sheets,c01,4
+AFR,276,Sudan,c06,Veneer sheets,c01,4
+AFR,277,South Sudan,c06,Veneer sheets,c01,4
+ASI,1,Armenia,c06,Veneer sheets,c01,5
+ASI,2,Afghanistan,c06,Veneer sheets,c01,5
+ASI,13,Bahrain,c06,Veneer sheets,c01,5
+ASI,16,Bangladesh,c06,Veneer sheets,c01,5
+ASI,18,Bhutan,c06,Veneer sheets,c01,5
+ASI,24,British Indian Ocean Territory,c06,Veneer sheets,c01,5
+ASI,26,Brunei Darussalam,c06,Veneer sheets,c01,5
+ASI,28,Myanmar,c06,Veneer sheets,c01,5
+ASI,38,Sri Lanka,c06,Veneer sheets,c01,5
+ASI,41,"China, mainland",c06,Veneer sheets,c01,5
+ASI,52,Azerbaijan,c06,Veneer sheets,c01,5
+ASI,73,Georgia,c06,Veneer sheets,c01,5
+ASI,96,"China, Hong Kong SAR",c06,Veneer sheets,c01,5
+ASI,100,India,c06,Veneer sheets,c01,5
+ASI,101,Indonesia,c06,Veneer sheets,c01,5
+ASI,102,Iran (Islamic Republic of),c06,Veneer sheets,c01,5
+ASI,103,Iraq,c06,Veneer sheets,c01,5
+ASI,105,Israel,c06,Veneer sheets,c01,5
+ASI,108,Kazakhstan,c06,Veneer sheets,c01,5
+ASI,110,Japan,c06,Veneer sheets,c01,5
+ASI,112,Jordan,c06,Veneer sheets,c01,5
+ASI,113,Kyrgyzstan,c06,Veneer sheets,c01,5
+ASI,115,Cambodia,c06,Veneer sheets,c01,5
+ASI,116,Democratic People's Republic of Korea,c06,Veneer sheets,c01,5
+ASI,117,Republic of Korea,c06,Veneer sheets,c01,5
+ASI,118,Kuwait,c06,Veneer sheets,c01,5
+ASI,120,Lao People's Democratic Republic,c06,Veneer sheets,c01,5
+ASI,121,Lebanon,c06,Veneer sheets,c01,5
+ASI,128,"China, Macao SAR",c06,Veneer sheets,c01,5
+ASI,131,Malaysia,c06,Veneer sheets,c01,5
+ASI,132,Maldives,c06,Veneer sheets,c01,5
+ASI,141,Mongolia,c06,Veneer sheets,c01,5
+ASI,149,Nepal,c06,Veneer sheets,c01,5
+ASI,164,Pacific Islands Trust Territory,c06,Veneer sheets,c01,5
+ASI,165,Pakistan,c06,Veneer sheets,c01,5
+ASI,171,Philippines,c06,Veneer sheets,c01,5
+ASI,176,Timor-Leste,c06,Veneer sheets,c01,5
+ASI,179,Qatar,c06,Veneer sheets,c01,5
+ASI,185,Russian Federation,c06,Veneer sheets,c01,5
+ASI,194,Saudi Arabia,c06,Veneer sheets,c01,5
+ASI,200,Singapore,c06,Veneer sheets,c01,5
+ASI,208,Tajikistan,c06,Veneer sheets,c01,5
+ASI,212,Syrian Arab Republic,c06,Veneer sheets,c01,5
+ASI,213,Turkmenistan,c06,Veneer sheets,c01,5
+ASI,214,"China, Taiwan Province of",c06,Veneer sheets,c01,5
+ASI,216,Thailand,c06,Veneer sheets,c01,5
+ASI,221,Oman,c06,Veneer sheets,c01,5
+ASI,225,United Arab Emirates,c06,Veneer sheets,c01,5
+ASI,228,USSR,c06,Veneer sheets,c01,5
+ASI,235,Uzbekistan,c06,Veneer sheets,c01,5
+ASI,237,Viet Nam,c06,Veneer sheets,c01,5
+ASI,249,Yemen,c06,Veneer sheets,c01,5
+ASI,299,Palestine,c06,Veneer sheets,c01,5
+EUR,3,Albania,c06,Veneer sheets,c01,5
+EUR,6,Andorra,c06,Veneer sheets,c01,5
+EUR,11,Austria,c06,Veneer sheets,c01,5
+EUR,15,Belgium-Luxembourg,c06,Veneer sheets,c01,5
+EUR,27,Bulgaria,c06,Veneer sheets,c01,5
+EUR,50,Cyprus,c06,Veneer sheets,c01,5
+EUR,51,Czechoslovakia,c06,Veneer sheets,c01,5
+EUR,54,Denmark,c06,Veneer sheets,c01,5
+EUR,57,Belarus,c06,Veneer sheets,c01,5
+EUR,63,Estonia,c06,Veneer sheets,c01,5
+EUR,64,Faroe Islands,c06,Veneer sheets,c01,5
+EUR,67,Finland,c06,Veneer sheets,c01,7
+EUR,68,France,c06,Veneer sheets,c01,5
+EUR,79,Germany,c06,Veneer sheets,c01,5
+EUR,80,Bosnia and Herzegovina,c06,Veneer sheets,c01,5
+EUR,82,Gibraltar,c06,Veneer sheets,c01,5
+EUR,84,Greece,c06,Veneer sheets,c01,5
+EUR,85,Greenland,c06,Veneer sheets,c01,5
+EUR,94,Holy See,c06,Veneer sheets,c01,5
+EUR,97,Hungary,c06,Veneer sheets,c01,5
+EUR,98,Croatia,c06,Veneer sheets,c01,5
+EUR,99,Iceland,c06,Veneer sheets,c01,5
+EUR,104,Ireland,c06,Veneer sheets,c01,5
+EUR,106,Italy,c06,Veneer sheets,c01,5
+EUR,119,Latvia,c06,Veneer sheets,c01,5
+EUR,125,Liechtenstein,c06,Veneer sheets,c01,5
+EUR,126,Lithuania,c06,Veneer sheets,c01,5
+EUR,134,Malta,c06,Veneer sheets,c01,5
+EUR,146,Republic of Moldova,c06,Veneer sheets,c01,5
+EUR,150,Netherlands,c06,Veneer sheets,c01,5
+EUR,154,North Macedonia,c06,Veneer sheets,c01,5
+EUR,162,Norway,c06,Veneer sheets,c01,5
+EUR,167,Czechia,c06,Veneer sheets,c01,5
+EUR,173,Poland,c06,Veneer sheets,c01,3
+EUR,174,Portugal,c06,Veneer sheets,c01,5
+EUR,183,Romania,c06,Veneer sheets,c01,5
+EUR,186,Serbia and Montenegro,c06,Veneer sheets,c01,5
+EUR,192,San Marino,c06,Veneer sheets,c01,5
+EUR,198,Slovenia,c06,Veneer sheets,c01,5
+EUR,199,Slovakia,c06,Veneer sheets,c01,5
+EUR,203,Spain,c06,Veneer sheets,c01,5
+EUR,210,Sweden,c06,Veneer sheets,c01,5
+EUR,211,Switzerland,c06,Veneer sheets,c01,5
+EUR,223,Turkey,c06,Veneer sheets,c01,5
+EUR,229,United Kingdom,c06,Veneer sheets,c01,5
+EUR,230,Ukraine,c06,Veneer sheets,c01,5
+EUR,248,Yugoslav SFR,c06,Veneer sheets,c01,5
+EUR,255,Belgium,c06,Veneer sheets,c01,5
+EUR,256,Luxembourg,c06,Veneer sheets,c01,5
+EUR,272,Serbia,c06,Veneer sheets,c01,5
+EUR,273,Montenegro,c06,Veneer sheets,c01,5
+LAM,8,Antigua and Barbuda,c06,Veneer sheets,c01,9
+LAM,9,Argentina,c06,Veneer sheets,c01,9
+LAM,12,Bahamas,c06,Veneer sheets,c01,9
+LAM,14,Barbados,c06,Veneer sheets,c01,9
+LAM,17,Bermuda,c06,Veneer sheets,c01,9
+LAM,19,Bolivia (Plurinational State of),c06,Veneer sheets,c01,9
+LAM,21,Brazil,c06,Veneer sheets,c01,9
+LAM,22,Aruba,c06,Veneer sheets,c01,9
+LAM,23,Belize,c06,Veneer sheets,c01,9
+LAM,36,Cayman Islands,c06,Veneer sheets,c01,9
+LAM,40,Chile,c06,Veneer sheets,c01,9
+LAM,44,Colombia,c06,Veneer sheets,c01,9
+LAM,48,Costa Rica,c06,Veneer sheets,c01,9
+LAM,49,Cuba,c06,Veneer sheets,c01,9
+LAM,55,Dominica,c06,Veneer sheets,c01,9
+LAM,56,Dominican Republic,c06,Veneer sheets,c01,9
+LAM,58,Ecuador,c06,Veneer sheets,c01,9
+LAM,60,El Salvador,c06,Veneer sheets,c01,9
+LAM,65,Falkland Islands (Malvinas),c06,Veneer sheets,c01,9
+LAM,69,French Guyana,c06,Veneer sheets,c01,9
+LAM,86,Grenada,c06,Veneer sheets,c01,9
+LAM,87,Guadeloupe,c06,Veneer sheets,c01,9
+LAM,89,Guatemala,c06,Veneer sheets,c01,9
+LAM,91,Guyana,c06,Veneer sheets,c01,9
+LAM,93,Haiti,c06,Veneer sheets,c01,9
+LAM,95,Honduras,c06,Veneer sheets,c01,9
+LAM,109,Jamaica,c06,Veneer sheets,c01,9
+LAM,135,Martinique,c06,Veneer sheets,c01,9
+LAM,138,Mexico,c06,Veneer sheets,c01,9
+LAM,142,Montserrat,c06,Veneer sheets,c01,9
+LAM,151,Netherlands Antilles,c06,Veneer sheets,c01,9
+LAM,157,Nicaragua,c06,Veneer sheets,c01,9
+LAM,166,Panama,c06,Veneer sheets,c01,9
+LAM,169,Paraguay,c06,Veneer sheets,c01,9
+LAM,170,Peru,c06,Veneer sheets,c01,9
+LAM,188,Saint Kitts and Nevis,c06,Veneer sheets,c01,9
+LAM,189,Saint Lucia,c06,Veneer sheets,c01,9
+LAM,191,Saint Vincent and the Grenadines,c06,Veneer sheets,c01,9
+LAM,207,Suriname,c06,Veneer sheets,c01,9
+LAM,220,Trinidad and Tobago,c06,Veneer sheets,c01,9
+LAM,224,Turks and Caicos Islands,c06,Veneer sheets,c01,9
+LAM,234,Uruguay,c06,Veneer sheets,c01,9
+LAM,236,Venezuela (Bolivarian Republic of),c06,Veneer sheets,c01,9
+LAM,239,British Virgin Islands,c06,Veneer sheets,c01,9
+LAM,258,Anguilla,c06,Veneer sheets,c01,9
+LAM,279,Curaçao,c06,Veneer sheets,c01,9
+LAM,281,Saint-Martin (French Part),c06,Veneer sheets,c01,9
+NAM,33,Canada,c06,Veneer sheets,c01,5
+NAM,190,Saint Pierre and Miquelon,c06,Veneer sheets,c01,4
+NAM,231,United States of America,c06,Veneer sheets,c01,3
+OCE,5,American Samoa,c06,Veneer sheets,c01,5.4
+OCE,10,Australia,c06,Veneer sheets,c01,5.4
+OCE,25,Solomon Islands,c06,Veneer sheets,c01,5.4
+OCE,42,Christmas Island,c06,Veneer sheets,c01,5.4
+OCE,43,Cocos (Keeling) Islands,c06,Veneer sheets,c01,5.4
+OCE,47,Cook Islands,c06,Veneer sheets,c01,5.4
+OCE,66,Fiji,c06,Veneer sheets,c01,5.4
+OCE,70,French Polynesia,c06,Veneer sheets,c01,5.4
+OCE,71,French Southern and Antarctic Territories,c06,Veneer sheets,c01,5.4
+OCE,83,Kiribati,c06,Veneer sheets,c01,5.4
+OCE,88,Guam,c06,Veneer sheets,c01,5.4
+OCE,127,Marshall Islands,c06,Veneer sheets,c01,5.4
+OCE,145,Micronesia (Federated States of),c06,Veneer sheets,c01,5.4
+OCE,148,Nauru,c06,Veneer sheets,c01,5.4
+OCE,153,New Caledonia,c06,Veneer sheets,c01,5.4
+OCE,155,Vanuatu,c06,Veneer sheets,c01,5.4
+OCE,156,New Zealand,c06,Veneer sheets,c01,5.4
+OCE,160,Niue,c06,Veneer sheets,c01,5.4
+OCE,161,Norfolk Island,c06,Veneer sheets,c01,5.4
+OCE,163,Northern Mariana Islands,c06,Veneer sheets,c01,5.4
+OCE,168,Papua New Guinea,c06,Veneer sheets,c01,5.4
+OCE,172,Pitcairn Islands,c06,Veneer sheets,c01,5.4
+OCE,180,Palau,c06,Veneer sheets,c01,5.4
+OCE,218,Tokelau,c06,Veneer sheets,c01,5.4
+OCE,227,Tuvalu,c06,Veneer sheets,c01,5.4
+OCE,242,Wake Island,c06,Veneer sheets,c01,5.4
+OCE,243,Wallis and Futuna Islands,c06,Veneer sheets,c01,5.4
+OCE,244,Samoa,c06,Veneer sheets,c01,5.4
+ROW,999,RoW,c06,Veneer sheets,c01,5.4
+XXX,252,Unspecified Area,c06,Veneer sheets,c01,5.4
+XXX,254,Others (adjustment),c06,Veneer sheets,c01,5.4
+AFR,4,Algeria,c06,Veneer sheets,c02,6
+AFR,7,Angola,c06,Veneer sheets,c02,6
+AFR,20,Botswana,c06,Veneer sheets,c02,6
+AFR,29,Burundi,c06,Veneer sheets,c02,6
+AFR,32,Cameroon,c06,Veneer sheets,c02,6
+AFR,35,Cabo Verde,c06,Veneer sheets,c02,6
+AFR,37,Central African Republic,c06,Veneer sheets,c02,6
+AFR,39,Chad,c06,Veneer sheets,c02,6
+AFR,45,Comoros,c06,Veneer sheets,c02,6
+AFR,46,Congo,c06,Veneer sheets,c02,6
+AFR,53,Benin,c06,Veneer sheets,c02,6
+AFR,59,Egypt,c06,Veneer sheets,c02,6
+AFR,61,Equatorial Guinea,c06,Veneer sheets,c02,6
+AFR,72,Djibouti,c06,Veneer sheets,c02,6
+AFR,74,Gabon,c06,Veneer sheets,c02,6
+AFR,75,Gambia,c06,Veneer sheets,c02,6
+AFR,81,Ghana,c06,Veneer sheets,c02,6
+AFR,90,Guinea,c06,Veneer sheets,c02,6
+AFR,107,Cote d'Ivoire,c06,Veneer sheets,c02,6
+AFR,114,Kenya,c06,Veneer sheets,c02,6
+AFR,122,Lesotho,c06,Veneer sheets,c02,6
+AFR,123,Liberia,c06,Veneer sheets,c02,6
+AFR,124,Libya,c06,Veneer sheets,c02,6
+AFR,129,Madagascar,c06,Veneer sheets,c02,6
+AFR,130,Malawi,c06,Veneer sheets,c02,6
+AFR,133,Mali,c06,Veneer sheets,c02,6
+AFR,136,Mauritania,c06,Veneer sheets,c02,6
+AFR,137,Mauritius,c06,Veneer sheets,c02,6
+AFR,143,Morocco,c06,Veneer sheets,c02,6
+AFR,144,Mozambique,c06,Veneer sheets,c02,6
+AFR,147,Namibia,c06,Veneer sheets,c02,6
+AFR,158,Niger,c06,Veneer sheets,c02,6
+AFR,159,Nigeria,c06,Veneer sheets,c02,6
+AFR,175,Guinea-Bissau,c06,Veneer sheets,c02,6
+AFR,178,Eritrea,c06,Veneer sheets,c02,6
+AFR,181,Zimbabwe,c06,Veneer sheets,c02,6
+AFR,182,Reunion,c06,Veneer sheets,c02,6
+AFR,184,Rwanda,c06,Veneer sheets,c02,6
+AFR,187,"Saint Helena, Ascension and Tristan da Cunha",c06,Veneer sheets,c02,6
+AFR,193,Sao Tome and Principe,c06,Veneer sheets,c02,6
+AFR,195,Senegal,c06,Veneer sheets,c02,6
+AFR,196,Seychelles,c06,Veneer sheets,c02,6
+AFR,197,Sierra Leone,c06,Veneer sheets,c02,6
+AFR,201,Somalia,c06,Veneer sheets,c02,6
+AFR,202,South Africa,c06,Veneer sheets,c02,6
+AFR,205,Western Sahara,c06,Veneer sheets,c02,6
+AFR,209,Eswatini,c06,Veneer sheets,c02,6
+AFR,215,United Republic of Tanzania,c06,Veneer sheets,c02,6
+AFR,217,Togo,c06,Veneer sheets,c02,6
+AFR,219,Tonga,c06,Veneer sheets,c02,6
+AFR,222,Tunisia,c06,Veneer sheets,c02,6
+AFR,226,Uganda,c06,Veneer sheets,c02,6
+AFR,233,Burkina Faso,c06,Veneer sheets,c02,6
+AFR,238,Ethiopia,c06,Veneer sheets,c02,6
+AFR,250,Democratic Republic of the Congo,c06,Veneer sheets,c02,6
+AFR,251,Zambia,c06,Veneer sheets,c02,6
+AFR,270,Mayotte,c06,Veneer sheets,c02,6
+AFR,276,Sudan,c06,Veneer sheets,c02,6
+AFR,277,South Sudan,c06,Veneer sheets,c02,6
+ASI,1,Armenia,c06,Veneer sheets,c02,2
+ASI,2,Afghanistan,c06,Veneer sheets,c02,2
+ASI,13,Bahrain,c06,Veneer sheets,c02,2
+ASI,16,Bangladesh,c06,Veneer sheets,c02,2
+ASI,18,Bhutan,c06,Veneer sheets,c02,2
+ASI,24,British Indian Ocean Territory,c06,Veneer sheets,c02,2
+ASI,26,Brunei Darussalam,c06,Veneer sheets,c02,2
+ASI,28,Myanmar,c06,Veneer sheets,c02,2
+ASI,38,Sri Lanka,c06,Veneer sheets,c02,2
+ASI,41,"China, mainland",c06,Veneer sheets,c02,2
+ASI,52,Azerbaijan,c06,Veneer sheets,c02,2
+ASI,73,Georgia,c06,Veneer sheets,c02,2
+ASI,96,"China, Hong Kong SAR",c06,Veneer sheets,c02,2
+ASI,100,India,c06,Veneer sheets,c02,2
+ASI,101,Indonesia,c06,Veneer sheets,c02,2
+ASI,102,Iran (Islamic Republic of),c06,Veneer sheets,c02,2
+ASI,103,Iraq,c06,Veneer sheets,c02,2
+ASI,105,Israel,c06,Veneer sheets,c02,2
+ASI,108,Kazakhstan,c06,Veneer sheets,c02,2
+ASI,110,Japan,c06,Veneer sheets,c02,2
+ASI,112,Jordan,c06,Veneer sheets,c02,2
+ASI,113,Kyrgyzstan,c06,Veneer sheets,c02,2
+ASI,115,Cambodia,c06,Veneer sheets,c02,2
+ASI,116,Democratic People's Republic of Korea,c06,Veneer sheets,c02,2
+ASI,117,Republic of Korea,c06,Veneer sheets,c02,2
+ASI,118,Kuwait,c06,Veneer sheets,c02,2
+ASI,120,Lao People's Democratic Republic,c06,Veneer sheets,c02,2
+ASI,121,Lebanon,c06,Veneer sheets,c02,2
+ASI,128,"China, Macao SAR",c06,Veneer sheets,c02,2
+ASI,131,Malaysia,c06,Veneer sheets,c02,8
+ASI,132,Maldives,c06,Veneer sheets,c02,2
+ASI,141,Mongolia,c06,Veneer sheets,c02,2
+ASI,149,Nepal,c06,Veneer sheets,c02,2
+ASI,164,Pacific Islands Trust Territory,c06,Veneer sheets,c02,2
+ASI,165,Pakistan,c06,Veneer sheets,c02,2
+ASI,171,Philippines,c06,Veneer sheets,c02,2
+ASI,176,Timor-Leste,c06,Veneer sheets,c02,2
+ASI,179,Qatar,c06,Veneer sheets,c02,2
+ASI,185,Russian Federation,c06,Veneer sheets,c02,14
+ASI,194,Saudi Arabia,c06,Veneer sheets,c02,2
+ASI,200,Singapore,c06,Veneer sheets,c02,2
+ASI,208,Tajikistan,c06,Veneer sheets,c02,2
+ASI,212,Syrian Arab Republic,c06,Veneer sheets,c02,2
+ASI,213,Turkmenistan,c06,Veneer sheets,c02,2
+ASI,214,"China, Taiwan Province of",c06,Veneer sheets,c02,2
+ASI,216,Thailand,c06,Veneer sheets,c02,2
+ASI,221,Oman,c06,Veneer sheets,c02,2
+ASI,225,United Arab Emirates,c06,Veneer sheets,c02,2
+ASI,228,USSR,c06,Veneer sheets,c02,2
+ASI,235,Uzbekistan,c06,Veneer sheets,c02,2
+ASI,237,Viet Nam,c06,Veneer sheets,c02,2
+ASI,249,Yemen,c06,Veneer sheets,c02,2
+ASI,299,Palestine,c06,Veneer sheets,c02,2
+EUR,3,Albania,c06,Veneer sheets,c02,8
+EUR,6,Andorra,c06,Veneer sheets,c02,8
+EUR,11,Austria,c06,Veneer sheets,c02,8
+EUR,15,Belgium-Luxembourg,c06,Veneer sheets,c02,8
+EUR,27,Bulgaria,c06,Veneer sheets,c02,8
+EUR,50,Cyprus,c06,Veneer sheets,c02,8
+EUR,51,Czechoslovakia,c06,Veneer sheets,c02,8
+EUR,54,Denmark,c06,Veneer sheets,c02,8
+EUR,57,Belarus,c06,Veneer sheets,c02,8
+EUR,63,Estonia,c06,Veneer sheets,c02,8
+EUR,64,Faroe Islands,c06,Veneer sheets,c02,8
+EUR,67,Finland,c06,Veneer sheets,c02,9
+EUR,68,France,c06,Veneer sheets,c02,8
+EUR,79,Germany,c06,Veneer sheets,c02,8
+EUR,80,Bosnia and Herzegovina,c06,Veneer sheets,c02,8
+EUR,82,Gibraltar,c06,Veneer sheets,c02,8
+EUR,84,Greece,c06,Veneer sheets,c02,8
+EUR,85,Greenland,c06,Veneer sheets,c02,8
+EUR,94,Holy See,c06,Veneer sheets,c02,8
+EUR,97,Hungary,c06,Veneer sheets,c02,8
+EUR,98,Croatia,c06,Veneer sheets,c02,8
+EUR,99,Iceland,c06,Veneer sheets,c02,8
+EUR,104,Ireland,c06,Veneer sheets,c02,8
+EUR,106,Italy,c06,Veneer sheets,c02,8
+EUR,119,Latvia,c06,Veneer sheets,c02,8
+EUR,125,Liechtenstein,c06,Veneer sheets,c02,8
+EUR,126,Lithuania,c06,Veneer sheets,c02,6
+EUR,134,Malta,c06,Veneer sheets,c02,8
+EUR,146,Republic of Moldova,c06,Veneer sheets,c02,8
+EUR,150,Netherlands,c06,Veneer sheets,c02,2
+EUR,154,North Macedonia,c06,Veneer sheets,c02,8
+EUR,162,Norway,c06,Veneer sheets,c02,8
+EUR,167,Czechia,c06,Veneer sheets,c02,8
+EUR,173,Poland,c06,Veneer sheets,c02,8
+EUR,174,Portugal,c06,Veneer sheets,c02,8
+EUR,183,Romania,c06,Veneer sheets,c02,8
+EUR,186,Serbia and Montenegro,c06,Veneer sheets,c02,8
+EUR,192,San Marino,c06,Veneer sheets,c02,8
+EUR,198,Slovenia,c06,Veneer sheets,c02,8
+EUR,199,Slovakia,c06,Veneer sheets,c02,8
+EUR,203,Spain,c06,Veneer sheets,c02,8
+EUR,210,Sweden,c06,Veneer sheets,c02,8
+EUR,211,Switzerland,c06,Veneer sheets,c02,8
+EUR,223,Turkey,c06,Veneer sheets,c02,8
+EUR,229,United Kingdom,c06,Veneer sheets,c02,8
+EUR,230,Ukraine,c06,Veneer sheets,c02,8
+EUR,248,Yugoslav SFR,c06,Veneer sheets,c02,8
+EUR,255,Belgium,c06,Veneer sheets,c02,8
+EUR,256,Luxembourg,c06,Veneer sheets,c02,8
+EUR,272,Serbia,c06,Veneer sheets,c02,8
+EUR,273,Montenegro,c06,Veneer sheets,c02,8
+LAM,8,Antigua and Barbuda,c06,Veneer sheets,c02,10
+LAM,9,Argentina,c06,Veneer sheets,c02,10
+LAM,12,Bahamas,c06,Veneer sheets,c02,10
+LAM,14,Barbados,c06,Veneer sheets,c02,10
+LAM,17,Bermuda,c06,Veneer sheets,c02,10
+LAM,19,Bolivia (Plurinational State of),c06,Veneer sheets,c02,10
+LAM,21,Brazil,c06,Veneer sheets,c02,10
+LAM,22,Aruba,c06,Veneer sheets,c02,10
+LAM,23,Belize,c06,Veneer sheets,c02,10
+LAM,36,Cayman Islands,c06,Veneer sheets,c02,10
+LAM,40,Chile,c06,Veneer sheets,c02,10
+LAM,44,Colombia,c06,Veneer sheets,c02,10
+LAM,48,Costa Rica,c06,Veneer sheets,c02,10
+LAM,49,Cuba,c06,Veneer sheets,c02,10
+LAM,55,Dominica,c06,Veneer sheets,c02,10
+LAM,56,Dominican Republic,c06,Veneer sheets,c02,10
+LAM,58,Ecuador,c06,Veneer sheets,c02,10
+LAM,60,El Salvador,c06,Veneer sheets,c02,10
+LAM,65,Falkland Islands (Malvinas),c06,Veneer sheets,c02,10
+LAM,69,French Guyana,c06,Veneer sheets,c02,10
+LAM,86,Grenada,c06,Veneer sheets,c02,10
+LAM,87,Guadeloupe,c06,Veneer sheets,c02,10
+LAM,89,Guatemala,c06,Veneer sheets,c02,10
+LAM,91,Guyana,c06,Veneer sheets,c02,10
+LAM,93,Haiti,c06,Veneer sheets,c02,10
+LAM,95,Honduras,c06,Veneer sheets,c02,10
+LAM,109,Jamaica,c06,Veneer sheets,c02,10
+LAM,135,Martinique,c06,Veneer sheets,c02,10
+LAM,138,Mexico,c06,Veneer sheets,c02,10
+LAM,142,Montserrat,c06,Veneer sheets,c02,10
+LAM,151,Netherlands Antilles,c06,Veneer sheets,c02,10
+LAM,157,Nicaragua,c06,Veneer sheets,c02,10
+LAM,166,Panama,c06,Veneer sheets,c02,10
+LAM,169,Paraguay,c06,Veneer sheets,c02,10
+LAM,170,Peru,c06,Veneer sheets,c02,10
+LAM,188,Saint Kitts and Nevis,c06,Veneer sheets,c02,10
+LAM,189,Saint Lucia,c06,Veneer sheets,c02,10
+LAM,191,Saint Vincent and the Grenadines,c06,Veneer sheets,c02,10
+LAM,207,Suriname,c06,Veneer sheets,c02,10
+LAM,220,Trinidad and Tobago,c06,Veneer sheets,c02,10
+LAM,224,Turks and Caicos Islands,c06,Veneer sheets,c02,10
+LAM,234,Uruguay,c06,Veneer sheets,c02,10
+LAM,236,Venezuela (Bolivarian Republic of),c06,Veneer sheets,c02,10
+LAM,239,British Virgin Islands,c06,Veneer sheets,c02,10
+LAM,258,Anguilla,c06,Veneer sheets,c02,10
+LAM,279,Curaçao,c06,Veneer sheets,c02,10
+LAM,281,Saint-Martin (French Part),c06,Veneer sheets,c02,10
+NAM,33,Canada,c06,Veneer sheets,c02,5
+NAM,190,Saint Pierre and Miquelon,c06,Veneer sheets,c02,4
+NAM,231,United States of America,c06,Veneer sheets,c02,3
+OCE,5,American Samoa,c06,Veneer sheets,c02,6
+OCE,10,Australia,c06,Veneer sheets,c02,6
+OCE,25,Solomon Islands,c06,Veneer sheets,c02,6
+OCE,42,Christmas Island,c06,Veneer sheets,c02,6
+OCE,43,Cocos (Keeling) Islands,c06,Veneer sheets,c02,6
+OCE,47,Cook Islands,c06,Veneer sheets,c02,6
+OCE,66,Fiji,c06,Veneer sheets,c02,6
+OCE,70,French Polynesia,c06,Veneer sheets,c02,6
+OCE,71,French Southern and Antarctic Territories,c06,Veneer sheets,c02,6
+OCE,83,Kiribati,c06,Veneer sheets,c02,6
+OCE,88,Guam,c06,Veneer sheets,c02,6
+OCE,127,Marshall Islands,c06,Veneer sheets,c02,6
+OCE,145,Micronesia (Federated States of),c06,Veneer sheets,c02,6
+OCE,148,Nauru,c06,Veneer sheets,c02,6
+OCE,153,New Caledonia,c06,Veneer sheets,c02,6
+OCE,155,Vanuatu,c06,Veneer sheets,c02,6
+OCE,156,New Zealand,c06,Veneer sheets,c02,6
+OCE,160,Niue,c06,Veneer sheets,c02,6
+OCE,161,Norfolk Island,c06,Veneer sheets,c02,6
+OCE,163,Northern Mariana Islands,c06,Veneer sheets,c02,6
+OCE,168,Papua New Guinea,c06,Veneer sheets,c02,6
+OCE,172,Pitcairn Islands,c06,Veneer sheets,c02,6
+OCE,180,Palau,c06,Veneer sheets,c02,6
+OCE,218,Tokelau,c06,Veneer sheets,c02,6
+OCE,227,Tuvalu,c06,Veneer sheets,c02,6
+OCE,242,Wake Island,c06,Veneer sheets,c02,6
+OCE,243,Wallis and Futuna Islands,c06,Veneer sheets,c02,6
+OCE,244,Samoa,c06,Veneer sheets,c02,6
+ROW,999,RoW,c06,Veneer sheets,c02,6
+XXX,252,Unspecified Area,c06,Veneer sheets,c02,6
+XXX,254,Others (adjustment),c06,Veneer sheets,c02,6
+AFR,4,Algeria,c07,Plywood,c01,4
+AFR,7,Angola,c07,Plywood,c01,4
+AFR,20,Botswana,c07,Plywood,c01,4
+AFR,29,Burundi,c07,Plywood,c01,4
+AFR,32,Cameroon,c07,Plywood,c01,4
+AFR,35,Cabo Verde,c07,Plywood,c01,4
+AFR,37,Central African Republic,c07,Plywood,c01,4
+AFR,39,Chad,c07,Plywood,c01,4
+AFR,45,Comoros,c07,Plywood,c01,4
+AFR,46,Congo,c07,Plywood,c01,4
+AFR,53,Benin,c07,Plywood,c01,4
+AFR,59,Egypt,c07,Plywood,c01,4
+AFR,61,Equatorial Guinea,c07,Plywood,c01,4
+AFR,72,Djibouti,c07,Plywood,c01,4
+AFR,74,Gabon,c07,Plywood,c01,4
+AFR,75,Gambia,c07,Plywood,c01,4
+AFR,81,Ghana,c07,Plywood,c01,4
+AFR,90,Guinea,c07,Plywood,c01,4
+AFR,107,Cote d'Ivoire,c07,Plywood,c01,4
+AFR,114,Kenya,c07,Plywood,c01,4
+AFR,122,Lesotho,c07,Plywood,c01,4
+AFR,123,Liberia,c07,Plywood,c01,4
+AFR,124,Libya,c07,Plywood,c01,4
+AFR,129,Madagascar,c07,Plywood,c01,4
+AFR,130,Malawi,c07,Plywood,c01,4
+AFR,133,Mali,c07,Plywood,c01,4
+AFR,136,Mauritania,c07,Plywood,c01,4
+AFR,137,Mauritius,c07,Plywood,c01,4
+AFR,143,Morocco,c07,Plywood,c01,4
+AFR,144,Mozambique,c07,Plywood,c01,4
+AFR,147,Namibia,c07,Plywood,c01,4
+AFR,158,Niger,c07,Plywood,c01,4
+AFR,159,Nigeria,c07,Plywood,c01,4
+AFR,175,Guinea-Bissau,c07,Plywood,c01,4
+AFR,178,Eritrea,c07,Plywood,c01,4
+AFR,181,Zimbabwe,c07,Plywood,c01,4
+AFR,182,Reunion,c07,Plywood,c01,4
+AFR,184,Rwanda,c07,Plywood,c01,4
+AFR,187,"Saint Helena, Ascension and Tristan da Cunha",c07,Plywood,c01,4
+AFR,193,Sao Tome and Principe,c07,Plywood,c01,4
+AFR,195,Senegal,c07,Plywood,c01,4
+AFR,196,Seychelles,c07,Plywood,c01,4
+AFR,197,Sierra Leone,c07,Plywood,c01,4
+AFR,201,Somalia,c07,Plywood,c01,4
+AFR,202,South Africa,c07,Plywood,c01,4
+AFR,205,Western Sahara,c07,Plywood,c01,4
+AFR,209,Eswatini,c07,Plywood,c01,4
+AFR,215,United Republic of Tanzania,c07,Plywood,c01,4
+AFR,217,Togo,c07,Plywood,c01,4
+AFR,219,Tonga,c07,Plywood,c01,4
+AFR,222,Tunisia,c07,Plywood,c01,4
+AFR,226,Uganda,c07,Plywood,c01,4
+AFR,233,Burkina Faso,c07,Plywood,c01,4
+AFR,238,Ethiopia,c07,Plywood,c01,4
+AFR,250,Democratic Republic of the Congo,c07,Plywood,c01,4
+AFR,251,Zambia,c07,Plywood,c01,4
+AFR,270,Mayotte,c07,Plywood,c01,4
+AFR,276,Sudan,c07,Plywood,c01,4
+AFR,277,South Sudan,c07,Plywood,c01,4
+ASI,1,Armenia,c07,Plywood,c01,5
+ASI,2,Afghanistan,c07,Plywood,c01,5
+ASI,13,Bahrain,c07,Plywood,c01,5
+ASI,16,Bangladesh,c07,Plywood,c01,5
+ASI,18,Bhutan,c07,Plywood,c01,5
+ASI,24,British Indian Ocean Territory,c07,Plywood,c01,5
+ASI,26,Brunei Darussalam,c07,Plywood,c01,5
+ASI,28,Myanmar,c07,Plywood,c01,5
+ASI,38,Sri Lanka,c07,Plywood,c01,5
+ASI,41,"China, mainland",c07,Plywood,c01,5
+ASI,52,Azerbaijan,c07,Plywood,c01,5
+ASI,73,Georgia,c07,Plywood,c01,5
+ASI,96,"China, Hong Kong SAR",c07,Plywood,c01,5
+ASI,100,India,c07,Plywood,c01,5
+ASI,101,Indonesia,c07,Plywood,c01,5
+ASI,102,Iran (Islamic Republic of),c07,Plywood,c01,5
+ASI,103,Iraq,c07,Plywood,c01,5
+ASI,105,Israel,c07,Plywood,c01,5
+ASI,108,Kazakhstan,c07,Plywood,c01,5
+ASI,110,Japan,c07,Plywood,c01,5
+ASI,112,Jordan,c07,Plywood,c01,5
+ASI,113,Kyrgyzstan,c07,Plywood,c01,5
+ASI,115,Cambodia,c07,Plywood,c01,5
+ASI,116,Democratic People's Republic of Korea,c07,Plywood,c01,5
+ASI,117,Republic of Korea,c07,Plywood,c01,5
+ASI,118,Kuwait,c07,Plywood,c01,5
+ASI,120,Lao People's Democratic Republic,c07,Plywood,c01,5
+ASI,121,Lebanon,c07,Plywood,c01,5
+ASI,128,"China, Macao SAR",c07,Plywood,c01,5
+ASI,131,Malaysia,c07,Plywood,c01,5
+ASI,132,Maldives,c07,Plywood,c01,5
+ASI,141,Mongolia,c07,Plywood,c01,5
+ASI,149,Nepal,c07,Plywood,c01,5
+ASI,164,Pacific Islands Trust Territory,c07,Plywood,c01,5
+ASI,165,Pakistan,c07,Plywood,c01,5
+ASI,171,Philippines,c07,Plywood,c01,5
+ASI,176,Timor-Leste,c07,Plywood,c01,5
+ASI,179,Qatar,c07,Plywood,c01,5
+ASI,185,Russian Federation,c07,Plywood,c01,5
+ASI,194,Saudi Arabia,c07,Plywood,c01,5
+ASI,200,Singapore,c07,Plywood,c01,5
+ASI,208,Tajikistan,c07,Plywood,c01,5
+ASI,212,Syrian Arab Republic,c07,Plywood,c01,5
+ASI,213,Turkmenistan,c07,Plywood,c01,5
+ASI,214,"China, Taiwan Province of",c07,Plywood,c01,5
+ASI,216,Thailand,c07,Plywood,c01,5
+ASI,221,Oman,c07,Plywood,c01,5
+ASI,225,United Arab Emirates,c07,Plywood,c01,5
+ASI,228,USSR,c07,Plywood,c01,5
+ASI,235,Uzbekistan,c07,Plywood,c01,5
+ASI,237,Viet Nam,c07,Plywood,c01,5
+ASI,249,Yemen,c07,Plywood,c01,5
+ASI,299,Palestine,c07,Plywood,c01,5
+EUR,3,Albania,c07,Plywood,c01,5
+EUR,6,Andorra,c07,Plywood,c01,5
+EUR,11,Austria,c07,Plywood,c01,5
+EUR,15,Belgium-Luxembourg,c07,Plywood,c01,5
+EUR,27,Bulgaria,c07,Plywood,c01,5
+EUR,50,Cyprus,c07,Plywood,c01,5
+EUR,51,Czechoslovakia,c07,Plywood,c01,5
+EUR,54,Denmark,c07,Plywood,c01,5
+EUR,57,Belarus,c07,Plywood,c01,5
+EUR,63,Estonia,c07,Plywood,c01,5
+EUR,64,Faroe Islands,c07,Plywood,c01,5
+EUR,67,Finland,c07,Plywood,c01,7
+EUR,68,France,c07,Plywood,c01,5
+EUR,79,Germany,c07,Plywood,c01,5
+EUR,80,Bosnia and Herzegovina,c07,Plywood,c01,5
+EUR,82,Gibraltar,c07,Plywood,c01,5
+EUR,84,Greece,c07,Plywood,c01,5
+EUR,85,Greenland,c07,Plywood,c01,5
+EUR,94,Holy See,c07,Plywood,c01,5
+EUR,97,Hungary,c07,Plywood,c01,5
+EUR,98,Croatia,c07,Plywood,c01,5
+EUR,99,Iceland,c07,Plywood,c01,5
+EUR,104,Ireland,c07,Plywood,c01,5
+EUR,106,Italy,c07,Plywood,c01,5
+EUR,119,Latvia,c07,Plywood,c01,5
+EUR,125,Liechtenstein,c07,Plywood,c01,5
+EUR,126,Lithuania,c07,Plywood,c01,5
+EUR,134,Malta,c07,Plywood,c01,5
+EUR,146,Republic of Moldova,c07,Plywood,c01,5
+EUR,150,Netherlands,c07,Plywood,c01,5
+EUR,154,North Macedonia,c07,Plywood,c01,5
+EUR,162,Norway,c07,Plywood,c01,5
+EUR,167,Czechia,c07,Plywood,c01,5
+EUR,173,Poland,c07,Plywood,c01,3
+EUR,174,Portugal,c07,Plywood,c01,5
+EUR,183,Romania,c07,Plywood,c01,5
+EUR,186,Serbia and Montenegro,c07,Plywood,c01,5
+EUR,192,San Marino,c07,Plywood,c01,5
+EUR,198,Slovenia,c07,Plywood,c01,5
+EUR,199,Slovakia,c07,Plywood,c01,5
+EUR,203,Spain,c07,Plywood,c01,5
+EUR,210,Sweden,c07,Plywood,c01,5
+EUR,211,Switzerland,c07,Plywood,c01,5
+EUR,223,Turkey,c07,Plywood,c01,5
+EUR,229,United Kingdom,c07,Plywood,c01,5
+EUR,230,Ukraine,c07,Plywood,c01,5
+EUR,248,Yugoslav SFR,c07,Plywood,c01,5
+EUR,255,Belgium,c07,Plywood,c01,5
+EUR,256,Luxembourg,c07,Plywood,c01,5
+EUR,272,Serbia,c07,Plywood,c01,5
+EUR,273,Montenegro,c07,Plywood,c01,5
+LAM,8,Antigua and Barbuda,c07,Plywood,c01,9
+LAM,9,Argentina,c07,Plywood,c01,9
+LAM,12,Bahamas,c07,Plywood,c01,9
+LAM,14,Barbados,c07,Plywood,c01,9
+LAM,17,Bermuda,c07,Plywood,c01,9
+LAM,19,Bolivia (Plurinational State of),c07,Plywood,c01,9
+LAM,21,Brazil,c07,Plywood,c01,9
+LAM,22,Aruba,c07,Plywood,c01,9
+LAM,23,Belize,c07,Plywood,c01,9
+LAM,36,Cayman Islands,c07,Plywood,c01,9
+LAM,40,Chile,c07,Plywood,c01,9
+LAM,44,Colombia,c07,Plywood,c01,9
+LAM,48,Costa Rica,c07,Plywood,c01,9
+LAM,49,Cuba,c07,Plywood,c01,9
+LAM,55,Dominica,c07,Plywood,c01,9
+LAM,56,Dominican Republic,c07,Plywood,c01,9
+LAM,58,Ecuador,c07,Plywood,c01,9
+LAM,60,El Salvador,c07,Plywood,c01,9
+LAM,65,Falkland Islands (Malvinas),c07,Plywood,c01,9
+LAM,69,French Guyana,c07,Plywood,c01,9
+LAM,86,Grenada,c07,Plywood,c01,9
+LAM,87,Guadeloupe,c07,Plywood,c01,9
+LAM,89,Guatemala,c07,Plywood,c01,9
+LAM,91,Guyana,c07,Plywood,c01,9
+LAM,93,Haiti,c07,Plywood,c01,9
+LAM,95,Honduras,c07,Plywood,c01,9
+LAM,109,Jamaica,c07,Plywood,c01,9
+LAM,135,Martinique,c07,Plywood,c01,9
+LAM,138,Mexico,c07,Plywood,c01,9
+LAM,142,Montserrat,c07,Plywood,c01,9
+LAM,151,Netherlands Antilles,c07,Plywood,c01,9
+LAM,157,Nicaragua,c07,Plywood,c01,9
+LAM,166,Panama,c07,Plywood,c01,9
+LAM,169,Paraguay,c07,Plywood,c01,9
+LAM,170,Peru,c07,Plywood,c01,9
+LAM,188,Saint Kitts and Nevis,c07,Plywood,c01,9
+LAM,189,Saint Lucia,c07,Plywood,c01,9
+LAM,191,Saint Vincent and the Grenadines,c07,Plywood,c01,9
+LAM,207,Suriname,c07,Plywood,c01,9
+LAM,220,Trinidad and Tobago,c07,Plywood,c01,9
+LAM,224,Turks and Caicos Islands,c07,Plywood,c01,9
+LAM,234,Uruguay,c07,Plywood,c01,9
+LAM,236,Venezuela (Bolivarian Republic of),c07,Plywood,c01,9
+LAM,239,British Virgin Islands,c07,Plywood,c01,9
+LAM,258,Anguilla,c07,Plywood,c01,9
+LAM,279,Curaçao,c07,Plywood,c01,9
+LAM,281,Saint-Martin (French Part),c07,Plywood,c01,9
+NAM,33,Canada,c07,Plywood,c01,5
+NAM,190,Saint Pierre and Miquelon,c07,Plywood,c01,4
+NAM,231,United States of America,c07,Plywood,c01,3
+OCE,5,American Samoa,c07,Plywood,c01,5.4
+OCE,10,Australia,c07,Plywood,c01,5.4
+OCE,25,Solomon Islands,c07,Plywood,c01,5.4
+OCE,42,Christmas Island,c07,Plywood,c01,5.4
+OCE,43,Cocos (Keeling) Islands,c07,Plywood,c01,5.4
+OCE,47,Cook Islands,c07,Plywood,c01,5.4
+OCE,66,Fiji,c07,Plywood,c01,5.4
+OCE,70,French Polynesia,c07,Plywood,c01,5.4
+OCE,71,French Southern and Antarctic Territories,c07,Plywood,c01,5.4
+OCE,83,Kiribati,c07,Plywood,c01,5.4
+OCE,88,Guam,c07,Plywood,c01,5.4
+OCE,127,Marshall Islands,c07,Plywood,c01,5.4
+OCE,145,Micronesia (Federated States of),c07,Plywood,c01,5.4
+OCE,148,Nauru,c07,Plywood,c01,5.4
+OCE,153,New Caledonia,c07,Plywood,c01,5.4
+OCE,155,Vanuatu,c07,Plywood,c01,5.4
+OCE,156,New Zealand,c07,Plywood,c01,5.4
+OCE,160,Niue,c07,Plywood,c01,5.4
+OCE,161,Norfolk Island,c07,Plywood,c01,5.4
+OCE,163,Northern Mariana Islands,c07,Plywood,c01,5.4
+OCE,168,Papua New Guinea,c07,Plywood,c01,5.4
+OCE,172,Pitcairn Islands,c07,Plywood,c01,5.4
+OCE,180,Palau,c07,Plywood,c01,5.4
+OCE,218,Tokelau,c07,Plywood,c01,5.4
+OCE,227,Tuvalu,c07,Plywood,c01,5.4
+OCE,242,Wake Island,c07,Plywood,c01,5.4
+OCE,243,Wallis and Futuna Islands,c07,Plywood,c01,5.4
+OCE,244,Samoa,c07,Plywood,c01,5.4
+ROW,999,RoW,c07,Plywood,c01,5.4
+XXX,252,Unspecified Area,c07,Plywood,c01,5.4
+XXX,254,Others (adjustment),c07,Plywood,c01,5.4
+AFR,4,Algeria,c07,Plywood,c02,6
+AFR,7,Angola,c07,Plywood,c02,6
+AFR,20,Botswana,c07,Plywood,c02,6
+AFR,29,Burundi,c07,Plywood,c02,6
+AFR,32,Cameroon,c07,Plywood,c02,6
+AFR,35,Cabo Verde,c07,Plywood,c02,6
+AFR,37,Central African Republic,c07,Plywood,c02,6
+AFR,39,Chad,c07,Plywood,c02,6
+AFR,45,Comoros,c07,Plywood,c02,6
+AFR,46,Congo,c07,Plywood,c02,6
+AFR,53,Benin,c07,Plywood,c02,6
+AFR,59,Egypt,c07,Plywood,c02,6
+AFR,61,Equatorial Guinea,c07,Plywood,c02,6
+AFR,72,Djibouti,c07,Plywood,c02,6
+AFR,74,Gabon,c07,Plywood,c02,6
+AFR,75,Gambia,c07,Plywood,c02,6
+AFR,81,Ghana,c07,Plywood,c02,6
+AFR,90,Guinea,c07,Plywood,c02,6
+AFR,107,Cote d'Ivoire,c07,Plywood,c02,6
+AFR,114,Kenya,c07,Plywood,c02,6
+AFR,122,Lesotho,c07,Plywood,c02,6
+AFR,123,Liberia,c07,Plywood,c02,6
+AFR,124,Libya,c07,Plywood,c02,6
+AFR,129,Madagascar,c07,Plywood,c02,6
+AFR,130,Malawi,c07,Plywood,c02,6
+AFR,133,Mali,c07,Plywood,c02,6
+AFR,136,Mauritania,c07,Plywood,c02,6
+AFR,137,Mauritius,c07,Plywood,c02,6
+AFR,143,Morocco,c07,Plywood,c02,6
+AFR,144,Mozambique,c07,Plywood,c02,6
+AFR,147,Namibia,c07,Plywood,c02,6
+AFR,158,Niger,c07,Plywood,c02,6
+AFR,159,Nigeria,c07,Plywood,c02,6
+AFR,175,Guinea-Bissau,c07,Plywood,c02,6
+AFR,178,Eritrea,c07,Plywood,c02,6
+AFR,181,Zimbabwe,c07,Plywood,c02,6
+AFR,182,Reunion,c07,Plywood,c02,6
+AFR,184,Rwanda,c07,Plywood,c02,6
+AFR,187,"Saint Helena, Ascension and Tristan da Cunha",c07,Plywood,c02,6
+AFR,193,Sao Tome and Principe,c07,Plywood,c02,6
+AFR,195,Senegal,c07,Plywood,c02,6
+AFR,196,Seychelles,c07,Plywood,c02,6
+AFR,197,Sierra Leone,c07,Plywood,c02,6
+AFR,201,Somalia,c07,Plywood,c02,6
+AFR,202,South Africa,c07,Plywood,c02,6
+AFR,205,Western Sahara,c07,Plywood,c02,6
+AFR,209,Eswatini,c07,Plywood,c02,6
+AFR,215,United Republic of Tanzania,c07,Plywood,c02,6
+AFR,217,Togo,c07,Plywood,c02,6
+AFR,219,Tonga,c07,Plywood,c02,6
+AFR,222,Tunisia,c07,Plywood,c02,6
+AFR,226,Uganda,c07,Plywood,c02,6
+AFR,233,Burkina Faso,c07,Plywood,c02,6
+AFR,238,Ethiopia,c07,Plywood,c02,6
+AFR,250,Democratic Republic of the Congo,c07,Plywood,c02,6
+AFR,251,Zambia,c07,Plywood,c02,6
+AFR,270,Mayotte,c07,Plywood,c02,6
+AFR,276,Sudan,c07,Plywood,c02,6
+AFR,277,South Sudan,c07,Plywood,c02,6
+ASI,1,Armenia,c07,Plywood,c02,2
+ASI,2,Afghanistan,c07,Plywood,c02,2
+ASI,13,Bahrain,c07,Plywood,c02,2
+ASI,16,Bangladesh,c07,Plywood,c02,2
+ASI,18,Bhutan,c07,Plywood,c02,2
+ASI,24,British Indian Ocean Territory,c07,Plywood,c02,2
+ASI,26,Brunei Darussalam,c07,Plywood,c02,2
+ASI,28,Myanmar,c07,Plywood,c02,2
+ASI,38,Sri Lanka,c07,Plywood,c02,2
+ASI,41,"China, mainland",c07,Plywood,c02,2
+ASI,52,Azerbaijan,c07,Plywood,c02,2
+ASI,73,Georgia,c07,Plywood,c02,2
+ASI,96,"China, Hong Kong SAR",c07,Plywood,c02,2
+ASI,100,India,c07,Plywood,c02,2
+ASI,101,Indonesia,c07,Plywood,c02,2
+ASI,102,Iran (Islamic Republic of),c07,Plywood,c02,2
+ASI,103,Iraq,c07,Plywood,c02,2
+ASI,105,Israel,c07,Plywood,c02,2
+ASI,108,Kazakhstan,c07,Plywood,c02,2
+ASI,110,Japan,c07,Plywood,c02,2
+ASI,112,Jordan,c07,Plywood,c02,2
+ASI,113,Kyrgyzstan,c07,Plywood,c02,2
+ASI,115,Cambodia,c07,Plywood,c02,2
+ASI,116,Democratic People's Republic of Korea,c07,Plywood,c02,2
+ASI,117,Republic of Korea,c07,Plywood,c02,2
+ASI,118,Kuwait,c07,Plywood,c02,2
+ASI,120,Lao People's Democratic Republic,c07,Plywood,c02,2
+ASI,121,Lebanon,c07,Plywood,c02,2
+ASI,128,"China, Macao SAR",c07,Plywood,c02,2
+ASI,131,Malaysia,c07,Plywood,c02,8
+ASI,132,Maldives,c07,Plywood,c02,2
+ASI,141,Mongolia,c07,Plywood,c02,2
+ASI,149,Nepal,c07,Plywood,c02,2
+ASI,164,Pacific Islands Trust Territory,c07,Plywood,c02,2
+ASI,165,Pakistan,c07,Plywood,c02,2
+ASI,171,Philippines,c07,Plywood,c02,2
+ASI,176,Timor-Leste,c07,Plywood,c02,2
+ASI,179,Qatar,c07,Plywood,c02,2
+ASI,185,Russian Federation,c07,Plywood,c02,14
+ASI,194,Saudi Arabia,c07,Plywood,c02,2
+ASI,200,Singapore,c07,Plywood,c02,2
+ASI,208,Tajikistan,c07,Plywood,c02,2
+ASI,212,Syrian Arab Republic,c07,Plywood,c02,2
+ASI,213,Turkmenistan,c07,Plywood,c02,2
+ASI,214,"China, Taiwan Province of",c07,Plywood,c02,2
+ASI,216,Thailand,c07,Plywood,c02,2
+ASI,221,Oman,c07,Plywood,c02,2
+ASI,225,United Arab Emirates,c07,Plywood,c02,2
+ASI,228,USSR,c07,Plywood,c02,2
+ASI,235,Uzbekistan,c07,Plywood,c02,2
+ASI,237,Viet Nam,c07,Plywood,c02,2
+ASI,249,Yemen,c07,Plywood,c02,2
+ASI,299,Palestine,c07,Plywood,c02,2
+EUR,3,Albania,c07,Plywood,c02,8
+EUR,6,Andorra,c07,Plywood,c02,8
+EUR,11,Austria,c07,Plywood,c02,8
+EUR,15,Belgium-Luxembourg,c07,Plywood,c02,8
+EUR,27,Bulgaria,c07,Plywood,c02,8
+EUR,50,Cyprus,c07,Plywood,c02,8
+EUR,51,Czechoslovakia,c07,Plywood,c02,8
+EUR,54,Denmark,c07,Plywood,c02,8
+EUR,57,Belarus,c07,Plywood,c02,8
+EUR,63,Estonia,c07,Plywood,c02,8
+EUR,64,Faroe Islands,c07,Plywood,c02,8
+EUR,67,Finland,c07,Plywood,c02,9
+EUR,68,France,c07,Plywood,c02,8
+EUR,79,Germany,c07,Plywood,c02,8
+EUR,80,Bosnia and Herzegovina,c07,Plywood,c02,8
+EUR,82,Gibraltar,c07,Plywood,c02,8
+EUR,84,Greece,c07,Plywood,c02,8
+EUR,85,Greenland,c07,Plywood,c02,8
+EUR,94,Holy See,c07,Plywood,c02,8
+EUR,97,Hungary,c07,Plywood,c02,8
+EUR,98,Croatia,c07,Plywood,c02,8
+EUR,99,Iceland,c07,Plywood,c02,8
+EUR,104,Ireland,c07,Plywood,c02,8
+EUR,106,Italy,c07,Plywood,c02,8
+EUR,119,Latvia,c07,Plywood,c02,8
+EUR,125,Liechtenstein,c07,Plywood,c02,8
+EUR,126,Lithuania,c07,Plywood,c02,6
+EUR,134,Malta,c07,Plywood,c02,8
+EUR,146,Republic of Moldova,c07,Plywood,c02,8
+EUR,150,Netherlands,c07,Plywood,c02,2
+EUR,154,North Macedonia,c07,Plywood,c02,8
+EUR,162,Norway,c07,Plywood,c02,8
+EUR,167,Czechia,c07,Plywood,c02,8
+EUR,173,Poland,c07,Plywood,c02,8
+EUR,174,Portugal,c07,Plywood,c02,8
+EUR,183,Romania,c07,Plywood,c02,8
+EUR,186,Serbia and Montenegro,c07,Plywood,c02,8
+EUR,192,San Marino,c07,Plywood,c02,8
+EUR,198,Slovenia,c07,Plywood,c02,8
+EUR,199,Slovakia,c07,Plywood,c02,8
+EUR,203,Spain,c07,Plywood,c02,8
+EUR,210,Sweden,c07,Plywood,c02,8
+EUR,211,Switzerland,c07,Plywood,c02,8
+EUR,223,Turkey,c07,Plywood,c02,8
+EUR,229,United Kingdom,c07,Plywood,c02,8
+EUR,230,Ukraine,c07,Plywood,c02,8
+EUR,248,Yugoslav SFR,c07,Plywood,c02,8
+EUR,255,Belgium,c07,Plywood,c02,8
+EUR,256,Luxembourg,c07,Plywood,c02,8
+EUR,272,Serbia,c07,Plywood,c02,8
+EUR,273,Montenegro,c07,Plywood,c02,8
+LAM,8,Antigua and Barbuda,c07,Plywood,c02,10
+LAM,9,Argentina,c07,Plywood,c02,10
+LAM,12,Bahamas,c07,Plywood,c02,10
+LAM,14,Barbados,c07,Plywood,c02,10
+LAM,17,Bermuda,c07,Plywood,c02,10
+LAM,19,Bolivia (Plurinational State of),c07,Plywood,c02,10
+LAM,21,Brazil,c07,Plywood,c02,10
+LAM,22,Aruba,c07,Plywood,c02,10
+LAM,23,Belize,c07,Plywood,c02,10
+LAM,36,Cayman Islands,c07,Plywood,c02,10
+LAM,40,Chile,c07,Plywood,c02,10
+LAM,44,Colombia,c07,Plywood,c02,10
+LAM,48,Costa Rica,c07,Plywood,c02,10
+LAM,49,Cuba,c07,Plywood,c02,10
+LAM,55,Dominica,c07,Plywood,c02,10
+LAM,56,Dominican Republic,c07,Plywood,c02,10
+LAM,58,Ecuador,c07,Plywood,c02,10
+LAM,60,El Salvador,c07,Plywood,c02,10
+LAM,65,Falkland Islands (Malvinas),c07,Plywood,c02,10
+LAM,69,French Guyana,c07,Plywood,c02,10
+LAM,86,Grenada,c07,Plywood,c02,10
+LAM,87,Guadeloupe,c07,Plywood,c02,10
+LAM,89,Guatemala,c07,Plywood,c02,10
+LAM,91,Guyana,c07,Plywood,c02,10
+LAM,93,Haiti,c07,Plywood,c02,10
+LAM,95,Honduras,c07,Plywood,c02,10
+LAM,109,Jamaica,c07,Plywood,c02,10
+LAM,135,Martinique,c07,Plywood,c02,10
+LAM,138,Mexico,c07,Plywood,c02,10
+LAM,142,Montserrat,c07,Plywood,c02,10
+LAM,151,Netherlands Antilles,c07,Plywood,c02,10
+LAM,157,Nicaragua,c07,Plywood,c02,10
+LAM,166,Panama,c07,Plywood,c02,10
+LAM,169,Paraguay,c07,Plywood,c02,10
+LAM,170,Peru,c07,Plywood,c02,10
+LAM,188,Saint Kitts and Nevis,c07,Plywood,c02,10
+LAM,189,Saint Lucia,c07,Plywood,c02,10
+LAM,191,Saint Vincent and the Grenadines,c07,Plywood,c02,10
+LAM,207,Suriname,c07,Plywood,c02,10
+LAM,220,Trinidad and Tobago,c07,Plywood,c02,10
+LAM,224,Turks and Caicos Islands,c07,Plywood,c02,10
+LAM,234,Uruguay,c07,Plywood,c02,10
+LAM,236,Venezuela (Bolivarian Republic of),c07,Plywood,c02,10
+LAM,239,British Virgin Islands,c07,Plywood,c02,10
+LAM,258,Anguilla,c07,Plywood,c02,10
+LAM,279,Curaçao,c07,Plywood,c02,10
+LAM,281,Saint-Martin (French Part),c07,Plywood,c02,10
+NAM,33,Canada,c07,Plywood,c02,5
+NAM,190,Saint Pierre and Miquelon,c07,Plywood,c02,4
+NAM,231,United States of America,c07,Plywood,c02,3
+OCE,5,American Samoa,c07,Plywood,c02,6
+OCE,10,Australia,c07,Plywood,c02,6
+OCE,25,Solomon Islands,c07,Plywood,c02,6
+OCE,42,Christmas Island,c07,Plywood,c02,6
+OCE,43,Cocos (Keeling) Islands,c07,Plywood,c02,6
+OCE,47,Cook Islands,c07,Plywood,c02,6
+OCE,66,Fiji,c07,Plywood,c02,6
+OCE,70,French Polynesia,c07,Plywood,c02,6
+OCE,71,French Southern and Antarctic Territories,c07,Plywood,c02,6
+OCE,83,Kiribati,c07,Plywood,c02,6
+OCE,88,Guam,c07,Plywood,c02,6
+OCE,127,Marshall Islands,c07,Plywood,c02,6
+OCE,145,Micronesia (Federated States of),c07,Plywood,c02,6
+OCE,148,Nauru,c07,Plywood,c02,6
+OCE,153,New Caledonia,c07,Plywood,c02,6
+OCE,155,Vanuatu,c07,Plywood,c02,6
+OCE,156,New Zealand,c07,Plywood,c02,6
+OCE,160,Niue,c07,Plywood,c02,6
+OCE,161,Norfolk Island,c07,Plywood,c02,6
+OCE,163,Northern Mariana Islands,c07,Plywood,c02,6
+OCE,168,Papua New Guinea,c07,Plywood,c02,6
+OCE,172,Pitcairn Islands,c07,Plywood,c02,6
+OCE,180,Palau,c07,Plywood,c02,6
+OCE,218,Tokelau,c07,Plywood,c02,6
+OCE,227,Tuvalu,c07,Plywood,c02,6
+OCE,242,Wake Island,c07,Plywood,c02,6
+OCE,243,Wallis and Futuna Islands,c07,Plywood,c02,6
+OCE,244,Samoa,c07,Plywood,c02,6
+ROW,999,RoW,c07,Plywood,c02,6
+XXX,252,Unspecified Area,c07,Plywood,c02,6
+XXX,254,Others (adjustment),c07,Plywood,c02,6

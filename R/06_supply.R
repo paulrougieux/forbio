@@ -49,24 +49,26 @@ shares <- merge(shares, cbs[com_code=="c17", .(area_code, year, chips_cbs = prod
 shares <- merge(shares, cbs[com_code=="c18", .(area_code, year, residues_cbs = production)],
   by = c("area_code","year"), all.x = TRUE)
 
-# Change units chips_cbs and residues_cbs from m3p to m3sw 
+# Change units chips_cbs and residues_cbs from m3p to m3sw
+# For this multiply instead of divide (because unit is now the other way around)
 tcf <- fread("inst/tcf_use_tidy.csv")
-tcf <- tcf[com_code %in% c("c17", "c18") & unit == "m3p/m3sw",
+tcf <- tcf[com_code %in% c("c17", "c18") & unit == "m3sw/m3p",
   .(com_code, area_code, tcf)]
+
 tcf[, com_code := ifelse(com_code=="c17", "tcf_chips", "tcf_residues")]
 tcf <- pivot_wider(tcf, names_from = com_code, values_from = tcf)
 shares <- merge(shares, tcf, by = c("area_code"), all.x = TRUE)
-shares[, `:=`(chips_cbs = round(chips_cbs / tcf_chips),
-  residues_cbs = round(residues_cbs / tcf_residues))]
+shares[, `:=`(chips_cbs = round(chips_cbs * tcf_chips),
+  residues_cbs = round(residues_cbs * tcf_residues))]
 
 # Calculate supply of the unknown process pxy and convert into m3p
 shares[, `:=`(chips_pxy = chips_cbs - chips_total, residues_pxy = residues_cbs - residues_total)]
 
 # Convert chips and residues into m3p
-shares[, `:=`(chips_final = round(chips * tcf_chips), 
-  residues_final = round(residues * tcf_residues),
-  chips_pxy = round(chips_pxy * tcf_chips), 
-  residues_pxy = round(residues_pxy * tcf_residues))]
+shares[, `:=`(chips_final = round(chips / tcf_chips), 
+  residues_final = round(residues / tcf_residues),
+  chips_pxy = round(chips_pxy / tcf_chips), 
+  residues_pxy = round(residues_pxy / tcf_residues))]
 
 
 ## Merge chips and residues supply ------------------------------------

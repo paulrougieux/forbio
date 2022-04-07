@@ -186,6 +186,5 @@ mr_use_fd <- mapply(function(x, y) {
 
 mr_use_fd <- lapply(mr_use_fd, round)
 names(mr_use_fd) <- years
+
 saveRDS(mr_use_fd, "/mnt/nfs_fineprint/tmp/forbio/Y.rds")
-
-

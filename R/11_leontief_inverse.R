@@ -43,7 +43,6 @@ for(year in years){
                   Y = Y[[as.character(year)]], X = X[, as.character(year)],
                   adj_diag = adjust)
   saveRDS(L, paste0("/mnt/nfs_fineprint/tmp/forbio/", year, "_L.rds"))
-
+  
 }
-
 

@@ -1,0 +1,1453 @@
+com_code,tcf_type,continent,area_code,area,item,unit,tcf
+c03,tcf_density,AFR,4,Algeria,Wood fuel,kg/m3sw,629.47832962963
+c03,tcf_density,AFR,7,Angola,Wood fuel,kg/m3sw,629.47832962963
+c03,tcf_density,AFR,20,Botswana,Wood fuel,kg/m3sw,629.47832962963
+c03,tcf_density,AFR,29,Burundi,Wood fuel,kg/m3sw,629.47832962963
+c03,tcf_density,AFR,32,Cameroon,Wood fuel,kg/m3sw,629.47832962963
+c03,tcf_density,AFR,35,Cabo Verde,Wood fuel,kg/m3sw,629.47832962963
+c03,tcf_density,AFR,37,Central African Republic,Wood fuel,kg/m3sw,629.47832962963
+c03,tcf_density,AFR,39,Chad,Wood fuel,kg/m3sw,629.47832962963
+c03,tcf_density,AFR,45,Comoros,Wood fuel,kg/m3sw,629.47832962963
+c03,tcf_density,AFR,46,Congo,Wood fuel,kg/m3sw,629.47832962963
+c03,tcf_density,AFR,53,Benin,Wood fuel,kg/m3sw,629.47832962963
+c03,tcf_density,AFR,59,Egypt,Wood fuel,kg/m3sw,629.47832962963
+c03,tcf_density,AFR,61,Equatorial Guinea,Wood fuel,kg/m3sw,629.47832962963
+c03,tcf_density,AFR,72,Djibouti,Wood fuel,kg/m3sw,629.47832962963
+c03,tcf_density,AFR,74,Gabon,Wood fuel,kg/m3sw,629.47832962963
+c03,tcf_density,AFR,75,Gambia,Wood fuel,kg/m3sw,629.47832962963
+c03,tcf_density,AFR,81,Ghana,Wood fuel,kg/m3sw,629.47832962963
+c03,tcf_density,AFR,90,Guinea,Wood fuel,kg/m3sw,629.47832962963
+c03,tcf_density,AFR,107,Cote d'Ivoire,Wood fuel,kg/m3sw,629.47832962963
+c03,tcf_density,AFR,114,Kenya,Wood fuel,kg/m3sw,629.47832962963
+c03,tcf_density,AFR,122,Lesotho,Wood fuel,kg/m3sw,629.47832962963
+c03,tcf_density,AFR,123,Liberia,Wood fuel,kg/m3sw,629.47832962963
+c03,tcf_density,AFR,124,Libya,Wood fuel,kg/m3sw,629.47832962963
+c03,tcf_density,AFR,129,Madagascar,Wood fuel,kg/m3sw,629.47832962963
+c03,tcf_density,AFR,130,Malawi,Wood fuel,kg/m3sw,629.47832962963
+c03,tcf_density,AFR,133,Mali,Wood fuel,kg/m3sw,629.47832962963
+c03,tcf_density,AFR,136,Mauritania,Wood fuel,kg/m3sw,629.47832962963
+c03,tcf_density,AFR,137,Mauritius,Wood fuel,kg/m3sw,629.47832962963
+c03,tcf_density,AFR,143,Morocco,Wood fuel,kg/m3sw,629.47832962963
+c03,tcf_density,AFR,144,Mozambique,Wood fuel,kg/m3sw,629.47832962963
+c03,tcf_density,AFR,147,Namibia,Wood fuel,kg/m3sw,629.47832962963
+c03,tcf_density,AFR,158,Niger,Wood fuel,kg/m3sw,629.47832962963
+c03,tcf_density,AFR,159,Nigeria,Wood fuel,kg/m3sw,629.47832962963
+c03,tcf_density,AFR,175,Guinea-Bissau,Wood fuel,kg/m3sw,629.47832962963
+c03,tcf_density,AFR,178,Eritrea,Wood fuel,kg/m3sw,629.47832962963
+c03,tcf_density,AFR,181,Zimbabwe,Wood fuel,kg/m3sw,629.47832962963
+c03,tcf_density,AFR,182,Reunion,Wood fuel,kg/m3sw,629.47832962963
+c03,tcf_density,AFR,184,Rwanda,Wood fuel,kg/m3sw,629.47832962963
+c03,tcf_density,AFR,187,"Saint Helena, Ascension and Tristan da Cunha",Wood fuel,kg/m3sw,629.47832962963
+c03,tcf_density,AFR,193,Sao Tome and Principe,Wood fuel,kg/m3sw,629.47832962963
+c03,tcf_density,AFR,195,Senegal,Wood fuel,kg/m3sw,629.47832962963
+c03,tcf_density,AFR,196,Seychelles,Wood fuel,kg/m3sw,629.47832962963
+c03,tcf_density,AFR,197,Sierra Leone,Wood fuel,kg/m3sw,629.47832962963
+c03,tcf_density,AFR,201,Somalia,Wood fuel,kg/m3sw,629.47832962963
+c03,tcf_density,AFR,202,South Africa,Wood fuel,kg/m3sw,629.47832962963
+c03,tcf_density,AFR,205,Western Sahara,Wood fuel,kg/m3sw,629.47832962963
+c03,tcf_density,AFR,209,Eswatini,Wood fuel,kg/m3sw,629.47832962963
+c03,tcf_density,AFR,215,United Republic of Tanzania,Wood fuel,kg/m3sw,629.47832962963
+c03,tcf_density,AFR,217,Togo,Wood fuel,kg/m3sw,629.47832962963
+c03,tcf_density,AFR,219,Tonga,Wood fuel,kg/m3sw,629.47832962963
+c03,tcf_density,AFR,222,Tunisia,Wood fuel,kg/m3sw,629.47832962963
+c03,tcf_density,AFR,226,Uganda,Wood fuel,kg/m3sw,629.47832962963
+c03,tcf_density,AFR,233,Burkina Faso,Wood fuel,kg/m3sw,629.47832962963
+c03,tcf_density,AFR,238,Ethiopia,Wood fuel,kg/m3sw,629.47832962963
+c03,tcf_density,AFR,250,Democratic Republic of the Congo,Wood fuel,kg/m3sw,629.47832962963
+c03,tcf_density,AFR,251,Zambia,Wood fuel,kg/m3sw,629.47832962963
+c03,tcf_density,AFR,270,Mayotte,Wood fuel,kg/m3sw,629.47832962963
+c03,tcf_density,AFR,276,Sudan,Wood fuel,kg/m3sw,629.47832962963
+c03,tcf_density,AFR,277,South Sudan,Wood fuel,kg/m3sw,629.47832962963
+c03,tcf_density,ASI,1,Armenia,Wood fuel,kg/m3sw,800
+c03,tcf_density,ASI,2,Afghanistan,Wood fuel,kg/m3sw,800
+c03,tcf_density,ASI,13,Bahrain,Wood fuel,kg/m3sw,800
+c03,tcf_density,ASI,16,Bangladesh,Wood fuel,kg/m3sw,800
+c03,tcf_density,ASI,18,Bhutan,Wood fuel,kg/m3sw,800
+c03,tcf_density,ASI,24,British Indian Ocean Territory,Wood fuel,kg/m3sw,800
+c03,tcf_density,ASI,26,Brunei Darussalam,Wood fuel,kg/m3sw,800
+c03,tcf_density,ASI,28,Myanmar,Wood fuel,kg/m3sw,800
+c03,tcf_density,ASI,38,Sri Lanka,Wood fuel,kg/m3sw,800
+c03,tcf_density,ASI,41,"China, mainland",Wood fuel,kg/m3sw,800
+c03,tcf_density,ASI,52,Azerbaijan,Wood fuel,kg/m3sw,800
+c03,tcf_density,ASI,73,Georgia,Wood fuel,kg/m3sw,800
+c03,tcf_density,ASI,96,"China, Hong Kong SAR",Wood fuel,kg/m3sw,800
+c03,tcf_density,ASI,100,India,Wood fuel,kg/m3sw,800
+c03,tcf_density,ASI,101,Indonesia,Wood fuel,kg/m3sw,800
+c03,tcf_density,ASI,102,Iran (Islamic Republic of),Wood fuel,kg/m3sw,800
+c03,tcf_density,ASI,103,Iraq,Wood fuel,kg/m3sw,800
+c03,tcf_density,ASI,105,Israel,Wood fuel,kg/m3sw,800
+c03,tcf_density,ASI,108,Kazakhstan,Wood fuel,kg/m3sw,800
+c03,tcf_density,ASI,110,Japan,Wood fuel,kg/m3sw,800
+c03,tcf_density,ASI,112,Jordan,Wood fuel,kg/m3sw,800
+c03,tcf_density,ASI,113,Kyrgyzstan,Wood fuel,kg/m3sw,800
+c03,tcf_density,ASI,115,Cambodia,Wood fuel,kg/m3sw,800
+c03,tcf_density,ASI,116,Democratic People's Republic of Korea,Wood fuel,kg/m3sw,800
+c03,tcf_density,ASI,117,Republic of Korea,Wood fuel,kg/m3sw,800
+c03,tcf_density,ASI,118,Kuwait,Wood fuel,kg/m3sw,800
+c03,tcf_density,ASI,120,Lao People's Democratic Republic,Wood fuel,kg/m3sw,800
+c03,tcf_density,ASI,121,Lebanon,Wood fuel,kg/m3sw,800
+c03,tcf_density,ASI,128,"China, Macao SAR",Wood fuel,kg/m3sw,800
+c03,tcf_density,ASI,131,Malaysia,Wood fuel,kg/m3sw,800
+c03,tcf_density,ASI,132,Maldives,Wood fuel,kg/m3sw,800
+c03,tcf_density,ASI,141,Mongolia,Wood fuel,kg/m3sw,800
+c03,tcf_density,ASI,149,Nepal,Wood fuel,kg/m3sw,800
+c03,tcf_density,ASI,164,Pacific Islands Trust Territory,Wood fuel,kg/m3sw,800
+c03,tcf_density,ASI,165,Pakistan,Wood fuel,kg/m3sw,800
+c03,tcf_density,ASI,171,Philippines,Wood fuel,kg/m3sw,800
+c03,tcf_density,ASI,176,Timor-Leste,Wood fuel,kg/m3sw,800
+c03,tcf_density,ASI,179,Qatar,Wood fuel,kg/m3sw,800
+c03,tcf_density,ASI,194,Saudi Arabia,Wood fuel,kg/m3sw,800
+c03,tcf_density,ASI,200,Singapore,Wood fuel,kg/m3sw,800
+c03,tcf_density,ASI,208,Tajikistan,Wood fuel,kg/m3sw,800
+c03,tcf_density,ASI,212,Syrian Arab Republic,Wood fuel,kg/m3sw,800
+c03,tcf_density,ASI,213,Turkmenistan,Wood fuel,kg/m3sw,800
+c03,tcf_density,ASI,214,"China, Taiwan Province of",Wood fuel,kg/m3sw,800
+c03,tcf_density,ASI,216,Thailand,Wood fuel,kg/m3sw,800
+c03,tcf_density,ASI,221,Oman,Wood fuel,kg/m3sw,800
+c03,tcf_density,ASI,225,United Arab Emirates,Wood fuel,kg/m3sw,800
+c03,tcf_density,ASI,228,USSR,Wood fuel,kg/m3sw,800
+c03,tcf_density,ASI,235,Uzbekistan,Wood fuel,kg/m3sw,800
+c03,tcf_density,ASI,237,Viet Nam,Wood fuel,kg/m3sw,800
+c03,tcf_density,ASI,249,Yemen,Wood fuel,kg/m3sw,800
+c03,tcf_density,ASI,299,Palestine,Wood fuel,kg/m3sw,800
+c03,tcf_density,EUR,3,Albania,Wood fuel,kg/m3sw,503.819488888889
+c03,tcf_density,EUR,6,Andorra,Wood fuel,kg/m3sw,503.819488888889
+c03,tcf_density,EUR,11,Austria,Wood fuel,kg/m3sw,503.819488888889
+c03,tcf_density,EUR,15,Belgium-Luxembourg,Wood fuel,kg/m3sw,503.819488888889
+c03,tcf_density,EUR,27,Bulgaria,Wood fuel,kg/m3sw,503.819488888889
+c03,tcf_density,EUR,50,Cyprus,Wood fuel,kg/m3sw,503.819488888889
+c03,tcf_density,EUR,51,Czechoslovakia,Wood fuel,kg/m3sw,503.819488888889
+c03,tcf_density,EUR,54,Denmark,Wood fuel,kg/m3sw,448.038
+c03,tcf_density,EUR,57,Belarus,Wood fuel,kg/m3sw,503.819488888889
+c03,tcf_density,EUR,63,Estonia,Wood fuel,kg/m3sw,503.819488888889
+c03,tcf_density,EUR,64,Faroe Islands,Wood fuel,kg/m3sw,503.819488888889
+c03,tcf_density,EUR,67,Finland,Wood fuel,kg/m3sw,503.819488888889
+c03,tcf_density,EUR,68,France,Wood fuel,kg/m3sw,535.7
+c03,tcf_density,EUR,79,Germany,Wood fuel,kg/m3sw,492.0428
+c03,tcf_density,EUR,80,Bosnia and Herzegovina,Wood fuel,kg/m3sw,503.819488888889
+c03,tcf_density,EUR,82,Gibraltar,Wood fuel,kg/m3sw,503.819488888889
+c03,tcf_density,EUR,84,Greece,Wood fuel,kg/m3sw,503.819488888889
+c03,tcf_density,EUR,85,Greenland,Wood fuel,kg/m3sw,503.819488888889
+c03,tcf_density,EUR,94,Holy See,Wood fuel,kg/m3sw,503.819488888889
+c03,tcf_density,EUR,97,Hungary,Wood fuel,kg/m3sw,503.819488888889
+c03,tcf_density,EUR,98,Croatia,Wood fuel,kg/m3sw,558.4126
+c03,tcf_density,EUR,99,Iceland,Wood fuel,kg/m3sw,503.819488888889
+c03,tcf_density,EUR,104,Ireland,Wood fuel,kg/m3sw,503.819488888889
+c03,tcf_density,EUR,106,Italy,Wood fuel,kg/m3sw,503.819488888889
+c03,tcf_density,EUR,119,Latvia,Wood fuel,kg/m3sw,503.819488888889
+c03,tcf_density,EUR,125,Liechtenstein,Wood fuel,kg/m3sw,503.819488888889
+c03,tcf_density,EUR,126,Lithuania,Wood fuel,kg/m3sw,503.819488888889
+c03,tcf_density,EUR,134,Malta,Wood fuel,kg/m3sw,503.819488888889
+c03,tcf_density,EUR,146,Republic of Moldova,Wood fuel,kg/m3sw,503.819488888889
+c03,tcf_density,EUR,150,Netherlands,Wood fuel,kg/m3sw,550.42
+c03,tcf_density,EUR,154,North Macedonia,Wood fuel,kg/m3sw,503.819488888889
+c03,tcf_density,EUR,162,Norway,Wood fuel,kg/m3sw,457.64
+c03,tcf_density,EUR,167,Czechia,Wood fuel,kg/m3sw,482
+c03,tcf_density,EUR,173,Poland,Wood fuel,kg/m3sw,503.819488888889
+c03,tcf_density,EUR,174,Portugal,Wood fuel,kg/m3sw,503.819488888889
+c03,tcf_density,EUR,183,Romania,Wood fuel,kg/m3sw,503.819488888889
+c03,tcf_density,EUR,185,Russian Federation,Wood fuel,kg/m3sw,503.819488888889
+c03,tcf_density,EUR,186,Serbia and Montenegro,Wood fuel,kg/m3sw,503.819488888889
+c03,tcf_density,EUR,192,San Marino,Wood fuel,kg/m3sw,503.819488888889
+c03,tcf_density,EUR,198,Slovenia,Wood fuel,kg/m3sw,548.122
+c03,tcf_density,EUR,199,Slovakia,Wood fuel,kg/m3sw,503.819488888889
+c03,tcf_density,EUR,203,Spain,Wood fuel,kg/m3sw,503.819488888889
+c03,tcf_density,EUR,210,Sweden,Wood fuel,kg/m3sw,503.819488888889
+c03,tcf_density,EUR,211,Switzerland,Wood fuel,kg/m3sw,503.819488888889
+c03,tcf_density,EUR,223,Turkey,Wood fuel,kg/m3sw,503.819488888889
+c03,tcf_density,EUR,229,United Kingdom,Wood fuel,kg/m3sw,462
+c03,tcf_density,EUR,230,Ukraine,Wood fuel,kg/m3sw,503.819488888889
+c03,tcf_density,EUR,248,Yugoslav SFR,Wood fuel,kg/m3sw,503.819488888889
+c03,tcf_density,EUR,255,Belgium,Wood fuel,kg/m3sw,503.819488888889
+c03,tcf_density,EUR,256,Luxembourg,Wood fuel,kg/m3sw,503.819488888889
+c03,tcf_density,EUR,272,Serbia,Wood fuel,kg/m3sw,503.819488888889
+c03,tcf_density,EUR,273,Montenegro,Wood fuel,kg/m3sw,503.819488888889
+c03,tcf_density,LAM,8,Antigua and Barbuda,Wood fuel,kg/m3sw,584.6155
+c03,tcf_density,LAM,9,Argentina,Wood fuel,kg/m3sw,584.6155
+c03,tcf_density,LAM,12,Bahamas,Wood fuel,kg/m3sw,584.6155
+c03,tcf_density,LAM,14,Barbados,Wood fuel,kg/m3sw,584.6155
+c03,tcf_density,LAM,17,Bermuda,Wood fuel,kg/m3sw,584.6155
+c03,tcf_density,LAM,19,Bolivia (Plurinational State of),Wood fuel,kg/m3sw,584.6155
+c03,tcf_density,LAM,21,Brazil,Wood fuel,kg/m3sw,518.884
+c03,tcf_density,LAM,22,Aruba,Wood fuel,kg/m3sw,584.6155
+c03,tcf_density,LAM,23,Belize,Wood fuel,kg/m3sw,584.6155
+c03,tcf_density,LAM,36,Cayman Islands,Wood fuel,kg/m3sw,584.6155
+c03,tcf_density,LAM,40,Chile,Wood fuel,kg/m3sw,586.3525
+c03,tcf_density,LAM,44,Colombia,Wood fuel,kg/m3sw,584.6155
+c03,tcf_density,LAM,48,Costa Rica,Wood fuel,kg/m3sw,584.6155
+c03,tcf_density,LAM,49,Cuba,Wood fuel,kg/m3sw,584.6155
+c03,tcf_density,LAM,55,Dominica,Wood fuel,kg/m3sw,584.6155
+c03,tcf_density,LAM,56,Dominican Republic,Wood fuel,kg/m3sw,584.6155
+c03,tcf_density,LAM,58,Ecuador,Wood fuel,kg/m3sw,584.6155
+c03,tcf_density,LAM,60,El Salvador,Wood fuel,kg/m3sw,584.6155
+c03,tcf_density,LAM,65,Falkland Islands (Malvinas),Wood fuel,kg/m3sw,584.6155
+c03,tcf_density,LAM,69,French Guyana,Wood fuel,kg/m3sw,584.6155
+c03,tcf_density,LAM,86,Grenada,Wood fuel,kg/m3sw,584.6155
+c03,tcf_density,LAM,87,Guadeloupe,Wood fuel,kg/m3sw,584.6155
+c03,tcf_density,LAM,89,Guatemala,Wood fuel,kg/m3sw,584.6155
+c03,tcf_density,LAM,91,Guyana,Wood fuel,kg/m3sw,584.6155
+c03,tcf_density,LAM,93,Haiti,Wood fuel,kg/m3sw,584.6155
+c03,tcf_density,LAM,95,Honduras,Wood fuel,kg/m3sw,584.6155
+c03,tcf_density,LAM,109,Jamaica,Wood fuel,kg/m3sw,584.6155
+c03,tcf_density,LAM,135,Martinique,Wood fuel,kg/m3sw,584.6155
+c03,tcf_density,LAM,138,Mexico,Wood fuel,kg/m3sw,584.6155
+c03,tcf_density,LAM,142,Montserrat,Wood fuel,kg/m3sw,584.6155
+c03,tcf_density,LAM,151,Netherlands Antilles,Wood fuel,kg/m3sw,584.6155
+c03,tcf_density,LAM,157,Nicaragua,Wood fuel,kg/m3sw,584.6155
+c03,tcf_density,LAM,166,Panama,Wood fuel,kg/m3sw,584.6155
+c03,tcf_density,LAM,169,Paraguay,Wood fuel,kg/m3sw,584.6155
+c03,tcf_density,LAM,170,Peru,Wood fuel,kg/m3sw,584.6155
+c03,tcf_density,LAM,188,Saint Kitts and Nevis,Wood fuel,kg/m3sw,584.6155
+c03,tcf_density,LAM,189,Saint Lucia,Wood fuel,kg/m3sw,584.6155
+c03,tcf_density,LAM,191,Saint Vincent and the Grenadines,Wood fuel,kg/m3sw,584.6155
+c03,tcf_density,LAM,207,Suriname,Wood fuel,kg/m3sw,584.6155
+c03,tcf_density,LAM,220,Trinidad and Tobago,Wood fuel,kg/m3sw,584.6155
+c03,tcf_density,LAM,224,Turks and Caicos Islands,Wood fuel,kg/m3sw,584.6155
+c03,tcf_density,LAM,234,Uruguay,Wood fuel,kg/m3sw,648.61
+c03,tcf_density,LAM,236,Venezuela (Bolivarian Republic of),Wood fuel,kg/m3sw,584.6155
+c03,tcf_density,LAM,239,British Virgin Islands,Wood fuel,kg/m3sw,584.6155
+c03,tcf_density,LAM,258,Anguilla,Wood fuel,kg/m3sw,584.6155
+c03,tcf_density,LAM,279,Curaçao,Wood fuel,kg/m3sw,584.6155
+c03,tcf_density,LAM,281,Saint-Martin (French Part),Wood fuel,kg/m3sw,584.6155
+c03,tcf_density,NAM,33,Canada,Wood fuel,kg/m3sw,629.47832962963
+c03,tcf_density,NAM,190,Saint Pierre and Miquelon,Wood fuel,kg/m3sw,629.47832962963
+c03,tcf_density,NAM,231,United States of America,Wood fuel,kg/m3sw,629.47832962963
+c03,tcf_density,OCE,5,American Samoa,Wood fuel,kg/m3sw,629.47832962963
+c03,tcf_density,OCE,10,Australia,Wood fuel,kg/m3sw,629.47832962963
+c03,tcf_density,OCE,25,Solomon Islands,Wood fuel,kg/m3sw,629.47832962963
+c03,tcf_density,OCE,42,Christmas Island,Wood fuel,kg/m3sw,629.47832962963
+c03,tcf_density,OCE,43,Cocos (Keeling) Islands,Wood fuel,kg/m3sw,629.47832962963
+c03,tcf_density,OCE,47,Cook Islands,Wood fuel,kg/m3sw,629.47832962963
+c03,tcf_density,OCE,66,Fiji,Wood fuel,kg/m3sw,629.47832962963
+c03,tcf_density,OCE,70,French Polynesia,Wood fuel,kg/m3sw,629.47832962963
+c03,tcf_density,OCE,71,French Southern and Antarctic Territories,Wood fuel,kg/m3sw,629.47832962963
+c03,tcf_density,OCE,83,Kiribati,Wood fuel,kg/m3sw,629.47832962963
+c03,tcf_density,OCE,88,Guam,Wood fuel,kg/m3sw,629.47832962963
+c03,tcf_density,OCE,127,Marshall Islands,Wood fuel,kg/m3sw,629.47832962963
+c03,tcf_density,OCE,145,Micronesia (Federated States of),Wood fuel,kg/m3sw,629.47832962963
+c03,tcf_density,OCE,148,Nauru,Wood fuel,kg/m3sw,629.47832962963
+c03,tcf_density,OCE,153,New Caledonia,Wood fuel,kg/m3sw,629.47832962963
+c03,tcf_density,OCE,155,Vanuatu,Wood fuel,kg/m3sw,629.47832962963
+c03,tcf_density,OCE,156,New Zealand,Wood fuel,kg/m3sw,629.47832962963
+c03,tcf_density,OCE,160,Niue,Wood fuel,kg/m3sw,629.47832962963
+c03,tcf_density,OCE,161,Norfolk Island,Wood fuel,kg/m3sw,629.47832962963
+c03,tcf_density,OCE,163,Northern Mariana Islands,Wood fuel,kg/m3sw,629.47832962963
+c03,tcf_density,OCE,168,Papua New Guinea,Wood fuel,kg/m3sw,629.47832962963
+c03,tcf_density,OCE,172,Pitcairn Islands,Wood fuel,kg/m3sw,629.47832962963
+c03,tcf_density,OCE,180,Palau,Wood fuel,kg/m3sw,629.47832962963
+c03,tcf_density,OCE,218,Tokelau,Wood fuel,kg/m3sw,629.47832962963
+c03,tcf_density,OCE,227,Tuvalu,Wood fuel,kg/m3sw,629.47832962963
+c03,tcf_density,OCE,242,Wake Island,Wood fuel,kg/m3sw,629.47832962963
+c03,tcf_density,OCE,243,Wallis and Futuna Islands,Wood fuel,kg/m3sw,629.47832962963
+c03,tcf_density,OCE,244,Samoa,Wood fuel,kg/m3sw,629.47832962963
+c03,tcf_density,ROW,999,RoW,Wood fuel,kg/m3sw,629.47832962963
+c03,tcf_shipping_weight,AFR,4,Algeria,Wood fuel,m3rw/tonne,1.45416875
+c03,tcf_shipping_weight,AFR,7,Angola,Wood fuel,m3rw/tonne,1.45416875
+c03,tcf_shipping_weight,AFR,20,Botswana,Wood fuel,m3rw/tonne,1.45416875
+c03,tcf_shipping_weight,AFR,29,Burundi,Wood fuel,m3rw/tonne,1.45416875
+c03,tcf_shipping_weight,AFR,32,Cameroon,Wood fuel,m3rw/tonne,1.45416875
+c03,tcf_shipping_weight,AFR,35,Cabo Verde,Wood fuel,m3rw/tonne,1.45416875
+c03,tcf_shipping_weight,AFR,37,Central African Republic,Wood fuel,m3rw/tonne,1.45416875
+c03,tcf_shipping_weight,AFR,39,Chad,Wood fuel,m3rw/tonne,1.45416875
+c03,tcf_shipping_weight,AFR,45,Comoros,Wood fuel,m3rw/tonne,1.45416875
+c03,tcf_shipping_weight,AFR,46,Congo,Wood fuel,m3rw/tonne,1.45416875
+c03,tcf_shipping_weight,AFR,53,Benin,Wood fuel,m3rw/tonne,1.45416875
+c03,tcf_shipping_weight,AFR,59,Egypt,Wood fuel,m3rw/tonne,1.45416875
+c03,tcf_shipping_weight,AFR,61,Equatorial Guinea,Wood fuel,m3rw/tonne,1.45416875
+c03,tcf_shipping_weight,AFR,72,Djibouti,Wood fuel,m3rw/tonne,1.45416875
+c03,tcf_shipping_weight,AFR,74,Gabon,Wood fuel,m3rw/tonne,1.45416875
+c03,tcf_shipping_weight,AFR,75,Gambia,Wood fuel,m3rw/tonne,1.45416875
+c03,tcf_shipping_weight,AFR,81,Ghana,Wood fuel,m3rw/tonne,1.45416875
+c03,tcf_shipping_weight,AFR,90,Guinea,Wood fuel,m3rw/tonne,1.45416875
+c03,tcf_shipping_weight,AFR,107,Cote d'Ivoire,Wood fuel,m3rw/tonne,1.45416875
+c03,tcf_shipping_weight,AFR,114,Kenya,Wood fuel,m3rw/tonne,1.45416875
+c03,tcf_shipping_weight,AFR,122,Lesotho,Wood fuel,m3rw/tonne,1.45416875
+c03,tcf_shipping_weight,AFR,123,Liberia,Wood fuel,m3rw/tonne,1.45416875
+c03,tcf_shipping_weight,AFR,124,Libya,Wood fuel,m3rw/tonne,1.45416875
+c03,tcf_shipping_weight,AFR,129,Madagascar,Wood fuel,m3rw/tonne,1.45416875
+c03,tcf_shipping_weight,AFR,130,Malawi,Wood fuel,m3rw/tonne,1.45416875
+c03,tcf_shipping_weight,AFR,133,Mali,Wood fuel,m3rw/tonne,1.45416875
+c03,tcf_shipping_weight,AFR,136,Mauritania,Wood fuel,m3rw/tonne,1.45416875
+c03,tcf_shipping_weight,AFR,137,Mauritius,Wood fuel,m3rw/tonne,1.45416875
+c03,tcf_shipping_weight,AFR,143,Morocco,Wood fuel,m3rw/tonne,1.45416875
+c03,tcf_shipping_weight,AFR,144,Mozambique,Wood fuel,m3rw/tonne,1.45416875
+c03,tcf_shipping_weight,AFR,147,Namibia,Wood fuel,m3rw/tonne,1.45416875
+c03,tcf_shipping_weight,AFR,158,Niger,Wood fuel,m3rw/tonne,1.45416875
+c03,tcf_shipping_weight,AFR,159,Nigeria,Wood fuel,m3rw/tonne,1.45416875
+c03,tcf_shipping_weight,AFR,175,Guinea-Bissau,Wood fuel,m3rw/tonne,1.45416875
+c03,tcf_shipping_weight,AFR,178,Eritrea,Wood fuel,m3rw/tonne,1.45416875
+c03,tcf_shipping_weight,AFR,181,Zimbabwe,Wood fuel,m3rw/tonne,1.45416875
+c03,tcf_shipping_weight,AFR,182,Reunion,Wood fuel,m3rw/tonne,1.45416875
+c03,tcf_shipping_weight,AFR,184,Rwanda,Wood fuel,m3rw/tonne,1.45416875
+c03,tcf_shipping_weight,AFR,187,"Saint Helena, Ascension and Tristan da Cunha",Wood fuel,m3rw/tonne,1.45416875
+c03,tcf_shipping_weight,AFR,193,Sao Tome and Principe,Wood fuel,m3rw/tonne,1.45416875
+c03,tcf_shipping_weight,AFR,195,Senegal,Wood fuel,m3rw/tonne,1.45416875
+c03,tcf_shipping_weight,AFR,196,Seychelles,Wood fuel,m3rw/tonne,1.45416875
+c03,tcf_shipping_weight,AFR,197,Sierra Leone,Wood fuel,m3rw/tonne,1.45416875
+c03,tcf_shipping_weight,AFR,201,Somalia,Wood fuel,m3rw/tonne,1.45416875
+c03,tcf_shipping_weight,AFR,202,South Africa,Wood fuel,m3rw/tonne,1.45416875
+c03,tcf_shipping_weight,AFR,205,Western Sahara,Wood fuel,m3rw/tonne,1.45416875
+c03,tcf_shipping_weight,AFR,209,Eswatini,Wood fuel,m3rw/tonne,1.45416875
+c03,tcf_shipping_weight,AFR,215,United Republic of Tanzania,Wood fuel,m3rw/tonne,1.45416875
+c03,tcf_shipping_weight,AFR,217,Togo,Wood fuel,m3rw/tonne,1.45416875
+c03,tcf_shipping_weight,AFR,219,Tonga,Wood fuel,m3rw/tonne,1.45416875
+c03,tcf_shipping_weight,AFR,222,Tunisia,Wood fuel,m3rw/tonne,1.45416875
+c03,tcf_shipping_weight,AFR,226,Uganda,Wood fuel,m3rw/tonne,1.45416875
+c03,tcf_shipping_weight,AFR,233,Burkina Faso,Wood fuel,m3rw/tonne,1.45416875
+c03,tcf_shipping_weight,AFR,238,Ethiopia,Wood fuel,m3rw/tonne,1.45416875
+c03,tcf_shipping_weight,AFR,250,Democratic Republic of the Congo,Wood fuel,m3rw/tonne,1.45416875
+c03,tcf_shipping_weight,AFR,251,Zambia,Wood fuel,m3rw/tonne,1.45416875
+c03,tcf_shipping_weight,AFR,270,Mayotte,Wood fuel,m3rw/tonne,1.45416875
+c03,tcf_shipping_weight,AFR,276,Sudan,Wood fuel,m3rw/tonne,1.45416875
+c03,tcf_shipping_weight,AFR,277,South Sudan,Wood fuel,m3rw/tonne,1.45416875
+c03,tcf_shipping_weight,ASI,1,Armenia,Wood fuel,m3rw/tonne,1.45416875
+c03,tcf_shipping_weight,ASI,2,Afghanistan,Wood fuel,m3rw/tonne,1.45416875
+c03,tcf_shipping_weight,ASI,13,Bahrain,Wood fuel,m3rw/tonne,1.45416875
+c03,tcf_shipping_weight,ASI,16,Bangladesh,Wood fuel,m3rw/tonne,1.45416875
+c03,tcf_shipping_weight,ASI,18,Bhutan,Wood fuel,m3rw/tonne,1.45416875
+c03,tcf_shipping_weight,ASI,24,British Indian Ocean Territory,Wood fuel,m3rw/tonne,1.45416875
+c03,tcf_shipping_weight,ASI,26,Brunei Darussalam,Wood fuel,m3rw/tonne,1.45416875
+c03,tcf_shipping_weight,ASI,28,Myanmar,Wood fuel,m3rw/tonne,1.45416875
+c03,tcf_shipping_weight,ASI,38,Sri Lanka,Wood fuel,m3rw/tonne,1.45416875
+c03,tcf_shipping_weight,ASI,41,"China, mainland",Wood fuel,m3rw/tonne,1.45416875
+c03,tcf_shipping_weight,ASI,52,Azerbaijan,Wood fuel,m3rw/tonne,1.45416875
+c03,tcf_shipping_weight,ASI,73,Georgia,Wood fuel,m3rw/tonne,1.45416875
+c03,tcf_shipping_weight,ASI,96,"China, Hong Kong SAR",Wood fuel,m3rw/tonne,1.45416875
+c03,tcf_shipping_weight,ASI,100,India,Wood fuel,m3rw/tonne,1.45416875
+c03,tcf_shipping_weight,ASI,101,Indonesia,Wood fuel,m3rw/tonne,1.45416875
+c03,tcf_shipping_weight,ASI,102,Iran (Islamic Republic of),Wood fuel,m3rw/tonne,1.45416875
+c03,tcf_shipping_weight,ASI,103,Iraq,Wood fuel,m3rw/tonne,1.45416875
+c03,tcf_shipping_weight,ASI,105,Israel,Wood fuel,m3rw/tonne,1.45416875
+c03,tcf_shipping_weight,ASI,108,Kazakhstan,Wood fuel,m3rw/tonne,1.45416875
+c03,tcf_shipping_weight,ASI,110,Japan,Wood fuel,m3rw/tonne,1.45416875
+c03,tcf_shipping_weight,ASI,112,Jordan,Wood fuel,m3rw/tonne,1.45416875
+c03,tcf_shipping_weight,ASI,113,Kyrgyzstan,Wood fuel,m3rw/tonne,1.45416875
+c03,tcf_shipping_weight,ASI,115,Cambodia,Wood fuel,m3rw/tonne,1.45416875
+c03,tcf_shipping_weight,ASI,116,Democratic People's Republic of Korea,Wood fuel,m3rw/tonne,1.45416875
+c03,tcf_shipping_weight,ASI,117,Republic of Korea,Wood fuel,m3rw/tonne,1.45416875
+c03,tcf_shipping_weight,ASI,118,Kuwait,Wood fuel,m3rw/tonne,1.45416875
+c03,tcf_shipping_weight,ASI,120,Lao People's Democratic Republic,Wood fuel,m3rw/tonne,1.45416875
+c03,tcf_shipping_weight,ASI,121,Lebanon,Wood fuel,m3rw/tonne,1.45416875
+c03,tcf_shipping_weight,ASI,128,"China, Macao SAR",Wood fuel,m3rw/tonne,1.45416875
+c03,tcf_shipping_weight,ASI,131,Malaysia,Wood fuel,m3rw/tonne,1.45416875
+c03,tcf_shipping_weight,ASI,132,Maldives,Wood fuel,m3rw/tonne,1.45416875
+c03,tcf_shipping_weight,ASI,141,Mongolia,Wood fuel,m3rw/tonne,1.45416875
+c03,tcf_shipping_weight,ASI,149,Nepal,Wood fuel,m3rw/tonne,1.45416875
+c03,tcf_shipping_weight,ASI,164,Pacific Islands Trust Territory,Wood fuel,m3rw/tonne,1.45416875
+c03,tcf_shipping_weight,ASI,165,Pakistan,Wood fuel,m3rw/tonne,1.45416875
+c03,tcf_shipping_weight,ASI,171,Philippines,Wood fuel,m3rw/tonne,1.45416875
+c03,tcf_shipping_weight,ASI,176,Timor-Leste,Wood fuel,m3rw/tonne,1.45416875
+c03,tcf_shipping_weight,ASI,179,Qatar,Wood fuel,m3rw/tonne,1.45416875
+c03,tcf_shipping_weight,ASI,194,Saudi Arabia,Wood fuel,m3rw/tonne,1.45416875
+c03,tcf_shipping_weight,ASI,200,Singapore,Wood fuel,m3rw/tonne,1.45416875
+c03,tcf_shipping_weight,ASI,208,Tajikistan,Wood fuel,m3rw/tonne,1.45416875
+c03,tcf_shipping_weight,ASI,212,Syrian Arab Republic,Wood fuel,m3rw/tonne,1.45416875
+c03,tcf_shipping_weight,ASI,213,Turkmenistan,Wood fuel,m3rw/tonne,1.45416875
+c03,tcf_shipping_weight,ASI,214,"China, Taiwan Province of",Wood fuel,m3rw/tonne,1.45416875
+c03,tcf_shipping_weight,ASI,216,Thailand,Wood fuel,m3rw/tonne,1.45416875
+c03,tcf_shipping_weight,ASI,221,Oman,Wood fuel,m3rw/tonne,1.45416875
+c03,tcf_shipping_weight,ASI,225,United Arab Emirates,Wood fuel,m3rw/tonne,1.45416875
+c03,tcf_shipping_weight,ASI,228,USSR,Wood fuel,m3rw/tonne,1.45416875
+c03,tcf_shipping_weight,ASI,235,Uzbekistan,Wood fuel,m3rw/tonne,1.45416875
+c03,tcf_shipping_weight,ASI,237,Viet Nam,Wood fuel,m3rw/tonne,1.45416875
+c03,tcf_shipping_weight,ASI,249,Yemen,Wood fuel,m3rw/tonne,1.45416875
+c03,tcf_shipping_weight,ASI,299,Palestine,Wood fuel,m3rw/tonne,1.45416875
+c03,tcf_shipping_weight,EUR,3,Albania,Wood fuel,m3rw/tonne,1.264166
+c03,tcf_shipping_weight,EUR,6,Andorra,Wood fuel,m3rw/tonne,1.264166
+c03,tcf_shipping_weight,EUR,11,Austria,Wood fuel,m3rw/tonne,1.264166
+c03,tcf_shipping_weight,EUR,15,Belgium-Luxembourg,Wood fuel,m3rw/tonne,1.264166
+c03,tcf_shipping_weight,EUR,27,Bulgaria,Wood fuel,m3rw/tonne,1.264166
+c03,tcf_shipping_weight,EUR,50,Cyprus,Wood fuel,m3rw/tonne,1.264166
+c03,tcf_shipping_weight,EUR,51,Czechoslovakia,Wood fuel,m3rw/tonne,1.264166
+c03,tcf_shipping_weight,EUR,54,Denmark,Wood fuel,m3rw/tonne,1.264166
+c03,tcf_shipping_weight,EUR,57,Belarus,Wood fuel,m3rw/tonne,1.264166
+c03,tcf_shipping_weight,EUR,63,Estonia,Wood fuel,m3rw/tonne,1.264166
+c03,tcf_shipping_weight,EUR,64,Faroe Islands,Wood fuel,m3rw/tonne,1.264166
+c03,tcf_shipping_weight,EUR,67,Finland,Wood fuel,m3rw/tonne,1.264166
+c03,tcf_shipping_weight,EUR,68,France,Wood fuel,m3rw/tonne,1.555
+c03,tcf_shipping_weight,EUR,79,Germany,Wood fuel,m3rw/tonne,1.264166
+c03,tcf_shipping_weight,EUR,80,Bosnia and Herzegovina,Wood fuel,m3rw/tonne,1.264166
+c03,tcf_shipping_weight,EUR,82,Gibraltar,Wood fuel,m3rw/tonne,1.264166
+c03,tcf_shipping_weight,EUR,84,Greece,Wood fuel,m3rw/tonne,1.264166
+c03,tcf_shipping_weight,EUR,85,Greenland,Wood fuel,m3rw/tonne,1.264166
+c03,tcf_shipping_weight,EUR,94,Holy See,Wood fuel,m3rw/tonne,1.264166
+c03,tcf_shipping_weight,EUR,97,Hungary,Wood fuel,m3rw/tonne,1.264166
+c03,tcf_shipping_weight,EUR,98,Croatia,Wood fuel,m3rw/tonne,1
+c03,tcf_shipping_weight,EUR,99,Iceland,Wood fuel,m3rw/tonne,1.264166
+c03,tcf_shipping_weight,EUR,104,Ireland,Wood fuel,m3rw/tonne,1.264166
+c03,tcf_shipping_weight,EUR,106,Italy,Wood fuel,m3rw/tonne,1.264166
+c03,tcf_shipping_weight,EUR,119,Latvia,Wood fuel,m3rw/tonne,1.264166
+c03,tcf_shipping_weight,EUR,125,Liechtenstein,Wood fuel,m3rw/tonne,1.264166
+c03,tcf_shipping_weight,EUR,126,Lithuania,Wood fuel,m3rw/tonne,1.264166
+c03,tcf_shipping_weight,EUR,134,Malta,Wood fuel,m3rw/tonne,1.264166
+c03,tcf_shipping_weight,EUR,146,Republic of Moldova,Wood fuel,m3rw/tonne,1.264166
+c03,tcf_shipping_weight,EUR,150,Netherlands,Wood fuel,m3rw/tonne,1.10015
+c03,tcf_shipping_weight,EUR,154,North Macedonia,Wood fuel,m3rw/tonne,1.264166
+c03,tcf_shipping_weight,EUR,162,Norway,Wood fuel,m3rw/tonne,1.15942
+c03,tcf_shipping_weight,EUR,167,Czechia,Wood fuel,m3rw/tonne,1.264166
+c03,tcf_shipping_weight,EUR,173,Poland,Wood fuel,m3rw/tonne,1.264166
+c03,tcf_shipping_weight,EUR,174,Portugal,Wood fuel,m3rw/tonne,1.264166
+c03,tcf_shipping_weight,EUR,183,Romania,Wood fuel,m3rw/tonne,1.264166
+c03,tcf_shipping_weight,EUR,185,Russian Federation,Wood fuel,m3rw/tonne,1.264166
+c03,tcf_shipping_weight,EUR,186,Serbia and Montenegro,Wood fuel,m3rw/tonne,1.264166
+c03,tcf_shipping_weight,EUR,192,San Marino,Wood fuel,m3rw/tonne,1.264166
+c03,tcf_shipping_weight,EUR,198,Slovenia,Wood fuel,m3rw/tonne,1.50626
+c03,tcf_shipping_weight,EUR,199,Slovakia,Wood fuel,m3rw/tonne,1.264166
+c03,tcf_shipping_weight,EUR,203,Spain,Wood fuel,m3rw/tonne,1.264166
+c03,tcf_shipping_weight,EUR,210,Sweden,Wood fuel,m3rw/tonne,1.264166
+c03,tcf_shipping_weight,EUR,211,Switzerland,Wood fuel,m3rw/tonne,1.264166
+c03,tcf_shipping_weight,EUR,223,Turkey,Wood fuel,m3rw/tonne,1.264166
+c03,tcf_shipping_weight,EUR,229,United Kingdom,Wood fuel,m3rw/tonne,1.264166
+c03,tcf_shipping_weight,EUR,230,Ukraine,Wood fuel,m3rw/tonne,1.264166
+c03,tcf_shipping_weight,EUR,248,Yugoslav SFR,Wood fuel,m3rw/tonne,1.264166
+c03,tcf_shipping_weight,EUR,255,Belgium,Wood fuel,m3rw/tonne,1.264166
+c03,tcf_shipping_weight,EUR,256,Luxembourg,Wood fuel,m3rw/tonne,1.264166
+c03,tcf_shipping_weight,EUR,272,Serbia,Wood fuel,m3rw/tonne,1.264166
+c03,tcf_shipping_weight,EUR,273,Montenegro,Wood fuel,m3rw/tonne,1.264166
+c03,tcf_shipping_weight,LAM,8,Antigua and Barbuda,Wood fuel,m3rw/tonne,1.6441715
+c03,tcf_shipping_weight,LAM,9,Argentina,Wood fuel,m3rw/tonne,1.6441715
+c03,tcf_shipping_weight,LAM,12,Bahamas,Wood fuel,m3rw/tonne,1.6441715
+c03,tcf_shipping_weight,LAM,14,Barbados,Wood fuel,m3rw/tonne,1.6441715
+c03,tcf_shipping_weight,LAM,17,Bermuda,Wood fuel,m3rw/tonne,1.6441715
+c03,tcf_shipping_weight,LAM,19,Bolivia (Plurinational State of),Wood fuel,m3rw/tonne,1.6441715
+c03,tcf_shipping_weight,LAM,21,Brazil,Wood fuel,m3rw/tonne,1.6441715
+c03,tcf_shipping_weight,LAM,22,Aruba,Wood fuel,m3rw/tonne,1.6441715
+c03,tcf_shipping_weight,LAM,23,Belize,Wood fuel,m3rw/tonne,1.6441715
+c03,tcf_shipping_weight,LAM,36,Cayman Islands,Wood fuel,m3rw/tonne,1.6441715
+c03,tcf_shipping_weight,LAM,40,Chile,Wood fuel,m3rw/tonne,1.74459
+c03,tcf_shipping_weight,LAM,44,Colombia,Wood fuel,m3rw/tonne,1.6441715
+c03,tcf_shipping_weight,LAM,48,Costa Rica,Wood fuel,m3rw/tonne,1.6441715
+c03,tcf_shipping_weight,LAM,49,Cuba,Wood fuel,m3rw/tonne,1.6441715
+c03,tcf_shipping_weight,LAM,55,Dominica,Wood fuel,m3rw/tonne,1.6441715
+c03,tcf_shipping_weight,LAM,56,Dominican Republic,Wood fuel,m3rw/tonne,1.6441715
+c03,tcf_shipping_weight,LAM,58,Ecuador,Wood fuel,m3rw/tonne,1.6441715
+c03,tcf_shipping_weight,LAM,60,El Salvador,Wood fuel,m3rw/tonne,1.6441715
+c03,tcf_shipping_weight,LAM,65,Falkland Islands (Malvinas),Wood fuel,m3rw/tonne,1.6441715
+c03,tcf_shipping_weight,LAM,69,French Guyana,Wood fuel,m3rw/tonne,1.6441715
+c03,tcf_shipping_weight,LAM,86,Grenada,Wood fuel,m3rw/tonne,1.6441715
+c03,tcf_shipping_weight,LAM,87,Guadeloupe,Wood fuel,m3rw/tonne,1.6441715
+c03,tcf_shipping_weight,LAM,89,Guatemala,Wood fuel,m3rw/tonne,1.6441715
+c03,tcf_shipping_weight,LAM,91,Guyana,Wood fuel,m3rw/tonne,1.6441715
+c03,tcf_shipping_weight,LAM,93,Haiti,Wood fuel,m3rw/tonne,1.6441715
+c03,tcf_shipping_weight,LAM,95,Honduras,Wood fuel,m3rw/tonne,1.6441715
+c03,tcf_shipping_weight,LAM,109,Jamaica,Wood fuel,m3rw/tonne,1.6441715
+c03,tcf_shipping_weight,LAM,135,Martinique,Wood fuel,m3rw/tonne,1.6441715
+c03,tcf_shipping_weight,LAM,138,Mexico,Wood fuel,m3rw/tonne,1.6441715
+c03,tcf_shipping_weight,LAM,142,Montserrat,Wood fuel,m3rw/tonne,1.6441715
+c03,tcf_shipping_weight,LAM,151,Netherlands Antilles,Wood fuel,m3rw/tonne,1.6441715
+c03,tcf_shipping_weight,LAM,157,Nicaragua,Wood fuel,m3rw/tonne,1.6441715
+c03,tcf_shipping_weight,LAM,166,Panama,Wood fuel,m3rw/tonne,1.6441715
+c03,tcf_shipping_weight,LAM,169,Paraguay,Wood fuel,m3rw/tonne,1.6441715
+c03,tcf_shipping_weight,LAM,170,Peru,Wood fuel,m3rw/tonne,1.6441715
+c03,tcf_shipping_weight,LAM,188,Saint Kitts and Nevis,Wood fuel,m3rw/tonne,1.6441715
+c03,tcf_shipping_weight,LAM,189,Saint Lucia,Wood fuel,m3rw/tonne,1.6441715
+c03,tcf_shipping_weight,LAM,191,Saint Vincent and the Grenadines,Wood fuel,m3rw/tonne,1.6441715
+c03,tcf_shipping_weight,LAM,207,Suriname,Wood fuel,m3rw/tonne,1.6441715
+c03,tcf_shipping_weight,LAM,220,Trinidad and Tobago,Wood fuel,m3rw/tonne,1.6441715
+c03,tcf_shipping_weight,LAM,224,Turks and Caicos Islands,Wood fuel,m3rw/tonne,1.6441715
+c03,tcf_shipping_weight,LAM,234,Uruguay,Wood fuel,m3rw/tonne,1.543753
+c03,tcf_shipping_weight,LAM,236,Venezuela (Bolivarian Republic of),Wood fuel,m3rw/tonne,1.6441715
+c03,tcf_shipping_weight,LAM,239,British Virgin Islands,Wood fuel,m3rw/tonne,1.6441715
+c03,tcf_shipping_weight,LAM,258,Anguilla,Wood fuel,m3rw/tonne,1.6441715
+c03,tcf_shipping_weight,LAM,279,Curaçao,Wood fuel,m3rw/tonne,1.6441715
+c03,tcf_shipping_weight,LAM,281,Saint-Martin (French Part),Wood fuel,m3rw/tonne,1.6441715
+c03,tcf_shipping_weight,NAM,33,Canada,Wood fuel,m3rw/tonne,1.45416875
+c03,tcf_shipping_weight,NAM,190,Saint Pierre and Miquelon,Wood fuel,m3rw/tonne,1.45416875
+c03,tcf_shipping_weight,NAM,231,United States of America,Wood fuel,m3rw/tonne,1.45416875
+c03,tcf_shipping_weight,OCE,5,American Samoa,Wood fuel,m3rw/tonne,1.45416875
+c03,tcf_shipping_weight,OCE,10,Australia,Wood fuel,m3rw/tonne,1.45416875
+c03,tcf_shipping_weight,OCE,25,Solomon Islands,Wood fuel,m3rw/tonne,1.45416875
+c03,tcf_shipping_weight,OCE,42,Christmas Island,Wood fuel,m3rw/tonne,1.45416875
+c03,tcf_shipping_weight,OCE,43,Cocos (Keeling) Islands,Wood fuel,m3rw/tonne,1.45416875
+c03,tcf_shipping_weight,OCE,47,Cook Islands,Wood fuel,m3rw/tonne,1.45416875
+c03,tcf_shipping_weight,OCE,66,Fiji,Wood fuel,m3rw/tonne,1.45416875
+c03,tcf_shipping_weight,OCE,70,French Polynesia,Wood fuel,m3rw/tonne,1.45416875
+c03,tcf_shipping_weight,OCE,71,French Southern and Antarctic Territories,Wood fuel,m3rw/tonne,1.45416875
+c03,tcf_shipping_weight,OCE,83,Kiribati,Wood fuel,m3rw/tonne,1.45416875
+c03,tcf_shipping_weight,OCE,88,Guam,Wood fuel,m3rw/tonne,1.45416875
+c03,tcf_shipping_weight,OCE,127,Marshall Islands,Wood fuel,m3rw/tonne,1.45416875
+c03,tcf_shipping_weight,OCE,145,Micronesia (Federated States of),Wood fuel,m3rw/tonne,1.45416875
+c03,tcf_shipping_weight,OCE,148,Nauru,Wood fuel,m3rw/tonne,1.45416875
+c03,tcf_shipping_weight,OCE,153,New Caledonia,Wood fuel,m3rw/tonne,1.45416875
+c03,tcf_shipping_weight,OCE,155,Vanuatu,Wood fuel,m3rw/tonne,1.45416875
+c03,tcf_shipping_weight,OCE,156,New Zealand,Wood fuel,m3rw/tonne,1.45416875
+c03,tcf_shipping_weight,OCE,160,Niue,Wood fuel,m3rw/tonne,1.45416875
+c03,tcf_shipping_weight,OCE,161,Norfolk Island,Wood fuel,m3rw/tonne,1.45416875
+c03,tcf_shipping_weight,OCE,163,Northern Mariana Islands,Wood fuel,m3rw/tonne,1.45416875
+c03,tcf_shipping_weight,OCE,168,Papua New Guinea,Wood fuel,m3rw/tonne,1.45416875
+c03,tcf_shipping_weight,OCE,172,Pitcairn Islands,Wood fuel,m3rw/tonne,1.45416875
+c03,tcf_shipping_weight,OCE,180,Palau,Wood fuel,m3rw/tonne,1.45416875
+c03,tcf_shipping_weight,OCE,218,Tokelau,Wood fuel,m3rw/tonne,1.45416875
+c03,tcf_shipping_weight,OCE,227,Tuvalu,Wood fuel,m3rw/tonne,1.45416875
+c03,tcf_shipping_weight,OCE,242,Wake Island,Wood fuel,m3rw/tonne,1.45416875
+c03,tcf_shipping_weight,OCE,243,Wallis and Futuna Islands,Wood fuel,m3rw/tonne,1.45416875
+c03,tcf_shipping_weight,OCE,244,Samoa,Wood fuel,m3rw/tonne,1.45416875
+c03,tcf_shipping_weight,ROW,999,RoW,Wood fuel,m3rw/tonne,1.45416875
+c06,tcf_shipping_weight,AFR,4,Algeria,Veneer sheets,kg/m3,615.48880952381
+c06,tcf_shipping_weight,AFR,7,Angola,Veneer sheets,kg/m3,615.48880952381
+c06,tcf_shipping_weight,AFR,20,Botswana,Veneer sheets,kg/m3,615.48880952381
+c06,tcf_shipping_weight,AFR,29,Burundi,Veneer sheets,kg/m3,615.48880952381
+c06,tcf_shipping_weight,AFR,32,Cameroon,Veneer sheets,kg/m3,615.48880952381
+c06,tcf_shipping_weight,AFR,35,Cabo Verde,Veneer sheets,kg/m3,615.48880952381
+c06,tcf_shipping_weight,AFR,37,Central African Republic,Veneer sheets,kg/m3,615.48880952381
+c06,tcf_shipping_weight,AFR,39,Chad,Veneer sheets,kg/m3,615.48880952381
+c06,tcf_shipping_weight,AFR,45,Comoros,Veneer sheets,kg/m3,615.48880952381
+c06,tcf_shipping_weight,AFR,46,Congo,Veneer sheets,kg/m3,615.48880952381
+c06,tcf_shipping_weight,AFR,53,Benin,Veneer sheets,kg/m3,615.48880952381
+c06,tcf_shipping_weight,AFR,59,Egypt,Veneer sheets,kg/m3,615.48880952381
+c06,tcf_shipping_weight,AFR,61,Equatorial Guinea,Veneer sheets,kg/m3,615.48880952381
+c06,tcf_shipping_weight,AFR,72,Djibouti,Veneer sheets,kg/m3,615.48880952381
+c06,tcf_shipping_weight,AFR,74,Gabon,Veneer sheets,kg/m3,615.48880952381
+c06,tcf_shipping_weight,AFR,75,Gambia,Veneer sheets,kg/m3,615.48880952381
+c06,tcf_shipping_weight,AFR,81,Ghana,Veneer sheets,kg/m3,615.48880952381
+c06,tcf_shipping_weight,AFR,90,Guinea,Veneer sheets,kg/m3,615.48880952381
+c06,tcf_shipping_weight,AFR,107,Cote d'Ivoire,Veneer sheets,kg/m3,615.48880952381
+c06,tcf_shipping_weight,AFR,114,Kenya,Veneer sheets,kg/m3,615.48880952381
+c06,tcf_shipping_weight,AFR,122,Lesotho,Veneer sheets,kg/m3,615.48880952381
+c06,tcf_shipping_weight,AFR,123,Liberia,Veneer sheets,kg/m3,615.48880952381
+c06,tcf_shipping_weight,AFR,124,Libya,Veneer sheets,kg/m3,615.48880952381
+c06,tcf_shipping_weight,AFR,129,Madagascar,Veneer sheets,kg/m3,615.48880952381
+c06,tcf_shipping_weight,AFR,130,Malawi,Veneer sheets,kg/m3,615.48880952381
+c06,tcf_shipping_weight,AFR,133,Mali,Veneer sheets,kg/m3,615.48880952381
+c06,tcf_shipping_weight,AFR,136,Mauritania,Veneer sheets,kg/m3,615.48880952381
+c06,tcf_shipping_weight,AFR,137,Mauritius,Veneer sheets,kg/m3,615.48880952381
+c06,tcf_shipping_weight,AFR,143,Morocco,Veneer sheets,kg/m3,615.48880952381
+c06,tcf_shipping_weight,AFR,144,Mozambique,Veneer sheets,kg/m3,615.48880952381
+c06,tcf_shipping_weight,AFR,147,Namibia,Veneer sheets,kg/m3,615.48880952381
+c06,tcf_shipping_weight,AFR,158,Niger,Veneer sheets,kg/m3,615.48880952381
+c06,tcf_shipping_weight,AFR,159,Nigeria,Veneer sheets,kg/m3,615.48880952381
+c06,tcf_shipping_weight,AFR,175,Guinea-Bissau,Veneer sheets,kg/m3,615.48880952381
+c06,tcf_shipping_weight,AFR,178,Eritrea,Veneer sheets,kg/m3,615.48880952381
+c06,tcf_shipping_weight,AFR,181,Zimbabwe,Veneer sheets,kg/m3,615.48880952381
+c06,tcf_shipping_weight,AFR,182,Reunion,Veneer sheets,kg/m3,615.48880952381
+c06,tcf_shipping_weight,AFR,184,Rwanda,Veneer sheets,kg/m3,615.48880952381
+c06,tcf_shipping_weight,AFR,187,"Saint Helena, Ascension and Tristan da Cunha",Veneer sheets,kg/m3,615.48880952381
+c06,tcf_shipping_weight,AFR,193,Sao Tome and Principe,Veneer sheets,kg/m3,615.48880952381
+c06,tcf_shipping_weight,AFR,195,Senegal,Veneer sheets,kg/m3,615.48880952381
+c06,tcf_shipping_weight,AFR,196,Seychelles,Veneer sheets,kg/m3,615.48880952381
+c06,tcf_shipping_weight,AFR,197,Sierra Leone,Veneer sheets,kg/m3,615.48880952381
+c06,tcf_shipping_weight,AFR,201,Somalia,Veneer sheets,kg/m3,615.48880952381
+c06,tcf_shipping_weight,AFR,202,South Africa,Veneer sheets,kg/m3,615.48880952381
+c06,tcf_shipping_weight,AFR,205,Western Sahara,Veneer sheets,kg/m3,615.48880952381
+c06,tcf_shipping_weight,AFR,209,Eswatini,Veneer sheets,kg/m3,615.48880952381
+c06,tcf_shipping_weight,AFR,215,United Republic of Tanzania,Veneer sheets,kg/m3,615.48880952381
+c06,tcf_shipping_weight,AFR,217,Togo,Veneer sheets,kg/m3,615.48880952381
+c06,tcf_shipping_weight,AFR,219,Tonga,Veneer sheets,kg/m3,615.48880952381
+c06,tcf_shipping_weight,AFR,222,Tunisia,Veneer sheets,kg/m3,615.48880952381
+c06,tcf_shipping_weight,AFR,226,Uganda,Veneer sheets,kg/m3,615.48880952381
+c06,tcf_shipping_weight,AFR,233,Burkina Faso,Veneer sheets,kg/m3,615.48880952381
+c06,tcf_shipping_weight,AFR,238,Ethiopia,Veneer sheets,kg/m3,615.48880952381
+c06,tcf_shipping_weight,AFR,250,Democratic Republic of the Congo,Veneer sheets,kg/m3,615.48880952381
+c06,tcf_shipping_weight,AFR,251,Zambia,Veneer sheets,kg/m3,615.48880952381
+c06,tcf_shipping_weight,AFR,270,Mayotte,Veneer sheets,kg/m3,615.48880952381
+c06,tcf_shipping_weight,AFR,276,Sudan,Veneer sheets,kg/m3,615.48880952381
+c06,tcf_shipping_weight,AFR,277,South Sudan,Veneer sheets,kg/m3,615.48880952381
+c06,tcf_shipping_weight,ASI,1,Armenia,Veneer sheets,kg/m3,649.85
+c06,tcf_shipping_weight,ASI,2,Afghanistan,Veneer sheets,kg/m3,649.85
+c06,tcf_shipping_weight,ASI,13,Bahrain,Veneer sheets,kg/m3,649.85
+c06,tcf_shipping_weight,ASI,16,Bangladesh,Veneer sheets,kg/m3,649.85
+c06,tcf_shipping_weight,ASI,18,Bhutan,Veneer sheets,kg/m3,649.85
+c06,tcf_shipping_weight,ASI,24,British Indian Ocean Territory,Veneer sheets,kg/m3,649.85
+c06,tcf_shipping_weight,ASI,26,Brunei Darussalam,Veneer sheets,kg/m3,649.85
+c06,tcf_shipping_weight,ASI,28,Myanmar,Veneer sheets,kg/m3,649.85
+c06,tcf_shipping_weight,ASI,38,Sri Lanka,Veneer sheets,kg/m3,649.85
+c06,tcf_shipping_weight,ASI,41,"China, mainland",Veneer sheets,kg/m3,649.85
+c06,tcf_shipping_weight,ASI,52,Azerbaijan,Veneer sheets,kg/m3,649.85
+c06,tcf_shipping_weight,ASI,73,Georgia,Veneer sheets,kg/m3,649.85
+c06,tcf_shipping_weight,ASI,96,"China, Hong Kong SAR",Veneer sheets,kg/m3,649.85
+c06,tcf_shipping_weight,ASI,100,India,Veneer sheets,kg/m3,649.85
+c06,tcf_shipping_weight,ASI,101,Indonesia,Veneer sheets,kg/m3,649.7
+c06,tcf_shipping_weight,ASI,102,Iran (Islamic Republic of),Veneer sheets,kg/m3,649.85
+c06,tcf_shipping_weight,ASI,103,Iraq,Veneer sheets,kg/m3,649.85
+c06,tcf_shipping_weight,ASI,105,Israel,Veneer sheets,kg/m3,649.85
+c06,tcf_shipping_weight,ASI,108,Kazakhstan,Veneer sheets,kg/m3,649.85
+c06,tcf_shipping_weight,ASI,110,Japan,Veneer sheets,kg/m3,649.85
+c06,tcf_shipping_weight,ASI,112,Jordan,Veneer sheets,kg/m3,649.85
+c06,tcf_shipping_weight,ASI,113,Kyrgyzstan,Veneer sheets,kg/m3,649.85
+c06,tcf_shipping_weight,ASI,115,Cambodia,Veneer sheets,kg/m3,649.85
+c06,tcf_shipping_weight,ASI,116,Democratic People's Republic of Korea,Veneer sheets,kg/m3,649.85
+c06,tcf_shipping_weight,ASI,117,Republic of Korea,Veneer sheets,kg/m3,649.85
+c06,tcf_shipping_weight,ASI,118,Kuwait,Veneer sheets,kg/m3,649.85
+c06,tcf_shipping_weight,ASI,120,Lao People's Democratic Republic,Veneer sheets,kg/m3,649.85
+c06,tcf_shipping_weight,ASI,121,Lebanon,Veneer sheets,kg/m3,649.85
+c06,tcf_shipping_weight,ASI,128,"China, Macao SAR",Veneer sheets,kg/m3,649.85
+c06,tcf_shipping_weight,ASI,131,Malaysia,Veneer sheets,kg/m3,650
+c06,tcf_shipping_weight,ASI,132,Maldives,Veneer sheets,kg/m3,649.85
+c06,tcf_shipping_weight,ASI,141,Mongolia,Veneer sheets,kg/m3,649.85
+c06,tcf_shipping_weight,ASI,149,Nepal,Veneer sheets,kg/m3,649.85
+c06,tcf_shipping_weight,ASI,164,Pacific Islands Trust Territory,Veneer sheets,kg/m3,649.85
+c06,tcf_shipping_weight,ASI,165,Pakistan,Veneer sheets,kg/m3,649.85
+c06,tcf_shipping_weight,ASI,171,Philippines,Veneer sheets,kg/m3,649.85
+c06,tcf_shipping_weight,ASI,176,Timor-Leste,Veneer sheets,kg/m3,649.85
+c06,tcf_shipping_weight,ASI,179,Qatar,Veneer sheets,kg/m3,649.85
+c06,tcf_shipping_weight,ASI,194,Saudi Arabia,Veneer sheets,kg/m3,649.85
+c06,tcf_shipping_weight,ASI,200,Singapore,Veneer sheets,kg/m3,649.85
+c06,tcf_shipping_weight,ASI,208,Tajikistan,Veneer sheets,kg/m3,649.85
+c06,tcf_shipping_weight,ASI,212,Syrian Arab Republic,Veneer sheets,kg/m3,649.85
+c06,tcf_shipping_weight,ASI,213,Turkmenistan,Veneer sheets,kg/m3,649.85
+c06,tcf_shipping_weight,ASI,214,"China, Taiwan Province of",Veneer sheets,kg/m3,649.85
+c06,tcf_shipping_weight,ASI,216,Thailand,Veneer sheets,kg/m3,649.85
+c06,tcf_shipping_weight,ASI,221,Oman,Veneer sheets,kg/m3,649.85
+c06,tcf_shipping_weight,ASI,225,United Arab Emirates,Veneer sheets,kg/m3,649.85
+c06,tcf_shipping_weight,ASI,228,USSR,Veneer sheets,kg/m3,649.85
+c06,tcf_shipping_weight,ASI,235,Uzbekistan,Veneer sheets,kg/m3,649.85
+c06,tcf_shipping_weight,ASI,237,Viet Nam,Veneer sheets,kg/m3,649.85
+c06,tcf_shipping_weight,ASI,249,Yemen,Veneer sheets,kg/m3,649.85
+c06,tcf_shipping_weight,ASI,299,Palestine,Veneer sheets,kg/m3,649.85
+c06,tcf_shipping_weight,EUR,3,Albania,Veneer sheets,kg/m3,613.071428571429
+c06,tcf_shipping_weight,EUR,6,Andorra,Veneer sheets,kg/m3,613.071428571429
+c06,tcf_shipping_weight,EUR,11,Austria,Veneer sheets,kg/m3,613.071428571429
+c06,tcf_shipping_weight,EUR,15,Belgium-Luxembourg,Veneer sheets,kg/m3,613.071428571429
+c06,tcf_shipping_weight,EUR,27,Bulgaria,Veneer sheets,kg/m3,613.071428571429
+c06,tcf_shipping_weight,EUR,50,Cyprus,Veneer sheets,kg/m3,613.071428571429
+c06,tcf_shipping_weight,EUR,51,Czechoslovakia,Veneer sheets,kg/m3,613.071428571429
+c06,tcf_shipping_weight,EUR,54,Denmark,Veneer sheets,kg/m3,613.071428571429
+c06,tcf_shipping_weight,EUR,57,Belarus,Veneer sheets,kg/m3,613.071428571429
+c06,tcf_shipping_weight,EUR,63,Estonia,Veneer sheets,kg/m3,613.071428571429
+c06,tcf_shipping_weight,EUR,64,Faroe Islands,Veneer sheets,kg/m3,613.071428571429
+c06,tcf_shipping_weight,EUR,67,Finland,Veneer sheets,kg/m3,578.5
+c06,tcf_shipping_weight,EUR,68,France,Veneer sheets,kg/m3,550
+c06,tcf_shipping_weight,EUR,79,Germany,Veneer sheets,kg/m3,613.071428571429
+c06,tcf_shipping_weight,EUR,80,Bosnia and Herzegovina,Veneer sheets,kg/m3,613.071428571429
+c06,tcf_shipping_weight,EUR,82,Gibraltar,Veneer sheets,kg/m3,613.071428571429
+c06,tcf_shipping_weight,EUR,84,Greece,Veneer sheets,kg/m3,613.071428571429
+c06,tcf_shipping_weight,EUR,85,Greenland,Veneer sheets,kg/m3,613.071428571429
+c06,tcf_shipping_weight,EUR,94,Holy See,Veneer sheets,kg/m3,613.071428571429
+c06,tcf_shipping_weight,EUR,97,Hungary,Veneer sheets,kg/m3,613.071428571429
+c06,tcf_shipping_weight,EUR,98,Croatia,Veneer sheets,kg/m3,613.071428571429
+c06,tcf_shipping_weight,EUR,99,Iceland,Veneer sheets,kg/m3,613.071428571429
+c06,tcf_shipping_weight,EUR,104,Ireland,Veneer sheets,kg/m3,650
+c06,tcf_shipping_weight,EUR,106,Italy,Veneer sheets,kg/m3,613.071428571429
+c06,tcf_shipping_weight,EUR,119,Latvia,Veneer sheets,kg/m3,613.071428571429
+c06,tcf_shipping_weight,EUR,125,Liechtenstein,Veneer sheets,kg/m3,613.071428571429
+c06,tcf_shipping_weight,EUR,126,Lithuania,Veneer sheets,kg/m3,613.071428571429
+c06,tcf_shipping_weight,EUR,134,Malta,Veneer sheets,kg/m3,613.071428571429
+c06,tcf_shipping_weight,EUR,146,Republic of Moldova,Veneer sheets,kg/m3,613.071428571429
+c06,tcf_shipping_weight,EUR,150,Netherlands,Veneer sheets,kg/m3,613.071428571429
+c06,tcf_shipping_weight,EUR,154,North Macedonia,Veneer sheets,kg/m3,613.071428571429
+c06,tcf_shipping_weight,EUR,162,Norway,Veneer sheets,kg/m3,613.071428571429
+c06,tcf_shipping_weight,EUR,167,Czechia,Veneer sheets,kg/m3,613.071428571429
+c06,tcf_shipping_weight,EUR,173,Poland,Veneer sheets,kg/m3,650
+c06,tcf_shipping_weight,EUR,174,Portugal,Veneer sheets,kg/m3,613.071428571429
+c06,tcf_shipping_weight,EUR,183,Romania,Veneer sheets,kg/m3,613.071428571429
+c06,tcf_shipping_weight,EUR,185,Russian Federation,Veneer sheets,kg/m3,650
+c06,tcf_shipping_weight,EUR,186,Serbia and Montenegro,Veneer sheets,kg/m3,613.071428571429
+c06,tcf_shipping_weight,EUR,192,San Marino,Veneer sheets,kg/m3,613.071428571429
+c06,tcf_shipping_weight,EUR,198,Slovenia,Veneer sheets,kg/m3,613.071428571429
+c06,tcf_shipping_weight,EUR,199,Slovakia,Veneer sheets,kg/m3,564
+c06,tcf_shipping_weight,EUR,203,Spain,Veneer sheets,kg/m3,613.071428571429
+c06,tcf_shipping_weight,EUR,210,Sweden,Veneer sheets,kg/m3,613.071428571429
+c06,tcf_shipping_weight,EUR,211,Switzerland,Veneer sheets,kg/m3,613.071428571429
+c06,tcf_shipping_weight,EUR,223,Turkey,Veneer sheets,kg/m3,613.071428571429
+c06,tcf_shipping_weight,EUR,229,United Kingdom,Veneer sheets,kg/m3,649
+c06,tcf_shipping_weight,EUR,230,Ukraine,Veneer sheets,kg/m3,613.071428571429
+c06,tcf_shipping_weight,EUR,248,Yugoslav SFR,Veneer sheets,kg/m3,613.071428571429
+c06,tcf_shipping_weight,EUR,255,Belgium,Veneer sheets,kg/m3,613.071428571429
+c06,tcf_shipping_weight,EUR,256,Luxembourg,Veneer sheets,kg/m3,613.071428571429
+c06,tcf_shipping_weight,EUR,272,Serbia,Veneer sheets,kg/m3,613.071428571429
+c06,tcf_shipping_weight,EUR,273,Montenegro,Veneer sheets,kg/m3,613.071428571429
+c06,tcf_shipping_weight,LAM,8,Antigua and Barbuda,Veneer sheets,kg/m3,583.545
+c06,tcf_shipping_weight,LAM,9,Argentina,Veneer sheets,kg/m3,583.545
+c06,tcf_shipping_weight,LAM,12,Bahamas,Veneer sheets,kg/m3,583.545
+c06,tcf_shipping_weight,LAM,14,Barbados,Veneer sheets,kg/m3,583.545
+c06,tcf_shipping_weight,LAM,17,Bermuda,Veneer sheets,kg/m3,583.545
+c06,tcf_shipping_weight,LAM,19,Bolivia (Plurinational State of),Veneer sheets,kg/m3,583.545
+c06,tcf_shipping_weight,LAM,21,Brazil,Veneer sheets,kg/m3,445
+c06,tcf_shipping_weight,LAM,22,Aruba,Veneer sheets,kg/m3,583.545
+c06,tcf_shipping_weight,LAM,23,Belize,Veneer sheets,kg/m3,583.545
+c06,tcf_shipping_weight,LAM,36,Cayman Islands,Veneer sheets,kg/m3,583.545
+c06,tcf_shipping_weight,LAM,40,Chile,Veneer sheets,kg/m3,583.545
+c06,tcf_shipping_weight,LAM,44,Colombia,Veneer sheets,kg/m3,583.545
+c06,tcf_shipping_weight,LAM,48,Costa Rica,Veneer sheets,kg/m3,583.545
+c06,tcf_shipping_weight,LAM,49,Cuba,Veneer sheets,kg/m3,583.545
+c06,tcf_shipping_weight,LAM,55,Dominica,Veneer sheets,kg/m3,583.545
+c06,tcf_shipping_weight,LAM,56,Dominican Republic,Veneer sheets,kg/m3,583.545
+c06,tcf_shipping_weight,LAM,58,Ecuador,Veneer sheets,kg/m3,583.545
+c06,tcf_shipping_weight,LAM,60,El Salvador,Veneer sheets,kg/m3,583.545
+c06,tcf_shipping_weight,LAM,65,Falkland Islands (Malvinas),Veneer sheets,kg/m3,583.545
+c06,tcf_shipping_weight,LAM,69,French Guyana,Veneer sheets,kg/m3,583.545
+c06,tcf_shipping_weight,LAM,86,Grenada,Veneer sheets,kg/m3,583.545
+c06,tcf_shipping_weight,LAM,87,Guadeloupe,Veneer sheets,kg/m3,583.545
+c06,tcf_shipping_weight,LAM,89,Guatemala,Veneer sheets,kg/m3,583.545
+c06,tcf_shipping_weight,LAM,91,Guyana,Veneer sheets,kg/m3,764
+c06,tcf_shipping_weight,LAM,93,Haiti,Veneer sheets,kg/m3,583.545
+c06,tcf_shipping_weight,LAM,95,Honduras,Veneer sheets,kg/m3,583.545
+c06,tcf_shipping_weight,LAM,109,Jamaica,Veneer sheets,kg/m3,583.545
+c06,tcf_shipping_weight,LAM,135,Martinique,Veneer sheets,kg/m3,583.545
+c06,tcf_shipping_weight,LAM,138,Mexico,Veneer sheets,kg/m3,595
+c06,tcf_shipping_weight,LAM,142,Montserrat,Veneer sheets,kg/m3,583.545
+c06,tcf_shipping_weight,LAM,151,Netherlands Antilles,Veneer sheets,kg/m3,583.545
+c06,tcf_shipping_weight,LAM,157,Nicaragua,Veneer sheets,kg/m3,583.545
+c06,tcf_shipping_weight,LAM,166,Panama,Veneer sheets,kg/m3,583.545
+c06,tcf_shipping_weight,LAM,169,Paraguay,Veneer sheets,kg/m3,583.545
+c06,tcf_shipping_weight,LAM,170,Peru,Veneer sheets,kg/m3,583.545
+c06,tcf_shipping_weight,LAM,188,Saint Kitts and Nevis,Veneer sheets,kg/m3,583.545
+c06,tcf_shipping_weight,LAM,189,Saint Lucia,Veneer sheets,kg/m3,583.545
+c06,tcf_shipping_weight,LAM,191,Saint Vincent and the Grenadines,Veneer sheets,kg/m3,583.545
+c06,tcf_shipping_weight,LAM,207,Suriname,Veneer sheets,kg/m3,583.545
+c06,tcf_shipping_weight,LAM,220,Trinidad and Tobago,Veneer sheets,kg/m3,583.545
+c06,tcf_shipping_weight,LAM,224,Turks and Caicos Islands,Veneer sheets,kg/m3,583.545
+c06,tcf_shipping_weight,LAM,234,Uruguay,Veneer sheets,kg/m3,530.18
+c06,tcf_shipping_weight,LAM,236,Venezuela (Bolivarian Republic of),Veneer sheets,kg/m3,583.545
+c06,tcf_shipping_weight,LAM,239,British Virgin Islands,Veneer sheets,kg/m3,583.545
+c06,tcf_shipping_weight,LAM,258,Anguilla,Veneer sheets,kg/m3,583.545
+c06,tcf_shipping_weight,LAM,279,Curaçao,Veneer sheets,kg/m3,583.545
+c06,tcf_shipping_weight,LAM,281,Saint-Martin (French Part),Veneer sheets,kg/m3,583.545
+c06,tcf_shipping_weight,NAM,33,Canada,Veneer sheets,kg/m3,615.48880952381
+c06,tcf_shipping_weight,NAM,190,Saint Pierre and Miquelon,Veneer sheets,kg/m3,615.48880952381
+c06,tcf_shipping_weight,NAM,231,United States of America,Veneer sheets,kg/m3,615.48880952381
+c06,tcf_shipping_weight,OCE,5,American Samoa,Veneer sheets,kg/m3,615.48880952381
+c06,tcf_shipping_weight,OCE,10,Australia,Veneer sheets,kg/m3,615.48880952381
+c06,tcf_shipping_weight,OCE,25,Solomon Islands,Veneer sheets,kg/m3,615.48880952381
+c06,tcf_shipping_weight,OCE,42,Christmas Island,Veneer sheets,kg/m3,615.48880952381
+c06,tcf_shipping_weight,OCE,43,Cocos (Keeling) Islands,Veneer sheets,kg/m3,615.48880952381
+c06,tcf_shipping_weight,OCE,47,Cook Islands,Veneer sheets,kg/m3,615.48880952381
+c06,tcf_shipping_weight,OCE,66,Fiji,Veneer sheets,kg/m3,615.48880952381
+c06,tcf_shipping_weight,OCE,70,French Polynesia,Veneer sheets,kg/m3,615.48880952381
+c06,tcf_shipping_weight,OCE,71,French Southern and Antarctic Territories,Veneer sheets,kg/m3,615.48880952381
+c06,tcf_shipping_weight,OCE,83,Kiribati,Veneer sheets,kg/m3,615.48880952381
+c06,tcf_shipping_weight,OCE,88,Guam,Veneer sheets,kg/m3,615.48880952381
+c06,tcf_shipping_weight,OCE,127,Marshall Islands,Veneer sheets,kg/m3,615.48880952381
+c06,tcf_shipping_weight,OCE,145,Micronesia (Federated States of),Veneer sheets,kg/m3,615.48880952381
+c06,tcf_shipping_weight,OCE,148,Nauru,Veneer sheets,kg/m3,615.48880952381
+c06,tcf_shipping_weight,OCE,153,New Caledonia,Veneer sheets,kg/m3,615.48880952381
+c06,tcf_shipping_weight,OCE,155,Vanuatu,Veneer sheets,kg/m3,615.48880952381
+c06,tcf_shipping_weight,OCE,156,New Zealand,Veneer sheets,kg/m3,615.48880952381
+c06,tcf_shipping_weight,OCE,160,Niue,Veneer sheets,kg/m3,615.48880952381
+c06,tcf_shipping_weight,OCE,161,Norfolk Island,Veneer sheets,kg/m3,615.48880952381
+c06,tcf_shipping_weight,OCE,163,Northern Mariana Islands,Veneer sheets,kg/m3,615.48880952381
+c06,tcf_shipping_weight,OCE,168,Papua New Guinea,Veneer sheets,kg/m3,615.48880952381
+c06,tcf_shipping_weight,OCE,172,Pitcairn Islands,Veneer sheets,kg/m3,615.48880952381
+c06,tcf_shipping_weight,OCE,180,Palau,Veneer sheets,kg/m3,615.48880952381
+c06,tcf_shipping_weight,OCE,218,Tokelau,Veneer sheets,kg/m3,615.48880952381
+c06,tcf_shipping_weight,OCE,227,Tuvalu,Veneer sheets,kg/m3,615.48880952381
+c06,tcf_shipping_weight,OCE,242,Wake Island,Veneer sheets,kg/m3,615.48880952381
+c06,tcf_shipping_weight,OCE,243,Wallis and Futuna Islands,Veneer sheets,kg/m3,615.48880952381
+c06,tcf_shipping_weight,OCE,244,Samoa,Veneer sheets,kg/m3,615.48880952381
+c06,tcf_shipping_weight,ROW,999,RoW,Veneer sheets,kg/m3,615.48880952381
+c06,tcf_use,AFR,4,Algeria,Veneer sheets,m3rw/m3p,1.85
+c06,tcf_use,AFR,7,Angola,Veneer sheets,m3rw/m3p,1.85
+c06,tcf_use,AFR,20,Botswana,Veneer sheets,m3rw/m3p,1.85
+c06,tcf_use,AFR,29,Burundi,Veneer sheets,m3rw/m3p,1.85
+c06,tcf_use,AFR,32,Cameroon,Veneer sheets,m3rw/m3p,1.85
+c06,tcf_use,AFR,35,Cabo Verde,Veneer sheets,m3rw/m3p,1.85
+c06,tcf_use,AFR,37,Central African Republic,Veneer sheets,m3rw/m3p,1.85
+c06,tcf_use,AFR,39,Chad,Veneer sheets,m3rw/m3p,1.85
+c06,tcf_use,AFR,45,Comoros,Veneer sheets,m3rw/m3p,1.85
+c06,tcf_use,AFR,46,Congo,Veneer sheets,m3rw/m3p,1.85
+c06,tcf_use,AFR,53,Benin,Veneer sheets,m3rw/m3p,1.85
+c06,tcf_use,AFR,59,Egypt,Veneer sheets,m3rw/m3p,1.85
+c06,tcf_use,AFR,61,Equatorial Guinea,Veneer sheets,m3rw/m3p,1.85
+c06,tcf_use,AFR,72,Djibouti,Veneer sheets,m3rw/m3p,1.85
+c06,tcf_use,AFR,74,Gabon,Veneer sheets,m3rw/m3p,1.85
+c06,tcf_use,AFR,75,Gambia,Veneer sheets,m3rw/m3p,1.85
+c06,tcf_use,AFR,81,Ghana,Veneer sheets,m3rw/m3p,1.85
+c06,tcf_use,AFR,90,Guinea,Veneer sheets,m3rw/m3p,1.85
+c06,tcf_use,AFR,107,Cote d'Ivoire,Veneer sheets,m3rw/m3p,1.85
+c06,tcf_use,AFR,114,Kenya,Veneer sheets,m3rw/m3p,1.85
+c06,tcf_use,AFR,122,Lesotho,Veneer sheets,m3rw/m3p,1.85
+c06,tcf_use,AFR,123,Liberia,Veneer sheets,m3rw/m3p,1.85
+c06,tcf_use,AFR,124,Libya,Veneer sheets,m3rw/m3p,1.85
+c06,tcf_use,AFR,129,Madagascar,Veneer sheets,m3rw/m3p,1.85
+c06,tcf_use,AFR,130,Malawi,Veneer sheets,m3rw/m3p,1.85
+c06,tcf_use,AFR,133,Mali,Veneer sheets,m3rw/m3p,1.85
+c06,tcf_use,AFR,136,Mauritania,Veneer sheets,m3rw/m3p,1.85
+c06,tcf_use,AFR,137,Mauritius,Veneer sheets,m3rw/m3p,1.85
+c06,tcf_use,AFR,143,Morocco,Veneer sheets,m3rw/m3p,1.85
+c06,tcf_use,AFR,144,Mozambique,Veneer sheets,m3rw/m3p,1.85
+c06,tcf_use,AFR,147,Namibia,Veneer sheets,m3rw/m3p,1.85
+c06,tcf_use,AFR,158,Niger,Veneer sheets,m3rw/m3p,1.85
+c06,tcf_use,AFR,159,Nigeria,Veneer sheets,m3rw/m3p,1.85
+c06,tcf_use,AFR,175,Guinea-Bissau,Veneer sheets,m3rw/m3p,1.85
+c06,tcf_use,AFR,178,Eritrea,Veneer sheets,m3rw/m3p,1.85
+c06,tcf_use,AFR,181,Zimbabwe,Veneer sheets,m3rw/m3p,1.85
+c06,tcf_use,AFR,182,Reunion,Veneer sheets,m3rw/m3p,1.85
+c06,tcf_use,AFR,184,Rwanda,Veneer sheets,m3rw/m3p,1.85
+c06,tcf_use,AFR,187,"Saint Helena, Ascension and Tristan da Cunha",Veneer sheets,m3rw/m3p,1.85
+c06,tcf_use,AFR,193,Sao Tome and Principe,Veneer sheets,m3rw/m3p,1.85
+c06,tcf_use,AFR,195,Senegal,Veneer sheets,m3rw/m3p,1.85
+c06,tcf_use,AFR,196,Seychelles,Veneer sheets,m3rw/m3p,1.85
+c06,tcf_use,AFR,197,Sierra Leone,Veneer sheets,m3rw/m3p,1.85
+c06,tcf_use,AFR,201,Somalia,Veneer sheets,m3rw/m3p,1.85
+c06,tcf_use,AFR,202,South Africa,Veneer sheets,m3rw/m3p,1.85
+c06,tcf_use,AFR,205,Western Sahara,Veneer sheets,m3rw/m3p,1.85
+c06,tcf_use,AFR,209,Eswatini,Veneer sheets,m3rw/m3p,1.85
+c06,tcf_use,AFR,215,United Republic of Tanzania,Veneer sheets,m3rw/m3p,1.85
+c06,tcf_use,AFR,217,Togo,Veneer sheets,m3rw/m3p,1.85
+c06,tcf_use,AFR,219,Tonga,Veneer sheets,m3rw/m3p,1.85
+c06,tcf_use,AFR,222,Tunisia,Veneer sheets,m3rw/m3p,1.85
+c06,tcf_use,AFR,226,Uganda,Veneer sheets,m3rw/m3p,1.85
+c06,tcf_use,AFR,233,Burkina Faso,Veneer sheets,m3rw/m3p,1.85
+c06,tcf_use,AFR,238,Ethiopia,Veneer sheets,m3rw/m3p,1.85
+c06,tcf_use,AFR,250,Democratic Republic of the Congo,Veneer sheets,m3rw/m3p,1.85
+c06,tcf_use,AFR,251,Zambia,Veneer sheets,m3rw/m3p,1.85
+c06,tcf_use,AFR,270,Mayotte,Veneer sheets,m3rw/m3p,1.85
+c06,tcf_use,AFR,276,Sudan,Veneer sheets,m3rw/m3p,1.85
+c06,tcf_use,AFR,277,South Sudan,Veneer sheets,m3rw/m3p,1.85
+c06,tcf_use,ASI,1,Armenia,Veneer sheets,m3rw/m3p,1.91633333333333
+c06,tcf_use,ASI,2,Afghanistan,Veneer sheets,m3rw/m3p,1.91633333333333
+c06,tcf_use,ASI,13,Bahrain,Veneer sheets,m3rw/m3p,1.91633333333333
+c06,tcf_use,ASI,16,Bangladesh,Veneer sheets,m3rw/m3p,1.91633333333333
+c06,tcf_use,ASI,18,Bhutan,Veneer sheets,m3rw/m3p,1.91633333333333
+c06,tcf_use,ASI,24,British Indian Ocean Territory,Veneer sheets,m3rw/m3p,1.91633333333333
+c06,tcf_use,ASI,26,Brunei Darussalam,Veneer sheets,m3rw/m3p,1.91633333333333
+c06,tcf_use,ASI,28,Myanmar,Veneer sheets,m3rw/m3p,1.91633333333333
+c06,tcf_use,ASI,38,Sri Lanka,Veneer sheets,m3rw/m3p,1.91633333333333
+c06,tcf_use,ASI,41,"China, mainland",Veneer sheets,m3rw/m3p,2.03
+c06,tcf_use,ASI,52,Azerbaijan,Veneer sheets,m3rw/m3p,1.91633333333333
+c06,tcf_use,ASI,73,Georgia,Veneer sheets,m3rw/m3p,1.91633333333333
+c06,tcf_use,ASI,96,"China, Hong Kong SAR",Veneer sheets,m3rw/m3p,1.91633333333333
+c06,tcf_use,ASI,100,India,Veneer sheets,m3rw/m3p,1.91633333333333
+c06,tcf_use,ASI,101,Indonesia,Veneer sheets,m3rw/m3p,2.099
+c06,tcf_use,ASI,102,Iran (Islamic Republic of),Veneer sheets,m3rw/m3p,1.91633333333333
+c06,tcf_use,ASI,103,Iraq,Veneer sheets,m3rw/m3p,1.91633333333333
+c06,tcf_use,ASI,105,Israel,Veneer sheets,m3rw/m3p,1.91633333333333
+c06,tcf_use,ASI,108,Kazakhstan,Veneer sheets,m3rw/m3p,1.91633333333333
+c06,tcf_use,ASI,110,Japan,Veneer sheets,m3rw/m3p,1.62
+c06,tcf_use,ASI,112,Jordan,Veneer sheets,m3rw/m3p,1.91633333333333
+c06,tcf_use,ASI,113,Kyrgyzstan,Veneer sheets,m3rw/m3p,1.91633333333333
+c06,tcf_use,ASI,115,Cambodia,Veneer sheets,m3rw/m3p,1.91633333333333
+c06,tcf_use,ASI,116,Democratic People's Republic of Korea,Veneer sheets,m3rw/m3p,1.91633333333333
+c06,tcf_use,ASI,117,Republic of Korea,Veneer sheets,m3rw/m3p,1.91633333333333
+c06,tcf_use,ASI,118,Kuwait,Veneer sheets,m3rw/m3p,1.91633333333333
+c06,tcf_use,ASI,120,Lao People's Democratic Republic,Veneer sheets,m3rw/m3p,1.91633333333333
+c06,tcf_use,ASI,121,Lebanon,Veneer sheets,m3rw/m3p,1.91633333333333
+c06,tcf_use,ASI,128,"China, Macao SAR",Veneer sheets,m3rw/m3p,1.91633333333333
+c06,tcf_use,ASI,131,Malaysia,Veneer sheets,m3rw/m3p,1.91633333333333
+c06,tcf_use,ASI,132,Maldives,Veneer sheets,m3rw/m3p,1.91633333333333
+c06,tcf_use,ASI,141,Mongolia,Veneer sheets,m3rw/m3p,1.91633333333333
+c06,tcf_use,ASI,149,Nepal,Veneer sheets,m3rw/m3p,1.91633333333333
+c06,tcf_use,ASI,164,Pacific Islands Trust Territory,Veneer sheets,m3rw/m3p,1.91633333333333
+c06,tcf_use,ASI,165,Pakistan,Veneer sheets,m3rw/m3p,1.91633333333333
+c06,tcf_use,ASI,171,Philippines,Veneer sheets,m3rw/m3p,1.91633333333333
+c06,tcf_use,ASI,176,Timor-Leste,Veneer sheets,m3rw/m3p,1.91633333333333
+c06,tcf_use,ASI,179,Qatar,Veneer sheets,m3rw/m3p,1.91633333333333
+c06,tcf_use,ASI,194,Saudi Arabia,Veneer sheets,m3rw/m3p,1.91633333333333
+c06,tcf_use,ASI,200,Singapore,Veneer sheets,m3rw/m3p,1.91633333333333
+c06,tcf_use,ASI,208,Tajikistan,Veneer sheets,m3rw/m3p,1.91633333333333
+c06,tcf_use,ASI,212,Syrian Arab Republic,Veneer sheets,m3rw/m3p,1.91633333333333
+c06,tcf_use,ASI,213,Turkmenistan,Veneer sheets,m3rw/m3p,1.91633333333333
+c06,tcf_use,ASI,214,"China, Taiwan Province of",Veneer sheets,m3rw/m3p,1.91633333333333
+c06,tcf_use,ASI,216,Thailand,Veneer sheets,m3rw/m3p,1.91633333333333
+c06,tcf_use,ASI,221,Oman,Veneer sheets,m3rw/m3p,1.91633333333333
+c06,tcf_use,ASI,225,United Arab Emirates,Veneer sheets,m3rw/m3p,1.91633333333333
+c06,tcf_use,ASI,228,USSR,Veneer sheets,m3rw/m3p,1.91633333333333
+c06,tcf_use,ASI,235,Uzbekistan,Veneer sheets,m3rw/m3p,1.91633333333333
+c06,tcf_use,ASI,237,Viet Nam,Veneer sheets,m3rw/m3p,1.91633333333333
+c06,tcf_use,ASI,249,Yemen,Veneer sheets,m3rw/m3p,1.91633333333333
+c06,tcf_use,ASI,299,Palestine,Veneer sheets,m3rw/m3p,1.91633333333333
+c06,tcf_use,EUR,3,Albania,Veneer sheets,m3rw/m3p,2.2955
+c06,tcf_use,EUR,6,Andorra,Veneer sheets,m3rw/m3p,2.2955
+c06,tcf_use,EUR,11,Austria,Veneer sheets,m3rw/m3p,2.2955
+c06,tcf_use,EUR,15,Belgium-Luxembourg,Veneer sheets,m3rw/m3p,2.2955
+c06,tcf_use,EUR,27,Bulgaria,Veneer sheets,m3rw/m3p,2.2955
+c06,tcf_use,EUR,50,Cyprus,Veneer sheets,m3rw/m3p,2.2955
+c06,tcf_use,EUR,51,Czechoslovakia,Veneer sheets,m3rw/m3p,2.2955
+c06,tcf_use,EUR,54,Denmark,Veneer sheets,m3rw/m3p,2.2955
+c06,tcf_use,EUR,57,Belarus,Veneer sheets,m3rw/m3p,2.2955
+c06,tcf_use,EUR,63,Estonia,Veneer sheets,m3rw/m3p,2.2955
+c06,tcf_use,EUR,64,Faroe Islands,Veneer sheets,m3rw/m3p,2.2955
+c06,tcf_use,EUR,67,Finland,Veneer sheets,m3rw/m3p,2.421
+c06,tcf_use,EUR,68,France,Veneer sheets,m3rw/m3p,2.268
+c06,tcf_use,EUR,79,Germany,Veneer sheets,m3rw/m3p,2.2955
+c06,tcf_use,EUR,80,Bosnia and Herzegovina,Veneer sheets,m3rw/m3p,2.2955
+c06,tcf_use,EUR,82,Gibraltar,Veneer sheets,m3rw/m3p,2.2955
+c06,tcf_use,EUR,84,Greece,Veneer sheets,m3rw/m3p,2.2955
+c06,tcf_use,EUR,85,Greenland,Veneer sheets,m3rw/m3p,2.2955
+c06,tcf_use,EUR,94,Holy See,Veneer sheets,m3rw/m3p,2.2955
+c06,tcf_use,EUR,97,Hungary,Veneer sheets,m3rw/m3p,2.2955
+c06,tcf_use,EUR,98,Croatia,Veneer sheets,m3rw/m3p,2.46
+c06,tcf_use,EUR,99,Iceland,Veneer sheets,m3rw/m3p,2.2955
+c06,tcf_use,EUR,104,Ireland,Veneer sheets,m3rw/m3p,2.2955
+c06,tcf_use,EUR,106,Italy,Veneer sheets,m3rw/m3p,2.2955
+c06,tcf_use,EUR,119,Latvia,Veneer sheets,m3rw/m3p,2.2955
+c06,tcf_use,EUR,125,Liechtenstein,Veneer sheets,m3rw/m3p,2.2955
+c06,tcf_use,EUR,126,Lithuania,Veneer sheets,m3rw/m3p,2.2955
+c06,tcf_use,EUR,134,Malta,Veneer sheets,m3rw/m3p,2.2955
+c06,tcf_use,EUR,146,Republic of Moldova,Veneer sheets,m3rw/m3p,2.2955
+c06,tcf_use,EUR,150,Netherlands,Veneer sheets,m3rw/m3p,2.2955
+c06,tcf_use,EUR,154,North Macedonia,Veneer sheets,m3rw/m3p,2.2955
+c06,tcf_use,EUR,162,Norway,Veneer sheets,m3rw/m3p,2.2955
+c06,tcf_use,EUR,167,Czechia,Veneer sheets,m3rw/m3p,2.2955
+c06,tcf_use,EUR,173,Poland,Veneer sheets,m3rw/m3p,1.95
+c06,tcf_use,EUR,174,Portugal,Veneer sheets,m3rw/m3p,2.47
+c06,tcf_use,EUR,183,Romania,Veneer sheets,m3rw/m3p,2.2955
+c06,tcf_use,EUR,185,Russian Federation,Veneer sheets,m3rw/m3p,2.27
+c06,tcf_use,EUR,186,Serbia and Montenegro,Veneer sheets,m3rw/m3p,2.2955
+c06,tcf_use,EUR,192,San Marino,Veneer sheets,m3rw/m3p,2.2955
+c06,tcf_use,EUR,198,Slovenia,Veneer sheets,m3rw/m3p,2.5
+c06,tcf_use,EUR,199,Slovakia,Veneer sheets,m3rw/m3p,2.2955
+c06,tcf_use,EUR,203,Spain,Veneer sheets,m3rw/m3p,2.2955
+c06,tcf_use,EUR,210,Sweden,Veneer sheets,m3rw/m3p,2.2955
+c06,tcf_use,EUR,211,Switzerland,Veneer sheets,m3rw/m3p,2.2955
+c06,tcf_use,EUR,223,Turkey,Veneer sheets,m3rw/m3p,2.2955
+c06,tcf_use,EUR,229,United Kingdom,Veneer sheets,m3rw/m3p,2.2955
+c06,tcf_use,EUR,230,Ukraine,Veneer sheets,m3rw/m3p,2.025
+c06,tcf_use,EUR,248,Yugoslav SFR,Veneer sheets,m3rw/m3p,2.2955
+c06,tcf_use,EUR,255,Belgium,Veneer sheets,m3rw/m3p,2.2955
+c06,tcf_use,EUR,256,Luxembourg,Veneer sheets,m3rw/m3p,2.2955
+c06,tcf_use,EUR,272,Serbia,Veneer sheets,m3rw/m3p,2.2955
+c06,tcf_use,EUR,273,Montenegro,Veneer sheets,m3rw/m3p,2.2955
+c06,tcf_use,LAM,8,Antigua and Barbuda,Veneer sheets,m3rw/m3p,2.19333333333333
+c06,tcf_use,LAM,9,Argentina,Veneer sheets,m3rw/m3p,2.19333333333333
+c06,tcf_use,LAM,12,Bahamas,Veneer sheets,m3rw/m3p,2.19333333333333
+c06,tcf_use,LAM,14,Barbados,Veneer sheets,m3rw/m3p,2.19333333333333
+c06,tcf_use,LAM,17,Bermuda,Veneer sheets,m3rw/m3p,2.19333333333333
+c06,tcf_use,LAM,19,Bolivia (Plurinational State of),Veneer sheets,m3rw/m3p,2.19333333333333
+c06,tcf_use,LAM,21,Brazil,Veneer sheets,m3rw/m3p,2.19333333333333
+c06,tcf_use,LAM,22,Aruba,Veneer sheets,m3rw/m3p,2.19333333333333
+c06,tcf_use,LAM,23,Belize,Veneer sheets,m3rw/m3p,2.19333333333333
+c06,tcf_use,LAM,36,Cayman Islands,Veneer sheets,m3rw/m3p,2.19333333333333
+c06,tcf_use,LAM,40,Chile,Veneer sheets,m3rw/m3p,2.2
+c06,tcf_use,LAM,44,Colombia,Veneer sheets,m3rw/m3p,2.19333333333333
+c06,tcf_use,LAM,48,Costa Rica,Veneer sheets,m3rw/m3p,2.19333333333333
+c06,tcf_use,LAM,49,Cuba,Veneer sheets,m3rw/m3p,2.19333333333333
+c06,tcf_use,LAM,55,Dominica,Veneer sheets,m3rw/m3p,2.19333333333333
+c06,tcf_use,LAM,56,Dominican Republic,Veneer sheets,m3rw/m3p,2.19333333333333
+c06,tcf_use,LAM,58,Ecuador,Veneer sheets,m3rw/m3p,2.19333333333333
+c06,tcf_use,LAM,60,El Salvador,Veneer sheets,m3rw/m3p,2.19333333333333
+c06,tcf_use,LAM,65,Falkland Islands (Malvinas),Veneer sheets,m3rw/m3p,2.19333333333333
+c06,tcf_use,LAM,69,French Guyana,Veneer sheets,m3rw/m3p,2.19333333333333
+c06,tcf_use,LAM,86,Grenada,Veneer sheets,m3rw/m3p,2.19333333333333
+c06,tcf_use,LAM,87,Guadeloupe,Veneer sheets,m3rw/m3p,2.19333333333333
+c06,tcf_use,LAM,89,Guatemala,Veneer sheets,m3rw/m3p,2.19333333333333
+c06,tcf_use,LAM,91,Guyana,Veneer sheets,m3rw/m3p,2.19333333333333
+c06,tcf_use,LAM,93,Haiti,Veneer sheets,m3rw/m3p,2.19333333333333
+c06,tcf_use,LAM,95,Honduras,Veneer sheets,m3rw/m3p,2.19333333333333
+c06,tcf_use,LAM,109,Jamaica,Veneer sheets,m3rw/m3p,2.19333333333333
+c06,tcf_use,LAM,135,Martinique,Veneer sheets,m3rw/m3p,2.19333333333333
+c06,tcf_use,LAM,138,Mexico,Veneer sheets,m3rw/m3p,2.19333333333333
+c06,tcf_use,LAM,142,Montserrat,Veneer sheets,m3rw/m3p,2.19333333333333
+c06,tcf_use,LAM,151,Netherlands Antilles,Veneer sheets,m3rw/m3p,2.19333333333333
+c06,tcf_use,LAM,157,Nicaragua,Veneer sheets,m3rw/m3p,2.19333333333333
+c06,tcf_use,LAM,166,Panama,Veneer sheets,m3rw/m3p,2.19333333333333
+c06,tcf_use,LAM,169,Paraguay,Veneer sheets,m3rw/m3p,2.19333333333333
+c06,tcf_use,LAM,170,Peru,Veneer sheets,m3rw/m3p,2.19333333333333
+c06,tcf_use,LAM,188,Saint Kitts and Nevis,Veneer sheets,m3rw/m3p,2.19333333333333
+c06,tcf_use,LAM,189,Saint Lucia,Veneer sheets,m3rw/m3p,2.19333333333333
+c06,tcf_use,LAM,191,Saint Vincent and the Grenadines,Veneer sheets,m3rw/m3p,2.19333333333333
+c06,tcf_use,LAM,207,Suriname,Veneer sheets,m3rw/m3p,2
+c06,tcf_use,LAM,220,Trinidad and Tobago,Veneer sheets,m3rw/m3p,2.19333333333333
+c06,tcf_use,LAM,224,Turks and Caicos Islands,Veneer sheets,m3rw/m3p,2.19333333333333
+c06,tcf_use,LAM,234,Uruguay,Veneer sheets,m3rw/m3p,2.38
+c06,tcf_use,LAM,236,Venezuela (Bolivarian Republic of),Veneer sheets,m3rw/m3p,2.19333333333333
+c06,tcf_use,LAM,239,British Virgin Islands,Veneer sheets,m3rw/m3p,2.19333333333333
+c06,tcf_use,LAM,258,Anguilla,Veneer sheets,m3rw/m3p,2.19333333333333
+c06,tcf_use,LAM,279,Curaçao,Veneer sheets,m3rw/m3p,2.19333333333333
+c06,tcf_use,LAM,281,Saint-Martin (French Part),Veneer sheets,m3rw/m3p,2.19333333333333
+c06,tcf_use,NAM,33,Canada,Veneer sheets,m3rw/m3p,1.9161
+c06,tcf_use,NAM,190,Saint Pierre and Miquelon,Veneer sheets,m3rw/m3p,1.8943
+c06,tcf_use,NAM,231,United States of America,Veneer sheets,m3rw/m3p,1.8725
+c06,tcf_use,OCE,5,American Samoa,Veneer sheets,m3rw/m3p,1.79
+c06,tcf_use,OCE,10,Australia,Veneer sheets,m3rw/m3p,1.79
+c06,tcf_use,OCE,25,Solomon Islands,Veneer sheets,m3rw/m3p,1.79
+c06,tcf_use,OCE,42,Christmas Island,Veneer sheets,m3rw/m3p,1.79
+c06,tcf_use,OCE,43,Cocos (Keeling) Islands,Veneer sheets,m3rw/m3p,1.79
+c06,tcf_use,OCE,47,Cook Islands,Veneer sheets,m3rw/m3p,1.79
+c06,tcf_use,OCE,66,Fiji,Veneer sheets,m3rw/m3p,1.79
+c06,tcf_use,OCE,70,French Polynesia,Veneer sheets,m3rw/m3p,1.79
+c06,tcf_use,OCE,71,French Southern and Antarctic Territories,Veneer sheets,m3rw/m3p,1.79
+c06,tcf_use,OCE,83,Kiribati,Veneer sheets,m3rw/m3p,1.79
+c06,tcf_use,OCE,88,Guam,Veneer sheets,m3rw/m3p,1.79
+c06,tcf_use,OCE,127,Marshall Islands,Veneer sheets,m3rw/m3p,1.79
+c06,tcf_use,OCE,145,Micronesia (Federated States of),Veneer sheets,m3rw/m3p,1.79
+c06,tcf_use,OCE,148,Nauru,Veneer sheets,m3rw/m3p,1.79
+c06,tcf_use,OCE,153,New Caledonia,Veneer sheets,m3rw/m3p,1.79
+c06,tcf_use,OCE,155,Vanuatu,Veneer sheets,m3rw/m3p,1.79
+c06,tcf_use,OCE,156,New Zealand,Veneer sheets,m3rw/m3p,1.79
+c06,tcf_use,OCE,160,Niue,Veneer sheets,m3rw/m3p,1.79
+c06,tcf_use,OCE,161,Norfolk Island,Veneer sheets,m3rw/m3p,1.79
+c06,tcf_use,OCE,163,Northern Mariana Islands,Veneer sheets,m3rw/m3p,1.79
+c06,tcf_use,OCE,168,Papua New Guinea,Veneer sheets,m3rw/m3p,1.79
+c06,tcf_use,OCE,172,Pitcairn Islands,Veneer sheets,m3rw/m3p,1.79
+c06,tcf_use,OCE,180,Palau,Veneer sheets,m3rw/m3p,1.79
+c06,tcf_use,OCE,218,Tokelau,Veneer sheets,m3rw/m3p,1.79
+c06,tcf_use,OCE,227,Tuvalu,Veneer sheets,m3rw/m3p,1.79
+c06,tcf_use,OCE,242,Wake Island,Veneer sheets,m3rw/m3p,1.79
+c06,tcf_use,OCE,243,Wallis and Futuna Islands,Veneer sheets,m3rw/m3p,1.79
+c06,tcf_use,OCE,244,Samoa,Veneer sheets,m3rw/m3p,1.79
+c06,tcf_use,ROW,999,RoW,Veneer sheets,m3rw/m3p,1.98991111111111
+c07,tcf_shipping_weight,AFR,4,Algeria,Plywood,kg/m3,615.48880952381
+c07,tcf_shipping_weight,AFR,7,Angola,Plywood,kg/m3,615.48880952381
+c07,tcf_shipping_weight,AFR,20,Botswana,Plywood,kg/m3,615.48880952381
+c07,tcf_shipping_weight,AFR,29,Burundi,Plywood,kg/m3,615.48880952381
+c07,tcf_shipping_weight,AFR,32,Cameroon,Plywood,kg/m3,615.48880952381
+c07,tcf_shipping_weight,AFR,35,Cabo Verde,Plywood,kg/m3,615.48880952381
+c07,tcf_shipping_weight,AFR,37,Central African Republic,Plywood,kg/m3,615.48880952381
+c07,tcf_shipping_weight,AFR,39,Chad,Plywood,kg/m3,615.48880952381
+c07,tcf_shipping_weight,AFR,45,Comoros,Plywood,kg/m3,615.48880952381
+c07,tcf_shipping_weight,AFR,46,Congo,Plywood,kg/m3,615.48880952381
+c07,tcf_shipping_weight,AFR,53,Benin,Plywood,kg/m3,615.48880952381
+c07,tcf_shipping_weight,AFR,59,Egypt,Plywood,kg/m3,615.48880952381
+c07,tcf_shipping_weight,AFR,61,Equatorial Guinea,Plywood,kg/m3,615.48880952381
+c07,tcf_shipping_weight,AFR,72,Djibouti,Plywood,kg/m3,615.48880952381
+c07,tcf_shipping_weight,AFR,74,Gabon,Plywood,kg/m3,615.48880952381
+c07,tcf_shipping_weight,AFR,75,Gambia,Plywood,kg/m3,615.48880952381
+c07,tcf_shipping_weight,AFR,81,Ghana,Plywood,kg/m3,615.48880952381
+c07,tcf_shipping_weight,AFR,90,Guinea,Plywood,kg/m3,615.48880952381
+c07,tcf_shipping_weight,AFR,107,Cote d'Ivoire,Plywood,kg/m3,615.48880952381
+c07,tcf_shipping_weight,AFR,114,Kenya,Plywood,kg/m3,615.48880952381
+c07,tcf_shipping_weight,AFR,122,Lesotho,Plywood,kg/m3,615.48880952381
+c07,tcf_shipping_weight,AFR,123,Liberia,Plywood,kg/m3,615.48880952381
+c07,tcf_shipping_weight,AFR,124,Libya,Plywood,kg/m3,615.48880952381
+c07,tcf_shipping_weight,AFR,129,Madagascar,Plywood,kg/m3,615.48880952381
+c07,tcf_shipping_weight,AFR,130,Malawi,Plywood,kg/m3,615.48880952381
+c07,tcf_shipping_weight,AFR,133,Mali,Plywood,kg/m3,615.48880952381
+c07,tcf_shipping_weight,AFR,136,Mauritania,Plywood,kg/m3,615.48880952381
+c07,tcf_shipping_weight,AFR,137,Mauritius,Plywood,kg/m3,615.48880952381
+c07,tcf_shipping_weight,AFR,143,Morocco,Plywood,kg/m3,615.48880952381
+c07,tcf_shipping_weight,AFR,144,Mozambique,Plywood,kg/m3,615.48880952381
+c07,tcf_shipping_weight,AFR,147,Namibia,Plywood,kg/m3,615.48880952381
+c07,tcf_shipping_weight,AFR,158,Niger,Plywood,kg/m3,615.48880952381
+c07,tcf_shipping_weight,AFR,159,Nigeria,Plywood,kg/m3,615.48880952381
+c07,tcf_shipping_weight,AFR,175,Guinea-Bissau,Plywood,kg/m3,615.48880952381
+c07,tcf_shipping_weight,AFR,178,Eritrea,Plywood,kg/m3,615.48880952381
+c07,tcf_shipping_weight,AFR,181,Zimbabwe,Plywood,kg/m3,615.48880952381
+c07,tcf_shipping_weight,AFR,182,Reunion,Plywood,kg/m3,615.48880952381
+c07,tcf_shipping_weight,AFR,184,Rwanda,Plywood,kg/m3,615.48880952381
+c07,tcf_shipping_weight,AFR,187,"Saint Helena, Ascension and Tristan da Cunha",Plywood,kg/m3,615.48880952381
+c07,tcf_shipping_weight,AFR,193,Sao Tome and Principe,Plywood,kg/m3,615.48880952381
+c07,tcf_shipping_weight,AFR,195,Senegal,Plywood,kg/m3,615.48880952381
+c07,tcf_shipping_weight,AFR,196,Seychelles,Plywood,kg/m3,615.48880952381
+c07,tcf_shipping_weight,AFR,197,Sierra Leone,Plywood,kg/m3,615.48880952381
+c07,tcf_shipping_weight,AFR,201,Somalia,Plywood,kg/m3,615.48880952381
+c07,tcf_shipping_weight,AFR,202,South Africa,Plywood,kg/m3,615.48880952381
+c07,tcf_shipping_weight,AFR,205,Western Sahara,Plywood,kg/m3,615.48880952381
+c07,tcf_shipping_weight,AFR,209,Eswatini,Plywood,kg/m3,615.48880952381
+c07,tcf_shipping_weight,AFR,215,United Republic of Tanzania,Plywood,kg/m3,615.48880952381
+c07,tcf_shipping_weight,AFR,217,Togo,Plywood,kg/m3,615.48880952381
+c07,tcf_shipping_weight,AFR,219,Tonga,Plywood,kg/m3,615.48880952381
+c07,tcf_shipping_weight,AFR,222,Tunisia,Plywood,kg/m3,615.48880952381
+c07,tcf_shipping_weight,AFR,226,Uganda,Plywood,kg/m3,615.48880952381
+c07,tcf_shipping_weight,AFR,233,Burkina Faso,Plywood,kg/m3,615.48880952381
+c07,tcf_shipping_weight,AFR,238,Ethiopia,Plywood,kg/m3,615.48880952381
+c07,tcf_shipping_weight,AFR,250,Democratic Republic of the Congo,Plywood,kg/m3,615.48880952381
+c07,tcf_shipping_weight,AFR,251,Zambia,Plywood,kg/m3,615.48880952381
+c07,tcf_shipping_weight,AFR,270,Mayotte,Plywood,kg/m3,615.48880952381
+c07,tcf_shipping_weight,AFR,276,Sudan,Plywood,kg/m3,615.48880952381
+c07,tcf_shipping_weight,AFR,277,South Sudan,Plywood,kg/m3,615.48880952381
+c07,tcf_shipping_weight,ASI,1,Armenia,Plywood,kg/m3,649.85
+c07,tcf_shipping_weight,ASI,2,Afghanistan,Plywood,kg/m3,649.85
+c07,tcf_shipping_weight,ASI,13,Bahrain,Plywood,kg/m3,649.85
+c07,tcf_shipping_weight,ASI,16,Bangladesh,Plywood,kg/m3,649.85
+c07,tcf_shipping_weight,ASI,18,Bhutan,Plywood,kg/m3,649.85
+c07,tcf_shipping_weight,ASI,24,British Indian Ocean Territory,Plywood,kg/m3,649.85
+c07,tcf_shipping_weight,ASI,26,Brunei Darussalam,Plywood,kg/m3,649.85
+c07,tcf_shipping_weight,ASI,28,Myanmar,Plywood,kg/m3,649.85
+c07,tcf_shipping_weight,ASI,38,Sri Lanka,Plywood,kg/m3,649.85
+c07,tcf_shipping_weight,ASI,41,"China, mainland",Plywood,kg/m3,649.85
+c07,tcf_shipping_weight,ASI,52,Azerbaijan,Plywood,kg/m3,649.85
+c07,tcf_shipping_weight,ASI,73,Georgia,Plywood,kg/m3,649.85
+c07,tcf_shipping_weight,ASI,96,"China, Hong Kong SAR",Plywood,kg/m3,649.85
+c07,tcf_shipping_weight,ASI,100,India,Plywood,kg/m3,649.85
+c07,tcf_shipping_weight,ASI,101,Indonesia,Plywood,kg/m3,649.7
+c07,tcf_shipping_weight,ASI,102,Iran (Islamic Republic of),Plywood,kg/m3,649.85
+c07,tcf_shipping_weight,ASI,103,Iraq,Plywood,kg/m3,649.85
+c07,tcf_shipping_weight,ASI,105,Israel,Plywood,kg/m3,649.85
+c07,tcf_shipping_weight,ASI,108,Kazakhstan,Plywood,kg/m3,649.85
+c07,tcf_shipping_weight,ASI,110,Japan,Plywood,kg/m3,649.85
+c07,tcf_shipping_weight,ASI,112,Jordan,Plywood,kg/m3,649.85
+c07,tcf_shipping_weight,ASI,113,Kyrgyzstan,Plywood,kg/m3,649.85
+c07,tcf_shipping_weight,ASI,115,Cambodia,Plywood,kg/m3,649.85
+c07,tcf_shipping_weight,ASI,116,Democratic People's Republic of Korea,Plywood,kg/m3,649.85
+c07,tcf_shipping_weight,ASI,117,Republic of Korea,Plywood,kg/m3,649.85
+c07,tcf_shipping_weight,ASI,118,Kuwait,Plywood,kg/m3,649.85
+c07,tcf_shipping_weight,ASI,120,Lao People's Democratic Republic,Plywood,kg/m3,649.85
+c07,tcf_shipping_weight,ASI,121,Lebanon,Plywood,kg/m3,649.85
+c07,tcf_shipping_weight,ASI,128,"China, Macao SAR",Plywood,kg/m3,649.85
+c07,tcf_shipping_weight,ASI,131,Malaysia,Plywood,kg/m3,650
+c07,tcf_shipping_weight,ASI,132,Maldives,Plywood,kg/m3,649.85
+c07,tcf_shipping_weight,ASI,141,Mongolia,Plywood,kg/m3,649.85
+c07,tcf_shipping_weight,ASI,149,Nepal,Plywood,kg/m3,649.85
+c07,tcf_shipping_weight,ASI,164,Pacific Islands Trust Territory,Plywood,kg/m3,649.85
+c07,tcf_shipping_weight,ASI,165,Pakistan,Plywood,kg/m3,649.85
+c07,tcf_shipping_weight,ASI,171,Philippines,Plywood,kg/m3,649.85
+c07,tcf_shipping_weight,ASI,176,Timor-Leste,Plywood,kg/m3,649.85
+c07,tcf_shipping_weight,ASI,179,Qatar,Plywood,kg/m3,649.85
+c07,tcf_shipping_weight,ASI,194,Saudi Arabia,Plywood,kg/m3,649.85
+c07,tcf_shipping_weight,ASI,200,Singapore,Plywood,kg/m3,649.85
+c07,tcf_shipping_weight,ASI,208,Tajikistan,Plywood,kg/m3,649.85
+c07,tcf_shipping_weight,ASI,212,Syrian Arab Republic,Plywood,kg/m3,649.85
+c07,tcf_shipping_weight,ASI,213,Turkmenistan,Plywood,kg/m3,649.85
+c07,tcf_shipping_weight,ASI,214,"China, Taiwan Province of",Plywood,kg/m3,649.85
+c07,tcf_shipping_weight,ASI,216,Thailand,Plywood,kg/m3,649.85
+c07,tcf_shipping_weight,ASI,221,Oman,Plywood,kg/m3,649.85
+c07,tcf_shipping_weight,ASI,225,United Arab Emirates,Plywood,kg/m3,649.85
+c07,tcf_shipping_weight,ASI,228,USSR,Plywood,kg/m3,649.85
+c07,tcf_shipping_weight,ASI,235,Uzbekistan,Plywood,kg/m3,649.85
+c07,tcf_shipping_weight,ASI,237,Viet Nam,Plywood,kg/m3,649.85
+c07,tcf_shipping_weight,ASI,249,Yemen,Plywood,kg/m3,649.85
+c07,tcf_shipping_weight,ASI,299,Palestine,Plywood,kg/m3,649.85
+c07,tcf_shipping_weight,EUR,3,Albania,Plywood,kg/m3,613.071428571429
+c07,tcf_shipping_weight,EUR,6,Andorra,Plywood,kg/m3,613.071428571429
+c07,tcf_shipping_weight,EUR,11,Austria,Plywood,kg/m3,613.071428571429
+c07,tcf_shipping_weight,EUR,15,Belgium-Luxembourg,Plywood,kg/m3,613.071428571429
+c07,tcf_shipping_weight,EUR,27,Bulgaria,Plywood,kg/m3,613.071428571429
+c07,tcf_shipping_weight,EUR,50,Cyprus,Plywood,kg/m3,613.071428571429
+c07,tcf_shipping_weight,EUR,51,Czechoslovakia,Plywood,kg/m3,613.071428571429
+c07,tcf_shipping_weight,EUR,54,Denmark,Plywood,kg/m3,613.071428571429
+c07,tcf_shipping_weight,EUR,57,Belarus,Plywood,kg/m3,613.071428571429
+c07,tcf_shipping_weight,EUR,63,Estonia,Plywood,kg/m3,613.071428571429
+c07,tcf_shipping_weight,EUR,64,Faroe Islands,Plywood,kg/m3,613.071428571429
+c07,tcf_shipping_weight,EUR,67,Finland,Plywood,kg/m3,578.5
+c07,tcf_shipping_weight,EUR,68,France,Plywood,kg/m3,550
+c07,tcf_shipping_weight,EUR,79,Germany,Plywood,kg/m3,613.071428571429
+c07,tcf_shipping_weight,EUR,80,Bosnia and Herzegovina,Plywood,kg/m3,613.071428571429
+c07,tcf_shipping_weight,EUR,82,Gibraltar,Plywood,kg/m3,613.071428571429
+c07,tcf_shipping_weight,EUR,84,Greece,Plywood,kg/m3,613.071428571429
+c07,tcf_shipping_weight,EUR,85,Greenland,Plywood,kg/m3,613.071428571429
+c07,tcf_shipping_weight,EUR,94,Holy See,Plywood,kg/m3,613.071428571429
+c07,tcf_shipping_weight,EUR,97,Hungary,Plywood,kg/m3,613.071428571429
+c07,tcf_shipping_weight,EUR,98,Croatia,Plywood,kg/m3,613.071428571429
+c07,tcf_shipping_weight,EUR,99,Iceland,Plywood,kg/m3,613.071428571429
+c07,tcf_shipping_weight,EUR,104,Ireland,Plywood,kg/m3,650
+c07,tcf_shipping_weight,EUR,106,Italy,Plywood,kg/m3,613.071428571429
+c07,tcf_shipping_weight,EUR,119,Latvia,Plywood,kg/m3,613.071428571429
+c07,tcf_shipping_weight,EUR,125,Liechtenstein,Plywood,kg/m3,613.071428571429
+c07,tcf_shipping_weight,EUR,126,Lithuania,Plywood,kg/m3,613.071428571429
+c07,tcf_shipping_weight,EUR,134,Malta,Plywood,kg/m3,613.071428571429
+c07,tcf_shipping_weight,EUR,146,Republic of Moldova,Plywood,kg/m3,613.071428571429
+c07,tcf_shipping_weight,EUR,150,Netherlands,Plywood,kg/m3,613.071428571429
+c07,tcf_shipping_weight,EUR,154,North Macedonia,Plywood,kg/m3,613.071428571429
+c07,tcf_shipping_weight,EUR,162,Norway,Plywood,kg/m3,613.071428571429
+c07,tcf_shipping_weight,EUR,167,Czechia,Plywood,kg/m3,613.071428571429
+c07,tcf_shipping_weight,EUR,173,Poland,Plywood,kg/m3,650
+c07,tcf_shipping_weight,EUR,174,Portugal,Plywood,kg/m3,613.071428571429
+c07,tcf_shipping_weight,EUR,183,Romania,Plywood,kg/m3,613.071428571429
+c07,tcf_shipping_weight,EUR,185,Russian Federation,Plywood,kg/m3,650
+c07,tcf_shipping_weight,EUR,186,Serbia and Montenegro,Plywood,kg/m3,613.071428571429
+c07,tcf_shipping_weight,EUR,192,San Marino,Plywood,kg/m3,613.071428571429
+c07,tcf_shipping_weight,EUR,198,Slovenia,Plywood,kg/m3,613.071428571429
+c07,tcf_shipping_weight,EUR,199,Slovakia,Plywood,kg/m3,564
+c07,tcf_shipping_weight,EUR,203,Spain,Plywood,kg/m3,613.071428571429
+c07,tcf_shipping_weight,EUR,210,Sweden,Plywood,kg/m3,613.071428571429
+c07,tcf_shipping_weight,EUR,211,Switzerland,Plywood,kg/m3,613.071428571429
+c07,tcf_shipping_weight,EUR,223,Turkey,Plywood,kg/m3,613.071428571429
+c07,tcf_shipping_weight,EUR,229,United Kingdom,Plywood,kg/m3,649
+c07,tcf_shipping_weight,EUR,230,Ukraine,Plywood,kg/m3,613.071428571429
+c07,tcf_shipping_weight,EUR,248,Yugoslav SFR,Plywood,kg/m3,613.071428571429
+c07,tcf_shipping_weight,EUR,255,Belgium,Plywood,kg/m3,613.071428571429
+c07,tcf_shipping_weight,EUR,256,Luxembourg,Plywood,kg/m3,613.071428571429
+c07,tcf_shipping_weight,EUR,272,Serbia,Plywood,kg/m3,613.071428571429
+c07,tcf_shipping_weight,EUR,273,Montenegro,Plywood,kg/m3,613.071428571429
+c07,tcf_shipping_weight,LAM,8,Antigua and Barbuda,Plywood,kg/m3,583.545
+c07,tcf_shipping_weight,LAM,9,Argentina,Plywood,kg/m3,583.545
+c07,tcf_shipping_weight,LAM,12,Bahamas,Plywood,kg/m3,583.545
+c07,tcf_shipping_weight,LAM,14,Barbados,Plywood,kg/m3,583.545
+c07,tcf_shipping_weight,LAM,17,Bermuda,Plywood,kg/m3,583.545
+c07,tcf_shipping_weight,LAM,19,Bolivia (Plurinational State of),Plywood,kg/m3,583.545
+c07,tcf_shipping_weight,LAM,21,Brazil,Plywood,kg/m3,445
+c07,tcf_shipping_weight,LAM,22,Aruba,Plywood,kg/m3,583.545
+c07,tcf_shipping_weight,LAM,23,Belize,Plywood,kg/m3,583.545
+c07,tcf_shipping_weight,LAM,36,Cayman Islands,Plywood,kg/m3,583.545
+c07,tcf_shipping_weight,LAM,40,Chile,Plywood,kg/m3,583.545
+c07,tcf_shipping_weight,LAM,44,Colombia,Plywood,kg/m3,583.545
+c07,tcf_shipping_weight,LAM,48,Costa Rica,Plywood,kg/m3,583.545
+c07,tcf_shipping_weight,LAM,49,Cuba,Plywood,kg/m3,583.545
+c07,tcf_shipping_weight,LAM,55,Dominica,Plywood,kg/m3,583.545
+c07,tcf_shipping_weight,LAM,56,Dominican Republic,Plywood,kg/m3,583.545
+c07,tcf_shipping_weight,LAM,58,Ecuador,Plywood,kg/m3,583.545
+c07,tcf_shipping_weight,LAM,60,El Salvador,Plywood,kg/m3,583.545
+c07,tcf_shipping_weight,LAM,65,Falkland Islands (Malvinas),Plywood,kg/m3,583.545
+c07,tcf_shipping_weight,LAM,69,French Guyana,Plywood,kg/m3,583.545
+c07,tcf_shipping_weight,LAM,86,Grenada,Plywood,kg/m3,583.545
+c07,tcf_shipping_weight,LAM,87,Guadeloupe,Plywood,kg/m3,583.545
+c07,tcf_shipping_weight,LAM,89,Guatemala,Plywood,kg/m3,583.545
+c07,tcf_shipping_weight,LAM,91,Guyana,Plywood,kg/m3,764
+c07,tcf_shipping_weight,LAM,93,Haiti,Plywood,kg/m3,583.545
+c07,tcf_shipping_weight,LAM,95,Honduras,Plywood,kg/m3,583.545
+c07,tcf_shipping_weight,LAM,109,Jamaica,Plywood,kg/m3,583.545
+c07,tcf_shipping_weight,LAM,135,Martinique,Plywood,kg/m3,583.545
+c07,tcf_shipping_weight,LAM,138,Mexico,Plywood,kg/m3,595
+c07,tcf_shipping_weight,LAM,142,Montserrat,Plywood,kg/m3,583.545
+c07,tcf_shipping_weight,LAM,151,Netherlands Antilles,Plywood,kg/m3,583.545
+c07,tcf_shipping_weight,LAM,157,Nicaragua,Plywood,kg/m3,583.545
+c07,tcf_shipping_weight,LAM,166,Panama,Plywood,kg/m3,583.545
+c07,tcf_shipping_weight,LAM,169,Paraguay,Plywood,kg/m3,583.545
+c07,tcf_shipping_weight,LAM,170,Peru,Plywood,kg/m3,583.545
+c07,tcf_shipping_weight,LAM,188,Saint Kitts and Nevis,Plywood,kg/m3,583.545
+c07,tcf_shipping_weight,LAM,189,Saint Lucia,Plywood,kg/m3,583.545
+c07,tcf_shipping_weight,LAM,191,Saint Vincent and the Grenadines,Plywood,kg/m3,583.545
+c07,tcf_shipping_weight,LAM,207,Suriname,Plywood,kg/m3,583.545
+c07,tcf_shipping_weight,LAM,220,Trinidad and Tobago,Plywood,kg/m3,583.545
+c07,tcf_shipping_weight,LAM,224,Turks and Caicos Islands,Plywood,kg/m3,583.545
+c07,tcf_shipping_weight,LAM,234,Uruguay,Plywood,kg/m3,530.18
+c07,tcf_shipping_weight,LAM,236,Venezuela (Bolivarian Republic of),Plywood,kg/m3,583.545
+c07,tcf_shipping_weight,LAM,239,British Virgin Islands,Plywood,kg/m3,583.545
+c07,tcf_shipping_weight,LAM,258,Anguilla,Plywood,kg/m3,583.545
+c07,tcf_shipping_weight,LAM,279,Curaçao,Plywood,kg/m3,583.545
+c07,tcf_shipping_weight,LAM,281,Saint-Martin (French Part),Plywood,kg/m3,583.545
+c07,tcf_shipping_weight,NAM,33,Canada,Plywood,kg/m3,615.48880952381
+c07,tcf_shipping_weight,NAM,190,Saint Pierre and Miquelon,Plywood,kg/m3,615.48880952381
+c07,tcf_shipping_weight,NAM,231,United States of America,Plywood,kg/m3,615.48880952381
+c07,tcf_shipping_weight,OCE,5,American Samoa,Plywood,kg/m3,615.48880952381
+c07,tcf_shipping_weight,OCE,10,Australia,Plywood,kg/m3,615.48880952381
+c07,tcf_shipping_weight,OCE,25,Solomon Islands,Plywood,kg/m3,615.48880952381
+c07,tcf_shipping_weight,OCE,42,Christmas Island,Plywood,kg/m3,615.48880952381
+c07,tcf_shipping_weight,OCE,43,Cocos (Keeling) Islands,Plywood,kg/m3,615.48880952381
+c07,tcf_shipping_weight,OCE,47,Cook Islands,Plywood,kg/m3,615.48880952381
+c07,tcf_shipping_weight,OCE,66,Fiji,Plywood,kg/m3,615.48880952381
+c07,tcf_shipping_weight,OCE,70,French Polynesia,Plywood,kg/m3,615.48880952381
+c07,tcf_shipping_weight,OCE,71,French Southern and Antarctic Territories,Plywood,kg/m3,615.48880952381
+c07,tcf_shipping_weight,OCE,83,Kiribati,Plywood,kg/m3,615.48880952381
+c07,tcf_shipping_weight,OCE,88,Guam,Plywood,kg/m3,615.48880952381
+c07,tcf_shipping_weight,OCE,127,Marshall Islands,Plywood,kg/m3,615.48880952381
+c07,tcf_shipping_weight,OCE,145,Micronesia (Federated States of),Plywood,kg/m3,615.48880952381
+c07,tcf_shipping_weight,OCE,148,Nauru,Plywood,kg/m3,615.48880952381
+c07,tcf_shipping_weight,OCE,153,New Caledonia,Plywood,kg/m3,615.48880952381
+c07,tcf_shipping_weight,OCE,155,Vanuatu,Plywood,kg/m3,615.48880952381
+c07,tcf_shipping_weight,OCE,156,New Zealand,Plywood,kg/m3,615.48880952381
+c07,tcf_shipping_weight,OCE,160,Niue,Plywood,kg/m3,615.48880952381
+c07,tcf_shipping_weight,OCE,161,Norfolk Island,Plywood,kg/m3,615.48880952381
+c07,tcf_shipping_weight,OCE,163,Northern Mariana Islands,Plywood,kg/m3,615.48880952381
+c07,tcf_shipping_weight,OCE,168,Papua New Guinea,Plywood,kg/m3,615.48880952381
+c07,tcf_shipping_weight,OCE,172,Pitcairn Islands,Plywood,kg/m3,615.48880952381
+c07,tcf_shipping_weight,OCE,180,Palau,Plywood,kg/m3,615.48880952381
+c07,tcf_shipping_weight,OCE,218,Tokelau,Plywood,kg/m3,615.48880952381
+c07,tcf_shipping_weight,OCE,227,Tuvalu,Plywood,kg/m3,615.48880952381
+c07,tcf_shipping_weight,OCE,242,Wake Island,Plywood,kg/m3,615.48880952381
+c07,tcf_shipping_weight,OCE,243,Wallis and Futuna Islands,Plywood,kg/m3,615.48880952381
+c07,tcf_shipping_weight,OCE,244,Samoa,Plywood,kg/m3,615.48880952381
+c07,tcf_shipping_weight,ROW,999,RoW,Plywood,kg/m3,615.48880952381
+c07,tcf_use,AFR,4,Algeria,Plywood,m3rw/m3p,1.85
+c07,tcf_use,AFR,7,Angola,Plywood,m3rw/m3p,1.85
+c07,tcf_use,AFR,20,Botswana,Plywood,m3rw/m3p,1.85
+c07,tcf_use,AFR,29,Burundi,Plywood,m3rw/m3p,1.85
+c07,tcf_use,AFR,32,Cameroon,Plywood,m3rw/m3p,1.85
+c07,tcf_use,AFR,35,Cabo Verde,Plywood,m3rw/m3p,1.85
+c07,tcf_use,AFR,37,Central African Republic,Plywood,m3rw/m3p,1.85
+c07,tcf_use,AFR,39,Chad,Plywood,m3rw/m3p,1.85
+c07,tcf_use,AFR,45,Comoros,Plywood,m3rw/m3p,1.85
+c07,tcf_use,AFR,46,Congo,Plywood,m3rw/m3p,1.85
+c07,tcf_use,AFR,53,Benin,Plywood,m3rw/m3p,1.85
+c07,tcf_use,AFR,59,Egypt,Plywood,m3rw/m3p,1.85
+c07,tcf_use,AFR,61,Equatorial Guinea,Plywood,m3rw/m3p,1.85
+c07,tcf_use,AFR,72,Djibouti,Plywood,m3rw/m3p,1.85
+c07,tcf_use,AFR,74,Gabon,Plywood,m3rw/m3p,1.85
+c07,tcf_use,AFR,75,Gambia,Plywood,m3rw/m3p,1.85
+c07,tcf_use,AFR,81,Ghana,Plywood,m3rw/m3p,1.85
+c07,tcf_use,AFR,90,Guinea,Plywood,m3rw/m3p,1.85
+c07,tcf_use,AFR,107,Cote d'Ivoire,Plywood,m3rw/m3p,1.85
+c07,tcf_use,AFR,114,Kenya,Plywood,m3rw/m3p,1.85
+c07,tcf_use,AFR,122,Lesotho,Plywood,m3rw/m3p,1.85
+c07,tcf_use,AFR,123,Liberia,Plywood,m3rw/m3p,1.85
+c07,tcf_use,AFR,124,Libya,Plywood,m3rw/m3p,1.85
+c07,tcf_use,AFR,129,Madagascar,Plywood,m3rw/m3p,1.85
+c07,tcf_use,AFR,130,Malawi,Plywood,m3rw/m3p,1.85
+c07,tcf_use,AFR,133,Mali,Plywood,m3rw/m3p,1.85
+c07,tcf_use,AFR,136,Mauritania,Plywood,m3rw/m3p,1.85
+c07,tcf_use,AFR,137,Mauritius,Plywood,m3rw/m3p,1.85
+c07,tcf_use,AFR,143,Morocco,Plywood,m3rw/m3p,1.85
+c07,tcf_use,AFR,144,Mozambique,Plywood,m3rw/m3p,1.85
+c07,tcf_use,AFR,147,Namibia,Plywood,m3rw/m3p,1.85
+c07,tcf_use,AFR,158,Niger,Plywood,m3rw/m3p,1.85
+c07,tcf_use,AFR,159,Nigeria,Plywood,m3rw/m3p,1.85
+c07,tcf_use,AFR,175,Guinea-Bissau,Plywood,m3rw/m3p,1.85
+c07,tcf_use,AFR,178,Eritrea,Plywood,m3rw/m3p,1.85
+c07,tcf_use,AFR,181,Zimbabwe,Plywood,m3rw/m3p,1.85
+c07,tcf_use,AFR,182,Reunion,Plywood,m3rw/m3p,1.85
+c07,tcf_use,AFR,184,Rwanda,Plywood,m3rw/m3p,1.85
+c07,tcf_use,AFR,187,"Saint Helena, Ascension and Tristan da Cunha",Plywood,m3rw/m3p,1.85
+c07,tcf_use,AFR,193,Sao Tome and Principe,Plywood,m3rw/m3p,1.85
+c07,tcf_use,AFR,195,Senegal,Plywood,m3rw/m3p,1.85
+c07,tcf_use,AFR,196,Seychelles,Plywood,m3rw/m3p,1.85
+c07,tcf_use,AFR,197,Sierra Leone,Plywood,m3rw/m3p,1.85
+c07,tcf_use,AFR,201,Somalia,Plywood,m3rw/m3p,1.85
+c07,tcf_use,AFR,202,South Africa,Plywood,m3rw/m3p,1.85
+c07,tcf_use,AFR,205,Western Sahara,Plywood,m3rw/m3p,1.85
+c07,tcf_use,AFR,209,Eswatini,Plywood,m3rw/m3p,1.85
+c07,tcf_use,AFR,215,United Republic of Tanzania,Plywood,m3rw/m3p,1.85
+c07,tcf_use,AFR,217,Togo,Plywood,m3rw/m3p,1.85
+c07,tcf_use,AFR,219,Tonga,Plywood,m3rw/m3p,1.85
+c07,tcf_use,AFR,222,Tunisia,Plywood,m3rw/m3p,1.85
+c07,tcf_use,AFR,226,Uganda,Plywood,m3rw/m3p,1.85
+c07,tcf_use,AFR,233,Burkina Faso,Plywood,m3rw/m3p,1.85
+c07,tcf_use,AFR,238,Ethiopia,Plywood,m3rw/m3p,1.85
+c07,tcf_use,AFR,250,Democratic Republic of the Congo,Plywood,m3rw/m3p,1.85
+c07,tcf_use,AFR,251,Zambia,Plywood,m3rw/m3p,1.85
+c07,tcf_use,AFR,270,Mayotte,Plywood,m3rw/m3p,1.85
+c07,tcf_use,AFR,276,Sudan,Plywood,m3rw/m3p,1.85
+c07,tcf_use,AFR,277,South Sudan,Plywood,m3rw/m3p,1.85
+c07,tcf_use,ASI,1,Armenia,Plywood,m3rw/m3p,1.91633333333333
+c07,tcf_use,ASI,2,Afghanistan,Plywood,m3rw/m3p,1.91633333333333
+c07,tcf_use,ASI,13,Bahrain,Plywood,m3rw/m3p,1.91633333333333
+c07,tcf_use,ASI,16,Bangladesh,Plywood,m3rw/m3p,1.91633333333333
+c07,tcf_use,ASI,18,Bhutan,Plywood,m3rw/m3p,1.91633333333333
+c07,tcf_use,ASI,24,British Indian Ocean Territory,Plywood,m3rw/m3p,1.91633333333333
+c07,tcf_use,ASI,26,Brunei Darussalam,Plywood,m3rw/m3p,1.91633333333333
+c07,tcf_use,ASI,28,Myanmar,Plywood,m3rw/m3p,1.91633333333333
+c07,tcf_use,ASI,38,Sri Lanka,Plywood,m3rw/m3p,1.91633333333333
+c07,tcf_use,ASI,41,"China, mainland",Plywood,m3rw/m3p,2.03
+c07,tcf_use,ASI,52,Azerbaijan,Plywood,m3rw/m3p,1.91633333333333
+c07,tcf_use,ASI,73,Georgia,Plywood,m3rw/m3p,1.91633333333333
+c07,tcf_use,ASI,96,"China, Hong Kong SAR",Plywood,m3rw/m3p,1.91633333333333
+c07,tcf_use,ASI,100,India,Plywood,m3rw/m3p,1.91633333333333
+c07,tcf_use,ASI,101,Indonesia,Plywood,m3rw/m3p,2.099
+c07,tcf_use,ASI,102,Iran (Islamic Republic of),Plywood,m3rw/m3p,1.91633333333333
+c07,tcf_use,ASI,103,Iraq,Plywood,m3rw/m3p,1.91633333333333
+c07,tcf_use,ASI,105,Israel,Plywood,m3rw/m3p,1.91633333333333
+c07,tcf_use,ASI,108,Kazakhstan,Plywood,m3rw/m3p,1.91633333333333
+c07,tcf_use,ASI,110,Japan,Plywood,m3rw/m3p,1.62
+c07,tcf_use,ASI,112,Jordan,Plywood,m3rw/m3p,1.91633333333333
+c07,tcf_use,ASI,113,Kyrgyzstan,Plywood,m3rw/m3p,1.91633333333333
+c07,tcf_use,ASI,115,Cambodia,Plywood,m3rw/m3p,1.91633333333333
+c07,tcf_use,ASI,116,Democratic People's Republic of Korea,Plywood,m3rw/m3p,1.91633333333333
+c07,tcf_use,ASI,117,Republic of Korea,Plywood,m3rw/m3p,1.91633333333333
+c07,tcf_use,ASI,118,Kuwait,Plywood,m3rw/m3p,1.91633333333333
+c07,tcf_use,ASI,120,Lao People's Democratic Republic,Plywood,m3rw/m3p,1.91633333333333
+c07,tcf_use,ASI,121,Lebanon,Plywood,m3rw/m3p,1.91633333333333
+c07,tcf_use,ASI,128,"China, Macao SAR",Plywood,m3rw/m3p,1.91633333333333
+c07,tcf_use,ASI,131,Malaysia,Plywood,m3rw/m3p,1.91633333333333
+c07,tcf_use,ASI,132,Maldives,Plywood,m3rw/m3p,1.91633333333333
+c07,tcf_use,ASI,141,Mongolia,Plywood,m3rw/m3p,1.91633333333333
+c07,tcf_use,ASI,149,Nepal,Plywood,m3rw/m3p,1.91633333333333
+c07,tcf_use,ASI,164,Pacific Islands Trust Territory,Plywood,m3rw/m3p,1.91633333333333
+c07,tcf_use,ASI,165,Pakistan,Plywood,m3rw/m3p,1.91633333333333
+c07,tcf_use,ASI,171,Philippines,Plywood,m3rw/m3p,1.91633333333333
+c07,tcf_use,ASI,176,Timor-Leste,Plywood,m3rw/m3p,1.91633333333333
+c07,tcf_use,ASI,179,Qatar,Plywood,m3rw/m3p,1.91633333333333
+c07,tcf_use,ASI,194,Saudi Arabia,Plywood,m3rw/m3p,1.91633333333333
+c07,tcf_use,ASI,200,Singapore,Plywood,m3rw/m3p,1.91633333333333
+c07,tcf_use,ASI,208,Tajikistan,Plywood,m3rw/m3p,1.91633333333333
+c07,tcf_use,ASI,212,Syrian Arab Republic,Plywood,m3rw/m3p,1.91633333333333
+c07,tcf_use,ASI,213,Turkmenistan,Plywood,m3rw/m3p,1.91633333333333
+c07,tcf_use,ASI,214,"China, Taiwan Province of",Plywood,m3rw/m3p,1.91633333333333
+c07,tcf_use,ASI,216,Thailand,Plywood,m3rw/m3p,1.91633333333333
+c07,tcf_use,ASI,221,Oman,Plywood,m3rw/m3p,1.91633333333333
+c07,tcf_use,ASI,225,United Arab Emirates,Plywood,m3rw/m3p,1.91633333333333
+c07,tcf_use,ASI,228,USSR,Plywood,m3rw/m3p,1.91633333333333
+c07,tcf_use,ASI,235,Uzbekistan,Plywood,m3rw/m3p,1.91633333333333
+c07,tcf_use,ASI,237,Viet Nam,Plywood,m3rw/m3p,1.91633333333333
+c07,tcf_use,ASI,249,Yemen,Plywood,m3rw/m3p,1.91633333333333
+c07,tcf_use,ASI,299,Palestine,Plywood,m3rw/m3p,1.91633333333333
+c07,tcf_use,EUR,3,Albania,Plywood,m3rw/m3p,2.2955
+c07,tcf_use,EUR,6,Andorra,Plywood,m3rw/m3p,2.2955
+c07,tcf_use,EUR,11,Austria,Plywood,m3rw/m3p,2.2955
+c07,tcf_use,EUR,15,Belgium-Luxembourg,Plywood,m3rw/m3p,2.2955
+c07,tcf_use,EUR,27,Bulgaria,Plywood,m3rw/m3p,2.2955
+c07,tcf_use,EUR,50,Cyprus,Plywood,m3rw/m3p,2.2955
+c07,tcf_use,EUR,51,Czechoslovakia,Plywood,m3rw/m3p,2.2955
+c07,tcf_use,EUR,54,Denmark,Plywood,m3rw/m3p,2.2955
+c07,tcf_use,EUR,57,Belarus,Plywood,m3rw/m3p,2.2955
+c07,tcf_use,EUR,63,Estonia,Plywood,m3rw/m3p,2.2955
+c07,tcf_use,EUR,64,Faroe Islands,Plywood,m3rw/m3p,2.2955
+c07,tcf_use,EUR,67,Finland,Plywood,m3rw/m3p,2.421
+c07,tcf_use,EUR,68,France,Plywood,m3rw/m3p,2.268
+c07,tcf_use,EUR,79,Germany,Plywood,m3rw/m3p,2.2955
+c07,tcf_use,EUR,80,Bosnia and Herzegovina,Plywood,m3rw/m3p,2.2955
+c07,tcf_use,EUR,82,Gibraltar,Plywood,m3rw/m3p,2.2955
+c07,tcf_use,EUR,84,Greece,Plywood,m3rw/m3p,2.2955
+c07,tcf_use,EUR,85,Greenland,Plywood,m3rw/m3p,2.2955
+c07,tcf_use,EUR,94,Holy See,Plywood,m3rw/m3p,2.2955
+c07,tcf_use,EUR,97,Hungary,Plywood,m3rw/m3p,2.2955
+c07,tcf_use,EUR,98,Croatia,Plywood,m3rw/m3p,2.46
+c07,tcf_use,EUR,99,Iceland,Plywood,m3rw/m3p,2.2955
+c07,tcf_use,EUR,104,Ireland,Plywood,m3rw/m3p,2.2955
+c07,tcf_use,EUR,106,Italy,Plywood,m3rw/m3p,2.2955
+c07,tcf_use,EUR,119,Latvia,Plywood,m3rw/m3p,2.2955
+c07,tcf_use,EUR,125,Liechtenstein,Plywood,m3rw/m3p,2.2955
+c07,tcf_use,EUR,126,Lithuania,Plywood,m3rw/m3p,2.2955
+c07,tcf_use,EUR,134,Malta,Plywood,m3rw/m3p,2.2955
+c07,tcf_use,EUR,146,Republic of Moldova,Plywood,m3rw/m3p,2.2955
+c07,tcf_use,EUR,150,Netherlands,Plywood,m3rw/m3p,2.2955
+c07,tcf_use,EUR,154,North Macedonia,Plywood,m3rw/m3p,2.2955
+c07,tcf_use,EUR,162,Norway,Plywood,m3rw/m3p,2.2955
+c07,tcf_use,EUR,167,Czechia,Plywood,m3rw/m3p,2.2955
+c07,tcf_use,EUR,173,Poland,Plywood,m3rw/m3p,1.95
+c07,tcf_use,EUR,174,Portugal,Plywood,m3rw/m3p,2.47
+c07,tcf_use,EUR,183,Romania,Plywood,m3rw/m3p,2.2955
+c07,tcf_use,EUR,185,Russian Federation,Plywood,m3rw/m3p,2.27
+c07,tcf_use,EUR,186,Serbia and Montenegro,Plywood,m3rw/m3p,2.2955
+c07,tcf_use,EUR,192,San Marino,Plywood,m3rw/m3p,2.2955
+c07,tcf_use,EUR,198,Slovenia,Plywood,m3rw/m3p,2.5
+c07,tcf_use,EUR,199,Slovakia,Plywood,m3rw/m3p,2.2955
+c07,tcf_use,EUR,203,Spain,Plywood,m3rw/m3p,2.2955
+c07,tcf_use,EUR,210,Sweden,Plywood,m3rw/m3p,2.2955
+c07,tcf_use,EUR,211,Switzerland,Plywood,m3rw/m3p,2.2955
+c07,tcf_use,EUR,223,Turkey,Plywood,m3rw/m3p,2.2955
+c07,tcf_use,EUR,229,United Kingdom,Plywood,m3rw/m3p,2.2955
+c07,tcf_use,EUR,230,Ukraine,Plywood,m3rw/m3p,2.025
+c07,tcf_use,EUR,248,Yugoslav SFR,Plywood,m3rw/m3p,2.2955
+c07,tcf_use,EUR,255,Belgium,Plywood,m3rw/m3p,2.2955
+c07,tcf_use,EUR,256,Luxembourg,Plywood,m3rw/m3p,2.2955
+c07,tcf_use,EUR,272,Serbia,Plywood,m3rw/m3p,2.2955
+c07,tcf_use,EUR,273,Montenegro,Plywood,m3rw/m3p,2.2955
+c07,tcf_use,LAM,8,Antigua and Barbuda,Plywood,m3rw/m3p,2.19333333333333
+c07,tcf_use,LAM,9,Argentina,Plywood,m3rw/m3p,2.19333333333333
+c07,tcf_use,LAM,12,Bahamas,Plywood,m3rw/m3p,2.19333333333333
+c07,tcf_use,LAM,14,Barbados,Plywood,m3rw/m3p,2.19333333333333
+c07,tcf_use,LAM,17,Bermuda,Plywood,m3rw/m3p,2.19333333333333
+c07,tcf_use,LAM,19,Bolivia (Plurinational State of),Plywood,m3rw/m3p,2.19333333333333
+c07,tcf_use,LAM,21,Brazil,Plywood,m3rw/m3p,2.19333333333333
+c07,tcf_use,LAM,22,Aruba,Plywood,m3rw/m3p,2.19333333333333
+c07,tcf_use,LAM,23,Belize,Plywood,m3rw/m3p,2.19333333333333
+c07,tcf_use,LAM,36,Cayman Islands,Plywood,m3rw/m3p,2.19333333333333
+c07,tcf_use,LAM,40,Chile,Plywood,m3rw/m3p,2.2
+c07,tcf_use,LAM,44,Colombia,Plywood,m3rw/m3p,2.19333333333333
+c07,tcf_use,LAM,48,Costa Rica,Plywood,m3rw/m3p,2.19333333333333
+c07,tcf_use,LAM,49,Cuba,Plywood,m3rw/m3p,2.19333333333333
+c07,tcf_use,LAM,55,Dominica,Plywood,m3rw/m3p,2.19333333333333
+c07,tcf_use,LAM,56,Dominican Republic,Plywood,m3rw/m3p,2.19333333333333
+c07,tcf_use,LAM,58,Ecuador,Plywood,m3rw/m3p,2.19333333333333
+c07,tcf_use,LAM,60,El Salvador,Plywood,m3rw/m3p,2.19333333333333
+c07,tcf_use,LAM,65,Falkland Islands (Malvinas),Plywood,m3rw/m3p,2.19333333333333
+c07,tcf_use,LAM,69,French Guyana,Plywood,m3rw/m3p,2.19333333333333
+c07,tcf_use,LAM,86,Grenada,Plywood,m3rw/m3p,2.19333333333333
+c07,tcf_use,LAM,87,Guadeloupe,Plywood,m3rw/m3p,2.19333333333333
+c07,tcf_use,LAM,89,Guatemala,Plywood,m3rw/m3p,2.19333333333333
+c07,tcf_use,LAM,91,Guyana,Plywood,m3rw/m3p,2.19333333333333
+c07,tcf_use,LAM,93,Haiti,Plywood,m3rw/m3p,2.19333333333333
+c07,tcf_use,LAM,95,Honduras,Plywood,m3rw/m3p,2.19333333333333
+c07,tcf_use,LAM,109,Jamaica,Plywood,m3rw/m3p,2.19333333333333
+c07,tcf_use,LAM,135,Martinique,Plywood,m3rw/m3p,2.19333333333333
+c07,tcf_use,LAM,138,Mexico,Plywood,m3rw/m3p,2.19333333333333
+c07,tcf_use,LAM,142,Montserrat,Plywood,m3rw/m3p,2.19333333333333
+c07,tcf_use,LAM,151,Netherlands Antilles,Plywood,m3rw/m3p,2.19333333333333
+c07,tcf_use,LAM,157,Nicaragua,Plywood,m3rw/m3p,2.19333333333333
+c07,tcf_use,LAM,166,Panama,Plywood,m3rw/m3p,2.19333333333333
+c07,tcf_use,LAM,169,Paraguay,Plywood,m3rw/m3p,2.19333333333333
+c07,tcf_use,LAM,170,Peru,Plywood,m3rw/m3p,2.19333333333333
+c07,tcf_use,LAM,188,Saint Kitts and Nevis,Plywood,m3rw/m3p,2.19333333333333
+c07,tcf_use,LAM,189,Saint Lucia,Plywood,m3rw/m3p,2.19333333333333
+c07,tcf_use,LAM,191,Saint Vincent and the Grenadines,Plywood,m3rw/m3p,2.19333333333333
+c07,tcf_use,LAM,207,Suriname,Plywood,m3rw/m3p,2
+c07,tcf_use,LAM,220,Trinidad and Tobago,Plywood,m3rw/m3p,2.19333333333333
+c07,tcf_use,LAM,224,Turks and Caicos Islands,Plywood,m3rw/m3p,2.19333333333333
+c07,tcf_use,LAM,234,Uruguay,Plywood,m3rw/m3p,2.38
+c07,tcf_use,LAM,236,Venezuela (Bolivarian Republic of),Plywood,m3rw/m3p,2.19333333333333
+c07,tcf_use,LAM,239,British Virgin Islands,Plywood,m3rw/m3p,2.19333333333333
+c07,tcf_use,LAM,258,Anguilla,Plywood,m3rw/m3p,2.19333333333333
+c07,tcf_use,LAM,279,Curaçao,Plywood,m3rw/m3p,2.19333333333333
+c07,tcf_use,LAM,281,Saint-Martin (French Part),Plywood,m3rw/m3p,2.19333333333333
+c07,tcf_use,NAM,33,Canada,Plywood,m3rw/m3p,1.9161
+c07,tcf_use,NAM,190,Saint Pierre and Miquelon,Plywood,m3rw/m3p,1.8943
+c07,tcf_use,NAM,231,United States of America,Plywood,m3rw/m3p,1.8725
+c07,tcf_use,OCE,5,American Samoa,Plywood,m3rw/m3p,1.79
+c07,tcf_use,OCE,10,Australia,Plywood,m3rw/m3p,1.79
+c07,tcf_use,OCE,25,Solomon Islands,Plywood,m3rw/m3p,1.79
+c07,tcf_use,OCE,42,Christmas Island,Plywood,m3rw/m3p,1.79
+c07,tcf_use,OCE,43,Cocos (Keeling) Islands,Plywood,m3rw/m3p,1.79
+c07,tcf_use,OCE,47,Cook Islands,Plywood,m3rw/m3p,1.79
+c07,tcf_use,OCE,66,Fiji,Plywood,m3rw/m3p,1.79
+c07,tcf_use,OCE,70,French Polynesia,Plywood,m3rw/m3p,1.79
+c07,tcf_use,OCE,71,French Southern and Antarctic Territories,Plywood,m3rw/m3p,1.79
+c07,tcf_use,OCE,83,Kiribati,Plywood,m3rw/m3p,1.79
+c07,tcf_use,OCE,88,Guam,Plywood,m3rw/m3p,1.79
+c07,tcf_use,OCE,127,Marshall Islands,Plywood,m3rw/m3p,1.79
+c07,tcf_use,OCE,145,Micronesia (Federated States of),Plywood,m3rw/m3p,1.79
+c07,tcf_use,OCE,148,Nauru,Plywood,m3rw/m3p,1.79
+c07,tcf_use,OCE,153,New Caledonia,Plywood,m3rw/m3p,1.79
+c07,tcf_use,OCE,155,Vanuatu,Plywood,m3rw/m3p,1.79
+c07,tcf_use,OCE,156,New Zealand,Plywood,m3rw/m3p,1.79
+c07,tcf_use,OCE,160,Niue,Plywood,m3rw/m3p,1.79
+c07,tcf_use,OCE,161,Norfolk Island,Plywood,m3rw/m3p,1.79
+c07,tcf_use,OCE,163,Northern Mariana Islands,Plywood,m3rw/m3p,1.79
+c07,tcf_use,OCE,168,Papua New Guinea,Plywood,m3rw/m3p,1.79
+c07,tcf_use,OCE,172,Pitcairn Islands,Plywood,m3rw/m3p,1.79
+c07,tcf_use,OCE,180,Palau,Plywood,m3rw/m3p,1.79
+c07,tcf_use,OCE,218,Tokelau,Plywood,m3rw/m3p,1.79
+c07,tcf_use,OCE,227,Tuvalu,Plywood,m3rw/m3p,1.79
+c07,tcf_use,OCE,242,Wake Island,Plywood,m3rw/m3p,1.79
+c07,tcf_use,OCE,243,Wallis and Futuna Islands,Plywood,m3rw/m3p,1.79
+c07,tcf_use,OCE,244,Samoa,Plywood,m3rw/m3p,1.79
+c07,tcf_use,ROW,999,RoW,Plywood,m3rw/m3p,1.98991111111111

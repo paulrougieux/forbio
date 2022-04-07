@@ -1,0 +1,5 @@
+proc_code;process;subproc_code;subprocess
+p06;Veneer production;p06_c;Veneer production, coniferous
+p06;Veneer production;p06_nc;Veneer production, non-coniferous
+p07;Plywood production;p07_c;Plywood production, coniferous
+p07;Plywood production;p07_nc;Plywood production, non-coniferous

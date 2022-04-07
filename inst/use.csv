@@ -1,18 +1,19 @@
 proc_code;process;com_code;item;share;type
 p04;Sawnmill industry, coniferous;c01;Industrial roundwood, coniferous;1;tcf
-p05;Sawnmill industry, non-coniferous all;c02;Industrial roundwood, non-coniferous;1;tcf
+p05;Sawnmill industry, non-coniferous;c02;Industrial roundwood, non-coniferous;1;tcf
 p06;Veneer production;c01;Industrial roundwood, coniferous;1;tcf_cnc
 p06;Veneer production;c02;Industrial roundwood, non-coniferous;1;tcf_cnc
 p07;Plywood production;c01;Industrial roundwood, coniferous;1;tcf_cnc
 p07;Plywood production;c02;Industrial roundwood, non-coniferous;1;tcf_cnc
-p08;Fibreboard production;c01;Industrial roundwood, coniferous;0.5;tcf_board
-p08;Fibreboard production;c02;Industrial roundwood, non-coniferous;0.5;tcf_board
-p08;Fibreboard production;c17;Wood chips and particles;0.25;tcf_board
-p08;Fibreboard production;c18;Wood residues;0.25;tcf_board
-p09;Particle board production;c01;Industrial roundwood, coniferous;0.25;tcf_board
-p09;Particle board production;c02;Industrial roundwood, non-coniferous;0.25;tcf_board
-p09;Particle board production;c17;Wood chips and particles;0.25;tcf_board
-p09;Particle board production;c18;Wood residues;0.5;tcf_board
+p08;Fibreboard production;c01;Industrial roundwood, coniferous;0.05;tcf_board
+p08;Fibreboard production;c02;Industrial roundwood, non-coniferous;0.05;tcf_board
+p08;Fibreboard production;c17;Wood chips and particles;0.425;tcf_board
+p08;Fibreboard production;c18;Wood residues;0.425;tcf_board
+p09;Particle board production;c01;Industrial roundwood, coniferous;0.05;tcf_board
+p09;Particle board production;c02;Industrial roundwood, non-coniferous;0.05;tcf_board
+p09;Particle board production;c17;Wood chips and particles;0.425;tcf_board
+p09;Particle board production;c18;Wood residues;0.425;tcf_board
+p09;Particle board production;c19;Post-consumer wood;1;tcf_board
 p10;OSB production;c01;Industrial roundwood, coniferous;1;tcf_cnc
 p10;OSB production;c02;Industrial roundwood, non-coniferous;1;tcf_cnc
 p11a;Chemical pulp production;c01;Industrial roundwood, coniferous;0.666666667;tcf_pulp
@@ -33,7 +34,7 @@ p14;Paper and paperboard production;c11b;Mechanical and semi-chemical wood pulp;
 p14;Paper and paperboard production;c11c;Pulp from fibres other than wood;1;100%
 p14;Paper and paperboard production;c12;Recovered paper;0;100%
 p14;Paper and paperboard production;c13;Recovered fibre pulp;1;tcf_fill
-p15;Pellet production;c03;Wood fuel;0.15;tcf_pellets
-p15;Pellet production;c17;Wood chips and particles;0.2;tcf_pellets
-p15;Pellet production;c18;Wood residues;0.65;tcf_pellets
+p15;Pellet and agglomerate production;c03;Wood fuel;0.15;tcf_pellets
+p15;Pellet and agglomerate production;c17;Wood chips and particles;0.2;tcf_pellets
+p15;Pellet and agglomerate production;c18;Wood residues;0.65;tcf_pellets
 p16;Charcoal production;c03;Wood fuel;1;tcf

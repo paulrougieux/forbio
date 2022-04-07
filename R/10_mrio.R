@@ -7,6 +7,8 @@ library("Matrix")
 mr_sup <- readRDS("data/mr_sup.rds")
 mr_use <- readRDS("data/mr_use.rds")
 
+Y <- readRDS("/mnt/nfs_fineprint/tmp/forbio/Y.rds")
+
 # Mass
 trans <- lapply(mr_sup, function(x) {
   out <- as.matrix(x / rowSums(x))
@@ -35,4 +37,3 @@ X <- mapply(function(x, y) {
 # Store X, Z variables
 saveRDS(Z, "/mnt/nfs_fineprint/tmp/forbio/Z.rds")
 saveRDS(X, "/mnt/nfs_fineprint/tmp/forbio/X.rds")
-

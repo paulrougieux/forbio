@@ -1,0 +1,501 @@
+area_code;area;proc_code;process;product;chips;sawdust;shavings;shrinkage;literature
+1;Armenia;p04;Sawmill industry, coniferous;NA;NA;NA;NA;NA;NA
+2;Afghanistan;p04;Sawmill industry, coniferous;NA;NA;NA;NA;NA;NA
+3;Albania;p04;Sawmill industry, coniferous;NA;NA;NA;NA;NA;NA
+4;Algeria;p04;Sawmill industry, coniferous;NA;NA;NA;NA;NA;NA
+6;Andorra;p04;Sawmill industry, coniferous;NA;NA;NA;NA;NA;NA
+7;Angola;p04;Sawmill industry, coniferous;NA;NA;NA;NA;NA;NA
+9;Argentina;p04;Sawmill industry, coniferous;NA;NA;NA;NA;NA;NA
+10;Australia;p04;Sawmill industry, coniferous;NA;NA;NA;NA;NA;NA
+11;Austria;p04;Sawmill industry, coniferous;60;NA;NA;NA;NA;FAO, ITTO and United Nations (2020)
+12;Bahamas;p04;Sawmill industry, coniferous;NA;NA;NA;NA;NA;NA
+13;Bahrain;p04;Sawmill industry, coniferous;NA;NA;NA;NA;NA;NA
+14;Barbados;p04;Sawmill industry, coniferous;NA;NA;NA;NA;NA;NA
+15;Belgium-Luxembourg;p04;Sawmill industry, coniferous;NA;NA;NA;NA;NA;NA
+16;Bangladesh;p04;Sawmill industry, coniferous;NA;NA;NA;NA;NA;NA
+18;Bhutan;p04;Sawmill industry, coniferous;NA;NA;NA;NA;NA;NA
+19;Bolivia (Plurinational State of);p04;Sawmill industry, coniferous;NA;NA;NA;NA;NA;NA
+20;Botswana;p04;Sawmill industry, coniferous;NA;NA;NA;NA;NA;NA
+21;Brazil;p04;Sawmill industry, coniferous;45;NA;NA;NA;NA;FAO, ITTO and United Nations (2020)
+22;Aruba;p04;Sawmill industry, coniferous;NA;NA;NA;NA;NA;NA
+23;Belize;p04;Sawmill industry, coniferous;NA;NA;NA;NA;NA;NA
+25;Solomon Islands;p04;Sawmill industry, coniferous;NA;NA;NA;NA;NA;NA
+26;Brunei Darussalam;p04;Sawmill industry, coniferous;NA;NA;NA;NA;NA;NA
+27;Bulgaria;p04;Sawmill industry, coniferous;NA;NA;NA;NA;NA;NA
+28;Myanmar;p04;Sawmill industry, coniferous;NA;NA;NA;NA;NA;NA
+29;Burundi;p04;Sawmill industry, coniferous;NA;NA;NA;NA;NA;NA
+32;Cameroon;p04;Sawmill industry, coniferous;NA;NA;NA;NA;NA;NA
+33;Canada;p04;Sawmill industry, coniferous;45;38;8;5;4;FAO, ITTO and United Nations (2020)
+35;Cabo Verde;p04;Sawmill industry, coniferous;NA;NA;NA;NA;NA;NA
+37;Central African Republic;p04;Sawmill industry, coniferous;NA;NA;NA;NA;NA;NA
+38;Sri Lanka;p04;Sawmill industry, coniferous;NA;NA;NA;NA;NA;NA
+39;Chad;p04;Sawmill industry, coniferous;NA;NA;NA;NA;NA;NA
+40;Chile;p04;Sawmill industry, coniferous;51;30;12;7;NA;FAO, ITTO and United Nations (2020)
+41;China, mainland;p04;Sawmill industry, coniferous;50;30;10;8;2;FAO, ITTO and United Nations (2020)
+42;Christmas Island;p04;Sawmill industry, coniferous;NA;NA;NA;NA;NA;NA
+44;Colombia;p04;Sawmill industry, coniferous;NA;NA;NA;NA;NA;NA
+45;Comoros;p04;Sawmill industry, coniferous;NA;NA;NA;NA;NA;NA
+46;Congo;p04;Sawmill industry, coniferous;NA;NA;NA;NA;NA;NA
+47;Cook Islands;p04;Sawmill industry, coniferous;NA;NA;NA;NA;NA;NA
+48;Costa Rica;p04;Sawmill industry, coniferous;NA;NA;NA;NA;NA;NA
+49;Cuba;p04;Sawmill industry, coniferous;NA;NA;NA;NA;NA;NA
+50;Cyprus;p04;Sawmill industry, coniferous;NA;NA;NA;NA;NA;NA
+51;Czechoslovakia;p04;Sawmill industry, coniferous;NA;NA;NA;NA;NA;NA
+52;Azerbaijan;p04;Sawmill industry, coniferous;NA;NA;NA;NA;NA;NA
+53;Benin;p04;Sawmill industry, coniferous;NA;NA;NA;NA;NA;NA
+54;Denmark;p04;Sawmill industry, coniferous;52;36;10;NA;2;FAO, ITTO and United Nations (2020)
+55;Dominica;p04;Sawmill industry, coniferous;NA;NA;NA;NA;NA;NA
+56;Dominican Republic;p04;Sawmill industry, coniferous;NA;NA;NA;NA;NA;NA
+57;Belarus;p04;Sawmill industry, coniferous;NA;NA;NA;NA;NA;NA
+58;Ecuador;p04;Sawmill industry, coniferous;NA;NA;NA;NA;NA;NA
+59;Egypt;p04;Sawmill industry, coniferous;NA;NA;NA;NA;NA;NA
+60;El Salvador;p04;Sawmill industry, coniferous;NA;NA;NA;NA;NA;NA
+61;Equatorial Guinea;p04;Sawmill industry, coniferous;NA;NA;NA;NA;NA;NA
+63;Estonia;p04;Sawmill industry, coniferous;NA;NA;NA;NA;NA;NA
+64;Faroe Islands;p04;Sawmill industry, coniferous;NA;NA;NA;NA;NA;NA
+65;Falkland Islands (Malvinas);p04;Sawmill industry, coniferous;NA;NA;NA;NA;NA;NA
+66;Fiji;p04;Sawmill industry, coniferous;NA;NA;NA;NA;NA;NA
+67;Finland;p04;Sawmill industry, coniferous;50;34;11;NA;5;FAO, ITTO and United Nations (2020)
+68;France;p04;Sawmill industry, coniferous;55;28;11;2;4;FAO, ITTO and United Nations (2020)
+69;French Guyana;p04;Sawmill industry, coniferous;NA;NA;NA;NA;NA;NA
+70;French Polynesia;p04;Sawmill industry, coniferous;NA;NA;NA;NA;NA;NA
+72;Djibouti;p04;Sawmill industry, coniferous;NA;NA;NA;NA;NA;NA
+73;Georgia;p04;Sawmill industry, coniferous;NA;NA;NA;NA;NA;NA
+74;Gabon;p04;Sawmill industry, coniferous;NA;NA;NA;NA;NA;NA
+75;Gambia;p04;Sawmill industry, coniferous;NA;NA;NA;NA;NA;NA
+79;Germany;p04;Sawmill industry, coniferous;59;25;13;1;2;FAO, ITTO and United Nations (2020)
+80;Bosnia and Herzegovina;p04;Sawmill industry, coniferous;NA;NA;NA;NA;NA;NA
+81;Ghana;p04;Sawmill industry, coniferous;NA;NA;NA;NA;NA;NA
+82;Gibraltar;p04;Sawmill industry, coniferous;NA;NA;NA;NA;NA;NA
+83;Kiribati;p04;Sawmill industry, coniferous;NA;NA;NA;NA;NA;NA
+84;Greece;p04;Sawmill industry, coniferous;NA;NA;NA;NA;NA;NA
+87;Guadeloupe;p04;Sawmill industry, coniferous;NA;NA;NA;NA;NA;NA
+89;Guatemala;p04;Sawmill industry, coniferous;NA;NA;NA;NA;NA;NA
+90;Guinea;p04;Sawmill industry, coniferous;NA;NA;NA;NA;NA;NA
+91;Guyana;p04;Sawmill industry, coniferous;NA;NA;NA;NA;NA;NA
+93;Haiti;p04;Sawmill industry, coniferous;NA;NA;NA;NA;NA;NA
+95;Honduras;p04;Sawmill industry, coniferous;NA;NA;NA;NA;NA;NA
+96;China, Hong Kong SAR;p04;Sawmill industry, coniferous;NA;NA;NA;NA;NA;NA
+97;Hungary;p04;Sawmill industry, coniferous;NA;NA;NA;NA;NA;NA
+98;Croatia;p04;Sawmill industry, coniferous;NA;NA;NA;NA;NA;NA
+99;Iceland;p04;Sawmill industry, coniferous;NA;NA;NA;NA;NA;NA
+100;India;p04;Sawmill industry, coniferous;NA;NA;NA;NA;NA;NA
+101;Indonesia;p04;Sawmill industry, coniferous;50;26;10;10;7;FAO, ITTO and United Nations (2020)
+102;Iran (Islamic Republic of);p04;Sawmill industry, coniferous;NA;NA;NA;NA;NA;NA
+103;Iraq;p04;Sawmill industry, coniferous;NA;NA;NA;NA;NA;NA
+104;Ireland;p04;Sawmill industry, coniferous;53;35;11;NA;1;FAO, ITTO and United Nations (2020)
+105;Israel;p04;Sawmill industry, coniferous;NA;NA;NA;NA;NA;NA
+106;Italy;p04;Sawmill industry, coniferous;NA;NA;NA;NA;NA;NA
+107;Cote d'Ivoire;p04;Sawmill industry, coniferous;NA;NA;NA;NA;NA;NA
+108;Kazakhstan;p04;Sawmill industry, coniferous;NA;NA;NA;NA;NA;NA
+109;Jamaica;p04;Sawmill industry, coniferous;NA;NA;NA;NA;NA;NA
+110;Japan;p04;Sawmill industry, coniferous;NA;NA;NA;NA;NA;NA
+112;Jordan;p04;Sawmill industry, coniferous;NA;NA;NA;NA;NA;NA
+113;Kyrgyzstan;p04;Sawmill industry, coniferous;NA;NA;NA;NA;NA;NA
+114;Kenya;p04;Sawmill industry, coniferous;NA;NA;NA;NA;NA;NA
+115;Cambodia;p04;Sawmill industry, coniferous;NA;NA;NA;NA;NA;NA
+116;Democratic People's Republic of Korea;p04;Sawmill industry, coniferous;NA;NA;NA;NA;NA;NA
+117;Republic of Korea;p04;Sawmill industry, coniferous;NA;NA;NA;NA;NA;NA
+118;Kuwait;p04;Sawmill industry, coniferous;NA;NA;NA;NA;NA;NA
+119;Latvia;p04;Sawmill industry, coniferous;NA;NA;NA;NA;NA;NA
+120;Lao People's Democratic Republic;p04;Sawmill industry, coniferous;NA;NA;NA;NA;NA;NA
+121;Lebanon;p04;Sawmill industry, coniferous;NA;NA;NA;NA;NA;NA
+122;Lesotho;p04;Sawmill industry, coniferous;NA;NA;NA;NA;NA;NA
+123;Liberia;p04;Sawmill industry, coniferous;NA;NA;NA;NA;NA;NA
+124;Libya;p04;Sawmill industry, coniferous;NA;NA;NA;NA;NA;NA
+125;Liechtenstein;p04;Sawmill industry, coniferous;NA;NA;NA;NA;NA;NA
+126;Lithuania;p04;Sawmill industry, coniferous;48;36;11;NA;5;FAO, ITTO and United Nations (2020)
+128;China, Macao SAR;p04;Sawmill industry, coniferous;NA;NA;NA;NA;NA;NA
+129;Madagascar;p04;Sawmill industry, coniferous;NA;NA;NA;NA;NA;NA
+130;Malawi;p04;Sawmill industry, coniferous;NA;NA;NA;NA;NA;NA
+131;Malaysia;p04;Sawmill industry, coniferous;NA;NA;NA;NA;NA;NA
+132;Maldives;p04;Sawmill industry, coniferous;NA;NA;NA;NA;NA;NA
+133;Mali;p04;Sawmill industry, coniferous;NA;NA;NA;NA;NA;NA
+134;Malta;p04;Sawmill industry, coniferous;NA;NA;NA;NA;NA;NA
+135;Martinique;p04;Sawmill industry, coniferous;NA;NA;NA;NA;NA;NA
+136;Mauritania;p04;Sawmill industry, coniferous;NA;NA;NA;NA;NA;NA
+137;Mauritius;p04;Sawmill industry, coniferous;NA;NA;NA;NA;NA;NA
+138;Mexico;p04;Sawmill industry, coniferous;NA;NA;NA;NA;NA;NA
+141;Mongolia;p04;Sawmill industry, coniferous;NA;NA;NA;NA;NA;NA
+143;Morocco;p04;Sawmill industry, coniferous;NA;NA;NA;NA;NA;NA
+144;Mozambique;p04;Sawmill industry, coniferous;NA;NA;NA;NA;NA;NA
+145;Micronesia (Federated States of);p04;Sawmill industry, coniferous;NA;NA;NA;NA;NA;NA
+146;Republic of Moldova;p04;Sawmill industry, coniferous;NA;NA;NA;NA;NA;NA
+147;Namibia;p04;Sawmill industry, coniferous;NA;NA;NA;NA;NA;NA
+149;Nepal;p04;Sawmill industry, coniferous;NA;NA;NA;NA;NA;NA
+150;Netherlands;p04;Sawmill industry, coniferous;53;NA;NA;NA;NA;FAO, ITTO and United Nations (2020)
+151;Netherlands Antilles;p04;Sawmill industry, coniferous;NA;NA;NA;NA;NA;NA
+153;New Caledonia;p04;Sawmill industry, coniferous;NA;NA;NA;NA;NA;NA
+154;North Macedonia;p04;Sawmill industry, coniferous;NA;NA;NA;NA;NA;NA
+155;Vanuatu;p04;Sawmill industry, coniferous;NA;NA;NA;NA;NA;NA
+156;New Zealand;p04;Sawmill industry, coniferous;NA;NA;NA;NA;NA;NA
+157;Nicaragua;p04;Sawmill industry, coniferous;NA;NA;NA;NA;NA;NA
+158;Niger;p04;Sawmill industry, coniferous;NA;NA;NA;NA;NA;NA
+159;Nigeria;p04;Sawmill industry, coniferous;NA;NA;NA;NA;NA;NA
+160;Niue;p04;Sawmill industry, coniferous;NA;NA;NA;NA;NA;NA
+161;Norfolk Island;p04;Sawmill industry, coniferous;NA;NA;NA;NA;NA;NA
+162;Norway;p04;Sawmill industry, coniferous;50;34;10;NA;6;FAO, ITTO and United Nations (2020)
+165;Pakistan;p04;Sawmill industry, coniferous;NA;NA;NA;NA;NA;NA
+166;Panama;p04;Sawmill industry, coniferous;NA;NA;NA;NA;NA;NA
+167;Czechia;p04;Sawmill industry, coniferous;60;25;11;1;3;FAO, ITTO and United Nations (2020)
+168;Papua New Guinea;p04;Sawmill industry, coniferous;NA;NA;NA;NA;NA;NA
+169;Paraguay;p04;Sawmill industry, coniferous;NA;NA;NA;NA;NA;NA
+170;Peru;p04;Sawmill industry, coniferous;NA;NA;NA;NA;NA;NA
+171;Philippines;p04;Sawmill industry, coniferous;NA;NA;NA;NA;NA;NA
+173;Poland;p04;Sawmill industry, coniferous;60;22;13;3;2;FAO, ITTO and United Nations (2020)
+174;Portugal;p04;Sawmill industry, coniferous;50;NA;NA;NA;NA;FAO, ITTO and United Nations (2020)
+175;Guinea-Bissau;p04;Sawmill industry, coniferous;NA;NA;NA;NA;NA;NA
+176;Timor-Leste;p04;Sawmill industry, coniferous;NA;NA;NA;NA;NA;NA
+178;Eritrea;p04;Sawmill industry, coniferous;NA;NA;NA;NA;NA;NA
+179;Qatar;p04;Sawmill industry, coniferous;NA;NA;NA;NA;NA;NA
+181;Zimbabwe;p04;Sawmill industry, coniferous;NA;NA;NA;NA;NA;NA
+182;Reunion;p04;Sawmill industry, coniferous;NA;NA;NA;NA;NA;NA
+183;Romania;p04;Sawmill industry, coniferous;NA;NA;NA;NA;NA;NA
+184;Rwanda;p04;Sawmill industry, coniferous;NA;NA;NA;NA;NA;NA
+185;Russian Federation;p04;Sawmill industry, coniferous;NA;NA;NA;NA;NA;NA
+186;Serbia and Montenegro;p04;Sawmill industry, coniferous;NA;NA;NA;NA;NA;NA
+189;Saint Lucia;p04;Sawmill industry, coniferous;NA;NA;NA;NA;NA;NA
+190;Saint Pierre and Miquelon;p04;Sawmill industry, coniferous;NA;NA;NA;NA;NA;NA
+191;Saint Vincent and the Grenadines;p04;Sawmill industry, coniferous;NA;NA;NA;NA;NA;NA
+193;Sao Tome and Principe;p04;Sawmill industry, coniferous;NA;NA;NA;NA;NA;NA
+194;Saudi Arabia;p04;Sawmill industry, coniferous;NA;NA;NA;NA;NA;NA
+195;Senegal;p04;Sawmill industry, coniferous;NA;NA;NA;NA;NA;NA
+196;Seychelles;p04;Sawmill industry, coniferous;NA;NA;NA;NA;NA;NA
+197;Sierra Leone;p04;Sawmill industry, coniferous;NA;NA;NA;NA;NA;NA
+198;Slovenia;p04;Sawmill industry, coniferous;56;27;12;NA;5;FAO, ITTO and United Nations (2020)
+199;Slovakia;p04;Sawmill industry, coniferous;58;19;11;NA;12;FAO, ITTO and United Nations (2020)
+200;Singapore;p04;Sawmill industry, coniferous;NA;NA;NA;NA;NA;NA
+201;Somalia;p04;Sawmill industry, coniferous;NA;NA;NA;NA;NA;NA
+202;South Africa;p04;Sawmill industry, coniferous;48;20;24;5;3;FAO, ITTO and United Nations (2020)
+203;Spain;p04;Sawmill industry, coniferous;59;22;12;NA;7;FAO, ITTO and United Nations (2020)
+207;Suriname;p04;Sawmill industry, coniferous;NA;NA;NA;NA;NA;NA
+208;Tajikistan;p04;Sawmill industry, coniferous;NA;NA;NA;NA;NA;NA
+209;Eswatini;p04;Sawmill industry, coniferous;NA;NA;NA;NA;NA;NA
+210;Sweden;p04;Sawmill industry, coniferous;49;32;12;2;5;FAO, ITTO and United Nations (2020)
+211;Switzerland;p04;Sawmill industry, coniferous;NA;NA;NA;NA;NA;NA
+212;Syrian Arab Republic;p04;Sawmill industry, coniferous;NA;NA;NA;NA;NA;NA
+213;Turkmenistan;p04;Sawmill industry, coniferous;NA;NA;NA;NA;NA;NA
+214;China, Taiwan Province of;p04;Sawmill industry, coniferous;NA;NA;NA;NA;NA;NA
+215;United Republic of Tanzania;p04;Sawmill industry, coniferous;NA;NA;NA;NA;NA;NA
+216;Thailand;p04;Sawmill industry, coniferous;NA;NA;NA;NA;NA;NA
+217;Togo;p04;Sawmill industry, coniferous;NA;NA;NA;NA;NA;NA
+219;Tonga;p04;Sawmill industry, coniferous;NA;NA;NA;NA;NA;NA
+220;Trinidad and Tobago;p04;Sawmill industry, coniferous;NA;NA;NA;NA;NA;NA
+221;Oman;p04;Sawmill industry, coniferous;NA;NA;NA;NA;NA;NA
+222;Tunisia;p04;Sawmill industry, coniferous;NA;NA;NA;NA;NA;NA
+223;Turkey;p04;Sawmill industry, coniferous;NA;NA;NA;NA;NA;NA
+224;Turks and Caicos Islands;p04;Sawmill industry, coniferous;NA;NA;NA;NA;NA;NA
+225;United Arab Emirates;p04;Sawmill industry, coniferous;NA;NA;NA;NA;NA;NA
+226;Uganda;p04;Sawmill industry, coniferous;NA;NA;NA;NA;NA;NA
+229;United Kingdom;p04;Sawmill industry, coniferous;54;30;10;3;3;FAO, ITTO and United Nations (2020)
+230;Ukraine;p04;Sawmill industry, coniferous;56;21;10;NA;6;FAO, ITTO and United Nations (2020)
+231;United States of America;p04;Sawmill industry, coniferous;49;27;10;10;4;FAO, ITTO and United Nations (2020)
+233;Burkina Faso;p04;Sawmill industry, coniferous;NA;NA;NA;NA;NA;NA
+234;Uruguay;p04;Sawmill industry, coniferous;49;NA;NA;NA;NA;FAO, ITTO and United Nations (2020)
+235;Uzbekistan;p04;Sawmill industry, coniferous;NA;NA;NA;NA;NA;NA
+236;Venezuela (Bolivarian Republic of);p04;Sawmill industry, coniferous;NA;NA;NA;NA;NA;NA
+237;Viet Nam;p04;Sawmill industry, coniferous;NA;NA;NA;NA;NA;NA
+238;Ethiopia;p04;Sawmill industry, coniferous;NA;NA;NA;NA;NA;NA
+239;British Virgin Islands;p04;Sawmill industry, coniferous;NA;NA;NA;NA;NA;NA
+244;Samoa;p04;Sawmill industry, coniferous;NA;NA;NA;NA;NA;NA
+249;Yemen;p04;Sawmill industry, coniferous;NA;NA;NA;NA;NA;NA
+250;Democratic Republic of the Congo;p04;Sawmill industry, coniferous;NA;NA;NA;NA;NA;NA
+251;Zambia;p04;Sawmill industry, coniferous;NA;NA;NA;NA;NA;NA
+255;Belgium;p04;Sawmill industry, coniferous;NA;NA;NA;NA;NA;NA
+256;Luxembourg;p04;Sawmill industry, coniferous;NA;NA;NA;NA;NA;NA
+270;Mayotte;p04;Sawmill industry, coniferous;NA;NA;NA;NA;NA;NA
+272;Serbia;p04;Sawmill industry, coniferous;NA;NA;NA;NA;NA;NA
+273;Montenegro;p04;Sawmill industry, coniferous;NA;NA;NA;NA;NA;NA
+276;Sudan;p04;Sawmill industry, coniferous;NA;NA;NA;NA;NA;NA
+277;South Sudan;p04;Sawmill industry, coniferous;NA;NA;NA;NA;NA;NA
+5;American Samoa;p04;Sawnmill industry, coniferous;NA;NA;NA;NA;NA;NA
+8;Antigua and Barbuda;p04;Sawnmill industry, coniferous;NA;NA;NA;NA;NA;NA
+17;Bermuda;p04;Sawnmill industry, coniferous;NA;NA;NA;NA;NA;NA
+24;British Indian Ocean Territory;p04;Sawnmill industry, coniferous;NA;NA;NA;NA;NA;NA
+36;Cayman Islands;p04;Sawnmill industry, coniferous;NA;NA;NA;NA;NA;NA
+43;Cocos (Keeling) Islands;p04;Sawnmill industry, coniferous;NA;NA;NA;NA;NA;NA
+71;French Southern and Antarctic Territories;p04;Sawnmill industry, coniferous;NA;NA;NA;NA;NA;NA
+85;Greenland;p04;Sawnmill industry, coniferous;NA;NA;NA;NA;NA;NA
+86;Grenada;p04;Sawnmill industry, coniferous;NA;NA;NA;NA;NA;NA
+88;Guam;p04;Sawnmill industry, coniferous;NA;NA;NA;NA;NA;NA
+94;Holy See;p04;Sawnmill industry, coniferous;NA;NA;NA;NA;NA;NA
+127;Marshall Islands;p04;Sawnmill industry, coniferous;NA;NA;NA;NA;NA;NA
+142;Montserrat;p04;Sawnmill industry, coniferous;NA;NA;NA;NA;NA;NA
+148;Nauru;p04;Sawnmill industry, coniferous;NA;NA;NA;NA;NA;NA
+163;Northern Mariana Islands;p04;Sawnmill industry, coniferous;NA;NA;NA;NA;NA;NA
+164;Pacific Islands Trust Territory;p04;Sawnmill industry, coniferous;NA;NA;NA;NA;NA;NA
+172;Pitcairn Islands;p04;Sawnmill industry, coniferous;NA;NA;NA;NA;NA;NA
+180;Palau;p04;Sawnmill industry, coniferous;NA;NA;NA;NA;NA;NA
+187;Saint Helena, Ascension and Tristan da Cunha;p04;Sawnmill industry, coniferous;NA;NA;NA;NA;NA;NA
+188;Saint Kitts and Nevis;p04;Sawnmill industry, coniferous;NA;NA;NA;NA;NA;NA
+192;San Marino;p04;Sawnmill industry, coniferous;NA;NA;NA;NA;NA;NA
+205;Western Sahara;p04;Sawnmill industry, coniferous;NA;NA;NA;NA;NA;NA
+218;Tokelau;p04;Sawnmill industry, coniferous;NA;NA;NA;NA;NA;NA
+227;Tuvalu;p04;Sawnmill industry, coniferous;NA;NA;NA;NA;NA;NA
+228;USSR;p04;Sawnmill industry, coniferous;NA;NA;NA;NA;NA;NA
+242;Wake Island;p04;Sawnmill industry, coniferous;NA;NA;NA;NA;NA;NA
+243;Wallis and Futuna Islands;p04;Sawnmill industry, coniferous;NA;NA;NA;NA;NA;NA
+248;Yugoslav SFR;p04;Sawnmill industry, coniferous;NA;NA;NA;NA;NA;NA
+258;Anguilla;p04;Sawnmill industry, coniferous;NA;NA;NA;NA;NA;NA
+279;Curaçao;p04;Sawnmill industry, coniferous;NA;NA;NA;NA;NA;NA
+281;Saint-Martin (French Part);p04;Sawnmill industry, coniferous;NA;NA;NA;NA;NA;NA
+299;Palestine;p04;Sawnmill industry, coniferous;NA;NA;NA;NA;NA;NA
+252;Unspecified Area;p04;Sawnmill industry, coniferous;NA;NA;NA;NA;NA;NA
+254;Others (adjustment);p04;Sawnmill industry, coniferous;NA;NA;NA;NA;NA;NA
+999;RoW;p04;Sawnmill industry, coniferous;NA;NA;NA;NA;NA;NA
+;ASI;p04;Sawmill industry, coniferous;50;27;10;9;5;FAO, ITTO and United Nations (2020)
+;EUR;p04;Sawmill industry, coniferous;55;28;11;2;5;FAO, ITTO and United Nations (2020)
+;AFR;p04;Sawmill industry, coniferous;48;20;24;5;3;FAO, ITTO and United Nations (2020)
+;LAM;p04;Sawmill industry, coniferous;48;30;12;7;NA;FAO, ITTO and United Nations (2020)
+;OCE;p04;Sawmill industry, coniferous;NA;NA;NA;NA;NA;NA
+;NAM;p04;Sawmill industry, coniferous;47;33;9;8;4;FAO, ITTO and United Nations (2020)
+1;Armenia;p05;Sawmill industry, non-coniferous all;NA;NA;NA;NA;NA;NA
+2;Afghanistan;p05;Sawmill industry, non-coniferous all;NA;NA;NA;NA;NA;NA
+3;Albania;p05;Sawmill industry, non-coniferous all;NA;NA;NA;NA;NA;NA
+4;Algeria;p05;Sawmill industry, non-coniferous all;NA;NA;NA;NA;NA;NA
+6;Andorra;p05;Sawmill industry, non-coniferous all;NA;NA;NA;NA;NA;NA
+7;Angola;p05;Sawmill industry, non-coniferous all;NA;NA;NA;NA;NA;NA
+9;Argentina;p05;Sawmill industry, non-coniferous all;NA;NA;NA;NA;NA;NA
+10;Australia;p05;Sawmill industry, non-coniferous all;NA;NA;NA;NA;NA;NA
+11;Austria;p05;Sawmill industry, non-coniferous all;35;NA;NA;NA;NA;FAO, ITTO and United Nations (2020)
+12;Bahamas;p05;Sawmill industry, non-coniferous all;NA;NA;NA;NA;NA;NA
+13;Bahrain;p05;Sawmill industry, non-coniferous all;NA;NA;NA;NA;NA;NA
+14;Barbados;p05;Sawmill industry, non-coniferous all;NA;NA;NA;NA;NA;NA
+15;Belgium-Luxembourg;p05;Sawmill industry, non-coniferous all;NA;NA;NA;NA;NA;NA
+16;Bangladesh;p05;Sawmill industry, non-coniferous all;NA;NA;NA;NA;NA;NA
+18;Bhutan;p05;Sawmill industry, non-coniferous all;NA;NA;NA;NA;NA;NA
+19;Bolivia (Plurinational State of);p05;Sawmill industry, non-coniferous all;NA;NA;NA;NA;NA;NA
+20;Botswana;p05;Sawmill industry, non-coniferous all;NA;NA;NA;NA;NA;NA
+21;Brazil;p05;Sawmill industry, non-coniferous all;45;NA;NA;NA;NA;FAO, ITTO and United Nations (2020)
+22;Aruba;p05;Sawmill industry, non-coniferous all;NA;NA;NA;NA;NA;NA
+23;Belize;p05;Sawmill industry, non-coniferous all;NA;NA;NA;NA;NA;NA
+25;Solomon Islands;p05;Sawmill industry, non-coniferous all;NA;NA;NA;NA;NA;NA
+26;Brunei Darussalam;p05;Sawmill industry, non-coniferous all;NA;NA;NA;NA;NA;NA
+27;Bulgaria;p05;Sawmill industry, non-coniferous all;NA;NA;NA;NA;NA;NA
+28;Myanmar;p05;Sawmill industry, non-coniferous all;NA;NA;NA;NA;NA;NA
+29;Burundi;p05;Sawmill industry, non-coniferous all;NA;NA;NA;NA;NA;NA
+32;Cameroon;p05;Sawmill industry, non-coniferous all;NA;NA;NA;NA;NA;NA
+33;Canada;p05;Sawmill industry, non-coniferous all;51;33;12;0;4;FAO, ITTO and United Nations (2020)
+35;Cabo Verde;p05;Sawmill industry, non-coniferous all;NA;NA;NA;NA;NA;NA
+37;Central African Republic;p05;Sawmill industry, non-coniferous all;NA;NA;NA;NA;NA;NA
+38;Sri Lanka;p05;Sawmill industry, non-coniferous all;NA;NA;NA;NA;NA;NA
+39;Chad;p05;Sawmill industry, non-coniferous all;NA;NA;NA;NA;NA;NA
+40;Chile;p05;Sawmill industry, non-coniferous all;52;NA;NA;NA;NA;FAO, ITTO and United Nations (2020)
+41;China, mainland;p05;Sawmill industry, non-coniferous all;60;25;8;5;2;FAO, ITTO and United Nations (2020)
+42;Christmas Island;p05;Sawmill industry, non-coniferous all;NA;NA;NA;NA;NA;NA
+44;Colombia;p05;Sawmill industry, non-coniferous all;NA;NA;NA;NA;NA;NA
+45;Comoros;p05;Sawmill industry, non-coniferous all;NA;NA;NA;NA;NA;NA
+46;Congo;p05;Sawmill industry, non-coniferous all;NA;NA;NA;NA;NA;NA
+47;Cook Islands;p05;Sawmill industry, non-coniferous all;NA;NA;NA;NA;NA;NA
+48;Costa Rica;p05;Sawmill industry, non-coniferous all;NA;NA;NA;NA;NA;NA
+49;Cuba;p05;Sawmill industry, non-coniferous all;NA;NA;NA;NA;NA;NA
+50;Cyprus;p05;Sawmill industry, non-coniferous all;NA;NA;NA;NA;NA;NA
+51;Czechoslovakia;p05;Sawmill industry, non-coniferous all;NA;NA;NA;NA;NA;NA
+52;Azerbaijan;p05;Sawmill industry, non-coniferous all;NA;NA;NA;NA;NA;NA
+53;Benin;p05;Sawmill industry, non-coniferous all;NA;NA;NA;NA;NA;NA
+54;Denmark;p05;Sawmill industry, non-coniferous all;47;35;15;NA;3;FAO, ITTO and United Nations (2020)
+55;Dominica;p05;Sawmill industry, non-coniferous all;NA;NA;NA;NA;NA;NA
+56;Dominican Republic;p05;Sawmill industry, non-coniferous all;NA;NA;NA;NA;NA;NA
+57;Belarus;p05;Sawmill industry, non-coniferous all;NA;NA;NA;NA;NA;NA
+58;Ecuador;p05;Sawmill industry, non-coniferous all;NA;NA;NA;NA;NA;NA
+59;Egypt;p05;Sawmill industry, non-coniferous all;NA;NA;NA;NA;NA;NA
+60;El Salvador;p05;Sawmill industry, non-coniferous all;NA;NA;NA;NA;NA;NA
+61;Equatorial Guinea;p05;Sawmill industry, non-coniferous all;NA;NA;NA;NA;NA;NA
+63;Estonia;p05;Sawmill industry, non-coniferous all;NA;NA;NA;NA;NA;NA
+64;Faroe Islands;p05;Sawmill industry, non-coniferous all;NA;NA;NA;NA;NA;NA
+65;Falkland Islands (Malvinas);p05;Sawmill industry, non-coniferous all;NA;NA;NA;NA;NA;NA
+66;Fiji;p05;Sawmill industry, non-coniferous all;NA;NA;NA;NA;NA;NA
+67;Finland;p05;Sawmill industry, non-coniferous all;54;NA;NA;NA;NA;FAO, ITTO and United Nations (2020)
+68;France;p05;Sawmill industry, non-coniferous all;47;36;10;4;3;FAO, ITTO and United Nations (2020)
+69;French Guyana;p05;Sawmill industry, non-coniferous all;NA;NA;NA;NA;NA;NA
+70;French Polynesia;p05;Sawmill industry, non-coniferous all;NA;NA;NA;NA;NA;NA
+72;Djibouti;p05;Sawmill industry, non-coniferous all;NA;NA;NA;NA;NA;NA
+73;Georgia;p05;Sawmill industry, non-coniferous all;NA;NA;NA;NA;NA;NA
+74;Gabon;p05;Sawmill industry, non-coniferous all;NA;NA;NA;NA;NA;NA
+75;Gambia;p05;Sawmill industry, non-coniferous all;NA;NA;NA;NA;NA;NA
+79;Germany;p05;Sawmill industry, non-coniferous all;60;13;13;7;4;FAO, ITTO and United Nations (2020)
+80;Bosnia and Herzegovina;p05;Sawmill industry, non-coniferous all;NA;NA;NA;NA;NA;NA
+81;Ghana;p05;Sawmill industry, non-coniferous all;NA;NA;NA;NA;NA;NA
+82;Gibraltar;p05;Sawmill industry, non-coniferous all;NA;NA;NA;NA;NA;NA
+83;Kiribati;p05;Sawmill industry, non-coniferous all;NA;NA;NA;NA;NA;NA
+84;Greece;p05;Sawmill industry, non-coniferous all;NA;NA;NA;NA;NA;NA
+87;Guadeloupe;p05;Sawmill industry, non-coniferous all;NA;NA;NA;NA;NA;NA
+89;Guatemala;p05;Sawmill industry, non-coniferous all;NA;NA;NA;NA;NA;NA
+90;Guinea;p05;Sawmill industry, non-coniferous all;NA;NA;NA;NA;NA;NA
+91;Guyana;p05;Sawmill industry, non-coniferous all;40;NA;NA;NA;NA;FAO, ITTO and United Nations (2020)
+93;Haiti;p05;Sawmill industry, non-coniferous all;NA;NA;NA;NA;NA;NA
+95;Honduras;p05;Sawmill industry, non-coniferous all;NA;NA;NA;NA;NA;NA
+96;China, Hong Kong SAR;p05;Sawmill industry, non-coniferous all;NA;NA;NA;NA;NA;NA
+97;Hungary;p05;Sawmill industry, non-coniferous all;NA;NA;NA;NA;NA;NA
+98;Croatia;p05;Sawmill industry, non-coniferous all;NA;NA;NA;NA;NA;NA
+99;Iceland;p05;Sawmill industry, non-coniferous all;NA;NA;NA;NA;NA;NA
+100;India;p05;Sawmill industry, non-coniferous all;NA;NA;NA;NA;NA;NA
+101;Indonesia;p05;Sawmill industry, non-coniferous all;52;23;10;3;9;FAO, ITTO and United Nations (2020)
+102;Iran (Islamic Republic of);p05;Sawmill industry, non-coniferous all;NA;NA;NA;NA;NA;NA
+103;Iraq;p05;Sawmill industry, non-coniferous all;NA;NA;NA;NA;NA;NA
+104;Ireland;p05;Sawmill industry, non-coniferous all;53;35;11;NA;1;FAO, ITTO and United Nations (2020)
+105;Israel;p05;Sawmill industry, non-coniferous all;NA;NA;NA;NA;NA;NA
+106;Italy;p05;Sawmill industry, non-coniferous all;NA;NA;NA;NA;NA;NA
+107;Cote d'Ivoire;p05;Sawmill industry, non-coniferous all;NA;NA;NA;NA;NA;NA
+108;Kazakhstan;p05;Sawmill industry, non-coniferous all;NA;NA;NA;NA;NA;NA
+109;Jamaica;p05;Sawmill industry, non-coniferous all;NA;NA;NA;NA;NA;NA
+110;Japan;p05;Sawmill industry, non-coniferous all;NA;NA;NA;NA;NA;NA
+112;Jordan;p05;Sawmill industry, non-coniferous all;NA;NA;NA;NA;NA;NA
+113;Kyrgyzstan;p05;Sawmill industry, non-coniferous all;NA;NA;NA;NA;NA;NA
+114;Kenya;p05;Sawmill industry, non-coniferous all;NA;NA;NA;NA;NA;NA
+115;Cambodia;p05;Sawmill industry, non-coniferous all;NA;NA;NA;NA;NA;NA
+116;Democratic People's Republic of Korea;p05;Sawmill industry, non-coniferous all;NA;NA;NA;NA;NA;NA
+117;Republic of Korea;p05;Sawmill industry, non-coniferous all;NA;NA;NA;NA;NA;NA
+118;Kuwait;p05;Sawmill industry, non-coniferous all;NA;NA;NA;NA;NA;NA
+119;Latvia;p05;Sawmill industry, non-coniferous all;NA;NA;NA;NA;NA;NA
+120;Lao People's Democratic Republic;p05;Sawmill industry, non-coniferous all;NA;NA;NA;NA;NA;NA
+121;Lebanon;p05;Sawmill industry, non-coniferous all;NA;NA;NA;NA;NA;NA
+122;Lesotho;p05;Sawmill industry, non-coniferous all;NA;NA;NA;NA;NA;NA
+123;Liberia;p05;Sawmill industry, non-coniferous all;NA;NA;NA;NA;NA;NA
+124;Libya;p05;Sawmill industry, non-coniferous all;NA;NA;NA;NA;NA;NA
+125;Liechtenstein;p05;Sawmill industry, non-coniferous all;NA;NA;NA;NA;NA;NA
+126;Lithuania;p05;Sawmill industry, non-coniferous all;48;36;11;NA;5;FAO, ITTO and United Nations (2020)
+128;China, Macao SAR;p05;Sawmill industry, non-coniferous all;NA;NA;NA;NA;NA;NA
+129;Madagascar;p05;Sawmill industry, non-coniferous all;NA;NA;NA;NA;NA;NA
+130;Malawi;p05;Sawmill industry, non-coniferous all;NA;NA;NA;NA;NA;NA
+131;Malaysia;p05;Sawmill industry, non-coniferous all;63;NA;NA;NA;8;FAO, ITTO and United Nations (2020)
+132;Maldives;p05;Sawmill industry, non-coniferous all;NA;NA;NA;NA;NA;NA
+133;Mali;p05;Sawmill industry, non-coniferous all;NA;NA;NA;NA;NA;NA
+134;Malta;p05;Sawmill industry, non-coniferous all;NA;NA;NA;NA;NA;NA
+135;Martinique;p05;Sawmill industry, non-coniferous all;NA;NA;NA;NA;NA;NA
+136;Mauritania;p05;Sawmill industry, non-coniferous all;NA;NA;NA;NA;NA;NA
+137;Mauritius;p05;Sawmill industry, non-coniferous all;NA;NA;NA;NA;NA;NA
+138;Mexico;p05;Sawmill industry, non-coniferous all;NA;NA;NA;NA;NA;NA
+141;Mongolia;p05;Sawmill industry, non-coniferous all;NA;NA;NA;NA;NA;NA
+143;Morocco;p05;Sawmill industry, non-coniferous all;NA;NA;NA;NA;NA;NA
+144;Mozambique;p05;Sawmill industry, non-coniferous all;NA;NA;NA;NA;NA;NA
+145;Micronesia (Federated States of);p05;Sawmill industry, non-coniferous all;NA;NA;NA;NA;NA;NA
+146;Republic of Moldova;p05;Sawmill industry, non-coniferous all;NA;NA;NA;NA;NA;NA
+147;Namibia;p05;Sawmill industry, non-coniferous all;NA;NA;NA;NA;NA;NA
+149;Nepal;p05;Sawmill industry, non-coniferous all;NA;NA;NA;NA;NA;NA
+150;Netherlands;p05;Sawmill industry, non-coniferous all;51;NA;NA;NA;NA;FAO, ITTO and United Nations (2020)
+151;Netherlands Antilles;p05;Sawmill industry, non-coniferous all;NA;NA;NA;NA;NA;NA
+153;New Caledonia;p05;Sawmill industry, non-coniferous all;NA;NA;NA;NA;NA;NA
+154;North Macedonia;p05;Sawmill industry, non-coniferous all;NA;NA;NA;NA;NA;NA
+155;Vanuatu;p05;Sawmill industry, non-coniferous all;NA;NA;NA;NA;NA;NA
+156;New Zealand;p05;Sawmill industry, non-coniferous all;NA;NA;NA;NA;NA;NA
+157;Nicaragua;p05;Sawmill industry, non-coniferous all;NA;NA;NA;NA;NA;NA
+158;Niger;p05;Sawmill industry, non-coniferous all;NA;NA;NA;NA;NA;NA
+159;Nigeria;p05;Sawmill industry, non-coniferous all;55;21;10;7;7;FAO, ITTO and United Nations (2020)
+160;Niue;p05;Sawmill industry, non-coniferous all;NA;NA;NA;NA;NA;NA
+161;Norfolk Island;p05;Sawmill industry, non-coniferous all;NA;NA;NA;NA;NA;NA
+162;Norway;p05;Sawmill industry, non-coniferous all;50;34;8;NA;8;FAO, ITTO and United Nations (2020)
+165;Pakistan;p05;Sawmill industry, non-coniferous all;NA;NA;NA;NA;NA;NA
+166;Panama;p05;Sawmill industry, non-coniferous all;NA;NA;NA;NA;NA;NA
+167;Czechia;p05;Sawmill industry, non-coniferous all;46;NA;NA;NA;NA;FAO, ITTO and United Nations (2020)
+168;Papua New Guinea;p05;Sawmill industry, non-coniferous all;NA;NA;NA;NA;NA;NA
+169;Paraguay;p05;Sawmill industry, non-coniferous all;NA;NA;NA;NA;NA;NA
+170;Peru;p05;Sawmill industry, non-coniferous all;NA;NA;NA;NA;NA;NA
+171;Philippines;p05;Sawmill industry, non-coniferous all;NA;NA;NA;NA;NA;NA
+173;Poland;p05;Sawmill industry, non-coniferous all;63;18;12;5;2;FAO, ITTO and United Nations (2020)
+174;Portugal;p05;Sawmill industry, non-coniferous all;57;NA;NA;NA;NA;FAO, ITTO and United Nations (2020)
+175;Guinea-Bissau;p05;Sawmill industry, non-coniferous all;NA;NA;NA;NA;NA;NA
+176;Timor-Leste;p05;Sawmill industry, non-coniferous all;NA;NA;NA;NA;NA;NA
+178;Eritrea;p05;Sawmill industry, non-coniferous all;NA;NA;NA;NA;NA;NA
+179;Qatar;p05;Sawmill industry, non-coniferous all;NA;NA;NA;NA;NA;NA
+181;Zimbabwe;p05;Sawmill industry, non-coniferous all;NA;NA;NA;NA;NA;NA
+182;Reunion;p05;Sawmill industry, non-coniferous all;NA;NA;NA;NA;NA;NA
+183;Romania;p05;Sawmill industry, non-coniferous all;NA;NA;NA;NA;NA;NA
+184;Rwanda;p05;Sawmill industry, non-coniferous all;NA;NA;NA;NA;NA;NA
+185;Russian Federation;p05;Sawmill industry, non-coniferous all;NA;NA;NA;NA;NA;NA
+186;Serbia and Montenegro;p05;Sawmill industry, non-coniferous all;NA;NA;NA;NA;NA;NA
+189;Saint Lucia;p05;Sawmill industry, non-coniferous all;NA;NA;NA;NA;NA;NA
+190;Saint Pierre and Miquelon;p05;Sawmill industry, non-coniferous all;NA;NA;NA;NA;NA;NA
+191;Saint Vincent and the Grenadines;p05;Sawmill industry, non-coniferous all;NA;NA;NA;NA;NA;NA
+193;Sao Tome and Principe;p05;Sawmill industry, non-coniferous all;NA;NA;NA;NA;NA;NA
+194;Saudi Arabia;p05;Sawmill industry, non-coniferous all;NA;NA;NA;NA;NA;NA
+195;Senegal;p05;Sawmill industry, non-coniferous all;NA;NA;NA;NA;NA;NA
+196;Seychelles;p05;Sawmill industry, non-coniferous all;NA;NA;NA;NA;NA;NA
+197;Sierra Leone;p05;Sawmill industry, non-coniferous all;NA;NA;NA;NA;NA;NA
+198;Slovenia;p05;Sawmill industry, non-coniferous all;NA;NA;NA;NA;NA;NA
+199;Slovakia;p05;Sawmill industry, non-coniferous all;66;17;9;NA;8;FAO, ITTO and United Nations (2020)
+200;Singapore;p05;Sawmill industry, non-coniferous all;NA;NA;NA;NA;NA;NA
+201;Somalia;p05;Sawmill industry, non-coniferous all;NA;NA;NA;NA;NA;NA
+202;South Africa;p05;Sawmill industry, non-coniferous all;NA;NA;NA;NA;NA;NA
+203;Spain;p05;Sawmill industry, non-coniferous all;53;27;14;NA;6;FAO, ITTO and United Nations (2020)
+207;Suriname;p05;Sawmill industry, non-coniferous all;45;44;10;NA;NA;FAO, ITTO and United Nations (2020)
+208;Tajikistan;p05;Sawmill industry, non-coniferous all;NA;NA;NA;NA;NA;NA
+209;Eswatini;p05;Sawmill industry, non-coniferous all;NA;NA;NA;NA;NA;NA
+210;Sweden;p05;Sawmill industry, non-coniferous all;53;NA;NA;NA;NA;FAO, ITTO and United Nations (2020)
+211;Switzerland;p05;Sawmill industry, non-coniferous all;NA;NA;NA;NA;NA;NA
+212;Syrian Arab Republic;p05;Sawmill industry, non-coniferous all;NA;NA;NA;NA;NA;NA
+213;Turkmenistan;p05;Sawmill industry, non-coniferous all;NA;NA;NA;NA;NA;NA
+214;China, Taiwan Province of;p05;Sawmill industry, non-coniferous all;NA;NA;NA;NA;NA;NA
+215;United Republic of Tanzania;p05;Sawmill industry, non-coniferous all;NA;NA;NA;NA;NA;NA
+216;Thailand;p05;Sawmill industry, non-coniferous all;NA;NA;NA;NA;NA;NA
+217;Togo;p05;Sawmill industry, non-coniferous all;NA;NA;NA;NA;NA;NA
+219;Tonga;p05;Sawmill industry, non-coniferous all;NA;NA;NA;NA;NA;NA
+220;Trinidad and Tobago;p05;Sawmill industry, non-coniferous all;NA;NA;NA;NA;NA;NA
+221;Oman;p05;Sawmill industry, non-coniferous all;NA;NA;NA;NA;NA;NA
+222;Tunisia;p05;Sawmill industry, non-coniferous all;NA;NA;NA;NA;NA;NA
+223;Turkey;p05;Sawmill industry, non-coniferous all;NA;NA;NA;NA;NA;NA
+224;Turks and Caicos Islands;p05;Sawmill industry, non-coniferous all;NA;NA;NA;NA;NA;NA
+225;United Arab Emirates;p05;Sawmill industry, non-coniferous all;NA;NA;NA;NA;NA;NA
+226;Uganda;p05;Sawmill industry, non-coniferous all;NA;NA;NA;NA;NA;NA
+229;United Kingdom;p05;Sawmill industry, non-coniferous all;40;NA;NA;NA;NA;FAO, ITTO and United Nations (2020)
+230;Ukraine;p05;Sawmill industry, non-coniferous all;61;24;10;NA;5;FAO, ITTO and United Nations (2020)
+231;United States of America;p05;Sawmill industry, non-coniferous all;54;30;13;1;2;FAO, ITTO and United Nations (2020)
+233;Burkina Faso;p05;Sawmill industry, non-coniferous all;NA;NA;NA;NA;NA;NA
+234;Uruguay;p05;Sawmill industry, non-coniferous all;52;NA;NA;NA;NA;FAO, ITTO and United Nations (2020)
+235;Uzbekistan;p05;Sawmill industry, non-coniferous all;NA;NA;NA;NA;NA;NA
+236;Venezuela (Bolivarian Republic of);p05;Sawmill industry, non-coniferous all;NA;NA;NA;NA;NA;NA
+237;Viet Nam;p05;Sawmill industry, non-coniferous all;NA;NA;NA;NA;NA;NA
+238;Ethiopia;p05;Sawmill industry, non-coniferous all;NA;NA;NA;NA;NA;NA
+239;British Virgin Islands;p05;Sawmill industry, non-coniferous all;NA;NA;NA;NA;NA;NA
+244;Samoa;p05;Sawmill industry, non-coniferous all;NA;NA;NA;NA;NA;NA
+249;Yemen;p05;Sawmill industry, non-coniferous all;NA;NA;NA;NA;NA;NA
+250;Democratic Republic of the Congo;p05;Sawmill industry, non-coniferous all;NA;NA;NA;NA;NA;NA
+251;Zambia;p05;Sawmill industry, non-coniferous all;NA;NA;NA;NA;NA;NA
+255;Belgium;p05;Sawmill industry, non-coniferous all;NA;NA;NA;NA;NA;NA
+256;Luxembourg;p05;Sawmill industry, non-coniferous all;NA;NA;NA;NA;NA;NA
+270;Mayotte;p05;Sawmill industry, non-coniferous all;NA;NA;NA;NA;NA;NA
+272;Serbia;p05;Sawmill industry, non-coniferous all;NA;NA;NA;NA;NA;NA
+273;Montenegro;p05;Sawmill industry, non-coniferous all;NA;NA;NA;NA;NA;NA
+276;Sudan;p05;Sawmill industry, non-coniferous all;NA;NA;NA;NA;NA;NA
+277;South Sudan;p05;Sawmill industry, non-coniferous all;NA;NA;NA;NA;NA;NA
+5;American Samoa;p05;Sawnmill industry, non-coniferous all;NA;NA;NA;NA;NA;NA
+8;Antigua and Barbuda;p05;Sawnmill industry, non-coniferous all;NA;NA;NA;NA;NA;NA
+17;Bermuda;p05;Sawnmill industry, non-coniferous all;NA;NA;NA;NA;NA;NA
+24;British Indian Ocean Territory;p05;Sawnmill industry, non-coniferous all;NA;NA;NA;NA;NA;NA
+36;Cayman Islands;p05;Sawnmill industry, non-coniferous all;NA;NA;NA;NA;NA;NA
+43;Cocos (Keeling) Islands;p05;Sawnmill industry, non-coniferous all;NA;NA;NA;NA;NA;NA
+71;French Southern and Antarctic Territories;p05;Sawnmill industry, non-coniferous all;NA;NA;NA;NA;NA;NA
+85;Greenland;p05;Sawnmill industry, non-coniferous all;NA;NA;NA;NA;NA;NA
+86;Grenada;p05;Sawnmill industry, non-coniferous all;NA;NA;NA;NA;NA;NA
+88;Guam;p05;Sawnmill industry, non-coniferous all;NA;NA;NA;NA;NA;NA
+94;Holy See;p05;Sawnmill industry, non-coniferous all;NA;NA;NA;NA;NA;NA
+127;Marshall Islands;p05;Sawnmill industry, non-coniferous all;NA;NA;NA;NA;NA;NA
+142;Montserrat;p05;Sawnmill industry, non-coniferous all;NA;NA;NA;NA;NA;NA
+148;Nauru;p05;Sawnmill industry, non-coniferous all;NA;NA;NA;NA;NA;NA
+163;Northern Mariana Islands;p05;Sawnmill industry, non-coniferous all;NA;NA;NA;NA;NA;NA
+164;Pacific Islands Trust Territory;p05;Sawnmill industry, non-coniferous all;NA;NA;NA;NA;NA;NA
+172;Pitcairn Islands;p05;Sawnmill industry, non-coniferous all;NA;NA;NA;NA;NA;NA
+180;Palau;p05;Sawnmill industry, non-coniferous all;NA;NA;NA;NA;NA;NA
+187;Saint Helena, Ascension and Tristan da Cunha;p05;Sawnmill industry, non-coniferous all;NA;NA;NA;NA;NA;NA
+188;Saint Kitts and Nevis;p05;Sawnmill industry, non-coniferous all;NA;NA;NA;NA;NA;NA
+192;San Marino;p05;Sawnmill industry, non-coniferous all;NA;NA;NA;NA;NA;NA
+205;Western Sahara;p05;Sawnmill industry, non-coniferous all;NA;NA;NA;NA;NA;NA
+218;Tokelau;p05;Sawnmill industry, non-coniferous all;NA;NA;NA;NA;NA;NA
+227;Tuvalu;p05;Sawnmill industry, non-coniferous all;NA;NA;NA;NA;NA;NA
+228;USSR;p05;Sawnmill industry, non-coniferous all;NA;NA;NA;NA;NA;NA
+242;Wake Island;p05;Sawnmill industry, non-coniferous all;NA;NA;NA;NA;NA;NA
+243;Wallis and Futuna Islands;p05;Sawnmill industry, non-coniferous all;NA;NA;NA;NA;NA;NA
+248;Yugoslav SFR;p05;Sawnmill industry, non-coniferous all;NA;NA;NA;NA;NA;NA
+258;Anguilla;p05;Sawnmill industry, non-coniferous all;NA;NA;NA;NA;NA;NA
+279;Curaçao;p05;Sawnmill industry, non-coniferous all;NA;NA;NA;NA;NA;NA
+281;Saint-Martin (French Part);p05;Sawnmill industry, non-coniferous all;NA;NA;NA;NA;NA;NA
+299;Palestine;p05;Sawnmill industry, non-coniferous all;NA;NA;NA;NA;NA;NA
+252;Unspecified Area;p05;Sawnmill industry, non-coniferous all;NA;NA;NA;NA;NA;NA
+254;Others (adjustment);p05;Sawnmill industry, non-coniferous all;NA;NA;NA;NA;NA;NA
+999;RoW;p05;Sawnmill industry, non-coniferous all;NA;NA;NA;NA;NA;NA
+;ASI;p05;Sawmill industry, non-coniferous all;58;24;9;4;6;FAO, ITTO and United Nations (2020)
+;EUR;p05;Sawmill industry, non-coniferous all;52;28;11;5;5;FAO, ITTO and United Nations (2020)
+;AFR;p05;Sawmill industry, non-coniferous all;55;21;10;7;7;FAO, ITTO and United Nations (2020)
+;LAM;p05;Sawmill industry, non-coniferous all;47;44;10;NA;NA;FAO, ITTO and United Nations (2020)
+;OCE;p05;Sawmill industry, non-coniferous all;NA;NA;NA;NA;NA;NA
+;NAM;p05;Sawmill industry, non-coniferous all;53;32;13;1;3;FAO, ITTO and United Nations (2020)
