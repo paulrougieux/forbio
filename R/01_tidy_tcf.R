@@ -15,6 +15,9 @@ cat("\nStep 1: Tidying material balances of sawnwood C (p04) and NC (p05) produc
 
 # Read file
 sup_sawnwood <- fread("inst/mb_sawnwood_raw.csv")
+sup_sawnwood <- sup_sawnwood[, `:=`(product = as.numeric(product), chips = as.numeric(chips), 
+                                    sawdust = as.numeric(sawdust), shavings = as.numeric(shavings),
+                                    shrinkage = as.numeric(shrinkage))]
 
 # Aggregation and renaming items
 sup_sawnwood[,  `:=`(residues = na_sum(sup_sawnwood$sawdust, sup_sawnwood$shavings))]
@@ -25,58 +28,70 @@ sup_sawnwood <- sup_sawnwood[, c("area_code", "area", "proc_code",
 # Apply continental average MB where no country-specific value available
 sup_cont <- sup_sawnwood[is.na(area_code)]
 sup_sawnwood <- merge(sup_sawnwood, regions[, .(area_code, continent)],
-                      by = "area_code")
+                      by = "area_code", all.x = TRUE)
 sup_sawnwood[continent == "EU", continent := "EUR"]
 sup_sawnwood <- merge(sup_sawnwood, sup_cont[, .(continent = area, proc_code, 
-  c_product = product, c_chips = chips, c_residues = residues)],
+  c_product = product, c_chips = chips, c_residues = residues, c_shrinkage = shrinkage)],
   by = c("continent", "proc_code"), all.x = TRUE)
 
-# Calculate anew "shrinkage" and name it "losses"
-sup_sawnwood[, c_losses := 100 - (c_product + c_chips + c_residues)]
 
-# Correct c_losses to 0 when this is -1 and allocate -1 to chips
-sup_sawnwood[c_losses == -1,
-             c_losses := 0]
-sup_sawnwood[c_losses == 0,
-             c_chips := c_chips - 1]
+# Rescale continental average values to sum up to 100
+sup_sawnwood[na_sum(c_product, c_chips, c_residues, c_shrinkage) != 100,
+             `:=`(c_chips = c_chips/na_sum(c_product, c_chips, c_residues, c_shrinkage)*100, 
+                  c_product = c_product/na_sum(c_product, c_chips, c_residues, c_shrinkage)*100, 
+                  c_residues = c_residues/na_sum(c_product, c_chips, c_residues, c_shrinkage)*100, 
+                  c_shrinkage = c_shrinkage/na_sum(c_product, c_chips, c_residues, c_shrinkage)*100)]
 
-# Or allocation in both chips and residues but this does not seem to work
-# sup_sawnwood[c_losses == 0,
-#              c_chips := c_chips - 0.5,
-#              c_residues := c_residues - 0.5]
+# Fill gaps with continental values
+sup_sawnwood[!is.na(product) & is.na(na_sum(chips, residues, shrinkage)), 
+    `:=`(chips = (100 - product) / na_sum(c_chips, c_residues, c_shrinkage) * c_chips,
+         residues = (100 - product) / na_sum(c_chips, c_residues, c_shrinkage) * c_residues,
+         shrinkage = (100 - product) / na_sum(c_chips, c_residues, c_shrinkage) * c_shrinkage)]
 
-sup_sawnwood[!is.na(product) & is.na(chips), 
-    `:=`(chips = (100 - product - c_losses) / (c_chips + c_residues) * c_chips,
-         residues = (100 - product - c_losses) / (c_chips + c_residues) * c_residues)]
+sup_sawnwood[!is.na(product) & is.na(na_sum(chips, residues)), 
+             `:=`(chips = (100 - product - shrinkage) / na_sum(c_chips, c_residues) * c_chips,
+                  residues = (100 - product - shrinkage) / na_sum(c_chips, c_residues) * c_residues)]
+
 sup_sawnwood[is.na(product), 
-    `:=`(product = c_product, chips = c_chips, residues = c_residues)]
+    `:=`(product = c_product, chips = c_chips, residues = c_residues, shrinkage = c_shrinkage)]
 
-sup_sawnwood[, `:=`(c_product = NULL, c_chips = NULL, c_residues = NULL, c_losses = NULL)]
+sup_sawnwood[, `:=`(c_product = NULL, c_chips = NULL, c_residues = NULL, c_shrinkage = NULL)]
 
 # Apply world average MB where no continental average available
 sup_wrld <- sup_cont %>% 
   group_by(proc_code) %>% 
   summarize(w_product = mean(product, na.rm = TRUE),
             w_chips = mean(chips, na.rm = TRUE),
-            w_residues = mean(residues, na.rm = TRUE)) %>% 
+            w_residues = mean(residues, na.rm = TRUE),
+            w_shrinkage = mean(shrinkage, na.rm = TRUE)) %>% 
   ungroup()
 sup_sawnwood <- merge(sup_sawnwood, sup_wrld,
   by = c("proc_code"), all.x = TRUE)
 sup_sawnwood[is.na(product), 
-    `:=`(product = w_product, chips = w_chips, residues = w_residues)]
-sup_sawnwood[, `:=`(w_product = NULL, w_chips = NULL, w_residues = NULL)]
+    `:=`(product = w_product, chips = w_chips, residues = w_residues, shrinkage = w_shrinkage)]
+sup_sawnwood[, `:=`(w_product = NULL, w_chips = NULL, w_residues = NULL, w_shrinkage = NULL)]
 
 # Separate shrinkage which will be used later
-sup_sawnwood[is.na(shrinkage),
-             `:=`(shrinkage = 100 - product - chips - residues)]
+sup_sawnwood[is.na(shrinkage), shrinkage := 100 - product - chips - residues]
+
+sup_sawnwood[shrinkage < 0, shrinkage := 0]
+
+# Rescale final national values to sum up to 100
+sup_sawnwood[na_sum(product, chips, residues, shrinkage) != 100,
+             `:=`(chips = chips/na_sum(product, chips, residues, shrinkage)*100,  
+                  product = product/na_sum(product, chips, residues, shrinkage)*100,
+                  residues = residues/na_sum(product, chips, residues, shrinkage)*100,
+                  shrinkage = shrinkage/na_sum(product, chips, residues, shrinkage)*100)]
+
 shrinkage_sawnwood <- sup_sawnwood[, c("area_code", "area", "proc_code","process","shrinkage")]
 
-# Convert into percentages ignoring losses
+# Convert into percentages ignoring shrinkage losses
 sup_sawnwood[, total := product + chips + residues]
 sup_sawnwood[, `:=`(product = product / total,
            chips = chips / total,
            residues = residues / total,
-           total = NULL)]
+           total = NULL, shrinkage = NULL)]
+sup_sawnwood <- sup_sawnwood[!is.na(area_code)]
 rm(sup_cont, sup_wrld)
 
 ## Continue with c06 and c07 ##
@@ -94,10 +109,9 @@ share_venply[proc_code == "c07", proc_code := "p07"]
 # Rename items 
 setnames(sup_venply,c("chips,peeler_cores","sanding_dust"),c("chips","residues"))
 
-# Prepare structure to calculate weighted average of TCFs
-sup_venply_average <- sup_venply[subproc_code %in% c("p06_c", "p07_c")]
-sup_venply_average[, `:=` (subproc_code = NULL, subprocess = NULL,
-                           product = NA, chips = NA, residues = NA, shrinkage = NA)]
+# Prepare structure to calculate weighted average of MBs
+sup_venply_average <- unique(sup_venply[, .(area_code, area, proc_code, process)])
+sup_venply_average[, `:=` (product = NA, chips = NA, residues = NA, shrinkage = NA)]
 sup_venply_average <- merge(sup_venply_average,
                      share_venply[, .(area_code, area, proc_code, c_share, nc_share)],
                      by = c("area_code", "area", "proc_code"),all.x = TRUE)
@@ -124,15 +138,17 @@ sup_venply <- sup_venply_average[, `:=`(product = (c_share * product_c + nc_shar
                           chips = (c_share * chips_c + nc_share * chips_nc) / 100,
                           residues = (c_share * residues_c + nc_share * residues_nc) / 100,
                           shrinkage = (c_share * shrinkage_c + nc_share * shrinkage_nc) / 100)]
+# Calculate averages where no weights available
 sup_venply[is.na(product), 
              `:=`(product = (product_c + product_nc)/2, chips = (chips_c + chips_nc)/2,
                   residues = (residues_c + residues_nc)/2, shrinkage = (shrinkage_c + shrinkage_nc)/2)]
+# Use c/nc values where only c/nc products reported
 sup_venply[is.na(product) & is.na(product_c), 
            `:=`(product = product_nc, chips = chips_nc, residues = residues_nc, shrinkage = shrinkage_nc)]
 sup_venply[is.na(product) & is.na(product_nc), 
            `:=`(product = product_c, chips = chips_c, residues = residues_c, shrinkage = shrinkage_c)]
 sup_venply[, `:=`(c_share = NULL, product_c = NULL, nc_share = NULL, product_nc = NULL, chips_c = NULL, chips_nc = NULL,
-                  residues_c = NULL, residues_nc = NULL, shrinkage_c = NULL, shrinkage_nc = NULL, literature = NULL)]
+                  residues_c = NULL, residues_nc = NULL, shrinkage_c = NULL, shrinkage_nc = NULL)]
 sup_venply <- sup_venply[order(sup_venply$area_code),]
 
 rm(share_venply, sup_venply_average, sup_c, sup_nc)
@@ -152,67 +168,62 @@ sup_cont <- sup_venply %>%
   ungroup()
 setnames(sup_cont,c("continent"),c("area"))
 setDT(sup_cont)
-sup_cont <- sup_cont[ area != 'XXX']
-sup_cont <- sup_cont[ area != 'ROW']
+sup_cont <- sup_cont[! area %in% c('XXX', 'ROW') & !is.na(area)]
 sup_venply <- sup_venply[!is.na(area_code)]
 sup_venply <- rbind(sup_venply, sup_cont, fill=TRUE)
 
 # Apply continental average MB where no country-specific value available
-sup_cont <- sup_venply[is.na(area_code)]
-sup_venply <- merge(sup_venply, sup_cont[, .(continent = area, proc_code, 
-                                                 c_product = product, c_chips = chips, c_residues = residues)],
+# sup_cont <- sup_venply[is.na(area_code)]
+sup_venply <- merge(sup_venply, sup_cont[, .(continent = area, proc_code, c_product = product, 
+                                             c_chips = chips, c_residues = residues, c_shrinkage = shrinkage)],
                       by = c("continent", "proc_code"), all.x = TRUE)
 
-# Calculate "shrinkage" anew and rename it "losses"
-sup_venply[, c_losses := 100 - (c_product + c_chips + c_residues)]
-sup_venply[!is.na(product) & is.na(chips), 
-             `:=`(chips = (100 - product - c_losses) / (c_chips + c_residues) * c_chips,
-                  residues = (100 - product - c_losses) / (c_chips + c_residues) * c_residues)]
+# Fill gaps with continental values
+sup_venply[!is.na(product) & is.na(na_sum(chips, residues, shrinkage)), 
+             `:=`(chips = (100 - product) / na_sum(c_chips, c_residues, c_shrinkage) * c_chips,
+                  residues = (100 - product) / na_sum(c_chips, c_residues, c_shrinkage) * c_residues,
+                  shrinkage = (100 - product) / na_sum(c_chips, c_residues, c_shrinkage) * c_shrinkage)]
+
 sup_venply[is.na(product), 
-             `:=`(product = c_product, chips = c_chips, residues = c_residues)]
-sup_venply[, `:=`(c_product = NULL, c_chips = NULL, c_residues = NULL, c_losses = NULL)]
+             `:=`(product = c_product, chips = c_chips, residues = c_residues, shrinkage = c_shrinkage)]
+
+sup_venply[, `:=`(c_product = NULL, c_chips = NULL, c_residues = NULL, c_shrinkage = NULL)]
+
+
 
 # Apply world average MB where no continental average available
 sup_wrld <- sup_cont %>% 
   group_by(proc_code) %>% 
   summarize(w_product = mean(product, na.rm = TRUE),
             w_chips = mean(chips, na.rm = TRUE),
-            w_residues = mean(residues, na.rm = TRUE)) %>% 
+            w_residues = mean(residues, na.rm = TRUE),
+            w_shrinkage = mean(shrinkage, na.rm = TRUE)) %>% 
   ungroup()
 sup_venply <- merge(sup_venply, sup_wrld,
                       by = c("proc_code"), all.x = TRUE)
 sup_venply[is.na(product), 
-             `:=`(product = w_product, chips = w_chips, residues = w_residues)]
-sup_venply[, `:=`(w_product = NULL, w_chips = NULL, w_residues = NULL)]
-
-# Shift 20% of chips to product and residues (original category was "chips, peeler cores, etc.")
-sup_venply[, `:=`(product = product + chips * 0.2, residues = residues + chips * 0.2, chips = chips * 0.6)]
+             `:=`(product = w_product, chips = w_chips, residues = w_residues, shrinkage = w_shrinkage)]
+sup_venply[, `:=`(w_product = NULL, w_chips = NULL, w_residues = NULL, w_shrinkage = NULL)]
 
 # Create shrinkage csv
-sup_venply[is.na(shrinkage),
-             `:=`(shrinkage = 100 - product - chips - residues)]
 shrinkage_venply <- sup_venply[, c("area_code", "area", "proc_code","process","shrinkage")]
 shrinkage <- rbind(shrinkage_sawnwood, shrinkage_venply)
-##### TO CORRECT: why sawnwood has no continents???
-setnames(shrinkage,c("proc_code","process"),c("com_code","item"))
-# change c for p in com_code
-# change names of items for names of processes
 # Write shrinkage file
-#fwrite(shrinkage_venply, "inst/shrinkage_venply.csv")
+fwrite(shrinkage, "inst/shrinkage_tidy.csv")
 
 # Convert into percentages ignoring losses
 sup_venply[, total := product + chips + residues]
 sup_venply[, `:=`(product = product / total,
            chips = chips / total,
            residues = residues / total,
-           total = NULL)]
+           total = NULL, shrinkage = NULL)]
 
 # Save mb_sup_tidy
 sup_venply <- sup_venply[!is.na(area_code)]
 sup <- rbind(sup_sawnwood, sup_venply)
 fwrite(sup, "inst/mb_sup_tidy.csv")
 
-rm(shrinkage_venply, sup_cont, sup_wrld, sup_sawnwood, sup_venply, sup)
+rm(shrinkage_venply, sup_cont, sup_wrld, sup_sawnwood, sup_venply, sup, shrinkage, shrinkage_sawnwood)
 
 
 # TCF USE --------------------------------------------------------------------------------------------------------------------
