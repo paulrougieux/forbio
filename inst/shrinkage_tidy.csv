@@ -1,10 +1,10 @@
 area_code,area,proc_code,process,shrinkage
-,ASI,p04,"Sawmill industry, coniferous",5
-,EUR,p04,"Sawmill industry, coniferous",5
+,ASI,p04,"Sawmill industry, coniferous",4.95049504950495
+,EUR,p04,"Sawmill industry, coniferous",4.95049504950495
 ,AFR,p04,"Sawmill industry, coniferous",3
 ,LAM,p04,"Sawmill industry, coniferous",3
-,OCE,p04,"Sawmill industry, coniferous",4.25
-,NAM,p04,"Sawmill industry, coniferous",4
+,OCE,p04,"Sawmill industry, coniferous",4.21417947446703
+,NAM,p04,"Sawmill industry, coniferous",3.96039603960396
 4,Algeria,p04,"Sawmill industry, coniferous",3
 7,Angola,p04,"Sawmill industry, coniferous",3
 20,Botswana,p04,"Sawmill industry, coniferous",3
@@ -64,197 +64,197 @@ area_code,area,proc_code,process,shrinkage
 270,Mayotte,p04,"Sawmill industry, coniferous",3
 276,Sudan,p04,"Sawmill industry, coniferous",3
 277,South Sudan,p04,"Sawmill industry, coniferous",3
-1,Armenia,p04,"Sawmill industry, coniferous",5
-2,Afghanistan,p04,"Sawmill industry, coniferous",5
-13,Bahrain,p04,"Sawmill industry, coniferous",5
-16,Bangladesh,p04,"Sawmill industry, coniferous",5
-18,Bhutan,p04,"Sawmill industry, coniferous",5
-24,British Indian Ocean Territory,p04,"Sawnmill industry, coniferous",5
-26,Brunei Darussalam,p04,"Sawmill industry, coniferous",5
-28,Myanmar,p04,"Sawmill industry, coniferous",5
-38,Sri Lanka,p04,"Sawmill industry, coniferous",5
+1,Armenia,p04,"Sawmill industry, coniferous",4.95049504950495
+2,Afghanistan,p04,"Sawmill industry, coniferous",4.95049504950495
+13,Bahrain,p04,"Sawmill industry, coniferous",4.95049504950495
+16,Bangladesh,p04,"Sawmill industry, coniferous",4.95049504950495
+18,Bhutan,p04,"Sawmill industry, coniferous",4.95049504950495
+24,British Indian Ocean Territory,p04,"Sawnmill industry, coniferous",4.95049504950495
+26,Brunei Darussalam,p04,"Sawmill industry, coniferous",4.95049504950495
+28,Myanmar,p04,"Sawmill industry, coniferous",4.95049504950495
+38,Sri Lanka,p04,"Sawmill industry, coniferous",4.95049504950495
 41,"China, mainland",p04,"Sawmill industry, coniferous",2
-52,Azerbaijan,p04,"Sawmill industry, coniferous",5
-73,Georgia,p04,"Sawmill industry, coniferous",5
-96,"China, Hong Kong SAR",p04,"Sawmill industry, coniferous",5
-100,India,p04,"Sawmill industry, coniferous",5
-101,Indonesia,p04,"Sawmill industry, coniferous",7
-102,Iran (Islamic Republic of),p04,"Sawmill industry, coniferous",5
-103,Iraq,p04,"Sawmill industry, coniferous",5
-105,Israel,p04,"Sawmill industry, coniferous",5
-108,Kazakhstan,p04,"Sawmill industry, coniferous",5
-110,Japan,p04,"Sawmill industry, coniferous",5
-112,Jordan,p04,"Sawmill industry, coniferous",5
-113,Kyrgyzstan,p04,"Sawmill industry, coniferous",5
-115,Cambodia,p04,"Sawmill industry, coniferous",5
-116,Democratic People's Republic of Korea,p04,"Sawmill industry, coniferous",5
-117,Republic of Korea,p04,"Sawmill industry, coniferous",5
-118,Kuwait,p04,"Sawmill industry, coniferous",5
-120,Lao People's Democratic Republic,p04,"Sawmill industry, coniferous",5
-121,Lebanon,p04,"Sawmill industry, coniferous",5
-128,"China, Macao SAR",p04,"Sawmill industry, coniferous",5
-131,Malaysia,p04,"Sawmill industry, coniferous",5
-132,Maldives,p04,"Sawmill industry, coniferous",5
-141,Mongolia,p04,"Sawmill industry, coniferous",5
-149,Nepal,p04,"Sawmill industry, coniferous",5
-164,Pacific Islands Trust Territory,p04,"Sawnmill industry, coniferous",5
-165,Pakistan,p04,"Sawmill industry, coniferous",5
-171,Philippines,p04,"Sawmill industry, coniferous",5
-176,Timor-Leste,p04,"Sawmill industry, coniferous",5
-179,Qatar,p04,"Sawmill industry, coniferous",5
-194,Saudi Arabia,p04,"Sawmill industry, coniferous",5
-200,Singapore,p04,"Sawmill industry, coniferous",5
-208,Tajikistan,p04,"Sawmill industry, coniferous",5
-212,Syrian Arab Republic,p04,"Sawmill industry, coniferous",5
-213,Turkmenistan,p04,"Sawmill industry, coniferous",5
-214,"China, Taiwan Province of",p04,"Sawmill industry, coniferous",5
-216,Thailand,p04,"Sawmill industry, coniferous",5
-221,Oman,p04,"Sawmill industry, coniferous",5
-225,United Arab Emirates,p04,"Sawmill industry, coniferous",5
-228,USSR,p04,"Sawnmill industry, coniferous",5
-235,Uzbekistan,p04,"Sawmill industry, coniferous",5
-237,Viet Nam,p04,"Sawmill industry, coniferous",5
-249,Yemen,p04,"Sawmill industry, coniferous",5
-299,Palestine,p04,"Sawnmill industry, coniferous",5
-3,Albania,p04,"Sawmill industry, coniferous",5
-6,Andorra,p04,"Sawmill industry, coniferous",5
+52,Azerbaijan,p04,"Sawmill industry, coniferous",4.95049504950495
+73,Georgia,p04,"Sawmill industry, coniferous",4.95049504950495
+96,"China, Hong Kong SAR",p04,"Sawmill industry, coniferous",4.95049504950495
+100,India,p04,"Sawmill industry, coniferous",4.95049504950495
+101,Indonesia,p04,"Sawmill industry, coniferous",6.79611650485437
+102,Iran (Islamic Republic of),p04,"Sawmill industry, coniferous",4.95049504950495
+103,Iraq,p04,"Sawmill industry, coniferous",4.95049504950495
+105,Israel,p04,"Sawmill industry, coniferous",4.95049504950495
+108,Kazakhstan,p04,"Sawmill industry, coniferous",4.95049504950495
+110,Japan,p04,"Sawmill industry, coniferous",4.95049504950495
+112,Jordan,p04,"Sawmill industry, coniferous",4.95049504950495
+113,Kyrgyzstan,p04,"Sawmill industry, coniferous",4.95049504950495
+115,Cambodia,p04,"Sawmill industry, coniferous",4.95049504950495
+116,Democratic People's Republic of Korea,p04,"Sawmill industry, coniferous",4.95049504950495
+117,Republic of Korea,p04,"Sawmill industry, coniferous",4.95049504950495
+118,Kuwait,p04,"Sawmill industry, coniferous",4.95049504950495
+120,Lao People's Democratic Republic,p04,"Sawmill industry, coniferous",4.95049504950495
+121,Lebanon,p04,"Sawmill industry, coniferous",4.95049504950495
+128,"China, Macao SAR",p04,"Sawmill industry, coniferous",4.95049504950495
+131,Malaysia,p04,"Sawmill industry, coniferous",4.95049504950495
+132,Maldives,p04,"Sawmill industry, coniferous",4.95049504950495
+141,Mongolia,p04,"Sawmill industry, coniferous",4.95049504950495
+149,Nepal,p04,"Sawmill industry, coniferous",4.95049504950495
+164,Pacific Islands Trust Territory,p04,"Sawnmill industry, coniferous",4.95049504950495
+165,Pakistan,p04,"Sawmill industry, coniferous",4.95049504950495
+171,Philippines,p04,"Sawmill industry, coniferous",4.95049504950495
+176,Timor-Leste,p04,"Sawmill industry, coniferous",4.95049504950495
+179,Qatar,p04,"Sawmill industry, coniferous",4.95049504950495
+194,Saudi Arabia,p04,"Sawmill industry, coniferous",4.95049504950495
+200,Singapore,p04,"Sawmill industry, coniferous",4.95049504950495
+208,Tajikistan,p04,"Sawmill industry, coniferous",4.95049504950495
+212,Syrian Arab Republic,p04,"Sawmill industry, coniferous",4.95049504950495
+213,Turkmenistan,p04,"Sawmill industry, coniferous",4.95049504950495
+214,"China, Taiwan Province of",p04,"Sawmill industry, coniferous",4.95049504950495
+216,Thailand,p04,"Sawmill industry, coniferous",4.95049504950495
+221,Oman,p04,"Sawmill industry, coniferous",4.95049504950495
+225,United Arab Emirates,p04,"Sawmill industry, coniferous",4.95049504950495
+228,USSR,p04,"Sawnmill industry, coniferous",4.95049504950495
+235,Uzbekistan,p04,"Sawmill industry, coniferous",4.95049504950495
+237,Viet Nam,p04,"Sawmill industry, coniferous",4.95049504950495
+249,Yemen,p04,"Sawmill industry, coniferous",4.95049504950495
+299,Palestine,p04,"Sawnmill industry, coniferous",4.95049504950495
+3,Albania,p04,"Sawmill industry, coniferous",4.95049504950495
+6,Andorra,p04,"Sawmill industry, coniferous",4.95049504950495
 11,Austria,p04,"Sawmill industry, coniferous",4.34782608695652
-15,Belgium-Luxembourg,p04,"Sawmill industry, coniferous",5
-27,Bulgaria,p04,"Sawmill industry, coniferous",5
-50,Cyprus,p04,"Sawmill industry, coniferous",5
-51,Czechoslovakia,p04,"Sawmill industry, coniferous",5
+15,Belgium-Luxembourg,p04,"Sawmill industry, coniferous",4.95049504950495
+27,Bulgaria,p04,"Sawmill industry, coniferous",4.95049504950495
+50,Cyprus,p04,"Sawmill industry, coniferous",4.95049504950495
+51,Czechoslovakia,p04,"Sawmill industry, coniferous",4.95049504950495
 54,Denmark,p04,"Sawmill industry, coniferous",2
-57,Belarus,p04,"Sawmill industry, coniferous",5
-63,Estonia,p04,"Sawmill industry, coniferous",5
-64,Faroe Islands,p04,"Sawmill industry, coniferous",5
+57,Belarus,p04,"Sawmill industry, coniferous",4.95049504950495
+63,Estonia,p04,"Sawmill industry, coniferous",4.95049504950495
+64,Faroe Islands,p04,"Sawmill industry, coniferous",4.95049504950495
 67,Finland,p04,"Sawmill industry, coniferous",5
 68,France,p04,"Sawmill industry, coniferous",4
 79,Germany,p04,"Sawmill industry, coniferous",2
-80,Bosnia and Herzegovina,p04,"Sawmill industry, coniferous",5
-82,Gibraltar,p04,"Sawmill industry, coniferous",5
-84,Greece,p04,"Sawmill industry, coniferous",5
-85,Greenland,p04,"Sawnmill industry, coniferous",5
-94,Holy See,p04,"Sawnmill industry, coniferous",5
-97,Hungary,p04,"Sawmill industry, coniferous",5
-98,Croatia,p04,"Sawmill industry, coniferous",5
-99,Iceland,p04,"Sawmill industry, coniferous",5
+80,Bosnia and Herzegovina,p04,"Sawmill industry, coniferous",4.95049504950495
+82,Gibraltar,p04,"Sawmill industry, coniferous",4.95049504950495
+84,Greece,p04,"Sawmill industry, coniferous",4.95049504950495
+85,Greenland,p04,"Sawnmill industry, coniferous",4.95049504950495
+94,Holy See,p04,"Sawnmill industry, coniferous",4.95049504950495
+97,Hungary,p04,"Sawmill industry, coniferous",4.95049504950495
+98,Croatia,p04,"Sawmill industry, coniferous",4.95049504950495
+99,Iceland,p04,"Sawmill industry, coniferous",4.95049504950495
 104,Ireland,p04,"Sawmill industry, coniferous",1
-106,Italy,p04,"Sawmill industry, coniferous",5
-119,Latvia,p04,"Sawmill industry, coniferous",5
-125,Liechtenstein,p04,"Sawmill industry, coniferous",5
+106,Italy,p04,"Sawmill industry, coniferous",4.95049504950495
+119,Latvia,p04,"Sawmill industry, coniferous",4.95049504950495
+125,Liechtenstein,p04,"Sawmill industry, coniferous",4.95049504950495
 126,Lithuania,p04,"Sawmill industry, coniferous",5
-134,Malta,p04,"Sawmill industry, coniferous",5
-146,Republic of Moldova,p04,"Sawmill industry, coniferous",5
+134,Malta,p04,"Sawmill industry, coniferous",4.95049504950495
+146,Republic of Moldova,p04,"Sawmill industry, coniferous",4.95049504950495
 150,Netherlands,p04,"Sawmill industry, coniferous",5.10869565217391
-154,North Macedonia,p04,"Sawmill industry, coniferous",5
+154,North Macedonia,p04,"Sawmill industry, coniferous",4.95049504950495
 162,Norway,p04,"Sawmill industry, coniferous",6
 167,Czechia,p04,"Sawmill industry, coniferous",3
 173,Poland,p04,"Sawmill industry, coniferous",2
 174,Portugal,p04,"Sawmill industry, coniferous",5.43478260869565
-183,Romania,p04,"Sawmill industry, coniferous",5
-185,Russian Federation,p04,"Sawmill industry, coniferous",5
-186,Serbia and Montenegro,p04,"Sawmill industry, coniferous",5
-192,San Marino,p04,"Sawnmill industry, coniferous",5
+183,Romania,p04,"Sawmill industry, coniferous",4.95049504950495
+185,Russian Federation,p04,"Sawmill industry, coniferous",4.95049504950495
+186,Serbia and Montenegro,p04,"Sawmill industry, coniferous",4.95049504950495
+192,San Marino,p04,"Sawnmill industry, coniferous",4.95049504950495
 198,Slovenia,p04,"Sawmill industry, coniferous",5
 199,Slovakia,p04,"Sawmill industry, coniferous",12
 203,Spain,p04,"Sawmill industry, coniferous",7
 210,Sweden,p04,"Sawmill industry, coniferous",5
-211,Switzerland,p04,"Sawmill industry, coniferous",5
-223,Turkey,p04,"Sawmill industry, coniferous",5
+211,Switzerland,p04,"Sawmill industry, coniferous",4.95049504950495
+223,Turkey,p04,"Sawmill industry, coniferous",4.95049504950495
 229,United Kingdom,p04,"Sawmill industry, coniferous",3
-230,Ukraine,p04,"Sawmill industry, coniferous",6
-248,Yugoslav SFR,p04,"Sawnmill industry, coniferous",5
-255,Belgium,p04,"Sawmill industry, coniferous",5
-256,Luxembourg,p04,"Sawmill industry, coniferous",5
-272,Serbia,p04,"Sawmill industry, coniferous",5
-273,Montenegro,p04,"Sawmill industry, coniferous",5
-8,Antigua and Barbuda,p04,"Sawnmill industry, coniferous",3
-9,Argentina,p04,"Sawmill industry, coniferous",3
-12,Bahamas,p04,"Sawmill industry, coniferous",3
-14,Barbados,p04,"Sawmill industry, coniferous",3
-17,Bermuda,p04,"Sawnmill industry, coniferous",3
-19,Bolivia (Plurinational State of),p04,"Sawmill industry, coniferous",3
+230,Ukraine,p04,"Sawmill industry, coniferous",6.45161290322581
+248,Yugoslav SFR,p04,"Sawnmill industry, coniferous",4.95049504950495
+255,Belgium,p04,"Sawmill industry, coniferous",4.95049504950495
+256,Luxembourg,p04,"Sawmill industry, coniferous",4.95049504950495
+272,Serbia,p04,"Sawmill industry, coniferous",4.95049504950495
+273,Montenegro,p04,"Sawmill industry, coniferous",4.95049504950495
+8,Antigua and Barbuda,p04,"Sawnmill industry, coniferous",0
+9,Argentina,p04,"Sawmill industry, coniferous",0
+12,Bahamas,p04,"Sawmill industry, coniferous",0
+14,Barbados,p04,"Sawmill industry, coniferous",0
+17,Bermuda,p04,"Sawnmill industry, coniferous",0
+19,Bolivia (Plurinational State of),p04,"Sawmill industry, coniferous",0
 21,Brazil,p04,"Sawmill industry, coniferous",7.105427357601e-15
-22,Aruba,p04,"Sawmill industry, coniferous",3
-23,Belize,p04,"Sawmill industry, coniferous",3
-36,Cayman Islands,p04,"Sawnmill industry, coniferous",3
+22,Aruba,p04,"Sawmill industry, coniferous",0
+23,Belize,p04,"Sawmill industry, coniferous",0
+36,Cayman Islands,p04,"Sawnmill industry, coniferous",0
 40,Chile,p04,"Sawmill industry, coniferous",0
-44,Colombia,p04,"Sawmill industry, coniferous",3
-48,Costa Rica,p04,"Sawmill industry, coniferous",3
-49,Cuba,p04,"Sawmill industry, coniferous",3
-55,Dominica,p04,"Sawmill industry, coniferous",3
-56,Dominican Republic,p04,"Sawmill industry, coniferous",3
-58,Ecuador,p04,"Sawmill industry, coniferous",3
-60,El Salvador,p04,"Sawmill industry, coniferous",3
-65,Falkland Islands (Malvinas),p04,"Sawmill industry, coniferous",3
-69,French Guyana,p04,"Sawmill industry, coniferous",3
-86,Grenada,p04,"Sawnmill industry, coniferous",3
-87,Guadeloupe,p04,"Sawmill industry, coniferous",3
-89,Guatemala,p04,"Sawmill industry, coniferous",3
-91,Guyana,p04,"Sawmill industry, coniferous",3
-93,Haiti,p04,"Sawmill industry, coniferous",3
-95,Honduras,p04,"Sawmill industry, coniferous",3
-109,Jamaica,p04,"Sawmill industry, coniferous",3
-135,Martinique,p04,"Sawmill industry, coniferous",3
-138,Mexico,p04,"Sawmill industry, coniferous",3
-142,Montserrat,p04,"Sawnmill industry, coniferous",3
-151,Netherlands Antilles,p04,"Sawmill industry, coniferous",3
-157,Nicaragua,p04,"Sawmill industry, coniferous",3
-166,Panama,p04,"Sawmill industry, coniferous",3
-169,Paraguay,p04,"Sawmill industry, coniferous",3
-170,Peru,p04,"Sawmill industry, coniferous",3
-188,Saint Kitts and Nevis,p04,"Sawnmill industry, coniferous",3
-189,Saint Lucia,p04,"Sawmill industry, coniferous",3
-191,Saint Vincent and the Grenadines,p04,"Sawmill industry, coniferous",3
-207,Suriname,p04,"Sawmill industry, coniferous",3
-220,Trinidad and Tobago,p04,"Sawmill industry, coniferous",3
-224,Turks and Caicos Islands,p04,"Sawmill industry, coniferous",3
+44,Colombia,p04,"Sawmill industry, coniferous",0
+48,Costa Rica,p04,"Sawmill industry, coniferous",0
+49,Cuba,p04,"Sawmill industry, coniferous",0
+55,Dominica,p04,"Sawmill industry, coniferous",0
+56,Dominican Republic,p04,"Sawmill industry, coniferous",0
+58,Ecuador,p04,"Sawmill industry, coniferous",0
+60,El Salvador,p04,"Sawmill industry, coniferous",0
+65,Falkland Islands (Malvinas),p04,"Sawmill industry, coniferous",0
+69,French Guyana,p04,"Sawmill industry, coniferous",0
+86,Grenada,p04,"Sawnmill industry, coniferous",0
+87,Guadeloupe,p04,"Sawmill industry, coniferous",0
+89,Guatemala,p04,"Sawmill industry, coniferous",0
+91,Guyana,p04,"Sawmill industry, coniferous",0
+93,Haiti,p04,"Sawmill industry, coniferous",0
+95,Honduras,p04,"Sawmill industry, coniferous",0
+109,Jamaica,p04,"Sawmill industry, coniferous",0
+135,Martinique,p04,"Sawmill industry, coniferous",0
+138,Mexico,p04,"Sawmill industry, coniferous",0
+142,Montserrat,p04,"Sawnmill industry, coniferous",0
+151,Netherlands Antilles,p04,"Sawmill industry, coniferous",0
+157,Nicaragua,p04,"Sawmill industry, coniferous",0
+166,Panama,p04,"Sawmill industry, coniferous",0
+169,Paraguay,p04,"Sawmill industry, coniferous",0
+170,Peru,p04,"Sawmill industry, coniferous",0
+188,Saint Kitts and Nevis,p04,"Sawnmill industry, coniferous",0
+189,Saint Lucia,p04,"Sawmill industry, coniferous",0
+191,Saint Vincent and the Grenadines,p04,"Sawmill industry, coniferous",0
+207,Suriname,p04,"Sawmill industry, coniferous",0
+220,Trinidad and Tobago,p04,"Sawmill industry, coniferous",0
+224,Turks and Caicos Islands,p04,"Sawmill industry, coniferous",0
 234,Uruguay,p04,"Sawmill industry, coniferous",0
-236,Venezuela (Bolivarian Republic of),p04,"Sawmill industry, coniferous",3
-239,British Virgin Islands,p04,"Sawmill industry, coniferous",3
-258,Anguilla,p04,"Sawnmill industry, coniferous",3
-279,Curaçao,p04,"Sawnmill industry, coniferous",3
-281,Saint-Martin (French Part),p04,"Sawnmill industry, coniferous",3
+236,Venezuela (Bolivarian Republic of),p04,"Sawmill industry, coniferous",0
+239,British Virgin Islands,p04,"Sawmill industry, coniferous",0
+258,Anguilla,p04,"Sawnmill industry, coniferous",0
+279,Curaçao,p04,"Sawnmill industry, coniferous",0
+281,Saint-Martin (French Part),p04,"Sawnmill industry, coniferous",0
 33,Canada,p04,"Sawmill industry, coniferous",4
-190,Saint Pierre and Miquelon,p04,"Sawmill industry, coniferous",4
+190,Saint Pierre and Miquelon,p04,"Sawmill industry, coniferous",3.96039603960396
 231,United States of America,p04,"Sawmill industry, coniferous",4
-5,American Samoa,p04,"Sawnmill industry, coniferous",4.25
-10,Australia,p04,"Sawmill industry, coniferous",4.25
-25,Solomon Islands,p04,"Sawmill industry, coniferous",4.25
-42,Christmas Island,p04,"Sawmill industry, coniferous",4.25
-43,Cocos (Keeling) Islands,p04,"Sawnmill industry, coniferous",4.25
-47,Cook Islands,p04,"Sawmill industry, coniferous",4.25
-66,Fiji,p04,"Sawmill industry, coniferous",4.25
-70,French Polynesia,p04,"Sawmill industry, coniferous",4.25
-71,French Southern and Antarctic Territories,p04,"Sawnmill industry, coniferous",4.25
-83,Kiribati,p04,"Sawmill industry, coniferous",4.25
-88,Guam,p04,"Sawnmill industry, coniferous",4.25
-127,Marshall Islands,p04,"Sawnmill industry, coniferous",4.25
-145,Micronesia (Federated States of),p04,"Sawmill industry, coniferous",4.25
-148,Nauru,p04,"Sawnmill industry, coniferous",4.25
-153,New Caledonia,p04,"Sawmill industry, coniferous",4.25
-155,Vanuatu,p04,"Sawmill industry, coniferous",4.25
-156,New Zealand,p04,"Sawmill industry, coniferous",4.25
-160,Niue,p04,"Sawmill industry, coniferous",4.25
-161,Norfolk Island,p04,"Sawmill industry, coniferous",4.25
-163,Northern Mariana Islands,p04,"Sawnmill industry, coniferous",4.25
-168,Papua New Guinea,p04,"Sawmill industry, coniferous",4.25
-172,Pitcairn Islands,p04,"Sawnmill industry, coniferous",4.25
-180,Palau,p04,"Sawnmill industry, coniferous",4.25
-218,Tokelau,p04,"Sawnmill industry, coniferous",4.25
-227,Tuvalu,p04,"Sawnmill industry, coniferous",4.25
-242,Wake Island,p04,"Sawnmill industry, coniferous",4.25
-243,Wallis and Futuna Islands,p04,"Sawnmill industry, coniferous",4.25
-244,Samoa,p04,"Sawmill industry, coniferous",4.25
-999,RoW,p04,"Sawnmill industry, coniferous",4.25
-252,Unspecified Area,p04,"Sawnmill industry, coniferous",4.25
-254,Others (adjustment),p04,"Sawnmill industry, coniferous",4.25
-,ASI,p05,"Sawmill industry, non-coniferous all",6
-,EUR,p05,"Sawmill industry, non-coniferous all",5
+5,American Samoa,p04,"Sawnmill industry, coniferous",4.21417947446703
+10,Australia,p04,"Sawmill industry, coniferous",4.21417947446703
+25,Solomon Islands,p04,"Sawmill industry, coniferous",4.21417947446703
+42,Christmas Island,p04,"Sawmill industry, coniferous",4.21417947446703
+43,Cocos (Keeling) Islands,p04,"Sawnmill industry, coniferous",4.21417947446703
+47,Cook Islands,p04,"Sawmill industry, coniferous",4.21417947446703
+66,Fiji,p04,"Sawmill industry, coniferous",4.21417947446703
+70,French Polynesia,p04,"Sawmill industry, coniferous",4.21417947446703
+71,French Southern and Antarctic Territories,p04,"Sawnmill industry, coniferous",4.21417947446703
+83,Kiribati,p04,"Sawmill industry, coniferous",4.21417947446703
+88,Guam,p04,"Sawnmill industry, coniferous",4.21417947446703
+127,Marshall Islands,p04,"Sawnmill industry, coniferous",4.21417947446703
+145,Micronesia (Federated States of),p04,"Sawmill industry, coniferous",4.21417947446703
+148,Nauru,p04,"Sawnmill industry, coniferous",4.21417947446703
+153,New Caledonia,p04,"Sawmill industry, coniferous",4.21417947446703
+155,Vanuatu,p04,"Sawmill industry, coniferous",4.21417947446703
+156,New Zealand,p04,"Sawmill industry, coniferous",4.21417947446703
+160,Niue,p04,"Sawmill industry, coniferous",4.21417947446703
+161,Norfolk Island,p04,"Sawmill industry, coniferous",4.21417947446703
+163,Northern Mariana Islands,p04,"Sawnmill industry, coniferous",4.21417947446703
+168,Papua New Guinea,p04,"Sawmill industry, coniferous",4.21417947446703
+172,Pitcairn Islands,p04,"Sawnmill industry, coniferous",4.21417947446703
+180,Palau,p04,"Sawnmill industry, coniferous",4.21417947446703
+218,Tokelau,p04,"Sawnmill industry, coniferous",4.21417947446703
+227,Tuvalu,p04,"Sawnmill industry, coniferous",4.21417947446703
+242,Wake Island,p04,"Sawnmill industry, coniferous",4.21417947446703
+243,Wallis and Futuna Islands,p04,"Sawnmill industry, coniferous",4.21417947446703
+244,Samoa,p04,"Sawmill industry, coniferous",4.21417947446703
+999,RoW,p04,"Sawnmill industry, coniferous",4.21417947446703
+252,Unspecified Area,p04,"Sawnmill industry, coniferous",4.21417947446703
+254,Others (adjustment),p04,"Sawnmill industry, coniferous",4.21417947446703
+,ASI,p05,"Sawmill industry, non-coniferous all",5.94059405940594
+,EUR,p05,"Sawmill industry, non-coniferous all",4.95049504950495
 ,AFR,p05,"Sawmill industry, non-coniferous all",7
 ,LAM,p05,"Sawmill industry, non-coniferous all",0
-,OCE,p05,"Sawmill industry, non-coniferous all",5.25
-,NAM,p05,"Sawmill industry, non-coniferous all",3
+,OCE,p05,"Sawmill industry, non-coniferous all",5.14453699167075
+,NAM,p05,"Sawmill industry, non-coniferous all",2.94117647058824
 4,Algeria,p05,"Sawmill industry, non-coniferous all",7
 7,Angola,p05,"Sawmill industry, non-coniferous all",7
 20,Botswana,p05,"Sawmill industry, non-coniferous all",7
@@ -314,110 +314,110 @@ area_code,area,proc_code,process,shrinkage
 270,Mayotte,p05,"Sawmill industry, non-coniferous all",7
 276,Sudan,p05,"Sawmill industry, non-coniferous all",7
 277,South Sudan,p05,"Sawmill industry, non-coniferous all",7
-1,Armenia,p05,"Sawmill industry, non-coniferous all",6
-2,Afghanistan,p05,"Sawmill industry, non-coniferous all",6
-13,Bahrain,p05,"Sawmill industry, non-coniferous all",6
-16,Bangladesh,p05,"Sawmill industry, non-coniferous all",6
-18,Bhutan,p05,"Sawmill industry, non-coniferous all",6
-24,British Indian Ocean Territory,p05,"Sawnmill industry, non-coniferous all",6
-26,Brunei Darussalam,p05,"Sawmill industry, non-coniferous all",6
-28,Myanmar,p05,"Sawmill industry, non-coniferous all",6
-38,Sri Lanka,p05,"Sawmill industry, non-coniferous all",6
+1,Armenia,p05,"Sawmill industry, non-coniferous all",5.94059405940594
+2,Afghanistan,p05,"Sawmill industry, non-coniferous all",5.94059405940594
+13,Bahrain,p05,"Sawmill industry, non-coniferous all",5.94059405940594
+16,Bangladesh,p05,"Sawmill industry, non-coniferous all",5.94059405940594
+18,Bhutan,p05,"Sawmill industry, non-coniferous all",5.94059405940594
+24,British Indian Ocean Territory,p05,"Sawnmill industry, non-coniferous all",5.94059405940594
+26,Brunei Darussalam,p05,"Sawmill industry, non-coniferous all",5.94059405940594
+28,Myanmar,p05,"Sawmill industry, non-coniferous all",5.94059405940594
+38,Sri Lanka,p05,"Sawmill industry, non-coniferous all",5.94059405940594
 41,"China, mainland",p05,"Sawmill industry, non-coniferous all",2
-52,Azerbaijan,p05,"Sawmill industry, non-coniferous all",6
-73,Georgia,p05,"Sawmill industry, non-coniferous all",6
-96,"China, Hong Kong SAR",p05,"Sawmill industry, non-coniferous all",6
-100,India,p05,"Sawmill industry, non-coniferous all",6
-101,Indonesia,p05,"Sawmill industry, non-coniferous all",9
-102,Iran (Islamic Republic of),p05,"Sawmill industry, non-coniferous all",6
-103,Iraq,p05,"Sawmill industry, non-coniferous all",6
-105,Israel,p05,"Sawmill industry, non-coniferous all",6
-108,Kazakhstan,p05,"Sawmill industry, non-coniferous all",6
-110,Japan,p05,"Sawmill industry, non-coniferous all",6
-112,Jordan,p05,"Sawmill industry, non-coniferous all",6
-113,Kyrgyzstan,p05,"Sawmill industry, non-coniferous all",6
-115,Cambodia,p05,"Sawmill industry, non-coniferous all",6
-116,Democratic People's Republic of Korea,p05,"Sawmill industry, non-coniferous all",6
-117,Republic of Korea,p05,"Sawmill industry, non-coniferous all",6
-118,Kuwait,p05,"Sawmill industry, non-coniferous all",6
-120,Lao People's Democratic Republic,p05,"Sawmill industry, non-coniferous all",6
-121,Lebanon,p05,"Sawmill industry, non-coniferous all",6
-128,"China, Macao SAR",p05,"Sawmill industry, non-coniferous all",6
+52,Azerbaijan,p05,"Sawmill industry, non-coniferous all",5.94059405940594
+73,Georgia,p05,"Sawmill industry, non-coniferous all",5.94059405940594
+96,"China, Hong Kong SAR",p05,"Sawmill industry, non-coniferous all",5.94059405940594
+100,India,p05,"Sawmill industry, non-coniferous all",5.94059405940594
+101,Indonesia,p05,"Sawmill industry, non-coniferous all",9.27835051546392
+102,Iran (Islamic Republic of),p05,"Sawmill industry, non-coniferous all",5.94059405940594
+103,Iraq,p05,"Sawmill industry, non-coniferous all",5.94059405940594
+105,Israel,p05,"Sawmill industry, non-coniferous all",5.94059405940594
+108,Kazakhstan,p05,"Sawmill industry, non-coniferous all",5.94059405940594
+110,Japan,p05,"Sawmill industry, non-coniferous all",5.94059405940594
+112,Jordan,p05,"Sawmill industry, non-coniferous all",5.94059405940594
+113,Kyrgyzstan,p05,"Sawmill industry, non-coniferous all",5.94059405940594
+115,Cambodia,p05,"Sawmill industry, non-coniferous all",5.94059405940594
+116,Democratic People's Republic of Korea,p05,"Sawmill industry, non-coniferous all",5.94059405940594
+117,Republic of Korea,p05,"Sawmill industry, non-coniferous all",5.94059405940594
+118,Kuwait,p05,"Sawmill industry, non-coniferous all",5.94059405940594
+120,Lao People's Democratic Republic,p05,"Sawmill industry, non-coniferous all",5.94059405940594
+121,Lebanon,p05,"Sawmill industry, non-coniferous all",5.94059405940594
+128,"China, Macao SAR",p05,"Sawmill industry, non-coniferous all",5.94059405940594
 131,Malaysia,p05,"Sawmill industry, non-coniferous all",8
-132,Maldives,p05,"Sawmill industry, non-coniferous all",6
-141,Mongolia,p05,"Sawmill industry, non-coniferous all",6
-149,Nepal,p05,"Sawmill industry, non-coniferous all",6
-164,Pacific Islands Trust Territory,p05,"Sawnmill industry, non-coniferous all",6
-165,Pakistan,p05,"Sawmill industry, non-coniferous all",6
-171,Philippines,p05,"Sawmill industry, non-coniferous all",6
-176,Timor-Leste,p05,"Sawmill industry, non-coniferous all",6
-179,Qatar,p05,"Sawmill industry, non-coniferous all",6
-194,Saudi Arabia,p05,"Sawmill industry, non-coniferous all",6
-200,Singapore,p05,"Sawmill industry, non-coniferous all",6
-208,Tajikistan,p05,"Sawmill industry, non-coniferous all",6
-212,Syrian Arab Republic,p05,"Sawmill industry, non-coniferous all",6
-213,Turkmenistan,p05,"Sawmill industry, non-coniferous all",6
-214,"China, Taiwan Province of",p05,"Sawmill industry, non-coniferous all",6
-216,Thailand,p05,"Sawmill industry, non-coniferous all",6
-221,Oman,p05,"Sawmill industry, non-coniferous all",6
-225,United Arab Emirates,p05,"Sawmill industry, non-coniferous all",6
-228,USSR,p05,"Sawnmill industry, non-coniferous all",6
-235,Uzbekistan,p05,"Sawmill industry, non-coniferous all",6
-237,Viet Nam,p05,"Sawmill industry, non-coniferous all",6
-249,Yemen,p05,"Sawmill industry, non-coniferous all",6
-299,Palestine,p05,"Sawnmill industry, non-coniferous all",6
-3,Albania,p05,"Sawmill industry, non-coniferous all",5
-6,Andorra,p05,"Sawmill industry, non-coniferous all",5
+132,Maldives,p05,"Sawmill industry, non-coniferous all",5.94059405940594
+141,Mongolia,p05,"Sawmill industry, non-coniferous all",5.94059405940594
+149,Nepal,p05,"Sawmill industry, non-coniferous all",5.94059405940594
+164,Pacific Islands Trust Territory,p05,"Sawnmill industry, non-coniferous all",5.94059405940594
+165,Pakistan,p05,"Sawmill industry, non-coniferous all",5.94059405940594
+171,Philippines,p05,"Sawmill industry, non-coniferous all",5.94059405940594
+176,Timor-Leste,p05,"Sawmill industry, non-coniferous all",5.94059405940594
+179,Qatar,p05,"Sawmill industry, non-coniferous all",5.94059405940594
+194,Saudi Arabia,p05,"Sawmill industry, non-coniferous all",5.94059405940594
+200,Singapore,p05,"Sawmill industry, non-coniferous all",5.94059405940594
+208,Tajikistan,p05,"Sawmill industry, non-coniferous all",5.94059405940594
+212,Syrian Arab Republic,p05,"Sawmill industry, non-coniferous all",5.94059405940594
+213,Turkmenistan,p05,"Sawmill industry, non-coniferous all",5.94059405940594
+214,"China, Taiwan Province of",p05,"Sawmill industry, non-coniferous all",5.94059405940594
+216,Thailand,p05,"Sawmill industry, non-coniferous all",5.94059405940594
+221,Oman,p05,"Sawmill industry, non-coniferous all",5.94059405940594
+225,United Arab Emirates,p05,"Sawmill industry, non-coniferous all",5.94059405940594
+228,USSR,p05,"Sawnmill industry, non-coniferous all",5.94059405940594
+235,Uzbekistan,p05,"Sawmill industry, non-coniferous all",5.94059405940594
+237,Viet Nam,p05,"Sawmill industry, non-coniferous all",5.94059405940594
+249,Yemen,p05,"Sawmill industry, non-coniferous all",5.94059405940594
+299,Palestine,p05,"Sawnmill industry, non-coniferous all",5.94059405940594
+3,Albania,p05,"Sawmill industry, non-coniferous all",4.95049504950495
+6,Andorra,p05,"Sawmill industry, non-coniferous all",4.95049504950495
 11,Austria,p05,"Sawmill industry, non-coniferous all",6.63265306122449
-15,Belgium-Luxembourg,p05,"Sawmill industry, non-coniferous all",5
-27,Bulgaria,p05,"Sawmill industry, non-coniferous all",5
-50,Cyprus,p05,"Sawmill industry, non-coniferous all",5
-51,Czechoslovakia,p05,"Sawmill industry, non-coniferous all",5
+15,Belgium-Luxembourg,p05,"Sawmill industry, non-coniferous all",4.95049504950495
+27,Bulgaria,p05,"Sawmill industry, non-coniferous all",4.95049504950495
+50,Cyprus,p05,"Sawmill industry, non-coniferous all",4.95049504950495
+51,Czechoslovakia,p05,"Sawmill industry, non-coniferous all",4.95049504950495
 54,Denmark,p05,"Sawmill industry, non-coniferous all",3
-57,Belarus,p05,"Sawmill industry, non-coniferous all",5
-63,Estonia,p05,"Sawmill industry, non-coniferous all",5
-64,Faroe Islands,p05,"Sawmill industry, non-coniferous all",5
+57,Belarus,p05,"Sawmill industry, non-coniferous all",4.95049504950495
+63,Estonia,p05,"Sawmill industry, non-coniferous all",4.95049504950495
+64,Faroe Islands,p05,"Sawmill industry, non-coniferous all",4.95049504950495
 67,Finland,p05,"Sawmill industry, non-coniferous all",4.69387755102041
 68,France,p05,"Sawmill industry, non-coniferous all",3
-79,Germany,p05,"Sawmill industry, non-coniferous all",4
-80,Bosnia and Herzegovina,p05,"Sawmill industry, non-coniferous all",5
-82,Gibraltar,p05,"Sawmill industry, non-coniferous all",5
-84,Greece,p05,"Sawmill industry, non-coniferous all",5
-85,Greenland,p05,"Sawnmill industry, non-coniferous all",5
-94,Holy See,p05,"Sawnmill industry, non-coniferous all",5
-97,Hungary,p05,"Sawmill industry, non-coniferous all",5
-98,Croatia,p05,"Sawmill industry, non-coniferous all",5
-99,Iceland,p05,"Sawmill industry, non-coniferous all",5
+79,Germany,p05,"Sawmill industry, non-coniferous all",4.12371134020619
+80,Bosnia and Herzegovina,p05,"Sawmill industry, non-coniferous all",4.95049504950495
+82,Gibraltar,p05,"Sawmill industry, non-coniferous all",4.95049504950495
+84,Greece,p05,"Sawmill industry, non-coniferous all",4.95049504950495
+85,Greenland,p05,"Sawnmill industry, non-coniferous all",4.95049504950495
+94,Holy See,p05,"Sawnmill industry, non-coniferous all",4.95049504950495
+97,Hungary,p05,"Sawmill industry, non-coniferous all",4.95049504950495
+98,Croatia,p05,"Sawmill industry, non-coniferous all",4.95049504950495
+99,Iceland,p05,"Sawmill industry, non-coniferous all",4.95049504950495
 104,Ireland,p05,"Sawmill industry, non-coniferous all",1
-106,Italy,p05,"Sawmill industry, non-coniferous all",5
-119,Latvia,p05,"Sawmill industry, non-coniferous all",5
-125,Liechtenstein,p05,"Sawmill industry, non-coniferous all",5
+106,Italy,p05,"Sawmill industry, non-coniferous all",4.95049504950495
+119,Latvia,p05,"Sawmill industry, non-coniferous all",4.95049504950495
+125,Liechtenstein,p05,"Sawmill industry, non-coniferous all",4.95049504950495
 126,Lithuania,p05,"Sawmill industry, non-coniferous all",5
-134,Malta,p05,"Sawmill industry, non-coniferous all",5
-146,Republic of Moldova,p05,"Sawmill industry, non-coniferous all",5
+134,Malta,p05,"Sawmill industry, non-coniferous all",4.95049504950495
+146,Republic of Moldova,p05,"Sawmill industry, non-coniferous all",4.95049504950495
 150,Netherlands,p05,"Sawmill industry, non-coniferous all",5
-154,North Macedonia,p05,"Sawmill industry, non-coniferous all",5
+154,North Macedonia,p05,"Sawmill industry, non-coniferous all",4.95049504950495
 162,Norway,p05,"Sawmill industry, non-coniferous all",8
 167,Czechia,p05,"Sawmill industry, non-coniferous all",5.51020408163265
 173,Poland,p05,"Sawmill industry, non-coniferous all",2
 174,Portugal,p05,"Sawmill industry, non-coniferous all",4.38775510204082
-183,Romania,p05,"Sawmill industry, non-coniferous all",5
-185,Russian Federation,p05,"Sawmill industry, non-coniferous all",5
-186,Serbia and Montenegro,p05,"Sawmill industry, non-coniferous all",5
-192,San Marino,p05,"Sawnmill industry, non-coniferous all",5
-198,Slovenia,p05,"Sawmill industry, non-coniferous all",5
+183,Romania,p05,"Sawmill industry, non-coniferous all",4.95049504950495
+185,Russian Federation,p05,"Sawmill industry, non-coniferous all",4.95049504950495
+186,Serbia and Montenegro,p05,"Sawmill industry, non-coniferous all",4.95049504950495
+192,San Marino,p05,"Sawnmill industry, non-coniferous all",4.95049504950495
+198,Slovenia,p05,"Sawmill industry, non-coniferous all",4.95049504950495
 199,Slovakia,p05,"Sawmill industry, non-coniferous all",8
 203,Spain,p05,"Sawmill industry, non-coniferous all",6
 210,Sweden,p05,"Sawmill industry, non-coniferous all",4.79591836734694
-211,Switzerland,p05,"Sawmill industry, non-coniferous all",5
-223,Turkey,p05,"Sawmill industry, non-coniferous all",5
+211,Switzerland,p05,"Sawmill industry, non-coniferous all",4.95049504950495
+223,Turkey,p05,"Sawmill industry, non-coniferous all",4.95049504950495
 229,United Kingdom,p05,"Sawmill industry, non-coniferous all",6.12244897959184
 230,Ukraine,p05,"Sawmill industry, non-coniferous all",5
-248,Yugoslav SFR,p05,"Sawnmill industry, non-coniferous all",5
-255,Belgium,p05,"Sawmill industry, non-coniferous all",5
-256,Luxembourg,p05,"Sawmill industry, non-coniferous all",5
-272,Serbia,p05,"Sawmill industry, non-coniferous all",5
-273,Montenegro,p05,"Sawmill industry, non-coniferous all",5
+248,Yugoslav SFR,p05,"Sawnmill industry, non-coniferous all",4.95049504950495
+255,Belgium,p05,"Sawmill industry, non-coniferous all",4.95049504950495
+256,Luxembourg,p05,"Sawmill industry, non-coniferous all",4.95049504950495
+272,Serbia,p05,"Sawmill industry, non-coniferous all",4.95049504950495
+273,Montenegro,p05,"Sawmill industry, non-coniferous all",4.95049504950495
 8,Antigua and Barbuda,p05,"Sawnmill industry, non-coniferous all",0
 9,Argentina,p05,"Sawmill industry, non-coniferous all",0
 12,Bahamas,p05,"Sawmill industry, non-coniferous all",0
@@ -428,7 +428,7 @@ area_code,area,proc_code,process,shrinkage
 22,Aruba,p05,"Sawmill industry, non-coniferous all",0
 23,Belize,p05,"Sawmill industry, non-coniferous all",0
 36,Cayman Islands,p05,"Sawnmill industry, non-coniferous all",0
-40,Chile,p05,"Sawmill industry, non-coniferous all",3.5527136788005e-15
+40,Chile,p05,"Sawmill industry, non-coniferous all",5.32907051820075e-15
 44,Colombia,p05,"Sawmill industry, non-coniferous all",0
 48,Costa Rica,p05,"Sawmill industry, non-coniferous all",0
 49,Cuba,p05,"Sawmill industry, non-coniferous all",0
@@ -441,7 +441,7 @@ area_code,area,proc_code,process,shrinkage
 86,Grenada,p05,"Sawnmill industry, non-coniferous all",0
 87,Guadeloupe,p05,"Sawmill industry, non-coniferous all",0
 89,Guatemala,p05,"Sawmill industry, non-coniferous all",0
-91,Guyana,p05,"Sawmill industry, non-coniferous all",0
+91,Guyana,p05,"Sawmill industry, non-coniferous all",5.32907051820075e-15
 93,Haiti,p05,"Sawmill industry, non-coniferous all",0
 95,Honduras,p05,"Sawmill industry, non-coniferous all",0
 109,Jamaica,p05,"Sawmill industry, non-coniferous all",0
@@ -459,46 +459,46 @@ area_code,area,proc_code,process,shrinkage
 207,Suriname,p05,"Sawmill industry, non-coniferous all",1
 220,Trinidad and Tobago,p05,"Sawmill industry, non-coniferous all",0
 224,Turks and Caicos Islands,p05,"Sawmill industry, non-coniferous all",0
-234,Uruguay,p05,"Sawmill industry, non-coniferous all",3.5527136788005e-15
+234,Uruguay,p05,"Sawmill industry, non-coniferous all",5.32907051820075e-15
 236,Venezuela (Bolivarian Republic of),p05,"Sawmill industry, non-coniferous all",0
 239,British Virgin Islands,p05,"Sawmill industry, non-coniferous all",0
 258,Anguilla,p05,"Sawnmill industry, non-coniferous all",0
 279,Curaçao,p05,"Sawnmill industry, non-coniferous all",0
 281,Saint-Martin (French Part),p05,"Sawnmill industry, non-coniferous all",0
 33,Canada,p05,"Sawmill industry, non-coniferous all",4
-190,Saint Pierre and Miquelon,p05,"Sawmill industry, non-coniferous all",3
+190,Saint Pierre and Miquelon,p05,"Sawmill industry, non-coniferous all",2.94117647058824
 231,United States of America,p05,"Sawmill industry, non-coniferous all",2
-5,American Samoa,p05,"Sawnmill industry, non-coniferous all",5.25
-10,Australia,p05,"Sawmill industry, non-coniferous all",5.25
-25,Solomon Islands,p05,"Sawmill industry, non-coniferous all",5.25
-42,Christmas Island,p05,"Sawmill industry, non-coniferous all",5.25
-43,Cocos (Keeling) Islands,p05,"Sawnmill industry, non-coniferous all",5.25
-47,Cook Islands,p05,"Sawmill industry, non-coniferous all",5.25
-66,Fiji,p05,"Sawmill industry, non-coniferous all",5.25
-70,French Polynesia,p05,"Sawmill industry, non-coniferous all",5.25
-71,French Southern and Antarctic Territories,p05,"Sawnmill industry, non-coniferous all",5.25
-83,Kiribati,p05,"Sawmill industry, non-coniferous all",5.25
-88,Guam,p05,"Sawnmill industry, non-coniferous all",5.25
-127,Marshall Islands,p05,"Sawnmill industry, non-coniferous all",5.25
-145,Micronesia (Federated States of),p05,"Sawmill industry, non-coniferous all",5.25
-148,Nauru,p05,"Sawnmill industry, non-coniferous all",5.25
-153,New Caledonia,p05,"Sawmill industry, non-coniferous all",5.25
-155,Vanuatu,p05,"Sawmill industry, non-coniferous all",5.25
-156,New Zealand,p05,"Sawmill industry, non-coniferous all",5.25
-160,Niue,p05,"Sawmill industry, non-coniferous all",5.25
-161,Norfolk Island,p05,"Sawmill industry, non-coniferous all",5.25
-163,Northern Mariana Islands,p05,"Sawnmill industry, non-coniferous all",5.25
-168,Papua New Guinea,p05,"Sawmill industry, non-coniferous all",5.25
-172,Pitcairn Islands,p05,"Sawnmill industry, non-coniferous all",5.25
-180,Palau,p05,"Sawnmill industry, non-coniferous all",5.25
-218,Tokelau,p05,"Sawnmill industry, non-coniferous all",5.25
-227,Tuvalu,p05,"Sawnmill industry, non-coniferous all",5.25
-242,Wake Island,p05,"Sawnmill industry, non-coniferous all",5.25
-243,Wallis and Futuna Islands,p05,"Sawnmill industry, non-coniferous all",5.25
-244,Samoa,p05,"Sawmill industry, non-coniferous all",5.25
-999,RoW,p05,"Sawnmill industry, non-coniferous all",5.25
-252,Unspecified Area,p05,"Sawnmill industry, non-coniferous all",5.25
-254,Others (adjustment),p05,"Sawnmill industry, non-coniferous all",5.25
+5,American Samoa,p05,"Sawnmill industry, non-coniferous all",5.14453699167075
+10,Australia,p05,"Sawmill industry, non-coniferous all",5.14453699167075
+25,Solomon Islands,p05,"Sawmill industry, non-coniferous all",5.14453699167075
+42,Christmas Island,p05,"Sawmill industry, non-coniferous all",5.14453699167075
+43,Cocos (Keeling) Islands,p05,"Sawnmill industry, non-coniferous all",5.14453699167075
+47,Cook Islands,p05,"Sawmill industry, non-coniferous all",5.14453699167075
+66,Fiji,p05,"Sawmill industry, non-coniferous all",5.14453699167075
+70,French Polynesia,p05,"Sawmill industry, non-coniferous all",5.14453699167075
+71,French Southern and Antarctic Territories,p05,"Sawnmill industry, non-coniferous all",5.14453699167075
+83,Kiribati,p05,"Sawmill industry, non-coniferous all",5.14453699167075
+88,Guam,p05,"Sawnmill industry, non-coniferous all",5.14453699167075
+127,Marshall Islands,p05,"Sawnmill industry, non-coniferous all",5.14453699167075
+145,Micronesia (Federated States of),p05,"Sawmill industry, non-coniferous all",5.14453699167075
+148,Nauru,p05,"Sawnmill industry, non-coniferous all",5.14453699167075
+153,New Caledonia,p05,"Sawmill industry, non-coniferous all",5.14453699167075
+155,Vanuatu,p05,"Sawmill industry, non-coniferous all",5.14453699167075
+156,New Zealand,p05,"Sawmill industry, non-coniferous all",5.14453699167075
+160,Niue,p05,"Sawmill industry, non-coniferous all",5.14453699167075
+161,Norfolk Island,p05,"Sawmill industry, non-coniferous all",5.14453699167075
+163,Northern Mariana Islands,p05,"Sawnmill industry, non-coniferous all",5.14453699167075
+168,Papua New Guinea,p05,"Sawmill industry, non-coniferous all",5.14453699167075
+172,Pitcairn Islands,p05,"Sawnmill industry, non-coniferous all",5.14453699167075
+180,Palau,p05,"Sawnmill industry, non-coniferous all",5.14453699167075
+218,Tokelau,p05,"Sawnmill industry, non-coniferous all",5.14453699167075
+227,Tuvalu,p05,"Sawnmill industry, non-coniferous all",5.14453699167075
+242,Wake Island,p05,"Sawnmill industry, non-coniferous all",5.14453699167075
+243,Wallis and Futuna Islands,p05,"Sawnmill industry, non-coniferous all",5.14453699167075
+244,Samoa,p05,"Sawmill industry, non-coniferous all",5.14453699167075
+999,RoW,p05,"Sawnmill industry, non-coniferous all",5.14453699167075
+252,Unspecified Area,p05,"Sawnmill industry, non-coniferous all",5.14453699167075
+254,Others (adjustment),p05,"Sawnmill industry, non-coniferous all",5.14453699167075
 ,AFR,p06,Veneer production,4
 ,ASI,p06,Veneer production,5.375
 ,EUR,p06,Veneer production,6.76666666666667
