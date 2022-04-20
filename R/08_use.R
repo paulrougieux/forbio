@@ -41,14 +41,7 @@ cat("Allocating part of the TCF commodities to TCF use. Applies to items:\n\t",
 
 # Upload technical conversion factors
 tcf <- fread("inst/tcf_use_tidy.csv")
-tcf <- tcf[!(com_code=="c13" & unit=="m3sw/tonne")]
-
-# Create tcf for c10 as output of c01 and c02 each
-tcf[com_code=="c10", `:=`(source = items$item[items$com_code=="c01"], source_code = "c01")]
-osb <- tcf[com_code=="c10"]
-osb[, `:=`(source = items$item[items$com_code=="c02"], source_code = "c02")]
-tcf <- rbind(tcf, osb)
-rm(osb)
+# tcf <- tcf[!(com_code=="c13" & unit=="m3sw/tonne")]
 
 # Technical conversion factors for each input-output combination
 tcf <- merge(source_use[type %in% c("tcf", "tcf_cnc", "tcf_board", "tcf_pulp"), 
@@ -338,8 +331,6 @@ cbs[, use := NULL]
 
 rm(tcf, tcf_codes, tcf_data, areas, out, data, pulp, tcf_board, tcf_pellets, tcf_pulp,
    tcf_in, tcf_out, tcf_use, results, Cs, input, output, input_x, output_x, input_y, output_y)
-
-
 
 
 
