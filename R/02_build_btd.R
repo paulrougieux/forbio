@@ -69,21 +69,17 @@ btd <- btd[, list(value = na_sum(value)), by = c("com_code", "item",
 
 # Change units from tonnes to m3
 # for wood fuel, particle board, OSB, wood residues
-# Apply tcf_density 
-tcf <- fread("inst/tcf_use_tidy.csv")
-tcf <- rbind(tcf[com_code == "c03" & unit == "m3rw/tonne",],
-  tcf[com_code == "c09" & unit == "kg/m3p",],
-  tcf[com_code == "c10" & unit == "kg/m3p",])
+# Apply cf_density 
+cf <- fread("inst/old/density_tidy.csv")
+cf <- cf[com_code %in% c("c03", "c09", "c10"),]
 
-btd <- merge(btd, tcf[, .(com_code, unit_tcf = unit, from = area, tcf)],
+btd <- merge(btd, cf[, .(com_code, unit_cf = unit, from = area, cf)],
   all.x = TRUE, by = c("com_code", "from"))
 
-btd[com_code == "c03", `:=`(value = value * tcf, unit = "m3")]
-btd[com_code %in% c("c09", "c10"), `:=`(value = value / tcf * 1000,
-                                        unit = "m3")]
+btd[com_code %in% c("c03", "c09", "c10"), `:=`(value = value / cf, unit = "m3")]
 btd[com_code == "c18", `:=`(value = value * 1.5, unit = "m3")]
 
-btd[, `:=`(unit_tcf = NULL, tcf = NULL)]
+btd[, `:=`(unit_cf = NULL, cf = NULL)]
 
 
 # Remove outliers ---------------------------------------------------------

@@ -186,23 +186,23 @@ area_merge <- function(x, orig, dest, col = "area_code", pattern = "*") {
 
 
 # Apply technical conversion factors to values
-tcf_apply <- function(x, na.rm = TRUE, filler = 1L, fun = `/`) {
+cf_apply <- function(x, na.rm = TRUE, filler = 1L, fun = `/`) {
 
-  n_na <- sum(is.na(x[["tcf"]]))
+  n_na <- sum(is.na(x[["cf"]]))
   if(n_na > 0) {
     cat("No conversion factors found for:\n\t",
-        paste0("'", unique(x[is.na(tcf), item]), "'", collapse = ", "),
+        paste0("'", unique(x[is.na(cf), item]), "'", collapse = ", "),
         ".\n", sep = "")
     if(na.rm) {
       cat("Dropping", n_na, "missing values.\n")
-      x <- x[!is.na(tcf), ]
+      x <- x[!is.na(cf), ]
     } else if(!is.null(filler)) {
       cat("Filling ",  n_na, " missing values with ",
           filler, ".\n", sep = "")
-      x[is.na(tcf), tcf := filler]
+      x[is.na(cf), cf := filler]
     }
   }
-  x[, `:=`(value = fun(value, tcf), tcf = NULL)]
+  x[, `:=`(value = fun(value, cf), cf = NULL)]
 
   return(x)
 }
@@ -265,8 +265,8 @@ replace_RoW <- function(x, cols = "area_code", codes) {
 }
 
 
-# Fill processing from outputs (y) and inputs (z), given TCF (C)
-fill_tcf <- function(y, z, C, cap = TRUE) {
+# Fill processing from outputs (y) and inputs (z), given CF (C)
+fill_cf <- function(y, z, C, cap = TRUE) {
   Z <- diag(z)
   X <- C %*% Z # X holds the potential output of every input
   x <- rowSums(X) # x is the potential output
@@ -284,7 +284,7 @@ fill_tcf <- function(y, z, C, cap = TRUE) {
 
 
 # Split processing use over processes
-split_tcf <- function(y, z, C, cap = TRUE) {
+split_cf <- function(y, z, C, cap = TRUE) {
   X <- C * y
   x <- rowSums(X)
   exists <- x != 0 # exists kicks 0 potential outputs

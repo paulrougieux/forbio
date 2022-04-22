@@ -1,30 +1,30 @@
-proc_code;process;com_code;com_name;type;;;;;;
-p01;Roundwood production, coniferous;c01;Industrial roundwood, coniferous;100%;;;;;;
-p02;Roundwood production, non-coniferous;c02;Industrial roundwood, non-coniferous;100%;;;;;;
-p03;Wood fuel production;c03;Wood fuel;100%;;;;;;
-p04;Sawnmill industry, coniferous;c04;Sawnwood, coniferous;100%;;;;;;
-p04;Sawnmill industry, coniferous;c17;Wood chips and particles;tcf;;;;;;
-p04;Sawnmill industry, coniferous;c18;Wood residues;tcf;;;;;;
-p05;Sawnmill industry, non-coniferous;c05;Sawnwood, non-coniferous all;100%;;;;;;
-p05;Sawnmill industry, non-coniferous all;c18;Wood chips and particles;tcf;;;;;;
-p05;Sawnmill industry, non-coniferous all;c19;Wood residues;tcf;;;;;;
-p06;Veneer production;c06;Veneer sheets;100%;;;;;;
-p06;Veneer production;c17;Wood chips and particles;tcf;;;;;;
-p06;Veneer production;c18;Wood residues;tcf;;;;;;
-p07;Plywood production;c07;Plywood;100%;;;;;;
-p07;Plywood production;c17;Wood chips and particles;tcf;;;;;;
-p07;Plywood production;c18;Wood residues;tcf;;;;;;
-p08;Fibreboard production;c08;Fibreboard;100%;;;;;;
-p09;Particle board production;c09;Particle board ;100%;;;;;;
-p10;OSB production;c10;OSB;100%;;;;;;
-p11a;Chemical pulp production;c20;Black liquor;100%;;;;;;
-p11a;Chemical pulp production;c11a;Chemical wood pulp;100%;;;;;;
-p11b;Mechanical and semi-chemical pulp production;c11b;Mechanical and semi-chemical wood pulp;100%;;;;;;
-p11c;Non-wood pulp production;c11c;Pulp from fibres other than wood;100%;;;;;;
-p11d;Dissolving pulp production;c11d;Dissolving wood pulp;100%;;;;;;
-p12;Paper recovering;c12;Recovered paper;100%;;;;;;
-p13;Recovered pulp production;c13;Recovered fibre pulp;100%;;;;;;
-p14;Paper and paperboard production;c14;Paper and paperboard;100%;;;;;;
-p15;Pellet and agglomerate production;c15;Wood pellets and other agglomerates;100%;;;;;;
-p16;Charcoal production;c16;Wood charcoal;100%;;;;;;
-p17;Wood recovery;c19;Post-consumer wood;100%;;;;;;
+proc_code;process;com_code;item;type
+p01;Roundwood production, coniferous;c01;Industrial roundwood, coniferous;100%
+p02;Roundwood production, non-coniferous;c02;Industrial roundwood, non-coniferous;100%
+p03;Wood fuel production;c03;Wood fuel;100%
+p04;Sawnmill industry, coniferous;c04;Sawnwood, coniferous;100%
+p04;Sawnmill industry, coniferous;c17;Wood chips and particles;cf
+p04;Sawnmill industry, coniferous;c18;Wood residues;cf
+p05;Sawnmill industry, non-coniferous;c05;Sawnwood, non-coniferous all;100%
+p05;Sawnmill industry, non-coniferous all;c17;Wood chips and particles;cf
+p05;Sawnmill industry, non-coniferous all;c18;Wood residues;cf
+p06;Veneer production;c06;Veneer sheets;100%
+p06;Veneer production;c17;Wood chips and particles;cf
+p06;Veneer production;c18;Wood residues;cf
+p07;Plywood production;c07;Plywood;100%
+p07;Plywood production;c17;Wood chips and particles;cf
+p07;Plywood production;c18;Wood residues;cf
+p08;Fibreboard production;c08;Fibreboard;100%
+p09;Particle board production;c09;Particle board ;100%
+p10;OSB production;c10;OSB;100%
+p11a;Chemical pulp production;c20;Black liquor;100%
+p11a;Chemical pulp production;c11a;Chemical wood pulp;100%
+p11b;Mechanical and semi-chemical pulp production;c11b;Mechanical and semi-chemical wood pulp;100%
+p11c;Non-wood pulp production;c11c;Pulp from fibres other than wood;100%
+p11d;Dissolving pulp production;c11d;Dissolving wood pulp;100%
+p12;Paper recovering;c12;Recovered paper;100%
+p13;Recovered pulp production;c13;Recovered fibre pulp;100%
+p14;Paper and paperboard production;c14;Paper and paperboard;100%
+p15;Pellet and agglomerate production;c15;Wood pellets and other agglomerates;100%
+p16;Charcoal production;c16;Wood charcoal;100%
+p17;Wood recovery;c19;Post-consumer wood;100%

@@ -66,19 +66,20 @@ for(i in seq_along(years)) {
   constraint <- merge(constr_templ,
     target[year == y, c("area_code", "com_code", "imports", "exports")],
     by = c("area_code", "com_code"), all.x = TRUE)
-  # Replace NA constraints with 0
-  constraint[, `:=`(imports = ifelse(is.na(imports), 0, imports),
-    exports = ifelse(is.na(exports), 0, exports))]
   # Balance imports and exports
   # Adjust constraints to have equal export and import numbers per item per year
   # This is very helpful for the iterative proportional fitting of bilateral trade data
   trade_bal <- constraint[, list(exp_t = sum(exports, na.rm = TRUE),
     imp_t = sum(imports, na.rm = TRUE)), by = c("com_code")]
+  trade_bal <- trade_bal[, mean_t := (exp_t + imp_t) / 2]
   constraint <- merge(constraint, trade_bal,
     by = c("com_code"), all.x = TRUE)
-  constraint[, `:=`(imports = ifelse(imp_t > exp_t, imports / imp_t * exp_t, imports),
-                    exports = ifelse(exp_t > imp_t, exports / exp_t * imp_t, exports))]
-
+  constraint[, `:=`(imports = imports / imp_t * mean_t,
+                    exports = exports / exp_t * mean_t)]
+  # Replace NA constraints with 0
+  constraint[, `:=`(imports = ifelse(is.na(imports), 0, imports),
+                    exports = ifelse(is.na(exports), 0, exports))]
+  
   # Eliminate estimates where data exist
   mapping[, val_est := ifelse(is.na(value), val_est, NA)]
   # Calculate totals for values and estimates per importing country and item
@@ -131,5 +132,18 @@ btd_bal <- lapply(btd_bal, rbindlist)
 btd_bal <- rbindlist(btd_bal)
 
 
+# Update imports and exports in CBS
+imports <- btd_bal %>% group_by(year, com_code, area_code = to_code) %>% 
+  summarise(value = na_sum(value))
+exports <- btd_bal %>% group_by(year, com_code, area_code = from_code) %>% 
+  summarise(value = na_sum(value))
+cbs <- merge(cbs, imports, by = c("year", "com_code", "area_code"), all.x = TRUE)
+cbs[!is.na(value), imports := value]
+cbs[, value := NULL]
+cbs <- merge(cbs, exports, by = c("year", "com_code", "area_code"), all.x = TRUE)
+cbs[!is.na(value), exports := value]
+cbs[, value := NULL]
+
 # Store the balanced sheets -----------------------------------------------
 saveRDS(btd_bal, "data/btd_bal.rds")
+saveRDS(cbs, "data/cbs_trade_bal.rds")

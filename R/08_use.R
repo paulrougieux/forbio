@@ -31,125 +31,125 @@ use[, use := NA_real_]
 
 
 
-# TCF ---------------------------------------------------------------------
+# CF ---------------------------------------------------------------------
 
-cat("Allocating part of the TCF commodities to TCF use. Applies to items:\n\t",
-  paste0(unique(use[type %in% c("tcf", "tcf_cnc", "tcf_pellets", "tcf_board", "tcf_pulp"), item]), 
+cat("Allocating part of the CF commodities to CF use. Applies to items:\n\t",
+  paste0(unique(use[type %in% c("cf", "cf_cnc", "cf_pellets", "cf_board", "cf_pulp"), item]), 
     collapse = "; "), "\nused for processes \n\t",
-  paste0(unique(use[type %in% c("tcf", "tcf_cnc", "tcf_pellets", "tcf_board", "tcf_pulp"), process]), 
+  paste0(unique(use[type %in% c("cf", "cf_cnc", "cf_pellets", "cf_board", "cf_pulp"), process]), 
     collapse = "; "), ".\n", sep = "")
 
-# Upload technical conversion factors
-tcf <- fread("inst/tcf_use_tidy.csv")
-# tcf <- tcf[!(com_code=="c13" & unit=="m3sw/tonne")]
+# Read technical conversion factors
+cf <- fread("inst/cf_use_tidy.csv")
+# cf <- cf[!(com_code=="c13" & unit=="m3sw/tonne")]
 
 # Technical conversion factors for each input-output combination
-tcf <- merge(source_use[type %in% c("tcf", "tcf_cnc", "tcf_board", "tcf_pulp"), 
+cf <- merge(source_use[type %in% c("cf", "cf_cnc", "cf_board", "cf_pulp"), 
                         .(proc_code, process, source_code, source, com_code, item)], 
-  tcf[, .(com_code, item, source_code, source, area_code, area, unit, tcf)], 
+  cf[, .(com_code, item, source_code, source, area_code, area, unit, cf)], 
   by = c("source_code", "source", "com_code", "item"), all.x = TRUE)
 
 # Technical conversion factors for pellets
-tcf_use <- fread("inst/tcf_use_tidy.csv")
-tcf_out <- tcf_use[com_code=="c15" & unit=="m3sw/tonne"]
-tcf_in <- tcf_use[com_code %in% source_use[type=="tcf_pellets", source_code] &
+cf_use <- fread("inst/cf_use_tidy.csv")
+cf_out <- cf_use[com_code=="c15" & unit=="m3sw/tonne"]
+cf_in <- cf_use[com_code %in% source_use[type=="cf_pellets", source_code] &
                     unit %in% c("m3rw/m3p","m3sw/m3p")]
 
-# tcf_in <- tcf_use[com_code %in% source_use[type=="tcf_pellets", source_code] &
+# cf_in <- cf_use[com_code %in% source_use[type=="cf_pellets", source_code] &
 # unit %in% c("m3rw/m3p", "m3p/m3sw")]
 
-tcf_in[unit=="m3rw/m3p", `:=`(tcf = 1 / tcf, unit = "m3p/m3sw")]
-tcf_in[unit=="m3sw/m3p", `:=`(tcf = 1 / tcf, unit = "m3p/m3sw")]
-# unique(tcf_in[, .(item, source, unit)])
-# unique(tcf_out[, .(item, source, unit)])
+cf_in[unit=="m3rw/m3p", `:=`(cf = 1 / cf, unit = "m3p/m3sw")]
+cf_in[unit=="m3sw/m3p", `:=`(cf = 1 / cf, unit = "m3p/m3sw")]
+# unique(cf_in[, .(item, source, unit)])
+# unique(cf_out[, .(item, source, unit)])
 
-tcf_pellets <- merge(source_use[type=="tcf_pellets"], 
-  tcf_in[, .(area_code,source_code=com_code,tcf_in=tcf)],
+cf_pellets <- merge(source_use[type=="cf_pellets"], 
+  cf_in[, .(area_code,source_code=com_code,cf_in=cf)],
   by = c("source_code"), allow.cartesian = TRUE)
-tcf_pellets <- merge(tcf_pellets, 
-  tcf_out[, .(area_code,com_code,tcf_out=tcf)],
+cf_pellets <- merge(cf_pellets, 
+  cf_out[, .(area_code,com_code,cf_out=cf)],
   by = c("area_code", "com_code"))
-tcf_pellets[, tcf := (tcf_in * tcf_out)]
-tcf_pellets[, `:=`(unit = "m3p/tonne", tcf_in = NULL, tcf_out = NULL, type = NULL,
-  area = regions$area[match(tcf_pellets$area_code, regions$area_code)])]
-tcf <- rbind(tcf, tcf_pellets)
+cf_pellets[, cf := (cf_in * cf_out)]
+cf_pellets[, `:=`(unit = "m3p/tonne", cf_in = NULL, cf_out = NULL, type = NULL,
+  area = regions$area[match(cf_pellets$area_code, regions$area_code)])]
+cf <- rbind(cf[!item %in% cf_pellets$item], cf_pellets)
 
 # Technical conversion factors for pulp
-tcf_use <- fread("inst/tcf_use_tidy.csv")
-tcf_out <- tcf_use[grepl("c11", com_code) & unit=="m3sw/tonne"]
-tcf_in <- tcf_use[com_code %in% source_use[type=="tcf_pulp", source_code] & unit %in% c("m3rw/m3p", "m3sw/m3p")]
-tcf_in[unit=="m3rw/m3p", `:=`(tcf = 1 / tcf, unit = "m3p/m3sw")]
-tcf_in[unit=="m3sw/m3p", `:=`(tcf = 1 / tcf, unit = "m3p/m3sw")]
-# unique(tcf_in[, .(item, source, unit)])
-# unique(tcf_out[, .(item, source, unit)])
-tcf_pulp <- merge(source_use[type=="tcf_pulp"], 
-  tcf_in[, .(area_code,source_code=com_code,tcf_in=tcf)],
+cf_use <- fread("inst/cf_use_tidy.csv")
+cf_out <- cf_use[grepl("c11", com_code) & unit=="m3sw/tonne"]
+cf_in <- cf_use[com_code %in% source_use[type=="cf_pulp", source_code] & unit %in% c("m3rw/m3p", "m3sw/m3p")]
+cf_in[unit=="m3rw/m3p", `:=`(cf = 1 / cf, unit = "m3p/m3sw")]
+cf_in[unit=="m3sw/m3p", `:=`(cf = 1 / cf, unit = "m3p/m3sw")]
+# unique(cf_in[, .(item, source, unit)])
+# unique(cf_out[, .(item, source, unit)])
+cf_pulp <- merge(source_use[type=="cf_pulp"], 
+  cf_in[, .(area_code,source_code=com_code,cf_in=cf)],
   by = c("source_code"), allow.cartesian = TRUE)
-tcf_pulp <- merge(tcf_pulp, 
-  tcf_out[, .(area_code,com_code,tcf_out=tcf)],
+cf_pulp <- merge(cf_pulp, 
+  cf_out[, .(area_code,com_code,cf_out=cf)],
   by = c("area_code", "com_code"))
-tcf_pulp[, tcf := (tcf_in * tcf_out)]
-tcf_pulp[, `:=`(unit = "m3p/tonne", tcf_in = NULL, tcf_out = NULL, type = NULL,
-  area = regions$area[match(tcf_pulp$area_code, regions$area_code)])]
-tcf <- rbind(tcf, tcf_pulp)
+cf_pulp[, cf := (cf_in * cf_out)]
+cf_pulp[, `:=`(unit = "m3p/tonne", cf_in = NULL, cf_out = NULL, type = NULL,
+  area = regions$area[match(cf_pulp$area_code, regions$area_code)])]
+cf <- rbind(cf[!item %in% cf_pulp$item], cf_pulp)
 
 # Technical conversion factors for boards
-tcf_use <- fread("inst/tcf_use_tidy.csv")
-tcf_out <- tcf_use[com_code %in% c("c08","c09") & unit %in% c("m3sw/m3p")]
-tcf_in <- tcf_use[com_code %in% source_use[type=="tcf_board", source_code] & 
+cf_use <- fread("inst/cf_use_tidy.csv")
+cf_out <- cf_use[com_code %in% c("c08","c09") & unit %in% c("m3sw/m3p")]
+cf_in <- cf_use[com_code %in% source_use[type=="cf_board", source_code] & 
                     unit %in% c("m3rw/m3p", "m3sw/m3p", "m3sw/tonne")]
-tcf_in[unit=="m3rw/m3p", `:=`(tcf = 1 / tcf, unit = "m3p/m3sw")]
-tcf_in[unit=="m3sw/m3p", `:=`(tcf = 1 / tcf, unit = "m3p/m3sw")]
-tcf_in[unit=="m3sw/tonne", `:=`(tcf = 1 / tcf, unit = "tonne/m3sw")]
-# unique(tcf_in[, .(item, source, unit)])
-# unique(tcf_out[, .(item, source, unit)])
-tcf_board <- merge(source_use[type=="tcf_board"], 
-  tcf_in[, .(area_code,source_code=com_code,tcf_in=tcf)],
+cf_in[unit=="m3rw/m3p", `:=`(cf = 1 / cf, unit = "m3p/m3sw")]
+cf_in[unit=="m3sw/m3p", `:=`(cf = 1 / cf, unit = "m3p/m3sw")]
+cf_in[unit=="m3sw/tonne", `:=`(cf = 1 / cf, unit = "tonne/m3sw")]
+# unique(cf_in[, .(item, source, unit)])
+# unique(cf_out[, .(item, source, unit)])
+cf_board <- merge(source_use[type=="cf_board"], 
+  cf_in[, .(area_code,source_code=com_code,cf_in=cf)],
   by = c("source_code"), allow.cartesian = TRUE)
-tcf_board <- merge(tcf_board, 
-  tcf_out[, .(area_code,com_code,tcf_out=tcf)],
+cf_board <- merge(cf_board, 
+  cf_out[, .(area_code,com_code,cf_out=cf)],
   by = c("area_code", "com_code"))
-tcf_board[, tcf := (tcf_in * tcf_out)]
-tcf_board[, `:=`(unit = "m3p/m3p", tcf_in = NULL, tcf_out = NULL, type = NULL,
-  area = regions$area[match(tcf_board$area_code, regions$area_code)])]
-tcf_board[source_code =="c19", `:=`(unit = "tonne/m3p")]
-tcf <- rbind(tcf, tcf_board)
+cf_board[, cf := (cf_in * cf_out)]
+cf_board[, `:=`(unit = "m3p/m3p", cf_in = NULL, cf_out = NULL, type = NULL,
+  area = regions$area[match(cf_board$area_code, regions$area_code)])]
+cf_board[source_code =="c19", `:=`(unit = "tonne/m3p")]
+cf <- rbind(cf[!item %in% cf_board$item], cf_board)
 
-tcf_codes <- list(sort(unique(cbs$area_code[cbs$area_code %in% tcf$area_code])), sort(unique(tcf$com_code)),
-  sort(unique(tcf$source_code)))
+cf_codes <- list(sort(unique(cbs$area_code[cbs$area_code %in% cf$area_code])), sort(unique(cf$com_code)),
+  sort(unique(cf$source_code)))
 
-# Create tcf matrices for each country
-Cs <- lapply(tcf_codes[[1]], function(x) {
-  out <- data.table::dcast(tcf[area_code == x], com_code ~ source_code, fill = 0,
-    fun.aggregate = na_sum, value.var = "tcf")
+# Create cf matrices for each country
+Cs <- lapply(cf_codes[[1]], function(x) {
+  out <- data.table::dcast(cf[area_code == x], com_code ~ source_code, fill = 0,
+    fun.aggregate = na_sum, value.var = "cf")
   setkey(out, com_code)
   out <- as(out[, -1], "Matrix")
 })
-Cs <- lapply(Cs, `dimnames<-`, list(tcf_codes[[2]], tcf_codes[[3]]))
-names(Cs) <- tcf_codes[[1]]
+Cs <- lapply(Cs, `dimnames<-`, list(cf_codes[[2]], cf_codes[[3]]))
+names(Cs) <- cf_codes[[1]]
 
 # Get all relevant input and output data
-tcf_data <- cbs[area_code %in% tcf_codes[[1]] &
-  (com_code %in% tcf_codes[[2]] | com_code %in% tcf_codes[[3]]),
+cf_data <- cbs[area_code %in% cf_codes[[1]] &
+  (com_code %in% cf_codes[[2]] | com_code %in% cf_codes[[3]]),
   .(year, area_code, com_code, production, processing)]
-setkey(tcf_data, year, area_code, com_code)
-areas <- tcf_codes[[1]]
+setkey(cf_data, year, area_code, com_code)
+areas <- cf_codes[[1]]
 
 # Production in processes
-output <- tcf_data[data.table(expand.grid(year = years,
-  area_code = areas, com_code = tcf_codes[[2]]))]
+output <- cf_data[data.table(expand.grid(year = years,
+  area_code = areas, com_code = cf_codes[[2]]))]
 output[, `:=`(value = production, production = NULL, processing = NULL)]
 dt_replace(output, is.na, 0, cols = "value")
 
 # Processing of source items
-input <- tcf_data[data.table(expand.grid(year = years,
-  area_code = areas, com_code = tcf_codes[[3]]))]
+input <- cf_data[data.table(expand.grid(year = years,
+  area_code = areas, com_code = cf_codes[[3]]))]
 input[, `:=`(value = processing, production = NULL, processing = NULL)]
 dt_replace(input, is.na, 0, cols = "value")
 
 # Prepare template to be filled - processing per process
-results <- tcf_data[data.table(expand.grid(year = years, area_code = areas,
-  com_code = tcf_codes[[3]], com_code_proc = tcf_codes[[2]]))]
+results <- cf_data[data.table(expand.grid(year = years, area_code = areas,
+  com_code = cf_codes[[3]], com_code_proc = cf_codes[[2]]))]
 setkey(results, com_code, com_code_proc)
 results[, `:=`(value = 0, production = NULL, processing = NULL)]
 
@@ -162,7 +162,7 @@ for(x in years) {
     input_y <- input_x[area_code == y, value]
     # Skip if no data is available
     if(all(output_y == 0) || all(input_y == 0)) {next}
-    out <- split_tcf(y = output_y, z = input_y,
+    out <- split_cf(y = output_y, z = input_y,
       C = Cs[[as.character(y)]], cap = FALSE)
     if(length(out) == 1 && is.na(out)) {next}
     results[year == x & area_code == y &
@@ -178,7 +178,7 @@ results[, `:=`(proc_code =
 
 
 # Tidying estimates for feedstock composition for pulp production
-pulp <- fread("inst/pulp.csv")
+pulp <- fread("inst/pulp_feedstock_raw.csv")
 pulp[, `:=`(continent = regions$continent[match(pulp$area_code, regions$area_code)])]
 pulp[continent == "EU", `:=`(continent = "EUR")]
 pulp[, `:=`(roundwood = if_else(!is.na(roundwood), roundwood, 
@@ -214,9 +214,7 @@ results[proc_code %in% c("p09") & com_code == "c19", value := value * waste]
 results[proc_code %in% c("p09") & com_code == "c19" & value>0 & year == 2017]
 
 # Downscale the other inputs (c01, c02, c17, c18)
-results <- merge(results, wastepb[, .(area_code, proc_code, waste)],
-                 by = c("area_code", "proc_code"), all.x = TRUE)
-results[, `:=`(primary = 1 - wastepb[, waste][match(results$area_code, wastepb$area_code)])]
+results[, `:=`(primary = 1 - waste)]
 results[proc_code == "p09" & com_code != "c19" & year>= 2017 & !is.na(primary), `:=`(value = value*primary)]
 results[, `:=`(waste = NULL, primary = NULL)]
 results[com_code == "c19" & year< 2017, `:=`(value = 0)]
@@ -227,39 +225,33 @@ data <- merge(results[com_code %in% c("c01","c02"),],
   source_use[, .(com_code=source_code, com_code_proc = com_code, type)], 
   by=c("com_code", "com_code_proc"))
 
-# sum per type, i.e. tcf and tcf_cnc
+# sum per type, i.e. cf and cf_cnc
 data <- data[, list(value = sum(value, na.rm = TRUE)), 
   by = c("com_code", "year", "area_code", "type")]
 data <- spread(data, type, value)
 data <- merge(data, cbs[, .(area_code, com_code, year, processing = na_sum(processing, bal_byprod, bal_prod))],
   by = c("area_code", "com_code", "year"))
-data[, `:=`(rest = processing - tcf, demand = na_sum(tcf_board, tcf_cnc, tcf_pulp), tcf = NULL)]
+data[, `:=`(rest = processing - cf, demand = na_sum(cf_board, cf_cnc, cf_pulp), cf = NULL)]
 data[, `:=`(rest = ifelse(rest < 0, 0, rest))]
 
 # sum up remaining roundwood per country
 data <- merge(data, data[, list(rest_total = na_sum(rest)), by = c("year", "area_code")],
   by = c("year", "area_code"))
 
-# derive shares of remaining c & nc roundwood
-# data[, `:=`(rest = rest / rest_total, processing = processing / processing_total)]
-# data[, `:=`(rest = ifelse(!is.finite(rest), 0, rest), 
-#   processing = ifelse(!is.finite(processing), 0, processing))]
-# data[, `:=`(share = rest * rest_total / demand + processing * (demand - rest_total) / demand)]
-
 data[, share := rest / rest_total]
 data[, share := ifelse(!is.finite(share), 0, share)]
 
-# merge shares into results and apply to type 'tcf_cnc'
+# merge shares into results and apply to type 'cf_cnc'
 results <- merge(results, data[, .(year, area_code, com_code, share)],
   by = c("year", "area_code", "com_code"), all.x = TRUE)
 results <- merge(results, source_use[, .(com_code=source_code, com_code_proc = com_code, type)], 
   by=c("com_code", "com_code_proc"))
-results[type!="tcf" & com_code %in% c("c01","c02"), `:=`(value = round(value * share))]
+results[type!="cf" & com_code %in% c("c01","c02"), `:=`(value = round(value * share))]
 results[, share := NULL]
 
 
 # Redistribute input use for pellets production
-data <- results[type=="tcf_pellets", .(com_code, year, area_code, value)]
+data <- results[type=="cf_pellets", .(com_code, year, area_code, value)]
 data <- merge(data, cbs[, .(area_code, com_code, year, processing = na_sum(processing, bal_byprod, bal_prod))],
   by = c("area_code", "com_code", "year"))
 data <- merge(data, data[com_code=="c18", .(year, area_code, share = processing / value)],
@@ -270,25 +262,25 @@ data[com_code=="c18" & share < 1, value := processing]
 data[com_code=="c18" & share == 0, value := 0]
 data[com_code %in% c("c03","c17"), value := value * (1 - share)]
 
-data <- merge(data, tcf_pellets[, .(area_code, com_code = source_code, tcf)],
+data <- merge(data, cf_pellets[, .(area_code, com_code = source_code, cf)],
   by = c("area_code", "com_code"))
-data[, potential := processing / tcf]
+data[, potential := processing / cf]
 data <- merge(data, cbs[com_code=="c15", .(year, area_code, 
   production = na_sum(production, bal_prod, bal_byprod))],
   by = c("year", "area_code"))
-data <- merge(data, data[com_code=="c18", .(year, area_code, pellets_from_residues = value / tcf)], 
+data <- merge(data, data[com_code=="c18", .(year, area_code, pellets_from_residues = value / cf)], 
   by = c("year", "area_code"), all.x = TRUE)
 data[, demand := na_sum(production, - pellets_from_residues)]
 data <- merge(data, data[com_code!="c18", list(potential_total = sum(potential, na.rm = TRUE)), 
   by = c("year", "area_code")], by = c("year", "area_code"), all.x = TRUE)
 
 data[, share := potential / potential_total]
-data[, use := round(demand * share * tcf)]
+data[, use := round(demand * share * cf)]
 data[com_code %in% c("c03","c17"), value := use]
 
 # replace pellets rows in results
-results <- rbind(results[type != "tcf_pellets"], 
-  data[, .(com_code, com_code_proc = "c15", year, area_code, value, proc_code = "p15", type = "tcf_pellets")])
+results <- rbind(results[type != "cf_pellets"], 
+  data[, .(com_code, com_code_proc = "c15", year, area_code, value, proc_code = "p15", type = "cf_pellets")])
 
 # Add to use (per item and process)
 use <- merge(use, results[, .(year, area_code, proc_code, com_code, value)],
@@ -303,18 +295,18 @@ use[, value := NULL]
 # 100% processes ------------------------------------------------------
 
 cat("Allocating items going directly to a process.\n\t",
-    paste0(unique(use[type %in% c("100%","tcf_fill"), item]), collapse = "; "),
+    paste0(unique(use[type %in% c("100%","cf_fill"), item]), collapse = "; "),
     ".\n", sep = "")
 use <- merge(use,
   cbs[, .(area_code, area, year, com_code, item, processing)],
   by = c("area_code", "area", "year", "com_code", "item"), all.x = TRUE)
-use[type %in% c("100%","tcf_fill"), use := processing]
+use[type %in% c("100%","cf_fill"), use := processing]
 use[, processing := NULL]
 use <- use[!is.na(use) & use != 0]
 
 
 
-# TCF fill ------------------------------------------------------
+# CF fill ------------------------------------------------------
 # we have allocated all remaining recovered paper to p14 paper production
 
 
@@ -329,8 +321,8 @@ cbs[, processing := na_sum(processing, -use)]
 cbs[, use := NULL]
 
 
-rm(tcf, tcf_codes, tcf_data, areas, out, data, pulp, tcf_board, tcf_pellets, tcf_pulp,
-   tcf_in, tcf_out, tcf_use, results, Cs, input, output, input_x, output_x, input_y, output_y)
+rm(cf, cf_codes, cf_data, areas, out, data, pulp, cf_board, cf_pellets, cf_pulp,
+   cf_in, cf_out, cf_use, results, Cs, input, output, input_x, output_x, input_y, output_y)
 
 
 
@@ -387,15 +379,15 @@ totals[, `:=`(cbs_prod = NULL, cbs_sup = NULL, sup_prod = NULL, diff = NULL,
 # read IEA data
 # iea <- readRDS("input/energy.rds")
 # energy <- totals[com_code %in% c("c03", "c15", "c17", "c18", "c20")]
-# conversion <- fread("inst/tcf_energy.csv")
-# energy <- merge(energy, conversion[, .(com_code, tcf)], by = "com_code")
-# energy[, energy_use := energy_use * tcf]
+# conversion <- fread("inst/cf_energy.csv")
+# energy <- merge(energy, conversion[, .(com_code, cf)], by = "com_code")
+# energy[, energy_use := energy_use * cf]
 # energy_totals <- merge(energy[, list(energy = na_sum(energy_use)), by = c("area_code", "year")], 
 #   iea[year %in% years & area_code %in% regions[baci == TRUE, area_code], 
 #       .(area_code, area, year, iea = value * 1000)], 
 #   by = c("area_code", "year"), all = TRUE)
 # # calculate supply gap, i.e. where iea reports more solid biofuel use
-# energy_totals[, diff := na_sum(iea, -energy) / conversion[com_code == "c03", tcf]]
+# energy_totals[, diff := na_sum(iea, -energy) / conversion[com_code == "c03", cf]]
 # # ignore gap where iea does not report data
 # energy_totals[is.na(iea), diff := NA]
 

@@ -1,7 +1,0 @@
-com_code;item;item_code;item_unit;tcf;tcf_unit;heating_value
-c03;Wood fuel;1864;m3;7.2;GJ/m3sw;lower
-c15;Wood pellets and other agglomerates;1696;tonnes;18;GJ/tonne;lower
-c16;Wood charcoal;1630;tonnes;31;GJ/tonne;lower
-c17;Wood chips and particles;1619;m3;6.46;GJ/m3;lower
-c18;Wood residues;1620;m3;6.46;GJ/m3;lower
-c20;Black liquor;9999;tonnes;8.47;GJ/tonne;lower
