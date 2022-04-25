@@ -1,0 +1,733 @@
+area_code,area,com_code,item,source_code,source,unit,cf,cf_type,description,literature
+1,Armenia,c03,Wood fuel,,,m3rw/tonne,1.45416875,cf_shipping_weight,,Own calculation
+2,Afghanistan,c03,Wood fuel,,,m3rw/tonne,1.45416875,cf_shipping_weight,,Own calculation
+3,Albania,c03,Wood fuel,,,m3rw/tonne,1.264166,cf_shipping_weight,,Own calculation
+4,Algeria,c03,Wood fuel,,,m3rw/tonne,1.45416875,cf_shipping_weight,,Own calculation
+5,American Samoa,c03,Wood fuel,,,m3rw/tonne,1.45416875,cf_shipping_weight,,Own calculation
+6,Andorra,c03,Wood fuel,,,m3rw/tonne,1.264166,cf_shipping_weight,,Own calculation
+7,Angola,c03,Wood fuel,,,m3rw/tonne,1.45416875,cf_shipping_weight,,Own calculation
+8,Antigua and Barbuda,c03,Wood fuel,,,m3rw/tonne,1.6441715,cf_shipping_weight,,Own calculation
+9,Argentina,c03,Wood fuel,,,m3rw/tonne,1.6441715,cf_shipping_weight,,Own calculation
+10,Australia,c03,Wood fuel,,,m3rw/tonne,1.45416875,cf_shipping_weight,,Own calculation
+11,Austria,c03,Wood fuel,,,m3rw/tonne,1.264166,cf_shipping_weight,,Own calculation
+12,Bahamas,c03,Wood fuel,,,m3rw/tonne,1.6441715,cf_shipping_weight,,Own calculation
+13,Bahrain,c03,Wood fuel,,,m3rw/tonne,1.45416875,cf_shipping_weight,,Own calculation
+14,Barbados,c03,Wood fuel,,,m3rw/tonne,1.6441715,cf_shipping_weight,,Own calculation
+15,Belgium-Luxembourg,c03,Wood fuel,,,m3rw/tonne,1.264166,cf_shipping_weight,,Own calculation
+16,Bangladesh,c03,Wood fuel,,,m3rw/tonne,1.45416875,cf_shipping_weight,,Own calculation
+17,Bermuda,c03,Wood fuel,,,m3rw/tonne,1.6441715,cf_shipping_weight,,Own calculation
+18,Bhutan,c03,Wood fuel,,,m3rw/tonne,1.45416875,cf_shipping_weight,,Own calculation
+19,Bolivia (Plurinational State of),c03,Wood fuel,,,m3rw/tonne,1.6441715,cf_shipping_weight,,Own calculation
+20,Botswana,c03,Wood fuel,,,m3rw/tonne,1.45416875,cf_shipping_weight,,Own calculation
+21,Brazil,c03,Wood fuel,,,m3rw/tonne,1.6441715,cf_shipping_weight,,Own calculation
+22,Aruba,c03,Wood fuel,,,m3rw/tonne,1.6441715,cf_shipping_weight,,Own calculation
+23,Belize,c03,Wood fuel,,,m3rw/tonne,1.6441715,cf_shipping_weight,,Own calculation
+24,British Indian Ocean Territory,c03,Wood fuel,,,m3rw/tonne,1.45416875,cf_shipping_weight,,Own calculation
+25,Solomon Islands,c03,Wood fuel,,,m3rw/tonne,1.45416875,cf_shipping_weight,,Own calculation
+26,Brunei Darussalam,c03,Wood fuel,,,m3rw/tonne,1.45416875,cf_shipping_weight,,Own calculation
+27,Bulgaria,c03,Wood fuel,,,m3rw/tonne,1.264166,cf_shipping_weight,,Own calculation
+28,Myanmar,c03,Wood fuel,,,m3rw/tonne,1.45416875,cf_shipping_weight,,Own calculation
+29,Burundi,c03,Wood fuel,,,m3rw/tonne,1.45416875,cf_shipping_weight,,Own calculation
+32,Cameroon,c03,Wood fuel,,,m3rw/tonne,1.45416875,cf_shipping_weight,,Own calculation
+33,Canada,c03,Wood fuel,,,m3rw/tonne,1.45416875,cf_shipping_weight,,Own calculation
+35,Cabo Verde,c03,Wood fuel,,,m3rw/tonne,1.45416875,cf_shipping_weight,,Own calculation
+36,Cayman Islands,c03,Wood fuel,,,m3rw/tonne,1.6441715,cf_shipping_weight,,Own calculation
+37,Central African Republic,c03,Wood fuel,,,m3rw/tonne,1.45416875,cf_shipping_weight,,Own calculation
+38,Sri Lanka,c03,Wood fuel,,,m3rw/tonne,1.45416875,cf_shipping_weight,,Own calculation
+39,Chad,c03,Wood fuel,,,m3rw/tonne,1.45416875,cf_shipping_weight,,Own calculation
+40,Chile,c03,Wood fuel,,,m3rw/tonne,1.74459,cf_shipping_weight,,Own calculation
+41,"China, mainland",c03,Wood fuel,,,m3rw/tonne,1.45416875,cf_shipping_weight,,Own calculation
+42,Christmas Island,c03,Wood fuel,,,m3rw/tonne,1.45416875,cf_shipping_weight,,Own calculation
+43,Cocos (Keeling) Islands,c03,Wood fuel,,,m3rw/tonne,1.45416875,cf_shipping_weight,,Own calculation
+44,Colombia,c03,Wood fuel,,,m3rw/tonne,1.6441715,cf_shipping_weight,,Own calculation
+45,Comoros,c03,Wood fuel,,,m3rw/tonne,1.45416875,cf_shipping_weight,,Own calculation
+46,Congo,c03,Wood fuel,,,m3rw/tonne,1.45416875,cf_shipping_weight,,Own calculation
+47,Cook Islands,c03,Wood fuel,,,m3rw/tonne,1.45416875,cf_shipping_weight,,Own calculation
+48,Costa Rica,c03,Wood fuel,,,m3rw/tonne,1.6441715,cf_shipping_weight,,Own calculation
+49,Cuba,c03,Wood fuel,,,m3rw/tonne,1.6441715,cf_shipping_weight,,Own calculation
+50,Cyprus,c03,Wood fuel,,,m3rw/tonne,1.264166,cf_shipping_weight,,Own calculation
+51,Czechoslovakia,c03,Wood fuel,,,m3rw/tonne,1.264166,cf_shipping_weight,,Own calculation
+52,Azerbaijan,c03,Wood fuel,,,m3rw/tonne,1.45416875,cf_shipping_weight,,Own calculation
+53,Benin,c03,Wood fuel,,,m3rw/tonne,1.45416875,cf_shipping_weight,,Own calculation
+54,Denmark,c03,Wood fuel,,,m3rw/tonne,1.264166,cf_shipping_weight,,Own calculation
+55,Dominica,c03,Wood fuel,,,m3rw/tonne,1.6441715,cf_shipping_weight,,Own calculation
+56,Dominican Republic,c03,Wood fuel,,,m3rw/tonne,1.6441715,cf_shipping_weight,,Own calculation
+57,Belarus,c03,Wood fuel,,,m3rw/tonne,1.264166,cf_shipping_weight,,Own calculation
+58,Ecuador,c03,Wood fuel,,,m3rw/tonne,1.6441715,cf_shipping_weight,,Own calculation
+59,Egypt,c03,Wood fuel,,,m3rw/tonne,1.45416875,cf_shipping_weight,,Own calculation
+60,El Salvador,c03,Wood fuel,,,m3rw/tonne,1.6441715,cf_shipping_weight,,Own calculation
+61,Equatorial Guinea,c03,Wood fuel,,,m3rw/tonne,1.45416875,cf_shipping_weight,,Own calculation
+63,Estonia,c03,Wood fuel,,,m3rw/tonne,1.264166,cf_shipping_weight,,Own calculation
+64,Faroe Islands,c03,Wood fuel,,,m3rw/tonne,1.264166,cf_shipping_weight,,Own calculation
+65,Falkland Islands (Malvinas),c03,Wood fuel,,,m3rw/tonne,1.6441715,cf_shipping_weight,,Own calculation
+66,Fiji,c03,Wood fuel,,,m3rw/tonne,1.45416875,cf_shipping_weight,,Own calculation
+67,Finland,c03,Wood fuel,,,m3rw/tonne,1.264166,cf_shipping_weight,,Own calculation
+68,France,c03,Wood fuel,,,m3rw/tonne,1.555,cf_shipping_weight,,Own calculation
+69,French Guyana,c03,Wood fuel,,,m3rw/tonne,1.6441715,cf_shipping_weight,,Own calculation
+70,French Polynesia,c03,Wood fuel,,,m3rw/tonne,1.45416875,cf_shipping_weight,,Own calculation
+71,French Southern and Antarctic Territories,c03,Wood fuel,,,m3rw/tonne,1.45416875,cf_shipping_weight,,Own calculation
+72,Djibouti,c03,Wood fuel,,,m3rw/tonne,1.45416875,cf_shipping_weight,,Own calculation
+73,Georgia,c03,Wood fuel,,,m3rw/tonne,1.45416875,cf_shipping_weight,,Own calculation
+74,Gabon,c03,Wood fuel,,,m3rw/tonne,1.45416875,cf_shipping_weight,,Own calculation
+75,Gambia,c03,Wood fuel,,,m3rw/tonne,1.45416875,cf_shipping_weight,,Own calculation
+79,Germany,c03,Wood fuel,,,m3rw/tonne,1.264166,cf_shipping_weight,,Own calculation
+80,Bosnia and Herzegovina,c03,Wood fuel,,,m3rw/tonne,1.264166,cf_shipping_weight,,Own calculation
+81,Ghana,c03,Wood fuel,,,m3rw/tonne,1.45416875,cf_shipping_weight,,Own calculation
+82,Gibraltar,c03,Wood fuel,,,m3rw/tonne,1.264166,cf_shipping_weight,,Own calculation
+83,Kiribati,c03,Wood fuel,,,m3rw/tonne,1.45416875,cf_shipping_weight,,Own calculation
+84,Greece,c03,Wood fuel,,,m3rw/tonne,1.264166,cf_shipping_weight,,Own calculation
+85,Greenland,c03,Wood fuel,,,m3rw/tonne,1.264166,cf_shipping_weight,,Own calculation
+86,Grenada,c03,Wood fuel,,,m3rw/tonne,1.6441715,cf_shipping_weight,,Own calculation
+87,Guadeloupe,c03,Wood fuel,,,m3rw/tonne,1.6441715,cf_shipping_weight,,Own calculation
+88,Guam,c03,Wood fuel,,,m3rw/tonne,1.45416875,cf_shipping_weight,,Own calculation
+89,Guatemala,c03,Wood fuel,,,m3rw/tonne,1.6441715,cf_shipping_weight,,Own calculation
+90,Guinea,c03,Wood fuel,,,m3rw/tonne,1.45416875,cf_shipping_weight,,Own calculation
+91,Guyana,c03,Wood fuel,,,m3rw/tonne,1.6441715,cf_shipping_weight,,Own calculation
+93,Haiti,c03,Wood fuel,,,m3rw/tonne,1.6441715,cf_shipping_weight,,Own calculation
+94,Holy See,c03,Wood fuel,,,m3rw/tonne,1.264166,cf_shipping_weight,,Own calculation
+95,Honduras,c03,Wood fuel,,,m3rw/tonne,1.6441715,cf_shipping_weight,,Own calculation
+96,"China, Hong Kong SAR",c03,Wood fuel,,,m3rw/tonne,1.45416875,cf_shipping_weight,,Own calculation
+97,Hungary,c03,Wood fuel,,,m3rw/tonne,1.264166,cf_shipping_weight,,Own calculation
+98,Croatia,c03,Wood fuel,,,m3rw/tonne,1,cf_shipping_weight,,Own calculation
+99,Iceland,c03,Wood fuel,,,m3rw/tonne,1.264166,cf_shipping_weight,,Own calculation
+100,India,c03,Wood fuel,,,m3rw/tonne,1.45416875,cf_shipping_weight,,Own calculation
+101,Indonesia,c03,Wood fuel,,,m3rw/tonne,1.45416875,cf_shipping_weight,,Own calculation
+102,Iran (Islamic Republic of),c03,Wood fuel,,,m3rw/tonne,1.45416875,cf_shipping_weight,,Own calculation
+103,Iraq,c03,Wood fuel,,,m3rw/tonne,1.45416875,cf_shipping_weight,,Own calculation
+104,Ireland,c03,Wood fuel,,,m3rw/tonne,1.264166,cf_shipping_weight,,Own calculation
+105,Israel,c03,Wood fuel,,,m3rw/tonne,1.45416875,cf_shipping_weight,,Own calculation
+106,Italy,c03,Wood fuel,,,m3rw/tonne,1.264166,cf_shipping_weight,,Own calculation
+107,Cote d'Ivoire,c03,Wood fuel,,,m3rw/tonne,1.45416875,cf_shipping_weight,,Own calculation
+108,Kazakhstan,c03,Wood fuel,,,m3rw/tonne,1.45416875,cf_shipping_weight,,Own calculation
+109,Jamaica,c03,Wood fuel,,,m3rw/tonne,1.6441715,cf_shipping_weight,,Own calculation
+110,Japan,c03,Wood fuel,,,m3rw/tonne,1.45416875,cf_shipping_weight,,Own calculation
+112,Jordan,c03,Wood fuel,,,m3rw/tonne,1.45416875,cf_shipping_weight,,Own calculation
+113,Kyrgyzstan,c03,Wood fuel,,,m3rw/tonne,1.45416875,cf_shipping_weight,,Own calculation
+114,Kenya,c03,Wood fuel,,,m3rw/tonne,1.45416875,cf_shipping_weight,,Own calculation
+115,Cambodia,c03,Wood fuel,,,m3rw/tonne,1.45416875,cf_shipping_weight,,Own calculation
+116,Democratic People's Republic of Korea,c03,Wood fuel,,,m3rw/tonne,1.45416875,cf_shipping_weight,,Own calculation
+117,Republic of Korea,c03,Wood fuel,,,m3rw/tonne,1.45416875,cf_shipping_weight,,Own calculation
+118,Kuwait,c03,Wood fuel,,,m3rw/tonne,1.45416875,cf_shipping_weight,,Own calculation
+119,Latvia,c03,Wood fuel,,,m3rw/tonne,1.264166,cf_shipping_weight,,Own calculation
+120,Lao People's Democratic Republic,c03,Wood fuel,,,m3rw/tonne,1.45416875,cf_shipping_weight,,Own calculation
+121,Lebanon,c03,Wood fuel,,,m3rw/tonne,1.45416875,cf_shipping_weight,,Own calculation
+122,Lesotho,c03,Wood fuel,,,m3rw/tonne,1.45416875,cf_shipping_weight,,Own calculation
+123,Liberia,c03,Wood fuel,,,m3rw/tonne,1.45416875,cf_shipping_weight,,Own calculation
+124,Libya,c03,Wood fuel,,,m3rw/tonne,1.45416875,cf_shipping_weight,,Own calculation
+125,Liechtenstein,c03,Wood fuel,,,m3rw/tonne,1.264166,cf_shipping_weight,,Own calculation
+126,Lithuania,c03,Wood fuel,,,m3rw/tonne,1.264166,cf_shipping_weight,,Own calculation
+127,Marshall Islands,c03,Wood fuel,,,m3rw/tonne,1.45416875,cf_shipping_weight,,Own calculation
+128,"China, Macao SAR",c03,Wood fuel,,,m3rw/tonne,1.45416875,cf_shipping_weight,,Own calculation
+129,Madagascar,c03,Wood fuel,,,m3rw/tonne,1.45416875,cf_shipping_weight,,Own calculation
+130,Malawi,c03,Wood fuel,,,m3rw/tonne,1.45416875,cf_shipping_weight,,Own calculation
+131,Malaysia,c03,Wood fuel,,,m3rw/tonne,1.45416875,cf_shipping_weight,,Own calculation
+132,Maldives,c03,Wood fuel,,,m3rw/tonne,1.45416875,cf_shipping_weight,,Own calculation
+133,Mali,c03,Wood fuel,,,m3rw/tonne,1.45416875,cf_shipping_weight,,Own calculation
+134,Malta,c03,Wood fuel,,,m3rw/tonne,1.264166,cf_shipping_weight,,Own calculation
+135,Martinique,c03,Wood fuel,,,m3rw/tonne,1.6441715,cf_shipping_weight,,Own calculation
+136,Mauritania,c03,Wood fuel,,,m3rw/tonne,1.45416875,cf_shipping_weight,,Own calculation
+137,Mauritius,c03,Wood fuel,,,m3rw/tonne,1.45416875,cf_shipping_weight,,Own calculation
+138,Mexico,c03,Wood fuel,,,m3rw/tonne,1.6441715,cf_shipping_weight,,Own calculation
+141,Mongolia,c03,Wood fuel,,,m3rw/tonne,1.45416875,cf_shipping_weight,,Own calculation
+142,Montserrat,c03,Wood fuel,,,m3rw/tonne,1.6441715,cf_shipping_weight,,Own calculation
+143,Morocco,c03,Wood fuel,,,m3rw/tonne,1.45416875,cf_shipping_weight,,Own calculation
+144,Mozambique,c03,Wood fuel,,,m3rw/tonne,1.45416875,cf_shipping_weight,,Own calculation
+145,Micronesia (Federated States of),c03,Wood fuel,,,m3rw/tonne,1.45416875,cf_shipping_weight,,Own calculation
+146,Republic of Moldova,c03,Wood fuel,,,m3rw/tonne,1.264166,cf_shipping_weight,,Own calculation
+147,Namibia,c03,Wood fuel,,,m3rw/tonne,1.45416875,cf_shipping_weight,,Own calculation
+148,Nauru,c03,Wood fuel,,,m3rw/tonne,1.45416875,cf_shipping_weight,,Own calculation
+149,Nepal,c03,Wood fuel,,,m3rw/tonne,1.45416875,cf_shipping_weight,,Own calculation
+150,Netherlands,c03,Wood fuel,,,m3rw/tonne,1.10015,cf_shipping_weight,,Own calculation
+151,Netherlands Antilles,c03,Wood fuel,,,m3rw/tonne,1.6441715,cf_shipping_weight,,Own calculation
+153,New Caledonia,c03,Wood fuel,,,m3rw/tonne,1.45416875,cf_shipping_weight,,Own calculation
+154,North Macedonia,c03,Wood fuel,,,m3rw/tonne,1.264166,cf_shipping_weight,,Own calculation
+155,Vanuatu,c03,Wood fuel,,,m3rw/tonne,1.45416875,cf_shipping_weight,,Own calculation
+156,New Zealand,c03,Wood fuel,,,m3rw/tonne,1.45416875,cf_shipping_weight,,Own calculation
+157,Nicaragua,c03,Wood fuel,,,m3rw/tonne,1.6441715,cf_shipping_weight,,Own calculation
+158,Niger,c03,Wood fuel,,,m3rw/tonne,1.45416875,cf_shipping_weight,,Own calculation
+159,Nigeria,c03,Wood fuel,,,m3rw/tonne,1.45416875,cf_shipping_weight,,Own calculation
+160,Niue,c03,Wood fuel,,,m3rw/tonne,1.45416875,cf_shipping_weight,,Own calculation
+161,Norfolk Island,c03,Wood fuel,,,m3rw/tonne,1.45416875,cf_shipping_weight,,Own calculation
+162,Norway,c03,Wood fuel,,,m3rw/tonne,1.15942,cf_shipping_weight,,Own calculation
+163,Northern Mariana Islands,c03,Wood fuel,,,m3rw/tonne,1.45416875,cf_shipping_weight,,Own calculation
+164,Pacific Islands Trust Territory,c03,Wood fuel,,,m3rw/tonne,1.45416875,cf_shipping_weight,,Own calculation
+165,Pakistan,c03,Wood fuel,,,m3rw/tonne,1.45416875,cf_shipping_weight,,Own calculation
+166,Panama,c03,Wood fuel,,,m3rw/tonne,1.6441715,cf_shipping_weight,,Own calculation
+167,Czechia,c03,Wood fuel,,,m3rw/tonne,1.264166,cf_shipping_weight,,Own calculation
+168,Papua New Guinea,c03,Wood fuel,,,m3rw/tonne,1.45416875,cf_shipping_weight,,Own calculation
+169,Paraguay,c03,Wood fuel,,,m3rw/tonne,1.6441715,cf_shipping_weight,,Own calculation
+170,Peru,c03,Wood fuel,,,m3rw/tonne,1.6441715,cf_shipping_weight,,Own calculation
+171,Philippines,c03,Wood fuel,,,m3rw/tonne,1.45416875,cf_shipping_weight,,Own calculation
+172,Pitcairn Islands,c03,Wood fuel,,,m3rw/tonne,1.45416875,cf_shipping_weight,,Own calculation
+173,Poland,c03,Wood fuel,,,m3rw/tonne,1.264166,cf_shipping_weight,,Own calculation
+174,Portugal,c03,Wood fuel,,,m3rw/tonne,1.264166,cf_shipping_weight,,Own calculation
+175,Guinea-Bissau,c03,Wood fuel,,,m3rw/tonne,1.45416875,cf_shipping_weight,,Own calculation
+176,Timor-Leste,c03,Wood fuel,,,m3rw/tonne,1.45416875,cf_shipping_weight,,Own calculation
+178,Eritrea,c03,Wood fuel,,,m3rw/tonne,1.45416875,cf_shipping_weight,,Own calculation
+179,Qatar,c03,Wood fuel,,,m3rw/tonne,1.45416875,cf_shipping_weight,,Own calculation
+180,Palau,c03,Wood fuel,,,m3rw/tonne,1.45416875,cf_shipping_weight,,Own calculation
+181,Zimbabwe,c03,Wood fuel,,,m3rw/tonne,1.45416875,cf_shipping_weight,,Own calculation
+182,Reunion,c03,Wood fuel,,,m3rw/tonne,1.45416875,cf_shipping_weight,,Own calculation
+183,Romania,c03,Wood fuel,,,m3rw/tonne,1.264166,cf_shipping_weight,,Own calculation
+184,Rwanda,c03,Wood fuel,,,m3rw/tonne,1.45416875,cf_shipping_weight,,Own calculation
+185,Russian Federation,c03,Wood fuel,,,m3rw/tonne,1.264166,cf_shipping_weight,,Own calculation
+186,Serbia and Montenegro,c03,Wood fuel,,,m3rw/tonne,1.264166,cf_shipping_weight,,Own calculation
+187,"Saint Helena, Ascension and Tristan da Cunha",c03,Wood fuel,,,m3rw/tonne,1.45416875,cf_shipping_weight,,Own calculation
+188,Saint Kitts and Nevis,c03,Wood fuel,,,m3rw/tonne,1.6441715,cf_shipping_weight,,Own calculation
+189,Saint Lucia,c03,Wood fuel,,,m3rw/tonne,1.6441715,cf_shipping_weight,,Own calculation
+190,Saint Pierre and Miquelon,c03,Wood fuel,,,m3rw/tonne,1.45416875,cf_shipping_weight,,Own calculation
+191,Saint Vincent and the Grenadines,c03,Wood fuel,,,m3rw/tonne,1.6441715,cf_shipping_weight,,Own calculation
+192,San Marino,c03,Wood fuel,,,m3rw/tonne,1.264166,cf_shipping_weight,,Own calculation
+193,Sao Tome and Principe,c03,Wood fuel,,,m3rw/tonne,1.45416875,cf_shipping_weight,,Own calculation
+194,Saudi Arabia,c03,Wood fuel,,,m3rw/tonne,1.45416875,cf_shipping_weight,,Own calculation
+195,Senegal,c03,Wood fuel,,,m3rw/tonne,1.45416875,cf_shipping_weight,,Own calculation
+196,Seychelles,c03,Wood fuel,,,m3rw/tonne,1.45416875,cf_shipping_weight,,Own calculation
+197,Sierra Leone,c03,Wood fuel,,,m3rw/tonne,1.45416875,cf_shipping_weight,,Own calculation
+198,Slovenia,c03,Wood fuel,,,m3rw/tonne,1.50626,cf_shipping_weight,,Own calculation
+199,Slovakia,c03,Wood fuel,,,m3rw/tonne,1.264166,cf_shipping_weight,,Own calculation
+200,Singapore,c03,Wood fuel,,,m3rw/tonne,1.45416875,cf_shipping_weight,,Own calculation
+201,Somalia,c03,Wood fuel,,,m3rw/tonne,1.45416875,cf_shipping_weight,,Own calculation
+202,South Africa,c03,Wood fuel,,,m3rw/tonne,1.45416875,cf_shipping_weight,,Own calculation
+203,Spain,c03,Wood fuel,,,m3rw/tonne,1.264166,cf_shipping_weight,,Own calculation
+205,Western Sahara,c03,Wood fuel,,,m3rw/tonne,1.45416875,cf_shipping_weight,,Own calculation
+207,Suriname,c03,Wood fuel,,,m3rw/tonne,1.6441715,cf_shipping_weight,,Own calculation
+208,Tajikistan,c03,Wood fuel,,,m3rw/tonne,1.45416875,cf_shipping_weight,,Own calculation
+209,Eswatini,c03,Wood fuel,,,m3rw/tonne,1.45416875,cf_shipping_weight,,Own calculation
+210,Sweden,c03,Wood fuel,,,m3rw/tonne,1.264166,cf_shipping_weight,,Own calculation
+211,Switzerland,c03,Wood fuel,,,m3rw/tonne,1.264166,cf_shipping_weight,,Own calculation
+212,Syrian Arab Republic,c03,Wood fuel,,,m3rw/tonne,1.45416875,cf_shipping_weight,,Own calculation
+213,Turkmenistan,c03,Wood fuel,,,m3rw/tonne,1.45416875,cf_shipping_weight,,Own calculation
+214,"China, Taiwan Province of",c03,Wood fuel,,,m3rw/tonne,1.45416875,cf_shipping_weight,,Own calculation
+215,United Republic of Tanzania,c03,Wood fuel,,,m3rw/tonne,1.45416875,cf_shipping_weight,,Own calculation
+216,Thailand,c03,Wood fuel,,,m3rw/tonne,1.45416875,cf_shipping_weight,,Own calculation
+217,Togo,c03,Wood fuel,,,m3rw/tonne,1.45416875,cf_shipping_weight,,Own calculation
+218,Tokelau,c03,Wood fuel,,,m3rw/tonne,1.45416875,cf_shipping_weight,,Own calculation
+219,Tonga,c03,Wood fuel,,,m3rw/tonne,1.45416875,cf_shipping_weight,,Own calculation
+220,Trinidad and Tobago,c03,Wood fuel,,,m3rw/tonne,1.6441715,cf_shipping_weight,,Own calculation
+221,Oman,c03,Wood fuel,,,m3rw/tonne,1.45416875,cf_shipping_weight,,Own calculation
+222,Tunisia,c03,Wood fuel,,,m3rw/tonne,1.45416875,cf_shipping_weight,,Own calculation
+223,Turkey,c03,Wood fuel,,,m3rw/tonne,1.264166,cf_shipping_weight,,Own calculation
+224,Turks and Caicos Islands,c03,Wood fuel,,,m3rw/tonne,1.6441715,cf_shipping_weight,,Own calculation
+225,United Arab Emirates,c03,Wood fuel,,,m3rw/tonne,1.45416875,cf_shipping_weight,,Own calculation
+226,Uganda,c03,Wood fuel,,,m3rw/tonne,1.45416875,cf_shipping_weight,,Own calculation
+227,Tuvalu,c03,Wood fuel,,,m3rw/tonne,1.45416875,cf_shipping_weight,,Own calculation
+228,USSR,c03,Wood fuel,,,m3rw/tonne,1.45416875,cf_shipping_weight,,Own calculation
+229,United Kingdom,c03,Wood fuel,,,m3rw/tonne,1.264166,cf_shipping_weight,,Own calculation
+230,Ukraine,c03,Wood fuel,,,m3rw/tonne,1.264166,cf_shipping_weight,,Own calculation
+231,United States of America,c03,Wood fuel,,,m3rw/tonne,1.45416875,cf_shipping_weight,,Own calculation
+233,Burkina Faso,c03,Wood fuel,,,m3rw/tonne,1.45416875,cf_shipping_weight,,Own calculation
+234,Uruguay,c03,Wood fuel,,,m3rw/tonne,1.543753,cf_shipping_weight,,Own calculation
+235,Uzbekistan,c03,Wood fuel,,,m3rw/tonne,1.45416875,cf_shipping_weight,,Own calculation
+236,Venezuela (Bolivarian Republic of),c03,Wood fuel,,,m3rw/tonne,1.6441715,cf_shipping_weight,,Own calculation
+237,Viet Nam,c03,Wood fuel,,,m3rw/tonne,1.45416875,cf_shipping_weight,,Own calculation
+238,Ethiopia,c03,Wood fuel,,,m3rw/tonne,1.45416875,cf_shipping_weight,,Own calculation
+239,British Virgin Islands,c03,Wood fuel,,,m3rw/tonne,1.6441715,cf_shipping_weight,,Own calculation
+242,Wake Island,c03,Wood fuel,,,m3rw/tonne,1.45416875,cf_shipping_weight,,Own calculation
+243,Wallis and Futuna Islands,c03,Wood fuel,,,m3rw/tonne,1.45416875,cf_shipping_weight,,Own calculation
+244,Samoa,c03,Wood fuel,,,m3rw/tonne,1.45416875,cf_shipping_weight,,Own calculation
+248,Yugoslav SFR,c03,Wood fuel,,,m3rw/tonne,1.264166,cf_shipping_weight,,Own calculation
+249,Yemen,c03,Wood fuel,,,m3rw/tonne,1.45416875,cf_shipping_weight,,Own calculation
+250,Democratic Republic of the Congo,c03,Wood fuel,,,m3rw/tonne,1.45416875,cf_shipping_weight,,Own calculation
+251,Zambia,c03,Wood fuel,,,m3rw/tonne,1.45416875,cf_shipping_weight,,Own calculation
+252,Unspecified Area,c03,Wood fuel,,,m3rw/tonne,1.45416875,cf_shipping_weight,,Own calculation
+254,Others (adjustment),c03,Wood fuel,,,m3rw/tonne,1.45416875,cf_shipping_weight,,Own calculation
+255,Belgium,c03,Wood fuel,,,m3rw/tonne,1.264166,cf_shipping_weight,,Own calculation
+256,Luxembourg,c03,Wood fuel,,,m3rw/tonne,1.264166,cf_shipping_weight,,Own calculation
+258,Anguilla,c03,Wood fuel,,,m3rw/tonne,1.6441715,cf_shipping_weight,,Own calculation
+270,Mayotte,c03,Wood fuel,,,m3rw/tonne,1.45416875,cf_shipping_weight,,Own calculation
+272,Serbia,c03,Wood fuel,,,m3rw/tonne,1.264166,cf_shipping_weight,,Own calculation
+273,Montenegro,c03,Wood fuel,,,m3rw/tonne,1.264166,cf_shipping_weight,,Own calculation
+276,Sudan,c03,Wood fuel,,,m3rw/tonne,1.45416875,cf_shipping_weight,,Own calculation
+277,South Sudan,c03,Wood fuel,,,m3rw/tonne,1.45416875,cf_shipping_weight,,Own calculation
+279,Curaçao,c03,Wood fuel,,,m3rw/tonne,1.6441715,cf_shipping_weight,,Own calculation
+281,Saint-Martin (French Part),c03,Wood fuel,,,m3rw/tonne,1.6441715,cf_shipping_weight,,Own calculation
+299,Palestine,c03,Wood fuel,,,m3rw/tonne,1.45416875,cf_shipping_weight,,Own calculation
+999,RoW,c03,Wood fuel,,,m3rw/tonne,1.45416875,cf_shipping_weight,,Own calculation
+1,Armenia,c09,Particle board,,,m3/tonne,1.45631067961165,cf_density,product basic density,Own calculation
+2,Afghanistan,c09,Particle board,,,m3/tonne,1.45631067961165,cf_density,product basic density,Own calculation
+3,Albania,c09,Particle board,,,m3/tonne,1.52502426174962,cf_density,product basic density,Own calculation
+4,Algeria,c09,Particle board,,,m3/tonne,1.46570581507678,cf_density,product basic density,Own calculation
+5,American Samoa,c09,Particle board,,,m3/tonne,1.46570581507678,cf_density,product basic density,Own calculation
+6,Andorra,c09,Particle board,,,m3/tonne,1.52502426174962,cf_density,product basic density,Own calculation
+7,Angola,c09,Particle board,,,m3/tonne,1.46570581507678,cf_density,product basic density,Own calculation
+8,Antigua and Barbuda,c09,Particle board,,,m3/tonne,1.5,cf_density,product basic density,Own calculation
+9,Argentina,c09,Particle board,,,m3/tonne,1.5,cf_density,product basic density,Own calculation
+10,Australia,c09,Particle board,,,m3/tonne,1.46570581507678,cf_density,product basic density,Own calculation
+11,Austria,c09,Particle board,,,m3/tonne,1.52502426174962,cf_density,product basic density,Own calculation
+12,Bahamas,c09,Particle board,,,m3/tonne,1.5,cf_density,product basic density,Own calculation
+13,Bahrain,c09,Particle board,,,m3/tonne,1.45631067961165,cf_density,product basic density,Own calculation
+14,Barbados,c09,Particle board,,,m3/tonne,1.5,cf_density,product basic density,Own calculation
+15,Belgium-Luxembourg,c09,Particle board,,,m3/tonne,1.52502426174962,cf_density,product basic density,Own calculation
+16,Bangladesh,c09,Particle board,,,m3/tonne,1.45631067961165,cf_density,product basic density,Own calculation
+17,Bermuda,c09,Particle board,,,m3/tonne,1.5,cf_density,product basic density,Own calculation
+18,Bhutan,c09,Particle board,,,m3/tonne,1.45631067961165,cf_density,product basic density,Own calculation
+19,Bolivia (Plurinational State of),c09,Particle board,,,m3/tonne,1.5,cf_density,product basic density,Own calculation
+20,Botswana,c09,Particle board,,,m3/tonne,1.46570581507678,cf_density,product basic density,Own calculation
+21,Brazil,c09,Particle board,,,m3/tonne,1.5625,cf_density,product basic density,"FAO, ITTO and United Nations (2020)"
+22,Aruba,c09,Particle board,,,m3/tonne,1.5,cf_density,product basic density,Own calculation
+23,Belize,c09,Particle board,,,m3/tonne,1.5,cf_density,product basic density,Own calculation
+24,British Indian Ocean Territory,c09,Particle board,,,m3/tonne,1.45631067961165,cf_density,product basic density,Own calculation
+25,Solomon Islands,c09,Particle board,,,m3/tonne,1.46570581507678,cf_density,product basic density,Own calculation
+26,Brunei Darussalam,c09,Particle board,,,m3/tonne,1.45631067961165,cf_density,product basic density,Own calculation
+27,Bulgaria,c09,Particle board,,,m3/tonne,1.52502426174962,cf_density,product basic density,Own calculation
+28,Myanmar,c09,Particle board,,,m3/tonne,1.45631067961165,cf_density,product basic density,Own calculation
+29,Burundi,c09,Particle board,,,m3/tonne,1.46570581507678,cf_density,product basic density,Own calculation
+32,Cameroon,c09,Particle board,,,m3/tonne,1.46570581507678,cf_density,product basic density,Own calculation
+33,Canada,c09,Particle board,,,m3/tonne,1.38888888888889,cf_density,product basic density,Own calculation
+35,Cabo Verde,c09,Particle board,,,m3/tonne,1.46570581507678,cf_density,product basic density,Own calculation
+36,Cayman Islands,c09,Particle board,,,m3/tonne,1.5,cf_density,product basic density,Own calculation
+37,Central African Republic,c09,Particle board,,,m3/tonne,1.46570581507678,cf_density,product basic density,Own calculation
+38,Sri Lanka,c09,Particle board,,,m3/tonne,1.45631067961165,cf_density,product basic density,Own calculation
+39,Chad,c09,Particle board,,,m3/tonne,1.46570581507678,cf_density,product basic density,Own calculation
+40,Chile,c09,Particle board,,,m3/tonne,1.5625,cf_density,product basic density,"FAO, ITTO and United Nations (2020)"
+41,"China, mainland",c09,Particle board,,,m3/tonne,1.51515151515152,cf_density,product basic density,"FAO, ITTO and United Nations (2020)"
+42,Christmas Island,c09,Particle board,,,m3/tonne,1.46570581507678,cf_density,product basic density,Own calculation
+43,Cocos (Keeling) Islands,c09,Particle board,,,m3/tonne,1.46570581507678,cf_density,product basic density,Own calculation
+44,Colombia,c09,Particle board,,,m3/tonne,1.5,cf_density,product basic density,Own calculation
+45,Comoros,c09,Particle board,,,m3/tonne,1.46570581507678,cf_density,product basic density,Own calculation
+46,Congo,c09,Particle board,,,m3/tonne,1.46570581507678,cf_density,product basic density,Own calculation
+47,Cook Islands,c09,Particle board,,,m3/tonne,1.46570581507678,cf_density,product basic density,Own calculation
+48,Costa Rica,c09,Particle board,,,m3/tonne,1.5,cf_density,product basic density,Own calculation
+49,Cuba,c09,Particle board,,,m3/tonne,1.5,cf_density,product basic density,Own calculation
+50,Cyprus,c09,Particle board,,,m3/tonne,1.52502426174962,cf_density,product basic density,Own calculation
+51,Czechoslovakia,c09,Particle board,,,m3/tonne,1.52502426174962,cf_density,product basic density,Own calculation
+52,Azerbaijan,c09,Particle board,,,m3/tonne,1.45631067961165,cf_density,product basic density,Own calculation
+53,Benin,c09,Particle board,,,m3/tonne,1.46570581507678,cf_density,product basic density,Own calculation
+54,Denmark,c09,Particle board,,,m3/tonne,1.52502426174962,cf_density,product basic density,Own calculation
+55,Dominica,c09,Particle board,,,m3/tonne,1.5,cf_density,product basic density,Own calculation
+56,Dominican Republic,c09,Particle board,,,m3/tonne,1.5,cf_density,product basic density,Own calculation
+57,Belarus,c09,Particle board,,,m3/tonne,1.52502426174962,cf_density,product basic density,Own calculation
+58,Ecuador,c09,Particle board,,,m3/tonne,1.5,cf_density,product basic density,Own calculation
+59,Egypt,c09,Particle board,,,m3/tonne,1.46570581507678,cf_density,product basic density,Own calculation
+60,El Salvador,c09,Particle board,,,m3/tonne,1.5,cf_density,product basic density,Own calculation
+61,Equatorial Guinea,c09,Particle board,,,m3/tonne,1.46570581507678,cf_density,product basic density,Own calculation
+63,Estonia,c09,Particle board,,,m3/tonne,1.52502426174962,cf_density,product basic density,Own calculation
+64,Faroe Islands,c09,Particle board,,,m3/tonne,1.52502426174962,cf_density,product basic density,Own calculation
+65,Falkland Islands (Malvinas),c09,Particle board,,,m3/tonne,1.5,cf_density,product basic density,Own calculation
+66,Fiji,c09,Particle board,,,m3/tonne,1.46570581507678,cf_density,product basic density,Own calculation
+67,Finland,c09,Particle board,,,m3/tonne,1.48148148148148,cf_density,product basic density,"FAO, ITTO and United Nations (2020)"
+68,France,c09,Particle board,,,m3/tonne,1.53846153846154,cf_density,product basic density,"FAO, ITTO and United Nations (2020)"
+69,French Guyana,c09,Particle board,,,m3/tonne,1.5,cf_density,product basic density,Own calculation
+70,French Polynesia,c09,Particle board,,,m3/tonne,1.46570581507678,cf_density,product basic density,Own calculation
+71,French Southern and Antarctic Territories,c09,Particle board,,,m3/tonne,1.46570581507678,cf_density,product basic density,Own calculation
+72,Djibouti,c09,Particle board,,,m3/tonne,1.46570581507678,cf_density,product basic density,Own calculation
+73,Georgia,c09,Particle board,,,m3/tonne,1.45631067961165,cf_density,product basic density,Own calculation
+74,Gabon,c09,Particle board,,,m3/tonne,1.46570581507678,cf_density,product basic density,Own calculation
+75,Gambia,c09,Particle board,,,m3/tonne,1.46570581507678,cf_density,product basic density,Own calculation
+79,Germany,c09,Particle board,,,m3/tonne,1.52502426174962,cf_density,product basic density,Own calculation
+80,Bosnia and Herzegovina,c09,Particle board,,,m3/tonne,1.52502426174962,cf_density,product basic density,Own calculation
+81,Ghana,c09,Particle board,,,m3/tonne,1.46570581507678,cf_density,product basic density,Own calculation
+82,Gibraltar,c09,Particle board,,,m3/tonne,1.52502426174962,cf_density,product basic density,Own calculation
+83,Kiribati,c09,Particle board,,,m3/tonne,1.46570581507678,cf_density,product basic density,Own calculation
+84,Greece,c09,Particle board,,,m3/tonne,1.52502426174962,cf_density,product basic density,Own calculation
+85,Greenland,c09,Particle board,,,m3/tonne,1.52502426174962,cf_density,product basic density,Own calculation
+86,Grenada,c09,Particle board,,,m3/tonne,1.5,cf_density,product basic density,Own calculation
+87,Guadeloupe,c09,Particle board,,,m3/tonne,1.5,cf_density,product basic density,Own calculation
+88,Guam,c09,Particle board,,,m3/tonne,1.46570581507678,cf_density,product basic density,Own calculation
+89,Guatemala,c09,Particle board,,,m3/tonne,1.5,cf_density,product basic density,Own calculation
+90,Guinea,c09,Particle board,,,m3/tonne,1.46570581507678,cf_density,product basic density,Own calculation
+91,Guyana,c09,Particle board,,,m3/tonne,1.5,cf_density,product basic density,Own calculation
+93,Haiti,c09,Particle board,,,m3/tonne,1.5,cf_density,product basic density,Own calculation
+94,Holy See,c09,Particle board,,,m3/tonne,1.52502426174962,cf_density,product basic density,Own calculation
+95,Honduras,c09,Particle board,,,m3/tonne,1.5,cf_density,product basic density,Own calculation
+96,"China, Hong Kong SAR",c09,Particle board,,,m3/tonne,1.45631067961165,cf_density,product basic density,Own calculation
+97,Hungary,c09,Particle board,,,m3/tonne,1.52502426174962,cf_density,product basic density,Own calculation
+98,Croatia,c09,Particle board,,,m3/tonne,1.52502426174962,cf_density,product basic density,Own calculation
+99,Iceland,c09,Particle board,,,m3/tonne,1.52502426174962,cf_density,product basic density,Own calculation
+100,India,c09,Particle board,,,m3/tonne,1.45631067961165,cf_density,product basic density,Own calculation
+101,Indonesia,c09,Particle board,,,m3/tonne,1.42857142857143,cf_density,product basic density,"FAO, ITTO and United Nations (2020)"
+102,Iran (Islamic Republic of),c09,Particle board,,,m3/tonne,1.45631067961165,cf_density,product basic density,Own calculation
+103,Iraq,c09,Particle board,,,m3/tonne,1.45631067961165,cf_density,product basic density,Own calculation
+104,Ireland,c09,Particle board,,,m3/tonne,1.6,cf_density,product basic density,"FAO, ITTO and United Nations (2020)"
+105,Israel,c09,Particle board,,,m3/tonne,1.45631067961165,cf_density,product basic density,Own calculation
+106,Italy,c09,Particle board,,,m3/tonne,1.52502426174962,cf_density,product basic density,Own calculation
+107,Cote d'Ivoire,c09,Particle board,,,m3/tonne,1.46570581507678,cf_density,product basic density,Own calculation
+108,Kazakhstan,c09,Particle board,,,m3/tonne,1.45631067961165,cf_density,product basic density,Own calculation
+109,Jamaica,c09,Particle board,,,m3/tonne,1.5,cf_density,product basic density,Own calculation
+110,Japan,c09,Particle board,,,m3/tonne,1.45631067961165,cf_density,product basic density,Own calculation
+112,Jordan,c09,Particle board,,,m3/tonne,1.45631067961165,cf_density,product basic density,Own calculation
+113,Kyrgyzstan,c09,Particle board,,,m3/tonne,1.45631067961165,cf_density,product basic density,Own calculation
+114,Kenya,c09,Particle board,,,m3/tonne,1.46570581507678,cf_density,product basic density,Own calculation
+115,Cambodia,c09,Particle board,,,m3/tonne,1.45631067961165,cf_density,product basic density,Own calculation
+116,Democratic People's Republic of Korea,c09,Particle board,,,m3/tonne,1.45631067961165,cf_density,product basic density,Own calculation
+117,Republic of Korea,c09,Particle board,,,m3/tonne,1.45631067961165,cf_density,product basic density,Own calculation
+118,Kuwait,c09,Particle board,,,m3/tonne,1.45631067961165,cf_density,product basic density,Own calculation
+119,Latvia,c09,Particle board,,,m3/tonne,1.52502426174962,cf_density,product basic density,Own calculation
+120,Lao People's Democratic Republic,c09,Particle board,,,m3/tonne,1.45631067961165,cf_density,product basic density,Own calculation
+121,Lebanon,c09,Particle board,,,m3/tonne,1.45631067961165,cf_density,product basic density,Own calculation
+122,Lesotho,c09,Particle board,,,m3/tonne,1.46570581507678,cf_density,product basic density,Own calculation
+123,Liberia,c09,Particle board,,,m3/tonne,1.46570581507678,cf_density,product basic density,Own calculation
+124,Libya,c09,Particle board,,,m3/tonne,1.46570581507678,cf_density,product basic density,Own calculation
+125,Liechtenstein,c09,Particle board,,,m3/tonne,1.52502426174962,cf_density,product basic density,Own calculation
+126,Lithuania,c09,Particle board,,,m3/tonne,1.52502426174962,cf_density,product basic density,Own calculation
+127,Marshall Islands,c09,Particle board,,,m3/tonne,1.46570581507678,cf_density,product basic density,Own calculation
+128,"China, Macao SAR",c09,Particle board,,,m3/tonne,1.45631067961165,cf_density,product basic density,Own calculation
+129,Madagascar,c09,Particle board,,,m3/tonne,1.46570581507678,cf_density,product basic density,Own calculation
+130,Malawi,c09,Particle board,,,m3/tonne,1.46570581507678,cf_density,product basic density,Own calculation
+131,Malaysia,c09,Particle board,,,m3/tonne,1.42857142857143,cf_density,product basic density,"FAO, ITTO and United Nations (2020)"
+132,Maldives,c09,Particle board,,,m3/tonne,1.45631067961165,cf_density,product basic density,Own calculation
+133,Mali,c09,Particle board,,,m3/tonne,1.46570581507678,cf_density,product basic density,Own calculation
+134,Malta,c09,Particle board,,,m3/tonne,1.52502426174962,cf_density,product basic density,Own calculation
+135,Martinique,c09,Particle board,,,m3/tonne,1.5,cf_density,product basic density,Own calculation
+136,Mauritania,c09,Particle board,,,m3/tonne,1.46570581507678,cf_density,product basic density,Own calculation
+137,Mauritius,c09,Particle board,,,m3/tonne,1.46570581507678,cf_density,product basic density,Own calculation
+138,Mexico,c09,Particle board,,,m3/tonne,1.38888888888889,cf_density,product basic density,"FAO, ITTO and United Nations (2020)"
+141,Mongolia,c09,Particle board,,,m3/tonne,1.45631067961165,cf_density,product basic density,Own calculation
+142,Montserrat,c09,Particle board,,,m3/tonne,1.5,cf_density,product basic density,Own calculation
+143,Morocco,c09,Particle board,,,m3/tonne,1.46570581507678,cf_density,product basic density,Own calculation
+144,Mozambique,c09,Particle board,,,m3/tonne,1.46570581507678,cf_density,product basic density,Own calculation
+145,Micronesia (Federated States of),c09,Particle board,,,m3/tonne,1.46570581507678,cf_density,product basic density,Own calculation
+146,Republic of Moldova,c09,Particle board,,,m3/tonne,1.52502426174962,cf_density,product basic density,Own calculation
+147,Namibia,c09,Particle board,,,m3/tonne,1.46570581507678,cf_density,product basic density,Own calculation
+148,Nauru,c09,Particle board,,,m3/tonne,1.46570581507678,cf_density,product basic density,Own calculation
+149,Nepal,c09,Particle board,,,m3/tonne,1.45631067961165,cf_density,product basic density,Own calculation
+150,Netherlands,c09,Particle board,,,m3/tonne,1.52502426174962,cf_density,product basic density,Own calculation
+151,Netherlands Antilles,c09,Particle board,,,m3/tonne,1.5,cf_density,product basic density,Own calculation
+153,New Caledonia,c09,Particle board,,,m3/tonne,1.46570581507678,cf_density,product basic density,Own calculation
+154,North Macedonia,c09,Particle board,,,m3/tonne,1.52502426174962,cf_density,product basic density,Own calculation
+155,Vanuatu,c09,Particle board,,,m3/tonne,1.46570581507678,cf_density,product basic density,Own calculation
+156,New Zealand,c09,Particle board,,,m3/tonne,1.46570581507678,cf_density,product basic density,Own calculation
+157,Nicaragua,c09,Particle board,,,m3/tonne,1.5,cf_density,product basic density,Own calculation
+158,Niger,c09,Particle board,,,m3/tonne,1.46570581507678,cf_density,product basic density,Own calculation
+159,Nigeria,c09,Particle board,,,m3/tonne,1.46570581507678,cf_density,product basic density,Own calculation
+160,Niue,c09,Particle board,,,m3/tonne,1.46570581507678,cf_density,product basic density,Own calculation
+161,Norfolk Island,c09,Particle board,,,m3/tonne,1.46570581507678,cf_density,product basic density,Own calculation
+162,Norway,c09,Particle board,,,m3/tonne,1.50375939849624,cf_density,product basic density,"FAO, ITTO and United Nations (2020)"
+163,Northern Mariana Islands,c09,Particle board,,,m3/tonne,1.46570581507678,cf_density,product basic density,Own calculation
+164,Pacific Islands Trust Territory,c09,Particle board,,,m3/tonne,1.45631067961165,cf_density,product basic density,Own calculation
+165,Pakistan,c09,Particle board,,,m3/tonne,1.45631067961165,cf_density,product basic density,Own calculation
+166,Panama,c09,Particle board,,,m3/tonne,1.5,cf_density,product basic density,Own calculation
+167,Czechia,c09,Particle board,,,m3/tonne,1.49700598802395,cf_density,product basic density,"FAO, ITTO and United Nations (2020)"
+168,Papua New Guinea,c09,Particle board,,,m3/tonne,1.46570581507678,cf_density,product basic density,Own calculation
+169,Paraguay,c09,Particle board,,,m3/tonne,1.5,cf_density,product basic density,Own calculation
+170,Peru,c09,Particle board,,,m3/tonne,1.5,cf_density,product basic density,Own calculation
+171,Philippines,c09,Particle board,,,m3/tonne,1.45631067961165,cf_density,product basic density,Own calculation
+172,Pitcairn Islands,c09,Particle board,,,m3/tonne,1.46570581507678,cf_density,product basic density,Own calculation
+173,Poland,c09,Particle board,,,m3/tonne,1.53846153846154,cf_density,product basic density,"FAO, ITTO and United Nations (2020)"
+174,Portugal,c09,Particle board,,,m3/tonne,1.47058823529412,cf_density,product basic density,"FAO, ITTO and United Nations (2020)"
+175,Guinea-Bissau,c09,Particle board,,,m3/tonne,1.46570581507678,cf_density,product basic density,Own calculation
+176,Timor-Leste,c09,Particle board,,,m3/tonne,1.45631067961165,cf_density,product basic density,Own calculation
+178,Eritrea,c09,Particle board,,,m3/tonne,1.46570581507678,cf_density,product basic density,Own calculation
+179,Qatar,c09,Particle board,,,m3/tonne,1.45631067961165,cf_density,product basic density,Own calculation
+180,Palau,c09,Particle board,,,m3/tonne,1.46570581507678,cf_density,product basic density,Own calculation
+181,Zimbabwe,c09,Particle board,,,m3/tonne,1.46570581507678,cf_density,product basic density,Own calculation
+182,Reunion,c09,Particle board,,,m3/tonne,1.46570581507678,cf_density,product basic density,Own calculation
+183,Romania,c09,Particle board,,,m3/tonne,1.52502426174962,cf_density,product basic density,Own calculation
+184,Rwanda,c09,Particle board,,,m3/tonne,1.46570581507678,cf_density,product basic density,Own calculation
+185,Russian Federation,c09,Particle board,,,m3/tonne,1.52502426174962,cf_density,product basic density,Own calculation
+186,Serbia and Montenegro,c09,Particle board,,,m3/tonne,1.52502426174962,cf_density,product basic density,Own calculation
+187,"Saint Helena, Ascension and Tristan da Cunha",c09,Particle board,,,m3/tonne,1.46570581507678,cf_density,product basic density,Own calculation
+188,Saint Kitts and Nevis,c09,Particle board,,,m3/tonne,1.5,cf_density,product basic density,Own calculation
+189,Saint Lucia,c09,Particle board,,,m3/tonne,1.5,cf_density,product basic density,Own calculation
+190,Saint Pierre and Miquelon,c09,Particle board,,,m3/tonne,1.38888888888889,cf_density,product basic density,Own calculation
+191,Saint Vincent and the Grenadines,c09,Particle board,,,m3/tonne,1.5,cf_density,product basic density,Own calculation
+192,San Marino,c09,Particle board,,,m3/tonne,1.52502426174962,cf_density,product basic density,Own calculation
+193,Sao Tome and Principe,c09,Particle board,,,m3/tonne,1.46570581507678,cf_density,product basic density,Own calculation
+194,Saudi Arabia,c09,Particle board,,,m3/tonne,1.45631067961165,cf_density,product basic density,Own calculation
+195,Senegal,c09,Particle board,,,m3/tonne,1.46570581507678,cf_density,product basic density,Own calculation
+196,Seychelles,c09,Particle board,,,m3/tonne,1.46570581507678,cf_density,product basic density,Own calculation
+197,Sierra Leone,c09,Particle board,,,m3/tonne,1.46570581507678,cf_density,product basic density,Own calculation
+198,Slovenia,c09,Particle board,,,m3/tonne,1.52502426174962,cf_density,product basic density,Own calculation
+199,Slovakia,c09,Particle board,,,m3/tonne,1.53846153846154,cf_density,product basic density,"FAO, ITTO and United Nations (2020)"
+200,Singapore,c09,Particle board,,,m3/tonne,1.45631067961165,cf_density,product basic density,Own calculation
+201,Somalia,c09,Particle board,,,m3/tonne,1.46570581507678,cf_density,product basic density,Own calculation
+202,South Africa,c09,Particle board,,,m3/tonne,1.46570581507678,cf_density,product basic density,Own calculation
+203,Spain,c09,Particle board,,,m3/tonne,1.53846153846154,cf_density,product basic density,"FAO, ITTO and United Nations (2020)"
+205,Western Sahara,c09,Particle board,,,m3/tonne,1.46570581507678,cf_density,product basic density,Own calculation
+207,Suriname,c09,Particle board,,,m3/tonne,1.5,cf_density,product basic density,Own calculation
+208,Tajikistan,c09,Particle board,,,m3/tonne,1.45631067961165,cf_density,product basic density,Own calculation
+209,Eswatini,c09,Particle board,,,m3/tonne,1.46570581507678,cf_density,product basic density,Own calculation
+210,Sweden,c09,Particle board,,,m3/tonne,1.52502426174962,cf_density,product basic density,Own calculation
+211,Switzerland,c09,Particle board,,,m3/tonne,1.52502426174962,cf_density,product basic density,Own calculation
+212,Syrian Arab Republic,c09,Particle board,,,m3/tonne,1.45631067961165,cf_density,product basic density,Own calculation
+213,Turkmenistan,c09,Particle board,,,m3/tonne,1.45631067961165,cf_density,product basic density,Own calculation
+214,"China, Taiwan Province of",c09,Particle board,,,m3/tonne,1.45631067961165,cf_density,product basic density,Own calculation
+215,United Republic of Tanzania,c09,Particle board,,,m3/tonne,1.46570581507678,cf_density,product basic density,Own calculation
+216,Thailand,c09,Particle board,,,m3/tonne,1.45631067961165,cf_density,product basic density,Own calculation
+217,Togo,c09,Particle board,,,m3/tonne,1.46570581507678,cf_density,product basic density,Own calculation
+218,Tokelau,c09,Particle board,,,m3/tonne,1.46570581507678,cf_density,product basic density,Own calculation
+219,Tonga,c09,Particle board,,,m3/tonne,1.46570581507678,cf_density,product basic density,Own calculation
+220,Trinidad and Tobago,c09,Particle board,,,m3/tonne,1.5,cf_density,product basic density,Own calculation
+221,Oman,c09,Particle board,,,m3/tonne,1.45631067961165,cf_density,product basic density,Own calculation
+222,Tunisia,c09,Particle board,,,m3/tonne,1.46570581507678,cf_density,product basic density,Own calculation
+223,Turkey,c09,Particle board,,,m3/tonne,1.52502426174962,cf_density,product basic density,Own calculation
+224,Turks and Caicos Islands,c09,Particle board,,,m3/tonne,1.5,cf_density,product basic density,Own calculation
+225,United Arab Emirates,c09,Particle board,,,m3/tonne,1.45631067961165,cf_density,product basic density,Own calculation
+226,Uganda,c09,Particle board,,,m3/tonne,1.46570581507678,cf_density,product basic density,Own calculation
+227,Tuvalu,c09,Particle board,,,m3/tonne,1.46570581507678,cf_density,product basic density,Own calculation
+228,USSR,c09,Particle board,,,m3/tonne,1.45631067961165,cf_density,product basic density,Own calculation
+229,United Kingdom,c09,Particle board,,,m3/tonne,1.47058823529412,cf_density,product basic density,"FAO, ITTO and United Nations (2020)"
+230,Ukraine,c09,Particle board,,,m3/tonne,1.61290322580645,cf_density,product basic density,"FAO, ITTO and United Nations (2020)"
+231,United States of America,c09,Particle board,,,m3/tonne,1.38888888888889,cf_density,product basic density,"FAO, ITTO and United Nations (2020)"
+233,Burkina Faso,c09,Particle board,,,m3/tonne,1.46570581507678,cf_density,product basic density,Own calculation
+234,Uruguay,c09,Particle board,,,m3/tonne,1.5,cf_density,product basic density,Own calculation
+235,Uzbekistan,c09,Particle board,,,m3/tonne,1.45631067961165,cf_density,product basic density,Own calculation
+236,Venezuela (Bolivarian Republic of),c09,Particle board,,,m3/tonne,1.5,cf_density,product basic density,Own calculation
+237,Viet Nam,c09,Particle board,,,m3/tonne,1.45631067961165,cf_density,product basic density,Own calculation
+238,Ethiopia,c09,Particle board,,,m3/tonne,1.46570581507678,cf_density,product basic density,Own calculation
+239,British Virgin Islands,c09,Particle board,,,m3/tonne,1.5,cf_density,product basic density,Own calculation
+242,Wake Island,c09,Particle board,,,m3/tonne,1.46570581507678,cf_density,product basic density,Own calculation
+243,Wallis and Futuna Islands,c09,Particle board,,,m3/tonne,1.46570581507678,cf_density,product basic density,Own calculation
+244,Samoa,c09,Particle board,,,m3/tonne,1.46570581507678,cf_density,product basic density,Own calculation
+248,Yugoslav SFR,c09,Particle board,,,m3/tonne,1.52502426174962,cf_density,product basic density,Own calculation
+249,Yemen,c09,Particle board,,,m3/tonne,1.45631067961165,cf_density,product basic density,Own calculation
+250,Democratic Republic of the Congo,c09,Particle board,,,m3/tonne,1.46570581507678,cf_density,product basic density,Own calculation
+251,Zambia,c09,Particle board,,,m3/tonne,1.46570581507678,cf_density,product basic density,Own calculation
+252,Unspecified Area,c09,Particle board,,,m3/tonne,1.46570581507678,cf_density,product basic density,Own calculation
+254,Others (adjustment),c09,Particle board,,,m3/tonne,1.46570581507678,cf_density,product basic density,Own calculation
+255,Belgium,c09,Particle board,,,m3/tonne,1.52502426174962,cf_density,product basic density,Own calculation
+256,Luxembourg,c09,Particle board,,,m3/tonne,1.52502426174962,cf_density,product basic density,Own calculation
+258,Anguilla,c09,Particle board,,,m3/tonne,1.5,cf_density,product basic density,Own calculation
+270,Mayotte,c09,Particle board,,,m3/tonne,1.46570581507678,cf_density,product basic density,Own calculation
+272,Serbia,c09,Particle board,,,m3/tonne,1.52502426174962,cf_density,product basic density,Own calculation
+273,Montenegro,c09,Particle board,,,m3/tonne,1.52502426174962,cf_density,product basic density,Own calculation
+276,Sudan,c09,Particle board,,,m3/tonne,1.46570581507678,cf_density,product basic density,Own calculation
+277,South Sudan,c09,Particle board,,,m3/tonne,1.46570581507678,cf_density,product basic density,Own calculation
+279,Curaçao,c09,Particle board,,,m3/tonne,1.5,cf_density,product basic density,Own calculation
+281,Saint-Martin (French Part),c09,Particle board,,,m3/tonne,1.5,cf_density,product basic density,Own calculation
+299,Palestine,c09,Particle board,,,m3/tonne,1.45631067961165,cf_density,product basic density,Own calculation
+999,RoW,c09,Particle board,,,m3/tonne,1.46570581507678,cf_density,product basic density,Own calculation
+1,Armenia,c10,OSB,,,m3/tonne,1.52671755725191,cf_density,product basic density,Own calculation
+2,Afghanistan,c10,OSB,,,m3/tonne,1.52671755725191,cf_density,product basic density,Own calculation
+3,Albania,c10,OSB,,,m3/tonne,1.6260162601626,cf_density,product basic density,Own calculation
+4,Algeria,c10,OSB,,,m3/tonne,1.70248989146627,cf_density,product basic density,Own calculation
+5,American Samoa,c10,OSB,,,m3/tonne,1.70248989146627,cf_density,product basic density,Own calculation
+6,Andorra,c10,OSB,,,m3/tonne,1.6260162601626,cf_density,product basic density,Own calculation
+7,Angola,c10,OSB,,,m3/tonne,1.70248989146627,cf_density,product basic density,Own calculation
+8,Antigua and Barbuda,c10,OSB,,,m3/tonne,1.48698884758364,cf_density,product basic density,Own calculation
+9,Argentina,c10,OSB,,,m3/tonne,1.48698884758364,cf_density,product basic density,Own calculation
+10,Australia,c10,OSB,,,m3/tonne,1.70248989146627,cf_density,product basic density,Own calculation
+11,Austria,c10,OSB,,,m3/tonne,1.6260162601626,cf_density,product basic density,Own calculation
+12,Bahamas,c10,OSB,,,m3/tonne,1.48698884758364,cf_density,product basic density,Own calculation
+13,Bahrain,c10,OSB,,,m3/tonne,1.52671755725191,cf_density,product basic density,Own calculation
+14,Barbados,c10,OSB,,,m3/tonne,1.48698884758364,cf_density,product basic density,Own calculation
+15,Belgium-Luxembourg,c10,OSB,,,m3/tonne,1.6260162601626,cf_density,product basic density,Own calculation
+16,Bangladesh,c10,OSB,,,m3/tonne,1.52671755725191,cf_density,product basic density,Own calculation
+17,Bermuda,c10,OSB,,,m3/tonne,1.48698884758364,cf_density,product basic density,Own calculation
+18,Bhutan,c10,OSB,,,m3/tonne,1.52671755725191,cf_density,product basic density,Own calculation
+19,Bolivia (Plurinational State of),c10,OSB,,,m3/tonne,1.48698884758364,cf_density,product basic density,Own calculation
+20,Botswana,c10,OSB,,,m3/tonne,1.70248989146627,cf_density,product basic density,Own calculation
+21,Brazil,c10,OSB,,,m3/tonne,1.5625,cf_density,product basic density,"FAO, ITTO and United Nations (2020)"
+22,Aruba,c10,OSB,,,m3/tonne,1.48698884758364,cf_density,product basic density,Own calculation
+23,Belize,c10,OSB,,,m3/tonne,1.48698884758364,cf_density,product basic density,Own calculation
+24,British Indian Ocean Territory,c10,OSB,,,m3/tonne,1.52671755725191,cf_density,product basic density,Own calculation
+25,Solomon Islands,c10,OSB,,,m3/tonne,1.70248989146627,cf_density,product basic density,Own calculation
+26,Brunei Darussalam,c10,OSB,,,m3/tonne,1.52671755725191,cf_density,product basic density,Own calculation
+27,Bulgaria,c10,OSB,,,m3/tonne,1.6260162601626,cf_density,product basic density,Own calculation
+28,Myanmar,c10,OSB,,,m3/tonne,1.52671755725191,cf_density,product basic density,Own calculation
+29,Burundi,c10,OSB,,,m3/tonne,1.70248989146627,cf_density,product basic density,Own calculation
+32,Cameroon,c10,OSB,,,m3/tonne,1.70248989146627,cf_density,product basic density,Own calculation
+33,Canada,c10,OSB,,,m3/tonne,2.45700245700246,cf_density,product basic density,Own calculation
+35,Cabo Verde,c10,OSB,,,m3/tonne,1.70248989146627,cf_density,product basic density,Own calculation
+36,Cayman Islands,c10,OSB,,,m3/tonne,1.48698884758364,cf_density,product basic density,Own calculation
+37,Central African Republic,c10,OSB,,,m3/tonne,1.70248989146627,cf_density,product basic density,Own calculation
+38,Sri Lanka,c10,OSB,,,m3/tonne,1.52671755725191,cf_density,product basic density,Own calculation
+39,Chad,c10,OSB,,,m3/tonne,1.70248989146627,cf_density,product basic density,Own calculation
+40,Chile,c10,OSB,,,m3/tonne,1.41843971631206,cf_density,product basic density,"FAO, ITTO and United Nations (2020)"
+41,"China, mainland",c10,OSB,,,m3/tonne,1.51515151515152,cf_density,product basic density,"FAO, ITTO and United Nations (2020)"
+42,Christmas Island,c10,OSB,,,m3/tonne,1.70248989146627,cf_density,product basic density,Own calculation
+43,Cocos (Keeling) Islands,c10,OSB,,,m3/tonne,1.70248989146627,cf_density,product basic density,Own calculation
+44,Colombia,c10,OSB,,,m3/tonne,1.48698884758364,cf_density,product basic density,Own calculation
+45,Comoros,c10,OSB,,,m3/tonne,1.70248989146627,cf_density,product basic density,Own calculation
+46,Congo,c10,OSB,,,m3/tonne,1.70248989146627,cf_density,product basic density,Own calculation
+47,Cook Islands,c10,OSB,,,m3/tonne,1.70248989146627,cf_density,product basic density,Own calculation
+48,Costa Rica,c10,OSB,,,m3/tonne,1.48698884758364,cf_density,product basic density,Own calculation
+49,Cuba,c10,OSB,,,m3/tonne,1.48698884758364,cf_density,product basic density,Own calculation
+50,Cyprus,c10,OSB,,,m3/tonne,1.6260162601626,cf_density,product basic density,Own calculation
+51,Czechoslovakia,c10,OSB,,,m3/tonne,1.6260162601626,cf_density,product basic density,Own calculation
+52,Azerbaijan,c10,OSB,,,m3/tonne,1.52671755725191,cf_density,product basic density,Own calculation
+53,Benin,c10,OSB,,,m3/tonne,1.70248989146627,cf_density,product basic density,Own calculation
+54,Denmark,c10,OSB,,,m3/tonne,1.6260162601626,cf_density,product basic density,Own calculation
+55,Dominica,c10,OSB,,,m3/tonne,1.48698884758364,cf_density,product basic density,Own calculation
+56,Dominican Republic,c10,OSB,,,m3/tonne,1.48698884758364,cf_density,product basic density,Own calculation
+57,Belarus,c10,OSB,,,m3/tonne,1.6260162601626,cf_density,product basic density,Own calculation
+58,Ecuador,c10,OSB,,,m3/tonne,1.48698884758364,cf_density,product basic density,Own calculation
+59,Egypt,c10,OSB,,,m3/tonne,1.70248989146627,cf_density,product basic density,Own calculation
+60,El Salvador,c10,OSB,,,m3/tonne,1.48698884758364,cf_density,product basic density,Own calculation
+61,Equatorial Guinea,c10,OSB,,,m3/tonne,1.70248989146627,cf_density,product basic density,Own calculation
+63,Estonia,c10,OSB,,,m3/tonne,1.6260162601626,cf_density,product basic density,Own calculation
+64,Faroe Islands,c10,OSB,,,m3/tonne,1.6260162601626,cf_density,product basic density,Own calculation
+65,Falkland Islands (Malvinas),c10,OSB,,,m3/tonne,1.48698884758364,cf_density,product basic density,Own calculation
+66,Fiji,c10,OSB,,,m3/tonne,1.70248989146627,cf_density,product basic density,Own calculation
+67,Finland,c10,OSB,,,m3/tonne,1.6260162601626,cf_density,product basic density,Own calculation
+68,France,c10,OSB,,,m3/tonne,1.63934426229508,cf_density,product basic density,"FAO, ITTO and United Nations (2020)"
+69,French Guyana,c10,OSB,,,m3/tonne,1.48698884758364,cf_density,product basic density,Own calculation
+70,French Polynesia,c10,OSB,,,m3/tonne,1.70248989146627,cf_density,product basic density,Own calculation
+71,French Southern and Antarctic Territories,c10,OSB,,,m3/tonne,1.70248989146627,cf_density,product basic density,Own calculation
+72,Djibouti,c10,OSB,,,m3/tonne,1.70248989146627,cf_density,product basic density,Own calculation
+73,Georgia,c10,OSB,,,m3/tonne,1.52671755725191,cf_density,product basic density,Own calculation
+74,Gabon,c10,OSB,,,m3/tonne,1.70248989146627,cf_density,product basic density,Own calculation
+75,Gambia,c10,OSB,,,m3/tonne,1.70248989146627,cf_density,product basic density,Own calculation
+79,Germany,c10,OSB,,,m3/tonne,1.6260162601626,cf_density,product basic density,Own calculation
+80,Bosnia and Herzegovina,c10,OSB,,,m3/tonne,1.6260162601626,cf_density,product basic density,Own calculation
+81,Ghana,c10,OSB,,,m3/tonne,1.70248989146627,cf_density,product basic density,Own calculation
+82,Gibraltar,c10,OSB,,,m3/tonne,1.6260162601626,cf_density,product basic density,Own calculation
+83,Kiribati,c10,OSB,,,m3/tonne,1.70248989146627,cf_density,product basic density,Own calculation
+84,Greece,c10,OSB,,,m3/tonne,1.6260162601626,cf_density,product basic density,Own calculation
+85,Greenland,c10,OSB,,,m3/tonne,1.6260162601626,cf_density,product basic density,Own calculation
+86,Grenada,c10,OSB,,,m3/tonne,1.48698884758364,cf_density,product basic density,Own calculation
+87,Guadeloupe,c10,OSB,,,m3/tonne,1.48698884758364,cf_density,product basic density,Own calculation
+88,Guam,c10,OSB,,,m3/tonne,1.70248989146627,cf_density,product basic density,Own calculation
+89,Guatemala,c10,OSB,,,m3/tonne,1.48698884758364,cf_density,product basic density,Own calculation
+90,Guinea,c10,OSB,,,m3/tonne,1.70248989146627,cf_density,product basic density,Own calculation
+91,Guyana,c10,OSB,,,m3/tonne,1.48698884758364,cf_density,product basic density,Own calculation
+93,Haiti,c10,OSB,,,m3/tonne,1.48698884758364,cf_density,product basic density,Own calculation
+94,Holy See,c10,OSB,,,m3/tonne,1.6260162601626,cf_density,product basic density,Own calculation
+95,Honduras,c10,OSB,,,m3/tonne,1.48698884758364,cf_density,product basic density,Own calculation
+96,"China, Hong Kong SAR",c10,OSB,,,m3/tonne,1.52671755725191,cf_density,product basic density,Own calculation
+97,Hungary,c10,OSB,,,m3/tonne,1.6260162601626,cf_density,product basic density,Own calculation
+98,Croatia,c10,OSB,,,m3/tonne,1.6260162601626,cf_density,product basic density,Own calculation
+99,Iceland,c10,OSB,,,m3/tonne,1.6260162601626,cf_density,product basic density,Own calculation
+100,India,c10,OSB,,,m3/tonne,1.52671755725191,cf_density,product basic density,Own calculation
+101,Indonesia,c10,OSB,,,m3/tonne,1.53846153846154,cf_density,product basic density,"FAO, ITTO and United Nations (2020)"
+102,Iran (Islamic Republic of),c10,OSB,,,m3/tonne,1.52671755725191,cf_density,product basic density,Own calculation
+103,Iraq,c10,OSB,,,m3/tonne,1.52671755725191,cf_density,product basic density,Own calculation
+104,Ireland,c10,OSB,,,m3/tonne,1.58730158730159,cf_density,product basic density,"FAO, ITTO and United Nations (2020)"
+105,Israel,c10,OSB,,,m3/tonne,1.52671755725191,cf_density,product basic density,Own calculation
+106,Italy,c10,OSB,,,m3/tonne,1.6260162601626,cf_density,product basic density,Own calculation
+107,Cote d'Ivoire,c10,OSB,,,m3/tonne,1.70248989146627,cf_density,product basic density,Own calculation
+108,Kazakhstan,c10,OSB,,,m3/tonne,1.52671755725191,cf_density,product basic density,Own calculation
+109,Jamaica,c10,OSB,,,m3/tonne,1.48698884758364,cf_density,product basic density,Own calculation
+110,Japan,c10,OSB,,,m3/tonne,1.52671755725191,cf_density,product basic density,Own calculation
+112,Jordan,c10,OSB,,,m3/tonne,1.52671755725191,cf_density,product basic density,Own calculation
+113,Kyrgyzstan,c10,OSB,,,m3/tonne,1.52671755725191,cf_density,product basic density,Own calculation
+114,Kenya,c10,OSB,,,m3/tonne,1.70248989146627,cf_density,product basic density,Own calculation
+115,Cambodia,c10,OSB,,,m3/tonne,1.52671755725191,cf_density,product basic density,Own calculation
+116,Democratic People's Republic of Korea,c10,OSB,,,m3/tonne,1.52671755725191,cf_density,product basic density,Own calculation
+117,Republic of Korea,c10,OSB,,,m3/tonne,1.52671755725191,cf_density,product basic density,Own calculation
+118,Kuwait,c10,OSB,,,m3/tonne,1.52671755725191,cf_density,product basic density,Own calculation
+119,Latvia,c10,OSB,,,m3/tonne,1.6260162601626,cf_density,product basic density,Own calculation
+120,Lao People's Democratic Republic,c10,OSB,,,m3/tonne,1.52671755725191,cf_density,product basic density,Own calculation
+121,Lebanon,c10,OSB,,,m3/tonne,1.52671755725191,cf_density,product basic density,Own calculation
+122,Lesotho,c10,OSB,,,m3/tonne,1.70248989146627,cf_density,product basic density,Own calculation
+123,Liberia,c10,OSB,,,m3/tonne,1.70248989146627,cf_density,product basic density,Own calculation
+124,Libya,c10,OSB,,,m3/tonne,1.70248989146627,cf_density,product basic density,Own calculation
+125,Liechtenstein,c10,OSB,,,m3/tonne,1.6260162601626,cf_density,product basic density,Own calculation
+126,Lithuania,c10,OSB,,,m3/tonne,1.6260162601626,cf_density,product basic density,Own calculation
+127,Marshall Islands,c10,OSB,,,m3/tonne,1.70248989146627,cf_density,product basic density,Own calculation
+128,"China, Macao SAR",c10,OSB,,,m3/tonne,1.52671755725191,cf_density,product basic density,Own calculation
+129,Madagascar,c10,OSB,,,m3/tonne,1.70248989146627,cf_density,product basic density,Own calculation
+130,Malawi,c10,OSB,,,m3/tonne,1.70248989146627,cf_density,product basic density,Own calculation
+131,Malaysia,c10,OSB,,,m3/tonne,1.52671755725191,cf_density,product basic density,Own calculation
+132,Maldives,c10,OSB,,,m3/tonne,1.52671755725191,cf_density,product basic density,Own calculation
+133,Mali,c10,OSB,,,m3/tonne,1.70248989146627,cf_density,product basic density,Own calculation
+134,Malta,c10,OSB,,,m3/tonne,1.6260162601626,cf_density,product basic density,Own calculation
+135,Martinique,c10,OSB,,,m3/tonne,1.48698884758364,cf_density,product basic density,Own calculation
+136,Mauritania,c10,OSB,,,m3/tonne,1.70248989146627,cf_density,product basic density,Own calculation
+137,Mauritius,c10,OSB,,,m3/tonne,1.70248989146627,cf_density,product basic density,Own calculation
+138,Mexico,c10,OSB,,,m3/tonne,1.48698884758364,cf_density,product basic density,Own calculation
+141,Mongolia,c10,OSB,,,m3/tonne,1.52671755725191,cf_density,product basic density,Own calculation
+142,Montserrat,c10,OSB,,,m3/tonne,1.48698884758364,cf_density,product basic density,Own calculation
+143,Morocco,c10,OSB,,,m3/tonne,1.70248989146627,cf_density,product basic density,Own calculation
+144,Mozambique,c10,OSB,,,m3/tonne,1.70248989146627,cf_density,product basic density,Own calculation
+145,Micronesia (Federated States of),c10,OSB,,,m3/tonne,1.70248989146627,cf_density,product basic density,Own calculation
+146,Republic of Moldova,c10,OSB,,,m3/tonne,1.6260162601626,cf_density,product basic density,Own calculation
+147,Namibia,c10,OSB,,,m3/tonne,1.70248989146627,cf_density,product basic density,Own calculation
+148,Nauru,c10,OSB,,,m3/tonne,1.70248989146627,cf_density,product basic density,Own calculation
+149,Nepal,c10,OSB,,,m3/tonne,1.52671755725191,cf_density,product basic density,Own calculation
+150,Netherlands,c10,OSB,,,m3/tonne,1.6260162601626,cf_density,product basic density,Own calculation
+151,Netherlands Antilles,c10,OSB,,,m3/tonne,1.48698884758364,cf_density,product basic density,Own calculation
+153,New Caledonia,c10,OSB,,,m3/tonne,1.70248989146627,cf_density,product basic density,Own calculation
+154,North Macedonia,c10,OSB,,,m3/tonne,1.6260162601626,cf_density,product basic density,Own calculation
+155,Vanuatu,c10,OSB,,,m3/tonne,1.70248989146627,cf_density,product basic density,Own calculation
+156,New Zealand,c10,OSB,,,m3/tonne,1.70248989146627,cf_density,product basic density,Own calculation
+157,Nicaragua,c10,OSB,,,m3/tonne,1.48698884758364,cf_density,product basic density,Own calculation
+158,Niger,c10,OSB,,,m3/tonne,1.70248989146627,cf_density,product basic density,Own calculation
+159,Nigeria,c10,OSB,,,m3/tonne,1.70248989146627,cf_density,product basic density,Own calculation
+160,Niue,c10,OSB,,,m3/tonne,1.70248989146627,cf_density,product basic density,Own calculation
+161,Norfolk Island,c10,OSB,,,m3/tonne,1.70248989146627,cf_density,product basic density,Own calculation
+162,Norway,c10,OSB,,,m3/tonne,1.6260162601626,cf_density,product basic density,Own calculation
+163,Northern Mariana Islands,c10,OSB,,,m3/tonne,1.70248989146627,cf_density,product basic density,Own calculation
+164,Pacific Islands Trust Territory,c10,OSB,,,m3/tonne,1.52671755725191,cf_density,product basic density,Own calculation
+165,Pakistan,c10,OSB,,,m3/tonne,1.52671755725191,cf_density,product basic density,Own calculation
+166,Panama,c10,OSB,,,m3/tonne,1.48698884758364,cf_density,product basic density,Own calculation
+167,Czechia,c10,OSB,,,m3/tonne,1.76991150442478,cf_density,product basic density,"FAO, ITTO and United Nations (2020)"
+168,Papua New Guinea,c10,OSB,,,m3/tonne,1.70248989146627,cf_density,product basic density,Own calculation
+169,Paraguay,c10,OSB,,,m3/tonne,1.48698884758364,cf_density,product basic density,Own calculation
+170,Peru,c10,OSB,,,m3/tonne,1.48698884758364,cf_density,product basic density,Own calculation
+171,Philippines,c10,OSB,,,m3/tonne,1.52671755725191,cf_density,product basic density,Own calculation
+172,Pitcairn Islands,c10,OSB,,,m3/tonne,1.70248989146627,cf_density,product basic density,Own calculation
+173,Poland,c10,OSB,,,m3/tonne,1.53846153846154,cf_density,product basic density,"FAO, ITTO and United Nations (2020)"
+174,Portugal,c10,OSB,,,m3/tonne,1.6260162601626,cf_density,product basic density,Own calculation
+175,Guinea-Bissau,c10,OSB,,,m3/tonne,1.70248989146627,cf_density,product basic density,Own calculation
+176,Timor-Leste,c10,OSB,,,m3/tonne,1.52671755725191,cf_density,product basic density,Own calculation
+178,Eritrea,c10,OSB,,,m3/tonne,1.70248989146627,cf_density,product basic density,Own calculation
+179,Qatar,c10,OSB,,,m3/tonne,1.52671755725191,cf_density,product basic density,Own calculation
+180,Palau,c10,OSB,,,m3/tonne,1.70248989146627,cf_density,product basic density,Own calculation
+181,Zimbabwe,c10,OSB,,,m3/tonne,1.70248989146627,cf_density,product basic density,Own calculation
+182,Reunion,c10,OSB,,,m3/tonne,1.70248989146627,cf_density,product basic density,Own calculation
+183,Romania,c10,OSB,,,m3/tonne,1.6260162601626,cf_density,product basic density,Own calculation
+184,Rwanda,c10,OSB,,,m3/tonne,1.70248989146627,cf_density,product basic density,Own calculation
+185,Russian Federation,c10,OSB,,,m3/tonne,1.6260162601626,cf_density,product basic density,Own calculation
+186,Serbia and Montenegro,c10,OSB,,,m3/tonne,1.6260162601626,cf_density,product basic density,Own calculation
+187,"Saint Helena, Ascension and Tristan da Cunha",c10,OSB,,,m3/tonne,1.70248989146627,cf_density,product basic density,Own calculation
+188,Saint Kitts and Nevis,c10,OSB,,,m3/tonne,1.48698884758364,cf_density,product basic density,Own calculation
+189,Saint Lucia,c10,OSB,,,m3/tonne,1.48698884758364,cf_density,product basic density,Own calculation
+190,Saint Pierre and Miquelon,c10,OSB,,,m3/tonne,2.45700245700246,cf_density,product basic density,Own calculation
+191,Saint Vincent and the Grenadines,c10,OSB,,,m3/tonne,1.48698884758364,cf_density,product basic density,Own calculation
+192,San Marino,c10,OSB,,,m3/tonne,1.6260162601626,cf_density,product basic density,Own calculation
+193,Sao Tome and Principe,c10,OSB,,,m3/tonne,1.70248989146627,cf_density,product basic density,Own calculation
+194,Saudi Arabia,c10,OSB,,,m3/tonne,1.52671755725191,cf_density,product basic density,Own calculation
+195,Senegal,c10,OSB,,,m3/tonne,1.70248989146627,cf_density,product basic density,Own calculation
+196,Seychelles,c10,OSB,,,m3/tonne,1.70248989146627,cf_density,product basic density,Own calculation
+197,Sierra Leone,c10,OSB,,,m3/tonne,1.70248989146627,cf_density,product basic density,Own calculation
+198,Slovenia,c10,OSB,,,m3/tonne,1.6260162601626,cf_density,product basic density,Own calculation
+199,Slovakia,c10,OSB,,,m3/tonne,1.6260162601626,cf_density,product basic density,Own calculation
+200,Singapore,c10,OSB,,,m3/tonne,1.52671755725191,cf_density,product basic density,Own calculation
+201,Somalia,c10,OSB,,,m3/tonne,1.70248989146627,cf_density,product basic density,Own calculation
+202,South Africa,c10,OSB,,,m3/tonne,1.70248989146627,cf_density,product basic density,Own calculation
+203,Spain,c10,OSB,,,m3/tonne,1.6260162601626,cf_density,product basic density,Own calculation
+205,Western Sahara,c10,OSB,,,m3/tonne,1.70248989146627,cf_density,product basic density,Own calculation
+207,Suriname,c10,OSB,,,m3/tonne,1.48698884758364,cf_density,product basic density,Own calculation
+208,Tajikistan,c10,OSB,,,m3/tonne,1.52671755725191,cf_density,product basic density,Own calculation
+209,Eswatini,c10,OSB,,,m3/tonne,1.70248989146627,cf_density,product basic density,Own calculation
+210,Sweden,c10,OSB,,,m3/tonne,1.6260162601626,cf_density,product basic density,Own calculation
+211,Switzerland,c10,OSB,,,m3/tonne,1.6260162601626,cf_density,product basic density,Own calculation
+212,Syrian Arab Republic,c10,OSB,,,m3/tonne,1.52671755725191,cf_density,product basic density,Own calculation
+213,Turkmenistan,c10,OSB,,,m3/tonne,1.52671755725191,cf_density,product basic density,Own calculation
+214,"China, Taiwan Province of",c10,OSB,,,m3/tonne,1.52671755725191,cf_density,product basic density,Own calculation
+215,United Republic of Tanzania,c10,OSB,,,m3/tonne,1.70248989146627,cf_density,product basic density,Own calculation
+216,Thailand,c10,OSB,,,m3/tonne,1.52671755725191,cf_density,product basic density,Own calculation
+217,Togo,c10,OSB,,,m3/tonne,1.70248989146627,cf_density,product basic density,Own calculation
+218,Tokelau,c10,OSB,,,m3/tonne,1.70248989146627,cf_density,product basic density,Own calculation
+219,Tonga,c10,OSB,,,m3/tonne,1.70248989146627,cf_density,product basic density,Own calculation
+220,Trinidad and Tobago,c10,OSB,,,m3/tonne,1.48698884758364,cf_density,product basic density,Own calculation
+221,Oman,c10,OSB,,,m3/tonne,1.52671755725191,cf_density,product basic density,Own calculation
+222,Tunisia,c10,OSB,,,m3/tonne,1.70248989146627,cf_density,product basic density,Own calculation
+223,Turkey,c10,OSB,,,m3/tonne,1.6260162601626,cf_density,product basic density,Own calculation
+224,Turks and Caicos Islands,c10,OSB,,,m3/tonne,1.48698884758364,cf_density,product basic density,Own calculation
+225,United Arab Emirates,c10,OSB,,,m3/tonne,1.52671755725191,cf_density,product basic density,Own calculation
+226,Uganda,c10,OSB,,,m3/tonne,1.70248989146627,cf_density,product basic density,Own calculation
+227,Tuvalu,c10,OSB,,,m3/tonne,1.70248989146627,cf_density,product basic density,Own calculation
+228,USSR,c10,OSB,,,m3/tonne,1.52671755725191,cf_density,product basic density,Own calculation
+229,United Kingdom,c10,OSB,,,m3/tonne,1.61290322580645,cf_density,product basic density,"FAO, ITTO and United Nations (2020)"
+230,Ukraine,c10,OSB,,,m3/tonne,1.6260162601626,cf_density,product basic density,Own calculation
+231,United States of America,c10,OSB,,,m3/tonne,2.45700245700246,cf_density,product basic density,"FAO, ITTO and United Nations (2020)"
+233,Burkina Faso,c10,OSB,,,m3/tonne,1.70248989146627,cf_density,product basic density,Own calculation
+234,Uruguay,c10,OSB,,,m3/tonne,1.48698884758364,cf_density,product basic density,Own calculation
+235,Uzbekistan,c10,OSB,,,m3/tonne,1.52671755725191,cf_density,product basic density,Own calculation
+236,Venezuela (Bolivarian Republic of),c10,OSB,,,m3/tonne,1.48698884758364,cf_density,product basic density,Own calculation
+237,Viet Nam,c10,OSB,,,m3/tonne,1.52671755725191,cf_density,product basic density,Own calculation
+238,Ethiopia,c10,OSB,,,m3/tonne,1.70248989146627,cf_density,product basic density,Own calculation
+239,British Virgin Islands,c10,OSB,,,m3/tonne,1.48698884758364,cf_density,product basic density,Own calculation
+242,Wake Island,c10,OSB,,,m3/tonne,1.70248989146627,cf_density,product basic density,Own calculation
+243,Wallis and Futuna Islands,c10,OSB,,,m3/tonne,1.70248989146627,cf_density,product basic density,Own calculation
+244,Samoa,c10,OSB,,,m3/tonne,1.70248989146627,cf_density,product basic density,Own calculation
+248,Yugoslav SFR,c10,OSB,,,m3/tonne,1.6260162601626,cf_density,product basic density,Own calculation
+249,Yemen,c10,OSB,,,m3/tonne,1.52671755725191,cf_density,product basic density,Own calculation
+250,Democratic Republic of the Congo,c10,OSB,,,m3/tonne,1.70248989146627,cf_density,product basic density,Own calculation
+251,Zambia,c10,OSB,,,m3/tonne,1.70248989146627,cf_density,product basic density,Own calculation
+252,Unspecified Area,c10,OSB,,,m3/tonne,1.70248989146627,cf_density,product basic density,Own calculation
+254,Others (adjustment),c10,OSB,,,m3/tonne,1.70248989146627,cf_density,product basic density,Own calculation
+255,Belgium,c10,OSB,,,m3/tonne,1.6260162601626,cf_density,product basic density,Own calculation
+256,Luxembourg,c10,OSB,,,m3/tonne,1.6260162601626,cf_density,product basic density,Own calculation
+258,Anguilla,c10,OSB,,,m3/tonne,1.48698884758364,cf_density,product basic density,Own calculation
+270,Mayotte,c10,OSB,,,m3/tonne,1.70248989146627,cf_density,product basic density,Own calculation
+272,Serbia,c10,OSB,,,m3/tonne,1.6260162601626,cf_density,product basic density,Own calculation
+273,Montenegro,c10,OSB,,,m3/tonne,1.6260162601626,cf_density,product basic density,Own calculation
+276,Sudan,c10,OSB,,,m3/tonne,1.70248989146627,cf_density,product basic density,Own calculation
+277,South Sudan,c10,OSB,,,m3/tonne,1.70248989146627,cf_density,product basic density,Own calculation
+279,Curaçao,c10,OSB,,,m3/tonne,1.48698884758364,cf_density,product basic density,Own calculation
+281,Saint-Martin (French Part),c10,OSB,,,m3/tonne,1.48698884758364,cf_density,product basic density,Own calculation
+299,Palestine,c10,OSB,,,m3/tonne,1.52671755725191,cf_density,product basic density,Own calculation
+999,RoW,c10,OSB,,,m3/tonne,1.70248989146627,cf_density,product basic density,Own calculation

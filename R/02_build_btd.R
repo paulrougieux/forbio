@@ -68,15 +68,15 @@ btd <- btd[, list(value = na_sum(value)), by = c("com_code", "item",
 
 
 # Change units from tonnes to m3
-# for wood fuel, particle board, OSB, wood residues
-# Apply cf_density 
-cf <- fread("inst/old/density_tidy.csv")
-cf <- cf[com_code %in% c("c03", "c09", "c10"),]
+# for c03 wood fuel, c09 particle board, c10 OSB, c18 wood residues
 
+# Apply cf_btd
+cf <- fread("inst/cf_btd_tidy.csv")
 btd <- merge(btd, cf[, .(com_code, unit_cf = unit, from = area, cf)],
   all.x = TRUE, by = c("com_code", "from"))
+btd[com_code %in% c("c03", "c09", "c10"), `:=`(value = value * cf, unit = "m3")]
 
-btd[com_code %in% c("c03", "c09", "c10"), `:=`(value = value / cf, unit = "m3")]
+# Apply factor of 1.5 to c18 wood residues (UNECE and FAO, 2010)
 btd[com_code == "c18", `:=`(value = value * 1.5, unit = "m3")]
 
 btd[, `:=`(unit_cf = NULL, cf = NULL)]

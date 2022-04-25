@@ -22,7 +22,7 @@ use <- data.table(expand.grid(area_code = c(regions$area_code, 999), year = year
   com_code = unique(use_items$com_code)))
 use[, `:=`(area = regions$area[match(use$area_code, regions$area_code)],
   item = items$item[match(use$com_code, items$com_code)])]
-use[, area := ifelse(area_code==999, "RoW", area)]
+use[, area := ifelse(area_code == 999, "RoW", area)]
 use <- merge(
   use[, .(area_code, area, year, com_code, item)],
   use_items[, .(proc_code, process, com_code, item, type)],
@@ -39,19 +39,18 @@ cat("Allocating part of the CF commodities to CF use. Applies to items:\n\t",
   paste0(unique(use[type %in% c("cf", "cf_cnc", "cf_pellets", "cf_board", "cf_pulp"), process]), 
     collapse = "; "), ".\n", sep = "")
 
-# Read technical conversion factors
+# Read conversion factors
 cf <- fread("inst/cf_use_tidy.csv")
-# cf <- cf[!(com_code=="c13" & unit=="m3sw/tonne")]
 
-# Technical conversion factors for each input-output combination
+# Conversion factors for each input-output combination
 cf <- merge(source_use[type %in% c("cf", "cf_cnc", "cf_board", "cf_pulp"), 
                         .(proc_code, process, source_code, source, com_code, item)], 
   cf[, .(com_code, item, source_code, source, area_code, area, unit, cf)], 
   by = c("source_code", "source", "com_code", "item"), all.x = TRUE)
 
-# Technical conversion factors for pellets
+# Conversion factors for pellets
 cf_use <- fread("inst/cf_use_tidy.csv")
-cf_out <- cf_use[com_code=="c15" & unit=="m3sw/tonne"]
+cf_out <- cf_use[com_code=="c15"]
 cf_in <- cf_use[com_code %in% source_use[type=="cf_pellets", source_code] &
                     unit %in% c("m3rw/m3p","m3sw/m3p")]
 
@@ -74,16 +73,16 @@ cf_pellets[, `:=`(unit = "m3p/tonne", cf_in = NULL, cf_out = NULL, type = NULL,
   area = regions$area[match(cf_pellets$area_code, regions$area_code)])]
 cf <- rbind(cf[!item %in% cf_pellets$item], cf_pellets)
 
-# Technical conversion factors for pulp
+# Conversion factors for pulp
 cf_use <- fread("inst/cf_use_tidy.csv")
-cf_out <- cf_use[grepl("c11", com_code) & unit=="m3sw/tonne"]
+cf_out <- cf_use[grepl("c11", com_code)]
 cf_in <- cf_use[com_code %in% source_use[type=="cf_pulp", source_code] & unit %in% c("m3rw/m3p", "m3sw/m3p")]
 cf_in[unit=="m3rw/m3p", `:=`(cf = 1 / cf, unit = "m3p/m3sw")]
 cf_in[unit=="m3sw/m3p", `:=`(cf = 1 / cf, unit = "m3p/m3sw")]
 # unique(cf_in[, .(item, source, unit)])
 # unique(cf_out[, .(item, source, unit)])
 cf_pulp <- merge(source_use[type=="cf_pulp"], 
-  cf_in[, .(area_code,source_code=com_code,cf_in=cf)],
+  cf_in[, .(area_code, source_code=com_code, cf_in = cf)],
   by = c("source_code"), allow.cartesian = TRUE)
 cf_pulp <- merge(cf_pulp, 
   cf_out[, .(area_code,com_code,cf_out=cf)],
@@ -93,7 +92,7 @@ cf_pulp[, `:=`(unit = "m3p/tonne", cf_in = NULL, cf_out = NULL, type = NULL,
   area = regions$area[match(cf_pulp$area_code, regions$area_code)])]
 cf <- rbind(cf[!item %in% cf_pulp$item], cf_pulp)
 
-# Technical conversion factors for boards
+# Conversion factors for boards
 cf_use <- fread("inst/cf_use_tidy.csv")
 cf_out <- cf_use[com_code %in% c("c08","c09") & unit %in% c("m3sw/m3p")]
 cf_in <- cf_use[com_code %in% source_use[type=="cf_board", source_code] & 
@@ -104,10 +103,10 @@ cf_in[unit=="m3sw/tonne", `:=`(cf = 1 / cf, unit = "tonne/m3sw")]
 # unique(cf_in[, .(item, source, unit)])
 # unique(cf_out[, .(item, source, unit)])
 cf_board <- merge(source_use[type=="cf_board"], 
-  cf_in[, .(area_code,source_code=com_code,cf_in=cf)],
+  cf_in[, .(area_code, source_code = com_code, cf_in = cf)],
   by = c("source_code"), allow.cartesian = TRUE)
 cf_board <- merge(cf_board, 
-  cf_out[, .(area_code,com_code,cf_out=cf)],
+  cf_out[, .(area_code, com_code, cf_out = cf)],
   by = c("area_code", "com_code"))
 cf_board[, cf := (cf_in * cf_out)]
 cf_board[, `:=`(unit = "m3p/m3p", cf_in = NULL, cf_out = NULL, type = NULL,
@@ -176,17 +175,18 @@ results <- results[paste(com_code,com_code_proc) %in%
 results[, `:=`(proc_code =
   source_use[match(results$com_code_proc, source_use$com_code), proc_code])]
 
-
-# Tidying estimates for feedstock composition for pulp production
-pulp <- fread("inst/pulp_feedstock_raw.csv")
-pulp[, `:=`(continent = regions$continent[match(pulp$area_code, regions$area_code)])]
-pulp[continent == "EU", `:=`(continent = "EUR")]
-pulp[, `:=`(roundwood = if_else(!is.na(roundwood), roundwood, 
-  roundwood[match(paste(pulp$continent, pulp$proc_code), paste(pulp$area, pulp$proc_code))]),
-  chips = if_else(!is.na(chips), chips, 
-  chips[match(paste(pulp$continent, pulp$proc_code), paste(pulp$area, pulp$proc_code))]))]
+## 23.04: This will be done in 01_tidy_cf
+# # Tidying estimates for feedstock composition for pulp production
+# pulp <- fread("inst/pulp_feedstock_raw.csv")
+# pulp[, `:=`(continent = regions$continent[match(pulp$area_code, regions$area_code)])]
+# pulp[continent == "EU", `:=`(continent = "EUR")]
+# pulp[, `:=`(roundwood = if_else(!is.na(roundwood), roundwood, 
+#   roundwood[match(paste(pulp$continent, pulp$proc_code), paste(pulp$area, pulp$proc_code))]),
+#   chips = if_else(!is.na(chips), chips, 
+#   chips[match(paste(pulp$continent, pulp$proc_code), paste(pulp$area, pulp$proc_code))]))]
 
 # Estimate feedstock composition for pulp production
+pulp <- fread("inst/pulp_feedstock_tidy.csv")
 results <- merge(results, pulp[, .(area_code, proc_code, roundwood, chips)],
   by = c("area_code", "proc_code"), all.x = TRUE)
 
