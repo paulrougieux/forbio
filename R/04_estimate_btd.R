@@ -9,11 +9,9 @@ source("R/01_tidy_functions.R")
 
 cat("\nEstimating BTD from CBS.\n")
 
+# Read file
 cbs <- readRDS("data/cbs.rds")
-
 years <- 1997:2017
-
-# dt_replace(cbs, fun = is.na, value = 0, cols = c("imports", "exports"))
 
 # Cast import and export columns
 cbs_imp <- data.table::dcast(cbs[year %in% years, c("area_code", "year", "com_code", "imports")],
@@ -86,6 +84,8 @@ rm(est_exp, est_imp); gc()
 btd_est[, `:=`(value = na_sum(imp_spread, exp_spread) / 2,
   exp_spread = NULL, imp_spread = NULL)]
 
+
 # Store result ------------------------------------------------------------
+
 saveRDS(btd_est, "data/btd_est.rds")
 

@@ -11,16 +11,15 @@ products <- fread("inst/products.csv")
 # MB SUP ---------------------------------------------------------------------------------------------------
 cat("\nTidying material balances for supply tables.\n")
 
-# Begin with p04 and p05
 cat("\nStep 1: Tidying material balances of sawnwood C (p04) and NC (p05) production.\n")
 
-# Read file
+# Read files
 sup_sawnwood <- fread("inst/mb_sawnwood_raw.csv")
 sup_sawnwood <- sup_sawnwood[, `:=`(product = as.numeric(product), chips = as.numeric(chips), 
                                     sawdust = as.numeric(sawdust), shavings = as.numeric(shavings),
                                     shrinkage = as.numeric(shrinkage))]
 
-# Aggregation and renaming items
+# Aggregate and rename items
 sup_sawnwood[,  `:=`(residues = na_sum(sup_sawnwood$sawdust, sup_sawnwood$shavings))]
 sup_sawnwood[, `:=`(sawdust = NULL, shavings = NULL)]
 sup_sawnwood <- sup_sawnwood[, c("area_code", "area", "proc_code", 
@@ -34,7 +33,6 @@ sup_sawnwood[continent == "EU", continent := "EUR"]
 sup_sawnwood <- merge(sup_sawnwood, sup_cont[, .(continent = area, proc_code, 
   c_product = product, c_chips = chips, c_residues = residues, c_shrinkage = shrinkage)],
   by = c("continent", "proc_code"), all.x = TRUE)
-
 
 # Rescale continental average values to sum up to 100
 sup_sawnwood[na_sum(c_product, c_chips, c_residues, c_shrinkage) != 100,
@@ -72,7 +70,7 @@ sup_sawnwood[is.na(product),
     `:=`(product = w_product, chips = w_chips, residues = w_residues, shrinkage = w_shrinkage)]
 sup_sawnwood[, `:=`(w_product = NULL, w_chips = NULL, w_residues = NULL, w_shrinkage = NULL)]
 
-# Separate shrinkage which will be used later
+# Separate shrinkage which will be used later for cf_carbon
 sup_sawnwood[is.na(shrinkage), shrinkage := 100 - product - chips - residues]
 
 sup_sawnwood[shrinkage < 0, shrinkage := 0]
@@ -95,10 +93,10 @@ sup_sawnwood[, `:=`(product = product / total,
 sup_sawnwood <- sup_sawnwood[!is.na(area_code)]
 rm(sup_cont, sup_wrld)
 
-## Continue with p06 and p07 ##
+
 cat("\nStep 2: Tidying material balances of veneer (p06) and plywood (p07) production.\n")
 
-# Read file
+# Read files
 sup_venply <- fread("inst/mb_veneer,plywood_raw.csv")
 share_cnc <- fread("inst/share_cnc.csv")
 
@@ -203,10 +201,9 @@ sup_venply[is.na(product),
              `:=`(product = w_product, chips = w_chips, residues = w_residues, shrinkage = w_shrinkage)]
 sup_venply[, `:=`(w_product = NULL, w_chips = NULL, w_residues = NULL, w_shrinkage = NULL)]
 
-# Create shrinkage csv
+# Write shrinkage csv
 shrinkage_venply <- sup_venply[, c("area_code", "area", "proc_code","process","shrinkage")]
 shrinkage <- rbind(shrinkage_sawnwood, shrinkage_venply)
-# Write shrinkage file
 fwrite(shrinkage, "inst/shrinkage_tidy.csv")
 
 # Convert into percentages ignoring losses
@@ -225,11 +222,13 @@ rm(shrinkage_venply, sup_cont, sup_wrld, sup_sawnwood, sup_venply, sup, shrinkag
 
 
 # CF USE --------------------------------------------------------------------------------------------------------------------
-cat("\nTidying forestry product conversion factors (CFs).\n")
 
-# Read main file
+cat("\nTidying forestry product conversion factors (CFs) for use tables calculation.\n")
+
+# Read main file and select specific cf
 cf_raw <- fread("inst/cf_raw.csv")
 cf_use_prep <- cf_raw[cf_type == "cf_use"]
+
 
 cat("\nStep 1: Build weighted averages for c08 fibreboard.\n")
 
@@ -291,11 +290,10 @@ cf_average[is.na(cf) & is.na(cf_1) & is.na(cf_3), `:=`(cf = cf_2)]
 cf_average[is.na(cf) & is.na(cf_1) & is.na(cf_2), `:=`(cf = cf_3)]
 
 cf_average[, `:=`(c08_1_share = NULL, c08_2_share = NULL, c08_3_share = NULL, cf_1 = NULL, cf_2 = NULL, cf_3 = NULL)]
-cf_average <- cf_average[order(cf_average$area_code),]
 
 rm(share_fb, cf_1, cf_2, cf_3)
 
-# Recalculate continental averages (due to new weighted countries' averages)
+# Recalculate CF continental averages (due to new weighted countries' averages)
 cf_average <- merge(cf_average, regions[, .(area_code, continent)],
                      by = "area_code",
                      all.x = TRUE)
@@ -310,13 +308,13 @@ cf_cont <- cf_cont[! area %in% c('XXX', 'ROW') & !is.na(area)]
 cf_average <- cf_average[!is.na(area_code)]
 cf_average <- rbind(cf_average, cf_cont, fill=TRUE)
 
-# Apply continental average cf where no country-specific value available
+# Apply continental average CF where no country-specific value available
 cf_average <- merge(cf_average, cf_cont[, .(continent = area, com_code, cf_type, c_cf = cf)],
                      by = c("continent", "com_code", "cf_type"), all.x = TRUE)
 cf_average[is.na(cf), `:=`(cf = c_cf)]
 cf_average[, `:=`(c_cf = NULL)]
 
-# Apply world average cf where no continental average available
+# Apply world average CF where no continental average available
 cf_wrld <- cf_cont %>% 
   group_by(com_code, cf_type) %>% 
   summarize(w_cf = mean(cf, na.rm = TRUE)) %>% 
@@ -335,9 +333,9 @@ cf_use_prep <- rbind(cf_use_prep, cf_average)
 rm(cf_average)
 
 
-cat("\nStep 2: Building average cf for c11b mechanical and semi-chemical wood pulp.\n")
+cat("\nStep 2: Build average CF for c11b mechanical and semi-chemical wood pulp.\n")
 
-# Prepare structure to calculate average of CFs (not weighted because no big difference)
+# Prepare structure to calculate average of CFs (not weighted because irrelevant difference)
 cf_average <- unique(cf_use_prep[com_code == "c11b",
                                .(area_code, area, com_code, item, unit, cf_type)])
 cf_average[, `:=` (cf = NA)]
@@ -366,9 +364,7 @@ cf_average[!is.na(cf_1) & !is.na(cf_2), `:=`(cf = na_sum(cf_1, cf_2) / 2)]
 cf_average[!is.na(cf_1) & is.na(cf_2), `:=`(cf = cf_1)]
 cf_average[, `:=`(cf_1 = NULL, cf_2 = NULL)]
 
-cf_average <- cf_average[order(cf_average$area_code),]
-
-# Recalculate continental averages (due to new countries' averages)
+# Recalculate CF continental averages (due to new countries' averages)
 cf_average <- merge(cf_average, regions[, .(area_code, continent)],
                      by = "area_code",
                      all.x = TRUE)
@@ -384,7 +380,7 @@ cf_cont <- cf_cont[! area %in% c('XXX','ROW') & !is.na(area)]
 cf_average <- cf_average[!is.na(area_code)]
 cf_average <- rbind(cf_average, cf_cont, fill=TRUE)
 
-# Apply continental average cf where no country-specific value available
+# Apply continental average CF where no country-specific value available
 cf_average <- merge(cf_average, cf_cont[, .(continent = area, com_code, cf_type, c_cf = cf)],
                      by = c("continent", "com_code", "cf_type"), all.x = TRUE)
 cf_average[is.na(cf), `:=`(cf = c_cf)]
@@ -415,8 +411,7 @@ cat("\nStep 3: Build averages for c14 Paper and paperboard.\n")
 # Read file
 share_pp <- fread("inst/share_pp.csv")
 
-## Build averages for c14_2 and c14_3 each
-
+# Build averages for c14_2 and c14_3 each
 # Prepare structure and build averages for c14_2 (cf_2)
 cf_2a <- cf_use_prep[subcom_code == "c14_2a"]
 cf_2a <- cf_2a %>%
@@ -546,11 +541,9 @@ cf_average[is.na(c14_1_share) & is.na(c14_2_share) & is.na(c14_3_share) &
 cf_average[is.na(cf) & is.na(cf_2) & is.na(cf_3), `:=`(cf = cf_1)]
 
 cf_average[, `:=`(c14_1_share = NULL, c14_2_share = NULL, c14_3_share = NULL, cf_1 = NULL, cf_2 = NULL, cf_3 = NULL)]
-cf_average <- cf_average[order(cf_average$area_code),]
-
 rm(share_pp, cf_1, cf_2, cf_3)
 
-# Recalculate continental averages (due to new weighted countries' averages)
+# Recalculate CF continental averages (due to new weighted countries' averages)
 cf_average <- merge(cf_average, regions[, .(area_code, continent)],
                      by = "area_code",
                      all.x = TRUE)
@@ -565,7 +558,7 @@ cf_cont <- cf_cont[! area %in% c('XXX', 'ROW') & !is.na(area)]
 cf_average <- cf_average[!is.na(area_code)]
 cf_average <- rbind(cf_average, cf_cont, fill=TRUE)
 
-# Apply continental average cf where no country-specific value available
+# Apply continental average CF where no country-specific value available
 cf_average <- merge(cf_average, cf_cont[, .(continent = area, com_code, cf_type, c_cf = cf)],
                      by = c("continent", "com_code", "cf_type"), all.x = TRUE)
 cf_average[is.na(cf), `:=`(cf = c_cf)]
@@ -590,11 +583,12 @@ cf_use_prep <- rbind(cf_use_prep, cf_average)
 rm(cf_average)
 
 
-cat("\nStep 4: Tidying the rest of cf_use_prep table.\n")
+cat("\nStep 4: Tidy the rest of cf_use_prep table.\n")
 
+# Exclude items which have already been tidied
 cf_use_NA <- cf_use_prep[com_code %nin% c("c08", "c11b", "c14")]
 
-# Calculate continental averages
+# Calculate continental averages CF 
 cf_use_NA <- merge(cf_use_NA, regions[, .(area_code, continent)],
                      by = "area_code",
                      all.x = TRUE)
@@ -608,13 +602,13 @@ setnames(cf_cont,c("continent"),c("area"))
 setDT(cf_cont)
 cf_cont <- cf_cont[! area %in% c('XXX','ROW') & !is.na(area)]
 
-# Apply continental average cf where no country-specific value available
+# Apply continental average CF  where no country-specific value available
 cf_use_NA <- merge(cf_use_NA, cf_cont[, .(continent = area, com_code, cf_type, c_cf = cf, subcom_code)],
                      by = c("continent", "com_code", "cf_type", "subcom_code"), all.x = TRUE)
 cf_use_NA[is.na(cf), `:=`(cf = c_cf)]
 cf_use_NA[, `:=`(c_cf = NULL)]
 
-# Apply world average cf where no continental average available
+# Apply world average CF where no continental average available
 cf_wrld <- cf_cont %>% 
   group_by(com_code, cf_type, subcom_code) %>% 
   summarize(w_cf = mean(cf, na.rm = TRUE)) %>% 
@@ -631,26 +625,26 @@ cf_use_prep <- rbind(cf_use_prep, cf_use_NA)
 rm(cf_use_NA)
 
 
-cat("\nStep 5: Giving units consistent names.\n")
+cat("\nStep 5: Last final adjustments and write cf_use_tidy .\n")
 
+# Give units consistent names
 cf_use_prep <- cf_use_prep[com_code %in% c("c17", "c18"), `:=`(unit = "m3p/m3sw")]
 cf_use_prep <- cf_use_prep[com_code == "c13", `:=`(unit = "tonne/tonne")]
 
 
-cat("\nStep 6: Adding missing commodities .\n")
-
-# Create cf for c10 as output of c01 and c02 each
+# Adding missing commodities
+# Create CF for c10 osb as output of c01 industrial roundwood coniferous and c02 industrial roundwood non-coniferous
 cf_use_prep[com_code=="c10", `:=`(source = products$item[products$com_code=="c01"], source_code = "c01")]
 cf_osb <- cf_use_prep[com_code=="c10"]
 cf_osb[, `:=`(source = products$item[products$com_code=="c02"], source_code = "c02")]
 cf_use_prep <- rbind(cf_use_prep, cf_osb)
 
-# Create cf for items where this equals 1
+# Create CF for items where CF equals 1
 cf_missing <- unique(cf_raw[com_code %in% c("c01", "c02", "c03"),
                               .(area_code, area, com_code, item)])
 cf_missing[, `:=` (unit = "m3rw/m3p", cf = "1", cf_type = "cf_use")]
 
-# Create cf's for c19 from assumption cf is 2.5 m3sw/tonne
+# Create CFs for c19 from assumption CF is 2.5 m3sw/tonne
 cf_postconwood <- unique(cf_raw[com_code == "c14",
                                  .(area_code, area, com_code, item, unit, cf_type)])
 cf_postconwood[, `:=` (cf = 2.5)]
@@ -658,13 +652,11 @@ cf_postconwood <- cf_postconwood[, `:=`(cf = as.numeric(cf))]
 cf_postconwood[, `:=` (com_code = "c19", item = products$item[products$com_code == "c19"])]
 cf_postconwood <- cf_postconwood[, `:=` (literature = "Own assumption")]
 
-cat("\n Last step: Write final cf_use_tidy as csv .\n")
-
+# Write final cf_use_tidy as csv
 cf_use <- rbind(cf_use_prep, cf_osb, cf_missing, cf_postconwood, fill = TRUE)
 cf_use <- cf_use[, `:=`(subitem = NULL, subcom_code = NULL)]
 cf_use <- cf_use[is.na(literature), `:=` (literature = "Own calculation")]
 cf_use <- cf_use[order(cf_use$com_code, cf_use$area_code),]
-
 cf_use <- cf_use[!is.na(area_code)]
 
 fwrite(cf_use, "inst/cf_use_tidy.csv")
@@ -674,14 +666,14 @@ rm(cf_missing, cf_osb, cf_postconwood, cf_use_prep)
 
 # CF CARBON -------------------------------------------------------------------------------------------------------------
 
-cat("\nBuilding cf carbon based on cf_density, cf_shipping_weight and other values.\n")
+cat("\nBuild CF carbon based on cf_pdensity, cf_wdensity, cf_shipping_weight and other values.\n")
 
 # Read main file
 cf_raw <- fread("inst/cf_raw.csv")
 cf_carbon_prep <- cf_raw[cf_type != "cf_use"]
 
 
-cat("\nStep 1: Aggregation of (sub)items to build weighted averages for c03 wood fuel, c06 veneer sheets and c07 plywood.\n")
+cat("\nStep 1: Aggregate (sub)items to build weighted averages for c03 wood fuel, c06 veneer sheets and c07 plywood.\n")
 
 # Read file
 share_cnc <- fread("inst/share_cnc.csv")
@@ -740,13 +732,13 @@ cf_cont <- cf_cont[! area %in% c('XXX', 'ROW') & !is.na(area)]
 cf_average <- cf_average[!is.na(area_code)]
 cf_average <- rbind(cf_average, cf_cont, fill=TRUE)
 
-# Apply continental average cf where no country-specific value available
+# Apply continental average CF where no country-specific value available
 cf_average <- merge(cf_average, cf_cont[, .(continent = area, com_code, cf_type, c_cf = cf)],
                      by = c("continent", "com_code", "cf_type"), all.x = TRUE)
 cf_average[is.na(cf), `:=`(cf = c_cf)]
 cf_average[, `:=`(c_cf = NULL)]
 
-# Apply world average cf where no continental average available
+# Apply world average CF where no continental average available
 cf_wrld <- cf_cont %>% 
   group_by(com_code, cf_type) %>% 
   summarize(w_cf = mean(cf, na.rm = TRUE)) %>% 
@@ -757,15 +749,14 @@ cf_average[is.na(cf), `:=`(cf = w_cf)]
 cf_average[, `:=`(w_cf = NULL, continent = NULL)]
 rm(cf_cont, cf_wrld)
 
-# Update "cf_carbon_prep"
-cf_average <- cf_average[, `:=`(description = NA, literature = NA, subcom_code = NA, subitem = NA, source = NA, source_code = NA)]
+# Update cf_carbon_prep
 cf_carbon_prep <-cf_carbon_prep[com_code %nin% c("c03", "c06", "c07"),]
-cf_carbon_prep <- rbind(cf_carbon_prep, cf_average)
+cf_carbon_prep <- rbind(cf_carbon_prep, cf_average, fill = TRUE)
 
 rm(cf_average, cf_raw)
 
 
-cat("\nStep 2: Calculate weighted averages for c01 industrial roundwood, coniferous.\n")
+cat("\nStep 2: Build weighted averages for c01 industrial roundwood, coniferous.\n")
 
 # Read file
 share_irwc <- fread("inst/share_irwc.csv")
@@ -845,10 +836,8 @@ cf_average[, `:=`(w_cf = NULL, continent = NULL)]
 rm(cf_cont, cf_wrld)
 
 # Update cf_carbon_prep
-cf_average <- cf_average[, `:=`(description = NA, literature = NA,
-                                  subcom_code = NA, subitem = NA, source = NA, source_code = NA)]
 cf_carbon_prep <-cf_carbon_prep[com_code != "c01",]
-cf_carbon_prep <- rbind(cf_carbon_prep, cf_average)
+cf_carbon_prep <- rbind(cf_carbon_prep, cf_average, fill = TRUE)
 
 rm(cf_average)
 
@@ -932,10 +921,8 @@ cf_average[, `:=`(w_cf = NULL, continent = NULL)]
 rm(cf_cont, cf_wrld)
 
 # Update cf_carbon_prep
-cf_average <- cf_average[, `:=`(description = NA, literature = NA, subcom_code = NA,
-                                  subitem = NA, source = NA, source_code = NA)]
 cf_carbon_prep <-cf_carbon_prep[com_code != "c02"]
-cf_carbon_prep <- rbind(cf_carbon_prep, cf_average)
+cf_carbon_prep <- rbind(cf_carbon_prep, cf_average, fill = TRUE)
 rm(cf_average)
 
 
@@ -1018,13 +1005,13 @@ cf_cont <- cf_cont[! area %in% c('XXX', 'ROW') & !is.na(area)]
 cf_average <- cf_average[!is.na(area_code)]
 cf_average <- rbind(cf_average, cf_cont, fill=TRUE)
 
-# Apply continental average cf where no country-specific value available
+# Apply continental average CF where no country-specific value available
 cf_average <- merge(cf_average, cf_cont[, .(continent = area, com_code, cf_type, c_cf = cf)],
                      by = c("continent", "com_code", "cf_type"), all.x = TRUE)
 cf_average[is.na(cf), `:=`(cf = c_cf)]
 cf_average[, `:=`(c_cf = NULL)]
 
-# Apply world average cf where no continental average available
+# Apply world average CF where no continental average available
 cf_wrld <- cf_cont %>% 
   group_by(com_code, cf_type) %>% 
   summarize(w_cf = mean(cf, na.rm = TRUE)) %>% 
@@ -1036,14 +1023,13 @@ cf_average[, `:=`(w_cf = NULL, continent = NULL)]
 rm(cf_cont, cf_wrld)
 
 # Update cf_carbon_prep
-cf_average <- cf_average[, `:=`(description = NA, literature = NA, subcom_code = NA, subitem = NA, source = NA, source_code = NA)]
 cf_carbon_prep <- cf_carbon_prep[com_code != "c08"]
-cf_carbon_prep <- rbind(cf_carbon_prep, cf_average)
+cf_carbon_prep <- rbind(cf_carbon_prep, cf_average, fill = TRUE)
 
 rm(cf_average)
 
 
-cat("\nStep 5: Build  cf_density [odmt/m3p] for c17 Wood chips and particles and c18 Wood residues.\n")
+cat("\nStep 5: Build  cf_wdensity [odmt/m3p] for c17 wood chips and particles and c18 wood residues.\n")
 
 # Read file
 cf_use <- fread("inst/cf_use_tidy.csv")
@@ -1051,7 +1037,7 @@ cf_use_byprod <- cf_use[com_code %in% c("c17", "c18")]
 cf_use_byprod <- cf_use_byprod %>%
   rename(cf_use = cf)
 
-# Build averages of CF's type "cf_use_odmt"
+# Build averages of CFs type "cf_use_odmt"
 cf_odmt <- cf_carbon_prep[com_code %in% c("c17","c18")]
 
 ## Calculate continental averages
@@ -1091,7 +1077,7 @@ cf_odmt <- cf_odmt %>%
 # Prepare structure to calculate CFs
 cf_byprod <- unique(cf_carbon_prep[com_code %in% c("c17", "c18"),
                                      .(area_code, area, com_code, item)])
-cf_byprod[, `:=` (cf = NA, unit = "odmt/m3p", cf_type = "cf_density")]
+cf_byprod[, `:=` (cf = NA, unit = "odmt/m3p", cf_type = "cf_wdensity")]
 cf_byprod <- cf_byprod[, `:=`(cf = as.numeric(cf))]
 cf_byprod <- merge(cf_byprod,
                      cf_use_byprod[, .(area_code, area, com_code, item, cf_use, cf_use_unit = unit)],
@@ -1103,20 +1089,19 @@ cf_byprod <- merge(cf_byprod,
 
 rm(cf_odmt, cf_use_byprod, cf_use)
 
-# Calculate cf_density
+# Calculate cf_wdensity
 cf_byprod[, `:=`(cf = 1 / cf_odmt / cf_use)]
 cf_byprod[, `:=`(cf_use = NULL, cf_use_unit = NULL, cf_odmt = NULL, cf_odmt_unit = NULL)]
 cf_byprod <- cf_byprod[!is.na(area_code)]
 
 # Update cf_carbon_prep
-cf_byprod <- cf_byprod[, `:=`(description = NA, literature = NA, subcom_code = NA, subitem = NA, source = NA, source_code = NA)]
 cf_carbon_prep <- cf_carbon_prep[com_code %nin% c("c17", "c18")]
-cf_carbon_prep <- rbind(cf_carbon_prep, cf_byprod)
+cf_carbon_prep <- rbind(cf_carbon_prep, cf_byprod, fill = TRUE)
 
 rm(cf_byprod)
 
 
-cat("\nStep 6: Tidying the rest of cf_carbon_prep.\n")
+cat("\nStep 6: Tidy the rest of cf_carbon_prep.\n")
 
 cf_carbon_NA <- cf_carbon_prep[com_code %in% c("c04", "c05", "c09", "c10")]
 
@@ -1162,36 +1147,37 @@ cf_carbon_prep[unit %in% c("kg/m3", "kg/m3sw"), cf := cf / 1000]
 cf_carbon_prep[unit == "kg/m3", `:=` (unit = "tonne/m3")]
 cf_carbon_prep[unit == "kg/m3sw", `:=` (unit = "tonne/m3sw")]
 
-cat("\nStep 7: Write cf file for converting (bilateral data) items from tonnes to volume.\n")
-
-# Select items
+# Write cf file for converting (bilateral data) items from tonnes to volume to be use in other script
 cf_btd <- cf_carbon_prep[com_code %in% c("c03", "c09", "c10") & unit %in% c("tonne/m3", "m3rw/tonne")]
 
-# Make cfs and units consistent
 cf_btd <- cf_btd[com_code %in% c("c09", "c10"), `:=` (cf = 1 / cf)]
 cf_btd <- cf_btd[com_code %in% c("c09", "c10"), `:=` (unit = "m3/tonne")]
-
-# Edit and write
 cf_btd <- cf_btd[, `:=`(subitem = NULL, subcom_code = NULL)]
 cf_btd <- cf_btd[is.na(literature), `:=` (literature = "Own calculation")]
+
+# Apply factor of 1.5 to c18 wood residues (UNECE and FAO, 2010)
+cf_residues <- unique(cf_carbon_prep[com_code == "c18",
+                      .(area_code, area, com_code, item)])
+cf_residues[, `:=`(cf = 1.5, unit = "m3/tonne", cf_type = "cf_density", description = "volumen to weight",
+                   literature = "UNECE and FAO (2010)")]
+cf_btd <- rbind(cf_btd, cf_residues, fill = TRUE)
 cf_btd <- cf_btd[!is.na(area_code)]
 
 fwrite(cf_btd, "inst/cf_btd_tidy.csv")
 
-rm(cf_btd)
+rm(cf_residues, cf_btd)
 
 
-cat("\nStep 8: Tidying wood percentage content in wood-based panels.\n")
+cat("\nStep 7: Tidying wood percentage content in wood-based panels.\n")
 
 # Read file
-wbp <- fread("inst/wbp_comp_raw.csv")
+wbp <- fread("inst/wbp_raw.csv")
 wbp[wood == 0, wood := NA]
 
-# Build averages for c08 fiberboard
-# No weighted because not enough data
+# Build averages for c08 fiberboard, not weighted because not enough data
 wbp_fb <- wbp[com_code == "c08"]
 
-## Prepare structure to calculate average for c08 fiberboard
+# Prepare structure to calculate average for c08 fiberboard
 wbp_fb <- unique(wbp_fb[com_code == "c08",
                                  .(area_code, area, com_code, item)])
 wbp_fb[, `:=` (wood = NA)]
@@ -1221,14 +1207,14 @@ wbp_fb <- merge(wbp_fb,
 
 rm(wood_1, wood_2, wood_3)
 
-## Calculate average
+# Calculate average
 wbp_fb[!is.na(wood_1) & !is.na(wood_2) & !is.na(wood_3), `:=`(wood = na_sum(wood_1, wood_2, wood_3) / 3)]
 wbp_fb[is.na(wood) & is.na(wood_3) & !is.na(wood_1) & !is.na(wood_2), `:=`(wood = na_sum(wood_1, wood_2) / 2)]
 wbp_fb[is.na(wood) & is.na(wood_3) & is.na(wood_1) & !is.na(wood_2), `:=`(wood = wood_2)]
 
 wbp_fb[, `:=` (wood_1 = NULL, wood_2 = NULL, wood_3 = NULL)]
 
-## Recalculate continental averages (due to new countries' averages)
+# Recalculate continental averages (due to new countries' averages)
 wbp_fb <- merge(wbp_fb, regions[, .(area_code, continent)],
                     by = "area_code",
                     all.x = TRUE)
@@ -1261,13 +1247,11 @@ wbp_fb[, `:=`(w_wood = NULL, continent = NULL)]
 rm(wood_cont, wood_wrld)
 
 # Update wbp
-wbp_fb <- wbp_fb[, `:=`(literature = NA, subcom_code = NA, subitem = NA)]
+wbp_fb <- wbp_fb[, `:=`(literature = "Na")]
 wbp <- wbp[com_code !="c08"]
 wbp <- rbind(wbp, wbp_fb, fill = TRUE)
 
 rm(wbp_fb)
-
-## I AM HERE ##
 
 # Build continental and world average for the rest of commodities (c09 and c10)
 wbp_cont <- wbp[is.na(area_code)]
@@ -1287,65 +1271,60 @@ wbp <- merge(wbp, wbp_wrld,
 wbp[, `:=`(wood = ifelse(!is.na(wood), wood, 
                          ifelse(!is.na(c_wood), c_wood, w_wood)), 
            c_wood = NULL, w_wood = NULL)]
-wbp <- wbp[, c("continent", "area_code", "area", "com_code","item","wood")]
+rm(wbp_cont, wbp_wrld)
+wbp <- wbp[!is.na(area_code)]
+wbp <- wbp[, `:=` (subitem = NULL, subcom_code = NULL)]
 
-# Write file
-fwrite(wbp, "inst/wbp_tidy.csv")
+# Write wood content file
+wbp_wood <- wbp[, c("area_code", "area", "com_code","item","wood","literature_wood")]
+wbp_wood <- wbp_wood[is.na(literature_wood), `:=`(literature_wood = "Own calculations")]
+wbp_wood<- wbp_wood %>%
+  rename(literature = literature_wood)
+fwrite(wbp_wood, "inst/wbp_wood_tidy.csv")
 
-## WRITE ALSO FILE OF PARTICLE BOARD USING c19 
-rm(wbp, wbp_cont, wbp_wrld)
+# Write percentage of recycled fiber used
+wbp_recycledinput <- wbp[com_code == "c09", c("area_code", "area", "com_code","item", "recycled_fibre", "literature_recycledfibre")]
+wbp_recycledinput <- wbp_recycledinput[is.na(literature_recycledfibre), `:=`(literature_recycledfibre = "Own calculations")]
+wbp_recycledinput<- wbp_recycledinput %>%
+  rename(literature = literature_recycledfibre)
+fwrite(wbp_recycledinput, "inst/wbp_recycledinput_tidy.csv")
 
-## THIS IS COPY-PAST FROM OLD CALCULATION (BUT THIS STEP INDEED FOLLOWS)
-## step 9: Build (wood) basic density for wood-based panels (c08,c09,c10)
-cat("\nStep 9: Calculate (wood) basic density of wood-based panels.\n")
-
-# upload basic density and wood percentage data
-density <- fread("inst/density_tidy.csv")
-wbp <- fread("inst/wbp_tidy.csv")
-
-bd <- merge(density, wbp,
-            by = c("continent", "area_code", "area", "com_code", "item"), all.x = TRUE)
-
-# calculate wood basic density
-bd[, cf_bd := cf * (wood / 100)]
-
-bd[, `:=`(wood = NULL)]
+rm(wbp, wbp_recycledinput)
 
 
-cat("\nStep 10: Calculate basic density of sawnwood C, sawnwood NC, veneer and plywood .\n")
+cat("\nStep 8: Build wood basic density for wood-based panels (c08, c09, c10).\n")
 
-# Upload & tidy shrinkage data
-shrinkage <- fread ("inst/shrinkage.csv")
-shrinkage[shrinkage == 0, shrinkage := NA]
+# Select data
+cf_wbd <- cf_carbon_prep[com_code %in% c("c08", "c09", "c10")]
+cf_wbd <- cf_wbd[!is.na(area_code)]
+cf_wbd <- cf_wbd[,`:=`(literature = NULL)]
+cf_wbd <- merge(cf_wbd, wbp_wood,
+            by = c("area_code", "area", "com_code", "item"), all = TRUE)
 
-shrinkage_cont <- shrinkage[is.na(area_code)]
-shrinkage <- merge(shrinkage, regions[, .(area_code, continent)],
-                   by = "area_code")
-shrinkage[continent == "EU", continent := "EUR"]
+# Calculate wood basic density
+cf_wbd[, cf := cf * (wood / 100)]
+cf_wbd[, `:=`(wood = NULL)]
+cf_wbd[, `:=`(cf_type = "cf_wdensity", description = "wood basic density")]
 
-shrinkage_wrld <- shrinkage_cont %>% 
-  group_by(com_code, source_code) %>% 
-  summarize(w_shrinkage = mean(shrinkage, na.rm = TRUE)) %>% 
-  ungroup()
+# Update cf_carbon_prep
+cf_carbon_prep <- cf_carbon_prep[com_code %nin% c("c08", "c09", "c10")]
+cf_carbon_prep <- rbind(cf_carbon_prep, cf_wbd, fill = TRUE)
+cf_carbon_prep <- cf_carbon_prep[order(cf_carbon_prep$com_code, cf_carbon_prep$area_code),]
 
-shrinkage <- merge(shrinkage, shrinkage_cont[, .(continent = area, com_code, source_code, c_shrinkage = shrinkage)], 
-                   by = c("continent", "com_code", "source_code"), all.x = TRUE)
-
-shrinkage <- merge(shrinkage, shrinkage_wrld,
-                   by = c("com_code", "source_code"), all.x = TRUE)
-
-shrinkage[, `:=`(shrinkage = ifelse(!is.na(shrinkage), shrinkage, 
-                                    ifelse(!is.na(c_shrinkage), c_shrinkage, w_shrinkage)), 
-                 c_shrinkage = NULL, w_shrinkage = NULL)]
+rm(cf_wbd, wbp_wood)
 
 
-shrinkage <- shrinkage[, c("continent", "area_code", "area", "com_code","item","source_code","shrinkage")]
+cat("\nStep 9: Build basic density of sawnwood C, sawnwood NC, veneer and plywood .\n")
 
-fwrite(shrinkage, "inst/shrinkage_tidy.csv")
-rm(wbp, shrinkage_cont, shrinkage_wrld)
-
-# merge shrinkage data
+# Read file
 shrinkage <- fread ("inst/shrinkage_tidy.csv")
+
+# Re-structure shrinkage file
+# replace processes by commodities
+
+## I AM HERE ## 
+
+# Merge shrinkage data
 bd <- merge(bd, shrinkage,
             by = c("continent", "area_code", "area", "com_code", "item", "source_code"), all.x = TRUE)
 
@@ -1362,6 +1341,7 @@ bd[com_code %in% c("c06", "c07"),
    `:=`(cf_bd = cf * (100 - shrinkage) / (100 + 8))]
 
 bd[, `:=`(shrinkage = NULL)]
+
 
 cat("\nLast step: Building cf_carbon.\n")
 
@@ -1387,7 +1367,6 @@ rm(bd, carbon, carbon2, density, shrinkage)
 
 # FEEDSTOCK ESTIMATE -------------------------------------------------------------
 
-## 23.04 This has been copied from 08_use
 # Tidying estimates for feedstock composition for pulp production
 pulp <- fread("inst/pulp_feedstock_raw.csv")
 pulp[, `:=`(continent = regions$continent[match(pulp$area_code, regions$area_code)])]
@@ -1397,7 +1376,7 @@ pulp[, `:=`(roundwood = if_else(!is.na(roundwood), roundwood,
             chips = if_else(!is.na(chips), chips, 
                             chips[match(paste(pulp$continent, pulp$proc_code), paste(pulp$area, pulp$proc_code))]))]
 # Write file
-fwrite(pulp, "inst/pulp_feedstock_tidy.csv")n
+fwrite(pulp, "inst/pulp_feedstock_tidy.csv")
 
 
 # CF SWE (?) ---------------------------------------------------------------------

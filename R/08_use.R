@@ -175,16 +175,6 @@ results <- results[paste(com_code,com_code_proc) %in%
 results[, `:=`(proc_code =
   source_use[match(results$com_code_proc, source_use$com_code), proc_code])]
 
-## 23.04: This will be done in 01_tidy_cf
-# # Tidying estimates for feedstock composition for pulp production
-# pulp <- fread("inst/pulp_feedstock_raw.csv")
-# pulp[, `:=`(continent = regions$continent[match(pulp$area_code, regions$area_code)])]
-# pulp[continent == "EU", `:=`(continent = "EUR")]
-# pulp[, `:=`(roundwood = if_else(!is.na(roundwood), roundwood, 
-#   roundwood[match(paste(pulp$continent, pulp$proc_code), paste(pulp$area, pulp$proc_code))]),
-#   chips = if_else(!is.na(chips), chips, 
-#   chips[match(paste(pulp$continent, pulp$proc_code), paste(pulp$area, pulp$proc_code))]))]
-
 # Estimate feedstock composition for pulp production
 pulp <- fread("inst/pulp_feedstock_tidy.csv")
 results <- merge(results, pulp[, .(area_code, proc_code, roundwood, chips)],
@@ -204,19 +194,22 @@ results[proc_code %in% c("p08", "p09"),
 
 # Particle board production for the year 2017 which includes c19
 # Read share of c19 as inputs for particle board production
-wastepb <- fread("inst/waste_pb.csv")
+wbp_recyc <- fread("inst/wbp_recycledinput_tidy.csv")
+## 26.04: Processe_code needs to be exchanged for com_code
+wbp_recyc[com_code == proc_code]
+
 
 # Estimate feedstock composition for particle board production
-results <- merge(results, wastepb[, .(area_code, proc_code, waste)],
+results <- merge(results, wbp_recyc[, .(area_code, proc_code, recycled_fibre)],
                  by = c("area_code", "proc_code"), all.x = TRUE)
-results[proc_code %in% c("p09") & year>= 2017, `:=`(waste = if_else(is.na(waste), 0, waste))]
-results[proc_code %in% c("p09") & com_code == "c19", value := value * waste]
+results[proc_code %in% c("p09") & year>= 2017, `:=`(recycled_fibre = if_else(is.na(recycled_fibre), 0, recycled_fibre))]
+results[proc_code %in% c("p09") & com_code == "c19", value := value * recycled_fibre]
 results[proc_code %in% c("p09") & com_code == "c19" & value>0 & year == 2017]
 
 # Downscale the other inputs (c01, c02, c17, c18)
-results[, `:=`(primary = 1 - waste)]
+results[, `:=`(primary = 1 - recycled_fibre)]
 results[proc_code == "p09" & com_code != "c19" & year>= 2017 & !is.na(primary), `:=`(value = value*primary)]
-results[, `:=`(waste = NULL, primary = NULL)]
+results[, `:=`(recycled_fibre = NULL, primary = NULL)]
 results[com_code == "c19" & year< 2017, `:=`(value = 0)]
 
 # Redistribute c/nc use according to availability 
@@ -289,9 +282,6 @@ use[!is.na(value), `:=`(use = value)]
 use[, value := NULL]
 
 
-
-
-
 # 100% processes ------------------------------------------------------
 
 cat("Allocating items going directly to a process.\n\t",
@@ -305,14 +295,12 @@ use[, processing := NULL]
 use <- use[!is.na(use) & use != 0]
 
 
-
 # CF fill ------------------------------------------------------
 # we have allocated all remaining recovered paper to p14 paper production
 
 
-
-
 # Update CBS ------------------------------------------------------------
+
 # Subtract from cbs processing (per item) 
 cbs <- merge(cbs, use[, list(use = na_sum(use)), 
   by = c("area_code", "area", "year", "com_code", "item")],

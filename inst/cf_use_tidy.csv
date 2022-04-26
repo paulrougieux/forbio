@@ -4635,250 +4635,250 @@ area_code,area,com_code,item,source_code,source,unit,cf,cf_type,description,lite
 281,Saint-Martin (French Part),c14,Paper and paperboard,,,m3sw/tonne,2.8,cf_use,,Own calculation
 299,Palestine,c14,Paper and paperboard,,,m3sw/tonne,3.75444325518266,cf_use,,Own calculation
 999,RoW,c14,Paper and paperboard,,,m3sw/tonne,3.03572809710743,cf_use,,Own calculation
-1,Armenia,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.25,cf_use,solid wood m3 per tonne pellets,Own calculation
-2,Afghanistan,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.25,cf_use,solid wood m3 per tonne pellets,Own calculation
-3,Albania,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.192,cf_use,solid wood m3 per tonne pellets,Own calculation
-4,Algeria,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.17733333333333,cf_use,solid wood m3 per tonne pellets,Own calculation
-5,American Samoa,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.17733333333333,cf_use,solid wood m3 per tonne pellets,Own calculation
-6,Andorra,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.192,cf_use,solid wood m3 per tonne pellets,Own calculation
-7,Angola,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.17733333333333,cf_use,solid wood m3 per tonne pellets,Own calculation
-8,Antigua and Barbuda,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.17733333333333,cf_use,solid wood m3 per tonne pellets,Own calculation
-9,Argentina,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.17733333333333,cf_use,solid wood m3 per tonne pellets,Own calculation
-10,Australia,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.17733333333333,cf_use,solid wood m3 per tonne pellets,Own calculation
-11,Austria,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.21,cf_use,solid wood m3 per tonne pellets,"FAO, ITTO and United Nations (2020)"
-12,Bahamas,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.17733333333333,cf_use,solid wood m3 per tonne pellets,Own calculation
-13,Bahrain,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.25,cf_use,solid wood m3 per tonne pellets,Own calculation
-14,Barbados,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.17733333333333,cf_use,solid wood m3 per tonne pellets,Own calculation
-15,Belgium-Luxembourg,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.192,cf_use,solid wood m3 per tonne pellets,Own calculation
-16,Bangladesh,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.25,cf_use,solid wood m3 per tonne pellets,Own calculation
-17,Bermuda,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.17733333333333,cf_use,solid wood m3 per tonne pellets,Own calculation
-18,Bhutan,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.25,cf_use,solid wood m3 per tonne pellets,Own calculation
-19,Bolivia (Plurinational State of),c15,Wood pellets and agglomerates,,,m3sw/tonne,2.17733333333333,cf_use,solid wood m3 per tonne pellets,Own calculation
-20,Botswana,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.17733333333333,cf_use,solid wood m3 per tonne pellets,Own calculation
-21,Brazil,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.17733333333333,cf_use,solid wood m3 per tonne pellets,Own calculation
-22,Aruba,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.17733333333333,cf_use,solid wood m3 per tonne pellets,Own calculation
-23,Belize,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.17733333333333,cf_use,solid wood m3 per tonne pellets,Own calculation
-24,British Indian Ocean Territory,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.25,cf_use,solid wood m3 per tonne pellets,Own calculation
-25,Solomon Islands,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.17733333333333,cf_use,solid wood m3 per tonne pellets,Own calculation
-26,Brunei Darussalam,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.25,cf_use,solid wood m3 per tonne pellets,Own calculation
-27,Bulgaria,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.192,cf_use,solid wood m3 per tonne pellets,Own calculation
-28,Myanmar,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.25,cf_use,solid wood m3 per tonne pellets,Own calculation
-29,Burundi,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.17733333333333,cf_use,solid wood m3 per tonne pellets,Own calculation
-32,Cameroon,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.17733333333333,cf_use,solid wood m3 per tonne pellets,Own calculation
-33,Canada,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.09,cf_use,solid wood m3 per tonne pellets,Own calculation
-35,Cabo Verde,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.17733333333333,cf_use,solid wood m3 per tonne pellets,Own calculation
-36,Cayman Islands,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.17733333333333,cf_use,solid wood m3 per tonne pellets,Own calculation
-37,Central African Republic,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.17733333333333,cf_use,solid wood m3 per tonne pellets,Own calculation
-38,Sri Lanka,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.25,cf_use,solid wood m3 per tonne pellets,Own calculation
-39,Chad,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.17733333333333,cf_use,solid wood m3 per tonne pellets,Own calculation
-40,Chile,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.17733333333333,cf_use,solid wood m3 per tonne pellets,Own calculation
-41,"China, mainland",c15,Wood pellets and agglomerates,,,m3sw/tonne,2.2,cf_use,solid wood m3 per tonne pellets,"FAO, ITTO and United Nations (2020)"
-42,Christmas Island,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.17733333333333,cf_use,solid wood m3 per tonne pellets,Own calculation
-43,Cocos (Keeling) Islands,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.17733333333333,cf_use,solid wood m3 per tonne pellets,Own calculation
-44,Colombia,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.17733333333333,cf_use,solid wood m3 per tonne pellets,Own calculation
-45,Comoros,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.17733333333333,cf_use,solid wood m3 per tonne pellets,Own calculation
-46,Congo,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.17733333333333,cf_use,solid wood m3 per tonne pellets,Own calculation
-47,Cook Islands,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.17733333333333,cf_use,solid wood m3 per tonne pellets,Own calculation
-48,Costa Rica,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.17733333333333,cf_use,solid wood m3 per tonne pellets,Own calculation
-49,Cuba,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.17733333333333,cf_use,solid wood m3 per tonne pellets,Own calculation
-50,Cyprus,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.192,cf_use,solid wood m3 per tonne pellets,Own calculation
-51,Czechoslovakia,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.192,cf_use,solid wood m3 per tonne pellets,Own calculation
-52,Azerbaijan,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.25,cf_use,solid wood m3 per tonne pellets,Own calculation
-53,Benin,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.17733333333333,cf_use,solid wood m3 per tonne pellets,Own calculation
-54,Denmark,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.192,cf_use,solid wood m3 per tonne pellets,Own calculation
-55,Dominica,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.17733333333333,cf_use,solid wood m3 per tonne pellets,Own calculation
-56,Dominican Republic,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.17733333333333,cf_use,solid wood m3 per tonne pellets,Own calculation
-57,Belarus,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.192,cf_use,solid wood m3 per tonne pellets,Own calculation
-58,Ecuador,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.17733333333333,cf_use,solid wood m3 per tonne pellets,Own calculation
-59,Egypt,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.17733333333333,cf_use,solid wood m3 per tonne pellets,Own calculation
-60,El Salvador,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.17733333333333,cf_use,solid wood m3 per tonne pellets,Own calculation
-61,Equatorial Guinea,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.17733333333333,cf_use,solid wood m3 per tonne pellets,Own calculation
-63,Estonia,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.192,cf_use,solid wood m3 per tonne pellets,Own calculation
-64,Faroe Islands,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.192,cf_use,solid wood m3 per tonne pellets,Own calculation
-65,Falkland Islands (Malvinas),c15,Wood pellets and agglomerates,,,m3sw/tonne,2.17733333333333,cf_use,solid wood m3 per tonne pellets,Own calculation
-66,Fiji,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.17733333333333,cf_use,solid wood m3 per tonne pellets,Own calculation
-67,Finland,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.32,cf_use,solid wood m3 per tonne pellets,"FAO, ITTO and United Nations (2020)"
-68,France,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.39,cf_use,solid wood m3 per tonne pellets,"FAO, ITTO and United Nations (2020)"
-69,French Guyana,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.17733333333333,cf_use,solid wood m3 per tonne pellets,Own calculation
-70,French Polynesia,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.17733333333333,cf_use,solid wood m3 per tonne pellets,Own calculation
-71,French Southern and Antarctic Territories,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.17733333333333,cf_use,solid wood m3 per tonne pellets,Own calculation
-72,Djibouti,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.17733333333333,cf_use,solid wood m3 per tonne pellets,Own calculation
-73,Georgia,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.25,cf_use,solid wood m3 per tonne pellets,Own calculation
-74,Gabon,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.17733333333333,cf_use,solid wood m3 per tonne pellets,Own calculation
-75,Gambia,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.17733333333333,cf_use,solid wood m3 per tonne pellets,Own calculation
-79,Germany,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.29,cf_use,solid wood m3 per tonne pellets,"FAO, ITTO and United Nations (2020)"
-80,Bosnia and Herzegovina,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.192,cf_use,solid wood m3 per tonne pellets,Own calculation
-81,Ghana,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.17733333333333,cf_use,solid wood m3 per tonne pellets,Own calculation
-82,Gibraltar,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.192,cf_use,solid wood m3 per tonne pellets,Own calculation
-83,Kiribati,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.17733333333333,cf_use,solid wood m3 per tonne pellets,Own calculation
-84,Greece,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.192,cf_use,solid wood m3 per tonne pellets,Own calculation
-85,Greenland,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.192,cf_use,solid wood m3 per tonne pellets,Own calculation
-86,Grenada,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.17733333333333,cf_use,solid wood m3 per tonne pellets,Own calculation
-87,Guadeloupe,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.17733333333333,cf_use,solid wood m3 per tonne pellets,Own calculation
-88,Guam,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.17733333333333,cf_use,solid wood m3 per tonne pellets,Own calculation
-89,Guatemala,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.17733333333333,cf_use,solid wood m3 per tonne pellets,Own calculation
-90,Guinea,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.17733333333333,cf_use,solid wood m3 per tonne pellets,Own calculation
-91,Guyana,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.17733333333333,cf_use,solid wood m3 per tonne pellets,Own calculation
-93,Haiti,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.17733333333333,cf_use,solid wood m3 per tonne pellets,Own calculation
-94,Holy See,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.192,cf_use,solid wood m3 per tonne pellets,Own calculation
-95,Honduras,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.17733333333333,cf_use,solid wood m3 per tonne pellets,Own calculation
-96,"China, Hong Kong SAR",c15,Wood pellets and agglomerates,,,m3sw/tonne,2.25,cf_use,solid wood m3 per tonne pellets,Own calculation
-97,Hungary,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.192,cf_use,solid wood m3 per tonne pellets,Own calculation
-98,Croatia,c15,Wood pellets and agglomerates,,,m3sw/tonne,1.82,cf_use,solid wood m3 per tonne pellets,"FAO, ITTO and United Nations (2020)"
-99,Iceland,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.192,cf_use,solid wood m3 per tonne pellets,Own calculation
-100,India,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.25,cf_use,solid wood m3 per tonne pellets,Own calculation
-101,Indonesia,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.3,cf_use,solid wood m3 per tonne pellets,"FAO, ITTO and United Nations (2020)"
-102,Iran (Islamic Republic of),c15,Wood pellets and agglomerates,,,m3sw/tonne,2.25,cf_use,solid wood m3 per tonne pellets,Own calculation
-103,Iraq,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.25,cf_use,solid wood m3 per tonne pellets,Own calculation
-104,Ireland,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.192,cf_use,solid wood m3 per tonne pellets,Own calculation
-105,Israel,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.25,cf_use,solid wood m3 per tonne pellets,Own calculation
-106,Italy,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.192,cf_use,solid wood m3 per tonne pellets,Own calculation
-107,Cote d'Ivoire,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.17733333333333,cf_use,solid wood m3 per tonne pellets,Own calculation
-108,Kazakhstan,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.25,cf_use,solid wood m3 per tonne pellets,Own calculation
-109,Jamaica,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.17733333333333,cf_use,solid wood m3 per tonne pellets,Own calculation
-110,Japan,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.25,cf_use,solid wood m3 per tonne pellets,Own calculation
-112,Jordan,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.25,cf_use,solid wood m3 per tonne pellets,Own calculation
-113,Kyrgyzstan,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.25,cf_use,solid wood m3 per tonne pellets,Own calculation
-114,Kenya,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.17733333333333,cf_use,solid wood m3 per tonne pellets,Own calculation
-115,Cambodia,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.25,cf_use,solid wood m3 per tonne pellets,Own calculation
-116,Democratic People's Republic of Korea,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.25,cf_use,solid wood m3 per tonne pellets,Own calculation
-117,Republic of Korea,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.25,cf_use,solid wood m3 per tonne pellets,Own calculation
-118,Kuwait,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.25,cf_use,solid wood m3 per tonne pellets,Own calculation
-119,Latvia,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.192,cf_use,solid wood m3 per tonne pellets,Own calculation
-120,Lao People's Democratic Republic,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.25,cf_use,solid wood m3 per tonne pellets,Own calculation
-121,Lebanon,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.25,cf_use,solid wood m3 per tonne pellets,Own calculation
-122,Lesotho,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.17733333333333,cf_use,solid wood m3 per tonne pellets,Own calculation
-123,Liberia,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.17733333333333,cf_use,solid wood m3 per tonne pellets,Own calculation
-124,Libya,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.17733333333333,cf_use,solid wood m3 per tonne pellets,Own calculation
-125,Liechtenstein,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.192,cf_use,solid wood m3 per tonne pellets,Own calculation
-126,Lithuania,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.16,cf_use,solid wood m3 per tonne pellets,"FAO, ITTO and United Nations (2020)"
-127,Marshall Islands,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.17733333333333,cf_use,solid wood m3 per tonne pellets,Own calculation
-128,"China, Macao SAR",c15,Wood pellets and agglomerates,,,m3sw/tonne,2.25,cf_use,solid wood m3 per tonne pellets,Own calculation
-129,Madagascar,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.17733333333333,cf_use,solid wood m3 per tonne pellets,Own calculation
-130,Malawi,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.17733333333333,cf_use,solid wood m3 per tonne pellets,Own calculation
-131,Malaysia,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.25,cf_use,solid wood m3 per tonne pellets,"FAO, ITTO and United Nations (2020)"
-132,Maldives,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.25,cf_use,solid wood m3 per tonne pellets,Own calculation
-133,Mali,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.17733333333333,cf_use,solid wood m3 per tonne pellets,Own calculation
-134,Malta,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.192,cf_use,solid wood m3 per tonne pellets,Own calculation
-135,Martinique,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.17733333333333,cf_use,solid wood m3 per tonne pellets,Own calculation
-136,Mauritania,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.17733333333333,cf_use,solid wood m3 per tonne pellets,Own calculation
-137,Mauritius,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.17733333333333,cf_use,solid wood m3 per tonne pellets,Own calculation
-138,Mexico,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.17733333333333,cf_use,solid wood m3 per tonne pellets,Own calculation
-141,Mongolia,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.25,cf_use,solid wood m3 per tonne pellets,Own calculation
-142,Montserrat,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.17733333333333,cf_use,solid wood m3 per tonne pellets,Own calculation
-143,Morocco,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.17733333333333,cf_use,solid wood m3 per tonne pellets,Own calculation
-144,Mozambique,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.17733333333333,cf_use,solid wood m3 per tonne pellets,Own calculation
-145,Micronesia (Federated States of),c15,Wood pellets and agglomerates,,,m3sw/tonne,2.17733333333333,cf_use,solid wood m3 per tonne pellets,Own calculation
-146,Republic of Moldova,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.192,cf_use,solid wood m3 per tonne pellets,Own calculation
-147,Namibia,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.17733333333333,cf_use,solid wood m3 per tonne pellets,Own calculation
-148,Nauru,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.17733333333333,cf_use,solid wood m3 per tonne pellets,Own calculation
-149,Nepal,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.25,cf_use,solid wood m3 per tonne pellets,Own calculation
-150,Netherlands,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.192,cf_use,solid wood m3 per tonne pellets,Own calculation
-151,Netherlands Antilles,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.17733333333333,cf_use,solid wood m3 per tonne pellets,Own calculation
-153,New Caledonia,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.17733333333333,cf_use,solid wood m3 per tonne pellets,Own calculation
-154,North Macedonia,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.192,cf_use,solid wood m3 per tonne pellets,Own calculation
-155,Vanuatu,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.17733333333333,cf_use,solid wood m3 per tonne pellets,Own calculation
-156,New Zealand,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.17733333333333,cf_use,solid wood m3 per tonne pellets,Own calculation
-157,Nicaragua,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.17733333333333,cf_use,solid wood m3 per tonne pellets,Own calculation
-158,Niger,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.17733333333333,cf_use,solid wood m3 per tonne pellets,Own calculation
-159,Nigeria,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.17733333333333,cf_use,solid wood m3 per tonne pellets,Own calculation
-160,Niue,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.17733333333333,cf_use,solid wood m3 per tonne pellets,Own calculation
-161,Norfolk Island,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.17733333333333,cf_use,solid wood m3 per tonne pellets,Own calculation
-162,Norway,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.27,cf_use,solid wood m3 per tonne pellets,"FAO, ITTO and United Nations (2020)"
-163,Northern Mariana Islands,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.17733333333333,cf_use,solid wood m3 per tonne pellets,Own calculation
-164,Pacific Islands Trust Territory,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.25,cf_use,solid wood m3 per tonne pellets,Own calculation
-165,Pakistan,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.25,cf_use,solid wood m3 per tonne pellets,Own calculation
-166,Panama,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.17733333333333,cf_use,solid wood m3 per tonne pellets,Own calculation
-167,Czechia,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.192,cf_use,solid wood m3 per tonne pellets,Own calculation
-168,Papua New Guinea,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.17733333333333,cf_use,solid wood m3 per tonne pellets,Own calculation
-169,Paraguay,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.17733333333333,cf_use,solid wood m3 per tonne pellets,Own calculation
-170,Peru,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.17733333333333,cf_use,solid wood m3 per tonne pellets,Own calculation
-171,Philippines,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.25,cf_use,solid wood m3 per tonne pellets,Own calculation
-172,Pitcairn Islands,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.17733333333333,cf_use,solid wood m3 per tonne pellets,Own calculation
-173,Poland,c15,Wood pellets and agglomerates,,,m3sw/tonne,2,cf_use,solid wood m3 per tonne pellets,"FAO, ITTO and United Nations (2020)"
-174,Portugal,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.192,cf_use,solid wood m3 per tonne pellets,Own calculation
-175,Guinea-Bissau,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.17733333333333,cf_use,solid wood m3 per tonne pellets,Own calculation
-176,Timor-Leste,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.25,cf_use,solid wood m3 per tonne pellets,Own calculation
-178,Eritrea,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.17733333333333,cf_use,solid wood m3 per tonne pellets,Own calculation
-179,Qatar,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.25,cf_use,solid wood m3 per tonne pellets,Own calculation
-180,Palau,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.17733333333333,cf_use,solid wood m3 per tonne pellets,Own calculation
-181,Zimbabwe,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.17733333333333,cf_use,solid wood m3 per tonne pellets,Own calculation
-182,Reunion,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.17733333333333,cf_use,solid wood m3 per tonne pellets,Own calculation
-183,Romania,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.192,cf_use,solid wood m3 per tonne pellets,Own calculation
-184,Rwanda,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.17733333333333,cf_use,solid wood m3 per tonne pellets,Own calculation
-185,Russian Federation,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.192,cf_use,solid wood m3 per tonne pellets,Own calculation
-186,Serbia and Montenegro,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.192,cf_use,solid wood m3 per tonne pellets,Own calculation
-187,"Saint Helena, Ascension and Tristan da Cunha",c15,Wood pellets and agglomerates,,,m3sw/tonne,2.17733333333333,cf_use,solid wood m3 per tonne pellets,Own calculation
-188,Saint Kitts and Nevis,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.17733333333333,cf_use,solid wood m3 per tonne pellets,Own calculation
-189,Saint Lucia,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.17733333333333,cf_use,solid wood m3 per tonne pellets,Own calculation
-190,Saint Pierre and Miquelon,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.09,cf_use,solid wood m3 per tonne pellets,Own calculation
-191,Saint Vincent and the Grenadines,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.17733333333333,cf_use,solid wood m3 per tonne pellets,Own calculation
-192,San Marino,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.192,cf_use,solid wood m3 per tonne pellets,Own calculation
-193,Sao Tome and Principe,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.17733333333333,cf_use,solid wood m3 per tonne pellets,Own calculation
-194,Saudi Arabia,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.25,cf_use,solid wood m3 per tonne pellets,Own calculation
-195,Senegal,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.17733333333333,cf_use,solid wood m3 per tonne pellets,Own calculation
-196,Seychelles,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.17733333333333,cf_use,solid wood m3 per tonne pellets,Own calculation
-197,Sierra Leone,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.17733333333333,cf_use,solid wood m3 per tonne pellets,Own calculation
-198,Slovenia,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.1,cf_use,solid wood m3 per tonne pellets,"FAO, ITTO and United Nations (2020)"
-199,Slovakia,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.192,cf_use,solid wood m3 per tonne pellets,Own calculation
-200,Singapore,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.25,cf_use,solid wood m3 per tonne pellets,Own calculation
-201,Somalia,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.17733333333333,cf_use,solid wood m3 per tonne pellets,Own calculation
-202,South Africa,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.17733333333333,cf_use,solid wood m3 per tonne pellets,Own calculation
-203,Spain,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.192,cf_use,solid wood m3 per tonne pellets,Own calculation
-205,Western Sahara,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.17733333333333,cf_use,solid wood m3 per tonne pellets,Own calculation
-207,Suriname,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.17733333333333,cf_use,solid wood m3 per tonne pellets,Own calculation
-208,Tajikistan,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.25,cf_use,solid wood m3 per tonne pellets,Own calculation
-209,Eswatini,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.17733333333333,cf_use,solid wood m3 per tonne pellets,Own calculation
-210,Sweden,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.192,cf_use,solid wood m3 per tonne pellets,Own calculation
-211,Switzerland,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.192,cf_use,solid wood m3 per tonne pellets,Own calculation
-212,Syrian Arab Republic,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.25,cf_use,solid wood m3 per tonne pellets,Own calculation
-213,Turkmenistan,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.25,cf_use,solid wood m3 per tonne pellets,Own calculation
-214,"China, Taiwan Province of",c15,Wood pellets and agglomerates,,,m3sw/tonne,2.25,cf_use,solid wood m3 per tonne pellets,Own calculation
-215,United Republic of Tanzania,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.17733333333333,cf_use,solid wood m3 per tonne pellets,Own calculation
-216,Thailand,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.25,cf_use,solid wood m3 per tonne pellets,Own calculation
-217,Togo,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.17733333333333,cf_use,solid wood m3 per tonne pellets,Own calculation
-218,Tokelau,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.17733333333333,cf_use,solid wood m3 per tonne pellets,Own calculation
-219,Tonga,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.17733333333333,cf_use,solid wood m3 per tonne pellets,Own calculation
-220,Trinidad and Tobago,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.17733333333333,cf_use,solid wood m3 per tonne pellets,Own calculation
-221,Oman,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.25,cf_use,solid wood m3 per tonne pellets,Own calculation
-222,Tunisia,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.17733333333333,cf_use,solid wood m3 per tonne pellets,Own calculation
-223,Turkey,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.192,cf_use,solid wood m3 per tonne pellets,Own calculation
-224,Turks and Caicos Islands,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.17733333333333,cf_use,solid wood m3 per tonne pellets,Own calculation
-225,United Arab Emirates,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.25,cf_use,solid wood m3 per tonne pellets,Own calculation
-226,Uganda,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.17733333333333,cf_use,solid wood m3 per tonne pellets,Own calculation
-227,Tuvalu,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.17733333333333,cf_use,solid wood m3 per tonne pellets,Own calculation
-228,USSR,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.25,cf_use,solid wood m3 per tonne pellets,Own calculation
-229,United Kingdom,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.192,cf_use,solid wood m3 per tonne pellets,Own calculation
-230,Ukraine,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.36,cf_use,solid wood m3 per tonne pellets,"FAO, ITTO and United Nations (2020)"
-231,United States of America,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.09,cf_use,solid wood m3 per tonne pellets,"FAO, ITTO and United Nations (2020)"
-233,Burkina Faso,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.17733333333333,cf_use,solid wood m3 per tonne pellets,Own calculation
-234,Uruguay,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.17733333333333,cf_use,solid wood m3 per tonne pellets,Own calculation
-235,Uzbekistan,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.25,cf_use,solid wood m3 per tonne pellets,Own calculation
-236,Venezuela (Bolivarian Republic of),c15,Wood pellets and agglomerates,,,m3sw/tonne,2.17733333333333,cf_use,solid wood m3 per tonne pellets,Own calculation
-237,Viet Nam,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.25,cf_use,solid wood m3 per tonne pellets,Own calculation
-238,Ethiopia,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.17733333333333,cf_use,solid wood m3 per tonne pellets,Own calculation
-239,British Virgin Islands,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.17733333333333,cf_use,solid wood m3 per tonne pellets,Own calculation
-242,Wake Island,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.17733333333333,cf_use,solid wood m3 per tonne pellets,Own calculation
-243,Wallis and Futuna Islands,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.17733333333333,cf_use,solid wood m3 per tonne pellets,Own calculation
-244,Samoa,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.17733333333333,cf_use,solid wood m3 per tonne pellets,Own calculation
-248,Yugoslav SFR,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.192,cf_use,solid wood m3 per tonne pellets,Own calculation
-249,Yemen,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.25,cf_use,solid wood m3 per tonne pellets,Own calculation
-250,Democratic Republic of the Congo,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.17733333333333,cf_use,solid wood m3 per tonne pellets,Own calculation
-251,Zambia,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.17733333333333,cf_use,solid wood m3 per tonne pellets,Own calculation
-252,Unspecified Area,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.17733333333333,cf_use,solid wood m3 per tonne pellets,Own calculation
-254,Others (adjustment),c15,Wood pellets and agglomerates,,,m3sw/tonne,2.17733333333333,cf_use,solid wood m3 per tonne pellets,Own calculation
-255,Belgium,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.192,cf_use,solid wood m3 per tonne pellets,Own calculation
-256,Luxembourg,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.192,cf_use,solid wood m3 per tonne pellets,Own calculation
-258,Anguilla,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.17733333333333,cf_use,solid wood m3 per tonne pellets,Own calculation
-270,Mayotte,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.17733333333333,cf_use,solid wood m3 per tonne pellets,Own calculation
-272,Serbia,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.192,cf_use,solid wood m3 per tonne pellets,Own calculation
-273,Montenegro,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.192,cf_use,solid wood m3 per tonne pellets,Own calculation
-276,Sudan,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.17733333333333,cf_use,solid wood m3 per tonne pellets,Own calculation
-277,South Sudan,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.17733333333333,cf_use,solid wood m3 per tonne pellets,Own calculation
-279,Curaçao,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.17733333333333,cf_use,solid wood m3 per tonne pellets,Own calculation
-281,Saint-Martin (French Part),c15,Wood pellets and agglomerates,,,m3sw/tonne,2.17733333333333,cf_use,solid wood m3 per tonne pellets,Own calculation
-299,Palestine,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.25,cf_use,solid wood m3 per tonne pellets,Own calculation
-999,RoW,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.17733333333333,cf_use,solid wood m3 per tonne pellets,Own calculation
+1,Armenia,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.25,cf_use,solid wood m3 per tonne pellets (5-10% mcw),Own calculation
+2,Afghanistan,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.25,cf_use,solid wood m3 per tonne pellets (5-10% mcw),Own calculation
+3,Albania,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.192,cf_use,solid wood m3 per tonne pellets (5-10% mcw),Own calculation
+4,Algeria,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.17733333333333,cf_use,solid wood m3 per tonne pellets (5-10% mcw),Own calculation
+5,American Samoa,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.17733333333333,cf_use,solid wood m3 per tonne pellets (5-10% mcw),Own calculation
+6,Andorra,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.192,cf_use,solid wood m3 per tonne pellets (5-10% mcw),Own calculation
+7,Angola,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.17733333333333,cf_use,solid wood m3 per tonne pellets (5-10% mcw),Own calculation
+8,Antigua and Barbuda,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.17733333333333,cf_use,solid wood m3 per tonne pellets (5-10% mcw),Own calculation
+9,Argentina,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.17733333333333,cf_use,solid wood m3 per tonne pellets (5-10% mcw),Own calculation
+10,Australia,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.17733333333333,cf_use,solid wood m3 per tonne pellets (5-10% mcw),Own calculation
+11,Austria,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.21,cf_use,solid wood m3 per tonne pellets (5-10% mcw),"FAO, ITTO and United Nations (2020)"
+12,Bahamas,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.17733333333333,cf_use,solid wood m3 per tonne pellets (5-10% mcw),Own calculation
+13,Bahrain,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.25,cf_use,solid wood m3 per tonne pellets (5-10% mcw),Own calculation
+14,Barbados,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.17733333333333,cf_use,solid wood m3 per tonne pellets (5-10% mcw),Own calculation
+15,Belgium-Luxembourg,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.192,cf_use,solid wood m3 per tonne pellets (5-10% mcw),Own calculation
+16,Bangladesh,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.25,cf_use,solid wood m3 per tonne pellets (5-10% mcw),Own calculation
+17,Bermuda,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.17733333333333,cf_use,solid wood m3 per tonne pellets (5-10% mcw),Own calculation
+18,Bhutan,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.25,cf_use,solid wood m3 per tonne pellets (5-10% mcw),Own calculation
+19,Bolivia (Plurinational State of),c15,Wood pellets and agglomerates,,,m3sw/tonne,2.17733333333333,cf_use,solid wood m3 per tonne pellets (5-10% mcw),Own calculation
+20,Botswana,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.17733333333333,cf_use,solid wood m3 per tonne pellets (5-10% mcw),Own calculation
+21,Brazil,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.17733333333333,cf_use,solid wood m3 per tonne pellets (5-10% mcw),Own calculation
+22,Aruba,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.17733333333333,cf_use,solid wood m3 per tonne pellets (5-10% mcw),Own calculation
+23,Belize,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.17733333333333,cf_use,solid wood m3 per tonne pellets (5-10% mcw),Own calculation
+24,British Indian Ocean Territory,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.25,cf_use,solid wood m3 per tonne pellets (5-10% mcw),Own calculation
+25,Solomon Islands,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.17733333333333,cf_use,solid wood m3 per tonne pellets (5-10% mcw),Own calculation
+26,Brunei Darussalam,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.25,cf_use,solid wood m3 per tonne pellets (5-10% mcw),Own calculation
+27,Bulgaria,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.192,cf_use,solid wood m3 per tonne pellets (5-10% mcw),Own calculation
+28,Myanmar,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.25,cf_use,solid wood m3 per tonne pellets (5-10% mcw),Own calculation
+29,Burundi,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.17733333333333,cf_use,solid wood m3 per tonne pellets (5-10% mcw),Own calculation
+32,Cameroon,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.17733333333333,cf_use,solid wood m3 per tonne pellets (5-10% mcw),Own calculation
+33,Canada,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.09,cf_use,solid wood m3 per tonne pellets (5-10% mcw),Own calculation
+35,Cabo Verde,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.17733333333333,cf_use,solid wood m3 per tonne pellets (5-10% mcw),Own calculation
+36,Cayman Islands,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.17733333333333,cf_use,solid wood m3 per tonne pellets (5-10% mcw),Own calculation
+37,Central African Republic,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.17733333333333,cf_use,solid wood m3 per tonne pellets (5-10% mcw),Own calculation
+38,Sri Lanka,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.25,cf_use,solid wood m3 per tonne pellets (5-10% mcw),Own calculation
+39,Chad,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.17733333333333,cf_use,solid wood m3 per tonne pellets (5-10% mcw),Own calculation
+40,Chile,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.17733333333333,cf_use,solid wood m3 per tonne pellets (5-10% mcw),Own calculation
+41,"China, mainland",c15,Wood pellets and agglomerates,,,m3sw/tonne,2.2,cf_use,solid wood m3 per tonne pellets (5-10% mcw),"FAO, ITTO and United Nations (2020)"
+42,Christmas Island,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.17733333333333,cf_use,solid wood m3 per tonne pellets (5-10% mcw),Own calculation
+43,Cocos (Keeling) Islands,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.17733333333333,cf_use,solid wood m3 per tonne pellets (5-10% mcw),Own calculation
+44,Colombia,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.17733333333333,cf_use,solid wood m3 per tonne pellets (5-10% mcw),Own calculation
+45,Comoros,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.17733333333333,cf_use,solid wood m3 per tonne pellets (5-10% mcw),Own calculation
+46,Congo,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.17733333333333,cf_use,solid wood m3 per tonne pellets (5-10% mcw),Own calculation
+47,Cook Islands,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.17733333333333,cf_use,solid wood m3 per tonne pellets (5-10% mcw),Own calculation
+48,Costa Rica,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.17733333333333,cf_use,solid wood m3 per tonne pellets (5-10% mcw),Own calculation
+49,Cuba,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.17733333333333,cf_use,solid wood m3 per tonne pellets (5-10% mcw),Own calculation
+50,Cyprus,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.192,cf_use,solid wood m3 per tonne pellets (5-10% mcw),Own calculation
+51,Czechoslovakia,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.192,cf_use,solid wood m3 per tonne pellets (5-10% mcw),Own calculation
+52,Azerbaijan,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.25,cf_use,solid wood m3 per tonne pellets (5-10% mcw),Own calculation
+53,Benin,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.17733333333333,cf_use,solid wood m3 per tonne pellets (5-10% mcw),Own calculation
+54,Denmark,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.192,cf_use,solid wood m3 per tonne pellets (5-10% mcw),Own calculation
+55,Dominica,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.17733333333333,cf_use,solid wood m3 per tonne pellets (5-10% mcw),Own calculation
+56,Dominican Republic,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.17733333333333,cf_use,solid wood m3 per tonne pellets (5-10% mcw),Own calculation
+57,Belarus,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.192,cf_use,solid wood m3 per tonne pellets (5-10% mcw),Own calculation
+58,Ecuador,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.17733333333333,cf_use,solid wood m3 per tonne pellets (5-10% mcw),Own calculation
+59,Egypt,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.17733333333333,cf_use,solid wood m3 per tonne pellets (5-10% mcw),Own calculation
+60,El Salvador,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.17733333333333,cf_use,solid wood m3 per tonne pellets (5-10% mcw),Own calculation
+61,Equatorial Guinea,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.17733333333333,cf_use,solid wood m3 per tonne pellets (5-10% mcw),Own calculation
+63,Estonia,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.192,cf_use,solid wood m3 per tonne pellets (5-10% mcw),Own calculation
+64,Faroe Islands,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.192,cf_use,solid wood m3 per tonne pellets (5-10% mcw),Own calculation
+65,Falkland Islands (Malvinas),c15,Wood pellets and agglomerates,,,m3sw/tonne,2.17733333333333,cf_use,solid wood m3 per tonne pellets (5-10% mcw),Own calculation
+66,Fiji,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.17733333333333,cf_use,solid wood m3 per tonne pellets (5-10% mcw),Own calculation
+67,Finland,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.32,cf_use,solid wood m3 per tonne pellets (5-10% mcw),"FAO, ITTO and United Nations (2020)"
+68,France,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.39,cf_use,solid wood m3 per tonne pellets (5-10% mcw),"FAO, ITTO and United Nations (2020)"
+69,French Guyana,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.17733333333333,cf_use,solid wood m3 per tonne pellets (5-10% mcw),Own calculation
+70,French Polynesia,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.17733333333333,cf_use,solid wood m3 per tonne pellets (5-10% mcw),Own calculation
+71,French Southern and Antarctic Territories,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.17733333333333,cf_use,solid wood m3 per tonne pellets (5-10% mcw),Own calculation
+72,Djibouti,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.17733333333333,cf_use,solid wood m3 per tonne pellets (5-10% mcw),Own calculation
+73,Georgia,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.25,cf_use,solid wood m3 per tonne pellets (5-10% mcw),Own calculation
+74,Gabon,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.17733333333333,cf_use,solid wood m3 per tonne pellets (5-10% mcw),Own calculation
+75,Gambia,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.17733333333333,cf_use,solid wood m3 per tonne pellets (5-10% mcw),Own calculation
+79,Germany,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.29,cf_use,solid wood m3 per tonne pellets (5-10% mcw),"FAO, ITTO and United Nations (2020)"
+80,Bosnia and Herzegovina,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.192,cf_use,solid wood m3 per tonne pellets (5-10% mcw),Own calculation
+81,Ghana,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.17733333333333,cf_use,solid wood m3 per tonne pellets (5-10% mcw),Own calculation
+82,Gibraltar,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.192,cf_use,solid wood m3 per tonne pellets (5-10% mcw),Own calculation
+83,Kiribati,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.17733333333333,cf_use,solid wood m3 per tonne pellets (5-10% mcw),Own calculation
+84,Greece,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.192,cf_use,solid wood m3 per tonne pellets (5-10% mcw),Own calculation
+85,Greenland,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.192,cf_use,solid wood m3 per tonne pellets (5-10% mcw),Own calculation
+86,Grenada,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.17733333333333,cf_use,solid wood m3 per tonne pellets (5-10% mcw),Own calculation
+87,Guadeloupe,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.17733333333333,cf_use,solid wood m3 per tonne pellets (5-10% mcw),Own calculation
+88,Guam,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.17733333333333,cf_use,solid wood m3 per tonne pellets (5-10% mcw),Own calculation
+89,Guatemala,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.17733333333333,cf_use,solid wood m3 per tonne pellets (5-10% mcw),Own calculation
+90,Guinea,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.17733333333333,cf_use,solid wood m3 per tonne pellets (5-10% mcw),Own calculation
+91,Guyana,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.17733333333333,cf_use,solid wood m3 per tonne pellets (5-10% mcw),Own calculation
+93,Haiti,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.17733333333333,cf_use,solid wood m3 per tonne pellets (5-10% mcw),Own calculation
+94,Holy See,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.192,cf_use,solid wood m3 per tonne pellets (5-10% mcw),Own calculation
+95,Honduras,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.17733333333333,cf_use,solid wood m3 per tonne pellets (5-10% mcw),Own calculation
+96,"China, Hong Kong SAR",c15,Wood pellets and agglomerates,,,m3sw/tonne,2.25,cf_use,solid wood m3 per tonne pellets (5-10% mcw),Own calculation
+97,Hungary,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.192,cf_use,solid wood m3 per tonne pellets (5-10% mcw),Own calculation
+98,Croatia,c15,Wood pellets and agglomerates,,,m3sw/tonne,1.82,cf_use,solid wood m3 per tonne pellets (5-10% mcw),"FAO, ITTO and United Nations (2020)"
+99,Iceland,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.192,cf_use,solid wood m3 per tonne pellets (5-10% mcw),Own calculation
+100,India,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.25,cf_use,solid wood m3 per tonne pellets (5-10% mcw),Own calculation
+101,Indonesia,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.3,cf_use,solid wood m3 per tonne pellets (5-10% mcw),"FAO, ITTO and United Nations (2020)"
+102,Iran (Islamic Republic of),c15,Wood pellets and agglomerates,,,m3sw/tonne,2.25,cf_use,solid wood m3 per tonne pellets (5-10% mcw),Own calculation
+103,Iraq,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.25,cf_use,solid wood m3 per tonne pellets (5-10% mcw),Own calculation
+104,Ireland,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.192,cf_use,solid wood m3 per tonne pellets (5-10% mcw),Own calculation
+105,Israel,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.25,cf_use,solid wood m3 per tonne pellets (5-10% mcw),Own calculation
+106,Italy,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.192,cf_use,solid wood m3 per tonne pellets (5-10% mcw),Own calculation
+107,Cote d'Ivoire,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.17733333333333,cf_use,solid wood m3 per tonne pellets (5-10% mcw),Own calculation
+108,Kazakhstan,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.25,cf_use,solid wood m3 per tonne pellets (5-10% mcw),Own calculation
+109,Jamaica,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.17733333333333,cf_use,solid wood m3 per tonne pellets (5-10% mcw),Own calculation
+110,Japan,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.25,cf_use,solid wood m3 per tonne pellets (5-10% mcw),Own calculation
+112,Jordan,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.25,cf_use,solid wood m3 per tonne pellets (5-10% mcw),Own calculation
+113,Kyrgyzstan,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.25,cf_use,solid wood m3 per tonne pellets (5-10% mcw),Own calculation
+114,Kenya,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.17733333333333,cf_use,solid wood m3 per tonne pellets (5-10% mcw),Own calculation
+115,Cambodia,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.25,cf_use,solid wood m3 per tonne pellets (5-10% mcw),Own calculation
+116,Democratic People's Republic of Korea,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.25,cf_use,solid wood m3 per tonne pellets (5-10% mcw),Own calculation
+117,Republic of Korea,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.25,cf_use,solid wood m3 per tonne pellets (5-10% mcw),Own calculation
+118,Kuwait,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.25,cf_use,solid wood m3 per tonne pellets (5-10% mcw),Own calculation
+119,Latvia,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.192,cf_use,solid wood m3 per tonne pellets (5-10% mcw),Own calculation
+120,Lao People's Democratic Republic,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.25,cf_use,solid wood m3 per tonne pellets (5-10% mcw),Own calculation
+121,Lebanon,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.25,cf_use,solid wood m3 per tonne pellets (5-10% mcw),Own calculation
+122,Lesotho,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.17733333333333,cf_use,solid wood m3 per tonne pellets (5-10% mcw),Own calculation
+123,Liberia,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.17733333333333,cf_use,solid wood m3 per tonne pellets (5-10% mcw),Own calculation
+124,Libya,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.17733333333333,cf_use,solid wood m3 per tonne pellets (5-10% mcw),Own calculation
+125,Liechtenstein,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.192,cf_use,solid wood m3 per tonne pellets (5-10% mcw),Own calculation
+126,Lithuania,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.16,cf_use,solid wood m3 per tonne pellets (5-10% mcw),"FAO, ITTO and United Nations (2020)"
+127,Marshall Islands,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.17733333333333,cf_use,solid wood m3 per tonne pellets (5-10% mcw),Own calculation
+128,"China, Macao SAR",c15,Wood pellets and agglomerates,,,m3sw/tonne,2.25,cf_use,solid wood m3 per tonne pellets (5-10% mcw),Own calculation
+129,Madagascar,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.17733333333333,cf_use,solid wood m3 per tonne pellets (5-10% mcw),Own calculation
+130,Malawi,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.17733333333333,cf_use,solid wood m3 per tonne pellets (5-10% mcw),Own calculation
+131,Malaysia,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.25,cf_use,solid wood m3 per tonne pellets (5-10% mcw),"FAO, ITTO and United Nations (2020)"
+132,Maldives,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.25,cf_use,solid wood m3 per tonne pellets (5-10% mcw),Own calculation
+133,Mali,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.17733333333333,cf_use,solid wood m3 per tonne pellets (5-10% mcw),Own calculation
+134,Malta,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.192,cf_use,solid wood m3 per tonne pellets (5-10% mcw),Own calculation
+135,Martinique,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.17733333333333,cf_use,solid wood m3 per tonne pellets (5-10% mcw),Own calculation
+136,Mauritania,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.17733333333333,cf_use,solid wood m3 per tonne pellets (5-10% mcw),Own calculation
+137,Mauritius,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.17733333333333,cf_use,solid wood m3 per tonne pellets (5-10% mcw),Own calculation
+138,Mexico,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.17733333333333,cf_use,solid wood m3 per tonne pellets (5-10% mcw),Own calculation
+141,Mongolia,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.25,cf_use,solid wood m3 per tonne pellets (5-10% mcw),Own calculation
+142,Montserrat,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.17733333333333,cf_use,solid wood m3 per tonne pellets (5-10% mcw),Own calculation
+143,Morocco,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.17733333333333,cf_use,solid wood m3 per tonne pellets (5-10% mcw),Own calculation
+144,Mozambique,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.17733333333333,cf_use,solid wood m3 per tonne pellets (5-10% mcw),Own calculation
+145,Micronesia (Federated States of),c15,Wood pellets and agglomerates,,,m3sw/tonne,2.17733333333333,cf_use,solid wood m3 per tonne pellets (5-10% mcw),Own calculation
+146,Republic of Moldova,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.192,cf_use,solid wood m3 per tonne pellets (5-10% mcw),Own calculation
+147,Namibia,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.17733333333333,cf_use,solid wood m3 per tonne pellets (5-10% mcw),Own calculation
+148,Nauru,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.17733333333333,cf_use,solid wood m3 per tonne pellets (5-10% mcw),Own calculation
+149,Nepal,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.25,cf_use,solid wood m3 per tonne pellets (5-10% mcw),Own calculation
+150,Netherlands,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.192,cf_use,solid wood m3 per tonne pellets (5-10% mcw),Own calculation
+151,Netherlands Antilles,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.17733333333333,cf_use,solid wood m3 per tonne pellets (5-10% mcw),Own calculation
+153,New Caledonia,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.17733333333333,cf_use,solid wood m3 per tonne pellets (5-10% mcw),Own calculation
+154,North Macedonia,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.192,cf_use,solid wood m3 per tonne pellets (5-10% mcw),Own calculation
+155,Vanuatu,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.17733333333333,cf_use,solid wood m3 per tonne pellets (5-10% mcw),Own calculation
+156,New Zealand,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.17733333333333,cf_use,solid wood m3 per tonne pellets (5-10% mcw),Own calculation
+157,Nicaragua,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.17733333333333,cf_use,solid wood m3 per tonne pellets (5-10% mcw),Own calculation
+158,Niger,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.17733333333333,cf_use,solid wood m3 per tonne pellets (5-10% mcw),Own calculation
+159,Nigeria,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.17733333333333,cf_use,solid wood m3 per tonne pellets (5-10% mcw),Own calculation
+160,Niue,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.17733333333333,cf_use,solid wood m3 per tonne pellets (5-10% mcw),Own calculation
+161,Norfolk Island,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.17733333333333,cf_use,solid wood m3 per tonne pellets (5-10% mcw),Own calculation
+162,Norway,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.27,cf_use,solid wood m3 per tonne pellets (5-10% mcw),"FAO, ITTO and United Nations (2020)"
+163,Northern Mariana Islands,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.17733333333333,cf_use,solid wood m3 per tonne pellets (5-10% mcw),Own calculation
+164,Pacific Islands Trust Territory,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.25,cf_use,solid wood m3 per tonne pellets (5-10% mcw),Own calculation
+165,Pakistan,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.25,cf_use,solid wood m3 per tonne pellets (5-10% mcw),Own calculation
+166,Panama,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.17733333333333,cf_use,solid wood m3 per tonne pellets (5-10% mcw),Own calculation
+167,Czechia,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.192,cf_use,solid wood m3 per tonne pellets (5-10% mcw),Own calculation
+168,Papua New Guinea,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.17733333333333,cf_use,solid wood m3 per tonne pellets (5-10% mcw),Own calculation
+169,Paraguay,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.17733333333333,cf_use,solid wood m3 per tonne pellets (5-10% mcw),Own calculation
+170,Peru,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.17733333333333,cf_use,solid wood m3 per tonne pellets (5-10% mcw),Own calculation
+171,Philippines,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.25,cf_use,solid wood m3 per tonne pellets (5-10% mcw),Own calculation
+172,Pitcairn Islands,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.17733333333333,cf_use,solid wood m3 per tonne pellets (5-10% mcw),Own calculation
+173,Poland,c15,Wood pellets and agglomerates,,,m3sw/tonne,2,cf_use,solid wood m3 per tonne pellets (5-10% mcw),"FAO, ITTO and United Nations (2020)"
+174,Portugal,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.192,cf_use,solid wood m3 per tonne pellets (5-10% mcw),Own calculation
+175,Guinea-Bissau,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.17733333333333,cf_use,solid wood m3 per tonne pellets (5-10% mcw),Own calculation
+176,Timor-Leste,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.25,cf_use,solid wood m3 per tonne pellets (5-10% mcw),Own calculation
+178,Eritrea,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.17733333333333,cf_use,solid wood m3 per tonne pellets (5-10% mcw),Own calculation
+179,Qatar,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.25,cf_use,solid wood m3 per tonne pellets (5-10% mcw),Own calculation
+180,Palau,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.17733333333333,cf_use,solid wood m3 per tonne pellets (5-10% mcw),Own calculation
+181,Zimbabwe,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.17733333333333,cf_use,solid wood m3 per tonne pellets (5-10% mcw),Own calculation
+182,Reunion,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.17733333333333,cf_use,solid wood m3 per tonne pellets (5-10% mcw),Own calculation
+183,Romania,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.192,cf_use,solid wood m3 per tonne pellets (5-10% mcw),Own calculation
+184,Rwanda,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.17733333333333,cf_use,solid wood m3 per tonne pellets (5-10% mcw),Own calculation
+185,Russian Federation,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.192,cf_use,solid wood m3 per tonne pellets (5-10% mcw),Own calculation
+186,Serbia and Montenegro,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.192,cf_use,solid wood m3 per tonne pellets (5-10% mcw),Own calculation
+187,"Saint Helena, Ascension and Tristan da Cunha",c15,Wood pellets and agglomerates,,,m3sw/tonne,2.17733333333333,cf_use,solid wood m3 per tonne pellets (5-10% mcw),Own calculation
+188,Saint Kitts and Nevis,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.17733333333333,cf_use,solid wood m3 per tonne pellets (5-10% mcw),Own calculation
+189,Saint Lucia,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.17733333333333,cf_use,solid wood m3 per tonne pellets (5-10% mcw),Own calculation
+190,Saint Pierre and Miquelon,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.09,cf_use,solid wood m3 per tonne pellets (5-10% mcw),Own calculation
+191,Saint Vincent and the Grenadines,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.17733333333333,cf_use,solid wood m3 per tonne pellets (5-10% mcw),Own calculation
+192,San Marino,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.192,cf_use,solid wood m3 per tonne pellets (5-10% mcw),Own calculation
+193,Sao Tome and Principe,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.17733333333333,cf_use,solid wood m3 per tonne pellets (5-10% mcw),Own calculation
+194,Saudi Arabia,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.25,cf_use,solid wood m3 per tonne pellets (5-10% mcw),Own calculation
+195,Senegal,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.17733333333333,cf_use,solid wood m3 per tonne pellets (5-10% mcw),Own calculation
+196,Seychelles,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.17733333333333,cf_use,solid wood m3 per tonne pellets (5-10% mcw),Own calculation
+197,Sierra Leone,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.17733333333333,cf_use,solid wood m3 per tonne pellets (5-10% mcw),Own calculation
+198,Slovenia,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.1,cf_use,solid wood m3 per tonne pellets (5-10% mcw),"FAO, ITTO and United Nations (2020)"
+199,Slovakia,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.192,cf_use,solid wood m3 per tonne pellets (5-10% mcw),Own calculation
+200,Singapore,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.25,cf_use,solid wood m3 per tonne pellets (5-10% mcw),Own calculation
+201,Somalia,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.17733333333333,cf_use,solid wood m3 per tonne pellets (5-10% mcw),Own calculation
+202,South Africa,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.17733333333333,cf_use,solid wood m3 per tonne pellets (5-10% mcw),Own calculation
+203,Spain,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.192,cf_use,solid wood m3 per tonne pellets (5-10% mcw),Own calculation
+205,Western Sahara,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.17733333333333,cf_use,solid wood m3 per tonne pellets (5-10% mcw),Own calculation
+207,Suriname,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.17733333333333,cf_use,solid wood m3 per tonne pellets (5-10% mcw),Own calculation
+208,Tajikistan,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.25,cf_use,solid wood m3 per tonne pellets (5-10% mcw),Own calculation
+209,Eswatini,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.17733333333333,cf_use,solid wood m3 per tonne pellets (5-10% mcw),Own calculation
+210,Sweden,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.192,cf_use,solid wood m3 per tonne pellets (5-10% mcw),Own calculation
+211,Switzerland,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.192,cf_use,solid wood m3 per tonne pellets (5-10% mcw),Own calculation
+212,Syrian Arab Republic,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.25,cf_use,solid wood m3 per tonne pellets (5-10% mcw),Own calculation
+213,Turkmenistan,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.25,cf_use,solid wood m3 per tonne pellets (5-10% mcw),Own calculation
+214,"China, Taiwan Province of",c15,Wood pellets and agglomerates,,,m3sw/tonne,2.25,cf_use,solid wood m3 per tonne pellets (5-10% mcw),Own calculation
+215,United Republic of Tanzania,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.17733333333333,cf_use,solid wood m3 per tonne pellets (5-10% mcw),Own calculation
+216,Thailand,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.25,cf_use,solid wood m3 per tonne pellets (5-10% mcw),Own calculation
+217,Togo,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.17733333333333,cf_use,solid wood m3 per tonne pellets (5-10% mcw),Own calculation
+218,Tokelau,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.17733333333333,cf_use,solid wood m3 per tonne pellets (5-10% mcw),Own calculation
+219,Tonga,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.17733333333333,cf_use,solid wood m3 per tonne pellets (5-10% mcw),Own calculation
+220,Trinidad and Tobago,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.17733333333333,cf_use,solid wood m3 per tonne pellets (5-10% mcw),Own calculation
+221,Oman,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.25,cf_use,solid wood m3 per tonne pellets (5-10% mcw),Own calculation
+222,Tunisia,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.17733333333333,cf_use,solid wood m3 per tonne pellets (5-10% mcw),Own calculation
+223,Turkey,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.192,cf_use,solid wood m3 per tonne pellets (5-10% mcw),Own calculation
+224,Turks and Caicos Islands,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.17733333333333,cf_use,solid wood m3 per tonne pellets (5-10% mcw),Own calculation
+225,United Arab Emirates,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.25,cf_use,solid wood m3 per tonne pellets (5-10% mcw),Own calculation
+226,Uganda,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.17733333333333,cf_use,solid wood m3 per tonne pellets (5-10% mcw),Own calculation
+227,Tuvalu,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.17733333333333,cf_use,solid wood m3 per tonne pellets (5-10% mcw),Own calculation
+228,USSR,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.25,cf_use,solid wood m3 per tonne pellets (5-10% mcw),Own calculation
+229,United Kingdom,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.192,cf_use,solid wood m3 per tonne pellets (5-10% mcw),Own calculation
+230,Ukraine,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.36,cf_use,solid wood m3 per tonne pellets (5-10% mcw),"FAO, ITTO and United Nations (2020)"
+231,United States of America,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.09,cf_use,solid wood m3 per tonne pellets (5-10% mcw),"FAO, ITTO and United Nations (2020)"
+233,Burkina Faso,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.17733333333333,cf_use,solid wood m3 per tonne pellets (5-10% mcw),Own calculation
+234,Uruguay,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.17733333333333,cf_use,solid wood m3 per tonne pellets (5-10% mcw),Own calculation
+235,Uzbekistan,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.25,cf_use,solid wood m3 per tonne pellets (5-10% mcw),Own calculation
+236,Venezuela (Bolivarian Republic of),c15,Wood pellets and agglomerates,,,m3sw/tonne,2.17733333333333,cf_use,solid wood m3 per tonne pellets (5-10% mcw),Own calculation
+237,Viet Nam,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.25,cf_use,solid wood m3 per tonne pellets (5-10% mcw),Own calculation
+238,Ethiopia,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.17733333333333,cf_use,solid wood m3 per tonne pellets (5-10% mcw),Own calculation
+239,British Virgin Islands,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.17733333333333,cf_use,solid wood m3 per tonne pellets (5-10% mcw),Own calculation
+242,Wake Island,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.17733333333333,cf_use,solid wood m3 per tonne pellets (5-10% mcw),Own calculation
+243,Wallis and Futuna Islands,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.17733333333333,cf_use,solid wood m3 per tonne pellets (5-10% mcw),Own calculation
+244,Samoa,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.17733333333333,cf_use,solid wood m3 per tonne pellets (5-10% mcw),Own calculation
+248,Yugoslav SFR,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.192,cf_use,solid wood m3 per tonne pellets (5-10% mcw),Own calculation
+249,Yemen,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.25,cf_use,solid wood m3 per tonne pellets (5-10% mcw),Own calculation
+250,Democratic Republic of the Congo,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.17733333333333,cf_use,solid wood m3 per tonne pellets (5-10% mcw),Own calculation
+251,Zambia,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.17733333333333,cf_use,solid wood m3 per tonne pellets (5-10% mcw),Own calculation
+252,Unspecified Area,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.17733333333333,cf_use,solid wood m3 per tonne pellets (5-10% mcw),Own calculation
+254,Others (adjustment),c15,Wood pellets and agglomerates,,,m3sw/tonne,2.17733333333333,cf_use,solid wood m3 per tonne pellets (5-10% mcw),Own calculation
+255,Belgium,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.192,cf_use,solid wood m3 per tonne pellets (5-10% mcw),Own calculation
+256,Luxembourg,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.192,cf_use,solid wood m3 per tonne pellets (5-10% mcw),Own calculation
+258,Anguilla,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.17733333333333,cf_use,solid wood m3 per tonne pellets (5-10% mcw),Own calculation
+270,Mayotte,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.17733333333333,cf_use,solid wood m3 per tonne pellets (5-10% mcw),Own calculation
+272,Serbia,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.192,cf_use,solid wood m3 per tonne pellets (5-10% mcw),Own calculation
+273,Montenegro,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.192,cf_use,solid wood m3 per tonne pellets (5-10% mcw),Own calculation
+276,Sudan,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.17733333333333,cf_use,solid wood m3 per tonne pellets (5-10% mcw),Own calculation
+277,South Sudan,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.17733333333333,cf_use,solid wood m3 per tonne pellets (5-10% mcw),Own calculation
+279,Curaçao,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.17733333333333,cf_use,solid wood m3 per tonne pellets (5-10% mcw),Own calculation
+281,Saint-Martin (French Part),c15,Wood pellets and agglomerates,,,m3sw/tonne,2.17733333333333,cf_use,solid wood m3 per tonne pellets (5-10% mcw),Own calculation
+299,Palestine,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.25,cf_use,solid wood m3 per tonne pellets (5-10% mcw),Own calculation
+999,RoW,c15,Wood pellets and agglomerates,,,m3sw/tonne,2.17733333333333,cf_use,solid wood m3 per tonne pellets (5-10% mcw),Own calculation
 1,Armenia,c16,Wood charcoal,c03,Wood fuel,m3rw/tonne,6.13333333333333,cf_use,"",Own calculation
 2,Afghanistan,c16,Wood charcoal,c03,Wood fuel,m3rw/tonne,6.13333333333333,cf_use,"",Own calculation
 3,Albania,c16,Wood charcoal,c03,Wood fuel,m3rw/tonne,5.9875,cf_use,"",Own calculation

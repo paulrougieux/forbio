@@ -57,11 +57,6 @@ baci[, item_code := NULL]
 
 btd <- rbindlist(list(btd, baci), use.names = TRUE)
 
-# Replace negatives with 0 (except for regions "Unspecified" and "Others (adjustments)")
-# (Not needed, because there are only negatives for these two regions.)
-# btd[value < 0 & !from_code %in% c(252,254) & !to_code %in% c(252,254),
-#     value := 0]
-
 # Aggregate values
 btd <- btd[, list(value = na_sum(value)), by = c("com_code", "item",
   "from", "from_code", "to", "to_code", "year", "unit")]
@@ -74,11 +69,7 @@ btd <- btd[, list(value = na_sum(value)), by = c("com_code", "item",
 cf <- fread("inst/cf_btd_tidy.csv")
 btd <- merge(btd, cf[, .(com_code, unit_cf = unit, from = area, cf)],
   all.x = TRUE, by = c("com_code", "from"))
-btd[com_code %in% c("c03", "c09", "c10"), `:=`(value = value * cf, unit = "m3")]
-
-# Apply factor of 1.5 to c18 wood residues (UNECE and FAO, 2010)
-btd[com_code == "c18", `:=`(value = value * 1.5, unit = "m3")]
-
+btd[, `:=`(value = value * cf, unit = "m3")]
 btd[, `:=`(unit_cf = NULL, cf = NULL)]
 
 

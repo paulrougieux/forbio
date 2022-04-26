@@ -5,7 +5,6 @@ library("mipfp")
 
 source("R/01_tidy_functions.R")
 
-
 years <- 1997:2017
 
 
@@ -26,12 +25,6 @@ btd <- btd[unit %in% c("tonnes", "m3") & com_code %in% items &
              from_code %in% areas & to_code %in% areas, ]
 btd_est <- btd_est[year %in% years & com_code %in% items &
                      from_code %in% areas & to_code %in% areas, ]
-
-# Start values are defined in btd_est
-# # Have RoW start at least at 1 so it can always be scaled
-# btd[((from_code == 999 & to_code != 999) | (from_code != 999 & to_code == 999)) &
-#   value == 0, value := 1]
-
 
 # Get info on target trade from CBS
 target <- cbs[year %in% years, c("year", "area_code", "com_code", "exports", "imports")]
@@ -125,12 +118,10 @@ for(i in seq_along(years)) {
   cat("Calculated year ", y, ".\n", sep = "")
 }
 
-
 # One datatable per year
 btd_bal <- lapply(btd_bal, rbindlist)
 # One datatable
 btd_bal <- rbindlist(btd_bal)
-
 
 # Update imports and exports in CBS
 imports <- btd_bal %>% group_by(year, com_code, area_code = to_code) %>% 
@@ -144,6 +135,8 @@ cbs <- merge(cbs, exports, by = c("year", "com_code", "area_code"), all.x = TRUE
 cbs[!is.na(value), exports := value]
 cbs[, value := NULL]
 
+
 # Store the balanced sheets -----------------------------------------------
+
 saveRDS(btd_bal, "data/btd_bal.rds")
 saveRDS(cbs, "data/cbs_trade_bal.rds")

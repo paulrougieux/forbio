@@ -79,7 +79,6 @@ sup[proc_code %in% c("p04","p05","p06","p07") & com_code=="c18" & is.finite(resi
 sup[, `:=`(chips = NULL, residues = NULL)]
 
 
-
 ## Merge chips and residues unknown supply ------------------------------------
 chips <- merge(unique(shares[!is.na(chips_pxy) & chips_pxy > 0, .(area_code, proc_code = "pxy", 
   year, com_code = "c17", production = chips_pxy, process = "Unknown source", type = NA)]), 
@@ -92,8 +91,6 @@ residues <- merge(unique(shares[!is.na(residues_pxy) & residues_pxy > 0, .(area_
 sup <- rbindlist(list(sup, chips, residues), use.names = TRUE)
 
 
-
-
 # Adapt and re-balance CBS -----------------------------------------------------------
 cbs <- merge(cbs, sup[, list(production_new = na_sum(production)), 
   by = c("area_code", "com_code", "year")], by = c("area_code", "com_code", "year"),
@@ -103,7 +100,6 @@ cbs[, `:=`(total_supply = na_sum(production, bal_byprod, imports), bal_prod = 0,
   dom_supply = na_sum(production, bal_byprod, imports, -exports), production_new = NULL)]
 cbs[dom_supply < 0, `:=`(bal_prod = -dom_supply, dom_supply = 0, 
   total_supply = na_sum(production, bal_byprod, bal_prod, imports))]
-
 
 # Add supply from unknown sources
 sup_bal <- merge(
