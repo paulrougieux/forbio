@@ -20,7 +20,7 @@ processes <- sort(unique(sup$proc_code))
 commodities <- sort(unique(sup$com_code))
 
 
-# Supply ---
+# Supply ------------------------------
 
 # Template to always get full tables
 template <- data.table(expand.grid(
@@ -57,8 +57,7 @@ names(mr_sup) <- years
 saveRDS(mr_sup, "data/mr_sup.rds")
 
 
-
-# Bilateral supply shares ---
+# Bilateral supply shares ------------------------------
 
 # Template to always get full tables
 template <- data.table(expand.grid(
@@ -107,7 +106,7 @@ supply_shares <- lapply(btd_cast, function(x, agg, js) {
 }, agg = agg, js = js)
 
 
-# Use ---
+# Use ------------------------------------
 
 # Template to always get full tables
 template <- data.table(expand.grid(
@@ -147,7 +146,7 @@ names(mr_use) <- years
 saveRDS(mr_use, "data/mr_use.rds")
 
 
-# Final Demand ---
+# Final Demand -----------------------------
 
 # Template to always get full tables
 template <- data.table(expand.grid(

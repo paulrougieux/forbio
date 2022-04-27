@@ -2,7 +2,7 @@
 library("Matrix")
 
 
-# MRIO Table ---
+# MRIO Table -------------------------------
 
 mr_sup <- readRDS("data/mr_sup.rds")
 mr_use <- readRDS("data/mr_use.rds")
@@ -23,9 +23,6 @@ Z <- mapply(function(x, y) {
 Z <- lapply(Z, round)
 
 
-
-
-
 # Derive total output X ---------------------------------------------
 
 X <- mapply(function(x, y) {
@@ -33,7 +30,6 @@ X <- mapply(function(x, y) {
 }, x = Z, y = Y)
 
 
-
-# Store X, Z variables
+# Store X, Z variables ---------------------------------------------
 saveRDS(Z, "/mnt/nfs_fineprint/tmp/forbio/Z.rds")
 saveRDS(X, "/mnt/nfs_fineprint/tmp/forbio/X.rds")

@@ -1283,13 +1283,16 @@ wbp_wood<- wbp_wood %>%
 fwrite(wbp_wood, "inst/wbp_wood_tidy.csv")
 
 # Write percentage of recycled fiber used
-wbp_recycledinput <- wbp[com_code == "c09", c("area_code", "area", "com_code","item", "recycled_fibre", "literature_recycledfibre")]
-wbp_recycledinput <- wbp_recycledinput[is.na(literature_recycledfibre), `:=`(literature_recycledfibre = "Own calculations")]
-wbp_recycledinput<- wbp_recycledinput %>%
-  rename(literature = literature_recycledfibre)
-fwrite(wbp_recycledinput, "inst/wbp_recycledinput_tidy.csv")
+wbp_recyc <- wbp[com_code == "c09", c("area_code", "area", "com_code","item", "recycled_fibre", "literature_recycledfibre")]
+wbp_recyc <- wbp_recyc %>%
+  rename(literature = literature_recycledfibre,
+         proc_code = com_code,
+         process = item)
+wbp_recyc <- wbp_recyc[, `:=`(process = "Particle board production",
+                                              proc_code = "p09")]
+fwrite(wbp_recyc, "inst/wbp_recyc_tidy.csv")
 
-rm(wbp, wbp_recycledinput)
+rm(wbp, wbp_recyc)
 
 
 cat("\nStep 8: Build wood basic density for wood-based panels (c08, c09, c10).\n")

@@ -2,7 +2,7 @@ library("data.table")
 library("Matrix")
 
 
-# Leontief inverse ---
+# Leontief inverse -------------------------
 
 prep_solve <- function(year, Z, Y, X,
                        adj_X = FALSE, adj_A = TRUE, adj_diag = FALSE) {
