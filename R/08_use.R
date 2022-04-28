@@ -176,7 +176,7 @@ results[, `:=`(roundwood = NULL, chips = NULL)]
 
 # Estimate feedstock composition for fibreboard and particle board production
 results[proc_code %in% c("p08", "p09"),
-        value := if_else(com_code %in% c("c01","c02"), value * 0.05, value * 0.425)]
+        value := if_else(com_code %in% c("c01","c02"), value * 0.05, value * 0.475)]
 
 # Particle board production for the year 2017 includes c19
 # Read share of c19 ("recycled_fibre") as inputs for particle board production
@@ -187,12 +187,12 @@ wbp_recyc <- wbp_recyc[, `:=`(recycled_fibre = as.double(recycled_fibre))]
 results <- merge(results, wbp_recyc[, .(area_code, proc_code, recycled_fibre)],
                  by = c("area_code", "proc_code"), all.x = TRUE)
 results[proc_code %in% c("p09") & year>= 2017, `:=`(recycled_fibre = if_else(is.na(recycled_fibre), 0, recycled_fibre))]
-results[proc_code %in% c("p09") & com_code == "c19", value := value * recycled_fibre / 100]
+results[proc_code %in% c("p09") & com_code == "c19", value := value / 0.475 * recycled_fibre / 100]
 results[proc_code %in% c("p09") & com_code == "c19" & value>0 & year == 2017]
 
 # Downscale the other inputs (c01, c02, c17, c18)
-results[, `:=`(primary = 1 - recycled_fibre)]
-results[proc_code == "p09" & com_code != "c19" & year>= 2017 & !is.na(primary), `:=`(value = value*primary)]
+results[, `:=`(primary = 100 - recycled_fibre)]
+results[proc_code == "p09" & com_code != "c19" & year>= 2017 & !is.na(primary), `:=`(value = value*primary/100)]
 results[, `:=`(recycled_fibre = NULL, primary = NULL)]
 results[com_code == "c19" & year< 2017, `:=`(value = 0)]
 
