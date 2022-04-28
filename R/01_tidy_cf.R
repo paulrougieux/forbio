@@ -1317,33 +1317,46 @@ cf_carbon_prep <- cf_carbon_prep[order(cf_carbon_prep$com_code, cf_carbon_prep$a
 rm(cf_wbd, wbp_wood)
 
 
-cat("\nStep 9: Build basic density of sawnwood C, sawnwood NC, veneer and plywood .\n")
+cat("\nStep 9: Build wood basic density (wbd) of sawnwood C, sawnwood NC, veneer and plywood .\n")
 
 # Read file
 shrinkage <- fread ("inst/shrinkage_tidy.csv")
+shrinkage <- shrinkage[!is.na(area_code)]
+shrinkage <- shrinkage %>%
+  rename(com_code = proc_code, item = process)
 
-# Re-structure shrinkage file
-# replace processes by commodities
+# (This step could be improved by matching items from products)
+shrinkage <- shrinkage[com_code == "p04", `:=`(com_code = "c04")]
+shrinkage <- shrinkage[com_code == "p05", `:=`(com_code = "c05")]
+shrinkage <- shrinkage[com_code == "p06", `:=`(com_code = "c06")]
+shrinkage <- shrinkage[com_code == "p07", `:=`(com_code = "c07")]
+shrinkage <- shrinkage[com_code == "c04", `:=`(item = "Sawnwood, coniferous")]
+shrinkage <- shrinkage[com_code == "c05", `:=`(item = "Sawnwood, non-coniferous all")]
+shrinkage <- shrinkage[com_code == "c06", `:=`(item = "Veneer sheets")]
+shrinkage <- shrinkage[com_code == "c07", `:=`(item = "Plywood")]
 
-## I AM HERE ## 
+# Build structure to calculate wbd
+wbd <- cf_carbon_prep[com_code %in% c("c04", "c05", "c06", "c07")]
+wbd <- wbd[!is.na(area_code)]
+wbd <- merge(wbd, shrinkage,
+            by = c("area_code", "area", "com_code", "item"), all.x = TRUE)
 
-# Merge shrinkage data
-bd <- merge(bd, shrinkage,
-            by = c("continent", "area_code", "area", "com_code", "item", "source_code"), all.x = TRUE)
-
-# calculate basic density for c04 (standard moisture content 15%)
-bd[com_code %in% c("c04"),
-   `:=`(cf_bd = cf * (100 - shrinkage) / (100 + 15))]
-
+# Calculate basic density for c04 (standard moisture content 15%)
+wbd[com_code %in% c("c04"),
+   `:=`(cf = cf * (100 - shrinkage) / (100 + 15))]
 # calculate basic density for c05 (standard moisture content 12%)
-bd[com_code %in% c("c05"),
-   `:=`(cf_bd = cf * (100 - shrinkage) / (100 + 12))]
-
+wbd[com_code %in% c("c05"),
+   `:=`(cf = cf * (100 - shrinkage) / (100 + 12))]
 # calculate basic density for c06 and c07 (standard moisture content 8%)
-bd[com_code %in% c("c06", "c07"),
-   `:=`(cf_bd = cf * (100 - shrinkage) / (100 + 8))]
+wbd[com_code %in% c("c06", "c07"),
+   `:=`(cf = cf * (100 - shrinkage) / (100 + 8))]
 
-bd[, `:=`(shrinkage = NULL)]
+wbd <- wbd[, `:=` (cf_type = "wood basic density", literature = "Own calculation", shrinkage = NULL)]
+
+# Update cf_carbon_prep
+cf_carbon_prep <- cf_carbon_prep[com_code %nin% c("c04", "c05", "c06", "c07")]
+cf_carbon_prep <- rbind(cf_carbon_prep, wbd, fill = TRUE)
+cf_carbon_prep <- cf_carbon_prep[order(cf_carbon_prep$com_code, cf_carbon_prep$area_code),]
 
 
 cat("\nLast step: Building cf_carbon.\n")
@@ -1351,6 +1364,7 @@ cat("\nLast step: Building cf_carbon.\n")
 # Calculate carbon content
 bd[is.na(cf_bd), cf_bd := cf]
 bd[, `:=`(cf = NULL)]
+
 # Assumption carbon content for all is 0.5
 # Except charcoal which is 0.85 (IPCC 2019, Ch. 12) and black liquor 0.35 (own assumption)
 bd[, cf_carbon := cf_bd * 0.5]
@@ -1386,7 +1400,6 @@ fwrite(pulp, "inst/pulp_feedstock_tidy.csv")
 
 #cat("\nTidying swe technical conversion factors.\n")
 
-# provisorisch:
 # used "cf_use_tidy" as basis
 # divided 1/cf for c17 and c18 to obtain the right unit (m3sw/m3p)
 # I used this: cf_in[unit=="m3rw/m3p", `:=`(cf = 1 / cf, unit = "m3p/m3rw")]
