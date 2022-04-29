@@ -1394,14 +1394,3 @@ pulp[, `:=`(roundwood = if_else(!is.na(roundwood), roundwood,
                             chips[match(paste(pulp$continent, pulp$proc_code), paste(pulp$area, pulp$proc_code))]))]
 # Write file
 fwrite(pulp, "inst/pulp_feedstock_tidy.csv")
-
-
-# CF SWE (?) ---------------------------------------------------------------------
-
-#cat("\nTidying swe technical conversion factors.\n")
-
-# used "cf_use_tidy" as basis
-# divided 1/cf for c17 and c18 to obtain the right unit (m3sw/m3p)
-# I used this: cf_in[unit=="m3rw/m3p", `:=`(cf = 1 / cf, unit = "m3p/m3rw")]
-# calculated mean of cf from c04-c10 and multiplied by 2 (average of m3p/tonne) to obtain cf for c19
-# divided cf of c11a to obtain cf for c20
