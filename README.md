@@ -20,7 +20,7 @@ install.packages(c("data.table", "tidyverse", "Matrix", "mipfp", "ggplot2"))
 You only need git installed if you want to contribute to the repository or clone it without having to download it manually.
 
 #### Data sets 
-Input data are from FAOSTAT Forestry Production and Trade, FAOSTAT Forestry Trade and BACI. FAOSTAT has an open access while for BACI registration is needed. 
+Input data are from FAOSTAT Forestry Production and Trade, FAOSTAT Forestry Trade Flows and BACI. FAOSTAT has an open access while for BACI registration is needed. 
 
 #### Auxiliary data
 Folder "inst" contains auxiliary data in csv format. These data include tables of products, processes, regions, etc. to be used in the scripts.
@@ -43,7 +43,7 @@ Scripts are saved in folder "R". This is the order in which scripts should be ru
 - `01_tidy_cf.R` for forestry conversion factors tidying
 - `01_tidy_fao.R` for FAOSTAT Production and Trade data (from now on CBS) tidying
 - `01_tidy_functions.R` for functions tidying
-- `01_tidy_trade.R` for FAOSTAT Forestry Trade and BACI data (from now on BTD) tidying
+- `01_tidy_trade.R` for FAOSTAT Forestry Trade Flows and BACI data (from now on BTD) tidying
 
 - `02_build_btd.R` for building BTD (biletaral trade data)
 - `03_build_cbs.R` for building CBS (Commodity balance sheets)
