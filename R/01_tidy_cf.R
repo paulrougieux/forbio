@@ -1247,9 +1247,8 @@ wbp_fb[, `:=`(w_wood = NULL, continent = NULL)]
 rm(wood_cont, wood_wrld)
 
 # Update wbp
-wbp_fb <- wbp_fb[, `:=`(literature = "Na")]
-wbp <- wbp[com_code !="c08"]
-wbp <- rbind(wbp, wbp_fb, fill = TRUE)
+wbp_fb <- wbp_fb[, `:=`(literature_wood = "NA")]
+wbp <- rbind(wbp[com_code !="c08"], wbp_fb, fill = TRUE)
 
 rm(wbp_fb)
 
@@ -1274,22 +1273,22 @@ wbp[, `:=`(wood = ifelse(!is.na(wood), wood,
 rm(wbp_cont, wbp_wrld)
 wbp <- wbp[!is.na(area_code)]
 wbp <- wbp[, `:=` (subitem = NULL, subcom_code = NULL)]
+wbp <- wbp[is.na(literature_wood), `:=`(literature_wood = "Own calculations")]
 
 # Write wood content file
-wbp_wood <- wbp[, c("area_code", "area", "com_code","item","wood","literature_wood")]
-wbp_wood <- wbp_wood[is.na(literature_wood), `:=`(literature_wood = "Own calculations")]
+wbp_wood <- wbp[, c("area_code", "area", "com_code", "item", "wood", "literature_wood")]
 wbp_wood<- wbp_wood %>%
   rename(literature = literature_wood)
 fwrite(wbp_wood, "inst/wbp_wood_tidy.csv")
 
-# Write percentage of recycled fiber used
+# Write percentage of recycled fibre (c19) used in p09
 wbp_recyc <- wbp[com_code == "c09", c("area_code", "area", "com_code","item", "recycled_fibre", "literature_recycledfibre")]
 wbp_recyc <- wbp_recyc %>%
   rename(literature = literature_recycledfibre,
          proc_code = com_code,
          process = item)
 wbp_recyc <- wbp_recyc[, `:=`(process = "Particle board production",
-                                              proc_code = "p09")]
+                              proc_code = "p09")]
 fwrite(wbp_recyc, "inst/wbp_recyc_tidy.csv")
 
 rm(wbp, wbp_recyc)
@@ -1298,94 +1297,123 @@ rm(wbp, wbp_recyc)
 cat("\nStep 8: Build wood basic density for wood-based panels (c08, c09, c10).\n")
 
 # Select data
-cf_wbd <- cf_carbon_prep[com_code %in% c("c08", "c09", "c10")]
-cf_wbd <- cf_wbd[!is.na(area_code)]
-cf_wbd <- cf_wbd[,`:=`(literature = NULL)]
-cf_wbd <- merge(cf_wbd, wbp_wood,
+cf_wbp <- cf_carbon_prep[com_code %in% c("c08", "c09", "c10")]
+cf_wbp <- cf_wbp[!is.na(area_code)]
+cf_wbp <- cf_wbp[,`:=`(literature = NULL)]
+cf_wbp <- merge(cf_wbp, wbp_wood,
             by = c("area_code", "area", "com_code", "item"), all = TRUE)
 
 # Calculate wood basic density
-cf_wbd[, cf := cf * (wood / 100)]
-cf_wbd[, `:=`(wood = NULL)]
-cf_wbd[, `:=`(cf_type = "cf_wdensity", description = "wood basic density")]
+cf_wbp[, cf := cf * (wood / 100)]
+cf_wbp[, `:=`(wood = NULL)]
+cf_wbp[, `:=`(cf_type = "cf_wdensity", description = "wood basic density", literature = "Own calculations")]
 
 # Update cf_carbon_prep
 cf_carbon_prep <- cf_carbon_prep[com_code %nin% c("c08", "c09", "c10")]
-cf_carbon_prep <- rbind(cf_carbon_prep, cf_wbd, fill = TRUE)
+cf_carbon_prep <- rbind(cf_carbon_prep, cf_wbp, fill = TRUE)
 cf_carbon_prep <- cf_carbon_prep[order(cf_carbon_prep$com_code, cf_carbon_prep$area_code),]
 
-rm(cf_wbd, wbp_wood)
+rm(cf_wbp, wbp_wood)
 
 
-cat("\nStep 9: Build wood basic density (wbd) of sawnwood C, sawnwood NC, veneer and plywood .\n")
-
-# Read file
-shrinkage <- fread ("inst/shrinkage_tidy.csv")
-shrinkage <- shrinkage[!is.na(area_code)]
-shrinkage <- shrinkage %>%
-  rename(com_code = proc_code, item = process)
-
-# (This step could be improved by matching items from products)
-shrinkage <- shrinkage[com_code == "p04", `:=`(com_code = "c04")]
-shrinkage <- shrinkage[com_code == "p05", `:=`(com_code = "c05")]
-shrinkage <- shrinkage[com_code == "p06", `:=`(com_code = "c06")]
-shrinkage <- shrinkage[com_code == "p07", `:=`(com_code = "c07")]
-shrinkage <- shrinkage[com_code == "c04", `:=`(item = "Sawnwood, coniferous")]
-shrinkage <- shrinkage[com_code == "c05", `:=`(item = "Sawnwood, non-coniferous all")]
-shrinkage <- shrinkage[com_code == "c06", `:=`(item = "Veneer sheets")]
-shrinkage <- shrinkage[com_code == "c07", `:=`(item = "Plywood")]
+cat("\nStep 9: Build wood basic density of sawnwood C, sawnwood NC, veneer and plywood based on their shippingweight.\n")
 
 # Build structure to calculate wbd
 wbd <- cf_carbon_prep[com_code %in% c("c04", "c05", "c06", "c07")]
 wbd <- wbd[!is.na(area_code)]
-wbd <- merge(wbd, shrinkage,
-            by = c("area_code", "area", "com_code", "item"), all.x = TRUE)
 
+# Assumption of shrinkage for all "0" due to lack of information
+wbd <- wbd[, `:=` (shrinkage = "0")]
+wbd <- wbd[, `:=`(shrinkage = as.numeric(shrinkage))]
+
+
+# Calculate for each commodity based on specific assumption
 # Calculate basic density for c04 (standard moisture content 15%)
 wbd[com_code %in% c("c04"),
-   `:=`(cf = cf * (100 - shrinkage) / (100 + 15))]
+   `:=`(cf = cf * (100 - shrinkage) / (100 + 10))]
 # calculate basic density for c05 (standard moisture content 12%)
 wbd[com_code %in% c("c05"),
-   `:=`(cf = cf * (100 - shrinkage) / (100 + 12))]
-# calculate basic density for c06 and c07 (standard moisture content 8%)
+   `:=`(cf = cf * (100 - shrinkage) / (100 + 15))]
+# calculate basic density for c06 and c07 (standard moisture content average between sawnwood C and NC, e.g. 12.5)
 wbd[com_code %in% c("c06", "c07"),
-   `:=`(cf = cf * (100 - shrinkage) / (100 + 8))]
+   `:=`(cf = cf * (100 - shrinkage) / (100 + 12.5))]
 
-wbd <- wbd[, `:=` (cf_type = "wood basic density", literature = "Own calculation", shrinkage = NULL)]
+wbd <- wbd[, `:=` (cf_type = "cf_wdensity", 
+                   description = "wood basic density", 
+                   literature = "Own calculation", 
+                   shrinkage = NULL)]
 
 # Update cf_carbon_prep
 cf_carbon_prep <- cf_carbon_prep[com_code %nin% c("c04", "c05", "c06", "c07")]
 cf_carbon_prep <- rbind(cf_carbon_prep, wbd, fill = TRUE)
 cf_carbon_prep <- cf_carbon_prep[order(cf_carbon_prep$com_code, cf_carbon_prep$area_code),]
 
+rm(wbd)
 
-cat("\nLast step: Building cf_carbon.\n")
 
-# Calculate carbon content
-bd[is.na(cf_bd), cf_bd := cf]
-bd[, `:=`(cf = NULL)]
+cat("\nStep 10: Complete with missing items.\n")
+
+# Add missing items c11a, c11b, c11c, c11d, c12, c13, c15, c16, c19, c20
+# There are reported in tonnes. Assumption: 10% mc (based on IPCC 2019)
+# Therefore add 0.9 as density (oven dry mass over air dry mass)
+
+missing_items <- products[unit == "tonnes"]
+cf_missing <- data.table(expand.grid(area_code = c(regions$area_code), 
+                              com_code = unique(missing_items$com_code)))
+cf_missing[, `:=`(area = regions$area[match(cf_missing$area_code, regions$area_code)],
+           item = products$item[match(cf_missing$com_code, products$com_code)])]
+cf_missing <- cf_missing[, `:=`(unit = "tonne/tonne",
+                                cf = "0.9",
+                                cf_type = "cf_density",
+                                description = "oven dry mass over air dry mass",
+                                literature = "IPCC (2019)")]
+
+# Update cf_carbon_prep
+cf_carbon_prep <- rbind(cf_carbon_prep, cf_missing, fill = TRUE)
+cf_carbon_prep <- cf_carbon_prep[order(cf_carbon_prep$com_code, cf_carbon_prep$area_code),]
+
+rm(missing_items, cf_missing)
+
+# Write density_prep
+cf_density <- cf_carbon_prep[cf_type %in% c("cf_wdensity", "cf_density")]
+cf_density <- cf_density[!is.na(area_code)]
+fwrite(cf_density, "inst/cf_density_tidy.csv")
+
+rm(cf_carbon_prep)
+
+cat("\nLast step: Building CF carbon.\n")
+
+cf_carbon <- cf_density
 
 # Assumption carbon content for all is 0.5
-# Except charcoal which is 0.85 (IPCC 2019, Ch. 12) and black liquor 0.35 (own assumption)
-bd[, cf_carbon := cf_bd * 0.5]
-bd[com_code %in% c("c16"),
-   cf_carbon := cf_bd * 0.85]
-bd[com_code %in% c("c20"),
-   cf_carbon := cf_bd * 0.35]
+# Except charcoal which is 0.85 (IPCC 2019) and black liquor 0.35 (own assumption)
+cf_carbon <- cf_carbon[, `:=` (cf = as.numeric(cf))]
+cf_carbon[com_code %nin% c("c16", "c20"), `:=` (cf = cf * 0.5)]
+cf_carbon[com_code == "c16", `:=` (cf = cf * 0.85)]
+cf_carbon[com_code == "c20", `:=` (cf = cf * 0.35)]
 
-carbon <- bd[, c("continent", "area_code", "area", "com_code","item","cf_carbon")]
-carbon <- carbon[area_code %in% regions$area_code[regions$baci == TRUE]]
-carbon <- carbon[with(carbon, order(area_code, com_code))]
+# Adapt rest of information
+cf_carbon <- cf_carbon[unit %in% c("tonne/m3", "tonne/m3sw", "odmt/m3p"), `:=`(unit = "tC/m3")]
+cf_carbon <- cf_carbon[unit == "tonne/tonne", `:=`(unit = "tC/tonne")]
+cf_carbon <- cf_carbon[unit == "tC/m3", `:=`(description = "carbon conversion factor per air dry volumen")]
+cf_carbon <- cf_carbon[unit == "tC/tonne", `:=`(description = "carbon conversion factor per air dry mass")]
+cf_carbon <- cf_carbon[!is.na(area_code)]
+cf_carbon <- cf_carbon[, `:=`(subcom_code = NULL, subitem = NULL)]
+
+cf_carbon <- cf_carbon[order(cf_carbon$com_code, cf_carbon$area_code),]
 
 # Write final cf_carbon_tidy
-fwrite(carbon, "inst/carbon_tidy.csv")
+fwrite(cf_carbon, "inst/carbon_tidy.csv")
 
-rm(bd, carbon, carbon2, density, shrinkage)
 
 # FEEDSTOCK ESTIMATE -------------------------------------------------------------
 
-# Tidying estimates for feedstock composition for pulp production
+cat("\nTidy estimates for feedstock composition for pulp production.\n")
+
+# Read file
 pulp <- fread("inst/pulp_feedstock_raw.csv")
+
+# Apply EUR continental average to EUR countries
 pulp[, `:=`(continent = regions$continent[match(pulp$area_code, regions$area_code)])]
 pulp[continent == "EU", `:=`(continent = "EUR")]
 pulp[, `:=`(roundwood = if_else(!is.na(roundwood), roundwood, 
