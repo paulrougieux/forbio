@@ -1,751 +1,751 @@
-area_code;area;proc_code;process;roundwood;chips
-1;Armenia;p11a;Chemical pulp production;;
-2;Afghanistan;p11a;Chemical pulp production;;
-3;Albania;p11a;Chemical pulp production;;
-4;Algeria;p11a;Chemical pulp production;;
-6;Andorra;p11a;Chemical pulp production;;
-7;Angola;p11a;Chemical pulp production;;
-9;Argentina;p11a;Chemical pulp production;;
-10;Australia;p11a;Chemical pulp production;;
-11;Austria;p11a;Chemical pulp production;;
-12;Bahamas;p11a;Chemical pulp production;;
-13;Bahrain;p11a;Chemical pulp production;;
-14;Barbados;p11a;Chemical pulp production;;
-15;Belgium-Luxembourg;p11a;Chemical pulp production;;
-16;Bangladesh;p11a;Chemical pulp production;;
-18;Bhutan;p11a;Chemical pulp production;;
-19;Bolivia (Plurinational State of);p11a;Chemical pulp production;;
-20;Botswana;p11a;Chemical pulp production;;
-21;Brazil;p11a;Chemical pulp production;0.96;0.04
-22;Aruba;p11a;Chemical pulp production;;
-23;Belize;p11a;Chemical pulp production;;
-25;Solomon Islands;p11a;Chemical pulp production;;
-26;Brunei Darussalam;p11a;Chemical pulp production;;
-27;Bulgaria;p11a;Chemical pulp production;;
-28;Myanmar;p11a;Chemical pulp production;;
-29;Burundi;p11a;Chemical pulp production;;
-32;Cameroon;p11a;Chemical pulp production;;
-33;Canada;p11a;Chemical pulp production;0.45;0.55
-35;Cabo Verde;p11a;Chemical pulp production;;
-37;Central African Republic;p11a;Chemical pulp production;;
-38;Sri Lanka;p11a;Chemical pulp production;;
-39;Chad;p11a;Chemical pulp production;;
-40;Chile;p11a;Chemical pulp production;0.25;0.75
-41;China, mainland;p11a;Chemical pulp production;;
-42;Christmas Island;p11a;Chemical pulp production;;
-44;Colombia;p11a;Chemical pulp production;;
-45;Comoros;p11a;Chemical pulp production;;
-46;Congo;p11a;Chemical pulp production;;
-47;Cook Islands;p11a;Chemical pulp production;;
-48;Costa Rica;p11a;Chemical pulp production;;
-49;Cuba;p11a;Chemical pulp production;;
-50;Cyprus;p11a;Chemical pulp production;;
-51;Czechoslovakia;p11a;Chemical pulp production;;
-52;Azerbaijan;p11a;Chemical pulp production;;
-53;Benin;p11a;Chemical pulp production;;
-54;Denmark;p11a;Chemical pulp production;;
-55;Dominica;p11a;Chemical pulp production;;
-56;Dominican Republic;p11a;Chemical pulp production;;
-57;Belarus;p11a;Chemical pulp production;;
-58;Ecuador;p11a;Chemical pulp production;;
-59;Egypt;p11a;Chemical pulp production;;
-60;El Salvador;p11a;Chemical pulp production;;
-61;Equatorial Guinea;p11a;Chemical pulp production;;
-63;Estonia;p11a;Chemical pulp production;;
-64;Faroe Islands;p11a;Chemical pulp production;;
-65;Falkland Islands (Malvinas);p11a;Chemical pulp production;;
-66;Fiji;p11a;Chemical pulp production;;
-67;Finland;p11a;Chemical pulp production;0.9;0.1
-68;France;p11a;Chemical pulp production;;
-69;French Guyana;p11a;Chemical pulp production;;
-70;French Polynesia;p11a;Chemical pulp production;;
-72;Djibouti;p11a;Chemical pulp production;;
-73;Georgia;p11a;Chemical pulp production;;
-74;Gabon;p11a;Chemical pulp production;;
-75;Gambia;p11a;Chemical pulp production;;
-79;Germany;p11a;Chemical pulp production;;
-80;Bosnia and Herzegovina;p11a;Chemical pulp production;;
-81;Ghana;p11a;Chemical pulp production;;
-82;Gibraltar;p11a;Chemical pulp production;;
-83;Kiribati;p11a;Chemical pulp production;;
-84;Greece;p11a;Chemical pulp production;;
-87;Guadeloupe;p11a;Chemical pulp production;;
-89;Guatemala;p11a;Chemical pulp production;;
-90;Guinea;p11a;Chemical pulp production;;
-91;Guyana;p11a;Chemical pulp production;;
-93;Haiti;p11a;Chemical pulp production;;
-95;Honduras;p11a;Chemical pulp production;;
-96;China, Hong Kong SAR;p11a;Chemical pulp production;;
-97;Hungary;p11a;Chemical pulp production;;
-98;Croatia;p11a;Chemical pulp production;;
-99;Iceland;p11a;Chemical pulp production;;
-100;India;p11a;Chemical pulp production;;
-101;Indonesia;p11a;Chemical pulp production;;
-102;Iran (Islamic Republic of);p11a;Chemical pulp production;;
-103;Iraq;p11a;Chemical pulp production;;
-104;Ireland;p11a;Chemical pulp production;;
-105;Israel;p11a;Chemical pulp production;;
-106;Italy;p11a;Chemical pulp production;;
-107;Cote d'Ivoire;p11a;Chemical pulp production;;
-108;Kazakhstan;p11a;Chemical pulp production;;
-109;Jamaica;p11a;Chemical pulp production;;
-110;Japan;p11a;Chemical pulp production;0.01;0.99
-112;Jordan;p11a;Chemical pulp production;;
-113;Kyrgyzstan;p11a;Chemical pulp production;;
-114;Kenya;p11a;Chemical pulp production;;
-115;Cambodia;p11a;Chemical pulp production;;
-116;Democratic People's Republic of Korea;p11a;Chemical pulp production;;
-117;Republic of Korea;p11a;Chemical pulp production;;
-118;Kuwait;p11a;Chemical pulp production;;
-119;Latvia;p11a;Chemical pulp production;;
-120;Lao People's Democratic Republic;p11a;Chemical pulp production;;
-121;Lebanon;p11a;Chemical pulp production;;
-122;Lesotho;p11a;Chemical pulp production;;
-123;Liberia;p11a;Chemical pulp production;;
-124;Libya;p11a;Chemical pulp production;;
-125;Liechtenstein;p11a;Chemical pulp production;;
-126;Lithuania;p11a;Chemical pulp production;;
-128;China, Macao SAR;p11a;Chemical pulp production;;
-129;Madagascar;p11a;Chemical pulp production;;
-130;Malawi;p11a;Chemical pulp production;;
-131;Malaysia;p11a;Chemical pulp production;;
-132;Maldives;p11a;Chemical pulp production;;
-133;Mali;p11a;Chemical pulp production;;
-134;Malta;p11a;Chemical pulp production;;
-135;Martinique;p11a;Chemical pulp production;;
-136;Mauritania;p11a;Chemical pulp production;;
-137;Mauritius;p11a;Chemical pulp production;;
-138;Mexico;p11a;Chemical pulp production;;
-141;Mongolia;p11a;Chemical pulp production;;
-143;Morocco;p11a;Chemical pulp production;;
-144;Mozambique;p11a;Chemical pulp production;;
-145;Micronesia (Federated States of);p11a;Chemical pulp production;;
-146;Republic of Moldova;p11a;Chemical pulp production;;
-147;Namibia;p11a;Chemical pulp production;;
-149;Nepal;p11a;Chemical pulp production;;
-150;Netherlands;p11a;Chemical pulp production;;
-151;Netherlands Antilles;p11a;Chemical pulp production;;
-153;New Caledonia;p11a;Chemical pulp production;;
-154;North Macedonia;p11a;Chemical pulp production;;
-155;Vanuatu;p11a;Chemical pulp production;;
-156;New Zealand;p11a;Chemical pulp production;;
-157;Nicaragua;p11a;Chemical pulp production;;
-158;Niger;p11a;Chemical pulp production;;
-159;Nigeria;p11a;Chemical pulp production;;
-160;Niue;p11a;Chemical pulp production;;
-161;Norfolk Island;p11a;Chemical pulp production;;
-162;Norway;p11a;Chemical pulp production;;
-165;Pakistan;p11a;Chemical pulp production;;
-166;Panama;p11a;Chemical pulp production;;
-167;Czechia;p11a;Chemical pulp production;;
-168;Papua New Guinea;p11a;Chemical pulp production;;
-169;Paraguay;p11a;Chemical pulp production;;
-170;Peru;p11a;Chemical pulp production;;
-171;Philippines;p11a;Chemical pulp production;;
-173;Poland;p11a;Chemical pulp production;;
-174;Portugal;p11a;Chemical pulp production;;
-175;Guinea-Bissau;p11a;Chemical pulp production;;
-176;Timor-Leste;p11a;Chemical pulp production;;
-178;Eritrea;p11a;Chemical pulp production;;
-179;Qatar;p11a;Chemical pulp production;;
-181;Zimbabwe;p11a;Chemical pulp production;;
-182;Reunion;p11a;Chemical pulp production;;
-183;Romania;p11a;Chemical pulp production;;
-184;Rwanda;p11a;Chemical pulp production;;
-185;Russian Federation;p11a;Chemical pulp production;;
-186;Serbia and Montenegro;p11a;Chemical pulp production;;
-189;Saint Lucia;p11a;Chemical pulp production;;
-190;Saint Pierre and Miquelon;p11a;Chemical pulp production;;
-191;Saint Vincent and the Grenadines;p11a;Chemical pulp production;;
-193;Sao Tome and Principe;p11a;Chemical pulp production;;
-194;Saudi Arabia;p11a;Chemical pulp production;;
-195;Senegal;p11a;Chemical pulp production;;
-196;Seychelles;p11a;Chemical pulp production;;
-197;Sierra Leone;p11a;Chemical pulp production;;
-198;Slovenia;p11a;Chemical pulp production;;
-199;Slovakia;p11a;Chemical pulp production;;
-200;Singapore;p11a;Chemical pulp production;;
-201;Somalia;p11a;Chemical pulp production;;
-202;South Africa;p11a;Chemical pulp production;;
-203;Spain;p11a;Chemical pulp production;;
-207;Suriname;p11a;Chemical pulp production;;
-208;Tajikistan;p11a;Chemical pulp production;;
-209;Eswatini;p11a;Chemical pulp production;;
-210;Sweden;p11a;Chemical pulp production;0.77;0.23
-211;Switzerland;p11a;Chemical pulp production;;
-212;Syrian Arab Republic;p11a;Chemical pulp production;;
-213;Turkmenistan;p11a;Chemical pulp production;;
-214;China, Taiwan Province of;p11a;Chemical pulp production;;
-215;United Republic of Tanzania;p11a;Chemical pulp production;;
-216;Thailand;p11a;Chemical pulp production;;
-217;Togo;p11a;Chemical pulp production;;
-219;Tonga;p11a;Chemical pulp production;;
-220;Trinidad and Tobago;p11a;Chemical pulp production;;
-221;Oman;p11a;Chemical pulp production;;
-222;Tunisia;p11a;Chemical pulp production;;
-223;Turkey;p11a;Chemical pulp production;;
-224;Turks and Caicos Islands;p11a;Chemical pulp production;;
-225;United Arab Emirates;p11a;Chemical pulp production;;
-226;Uganda;p11a;Chemical pulp production;;
-229;United Kingdom;p11a;Chemical pulp production;;
-230;Ukraine;p11a;Chemical pulp production;;
-231;United States of America;p11a;Chemical pulp production;0.54;0.46
-233;Burkina Faso;p11a;Chemical pulp production;;
-234;Uruguay;p11a;Chemical pulp production;;
-235;Uzbekistan;p11a;Chemical pulp production;;
-236;Venezuela (Bolivarian Republic of);p11a;Chemical pulp production;;
-237;Viet Nam;p11a;Chemical pulp production;;
-238;Ethiopia;p11a;Chemical pulp production;;
-239;British Virgin Islands;p11a;Chemical pulp production;;
-244;Samoa;p11a;Chemical pulp production;;
-249;Yemen;p11a;Chemical pulp production;;
-250;Democratic Republic of the Congo;p11a;Chemical pulp production;;
-251;Zambia;p11a;Chemical pulp production;;
-255;Belgium;p11a;Chemical pulp production;;
-256;Luxembourg;p11a;Chemical pulp production;;
-270;Mayotte;p11a;Chemical pulp production;;
-272;Serbia;p11a;Chemical pulp production;;
-273;Montenegro;p11a;Chemical pulp production;;
-276;Sudan;p11a;Chemical pulp production;;
-277;South Sudan;p11a;Chemical pulp production;;
-5;American Samoa;p11a;Chemical pulp production;;
-8;Antigua and Barbuda;p11a;Chemical pulp production;;
-17;Bermuda;p11a;Chemical pulp production;;
-24;British Indian Ocean Territory;p11a;Chemical pulp production;;
-36;Cayman Islands;p11a;Chemical pulp production;;
-43;Cocos (Keeling) Islands;p11a;Chemical pulp production;;
-71;French Southern and Antarctic Territories;p11a;Chemical pulp production;;
-85;Greenland;p11a;Chemical pulp production;;
-86;Grenada;p11a;Chemical pulp production;;
-88;Guam;p11a;Chemical pulp production;;
-94;Holy See;p11a;Chemical pulp production;;
-127;Marshall Islands;p11a;Chemical pulp production;;
-142;Montserrat;p11a;Chemical pulp production;;
-148;Nauru;p11a;Chemical pulp production;;
-163;Northern Mariana Islands;p11a;Chemical pulp production;;
-164;Pacific Islands Trust Territory;p11a;Chemical pulp production;;
-172;Pitcairn Islands;p11a;Chemical pulp production;;
-180;Palau;p11a;Chemical pulp production;;
-187;Saint Helena, Ascension and Tristan da Cunha;p11a;Chemical pulp production;;
-188;Saint Kitts and Nevis;p11a;Chemical pulp production;;
-192;San Marino;p11a;Chemical pulp production;;
-205;Western Sahara;p11a;Chemical pulp production;;
-218;Tokelau;p11a;Chemical pulp production;;
-227;Tuvalu;p11a;Chemical pulp production;;
-228;USSR;p11a;Chemical pulp production;;
-242;Wake Island;p11a;Chemical pulp production;;
-243;Wallis and Futuna Islands;p11a;Chemical pulp production;;
-248;Yugoslav SFR;p11a;Chemical pulp production;;
-258;Anguilla;p11a;Chemical pulp production;;
-279;Curaçao;p11a;Chemical pulp production;;
-281;Saint-Martin (French Part);p11a;Chemical pulp production;;
-299;Palestine;p11a;Chemical pulp production;;
-252;Unspecified Area;p11a;Chemical pulp production;;
-254;Others (adjustment);p11a;Chemical pulp production;;
-999;RoW;p11a;Chemical pulp production;;
-;ASI;p11a;Chemical pulp production;;
-;EUR;p11a;Chemical pulp production;0.75;0.25
-;AFR;p11a;Chemical pulp production;;
-;LAM;p11a;Chemical pulp production;;
-;OCE;p11a;Chemical pulp production;;
-;NAM;p11a;Chemical pulp production;;
-1;Armenia;p11b;Mechanical and semi-chemical pulp production;;
-2;Afghanistan;p11b;Mechanical and semi-chemical pulp production;;
-3;Albania;p11b;Mechanical and semi-chemical pulp production;;
-4;Algeria;p11b;Mechanical and semi-chemical pulp production;;
-6;Andorra;p11b;Mechanical and semi-chemical pulp production;;
-7;Angola;p11b;Mechanical and semi-chemical pulp production;;
-9;Argentina;p11b;Mechanical and semi-chemical pulp production;;
-10;Australia;p11b;Mechanical and semi-chemical pulp production;;
-11;Austria;p11b;Mechanical and semi-chemical pulp production;;
-12;Bahamas;p11b;Mechanical and semi-chemical pulp production;;
-13;Bahrain;p11b;Mechanical and semi-chemical pulp production;;
-14;Barbados;p11b;Mechanical and semi-chemical pulp production;;
-15;Belgium-Luxembourg;p11b;Mechanical and semi-chemical pulp production;;
-16;Bangladesh;p11b;Mechanical and semi-chemical pulp production;;
-18;Bhutan;p11b;Mechanical and semi-chemical pulp production;;
-19;Bolivia (Plurinational State of);p11b;Mechanical and semi-chemical pulp production;;
-20;Botswana;p11b;Mechanical and semi-chemical pulp production;;
-21;Brazil;p11b;Mechanical and semi-chemical pulp production;0.96;0.04
-22;Aruba;p11b;Mechanical and semi-chemical pulp production;;
-23;Belize;p11b;Mechanical and semi-chemical pulp production;;
-25;Solomon Islands;p11b;Mechanical and semi-chemical pulp production;;
-26;Brunei Darussalam;p11b;Mechanical and semi-chemical pulp production;;
-27;Bulgaria;p11b;Mechanical and semi-chemical pulp production;;
-28;Myanmar;p11b;Mechanical and semi-chemical pulp production;;
-29;Burundi;p11b;Mechanical and semi-chemical pulp production;;
-32;Cameroon;p11b;Mechanical and semi-chemical pulp production;;
-33;Canada;p11b;Mechanical and semi-chemical pulp production;0.45;0.55
-35;Cabo Verde;p11b;Mechanical and semi-chemical pulp production;;
-37;Central African Republic;p11b;Mechanical and semi-chemical pulp production;;
-38;Sri Lanka;p11b;Mechanical and semi-chemical pulp production;;
-39;Chad;p11b;Mechanical and semi-chemical pulp production;;
-40;Chile;p11b;Mechanical and semi-chemical pulp production;0.25;0.75
-41;China, mainland;p11b;Mechanical and semi-chemical pulp production;;
-42;Christmas Island;p11b;Mechanical and semi-chemical pulp production;;
-44;Colombia;p11b;Mechanical and semi-chemical pulp production;;
-45;Comoros;p11b;Mechanical and semi-chemical pulp production;;
-46;Congo;p11b;Mechanical and semi-chemical pulp production;;
-47;Cook Islands;p11b;Mechanical and semi-chemical pulp production;;
-48;Costa Rica;p11b;Mechanical and semi-chemical pulp production;;
-49;Cuba;p11b;Mechanical and semi-chemical pulp production;;
-50;Cyprus;p11b;Mechanical and semi-chemical pulp production;;
-51;Czechoslovakia;p11b;Mechanical and semi-chemical pulp production;;
-52;Azerbaijan;p11b;Mechanical and semi-chemical pulp production;;
-53;Benin;p11b;Mechanical and semi-chemical pulp production;;
-54;Denmark;p11b;Mechanical and semi-chemical pulp production;;
-55;Dominica;p11b;Mechanical and semi-chemical pulp production;;
-56;Dominican Republic;p11b;Mechanical and semi-chemical pulp production;;
-57;Belarus;p11b;Mechanical and semi-chemical pulp production;;
-58;Ecuador;p11b;Mechanical and semi-chemical pulp production;;
-59;Egypt;p11b;Mechanical and semi-chemical pulp production;;
-60;El Salvador;p11b;Mechanical and semi-chemical pulp production;;
-61;Equatorial Guinea;p11b;Mechanical and semi-chemical pulp production;;
-63;Estonia;p11b;Mechanical and semi-chemical pulp production;;
-64;Faroe Islands;p11b;Mechanical and semi-chemical pulp production;;
-65;Falkland Islands (Malvinas);p11b;Mechanical and semi-chemical pulp production;;
-66;Fiji;p11b;Mechanical and semi-chemical pulp production;;
-67;Finland;p11b;Mechanical and semi-chemical pulp production;0.9;0.1
-68;France;p11b;Mechanical and semi-chemical pulp production;;
-69;French Guyana;p11b;Mechanical and semi-chemical pulp production;;
-70;French Polynesia;p11b;Mechanical and semi-chemical pulp production;;
-72;Djibouti;p11b;Mechanical and semi-chemical pulp production;;
-73;Georgia;p11b;Mechanical and semi-chemical pulp production;;
-74;Gabon;p11b;Mechanical and semi-chemical pulp production;;
-75;Gambia;p11b;Mechanical and semi-chemical pulp production;;
-79;Germany;p11b;Mechanical and semi-chemical pulp production;;
-80;Bosnia and Herzegovina;p11b;Mechanical and semi-chemical pulp production;;
-81;Ghana;p11b;Mechanical and semi-chemical pulp production;;
-82;Gibraltar;p11b;Mechanical and semi-chemical pulp production;;
-83;Kiribati;p11b;Mechanical and semi-chemical pulp production;;
-84;Greece;p11b;Mechanical and semi-chemical pulp production;;
-87;Guadeloupe;p11b;Mechanical and semi-chemical pulp production;;
-89;Guatemala;p11b;Mechanical and semi-chemical pulp production;;
-90;Guinea;p11b;Mechanical and semi-chemical pulp production;;
-91;Guyana;p11b;Mechanical and semi-chemical pulp production;;
-93;Haiti;p11b;Mechanical and semi-chemical pulp production;;
-95;Honduras;p11b;Mechanical and semi-chemical pulp production;;
-96;China, Hong Kong SAR;p11b;Mechanical and semi-chemical pulp production;;
-97;Hungary;p11b;Mechanical and semi-chemical pulp production;;
-98;Croatia;p11b;Mechanical and semi-chemical pulp production;;
-99;Iceland;p11b;Mechanical and semi-chemical pulp production;;
-100;India;p11b;Mechanical and semi-chemical pulp production;;
-101;Indonesia;p11b;Mechanical and semi-chemical pulp production;;
-102;Iran (Islamic Republic of);p11b;Mechanical and semi-chemical pulp production;;
-103;Iraq;p11b;Mechanical and semi-chemical pulp production;;
-104;Ireland;p11b;Mechanical and semi-chemical pulp production;;
-105;Israel;p11b;Mechanical and semi-chemical pulp production;;
-106;Italy;p11b;Mechanical and semi-chemical pulp production;;
-107;Cote d'Ivoire;p11b;Mechanical and semi-chemical pulp production;;
-108;Kazakhstan;p11b;Mechanical and semi-chemical pulp production;;
-109;Jamaica;p11b;Mechanical and semi-chemical pulp production;;
-110;Japan;p11b;Mechanical and semi-chemical pulp production;0.01;0.99
-112;Jordan;p11b;Mechanical and semi-chemical pulp production;;
-113;Kyrgyzstan;p11b;Mechanical and semi-chemical pulp production;;
-114;Kenya;p11b;Mechanical and semi-chemical pulp production;;
-115;Cambodia;p11b;Mechanical and semi-chemical pulp production;;
-116;Democratic People's Republic of Korea;p11b;Mechanical and semi-chemical pulp production;;
-117;Republic of Korea;p11b;Mechanical and semi-chemical pulp production;;
-118;Kuwait;p11b;Mechanical and semi-chemical pulp production;;
-119;Latvia;p11b;Mechanical and semi-chemical pulp production;;
-120;Lao People's Democratic Republic;p11b;Mechanical and semi-chemical pulp production;;
-121;Lebanon;p11b;Mechanical and semi-chemical pulp production;;
-122;Lesotho;p11b;Mechanical and semi-chemical pulp production;;
-123;Liberia;p11b;Mechanical and semi-chemical pulp production;;
-124;Libya;p11b;Mechanical and semi-chemical pulp production;;
-125;Liechtenstein;p11b;Mechanical and semi-chemical pulp production;;
-126;Lithuania;p11b;Mechanical and semi-chemical pulp production;;
-128;China, Macao SAR;p11b;Mechanical and semi-chemical pulp production;;
-129;Madagascar;p11b;Mechanical and semi-chemical pulp production;;
-130;Malawi;p11b;Mechanical and semi-chemical pulp production;;
-131;Malaysia;p11b;Mechanical and semi-chemical pulp production;;
-132;Maldives;p11b;Mechanical and semi-chemical pulp production;;
-133;Mali;p11b;Mechanical and semi-chemical pulp production;;
-134;Malta;p11b;Mechanical and semi-chemical pulp production;;
-135;Martinique;p11b;Mechanical and semi-chemical pulp production;;
-136;Mauritania;p11b;Mechanical and semi-chemical pulp production;;
-137;Mauritius;p11b;Mechanical and semi-chemical pulp production;;
-138;Mexico;p11b;Mechanical and semi-chemical pulp production;;
-141;Mongolia;p11b;Mechanical and semi-chemical pulp production;;
-143;Morocco;p11b;Mechanical and semi-chemical pulp production;;
-144;Mozambique;p11b;Mechanical and semi-chemical pulp production;;
-145;Micronesia (Federated States of);p11b;Mechanical and semi-chemical pulp production;;
-146;Republic of Moldova;p11b;Mechanical and semi-chemical pulp production;;
-147;Namibia;p11b;Mechanical and semi-chemical pulp production;;
-149;Nepal;p11b;Mechanical and semi-chemical pulp production;;
-150;Netherlands;p11b;Mechanical and semi-chemical pulp production;;
-151;Netherlands Antilles;p11b;Mechanical and semi-chemical pulp production;;
-153;New Caledonia;p11b;Mechanical and semi-chemical pulp production;;
-154;North Macedonia;p11b;Mechanical and semi-chemical pulp production;;
-155;Vanuatu;p11b;Mechanical and semi-chemical pulp production;;
-156;New Zealand;p11b;Mechanical and semi-chemical pulp production;;
-157;Nicaragua;p11b;Mechanical and semi-chemical pulp production;;
-158;Niger;p11b;Mechanical and semi-chemical pulp production;;
-159;Nigeria;p11b;Mechanical and semi-chemical pulp production;;
-160;Niue;p11b;Mechanical and semi-chemical pulp production;;
-161;Norfolk Island;p11b;Mechanical and semi-chemical pulp production;;
-162;Norway;p11b;Mechanical and semi-chemical pulp production;;
-165;Pakistan;p11b;Mechanical and semi-chemical pulp production;;
-166;Panama;p11b;Mechanical and semi-chemical pulp production;;
-167;Czechia;p11b;Mechanical and semi-chemical pulp production;;
-168;Papua New Guinea;p11b;Mechanical and semi-chemical pulp production;;
-169;Paraguay;p11b;Mechanical and semi-chemical pulp production;;
-170;Peru;p11b;Mechanical and semi-chemical pulp production;;
-171;Philippines;p11b;Mechanical and semi-chemical pulp production;;
-173;Poland;p11b;Mechanical and semi-chemical pulp production;;
-174;Portugal;p11b;Mechanical and semi-chemical pulp production;;
-175;Guinea-Bissau;p11b;Mechanical and semi-chemical pulp production;;
-176;Timor-Leste;p11b;Mechanical and semi-chemical pulp production;;
-178;Eritrea;p11b;Mechanical and semi-chemical pulp production;;
-179;Qatar;p11b;Mechanical and semi-chemical pulp production;;
-181;Zimbabwe;p11b;Mechanical and semi-chemical pulp production;;
-182;Reunion;p11b;Mechanical and semi-chemical pulp production;;
-183;Romania;p11b;Mechanical and semi-chemical pulp production;;
-184;Rwanda;p11b;Mechanical and semi-chemical pulp production;;
-185;Russian Federation;p11b;Mechanical and semi-chemical pulp production;;
-186;Serbia and Montenegro;p11b;Mechanical and semi-chemical pulp production;;
-189;Saint Lucia;p11b;Mechanical and semi-chemical pulp production;;
-190;Saint Pierre and Miquelon;p11b;Mechanical and semi-chemical pulp production;;
-191;Saint Vincent and the Grenadines;p11b;Mechanical and semi-chemical pulp production;;
-193;Sao Tome and Principe;p11b;Mechanical and semi-chemical pulp production;;
-194;Saudi Arabia;p11b;Mechanical and semi-chemical pulp production;;
-195;Senegal;p11b;Mechanical and semi-chemical pulp production;;
-196;Seychelles;p11b;Mechanical and semi-chemical pulp production;;
-197;Sierra Leone;p11b;Mechanical and semi-chemical pulp production;;
-198;Slovenia;p11b;Mechanical and semi-chemical pulp production;;
-199;Slovakia;p11b;Mechanical and semi-chemical pulp production;;
-200;Singapore;p11b;Mechanical and semi-chemical pulp production;;
-201;Somalia;p11b;Mechanical and semi-chemical pulp production;;
-202;South Africa;p11b;Mechanical and semi-chemical pulp production;;
-203;Spain;p11b;Mechanical and semi-chemical pulp production;;
-207;Suriname;p11b;Mechanical and semi-chemical pulp production;;
-208;Tajikistan;p11b;Mechanical and semi-chemical pulp production;;
-209;Eswatini;p11b;Mechanical and semi-chemical pulp production;;
-210;Sweden;p11b;Mechanical and semi-chemical pulp production;0.77;0.23
-211;Switzerland;p11b;Mechanical and semi-chemical pulp production;;
-212;Syrian Arab Republic;p11b;Mechanical and semi-chemical pulp production;;
-213;Turkmenistan;p11b;Mechanical and semi-chemical pulp production;;
-214;China, Taiwan Province of;p11b;Mechanical and semi-chemical pulp production;;
-215;United Republic of Tanzania;p11b;Mechanical and semi-chemical pulp production;;
-216;Thailand;p11b;Mechanical and semi-chemical pulp production;;
-217;Togo;p11b;Mechanical and semi-chemical pulp production;;
-219;Tonga;p11b;Mechanical and semi-chemical pulp production;;
-220;Trinidad and Tobago;p11b;Mechanical and semi-chemical pulp production;;
-221;Oman;p11b;Mechanical and semi-chemical pulp production;;
-222;Tunisia;p11b;Mechanical and semi-chemical pulp production;;
-223;Turkey;p11b;Mechanical and semi-chemical pulp production;;
-224;Turks and Caicos Islands;p11b;Mechanical and semi-chemical pulp production;;
-225;United Arab Emirates;p11b;Mechanical and semi-chemical pulp production;;
-226;Uganda;p11b;Mechanical and semi-chemical pulp production;;
-229;United Kingdom;p11b;Mechanical and semi-chemical pulp production;;
-230;Ukraine;p11b;Mechanical and semi-chemical pulp production;;
-231;United States of America;p11b;Mechanical and semi-chemical pulp production;0.54;0.46
-233;Burkina Faso;p11b;Mechanical and semi-chemical pulp production;;
-234;Uruguay;p11b;Mechanical and semi-chemical pulp production;;
-235;Uzbekistan;p11b;Mechanical and semi-chemical pulp production;;
-236;Venezuela (Bolivarian Republic of);p11b;Mechanical and semi-chemical pulp production;;
-237;Viet Nam;p11b;Mechanical and semi-chemical pulp production;;
-238;Ethiopia;p11b;Mechanical and semi-chemical pulp production;;
-239;British Virgin Islands;p11b;Mechanical and semi-chemical pulp production;;
-244;Samoa;p11b;Mechanical and semi-chemical pulp production;;
-249;Yemen;p11b;Mechanical and semi-chemical pulp production;;
-250;Democratic Republic of the Congo;p11b;Mechanical and semi-chemical pulp production;;
-251;Zambia;p11b;Mechanical and semi-chemical pulp production;;
-255;Belgium;p11b;Mechanical and semi-chemical pulp production;;
-256;Luxembourg;p11b;Mechanical and semi-chemical pulp production;;
-270;Mayotte;p11b;Mechanical and semi-chemical pulp production;;
-272;Serbia;p11b;Mechanical and semi-chemical pulp production;;
-273;Montenegro;p11b;Mechanical and semi-chemical pulp production;;
-276;Sudan;p11b;Mechanical and semi-chemical pulp production;;
-277;South Sudan;p11b;Mechanical and semi-chemical pulp production;;
-5;American Samoa;p11b;Mechanical and semi-chemical pulp production;;
-8;Antigua and Barbuda;p11b;Mechanical and semi-chemical pulp production;;
-17;Bermuda;p11b;Mechanical and semi-chemical pulp production;;
-24;British Indian Ocean Territory;p11b;Mechanical and semi-chemical pulp production;;
-36;Cayman Islands;p11b;Mechanical and semi-chemical pulp production;;
-43;Cocos (Keeling) Islands;p11b;Mechanical and semi-chemical pulp production;;
-71;French Southern and Antarctic Territories;p11b;Mechanical and semi-chemical pulp production;;
-85;Greenland;p11b;Mechanical and semi-chemical pulp production;;
-86;Grenada;p11b;Mechanical and semi-chemical pulp production;;
-88;Guam;p11b;Mechanical and semi-chemical pulp production;;
-94;Holy See;p11b;Mechanical and semi-chemical pulp production;;
-127;Marshall Islands;p11b;Mechanical and semi-chemical pulp production;;
-142;Montserrat;p11b;Mechanical and semi-chemical pulp production;;
-148;Nauru;p11b;Mechanical and semi-chemical pulp production;;
-163;Northern Mariana Islands;p11b;Mechanical and semi-chemical pulp production;;
-164;Pacific Islands Trust Territory;p11b;Mechanical and semi-chemical pulp production;;
-172;Pitcairn Islands;p11b;Mechanical and semi-chemical pulp production;;
-180;Palau;p11b;Mechanical and semi-chemical pulp production;;
-187;Saint Helena, Ascension and Tristan da Cunha;p11b;Mechanical and semi-chemical pulp production;;
-188;Saint Kitts and Nevis;p11b;Mechanical and semi-chemical pulp production;;
-192;San Marino;p11b;Mechanical and semi-chemical pulp production;;
-205;Western Sahara;p11b;Mechanical and semi-chemical pulp production;;
-218;Tokelau;p11b;Mechanical and semi-chemical pulp production;;
-227;Tuvalu;p11b;Mechanical and semi-chemical pulp production;;
-228;USSR;p11b;Mechanical and semi-chemical pulp production;;
-242;Wake Island;p11b;Mechanical and semi-chemical pulp production;;
-243;Wallis and Futuna Islands;p11b;Mechanical and semi-chemical pulp production;;
-248;Yugoslav SFR;p11b;Mechanical and semi-chemical pulp production;;
-258;Anguilla;p11b;Mechanical and semi-chemical pulp production;;
-279;Curaçao;p11b;Mechanical and semi-chemical pulp production;;
-281;Saint-Martin (French Part);p11b;Mechanical and semi-chemical pulp production;;
-299;Palestine;p11b;Mechanical and semi-chemical pulp production;;
-252;Unspecified Area;p11b;Mechanical and semi-chemical pulp production;;
-254;Others (adjustment);p11b;Mechanical and semi-chemical pulp production;;
-999;RoW;p11b;Mechanical and semi-chemical pulp production;;
-;ASI;p11b;Mechanical and semi-chemical pulp production;;
-;EUR;p11b;Mechanical and semi-chemical pulp production;0.75;0.25
-;AFR;p11b;Mechanical and semi-chemical pulp production;;
-;LAM;p11b;Mechanical and semi-chemical pulp production;;
-;OCE;p11b;Mechanical and semi-chemical pulp production;;
-;NAM;p11b;Mechanical and semi-chemical pulp production;;
-1;Armenia;p11d;Dissolving pulp production;;
-2;Afghanistan;p11d;Dissolving pulp production;;
-3;Albania;p11d;Dissolving pulp production;;
-4;Algeria;p11d;Dissolving pulp production;;
-6;Andorra;p11d;Dissolving pulp production;;
-7;Angola;p11d;Dissolving pulp production;;
-9;Argentina;p11d;Dissolving pulp production;;
-10;Australia;p11d;Dissolving pulp production;;
-11;Austria;p11d;Dissolving pulp production;;
-12;Bahamas;p11d;Dissolving pulp production;;
-13;Bahrain;p11d;Dissolving pulp production;;
-14;Barbados;p11d;Dissolving pulp production;;
-15;Belgium-Luxembourg;p11d;Dissolving pulp production;;
-16;Bangladesh;p11d;Dissolving pulp production;;
-18;Bhutan;p11d;Dissolving pulp production;;
-19;Bolivia (Plurinational State of);p11d;Dissolving pulp production;;
-20;Botswana;p11d;Dissolving pulp production;;
-21;Brazil;p11d;Dissolving pulp production;0.96;0.04
-22;Aruba;p11d;Dissolving pulp production;;
-23;Belize;p11d;Dissolving pulp production;;
-25;Solomon Islands;p11d;Dissolving pulp production;;
-26;Brunei Darussalam;p11d;Dissolving pulp production;;
-27;Bulgaria;p11d;Dissolving pulp production;;
-28;Myanmar;p11d;Dissolving pulp production;;
-29;Burundi;p11d;Dissolving pulp production;;
-32;Cameroon;p11d;Dissolving pulp production;;
-33;Canada;p11d;Dissolving pulp production;0.45;0.55
-35;Cabo Verde;p11d;Dissolving pulp production;;
-37;Central African Republic;p11d;Dissolving pulp production;;
-38;Sri Lanka;p11d;Dissolving pulp production;;
-39;Chad;p11d;Dissolving pulp production;;
-40;Chile;p11d;Dissolving pulp production;0.25;0.75
-41;China, mainland;p11d;Dissolving pulp production;;
-42;Christmas Island;p11d;Dissolving pulp production;;
-44;Colombia;p11d;Dissolving pulp production;;
-45;Comoros;p11d;Dissolving pulp production;;
-46;Congo;p11d;Dissolving pulp production;;
-47;Cook Islands;p11d;Dissolving pulp production;;
-48;Costa Rica;p11d;Dissolving pulp production;;
-49;Cuba;p11d;Dissolving pulp production;;
-50;Cyprus;p11d;Dissolving pulp production;;
-51;Czechoslovakia;p11d;Dissolving pulp production;;
-52;Azerbaijan;p11d;Dissolving pulp production;;
-53;Benin;p11d;Dissolving pulp production;;
-54;Denmark;p11d;Dissolving pulp production;;
-55;Dominica;p11d;Dissolving pulp production;;
-56;Dominican Republic;p11d;Dissolving pulp production;;
-57;Belarus;p11d;Dissolving pulp production;;
-58;Ecuador;p11d;Dissolving pulp production;;
-59;Egypt;p11d;Dissolving pulp production;;
-60;El Salvador;p11d;Dissolving pulp production;;
-61;Equatorial Guinea;p11d;Dissolving pulp production;;
-63;Estonia;p11d;Dissolving pulp production;;
-64;Faroe Islands;p11d;Dissolving pulp production;;
-65;Falkland Islands (Malvinas);p11d;Dissolving pulp production;;
-66;Fiji;p11d;Dissolving pulp production;;
-67;Finland;p11d;Dissolving pulp production;0.9;0.1
-68;France;p11d;Dissolving pulp production;;
-69;French Guyana;p11d;Dissolving pulp production;;
-70;French Polynesia;p11d;Dissolving pulp production;;
-72;Djibouti;p11d;Dissolving pulp production;;
-73;Georgia;p11d;Dissolving pulp production;;
-74;Gabon;p11d;Dissolving pulp production;;
-75;Gambia;p11d;Dissolving pulp production;;
-79;Germany;p11d;Dissolving pulp production;;
-80;Bosnia and Herzegovina;p11d;Dissolving pulp production;;
-81;Ghana;p11d;Dissolving pulp production;;
-82;Gibraltar;p11d;Dissolving pulp production;;
-83;Kiribati;p11d;Dissolving pulp production;;
-84;Greece;p11d;Dissolving pulp production;;
-87;Guadeloupe;p11d;Dissolving pulp production;;
-89;Guatemala;p11d;Dissolving pulp production;;
-90;Guinea;p11d;Dissolving pulp production;;
-91;Guyana;p11d;Dissolving pulp production;;
-93;Haiti;p11d;Dissolving pulp production;;
-95;Honduras;p11d;Dissolving pulp production;;
-96;China, Hong Kong SAR;p11d;Dissolving pulp production;;
-97;Hungary;p11d;Dissolving pulp production;;
-98;Croatia;p11d;Dissolving pulp production;;
-99;Iceland;p11d;Dissolving pulp production;;
-100;India;p11d;Dissolving pulp production;;
-101;Indonesia;p11d;Dissolving pulp production;;
-102;Iran (Islamic Republic of);p11d;Dissolving pulp production;;
-103;Iraq;p11d;Dissolving pulp production;;
-104;Ireland;p11d;Dissolving pulp production;;
-105;Israel;p11d;Dissolving pulp production;;
-106;Italy;p11d;Dissolving pulp production;;
-107;Cote d'Ivoire;p11d;Dissolving pulp production;;
-108;Kazakhstan;p11d;Dissolving pulp production;;
-109;Jamaica;p11d;Dissolving pulp production;;
-110;Japan;p11d;Dissolving pulp production;0.01;0.99
-112;Jordan;p11d;Dissolving pulp production;;
-113;Kyrgyzstan;p11d;Dissolving pulp production;;
-114;Kenya;p11d;Dissolving pulp production;;
-115;Cambodia;p11d;Dissolving pulp production;;
-116;Democratic People's Republic of Korea;p11d;Dissolving pulp production;;
-117;Republic of Korea;p11d;Dissolving pulp production;;
-118;Kuwait;p11d;Dissolving pulp production;;
-119;Latvia;p11d;Dissolving pulp production;;
-120;Lao People's Democratic Republic;p11d;Dissolving pulp production;;
-121;Lebanon;p11d;Dissolving pulp production;;
-122;Lesotho;p11d;Dissolving pulp production;;
-123;Liberia;p11d;Dissolving pulp production;;
-124;Libya;p11d;Dissolving pulp production;;
-125;Liechtenstein;p11d;Dissolving pulp production;;
-126;Lithuania;p11d;Dissolving pulp production;;
-128;China, Macao SAR;p11d;Dissolving pulp production;;
-129;Madagascar;p11d;Dissolving pulp production;;
-130;Malawi;p11d;Dissolving pulp production;;
-131;Malaysia;p11d;Dissolving pulp production;;
-132;Maldives;p11d;Dissolving pulp production;;
-133;Mali;p11d;Dissolving pulp production;;
-134;Malta;p11d;Dissolving pulp production;;
-135;Martinique;p11d;Dissolving pulp production;;
-136;Mauritania;p11d;Dissolving pulp production;;
-137;Mauritius;p11d;Dissolving pulp production;;
-138;Mexico;p11d;Dissolving pulp production;;
-141;Mongolia;p11d;Dissolving pulp production;;
-143;Morocco;p11d;Dissolving pulp production;;
-144;Mozambique;p11d;Dissolving pulp production;;
-145;Micronesia (Federated States of);p11d;Dissolving pulp production;;
-146;Republic of Moldova;p11d;Dissolving pulp production;;
-147;Namibia;p11d;Dissolving pulp production;;
-149;Nepal;p11d;Dissolving pulp production;;
-150;Netherlands;p11d;Dissolving pulp production;;
-151;Netherlands Antilles;p11d;Dissolving pulp production;;
-153;New Caledonia;p11d;Dissolving pulp production;;
-154;North Macedonia;p11d;Dissolving pulp production;;
-155;Vanuatu;p11d;Dissolving pulp production;;
-156;New Zealand;p11d;Dissolving pulp production;;
-157;Nicaragua;p11d;Dissolving pulp production;;
-158;Niger;p11d;Dissolving pulp production;;
-159;Nigeria;p11d;Dissolving pulp production;;
-160;Niue;p11d;Dissolving pulp production;;
-161;Norfolk Island;p11d;Dissolving pulp production;;
-162;Norway;p11d;Dissolving pulp production;;
-165;Pakistan;p11d;Dissolving pulp production;;
-166;Panama;p11d;Dissolving pulp production;;
-167;Czechia;p11d;Dissolving pulp production;;
-168;Papua New Guinea;p11d;Dissolving pulp production;;
-169;Paraguay;p11d;Dissolving pulp production;;
-170;Peru;p11d;Dissolving pulp production;;
-171;Philippines;p11d;Dissolving pulp production;;
-173;Poland;p11d;Dissolving pulp production;;
-174;Portugal;p11d;Dissolving pulp production;;
-175;Guinea-Bissau;p11d;Dissolving pulp production;;
-176;Timor-Leste;p11d;Dissolving pulp production;;
-178;Eritrea;p11d;Dissolving pulp production;;
-179;Qatar;p11d;Dissolving pulp production;;
-181;Zimbabwe;p11d;Dissolving pulp production;;
-182;Reunion;p11d;Dissolving pulp production;;
-183;Romania;p11d;Dissolving pulp production;;
-184;Rwanda;p11d;Dissolving pulp production;;
-185;Russian Federation;p11d;Dissolving pulp production;;
-186;Serbia and Montenegro;p11d;Dissolving pulp production;;
-189;Saint Lucia;p11d;Dissolving pulp production;;
-190;Saint Pierre and Miquelon;p11d;Dissolving pulp production;;
-191;Saint Vincent and the Grenadines;p11d;Dissolving pulp production;;
-193;Sao Tome and Principe;p11d;Dissolving pulp production;;
-194;Saudi Arabia;p11d;Dissolving pulp production;;
-195;Senegal;p11d;Dissolving pulp production;;
-196;Seychelles;p11d;Dissolving pulp production;;
-197;Sierra Leone;p11d;Dissolving pulp production;;
-198;Slovenia;p11d;Dissolving pulp production;;
-199;Slovakia;p11d;Dissolving pulp production;;
-200;Singapore;p11d;Dissolving pulp production;;
-201;Somalia;p11d;Dissolving pulp production;;
-202;South Africa;p11d;Dissolving pulp production;;
-203;Spain;p11d;Dissolving pulp production;;
-207;Suriname;p11d;Dissolving pulp production;;
-208;Tajikistan;p11d;Dissolving pulp production;;
-209;Eswatini;p11d;Dissolving pulp production;;
-210;Sweden;p11d;Dissolving pulp production;0.77;0.23
-211;Switzerland;p11d;Dissolving pulp production;;
-212;Syrian Arab Republic;p11d;Dissolving pulp production;;
-213;Turkmenistan;p11d;Dissolving pulp production;;
-214;China, Taiwan Province of;p11d;Dissolving pulp production;;
-215;United Republic of Tanzania;p11d;Dissolving pulp production;;
-216;Thailand;p11d;Dissolving pulp production;;
-217;Togo;p11d;Dissolving pulp production;;
-219;Tonga;p11d;Dissolving pulp production;;
-220;Trinidad and Tobago;p11d;Dissolving pulp production;;
-221;Oman;p11d;Dissolving pulp production;;
-222;Tunisia;p11d;Dissolving pulp production;;
-223;Turkey;p11d;Dissolving pulp production;;
-224;Turks and Caicos Islands;p11d;Dissolving pulp production;;
-225;United Arab Emirates;p11d;Dissolving pulp production;;
-226;Uganda;p11d;Dissolving pulp production;;
-229;United Kingdom;p11d;Dissolving pulp production;;
-230;Ukraine;p11d;Dissolving pulp production;;
-231;United States of America;p11d;Dissolving pulp production;0.54;0.46
-233;Burkina Faso;p11d;Dissolving pulp production;;
-234;Uruguay;p11d;Dissolving pulp production;;
-235;Uzbekistan;p11d;Dissolving pulp production;;
-236;Venezuela (Bolivarian Republic of);p11d;Dissolving pulp production;;
-237;Viet Nam;p11d;Dissolving pulp production;;
-238;Ethiopia;p11d;Dissolving pulp production;;
-239;British Virgin Islands;p11d;Dissolving pulp production;;
-244;Samoa;p11d;Dissolving pulp production;;
-249;Yemen;p11d;Dissolving pulp production;;
-250;Democratic Republic of the Congo;p11d;Dissolving pulp production;;
-251;Zambia;p11d;Dissolving pulp production;;
-255;Belgium;p11d;Dissolving pulp production;;
-256;Luxembourg;p11d;Dissolving pulp production;;
-270;Mayotte;p11d;Dissolving pulp production;;
-272;Serbia;p11d;Dissolving pulp production;;
-273;Montenegro;p11d;Dissolving pulp production;;
-276;Sudan;p11d;Dissolving pulp production;;
-277;South Sudan;p11d;Dissolving pulp production;;
-5;American Samoa;p11d;Dissolving pulp production;;
-8;Antigua and Barbuda;p11d;Dissolving pulp production;;
-17;Bermuda;p11d;Dissolving pulp production;;
-24;British Indian Ocean Territory;p11d;Dissolving pulp production;;
-36;Cayman Islands;p11d;Dissolving pulp production;;
-43;Cocos (Keeling) Islands;p11d;Dissolving pulp production;;
-71;French Southern and Antarctic Territories;p11d;Dissolving pulp production;;
-85;Greenland;p11d;Dissolving pulp production;;
-86;Grenada;p11d;Dissolving pulp production;;
-88;Guam;p11d;Dissolving pulp production;;
-94;Holy See;p11d;Dissolving pulp production;;
-127;Marshall Islands;p11d;Dissolving pulp production;;
-142;Montserrat;p11d;Dissolving pulp production;;
-148;Nauru;p11d;Dissolving pulp production;;
-163;Northern Mariana Islands;p11d;Dissolving pulp production;;
-164;Pacific Islands Trust Territory;p11d;Dissolving pulp production;;
-172;Pitcairn Islands;p11d;Dissolving pulp production;;
-180;Palau;p11d;Dissolving pulp production;;
-187;Saint Helena, Ascension and Tristan da Cunha;p11d;Dissolving pulp production;;
-188;Saint Kitts and Nevis;p11d;Dissolving pulp production;;
-192;San Marino;p11d;Dissolving pulp production;;
-205;Western Sahara;p11d;Dissolving pulp production;;
-218;Tokelau;p11d;Dissolving pulp production;;
-227;Tuvalu;p11d;Dissolving pulp production;;
-228;USSR;p11d;Dissolving pulp production;;
-242;Wake Island;p11d;Dissolving pulp production;;
-243;Wallis and Futuna Islands;p11d;Dissolving pulp production;;
-248;Yugoslav SFR;p11d;Dissolving pulp production;;
-258;Anguilla;p11d;Dissolving pulp production;;
-279;Curaçao;p11d;Dissolving pulp production;;
-281;Saint-Martin (French Part);p11d;Dissolving pulp production;;
-299;Palestine;p11d;Dissolving pulp production;;
-252;Unspecified Area;p11d;Dissolving pulp production;;
-254;Others (adjustment);p11d;Dissolving pulp production;;
-999;RoW;p11d;Dissolving pulp production;;
-;ASI;p11d;Dissolving pulp production;;
-;EUR;p11d;Dissolving pulp production;0.75;0.25
-;AFR;p11d;Dissolving pulp production;;
-;LAM;p11d;Dissolving pulp production;;
-;OCE;p11d;Dissolving pulp production;;
-;NAM;p11d;Dissolving pulp production;;
+area_code;area;proc_code;process;roundwood;chips;literature
+1;Armenia;p11a;Chemical pulp production;;;NA
+2;Afghanistan;p11a;Chemical pulp production;;;NA
+3;Albania;p11a;Chemical pulp production;;;NA
+4;Algeria;p11a;Chemical pulp production;;;NA
+6;Andorra;p11a;Chemical pulp production;;;NA
+7;Angola;p11a;Chemical pulp production;;;NA
+9;Argentina;p11a;Chemical pulp production;;;NA
+10;Australia;p11a;Chemical pulp production;;;NA
+11;Austria;p11a;Chemical pulp production;0.537;0.463;Lindner et al. (2017)
+12;Bahamas;p11a;Chemical pulp production;;;NA
+13;Bahrain;p11a;Chemical pulp production;;;NA
+14;Barbados;p11a;Chemical pulp production;;;NA
+15;Belgium-Luxembourg;p11a;Chemical pulp production;;;NA
+16;Bangladesh;p11a;Chemical pulp production;;;NA
+18;Bhutan;p11a;Chemical pulp production;;;NA
+19;Bolivia (Plurinational State of);p11a;Chemical pulp production;;;NA
+20;Botswana;p11a;Chemical pulp production;;;NA
+21;Brazil;p11a;Chemical pulp production;0.96;0.04;Joma Da Silva and Mantau (2020)
+22;Aruba;p11a;Chemical pulp production;;;NA
+23;Belize;p11a;Chemical pulp production;;;NA
+25;Solomon Islands;p11a;Chemical pulp production;;;NA
+26;Brunei Darussalam;p11a;Chemical pulp production;;;NA
+27;Bulgaria;p11a;Chemical pulp production;;;NA
+28;Myanmar;p11a;Chemical pulp production;;;NA
+29;Burundi;p11a;Chemical pulp production;;;NA
+32;Cameroon;p11a;Chemical pulp production;;;NA
+33;Canada;p11a;Chemical pulp production;0.45;0.55;CPPA (1999) quoted by Bogdanksi (2014)
+35;Cabo Verde;p11a;Chemical pulp production;;;NA
+37;Central African Republic;p11a;Chemical pulp production;;;NA
+38;Sri Lanka;p11a;Chemical pulp production;;;NA
+39;Chad;p11a;Chemical pulp production;;;NA
+40;Chile;p11a;Chemical pulp production;0.25;0.75;INFOR (2018)
+41;China, mainland;p11a;Chemical pulp production;;;NA
+42;Christmas Island;p11a;Chemical pulp production;;;NA
+44;Colombia;p11a;Chemical pulp production;;;NA
+45;Comoros;p11a;Chemical pulp production;;;NA
+46;Congo;p11a;Chemical pulp production;;;NA
+47;Cook Islands;p11a;Chemical pulp production;;;NA
+48;Costa Rica;p11a;Chemical pulp production;;;NA
+49;Cuba;p11a;Chemical pulp production;;;NA
+50;Cyprus;p11a;Chemical pulp production;;;NA
+51;Czechoslovakia;p11a;Chemical pulp production;;;NA
+52;Azerbaijan;p11a;Chemical pulp production;;;NA
+53;Benin;p11a;Chemical pulp production;;;NA
+54;Denmark;p11a;Chemical pulp production;;;NA
+55;Dominica;p11a;Chemical pulp production;;;NA
+56;Dominican Republic;p11a;Chemical pulp production;;;NA
+57;Belarus;p11a;Chemical pulp production;;;NA
+58;Ecuador;p11a;Chemical pulp production;;;NA
+59;Egypt;p11a;Chemical pulp production;;;NA
+60;El Salvador;p11a;Chemical pulp production;;;NA
+61;Equatorial Guinea;p11a;Chemical pulp production;;;NA
+63;Estonia;p11a;Chemical pulp production;;;NA
+64;Faroe Islands;p11a;Chemical pulp production;;;NA
+65;Falkland Islands (Malvinas);p11a;Chemical pulp production;;;NA
+66;Fiji;p11a;Chemical pulp production;;;NA
+67;Finland;p11a;Chemical pulp production;0.9;0.1;Luke (1997, 2017)
+68;France;p11a;Chemical pulp production;;;NA
+69;French Guyana;p11a;Chemical pulp production;;;NA
+70;French Polynesia;p11a;Chemical pulp production;;;NA
+72;Djibouti;p11a;Chemical pulp production;;;NA
+73;Georgia;p11a;Chemical pulp production;;;NA
+74;Gabon;p11a;Chemical pulp production;;;NA
+75;Gambia;p11a;Chemical pulp production;;;NA
+79;Germany;p11a;Chemical pulp production;0.66;0.34;Lindner et al. (2017)
+80;Bosnia and Herzegovina;p11a;Chemical pulp production;;;NA
+81;Ghana;p11a;Chemical pulp production;;;NA
+82;Gibraltar;p11a;Chemical pulp production;;;NA
+83;Kiribati;p11a;Chemical pulp production;;;NA
+84;Greece;p11a;Chemical pulp production;;;NA
+87;Guadeloupe;p11a;Chemical pulp production;;;NA
+89;Guatemala;p11a;Chemical pulp production;;;NA
+90;Guinea;p11a;Chemical pulp production;;;NA
+91;Guyana;p11a;Chemical pulp production;;;NA
+93;Haiti;p11a;Chemical pulp production;;;NA
+95;Honduras;p11a;Chemical pulp production;;;NA
+96;China, Hong Kong SAR;p11a;Chemical pulp production;;;NA
+97;Hungary;p11a;Chemical pulp production;;;NA
+98;Croatia;p11a;Chemical pulp production;;;NA
+99;Iceland;p11a;Chemical pulp production;;;NA
+100;India;p11a;Chemical pulp production;;;NA
+101;Indonesia;p11a;Chemical pulp production;;;NA
+102;Iran (Islamic Republic of);p11a;Chemical pulp production;;;NA
+103;Iraq;p11a;Chemical pulp production;;;NA
+104;Ireland;p11a;Chemical pulp production;;;NA
+105;Israel;p11a;Chemical pulp production;;;NA
+106;Italy;p11a;Chemical pulp production;;;NA
+107;Cote d'Ivoire;p11a;Chemical pulp production;;;NA
+108;Kazakhstan;p11a;Chemical pulp production;;;NA
+109;Jamaica;p11a;Chemical pulp production;;;NA
+110;Japan;p11a;Chemical pulp production;0.01;0.99;METI Japan (2021), average 2002-2017
+112;Jordan;p11a;Chemical pulp production;;;NA
+113;Kyrgyzstan;p11a;Chemical pulp production;;;NA
+114;Kenya;p11a;Chemical pulp production;;;NA
+115;Cambodia;p11a;Chemical pulp production;;;NA
+116;Democratic People's Republic of Korea;p11a;Chemical pulp production;;;NA
+117;Republic of Korea;p11a;Chemical pulp production;;;NA
+118;Kuwait;p11a;Chemical pulp production;;;NA
+119;Latvia;p11a;Chemical pulp production;;;NA
+120;Lao People's Democratic Republic;p11a;Chemical pulp production;;;NA
+121;Lebanon;p11a;Chemical pulp production;;;NA
+122;Lesotho;p11a;Chemical pulp production;;;NA
+123;Liberia;p11a;Chemical pulp production;;;NA
+124;Libya;p11a;Chemical pulp production;;;NA
+125;Liechtenstein;p11a;Chemical pulp production;;;NA
+126;Lithuania;p11a;Chemical pulp production;;;NA
+128;China, Macao SAR;p11a;Chemical pulp production;;;NA
+129;Madagascar;p11a;Chemical pulp production;;;NA
+130;Malawi;p11a;Chemical pulp production;;;NA
+131;Malaysia;p11a;Chemical pulp production;;;NA
+132;Maldives;p11a;Chemical pulp production;;;NA
+133;Mali;p11a;Chemical pulp production;;;NA
+134;Malta;p11a;Chemical pulp production;;;NA
+135;Martinique;p11a;Chemical pulp production;;;NA
+136;Mauritania;p11a;Chemical pulp production;;;NA
+137;Mauritius;p11a;Chemical pulp production;;;NA
+138;Mexico;p11a;Chemical pulp production;;;NA
+141;Mongolia;p11a;Chemical pulp production;;;NA
+143;Morocco;p11a;Chemical pulp production;;;NA
+144;Mozambique;p11a;Chemical pulp production;;;NA
+145;Micronesia (Federated States of);p11a;Chemical pulp production;;;NA
+146;Republic of Moldova;p11a;Chemical pulp production;;;NA
+147;Namibia;p11a;Chemical pulp production;;;NA
+149;Nepal;p11a;Chemical pulp production;;;NA
+150;Netherlands;p11a;Chemical pulp production;;;NA
+151;Netherlands Antilles;p11a;Chemical pulp production;;;NA
+153;New Caledonia;p11a;Chemical pulp production;;;NA
+154;North Macedonia;p11a;Chemical pulp production;;;NA
+155;Vanuatu;p11a;Chemical pulp production;;;NA
+156;New Zealand;p11a;Chemical pulp production;;;NA
+157;Nicaragua;p11a;Chemical pulp production;;;NA
+158;Niger;p11a;Chemical pulp production;;;NA
+159;Nigeria;p11a;Chemical pulp production;;;NA
+160;Niue;p11a;Chemical pulp production;;;NA
+161;Norfolk Island;p11a;Chemical pulp production;;;NA
+162;Norway;p11a;Chemical pulp production;;;NA
+165;Pakistan;p11a;Chemical pulp production;;;NA
+166;Panama;p11a;Chemical pulp production;;;NA
+167;Czechia;p11a;Chemical pulp production;;;NA
+168;Papua New Guinea;p11a;Chemical pulp production;;;NA
+169;Paraguay;p11a;Chemical pulp production;;;NA
+170;Peru;p11a;Chemical pulp production;;;NA
+171;Philippines;p11a;Chemical pulp production;;;NA
+173;Poland;p11a;Chemical pulp production;;;NA
+174;Portugal;p11a;Chemical pulp production;;;NA
+175;Guinea-Bissau;p11a;Chemical pulp production;;;NA
+176;Timor-Leste;p11a;Chemical pulp production;;;NA
+178;Eritrea;p11a;Chemical pulp production;;;NA
+179;Qatar;p11a;Chemical pulp production;;;NA
+181;Zimbabwe;p11a;Chemical pulp production;;;NA
+182;Reunion;p11a;Chemical pulp production;;;NA
+183;Romania;p11a;Chemical pulp production;;;NA
+184;Rwanda;p11a;Chemical pulp production;;;NA
+185;Russian Federation;p11a;Chemical pulp production;;;NA
+186;Serbia and Montenegro;p11a;Chemical pulp production;;;NA
+189;Saint Lucia;p11a;Chemical pulp production;;;NA
+190;Saint Pierre and Miquelon;p11a;Chemical pulp production;;;NA
+191;Saint Vincent and the Grenadines;p11a;Chemical pulp production;;;NA
+193;Sao Tome and Principe;p11a;Chemical pulp production;;;NA
+194;Saudi Arabia;p11a;Chemical pulp production;;;NA
+195;Senegal;p11a;Chemical pulp production;;;NA
+196;Seychelles;p11a;Chemical pulp production;;;NA
+197;Sierra Leone;p11a;Chemical pulp production;;;NA
+198;Slovenia;p11a;Chemical pulp production;;;NA
+199;Slovakia;p11a;Chemical pulp production;;;NA
+200;Singapore;p11a;Chemical pulp production;;;NA
+201;Somalia;p11a;Chemical pulp production;;;NA
+202;South Africa;p11a;Chemical pulp production;;;NA
+203;Spain;p11a;Chemical pulp production;;;NA
+207;Suriname;p11a;Chemical pulp production;;;NA
+208;Tajikistan;p11a;Chemical pulp production;;;NA
+209;Eswatini;p11a;Chemical pulp production;;;NA
+210;Sweden;p11a;Chemical pulp production;0.77;0.23;NA
+211;Switzerland;p11a;Chemical pulp production;;;NA
+212;Syrian Arab Republic;p11a;Chemical pulp production;;;NA
+213;Turkmenistan;p11a;Chemical pulp production;;;NA
+214;China, Taiwan Province of;p11a;Chemical pulp production;;;NA
+215;United Republic of Tanzania;p11a;Chemical pulp production;;;NA
+216;Thailand;p11a;Chemical pulp production;;;NA
+217;Togo;p11a;Chemical pulp production;;;NA
+219;Tonga;p11a;Chemical pulp production;;;NA
+220;Trinidad and Tobago;p11a;Chemical pulp production;;;NA
+221;Oman;p11a;Chemical pulp production;;;NA
+222;Tunisia;p11a;Chemical pulp production;;;NA
+223;Turkey;p11a;Chemical pulp production;;;NA
+224;Turks and Caicos Islands;p11a;Chemical pulp production;;;NA
+225;United Arab Emirates;p11a;Chemical pulp production;;;NA
+226;Uganda;p11a;Chemical pulp production;;;NA
+229;United Kingdom;p11a;Chemical pulp production;;;NA
+230;Ukraine;p11a;Chemical pulp production;;;NA
+231;United States of America;p11a;Chemical pulp production;0.54;0.46;AF&PA(2020) quotedy by USDA (2020: 18)
+233;Burkina Faso;p11a;Chemical pulp production;;;NA
+234;Uruguay;p11a;Chemical pulp production;;;NA
+235;Uzbekistan;p11a;Chemical pulp production;;;NA
+236;Venezuela (Bolivarian Republic of);p11a;Chemical pulp production;;;NA
+237;Viet Nam;p11a;Chemical pulp production;;;NA
+238;Ethiopia;p11a;Chemical pulp production;;;NA
+239;British Virgin Islands;p11a;Chemical pulp production;;;NA
+244;Samoa;p11a;Chemical pulp production;;;NA
+249;Yemen;p11a;Chemical pulp production;;;NA
+250;Democratic Republic of the Congo;p11a;Chemical pulp production;;;NA
+251;Zambia;p11a;Chemical pulp production;;;NA
+255;Belgium;p11a;Chemical pulp production;;;NA
+256;Luxembourg;p11a;Chemical pulp production;;;NA
+270;Mayotte;p11a;Chemical pulp production;;;NA
+272;Serbia;p11a;Chemical pulp production;;;NA
+273;Montenegro;p11a;Chemical pulp production;;;NA
+276;Sudan;p11a;Chemical pulp production;;;NA
+277;South Sudan;p11a;Chemical pulp production;;;NA
+5;American Samoa;p11a;Chemical pulp production;;;NA
+8;Antigua and Barbuda;p11a;Chemical pulp production;;;NA
+17;Bermuda;p11a;Chemical pulp production;;;NA
+24;British Indian Ocean Territory;p11a;Chemical pulp production;;;NA
+36;Cayman Islands;p11a;Chemical pulp production;;;NA
+43;Cocos (Keeling) Islands;p11a;Chemical pulp production;;;NA
+71;French Southern and Antarctic Territories;p11a;Chemical pulp production;;;NA
+85;Greenland;p11a;Chemical pulp production;;;NA
+86;Grenada;p11a;Chemical pulp production;;;NA
+88;Guam;p11a;Chemical pulp production;;;NA
+94;Holy See;p11a;Chemical pulp production;;;NA
+127;Marshall Islands;p11a;Chemical pulp production;;;NA
+142;Montserrat;p11a;Chemical pulp production;;;NA
+148;Nauru;p11a;Chemical pulp production;;;NA
+163;Northern Mariana Islands;p11a;Chemical pulp production;;;NA
+164;Pacific Islands Trust Territory;p11a;Chemical pulp production;;;NA
+172;Pitcairn Islands;p11a;Chemical pulp production;;;NA
+180;Palau;p11a;Chemical pulp production;;;NA
+187;Saint Helena, Ascension and Tristan da Cunha;p11a;Chemical pulp production;;;NA
+188;Saint Kitts and Nevis;p11a;Chemical pulp production;;;NA
+192;San Marino;p11a;Chemical pulp production;;;NA
+205;Western Sahara;p11a;Chemical pulp production;;;NA
+218;Tokelau;p11a;Chemical pulp production;;;NA
+227;Tuvalu;p11a;Chemical pulp production;;;NA
+228;USSR;p11a;Chemical pulp production;;;NA
+242;Wake Island;p11a;Chemical pulp production;;;NA
+243;Wallis and Futuna Islands;p11a;Chemical pulp production;;;NA
+248;Yugoslav SFR;p11a;Chemical pulp production;;;NA
+258;Anguilla;p11a;Chemical pulp production;;;NA
+279;Curaçao;p11a;Chemical pulp production;;;NA
+281;Saint-Martin (French Part);p11a;Chemical pulp production;;;NA
+299;Palestine;p11a;Chemical pulp production;;;NA
+252;Unspecified Area;p11a;Chemical pulp production;;;NA
+254;Others (adjustment);p11a;Chemical pulp production;;;NA
+999;RoW;p11a;Chemical pulp production;;;NA
+;ASI;p11a;Chemical pulp production;;;NA
+;EUR;p11a;Chemical pulp production;0.75;0.25;CEPI (2019)
+;AFR;p11a;Chemical pulp production;;;NA
+;LAM;p11a;Chemical pulp production;;;NA
+;OCE;p11a;Chemical pulp production;;;NA
+;NAM;p11a;Chemical pulp production;;;NA
+1;Armenia;p11b;Mechanical and semi-chemical pulp production;;;NA
+2;Afghanistan;p11b;Mechanical and semi-chemical pulp production;;;NA
+3;Albania;p11b;Mechanical and semi-chemical pulp production;;;NA
+4;Algeria;p11b;Mechanical and semi-chemical pulp production;;;NA
+6;Andorra;p11b;Mechanical and semi-chemical pulp production;;;NA
+7;Angola;p11b;Mechanical and semi-chemical pulp production;;;NA
+9;Argentina;p11b;Mechanical and semi-chemical pulp production;;;NA
+10;Australia;p11b;Mechanical and semi-chemical pulp production;;;NA
+11;Austria;p11b;Mechanical and semi-chemical pulp production;0.537;0.463;Lindner et al. (2017)
+12;Bahamas;p11b;Mechanical and semi-chemical pulp production;;;NA
+13;Bahrain;p11b;Mechanical and semi-chemical pulp production;;;NA
+14;Barbados;p11b;Mechanical and semi-chemical pulp production;;;NA
+15;Belgium-Luxembourg;p11b;Mechanical and semi-chemical pulp production;;;NA
+16;Bangladesh;p11b;Mechanical and semi-chemical pulp production;;;NA
+18;Bhutan;p11b;Mechanical and semi-chemical pulp production;;;NA
+19;Bolivia (Plurinational State of);p11b;Mechanical and semi-chemical pulp production;;;NA
+20;Botswana;p11b;Mechanical and semi-chemical pulp production;;;NA
+21;Brazil;p11b;Mechanical and semi-chemical pulp production;0.96;0.04;Joma Da Silva and Mantau (2020)
+22;Aruba;p11b;Mechanical and semi-chemical pulp production;;;NA
+23;Belize;p11b;Mechanical and semi-chemical pulp production;;;NA
+25;Solomon Islands;p11b;Mechanical and semi-chemical pulp production;;;NA
+26;Brunei Darussalam;p11b;Mechanical and semi-chemical pulp production;;;NA
+27;Bulgaria;p11b;Mechanical and semi-chemical pulp production;;;NA
+28;Myanmar;p11b;Mechanical and semi-chemical pulp production;;;NA
+29;Burundi;p11b;Mechanical and semi-chemical pulp production;;;NA
+32;Cameroon;p11b;Mechanical and semi-chemical pulp production;;;NA
+33;Canada;p11b;Mechanical and semi-chemical pulp production;0.45;0.55;CPPA (1999) quoted by Bogdanksi (2014)
+35;Cabo Verde;p11b;Mechanical and semi-chemical pulp production;;;NA
+37;Central African Republic;p11b;Mechanical and semi-chemical pulp production;;;NA
+38;Sri Lanka;p11b;Mechanical and semi-chemical pulp production;;;NA
+39;Chad;p11b;Mechanical and semi-chemical pulp production;;;NA
+40;Chile;p11b;Mechanical and semi-chemical pulp production;0.25;0.75;INFOR (2018)
+41;China, mainland;p11b;Mechanical and semi-chemical pulp production;;;NA
+42;Christmas Island;p11b;Mechanical and semi-chemical pulp production;;;NA
+44;Colombia;p11b;Mechanical and semi-chemical pulp production;;;NA
+45;Comoros;p11b;Mechanical and semi-chemical pulp production;;;NA
+46;Congo;p11b;Mechanical and semi-chemical pulp production;;;NA
+47;Cook Islands;p11b;Mechanical and semi-chemical pulp production;;;NA
+48;Costa Rica;p11b;Mechanical and semi-chemical pulp production;;;NA
+49;Cuba;p11b;Mechanical and semi-chemical pulp production;;;NA
+50;Cyprus;p11b;Mechanical and semi-chemical pulp production;;;NA
+51;Czechoslovakia;p11b;Mechanical and semi-chemical pulp production;;;NA
+52;Azerbaijan;p11b;Mechanical and semi-chemical pulp production;;;NA
+53;Benin;p11b;Mechanical and semi-chemical pulp production;;;NA
+54;Denmark;p11b;Mechanical and semi-chemical pulp production;;;NA
+55;Dominica;p11b;Mechanical and semi-chemical pulp production;;;NA
+56;Dominican Republic;p11b;Mechanical and semi-chemical pulp production;;;NA
+57;Belarus;p11b;Mechanical and semi-chemical pulp production;;;NA
+58;Ecuador;p11b;Mechanical and semi-chemical pulp production;;;NA
+59;Egypt;p11b;Mechanical and semi-chemical pulp production;;;NA
+60;El Salvador;p11b;Mechanical and semi-chemical pulp production;;;NA
+61;Equatorial Guinea;p11b;Mechanical and semi-chemical pulp production;;;NA
+63;Estonia;p11b;Mechanical and semi-chemical pulp production;;;NA
+64;Faroe Islands;p11b;Mechanical and semi-chemical pulp production;;;NA
+65;Falkland Islands (Malvinas);p11b;Mechanical and semi-chemical pulp production;;;NA
+66;Fiji;p11b;Mechanical and semi-chemical pulp production;;;NA
+67;Finland;p11b;Mechanical and semi-chemical pulp production;0.9;0.1;Luke (1997, 2017)
+68;France;p11b;Mechanical and semi-chemical pulp production;;;NA
+69;French Guyana;p11b;Mechanical and semi-chemical pulp production;;;NA
+70;French Polynesia;p11b;Mechanical and semi-chemical pulp production;;;NA
+72;Djibouti;p11b;Mechanical and semi-chemical pulp production;;;NA
+73;Georgia;p11b;Mechanical and semi-chemical pulp production;;;NA
+74;Gabon;p11b;Mechanical and semi-chemical pulp production;;;NA
+75;Gambia;p11b;Mechanical and semi-chemical pulp production;;;NA
+79;Germany;p11b;Mechanical and semi-chemical pulp production;0.66;0.34;Lindner et al. (2017)
+80;Bosnia and Herzegovina;p11b;Mechanical and semi-chemical pulp production;;;NA
+81;Ghana;p11b;Mechanical and semi-chemical pulp production;;;NA
+82;Gibraltar;p11b;Mechanical and semi-chemical pulp production;;;NA
+83;Kiribati;p11b;Mechanical and semi-chemical pulp production;;;NA
+84;Greece;p11b;Mechanical and semi-chemical pulp production;;;NA
+87;Guadeloupe;p11b;Mechanical and semi-chemical pulp production;;;NA
+89;Guatemala;p11b;Mechanical and semi-chemical pulp production;;;NA
+90;Guinea;p11b;Mechanical and semi-chemical pulp production;;;NA
+91;Guyana;p11b;Mechanical and semi-chemical pulp production;;;NA
+93;Haiti;p11b;Mechanical and semi-chemical pulp production;;;NA
+95;Honduras;p11b;Mechanical and semi-chemical pulp production;;;NA
+96;China, Hong Kong SAR;p11b;Mechanical and semi-chemical pulp production;;;NA
+97;Hungary;p11b;Mechanical and semi-chemical pulp production;;;NA
+98;Croatia;p11b;Mechanical and semi-chemical pulp production;;;NA
+99;Iceland;p11b;Mechanical and semi-chemical pulp production;;;NA
+100;India;p11b;Mechanical and semi-chemical pulp production;;;NA
+101;Indonesia;p11b;Mechanical and semi-chemical pulp production;;;NA
+102;Iran (Islamic Republic of);p11b;Mechanical and semi-chemical pulp production;;;NA
+103;Iraq;p11b;Mechanical and semi-chemical pulp production;;;NA
+104;Ireland;p11b;Mechanical and semi-chemical pulp production;;;NA
+105;Israel;p11b;Mechanical and semi-chemical pulp production;;;NA
+106;Italy;p11b;Mechanical and semi-chemical pulp production;;;NA
+107;Cote d'Ivoire;p11b;Mechanical and semi-chemical pulp production;;;NA
+108;Kazakhstan;p11b;Mechanical and semi-chemical pulp production;;;NA
+109;Jamaica;p11b;Mechanical and semi-chemical pulp production;;;NA
+110;Japan;p11b;Mechanical and semi-chemical pulp production;0.01;0.99;METI Japan (2021), average 2002-2017
+112;Jordan;p11b;Mechanical and semi-chemical pulp production;;;NA
+113;Kyrgyzstan;p11b;Mechanical and semi-chemical pulp production;;;NA
+114;Kenya;p11b;Mechanical and semi-chemical pulp production;;;NA
+115;Cambodia;p11b;Mechanical and semi-chemical pulp production;;;NA
+116;Democratic People's Republic of Korea;p11b;Mechanical and semi-chemical pulp production;;;NA
+117;Republic of Korea;p11b;Mechanical and semi-chemical pulp production;;;NA
+118;Kuwait;p11b;Mechanical and semi-chemical pulp production;;;NA
+119;Latvia;p11b;Mechanical and semi-chemical pulp production;;;NA
+120;Lao People's Democratic Republic;p11b;Mechanical and semi-chemical pulp production;;;NA
+121;Lebanon;p11b;Mechanical and semi-chemical pulp production;;;NA
+122;Lesotho;p11b;Mechanical and semi-chemical pulp production;;;NA
+123;Liberia;p11b;Mechanical and semi-chemical pulp production;;;NA
+124;Libya;p11b;Mechanical and semi-chemical pulp production;;;NA
+125;Liechtenstein;p11b;Mechanical and semi-chemical pulp production;;;NA
+126;Lithuania;p11b;Mechanical and semi-chemical pulp production;;;NA
+128;China, Macao SAR;p11b;Mechanical and semi-chemical pulp production;;;NA
+129;Madagascar;p11b;Mechanical and semi-chemical pulp production;;;NA
+130;Malawi;p11b;Mechanical and semi-chemical pulp production;;;NA
+131;Malaysia;p11b;Mechanical and semi-chemical pulp production;;;NA
+132;Maldives;p11b;Mechanical and semi-chemical pulp production;;;NA
+133;Mali;p11b;Mechanical and semi-chemical pulp production;;;NA
+134;Malta;p11b;Mechanical and semi-chemical pulp production;;;NA
+135;Martinique;p11b;Mechanical and semi-chemical pulp production;;;NA
+136;Mauritania;p11b;Mechanical and semi-chemical pulp production;;;NA
+137;Mauritius;p11b;Mechanical and semi-chemical pulp production;;;NA
+138;Mexico;p11b;Mechanical and semi-chemical pulp production;;;NA
+141;Mongolia;p11b;Mechanical and semi-chemical pulp production;;;NA
+143;Morocco;p11b;Mechanical and semi-chemical pulp production;;;NA
+144;Mozambique;p11b;Mechanical and semi-chemical pulp production;;;NA
+145;Micronesia (Federated States of);p11b;Mechanical and semi-chemical pulp production;;;NA
+146;Republic of Moldova;p11b;Mechanical and semi-chemical pulp production;;;NA
+147;Namibia;p11b;Mechanical and semi-chemical pulp production;;;NA
+149;Nepal;p11b;Mechanical and semi-chemical pulp production;;;NA
+150;Netherlands;p11b;Mechanical and semi-chemical pulp production;;;NA
+151;Netherlands Antilles;p11b;Mechanical and semi-chemical pulp production;;;NA
+153;New Caledonia;p11b;Mechanical and semi-chemical pulp production;;;NA
+154;North Macedonia;p11b;Mechanical and semi-chemical pulp production;;;NA
+155;Vanuatu;p11b;Mechanical and semi-chemical pulp production;;;NA
+156;New Zealand;p11b;Mechanical and semi-chemical pulp production;;;NA
+157;Nicaragua;p11b;Mechanical and semi-chemical pulp production;;;NA
+158;Niger;p11b;Mechanical and semi-chemical pulp production;;;NA
+159;Nigeria;p11b;Mechanical and semi-chemical pulp production;;;NA
+160;Niue;p11b;Mechanical and semi-chemical pulp production;;;NA
+161;Norfolk Island;p11b;Mechanical and semi-chemical pulp production;;;NA
+162;Norway;p11b;Mechanical and semi-chemical pulp production;;;NA
+165;Pakistan;p11b;Mechanical and semi-chemical pulp production;;;NA
+166;Panama;p11b;Mechanical and semi-chemical pulp production;;;NA
+167;Czechia;p11b;Mechanical and semi-chemical pulp production;;;NA
+168;Papua New Guinea;p11b;Mechanical and semi-chemical pulp production;;;NA
+169;Paraguay;p11b;Mechanical and semi-chemical pulp production;;;NA
+170;Peru;p11b;Mechanical and semi-chemical pulp production;;;NA
+171;Philippines;p11b;Mechanical and semi-chemical pulp production;;;NA
+173;Poland;p11b;Mechanical and semi-chemical pulp production;;;NA
+174;Portugal;p11b;Mechanical and semi-chemical pulp production;;;NA
+175;Guinea-Bissau;p11b;Mechanical and semi-chemical pulp production;;;NA
+176;Timor-Leste;p11b;Mechanical and semi-chemical pulp production;;;NA
+178;Eritrea;p11b;Mechanical and semi-chemical pulp production;;;NA
+179;Qatar;p11b;Mechanical and semi-chemical pulp production;;;NA
+181;Zimbabwe;p11b;Mechanical and semi-chemical pulp production;;;NA
+182;Reunion;p11b;Mechanical and semi-chemical pulp production;;;NA
+183;Romania;p11b;Mechanical and semi-chemical pulp production;;;NA
+184;Rwanda;p11b;Mechanical and semi-chemical pulp production;;;NA
+185;Russian Federation;p11b;Mechanical and semi-chemical pulp production;;;NA
+186;Serbia and Montenegro;p11b;Mechanical and semi-chemical pulp production;;;NA
+189;Saint Lucia;p11b;Mechanical and semi-chemical pulp production;;;NA
+190;Saint Pierre and Miquelon;p11b;Mechanical and semi-chemical pulp production;;;NA
+191;Saint Vincent and the Grenadines;p11b;Mechanical and semi-chemical pulp production;;;NA
+193;Sao Tome and Principe;p11b;Mechanical and semi-chemical pulp production;;;NA
+194;Saudi Arabia;p11b;Mechanical and semi-chemical pulp production;;;NA
+195;Senegal;p11b;Mechanical and semi-chemical pulp production;;;NA
+196;Seychelles;p11b;Mechanical and semi-chemical pulp production;;;NA
+197;Sierra Leone;p11b;Mechanical and semi-chemical pulp production;;;NA
+198;Slovenia;p11b;Mechanical and semi-chemical pulp production;;;NA
+199;Slovakia;p11b;Mechanical and semi-chemical pulp production;;;NA
+200;Singapore;p11b;Mechanical and semi-chemical pulp production;;;NA
+201;Somalia;p11b;Mechanical and semi-chemical pulp production;;;NA
+202;South Africa;p11b;Mechanical and semi-chemical pulp production;;;NA
+203;Spain;p11b;Mechanical and semi-chemical pulp production;;;NA
+207;Suriname;p11b;Mechanical and semi-chemical pulp production;;;NA
+208;Tajikistan;p11b;Mechanical and semi-chemical pulp production;;;NA
+209;Eswatini;p11b;Mechanical and semi-chemical pulp production;;;NA
+210;Sweden;p11b;Mechanical and semi-chemical pulp production;0.77;0.23;NA
+211;Switzerland;p11b;Mechanical and semi-chemical pulp production;;;NA
+212;Syrian Arab Republic;p11b;Mechanical and semi-chemical pulp production;;;NA
+213;Turkmenistan;p11b;Mechanical and semi-chemical pulp production;;;NA
+214;China, Taiwan Province of;p11b;Mechanical and semi-chemical pulp production;;;NA
+215;United Republic of Tanzania;p11b;Mechanical and semi-chemical pulp production;;;NA
+216;Thailand;p11b;Mechanical and semi-chemical pulp production;;;NA
+217;Togo;p11b;Mechanical and semi-chemical pulp production;;;NA
+219;Tonga;p11b;Mechanical and semi-chemical pulp production;;;NA
+220;Trinidad and Tobago;p11b;Mechanical and semi-chemical pulp production;;;NA
+221;Oman;p11b;Mechanical and semi-chemical pulp production;;;NA
+222;Tunisia;p11b;Mechanical and semi-chemical pulp production;;;NA
+223;Turkey;p11b;Mechanical and semi-chemical pulp production;;;NA
+224;Turks and Caicos Islands;p11b;Mechanical and semi-chemical pulp production;;;NA
+225;United Arab Emirates;p11b;Mechanical and semi-chemical pulp production;;;NA
+226;Uganda;p11b;Mechanical and semi-chemical pulp production;;;NA
+229;United Kingdom;p11b;Mechanical and semi-chemical pulp production;;;NA
+230;Ukraine;p11b;Mechanical and semi-chemical pulp production;;;NA
+231;United States of America;p11b;Mechanical and semi-chemical pulp production;0.54;0.46;AF&PA(2020) quotedy by USDA (2020: 18)
+233;Burkina Faso;p11b;Mechanical and semi-chemical pulp production;;;NA
+234;Uruguay;p11b;Mechanical and semi-chemical pulp production;;;NA
+235;Uzbekistan;p11b;Mechanical and semi-chemical pulp production;;;NA
+236;Venezuela (Bolivarian Republic of);p11b;Mechanical and semi-chemical pulp production;;;NA
+237;Viet Nam;p11b;Mechanical and semi-chemical pulp production;;;NA
+238;Ethiopia;p11b;Mechanical and semi-chemical pulp production;;;NA
+239;British Virgin Islands;p11b;Mechanical and semi-chemical pulp production;;;NA
+244;Samoa;p11b;Mechanical and semi-chemical pulp production;;;NA
+249;Yemen;p11b;Mechanical and semi-chemical pulp production;;;NA
+250;Democratic Republic of the Congo;p11b;Mechanical and semi-chemical pulp production;;;NA
+251;Zambia;p11b;Mechanical and semi-chemical pulp production;;;NA
+255;Belgium;p11b;Mechanical and semi-chemical pulp production;;;NA
+256;Luxembourg;p11b;Mechanical and semi-chemical pulp production;;;NA
+270;Mayotte;p11b;Mechanical and semi-chemical pulp production;;;NA
+272;Serbia;p11b;Mechanical and semi-chemical pulp production;;;NA
+273;Montenegro;p11b;Mechanical and semi-chemical pulp production;;;NA
+276;Sudan;p11b;Mechanical and semi-chemical pulp production;;;NA
+277;South Sudan;p11b;Mechanical and semi-chemical pulp production;;;NA
+5;American Samoa;p11b;Mechanical and semi-chemical pulp production;;;NA
+8;Antigua and Barbuda;p11b;Mechanical and semi-chemical pulp production;;;NA
+17;Bermuda;p11b;Mechanical and semi-chemical pulp production;;;NA
+24;British Indian Ocean Territory;p11b;Mechanical and semi-chemical pulp production;;;NA
+36;Cayman Islands;p11b;Mechanical and semi-chemical pulp production;;;NA
+43;Cocos (Keeling) Islands;p11b;Mechanical and semi-chemical pulp production;;;NA
+71;French Southern and Antarctic Territories;p11b;Mechanical and semi-chemical pulp production;;;NA
+85;Greenland;p11b;Mechanical and semi-chemical pulp production;;;NA
+86;Grenada;p11b;Mechanical and semi-chemical pulp production;;;NA
+88;Guam;p11b;Mechanical and semi-chemical pulp production;;;NA
+94;Holy See;p11b;Mechanical and semi-chemical pulp production;;;NA
+127;Marshall Islands;p11b;Mechanical and semi-chemical pulp production;;;NA
+142;Montserrat;p11b;Mechanical and semi-chemical pulp production;;;NA
+148;Nauru;p11b;Mechanical and semi-chemical pulp production;;;NA
+163;Northern Mariana Islands;p11b;Mechanical and semi-chemical pulp production;;;NA
+164;Pacific Islands Trust Territory;p11b;Mechanical and semi-chemical pulp production;;;NA
+172;Pitcairn Islands;p11b;Mechanical and semi-chemical pulp production;;;NA
+180;Palau;p11b;Mechanical and semi-chemical pulp production;;;NA
+187;Saint Helena, Ascension and Tristan da Cunha;p11b;Mechanical and semi-chemical pulp production;;;NA
+188;Saint Kitts and Nevis;p11b;Mechanical and semi-chemical pulp production;;;NA
+192;San Marino;p11b;Mechanical and semi-chemical pulp production;;;NA
+205;Western Sahara;p11b;Mechanical and semi-chemical pulp production;;;NA
+218;Tokelau;p11b;Mechanical and semi-chemical pulp production;;;NA
+227;Tuvalu;p11b;Mechanical and semi-chemical pulp production;;;NA
+228;USSR;p11b;Mechanical and semi-chemical pulp production;;;NA
+242;Wake Island;p11b;Mechanical and semi-chemical pulp production;;;NA
+243;Wallis and Futuna Islands;p11b;Mechanical and semi-chemical pulp production;;;NA
+248;Yugoslav SFR;p11b;Mechanical and semi-chemical pulp production;;;NA
+258;Anguilla;p11b;Mechanical and semi-chemical pulp production;;;NA
+279;Curaçao;p11b;Mechanical and semi-chemical pulp production;;;NA
+281;Saint-Martin (French Part);p11b;Mechanical and semi-chemical pulp production;;;NA
+299;Palestine;p11b;Mechanical and semi-chemical pulp production;;;NA
+252;Unspecified Area;p11b;Mechanical and semi-chemical pulp production;;;NA
+254;Others (adjustment);p11b;Mechanical and semi-chemical pulp production;;;NA
+999;RoW;p11b;Mechanical and semi-chemical pulp production;;;NA
+;ASI;p11b;Mechanical and semi-chemical pulp production;;;NA
+;EUR;p11b;Mechanical and semi-chemical pulp production;0.75;0.25;CEPI (2019)
+;AFR;p11b;Mechanical and semi-chemical pulp production;;;NA
+;LAM;p11b;Mechanical and semi-chemical pulp production;;;NA
+;OCE;p11b;Mechanical and semi-chemical pulp production;;;NA
+;NAM;p11b;Mechanical and semi-chemical pulp production;;;NA
+1;Armenia;p11d;Dissolving pulp production;;;NA
+2;Afghanistan;p11d;Dissolving pulp production;;;NA
+3;Albania;p11d;Dissolving pulp production;;;NA
+4;Algeria;p11d;Dissolving pulp production;;;NA
+6;Andorra;p11d;Dissolving pulp production;;;NA
+7;Angola;p11d;Dissolving pulp production;;;NA
+9;Argentina;p11d;Dissolving pulp production;;;NA
+10;Australia;p11d;Dissolving pulp production;;;NA
+11;Austria;p11d;Dissolving pulp production;0.537;0.463;Lindner et al. (2017)
+12;Bahamas;p11d;Dissolving pulp production;;;NA
+13;Bahrain;p11d;Dissolving pulp production;;;NA
+14;Barbados;p11d;Dissolving pulp production;;;NA
+15;Belgium-Luxembourg;p11d;Dissolving pulp production;;;NA
+16;Bangladesh;p11d;Dissolving pulp production;;;NA
+18;Bhutan;p11d;Dissolving pulp production;;;NA
+19;Bolivia (Plurinational State of);p11d;Dissolving pulp production;;;NA
+20;Botswana;p11d;Dissolving pulp production;;;NA
+21;Brazil;p11d;Dissolving pulp production;0.96;0.04;Joma Da Silva and Mantau (2020)
+22;Aruba;p11d;Dissolving pulp production;;;NA
+23;Belize;p11d;Dissolving pulp production;;;NA
+25;Solomon Islands;p11d;Dissolving pulp production;;;NA
+26;Brunei Darussalam;p11d;Dissolving pulp production;;;NA
+27;Bulgaria;p11d;Dissolving pulp production;;;NA
+28;Myanmar;p11d;Dissolving pulp production;;;NA
+29;Burundi;p11d;Dissolving pulp production;;;NA
+32;Cameroon;p11d;Dissolving pulp production;;;NA
+33;Canada;p11d;Dissolving pulp production;0.45;0.55;CPPA (1999) quoted by Bogdanksi (2014)
+35;Cabo Verde;p11d;Dissolving pulp production;;;NA
+37;Central African Republic;p11d;Dissolving pulp production;;;NA
+38;Sri Lanka;p11d;Dissolving pulp production;;;NA
+39;Chad;p11d;Dissolving pulp production;;;NA
+40;Chile;p11d;Dissolving pulp production;0.25;0.75;INFOR (2018)
+41;China, mainland;p11d;Dissolving pulp production;;;NA
+42;Christmas Island;p11d;Dissolving pulp production;;;NA
+44;Colombia;p11d;Dissolving pulp production;;;NA
+45;Comoros;p11d;Dissolving pulp production;;;NA
+46;Congo;p11d;Dissolving pulp production;;;NA
+47;Cook Islands;p11d;Dissolving pulp production;;;NA
+48;Costa Rica;p11d;Dissolving pulp production;;;NA
+49;Cuba;p11d;Dissolving pulp production;;;NA
+50;Cyprus;p11d;Dissolving pulp production;;;NA
+51;Czechoslovakia;p11d;Dissolving pulp production;;;NA
+52;Azerbaijan;p11d;Dissolving pulp production;;;NA
+53;Benin;p11d;Dissolving pulp production;;;NA
+54;Denmark;p11d;Dissolving pulp production;;;NA
+55;Dominica;p11d;Dissolving pulp production;;;NA
+56;Dominican Republic;p11d;Dissolving pulp production;;;NA
+57;Belarus;p11d;Dissolving pulp production;;;NA
+58;Ecuador;p11d;Dissolving pulp production;;;NA
+59;Egypt;p11d;Dissolving pulp production;;;NA
+60;El Salvador;p11d;Dissolving pulp production;;;NA
+61;Equatorial Guinea;p11d;Dissolving pulp production;;;NA
+63;Estonia;p11d;Dissolving pulp production;;;NA
+64;Faroe Islands;p11d;Dissolving pulp production;;;NA
+65;Falkland Islands (Malvinas);p11d;Dissolving pulp production;;;NA
+66;Fiji;p11d;Dissolving pulp production;;;NA
+67;Finland;p11d;Dissolving pulp production;0.9;0.1;Luke (1997, 2017)
+68;France;p11d;Dissolving pulp production;;;NA
+69;French Guyana;p11d;Dissolving pulp production;;;NA
+70;French Polynesia;p11d;Dissolving pulp production;;;NA
+72;Djibouti;p11d;Dissolving pulp production;;;NA
+73;Georgia;p11d;Dissolving pulp production;;;NA
+74;Gabon;p11d;Dissolving pulp production;;;NA
+75;Gambia;p11d;Dissolving pulp production;;;NA
+79;Germany;p11d;Dissolving pulp production;0.66;0.34;Lindner et al. (2017)
+80;Bosnia and Herzegovina;p11d;Dissolving pulp production;;;NA
+81;Ghana;p11d;Dissolving pulp production;;;NA
+82;Gibraltar;p11d;Dissolving pulp production;;;NA
+83;Kiribati;p11d;Dissolving pulp production;;;NA
+84;Greece;p11d;Dissolving pulp production;;;NA
+87;Guadeloupe;p11d;Dissolving pulp production;;;NA
+89;Guatemala;p11d;Dissolving pulp production;;;NA
+90;Guinea;p11d;Dissolving pulp production;;;NA
+91;Guyana;p11d;Dissolving pulp production;;;NA
+93;Haiti;p11d;Dissolving pulp production;;;NA
+95;Honduras;p11d;Dissolving pulp production;;;NA
+96;China, Hong Kong SAR;p11d;Dissolving pulp production;;;NA
+97;Hungary;p11d;Dissolving pulp production;;;NA
+98;Croatia;p11d;Dissolving pulp production;;;NA
+99;Iceland;p11d;Dissolving pulp production;;;NA
+100;India;p11d;Dissolving pulp production;;;NA
+101;Indonesia;p11d;Dissolving pulp production;;;NA
+102;Iran (Islamic Republic of);p11d;Dissolving pulp production;;;NA
+103;Iraq;p11d;Dissolving pulp production;;;NA
+104;Ireland;p11d;Dissolving pulp production;;;NA
+105;Israel;p11d;Dissolving pulp production;;;NA
+106;Italy;p11d;Dissolving pulp production;;;NA
+107;Cote d'Ivoire;p11d;Dissolving pulp production;;;NA
+108;Kazakhstan;p11d;Dissolving pulp production;;;NA
+109;Jamaica;p11d;Dissolving pulp production;;;NA
+110;Japan;p11d;Dissolving pulp production;0.01;0.99;METI Japan (2021), average 2002-2017
+112;Jordan;p11d;Dissolving pulp production;;;NA
+113;Kyrgyzstan;p11d;Dissolving pulp production;;;NA
+114;Kenya;p11d;Dissolving pulp production;;;NA
+115;Cambodia;p11d;Dissolving pulp production;;;NA
+116;Democratic People's Republic of Korea;p11d;Dissolving pulp production;;;NA
+117;Republic of Korea;p11d;Dissolving pulp production;;;NA
+118;Kuwait;p11d;Dissolving pulp production;;;NA
+119;Latvia;p11d;Dissolving pulp production;;;NA
+120;Lao People's Democratic Republic;p11d;Dissolving pulp production;;;NA
+121;Lebanon;p11d;Dissolving pulp production;;;NA
+122;Lesotho;p11d;Dissolving pulp production;;;NA
+123;Liberia;p11d;Dissolving pulp production;;;NA
+124;Libya;p11d;Dissolving pulp production;;;NA
+125;Liechtenstein;p11d;Dissolving pulp production;;;NA
+126;Lithuania;p11d;Dissolving pulp production;;;NA
+128;China, Macao SAR;p11d;Dissolving pulp production;;;NA
+129;Madagascar;p11d;Dissolving pulp production;;;NA
+130;Malawi;p11d;Dissolving pulp production;;;NA
+131;Malaysia;p11d;Dissolving pulp production;;;NA
+132;Maldives;p11d;Dissolving pulp production;;;NA
+133;Mali;p11d;Dissolving pulp production;;;NA
+134;Malta;p11d;Dissolving pulp production;;;NA
+135;Martinique;p11d;Dissolving pulp production;;;NA
+136;Mauritania;p11d;Dissolving pulp production;;;NA
+137;Mauritius;p11d;Dissolving pulp production;;;NA
+138;Mexico;p11d;Dissolving pulp production;;;NA
+141;Mongolia;p11d;Dissolving pulp production;;;NA
+143;Morocco;p11d;Dissolving pulp production;;;NA
+144;Mozambique;p11d;Dissolving pulp production;;;NA
+145;Micronesia (Federated States of);p11d;Dissolving pulp production;;;NA
+146;Republic of Moldova;p11d;Dissolving pulp production;;;NA
+147;Namibia;p11d;Dissolving pulp production;;;NA
+149;Nepal;p11d;Dissolving pulp production;;;NA
+150;Netherlands;p11d;Dissolving pulp production;;;NA
+151;Netherlands Antilles;p11d;Dissolving pulp production;;;NA
+153;New Caledonia;p11d;Dissolving pulp production;;;NA
+154;North Macedonia;p11d;Dissolving pulp production;;;NA
+155;Vanuatu;p11d;Dissolving pulp production;;;NA
+156;New Zealand;p11d;Dissolving pulp production;;;NA
+157;Nicaragua;p11d;Dissolving pulp production;;;NA
+158;Niger;p11d;Dissolving pulp production;;;NA
+159;Nigeria;p11d;Dissolving pulp production;;;NA
+160;Niue;p11d;Dissolving pulp production;;;NA
+161;Norfolk Island;p11d;Dissolving pulp production;;;NA
+162;Norway;p11d;Dissolving pulp production;;;NA
+165;Pakistan;p11d;Dissolving pulp production;;;NA
+166;Panama;p11d;Dissolving pulp production;;;NA
+167;Czechia;p11d;Dissolving pulp production;;;NA
+168;Papua New Guinea;p11d;Dissolving pulp production;;;NA
+169;Paraguay;p11d;Dissolving pulp production;;;NA
+170;Peru;p11d;Dissolving pulp production;;;NA
+171;Philippines;p11d;Dissolving pulp production;;;NA
+173;Poland;p11d;Dissolving pulp production;;;NA
+174;Portugal;p11d;Dissolving pulp production;;;NA
+175;Guinea-Bissau;p11d;Dissolving pulp production;;;NA
+176;Timor-Leste;p11d;Dissolving pulp production;;;NA
+178;Eritrea;p11d;Dissolving pulp production;;;NA
+179;Qatar;p11d;Dissolving pulp production;;;NA
+181;Zimbabwe;p11d;Dissolving pulp production;;;NA
+182;Reunion;p11d;Dissolving pulp production;;;NA
+183;Romania;p11d;Dissolving pulp production;;;NA
+184;Rwanda;p11d;Dissolving pulp production;;;NA
+185;Russian Federation;p11d;Dissolving pulp production;;;NA
+186;Serbia and Montenegro;p11d;Dissolving pulp production;;;NA
+189;Saint Lucia;p11d;Dissolving pulp production;;;NA
+190;Saint Pierre and Miquelon;p11d;Dissolving pulp production;;;NA
+191;Saint Vincent and the Grenadines;p11d;Dissolving pulp production;;;NA
+193;Sao Tome and Principe;p11d;Dissolving pulp production;;;NA
+194;Saudi Arabia;p11d;Dissolving pulp production;;;NA
+195;Senegal;p11d;Dissolving pulp production;;;NA
+196;Seychelles;p11d;Dissolving pulp production;;;NA
+197;Sierra Leone;p11d;Dissolving pulp production;;;NA
+198;Slovenia;p11d;Dissolving pulp production;;;NA
+199;Slovakia;p11d;Dissolving pulp production;;;NA
+200;Singapore;p11d;Dissolving pulp production;;;NA
+201;Somalia;p11d;Dissolving pulp production;;;NA
+202;South Africa;p11d;Dissolving pulp production;;;NA
+203;Spain;p11d;Dissolving pulp production;;;NA
+207;Suriname;p11d;Dissolving pulp production;;;NA
+208;Tajikistan;p11d;Dissolving pulp production;;;NA
+209;Eswatini;p11d;Dissolving pulp production;;;NA
+210;Sweden;p11d;Dissolving pulp production;0.77;0.23;NA
+211;Switzerland;p11d;Dissolving pulp production;;;NA
+212;Syrian Arab Republic;p11d;Dissolving pulp production;;;NA
+213;Turkmenistan;p11d;Dissolving pulp production;;;NA
+214;China, Taiwan Province of;p11d;Dissolving pulp production;;;NA
+215;United Republic of Tanzania;p11d;Dissolving pulp production;;;NA
+216;Thailand;p11d;Dissolving pulp production;;;NA
+217;Togo;p11d;Dissolving pulp production;;;NA
+219;Tonga;p11d;Dissolving pulp production;;;NA
+220;Trinidad and Tobago;p11d;Dissolving pulp production;;;NA
+221;Oman;p11d;Dissolving pulp production;;;NA
+222;Tunisia;p11d;Dissolving pulp production;;;NA
+223;Turkey;p11d;Dissolving pulp production;;;NA
+224;Turks and Caicos Islands;p11d;Dissolving pulp production;;;NA
+225;United Arab Emirates;p11d;Dissolving pulp production;;;NA
+226;Uganda;p11d;Dissolving pulp production;;;NA
+229;United Kingdom;p11d;Dissolving pulp production;;;NA
+230;Ukraine;p11d;Dissolving pulp production;;;NA
+231;United States of America;p11d;Dissolving pulp production;0.54;0.46;AF&PA(2020) quotedy by USDA (2020: 18)
+233;Burkina Faso;p11d;Dissolving pulp production;;;NA
+234;Uruguay;p11d;Dissolving pulp production;;;NA
+235;Uzbekistan;p11d;Dissolving pulp production;;;NA
+236;Venezuela (Bolivarian Republic of);p11d;Dissolving pulp production;;;NA
+237;Viet Nam;p11d;Dissolving pulp production;;;NA
+238;Ethiopia;p11d;Dissolving pulp production;;;NA
+239;British Virgin Islands;p11d;Dissolving pulp production;;;NA
+244;Samoa;p11d;Dissolving pulp production;;;NA
+249;Yemen;p11d;Dissolving pulp production;;;NA
+250;Democratic Republic of the Congo;p11d;Dissolving pulp production;;;NA
+251;Zambia;p11d;Dissolving pulp production;;;NA
+255;Belgium;p11d;Dissolving pulp production;;;NA
+256;Luxembourg;p11d;Dissolving pulp production;;;NA
+270;Mayotte;p11d;Dissolving pulp production;;;NA
+272;Serbia;p11d;Dissolving pulp production;;;NA
+273;Montenegro;p11d;Dissolving pulp production;;;NA
+276;Sudan;p11d;Dissolving pulp production;;;NA
+277;South Sudan;p11d;Dissolving pulp production;;;NA
+5;American Samoa;p11d;Dissolving pulp production;;;NA
+8;Antigua and Barbuda;p11d;Dissolving pulp production;;;NA
+17;Bermuda;p11d;Dissolving pulp production;;;NA
+24;British Indian Ocean Territory;p11d;Dissolving pulp production;;;NA
+36;Cayman Islands;p11d;Dissolving pulp production;;;NA
+43;Cocos (Keeling) Islands;p11d;Dissolving pulp production;;;NA
+71;French Southern and Antarctic Territories;p11d;Dissolving pulp production;;;NA
+85;Greenland;p11d;Dissolving pulp production;;;NA
+86;Grenada;p11d;Dissolving pulp production;;;NA
+88;Guam;p11d;Dissolving pulp production;;;NA
+94;Holy See;p11d;Dissolving pulp production;;;NA
+127;Marshall Islands;p11d;Dissolving pulp production;;;NA
+142;Montserrat;p11d;Dissolving pulp production;;;NA
+148;Nauru;p11d;Dissolving pulp production;;;NA
+163;Northern Mariana Islands;p11d;Dissolving pulp production;;;NA
+164;Pacific Islands Trust Territory;p11d;Dissolving pulp production;;;NA
+172;Pitcairn Islands;p11d;Dissolving pulp production;;;NA
+180;Palau;p11d;Dissolving pulp production;;;NA
+187;Saint Helena, Ascension and Tristan da Cunha;p11d;Dissolving pulp production;;;NA
+188;Saint Kitts and Nevis;p11d;Dissolving pulp production;;;NA
+192;San Marino;p11d;Dissolving pulp production;;;NA
+205;Western Sahara;p11d;Dissolving pulp production;;;NA
+218;Tokelau;p11d;Dissolving pulp production;;;NA
+227;Tuvalu;p11d;Dissolving pulp production;;;NA
+228;USSR;p11d;Dissolving pulp production;;;NA
+242;Wake Island;p11d;Dissolving pulp production;;;NA
+243;Wallis and Futuna Islands;p11d;Dissolving pulp production;;;NA
+248;Yugoslav SFR;p11d;Dissolving pulp production;;;NA
+258;Anguilla;p11d;Dissolving pulp production;;;NA
+279;Curaçao;p11d;Dissolving pulp production;;;NA
+281;Saint-Martin (French Part);p11d;Dissolving pulp production;;;NA
+299;Palestine;p11d;Dissolving pulp production;;;NA
+252;Unspecified Area;p11d;Dissolving pulp production;;;NA
+254;Others (adjustment);p11d;Dissolving pulp production;;;NA
+999;RoW;p11d;Dissolving pulp production;;;NA
+;ASI;p11d;Dissolving pulp production;;;NA
+;EUR;p11d;Dissolving pulp production;0.75;0.25;CEPI (2019)
+;AFR;p11d;Dissolving pulp production;;;NA
+;LAM;p11d;Dissolving pulp production;;;NA
+;OCE;p11d;Dissolving pulp production;;;NA
+;NAM;p11d;Dissolving pulp production;;;NA

@@ -1,751 +1,751 @@
-area_code,area,proc_code,process,roundwood,chips,continent
-1,Armenia,p11a,Chemical pulp production,,,ASI
-2,Afghanistan,p11a,Chemical pulp production,,,ASI
-3,Albania,p11a,Chemical pulp production,0.75,0.25,EUR
-4,Algeria,p11a,Chemical pulp production,,,AFR
-6,Andorra,p11a,Chemical pulp production,0.75,0.25,EUR
-7,Angola,p11a,Chemical pulp production,,,AFR
-9,Argentina,p11a,Chemical pulp production,,,LAM
-10,Australia,p11a,Chemical pulp production,,,OCE
-11,Austria,p11a,Chemical pulp production,0.75,0.25,EUR
-12,Bahamas,p11a,Chemical pulp production,,,LAM
-13,Bahrain,p11a,Chemical pulp production,,,ASI
-14,Barbados,p11a,Chemical pulp production,,,LAM
-15,Belgium-Luxembourg,p11a,Chemical pulp production,0.75,0.25,EUR
-16,Bangladesh,p11a,Chemical pulp production,,,ASI
-18,Bhutan,p11a,Chemical pulp production,,,ASI
-19,Bolivia (Plurinational State of),p11a,Chemical pulp production,,,LAM
-20,Botswana,p11a,Chemical pulp production,,,AFR
-21,Brazil,p11a,Chemical pulp production,0.96,0.04,LAM
-22,Aruba,p11a,Chemical pulp production,,,LAM
-23,Belize,p11a,Chemical pulp production,,,LAM
-25,Solomon Islands,p11a,Chemical pulp production,,,OCE
-26,Brunei Darussalam,p11a,Chemical pulp production,,,ASI
-27,Bulgaria,p11a,Chemical pulp production,0.75,0.25,EUR
-28,Myanmar,p11a,Chemical pulp production,,,ASI
-29,Burundi,p11a,Chemical pulp production,,,AFR
-32,Cameroon,p11a,Chemical pulp production,,,AFR
-33,Canada,p11a,Chemical pulp production,0.45,0.55,NAM
-35,Cabo Verde,p11a,Chemical pulp production,,,AFR
-37,Central African Republic,p11a,Chemical pulp production,,,AFR
-38,Sri Lanka,p11a,Chemical pulp production,,,ASI
-39,Chad,p11a,Chemical pulp production,,,AFR
-40,Chile,p11a,Chemical pulp production,0.25,0.75,LAM
-41,"China, mainland",p11a,Chemical pulp production,,,ASI
-42,Christmas Island,p11a,Chemical pulp production,,,OCE
-44,Colombia,p11a,Chemical pulp production,,,LAM
-45,Comoros,p11a,Chemical pulp production,,,AFR
-46,Congo,p11a,Chemical pulp production,,,AFR
-47,Cook Islands,p11a,Chemical pulp production,,,OCE
-48,Costa Rica,p11a,Chemical pulp production,,,LAM
-49,Cuba,p11a,Chemical pulp production,,,LAM
-50,Cyprus,p11a,Chemical pulp production,0.75,0.25,EUR
-51,Czechoslovakia,p11a,Chemical pulp production,0.75,0.25,EUR
-52,Azerbaijan,p11a,Chemical pulp production,,,ASI
-53,Benin,p11a,Chemical pulp production,,,AFR
-54,Denmark,p11a,Chemical pulp production,0.75,0.25,EUR
-55,Dominica,p11a,Chemical pulp production,,,LAM
-56,Dominican Republic,p11a,Chemical pulp production,,,LAM
-57,Belarus,p11a,Chemical pulp production,0.75,0.25,EUR
-58,Ecuador,p11a,Chemical pulp production,,,LAM
-59,Egypt,p11a,Chemical pulp production,,,AFR
-60,El Salvador,p11a,Chemical pulp production,,,LAM
-61,Equatorial Guinea,p11a,Chemical pulp production,,,AFR
-63,Estonia,p11a,Chemical pulp production,0.75,0.25,EUR
-64,Faroe Islands,p11a,Chemical pulp production,0.75,0.25,EUR
-65,Falkland Islands (Malvinas),p11a,Chemical pulp production,,,LAM
-66,Fiji,p11a,Chemical pulp production,,,OCE
-67,Finland,p11a,Chemical pulp production,0.9,0.1,EUR
-68,France,p11a,Chemical pulp production,0.75,0.25,EUR
-69,French Guyana,p11a,Chemical pulp production,,,LAM
-70,French Polynesia,p11a,Chemical pulp production,,,OCE
-72,Djibouti,p11a,Chemical pulp production,,,AFR
-73,Georgia,p11a,Chemical pulp production,,,ASI
-74,Gabon,p11a,Chemical pulp production,,,AFR
-75,Gambia,p11a,Chemical pulp production,,,AFR
-79,Germany,p11a,Chemical pulp production,0.75,0.25,EUR
-80,Bosnia and Herzegovina,p11a,Chemical pulp production,0.75,0.25,EUR
-81,Ghana,p11a,Chemical pulp production,,,AFR
-82,Gibraltar,p11a,Chemical pulp production,0.75,0.25,EUR
-83,Kiribati,p11a,Chemical pulp production,,,OCE
-84,Greece,p11a,Chemical pulp production,0.75,0.25,EUR
-87,Guadeloupe,p11a,Chemical pulp production,,,LAM
-89,Guatemala,p11a,Chemical pulp production,,,LAM
-90,Guinea,p11a,Chemical pulp production,,,AFR
-91,Guyana,p11a,Chemical pulp production,,,LAM
-93,Haiti,p11a,Chemical pulp production,,,LAM
-95,Honduras,p11a,Chemical pulp production,,,LAM
-96,"China, Hong Kong SAR",p11a,Chemical pulp production,,,ASI
-97,Hungary,p11a,Chemical pulp production,0.75,0.25,EUR
-98,Croatia,p11a,Chemical pulp production,0.75,0.25,EUR
-99,Iceland,p11a,Chemical pulp production,0.75,0.25,EUR
-100,India,p11a,Chemical pulp production,,,ASI
-101,Indonesia,p11a,Chemical pulp production,,,ASI
-102,Iran (Islamic Republic of),p11a,Chemical pulp production,,,ASI
-103,Iraq,p11a,Chemical pulp production,,,ASI
-104,Ireland,p11a,Chemical pulp production,0.75,0.25,EUR
-105,Israel,p11a,Chemical pulp production,,,ASI
-106,Italy,p11a,Chemical pulp production,0.75,0.25,EUR
-107,Cote d'Ivoire,p11a,Chemical pulp production,,,AFR
-108,Kazakhstan,p11a,Chemical pulp production,,,ASI
-109,Jamaica,p11a,Chemical pulp production,,,LAM
-110,Japan,p11a,Chemical pulp production,0.01,0.99,ASI
-112,Jordan,p11a,Chemical pulp production,,,ASI
-113,Kyrgyzstan,p11a,Chemical pulp production,,,ASI
-114,Kenya,p11a,Chemical pulp production,,,AFR
-115,Cambodia,p11a,Chemical pulp production,,,ASI
-116,Democratic People's Republic of Korea,p11a,Chemical pulp production,,,ASI
-117,Republic of Korea,p11a,Chemical pulp production,,,ASI
-118,Kuwait,p11a,Chemical pulp production,,,ASI
-119,Latvia,p11a,Chemical pulp production,0.75,0.25,EUR
-120,Lao People's Democratic Republic,p11a,Chemical pulp production,,,ASI
-121,Lebanon,p11a,Chemical pulp production,,,ASI
-122,Lesotho,p11a,Chemical pulp production,,,AFR
-123,Liberia,p11a,Chemical pulp production,,,AFR
-124,Libya,p11a,Chemical pulp production,,,AFR
-125,Liechtenstein,p11a,Chemical pulp production,0.75,0.25,EUR
-126,Lithuania,p11a,Chemical pulp production,0.75,0.25,EUR
-128,"China, Macao SAR",p11a,Chemical pulp production,,,ASI
-129,Madagascar,p11a,Chemical pulp production,,,AFR
-130,Malawi,p11a,Chemical pulp production,,,AFR
-131,Malaysia,p11a,Chemical pulp production,,,ASI
-132,Maldives,p11a,Chemical pulp production,,,ASI
-133,Mali,p11a,Chemical pulp production,,,AFR
-134,Malta,p11a,Chemical pulp production,0.75,0.25,EUR
-135,Martinique,p11a,Chemical pulp production,,,LAM
-136,Mauritania,p11a,Chemical pulp production,,,AFR
-137,Mauritius,p11a,Chemical pulp production,,,AFR
-138,Mexico,p11a,Chemical pulp production,,,LAM
-141,Mongolia,p11a,Chemical pulp production,,,ASI
-143,Morocco,p11a,Chemical pulp production,,,AFR
-144,Mozambique,p11a,Chemical pulp production,,,AFR
-145,Micronesia (Federated States of),p11a,Chemical pulp production,,,OCE
-146,Republic of Moldova,p11a,Chemical pulp production,0.75,0.25,EUR
-147,Namibia,p11a,Chemical pulp production,,,AFR
-149,Nepal,p11a,Chemical pulp production,,,ASI
-150,Netherlands,p11a,Chemical pulp production,0.75,0.25,EUR
-151,Netherlands Antilles,p11a,Chemical pulp production,,,LAM
-153,New Caledonia,p11a,Chemical pulp production,,,OCE
-154,North Macedonia,p11a,Chemical pulp production,0.75,0.25,EUR
-155,Vanuatu,p11a,Chemical pulp production,,,OCE
-156,New Zealand,p11a,Chemical pulp production,,,OCE
-157,Nicaragua,p11a,Chemical pulp production,,,LAM
-158,Niger,p11a,Chemical pulp production,,,AFR
-159,Nigeria,p11a,Chemical pulp production,,,AFR
-160,Niue,p11a,Chemical pulp production,,,OCE
-161,Norfolk Island,p11a,Chemical pulp production,,,OCE
-162,Norway,p11a,Chemical pulp production,0.75,0.25,EUR
-165,Pakistan,p11a,Chemical pulp production,,,ASI
-166,Panama,p11a,Chemical pulp production,,,LAM
-167,Czechia,p11a,Chemical pulp production,0.75,0.25,EUR
-168,Papua New Guinea,p11a,Chemical pulp production,,,OCE
-169,Paraguay,p11a,Chemical pulp production,,,LAM
-170,Peru,p11a,Chemical pulp production,,,LAM
-171,Philippines,p11a,Chemical pulp production,,,ASI
-173,Poland,p11a,Chemical pulp production,0.75,0.25,EUR
-174,Portugal,p11a,Chemical pulp production,0.75,0.25,EUR
-175,Guinea-Bissau,p11a,Chemical pulp production,,,AFR
-176,Timor-Leste,p11a,Chemical pulp production,,,ASI
-178,Eritrea,p11a,Chemical pulp production,,,AFR
-179,Qatar,p11a,Chemical pulp production,,,ASI
-181,Zimbabwe,p11a,Chemical pulp production,,,AFR
-182,Reunion,p11a,Chemical pulp production,,,AFR
-183,Romania,p11a,Chemical pulp production,0.75,0.25,EUR
-184,Rwanda,p11a,Chemical pulp production,,,AFR
-185,Russian Federation,p11a,Chemical pulp production,0.75,0.25,EUR
-186,Serbia and Montenegro,p11a,Chemical pulp production,0.75,0.25,EUR
-189,Saint Lucia,p11a,Chemical pulp production,,,LAM
-190,Saint Pierre and Miquelon,p11a,Chemical pulp production,,,NAM
-191,Saint Vincent and the Grenadines,p11a,Chemical pulp production,,,LAM
-193,Sao Tome and Principe,p11a,Chemical pulp production,,,AFR
-194,Saudi Arabia,p11a,Chemical pulp production,,,ASI
-195,Senegal,p11a,Chemical pulp production,,,AFR
-196,Seychelles,p11a,Chemical pulp production,,,AFR
-197,Sierra Leone,p11a,Chemical pulp production,,,AFR
-198,Slovenia,p11a,Chemical pulp production,0.75,0.25,EUR
-199,Slovakia,p11a,Chemical pulp production,0.75,0.25,EUR
-200,Singapore,p11a,Chemical pulp production,,,ASI
-201,Somalia,p11a,Chemical pulp production,,,AFR
-202,South Africa,p11a,Chemical pulp production,,,AFR
-203,Spain,p11a,Chemical pulp production,0.75,0.25,EUR
-207,Suriname,p11a,Chemical pulp production,,,LAM
-208,Tajikistan,p11a,Chemical pulp production,,,ASI
-209,Eswatini,p11a,Chemical pulp production,,,AFR
-210,Sweden,p11a,Chemical pulp production,0.77,0.23,EUR
-211,Switzerland,p11a,Chemical pulp production,0.75,0.25,EUR
-212,Syrian Arab Republic,p11a,Chemical pulp production,,,ASI
-213,Turkmenistan,p11a,Chemical pulp production,,,ASI
-214,"China, Taiwan Province of",p11a,Chemical pulp production,,,ASI
-215,United Republic of Tanzania,p11a,Chemical pulp production,,,AFR
-216,Thailand,p11a,Chemical pulp production,,,ASI
-217,Togo,p11a,Chemical pulp production,,,AFR
-219,Tonga,p11a,Chemical pulp production,,,AFR
-220,Trinidad and Tobago,p11a,Chemical pulp production,,,LAM
-221,Oman,p11a,Chemical pulp production,,,ASI
-222,Tunisia,p11a,Chemical pulp production,,,AFR
-223,Turkey,p11a,Chemical pulp production,0.75,0.25,EUR
-224,Turks and Caicos Islands,p11a,Chemical pulp production,,,LAM
-225,United Arab Emirates,p11a,Chemical pulp production,,,ASI
-226,Uganda,p11a,Chemical pulp production,,,AFR
-229,United Kingdom,p11a,Chemical pulp production,0.75,0.25,EUR
-230,Ukraine,p11a,Chemical pulp production,0.75,0.25,EUR
-231,United States of America,p11a,Chemical pulp production,0.54,0.46,NAM
-233,Burkina Faso,p11a,Chemical pulp production,,,AFR
-234,Uruguay,p11a,Chemical pulp production,,,LAM
-235,Uzbekistan,p11a,Chemical pulp production,,,ASI
-236,Venezuela (Bolivarian Republic of),p11a,Chemical pulp production,,,LAM
-237,Viet Nam,p11a,Chemical pulp production,,,ASI
-238,Ethiopia,p11a,Chemical pulp production,,,AFR
-239,British Virgin Islands,p11a,Chemical pulp production,,,LAM
-244,Samoa,p11a,Chemical pulp production,,,OCE
-249,Yemen,p11a,Chemical pulp production,,,ASI
-250,Democratic Republic of the Congo,p11a,Chemical pulp production,,,AFR
-251,Zambia,p11a,Chemical pulp production,,,AFR
-255,Belgium,p11a,Chemical pulp production,0.75,0.25,EUR
-256,Luxembourg,p11a,Chemical pulp production,0.75,0.25,EUR
-270,Mayotte,p11a,Chemical pulp production,,,AFR
-272,Serbia,p11a,Chemical pulp production,0.75,0.25,EUR
-273,Montenegro,p11a,Chemical pulp production,0.75,0.25,EUR
-276,Sudan,p11a,Chemical pulp production,,,AFR
-277,South Sudan,p11a,Chemical pulp production,,,AFR
-5,American Samoa,p11a,Chemical pulp production,,,OCE
-8,Antigua and Barbuda,p11a,Chemical pulp production,,,LAM
-17,Bermuda,p11a,Chemical pulp production,,,LAM
-24,British Indian Ocean Territory,p11a,Chemical pulp production,,,ASI
-36,Cayman Islands,p11a,Chemical pulp production,,,LAM
-43,Cocos (Keeling) Islands,p11a,Chemical pulp production,,,OCE
-71,French Southern and Antarctic Territories,p11a,Chemical pulp production,,,OCE
-85,Greenland,p11a,Chemical pulp production,0.75,0.25,EUR
-86,Grenada,p11a,Chemical pulp production,,,LAM
-88,Guam,p11a,Chemical pulp production,,,OCE
-94,Holy See,p11a,Chemical pulp production,0.75,0.25,EUR
-127,Marshall Islands,p11a,Chemical pulp production,,,OCE
-142,Montserrat,p11a,Chemical pulp production,,,LAM
-148,Nauru,p11a,Chemical pulp production,,,OCE
-163,Northern Mariana Islands,p11a,Chemical pulp production,,,OCE
-164,Pacific Islands Trust Territory,p11a,Chemical pulp production,,,ASI
-172,Pitcairn Islands,p11a,Chemical pulp production,,,OCE
-180,Palau,p11a,Chemical pulp production,,,OCE
-187,"Saint Helena, Ascension and Tristan da Cunha",p11a,Chemical pulp production,,,AFR
-188,Saint Kitts and Nevis,p11a,Chemical pulp production,,,LAM
-192,San Marino,p11a,Chemical pulp production,0.75,0.25,EUR
-205,Western Sahara,p11a,Chemical pulp production,,,AFR
-218,Tokelau,p11a,Chemical pulp production,,,OCE
-227,Tuvalu,p11a,Chemical pulp production,,,OCE
-228,USSR,p11a,Chemical pulp production,,,ASI
-242,Wake Island,p11a,Chemical pulp production,,,OCE
-243,Wallis and Futuna Islands,p11a,Chemical pulp production,,,OCE
-248,Yugoslav SFR,p11a,Chemical pulp production,0.75,0.25,EUR
-258,Anguilla,p11a,Chemical pulp production,,,LAM
-279,Curaçao,p11a,Chemical pulp production,,,LAM
-281,Saint-Martin (French Part),p11a,Chemical pulp production,,,LAM
-299,Palestine,p11a,Chemical pulp production,,,ASI
-252,Unspecified Area,p11a,Chemical pulp production,,,XXX
-254,Others (adjustment),p11a,Chemical pulp production,,,XXX
-999,RoW,p11a,Chemical pulp production,,,ROW
-,ASI,p11a,Chemical pulp production,,,
-,EUR,p11a,Chemical pulp production,0.75,0.25,
-,AFR,p11a,Chemical pulp production,,,
-,LAM,p11a,Chemical pulp production,,,
-,OCE,p11a,Chemical pulp production,,,
-,NAM,p11a,Chemical pulp production,,,
-1,Armenia,p11b,Mechanical and semi-chemical pulp production,,,ASI
-2,Afghanistan,p11b,Mechanical and semi-chemical pulp production,,,ASI
-3,Albania,p11b,Mechanical and semi-chemical pulp production,0.75,0.25,EUR
-4,Algeria,p11b,Mechanical and semi-chemical pulp production,,,AFR
-6,Andorra,p11b,Mechanical and semi-chemical pulp production,0.75,0.25,EUR
-7,Angola,p11b,Mechanical and semi-chemical pulp production,,,AFR
-9,Argentina,p11b,Mechanical and semi-chemical pulp production,,,LAM
-10,Australia,p11b,Mechanical and semi-chemical pulp production,,,OCE
-11,Austria,p11b,Mechanical and semi-chemical pulp production,0.75,0.25,EUR
-12,Bahamas,p11b,Mechanical and semi-chemical pulp production,,,LAM
-13,Bahrain,p11b,Mechanical and semi-chemical pulp production,,,ASI
-14,Barbados,p11b,Mechanical and semi-chemical pulp production,,,LAM
-15,Belgium-Luxembourg,p11b,Mechanical and semi-chemical pulp production,0.75,0.25,EUR
-16,Bangladesh,p11b,Mechanical and semi-chemical pulp production,,,ASI
-18,Bhutan,p11b,Mechanical and semi-chemical pulp production,,,ASI
-19,Bolivia (Plurinational State of),p11b,Mechanical and semi-chemical pulp production,,,LAM
-20,Botswana,p11b,Mechanical and semi-chemical pulp production,,,AFR
-21,Brazil,p11b,Mechanical and semi-chemical pulp production,0.96,0.04,LAM
-22,Aruba,p11b,Mechanical and semi-chemical pulp production,,,LAM
-23,Belize,p11b,Mechanical and semi-chemical pulp production,,,LAM
-25,Solomon Islands,p11b,Mechanical and semi-chemical pulp production,,,OCE
-26,Brunei Darussalam,p11b,Mechanical and semi-chemical pulp production,,,ASI
-27,Bulgaria,p11b,Mechanical and semi-chemical pulp production,0.75,0.25,EUR
-28,Myanmar,p11b,Mechanical and semi-chemical pulp production,,,ASI
-29,Burundi,p11b,Mechanical and semi-chemical pulp production,,,AFR
-32,Cameroon,p11b,Mechanical and semi-chemical pulp production,,,AFR
-33,Canada,p11b,Mechanical and semi-chemical pulp production,0.45,0.55,NAM
-35,Cabo Verde,p11b,Mechanical and semi-chemical pulp production,,,AFR
-37,Central African Republic,p11b,Mechanical and semi-chemical pulp production,,,AFR
-38,Sri Lanka,p11b,Mechanical and semi-chemical pulp production,,,ASI
-39,Chad,p11b,Mechanical and semi-chemical pulp production,,,AFR
-40,Chile,p11b,Mechanical and semi-chemical pulp production,0.25,0.75,LAM
-41,"China, mainland",p11b,Mechanical and semi-chemical pulp production,,,ASI
-42,Christmas Island,p11b,Mechanical and semi-chemical pulp production,,,OCE
-44,Colombia,p11b,Mechanical and semi-chemical pulp production,,,LAM
-45,Comoros,p11b,Mechanical and semi-chemical pulp production,,,AFR
-46,Congo,p11b,Mechanical and semi-chemical pulp production,,,AFR
-47,Cook Islands,p11b,Mechanical and semi-chemical pulp production,,,OCE
-48,Costa Rica,p11b,Mechanical and semi-chemical pulp production,,,LAM
-49,Cuba,p11b,Mechanical and semi-chemical pulp production,,,LAM
-50,Cyprus,p11b,Mechanical and semi-chemical pulp production,0.75,0.25,EUR
-51,Czechoslovakia,p11b,Mechanical and semi-chemical pulp production,0.75,0.25,EUR
-52,Azerbaijan,p11b,Mechanical and semi-chemical pulp production,,,ASI
-53,Benin,p11b,Mechanical and semi-chemical pulp production,,,AFR
-54,Denmark,p11b,Mechanical and semi-chemical pulp production,0.75,0.25,EUR
-55,Dominica,p11b,Mechanical and semi-chemical pulp production,,,LAM
-56,Dominican Republic,p11b,Mechanical and semi-chemical pulp production,,,LAM
-57,Belarus,p11b,Mechanical and semi-chemical pulp production,0.75,0.25,EUR
-58,Ecuador,p11b,Mechanical and semi-chemical pulp production,,,LAM
-59,Egypt,p11b,Mechanical and semi-chemical pulp production,,,AFR
-60,El Salvador,p11b,Mechanical and semi-chemical pulp production,,,LAM
-61,Equatorial Guinea,p11b,Mechanical and semi-chemical pulp production,,,AFR
-63,Estonia,p11b,Mechanical and semi-chemical pulp production,0.75,0.25,EUR
-64,Faroe Islands,p11b,Mechanical and semi-chemical pulp production,0.75,0.25,EUR
-65,Falkland Islands (Malvinas),p11b,Mechanical and semi-chemical pulp production,,,LAM
-66,Fiji,p11b,Mechanical and semi-chemical pulp production,,,OCE
-67,Finland,p11b,Mechanical and semi-chemical pulp production,0.9,0.1,EUR
-68,France,p11b,Mechanical and semi-chemical pulp production,0.75,0.25,EUR
-69,French Guyana,p11b,Mechanical and semi-chemical pulp production,,,LAM
-70,French Polynesia,p11b,Mechanical and semi-chemical pulp production,,,OCE
-72,Djibouti,p11b,Mechanical and semi-chemical pulp production,,,AFR
-73,Georgia,p11b,Mechanical and semi-chemical pulp production,,,ASI
-74,Gabon,p11b,Mechanical and semi-chemical pulp production,,,AFR
-75,Gambia,p11b,Mechanical and semi-chemical pulp production,,,AFR
-79,Germany,p11b,Mechanical and semi-chemical pulp production,0.75,0.25,EUR
-80,Bosnia and Herzegovina,p11b,Mechanical and semi-chemical pulp production,0.75,0.25,EUR
-81,Ghana,p11b,Mechanical and semi-chemical pulp production,,,AFR
-82,Gibraltar,p11b,Mechanical and semi-chemical pulp production,0.75,0.25,EUR
-83,Kiribati,p11b,Mechanical and semi-chemical pulp production,,,OCE
-84,Greece,p11b,Mechanical and semi-chemical pulp production,0.75,0.25,EUR
-87,Guadeloupe,p11b,Mechanical and semi-chemical pulp production,,,LAM
-89,Guatemala,p11b,Mechanical and semi-chemical pulp production,,,LAM
-90,Guinea,p11b,Mechanical and semi-chemical pulp production,,,AFR
-91,Guyana,p11b,Mechanical and semi-chemical pulp production,,,LAM
-93,Haiti,p11b,Mechanical and semi-chemical pulp production,,,LAM
-95,Honduras,p11b,Mechanical and semi-chemical pulp production,,,LAM
-96,"China, Hong Kong SAR",p11b,Mechanical and semi-chemical pulp production,,,ASI
-97,Hungary,p11b,Mechanical and semi-chemical pulp production,0.75,0.25,EUR
-98,Croatia,p11b,Mechanical and semi-chemical pulp production,0.75,0.25,EUR
-99,Iceland,p11b,Mechanical and semi-chemical pulp production,0.75,0.25,EUR
-100,India,p11b,Mechanical and semi-chemical pulp production,,,ASI
-101,Indonesia,p11b,Mechanical and semi-chemical pulp production,,,ASI
-102,Iran (Islamic Republic of),p11b,Mechanical and semi-chemical pulp production,,,ASI
-103,Iraq,p11b,Mechanical and semi-chemical pulp production,,,ASI
-104,Ireland,p11b,Mechanical and semi-chemical pulp production,0.75,0.25,EUR
-105,Israel,p11b,Mechanical and semi-chemical pulp production,,,ASI
-106,Italy,p11b,Mechanical and semi-chemical pulp production,0.75,0.25,EUR
-107,Cote d'Ivoire,p11b,Mechanical and semi-chemical pulp production,,,AFR
-108,Kazakhstan,p11b,Mechanical and semi-chemical pulp production,,,ASI
-109,Jamaica,p11b,Mechanical and semi-chemical pulp production,,,LAM
-110,Japan,p11b,Mechanical and semi-chemical pulp production,0.01,0.99,ASI
-112,Jordan,p11b,Mechanical and semi-chemical pulp production,,,ASI
-113,Kyrgyzstan,p11b,Mechanical and semi-chemical pulp production,,,ASI
-114,Kenya,p11b,Mechanical and semi-chemical pulp production,,,AFR
-115,Cambodia,p11b,Mechanical and semi-chemical pulp production,,,ASI
-116,Democratic People's Republic of Korea,p11b,Mechanical and semi-chemical pulp production,,,ASI
-117,Republic of Korea,p11b,Mechanical and semi-chemical pulp production,,,ASI
-118,Kuwait,p11b,Mechanical and semi-chemical pulp production,,,ASI
-119,Latvia,p11b,Mechanical and semi-chemical pulp production,0.75,0.25,EUR
-120,Lao People's Democratic Republic,p11b,Mechanical and semi-chemical pulp production,,,ASI
-121,Lebanon,p11b,Mechanical and semi-chemical pulp production,,,ASI
-122,Lesotho,p11b,Mechanical and semi-chemical pulp production,,,AFR
-123,Liberia,p11b,Mechanical and semi-chemical pulp production,,,AFR
-124,Libya,p11b,Mechanical and semi-chemical pulp production,,,AFR
-125,Liechtenstein,p11b,Mechanical and semi-chemical pulp production,0.75,0.25,EUR
-126,Lithuania,p11b,Mechanical and semi-chemical pulp production,0.75,0.25,EUR
-128,"China, Macao SAR",p11b,Mechanical and semi-chemical pulp production,,,ASI
-129,Madagascar,p11b,Mechanical and semi-chemical pulp production,,,AFR
-130,Malawi,p11b,Mechanical and semi-chemical pulp production,,,AFR
-131,Malaysia,p11b,Mechanical and semi-chemical pulp production,,,ASI
-132,Maldives,p11b,Mechanical and semi-chemical pulp production,,,ASI
-133,Mali,p11b,Mechanical and semi-chemical pulp production,,,AFR
-134,Malta,p11b,Mechanical and semi-chemical pulp production,0.75,0.25,EUR
-135,Martinique,p11b,Mechanical and semi-chemical pulp production,,,LAM
-136,Mauritania,p11b,Mechanical and semi-chemical pulp production,,,AFR
-137,Mauritius,p11b,Mechanical and semi-chemical pulp production,,,AFR
-138,Mexico,p11b,Mechanical and semi-chemical pulp production,,,LAM
-141,Mongolia,p11b,Mechanical and semi-chemical pulp production,,,ASI
-143,Morocco,p11b,Mechanical and semi-chemical pulp production,,,AFR
-144,Mozambique,p11b,Mechanical and semi-chemical pulp production,,,AFR
-145,Micronesia (Federated States of),p11b,Mechanical and semi-chemical pulp production,,,OCE
-146,Republic of Moldova,p11b,Mechanical and semi-chemical pulp production,0.75,0.25,EUR
-147,Namibia,p11b,Mechanical and semi-chemical pulp production,,,AFR
-149,Nepal,p11b,Mechanical and semi-chemical pulp production,,,ASI
-150,Netherlands,p11b,Mechanical and semi-chemical pulp production,0.75,0.25,EUR
-151,Netherlands Antilles,p11b,Mechanical and semi-chemical pulp production,,,LAM
-153,New Caledonia,p11b,Mechanical and semi-chemical pulp production,,,OCE
-154,North Macedonia,p11b,Mechanical and semi-chemical pulp production,0.75,0.25,EUR
-155,Vanuatu,p11b,Mechanical and semi-chemical pulp production,,,OCE
-156,New Zealand,p11b,Mechanical and semi-chemical pulp production,,,OCE
-157,Nicaragua,p11b,Mechanical and semi-chemical pulp production,,,LAM
-158,Niger,p11b,Mechanical and semi-chemical pulp production,,,AFR
-159,Nigeria,p11b,Mechanical and semi-chemical pulp production,,,AFR
-160,Niue,p11b,Mechanical and semi-chemical pulp production,,,OCE
-161,Norfolk Island,p11b,Mechanical and semi-chemical pulp production,,,OCE
-162,Norway,p11b,Mechanical and semi-chemical pulp production,0.75,0.25,EUR
-165,Pakistan,p11b,Mechanical and semi-chemical pulp production,,,ASI
-166,Panama,p11b,Mechanical and semi-chemical pulp production,,,LAM
-167,Czechia,p11b,Mechanical and semi-chemical pulp production,0.75,0.25,EUR
-168,Papua New Guinea,p11b,Mechanical and semi-chemical pulp production,,,OCE
-169,Paraguay,p11b,Mechanical and semi-chemical pulp production,,,LAM
-170,Peru,p11b,Mechanical and semi-chemical pulp production,,,LAM
-171,Philippines,p11b,Mechanical and semi-chemical pulp production,,,ASI
-173,Poland,p11b,Mechanical and semi-chemical pulp production,0.75,0.25,EUR
-174,Portugal,p11b,Mechanical and semi-chemical pulp production,0.75,0.25,EUR
-175,Guinea-Bissau,p11b,Mechanical and semi-chemical pulp production,,,AFR
-176,Timor-Leste,p11b,Mechanical and semi-chemical pulp production,,,ASI
-178,Eritrea,p11b,Mechanical and semi-chemical pulp production,,,AFR
-179,Qatar,p11b,Mechanical and semi-chemical pulp production,,,ASI
-181,Zimbabwe,p11b,Mechanical and semi-chemical pulp production,,,AFR
-182,Reunion,p11b,Mechanical and semi-chemical pulp production,,,AFR
-183,Romania,p11b,Mechanical and semi-chemical pulp production,0.75,0.25,EUR
-184,Rwanda,p11b,Mechanical and semi-chemical pulp production,,,AFR
-185,Russian Federation,p11b,Mechanical and semi-chemical pulp production,0.75,0.25,EUR
-186,Serbia and Montenegro,p11b,Mechanical and semi-chemical pulp production,0.75,0.25,EUR
-189,Saint Lucia,p11b,Mechanical and semi-chemical pulp production,,,LAM
-190,Saint Pierre and Miquelon,p11b,Mechanical and semi-chemical pulp production,,,NAM
-191,Saint Vincent and the Grenadines,p11b,Mechanical and semi-chemical pulp production,,,LAM
-193,Sao Tome and Principe,p11b,Mechanical and semi-chemical pulp production,,,AFR
-194,Saudi Arabia,p11b,Mechanical and semi-chemical pulp production,,,ASI
-195,Senegal,p11b,Mechanical and semi-chemical pulp production,,,AFR
-196,Seychelles,p11b,Mechanical and semi-chemical pulp production,,,AFR
-197,Sierra Leone,p11b,Mechanical and semi-chemical pulp production,,,AFR
-198,Slovenia,p11b,Mechanical and semi-chemical pulp production,0.75,0.25,EUR
-199,Slovakia,p11b,Mechanical and semi-chemical pulp production,0.75,0.25,EUR
-200,Singapore,p11b,Mechanical and semi-chemical pulp production,,,ASI
-201,Somalia,p11b,Mechanical and semi-chemical pulp production,,,AFR
-202,South Africa,p11b,Mechanical and semi-chemical pulp production,,,AFR
-203,Spain,p11b,Mechanical and semi-chemical pulp production,0.75,0.25,EUR
-207,Suriname,p11b,Mechanical and semi-chemical pulp production,,,LAM
-208,Tajikistan,p11b,Mechanical and semi-chemical pulp production,,,ASI
-209,Eswatini,p11b,Mechanical and semi-chemical pulp production,,,AFR
-210,Sweden,p11b,Mechanical and semi-chemical pulp production,0.77,0.23,EUR
-211,Switzerland,p11b,Mechanical and semi-chemical pulp production,0.75,0.25,EUR
-212,Syrian Arab Republic,p11b,Mechanical and semi-chemical pulp production,,,ASI
-213,Turkmenistan,p11b,Mechanical and semi-chemical pulp production,,,ASI
-214,"China, Taiwan Province of",p11b,Mechanical and semi-chemical pulp production,,,ASI
-215,United Republic of Tanzania,p11b,Mechanical and semi-chemical pulp production,,,AFR
-216,Thailand,p11b,Mechanical and semi-chemical pulp production,,,ASI
-217,Togo,p11b,Mechanical and semi-chemical pulp production,,,AFR
-219,Tonga,p11b,Mechanical and semi-chemical pulp production,,,AFR
-220,Trinidad and Tobago,p11b,Mechanical and semi-chemical pulp production,,,LAM
-221,Oman,p11b,Mechanical and semi-chemical pulp production,,,ASI
-222,Tunisia,p11b,Mechanical and semi-chemical pulp production,,,AFR
-223,Turkey,p11b,Mechanical and semi-chemical pulp production,0.75,0.25,EUR
-224,Turks and Caicos Islands,p11b,Mechanical and semi-chemical pulp production,,,LAM
-225,United Arab Emirates,p11b,Mechanical and semi-chemical pulp production,,,ASI
-226,Uganda,p11b,Mechanical and semi-chemical pulp production,,,AFR
-229,United Kingdom,p11b,Mechanical and semi-chemical pulp production,0.75,0.25,EUR
-230,Ukraine,p11b,Mechanical and semi-chemical pulp production,0.75,0.25,EUR
-231,United States of America,p11b,Mechanical and semi-chemical pulp production,0.54,0.46,NAM
-233,Burkina Faso,p11b,Mechanical and semi-chemical pulp production,,,AFR
-234,Uruguay,p11b,Mechanical and semi-chemical pulp production,,,LAM
-235,Uzbekistan,p11b,Mechanical and semi-chemical pulp production,,,ASI
-236,Venezuela (Bolivarian Republic of),p11b,Mechanical and semi-chemical pulp production,,,LAM
-237,Viet Nam,p11b,Mechanical and semi-chemical pulp production,,,ASI
-238,Ethiopia,p11b,Mechanical and semi-chemical pulp production,,,AFR
-239,British Virgin Islands,p11b,Mechanical and semi-chemical pulp production,,,LAM
-244,Samoa,p11b,Mechanical and semi-chemical pulp production,,,OCE
-249,Yemen,p11b,Mechanical and semi-chemical pulp production,,,ASI
-250,Democratic Republic of the Congo,p11b,Mechanical and semi-chemical pulp production,,,AFR
-251,Zambia,p11b,Mechanical and semi-chemical pulp production,,,AFR
-255,Belgium,p11b,Mechanical and semi-chemical pulp production,0.75,0.25,EUR
-256,Luxembourg,p11b,Mechanical and semi-chemical pulp production,0.75,0.25,EUR
-270,Mayotte,p11b,Mechanical and semi-chemical pulp production,,,AFR
-272,Serbia,p11b,Mechanical and semi-chemical pulp production,0.75,0.25,EUR
-273,Montenegro,p11b,Mechanical and semi-chemical pulp production,0.75,0.25,EUR
-276,Sudan,p11b,Mechanical and semi-chemical pulp production,,,AFR
-277,South Sudan,p11b,Mechanical and semi-chemical pulp production,,,AFR
-5,American Samoa,p11b,Mechanical and semi-chemical pulp production,,,OCE
-8,Antigua and Barbuda,p11b,Mechanical and semi-chemical pulp production,,,LAM
-17,Bermuda,p11b,Mechanical and semi-chemical pulp production,,,LAM
-24,British Indian Ocean Territory,p11b,Mechanical and semi-chemical pulp production,,,ASI
-36,Cayman Islands,p11b,Mechanical and semi-chemical pulp production,,,LAM
-43,Cocos (Keeling) Islands,p11b,Mechanical and semi-chemical pulp production,,,OCE
-71,French Southern and Antarctic Territories,p11b,Mechanical and semi-chemical pulp production,,,OCE
-85,Greenland,p11b,Mechanical and semi-chemical pulp production,0.75,0.25,EUR
-86,Grenada,p11b,Mechanical and semi-chemical pulp production,,,LAM
-88,Guam,p11b,Mechanical and semi-chemical pulp production,,,OCE
-94,Holy See,p11b,Mechanical and semi-chemical pulp production,0.75,0.25,EUR
-127,Marshall Islands,p11b,Mechanical and semi-chemical pulp production,,,OCE
-142,Montserrat,p11b,Mechanical and semi-chemical pulp production,,,LAM
-148,Nauru,p11b,Mechanical and semi-chemical pulp production,,,OCE
-163,Northern Mariana Islands,p11b,Mechanical and semi-chemical pulp production,,,OCE
-164,Pacific Islands Trust Territory,p11b,Mechanical and semi-chemical pulp production,,,ASI
-172,Pitcairn Islands,p11b,Mechanical and semi-chemical pulp production,,,OCE
-180,Palau,p11b,Mechanical and semi-chemical pulp production,,,OCE
-187,"Saint Helena, Ascension and Tristan da Cunha",p11b,Mechanical and semi-chemical pulp production,,,AFR
-188,Saint Kitts and Nevis,p11b,Mechanical and semi-chemical pulp production,,,LAM
-192,San Marino,p11b,Mechanical and semi-chemical pulp production,0.75,0.25,EUR
-205,Western Sahara,p11b,Mechanical and semi-chemical pulp production,,,AFR
-218,Tokelau,p11b,Mechanical and semi-chemical pulp production,,,OCE
-227,Tuvalu,p11b,Mechanical and semi-chemical pulp production,,,OCE
-228,USSR,p11b,Mechanical and semi-chemical pulp production,,,ASI
-242,Wake Island,p11b,Mechanical and semi-chemical pulp production,,,OCE
-243,Wallis and Futuna Islands,p11b,Mechanical and semi-chemical pulp production,,,OCE
-248,Yugoslav SFR,p11b,Mechanical and semi-chemical pulp production,0.75,0.25,EUR
-258,Anguilla,p11b,Mechanical and semi-chemical pulp production,,,LAM
-279,Curaçao,p11b,Mechanical and semi-chemical pulp production,,,LAM
-281,Saint-Martin (French Part),p11b,Mechanical and semi-chemical pulp production,,,LAM
-299,Palestine,p11b,Mechanical and semi-chemical pulp production,,,ASI
-252,Unspecified Area,p11b,Mechanical and semi-chemical pulp production,,,XXX
-254,Others (adjustment),p11b,Mechanical and semi-chemical pulp production,,,XXX
-999,RoW,p11b,Mechanical and semi-chemical pulp production,,,ROW
-,ASI,p11b,Mechanical and semi-chemical pulp production,,,
-,EUR,p11b,Mechanical and semi-chemical pulp production,0.75,0.25,
-,AFR,p11b,Mechanical and semi-chemical pulp production,,,
-,LAM,p11b,Mechanical and semi-chemical pulp production,,,
-,OCE,p11b,Mechanical and semi-chemical pulp production,,,
-,NAM,p11b,Mechanical and semi-chemical pulp production,,,
-1,Armenia,p11d,Dissolving pulp production,,,ASI
-2,Afghanistan,p11d,Dissolving pulp production,,,ASI
-3,Albania,p11d,Dissolving pulp production,0.75,0.25,EUR
-4,Algeria,p11d,Dissolving pulp production,,,AFR
-6,Andorra,p11d,Dissolving pulp production,0.75,0.25,EUR
-7,Angola,p11d,Dissolving pulp production,,,AFR
-9,Argentina,p11d,Dissolving pulp production,,,LAM
-10,Australia,p11d,Dissolving pulp production,,,OCE
-11,Austria,p11d,Dissolving pulp production,0.75,0.25,EUR
-12,Bahamas,p11d,Dissolving pulp production,,,LAM
-13,Bahrain,p11d,Dissolving pulp production,,,ASI
-14,Barbados,p11d,Dissolving pulp production,,,LAM
-15,Belgium-Luxembourg,p11d,Dissolving pulp production,0.75,0.25,EUR
-16,Bangladesh,p11d,Dissolving pulp production,,,ASI
-18,Bhutan,p11d,Dissolving pulp production,,,ASI
-19,Bolivia (Plurinational State of),p11d,Dissolving pulp production,,,LAM
-20,Botswana,p11d,Dissolving pulp production,,,AFR
-21,Brazil,p11d,Dissolving pulp production,0.96,0.04,LAM
-22,Aruba,p11d,Dissolving pulp production,,,LAM
-23,Belize,p11d,Dissolving pulp production,,,LAM
-25,Solomon Islands,p11d,Dissolving pulp production,,,OCE
-26,Brunei Darussalam,p11d,Dissolving pulp production,,,ASI
-27,Bulgaria,p11d,Dissolving pulp production,0.75,0.25,EUR
-28,Myanmar,p11d,Dissolving pulp production,,,ASI
-29,Burundi,p11d,Dissolving pulp production,,,AFR
-32,Cameroon,p11d,Dissolving pulp production,,,AFR
-33,Canada,p11d,Dissolving pulp production,0.45,0.55,NAM
-35,Cabo Verde,p11d,Dissolving pulp production,,,AFR
-37,Central African Republic,p11d,Dissolving pulp production,,,AFR
-38,Sri Lanka,p11d,Dissolving pulp production,,,ASI
-39,Chad,p11d,Dissolving pulp production,,,AFR
-40,Chile,p11d,Dissolving pulp production,0.25,0.75,LAM
-41,"China, mainland",p11d,Dissolving pulp production,,,ASI
-42,Christmas Island,p11d,Dissolving pulp production,,,OCE
-44,Colombia,p11d,Dissolving pulp production,,,LAM
-45,Comoros,p11d,Dissolving pulp production,,,AFR
-46,Congo,p11d,Dissolving pulp production,,,AFR
-47,Cook Islands,p11d,Dissolving pulp production,,,OCE
-48,Costa Rica,p11d,Dissolving pulp production,,,LAM
-49,Cuba,p11d,Dissolving pulp production,,,LAM
-50,Cyprus,p11d,Dissolving pulp production,0.75,0.25,EUR
-51,Czechoslovakia,p11d,Dissolving pulp production,0.75,0.25,EUR
-52,Azerbaijan,p11d,Dissolving pulp production,,,ASI
-53,Benin,p11d,Dissolving pulp production,,,AFR
-54,Denmark,p11d,Dissolving pulp production,0.75,0.25,EUR
-55,Dominica,p11d,Dissolving pulp production,,,LAM
-56,Dominican Republic,p11d,Dissolving pulp production,,,LAM
-57,Belarus,p11d,Dissolving pulp production,0.75,0.25,EUR
-58,Ecuador,p11d,Dissolving pulp production,,,LAM
-59,Egypt,p11d,Dissolving pulp production,,,AFR
-60,El Salvador,p11d,Dissolving pulp production,,,LAM
-61,Equatorial Guinea,p11d,Dissolving pulp production,,,AFR
-63,Estonia,p11d,Dissolving pulp production,0.75,0.25,EUR
-64,Faroe Islands,p11d,Dissolving pulp production,0.75,0.25,EUR
-65,Falkland Islands (Malvinas),p11d,Dissolving pulp production,,,LAM
-66,Fiji,p11d,Dissolving pulp production,,,OCE
-67,Finland,p11d,Dissolving pulp production,0.9,0.1,EUR
-68,France,p11d,Dissolving pulp production,0.75,0.25,EUR
-69,French Guyana,p11d,Dissolving pulp production,,,LAM
-70,French Polynesia,p11d,Dissolving pulp production,,,OCE
-72,Djibouti,p11d,Dissolving pulp production,,,AFR
-73,Georgia,p11d,Dissolving pulp production,,,ASI
-74,Gabon,p11d,Dissolving pulp production,,,AFR
-75,Gambia,p11d,Dissolving pulp production,,,AFR
-79,Germany,p11d,Dissolving pulp production,0.75,0.25,EUR
-80,Bosnia and Herzegovina,p11d,Dissolving pulp production,0.75,0.25,EUR
-81,Ghana,p11d,Dissolving pulp production,,,AFR
-82,Gibraltar,p11d,Dissolving pulp production,0.75,0.25,EUR
-83,Kiribati,p11d,Dissolving pulp production,,,OCE
-84,Greece,p11d,Dissolving pulp production,0.75,0.25,EUR
-87,Guadeloupe,p11d,Dissolving pulp production,,,LAM
-89,Guatemala,p11d,Dissolving pulp production,,,LAM
-90,Guinea,p11d,Dissolving pulp production,,,AFR
-91,Guyana,p11d,Dissolving pulp production,,,LAM
-93,Haiti,p11d,Dissolving pulp production,,,LAM
-95,Honduras,p11d,Dissolving pulp production,,,LAM
-96,"China, Hong Kong SAR",p11d,Dissolving pulp production,,,ASI
-97,Hungary,p11d,Dissolving pulp production,0.75,0.25,EUR
-98,Croatia,p11d,Dissolving pulp production,0.75,0.25,EUR
-99,Iceland,p11d,Dissolving pulp production,0.75,0.25,EUR
-100,India,p11d,Dissolving pulp production,,,ASI
-101,Indonesia,p11d,Dissolving pulp production,,,ASI
-102,Iran (Islamic Republic of),p11d,Dissolving pulp production,,,ASI
-103,Iraq,p11d,Dissolving pulp production,,,ASI
-104,Ireland,p11d,Dissolving pulp production,0.75,0.25,EUR
-105,Israel,p11d,Dissolving pulp production,,,ASI
-106,Italy,p11d,Dissolving pulp production,0.75,0.25,EUR
-107,Cote d'Ivoire,p11d,Dissolving pulp production,,,AFR
-108,Kazakhstan,p11d,Dissolving pulp production,,,ASI
-109,Jamaica,p11d,Dissolving pulp production,,,LAM
-110,Japan,p11d,Dissolving pulp production,0.01,0.99,ASI
-112,Jordan,p11d,Dissolving pulp production,,,ASI
-113,Kyrgyzstan,p11d,Dissolving pulp production,,,ASI
-114,Kenya,p11d,Dissolving pulp production,,,AFR
-115,Cambodia,p11d,Dissolving pulp production,,,ASI
-116,Democratic People's Republic of Korea,p11d,Dissolving pulp production,,,ASI
-117,Republic of Korea,p11d,Dissolving pulp production,,,ASI
-118,Kuwait,p11d,Dissolving pulp production,,,ASI
-119,Latvia,p11d,Dissolving pulp production,0.75,0.25,EUR
-120,Lao People's Democratic Republic,p11d,Dissolving pulp production,,,ASI
-121,Lebanon,p11d,Dissolving pulp production,,,ASI
-122,Lesotho,p11d,Dissolving pulp production,,,AFR
-123,Liberia,p11d,Dissolving pulp production,,,AFR
-124,Libya,p11d,Dissolving pulp production,,,AFR
-125,Liechtenstein,p11d,Dissolving pulp production,0.75,0.25,EUR
-126,Lithuania,p11d,Dissolving pulp production,0.75,0.25,EUR
-128,"China, Macao SAR",p11d,Dissolving pulp production,,,ASI
-129,Madagascar,p11d,Dissolving pulp production,,,AFR
-130,Malawi,p11d,Dissolving pulp production,,,AFR
-131,Malaysia,p11d,Dissolving pulp production,,,ASI
-132,Maldives,p11d,Dissolving pulp production,,,ASI
-133,Mali,p11d,Dissolving pulp production,,,AFR
-134,Malta,p11d,Dissolving pulp production,0.75,0.25,EUR
-135,Martinique,p11d,Dissolving pulp production,,,LAM
-136,Mauritania,p11d,Dissolving pulp production,,,AFR
-137,Mauritius,p11d,Dissolving pulp production,,,AFR
-138,Mexico,p11d,Dissolving pulp production,,,LAM
-141,Mongolia,p11d,Dissolving pulp production,,,ASI
-143,Morocco,p11d,Dissolving pulp production,,,AFR
-144,Mozambique,p11d,Dissolving pulp production,,,AFR
-145,Micronesia (Federated States of),p11d,Dissolving pulp production,,,OCE
-146,Republic of Moldova,p11d,Dissolving pulp production,0.75,0.25,EUR
-147,Namibia,p11d,Dissolving pulp production,,,AFR
-149,Nepal,p11d,Dissolving pulp production,,,ASI
-150,Netherlands,p11d,Dissolving pulp production,0.75,0.25,EUR
-151,Netherlands Antilles,p11d,Dissolving pulp production,,,LAM
-153,New Caledonia,p11d,Dissolving pulp production,,,OCE
-154,North Macedonia,p11d,Dissolving pulp production,0.75,0.25,EUR
-155,Vanuatu,p11d,Dissolving pulp production,,,OCE
-156,New Zealand,p11d,Dissolving pulp production,,,OCE
-157,Nicaragua,p11d,Dissolving pulp production,,,LAM
-158,Niger,p11d,Dissolving pulp production,,,AFR
-159,Nigeria,p11d,Dissolving pulp production,,,AFR
-160,Niue,p11d,Dissolving pulp production,,,OCE
-161,Norfolk Island,p11d,Dissolving pulp production,,,OCE
-162,Norway,p11d,Dissolving pulp production,0.75,0.25,EUR
-165,Pakistan,p11d,Dissolving pulp production,,,ASI
-166,Panama,p11d,Dissolving pulp production,,,LAM
-167,Czechia,p11d,Dissolving pulp production,0.75,0.25,EUR
-168,Papua New Guinea,p11d,Dissolving pulp production,,,OCE
-169,Paraguay,p11d,Dissolving pulp production,,,LAM
-170,Peru,p11d,Dissolving pulp production,,,LAM
-171,Philippines,p11d,Dissolving pulp production,,,ASI
-173,Poland,p11d,Dissolving pulp production,0.75,0.25,EUR
-174,Portugal,p11d,Dissolving pulp production,0.75,0.25,EUR
-175,Guinea-Bissau,p11d,Dissolving pulp production,,,AFR
-176,Timor-Leste,p11d,Dissolving pulp production,,,ASI
-178,Eritrea,p11d,Dissolving pulp production,,,AFR
-179,Qatar,p11d,Dissolving pulp production,,,ASI
-181,Zimbabwe,p11d,Dissolving pulp production,,,AFR
-182,Reunion,p11d,Dissolving pulp production,,,AFR
-183,Romania,p11d,Dissolving pulp production,0.75,0.25,EUR
-184,Rwanda,p11d,Dissolving pulp production,,,AFR
-185,Russian Federation,p11d,Dissolving pulp production,0.75,0.25,EUR
-186,Serbia and Montenegro,p11d,Dissolving pulp production,0.75,0.25,EUR
-189,Saint Lucia,p11d,Dissolving pulp production,,,LAM
-190,Saint Pierre and Miquelon,p11d,Dissolving pulp production,,,NAM
-191,Saint Vincent and the Grenadines,p11d,Dissolving pulp production,,,LAM
-193,Sao Tome and Principe,p11d,Dissolving pulp production,,,AFR
-194,Saudi Arabia,p11d,Dissolving pulp production,,,ASI
-195,Senegal,p11d,Dissolving pulp production,,,AFR
-196,Seychelles,p11d,Dissolving pulp production,,,AFR
-197,Sierra Leone,p11d,Dissolving pulp production,,,AFR
-198,Slovenia,p11d,Dissolving pulp production,0.75,0.25,EUR
-199,Slovakia,p11d,Dissolving pulp production,0.75,0.25,EUR
-200,Singapore,p11d,Dissolving pulp production,,,ASI
-201,Somalia,p11d,Dissolving pulp production,,,AFR
-202,South Africa,p11d,Dissolving pulp production,,,AFR
-203,Spain,p11d,Dissolving pulp production,0.75,0.25,EUR
-207,Suriname,p11d,Dissolving pulp production,,,LAM
-208,Tajikistan,p11d,Dissolving pulp production,,,ASI
-209,Eswatini,p11d,Dissolving pulp production,,,AFR
-210,Sweden,p11d,Dissolving pulp production,0.77,0.23,EUR
-211,Switzerland,p11d,Dissolving pulp production,0.75,0.25,EUR
-212,Syrian Arab Republic,p11d,Dissolving pulp production,,,ASI
-213,Turkmenistan,p11d,Dissolving pulp production,,,ASI
-214,"China, Taiwan Province of",p11d,Dissolving pulp production,,,ASI
-215,United Republic of Tanzania,p11d,Dissolving pulp production,,,AFR
-216,Thailand,p11d,Dissolving pulp production,,,ASI
-217,Togo,p11d,Dissolving pulp production,,,AFR
-219,Tonga,p11d,Dissolving pulp production,,,AFR
-220,Trinidad and Tobago,p11d,Dissolving pulp production,,,LAM
-221,Oman,p11d,Dissolving pulp production,,,ASI
-222,Tunisia,p11d,Dissolving pulp production,,,AFR
-223,Turkey,p11d,Dissolving pulp production,0.75,0.25,EUR
-224,Turks and Caicos Islands,p11d,Dissolving pulp production,,,LAM
-225,United Arab Emirates,p11d,Dissolving pulp production,,,ASI
-226,Uganda,p11d,Dissolving pulp production,,,AFR
-229,United Kingdom,p11d,Dissolving pulp production,0.75,0.25,EUR
-230,Ukraine,p11d,Dissolving pulp production,0.75,0.25,EUR
-231,United States of America,p11d,Dissolving pulp production,0.54,0.46,NAM
-233,Burkina Faso,p11d,Dissolving pulp production,,,AFR
-234,Uruguay,p11d,Dissolving pulp production,,,LAM
-235,Uzbekistan,p11d,Dissolving pulp production,,,ASI
-236,Venezuela (Bolivarian Republic of),p11d,Dissolving pulp production,,,LAM
-237,Viet Nam,p11d,Dissolving pulp production,,,ASI
-238,Ethiopia,p11d,Dissolving pulp production,,,AFR
-239,British Virgin Islands,p11d,Dissolving pulp production,,,LAM
-244,Samoa,p11d,Dissolving pulp production,,,OCE
-249,Yemen,p11d,Dissolving pulp production,,,ASI
-250,Democratic Republic of the Congo,p11d,Dissolving pulp production,,,AFR
-251,Zambia,p11d,Dissolving pulp production,,,AFR
-255,Belgium,p11d,Dissolving pulp production,0.75,0.25,EUR
-256,Luxembourg,p11d,Dissolving pulp production,0.75,0.25,EUR
-270,Mayotte,p11d,Dissolving pulp production,,,AFR
-272,Serbia,p11d,Dissolving pulp production,0.75,0.25,EUR
-273,Montenegro,p11d,Dissolving pulp production,0.75,0.25,EUR
-276,Sudan,p11d,Dissolving pulp production,,,AFR
-277,South Sudan,p11d,Dissolving pulp production,,,AFR
-5,American Samoa,p11d,Dissolving pulp production,,,OCE
-8,Antigua and Barbuda,p11d,Dissolving pulp production,,,LAM
-17,Bermuda,p11d,Dissolving pulp production,,,LAM
-24,British Indian Ocean Territory,p11d,Dissolving pulp production,,,ASI
-36,Cayman Islands,p11d,Dissolving pulp production,,,LAM
-43,Cocos (Keeling) Islands,p11d,Dissolving pulp production,,,OCE
-71,French Southern and Antarctic Territories,p11d,Dissolving pulp production,,,OCE
-85,Greenland,p11d,Dissolving pulp production,0.75,0.25,EUR
-86,Grenada,p11d,Dissolving pulp production,,,LAM
-88,Guam,p11d,Dissolving pulp production,,,OCE
-94,Holy See,p11d,Dissolving pulp production,0.75,0.25,EUR
-127,Marshall Islands,p11d,Dissolving pulp production,,,OCE
-142,Montserrat,p11d,Dissolving pulp production,,,LAM
-148,Nauru,p11d,Dissolving pulp production,,,OCE
-163,Northern Mariana Islands,p11d,Dissolving pulp production,,,OCE
-164,Pacific Islands Trust Territory,p11d,Dissolving pulp production,,,ASI
-172,Pitcairn Islands,p11d,Dissolving pulp production,,,OCE
-180,Palau,p11d,Dissolving pulp production,,,OCE
-187,"Saint Helena, Ascension and Tristan da Cunha",p11d,Dissolving pulp production,,,AFR
-188,Saint Kitts and Nevis,p11d,Dissolving pulp production,,,LAM
-192,San Marino,p11d,Dissolving pulp production,0.75,0.25,EUR
-205,Western Sahara,p11d,Dissolving pulp production,,,AFR
-218,Tokelau,p11d,Dissolving pulp production,,,OCE
-227,Tuvalu,p11d,Dissolving pulp production,,,OCE
-228,USSR,p11d,Dissolving pulp production,,,ASI
-242,Wake Island,p11d,Dissolving pulp production,,,OCE
-243,Wallis and Futuna Islands,p11d,Dissolving pulp production,,,OCE
-248,Yugoslav SFR,p11d,Dissolving pulp production,0.75,0.25,EUR
-258,Anguilla,p11d,Dissolving pulp production,,,LAM
-279,Curaçao,p11d,Dissolving pulp production,,,LAM
-281,Saint-Martin (French Part),p11d,Dissolving pulp production,,,LAM
-299,Palestine,p11d,Dissolving pulp production,,,ASI
-252,Unspecified Area,p11d,Dissolving pulp production,,,XXX
-254,Others (adjustment),p11d,Dissolving pulp production,,,XXX
-999,RoW,p11d,Dissolving pulp production,,,ROW
-,ASI,p11d,Dissolving pulp production,,,
-,EUR,p11d,Dissolving pulp production,0.75,0.25,
-,AFR,p11d,Dissolving pulp production,,,
-,LAM,p11d,Dissolving pulp production,,,
-,OCE,p11d,Dissolving pulp production,,,
-,NAM,p11d,Dissolving pulp production,,,
+area_code,area,proc_code,process,roundwood,chips,literature,continent
+1,Armenia,p11a,Chemical pulp production,,,,ASI
+2,Afghanistan,p11a,Chemical pulp production,,,,ASI
+3,Albania,p11a,Chemical pulp production,0.75,0.25,,EUR
+4,Algeria,p11a,Chemical pulp production,,,,AFR
+6,Andorra,p11a,Chemical pulp production,0.75,0.25,,EUR
+7,Angola,p11a,Chemical pulp production,,,,AFR
+9,Argentina,p11a,Chemical pulp production,,,,LAM
+10,Australia,p11a,Chemical pulp production,,,,OCE
+11,Austria,p11a,Chemical pulp production,0.537,0.463,Lindner et al. (2017),EUR
+12,Bahamas,p11a,Chemical pulp production,,,,LAM
+13,Bahrain,p11a,Chemical pulp production,,,,ASI
+14,Barbados,p11a,Chemical pulp production,,,,LAM
+15,Belgium-Luxembourg,p11a,Chemical pulp production,0.75,0.25,,EUR
+16,Bangladesh,p11a,Chemical pulp production,,,,ASI
+18,Bhutan,p11a,Chemical pulp production,,,,ASI
+19,Bolivia (Plurinational State of),p11a,Chemical pulp production,,,,LAM
+20,Botswana,p11a,Chemical pulp production,,,,AFR
+21,Brazil,p11a,Chemical pulp production,0.96,0.04,Joma Da Silva and Mantau (2020),LAM
+22,Aruba,p11a,Chemical pulp production,,,,LAM
+23,Belize,p11a,Chemical pulp production,,,,LAM
+25,Solomon Islands,p11a,Chemical pulp production,,,,OCE
+26,Brunei Darussalam,p11a,Chemical pulp production,,,,ASI
+27,Bulgaria,p11a,Chemical pulp production,0.75,0.25,,EUR
+28,Myanmar,p11a,Chemical pulp production,,,,ASI
+29,Burundi,p11a,Chemical pulp production,,,,AFR
+32,Cameroon,p11a,Chemical pulp production,,,,AFR
+33,Canada,p11a,Chemical pulp production,0.45,0.55,CPPA (1999) quoted by Bogdanksi (2014),NAM
+35,Cabo Verde,p11a,Chemical pulp production,,,,AFR
+37,Central African Republic,p11a,Chemical pulp production,,,,AFR
+38,Sri Lanka,p11a,Chemical pulp production,,,,ASI
+39,Chad,p11a,Chemical pulp production,,,,AFR
+40,Chile,p11a,Chemical pulp production,0.25,0.75,INFOR (2018),LAM
+41,"China, mainland",p11a,Chemical pulp production,,,,ASI
+42,Christmas Island,p11a,Chemical pulp production,,,,OCE
+44,Colombia,p11a,Chemical pulp production,,,,LAM
+45,Comoros,p11a,Chemical pulp production,,,,AFR
+46,Congo,p11a,Chemical pulp production,,,,AFR
+47,Cook Islands,p11a,Chemical pulp production,,,,OCE
+48,Costa Rica,p11a,Chemical pulp production,,,,LAM
+49,Cuba,p11a,Chemical pulp production,,,,LAM
+50,Cyprus,p11a,Chemical pulp production,0.75,0.25,,EUR
+51,Czechoslovakia,p11a,Chemical pulp production,0.75,0.25,,EUR
+52,Azerbaijan,p11a,Chemical pulp production,,,,ASI
+53,Benin,p11a,Chemical pulp production,,,,AFR
+54,Denmark,p11a,Chemical pulp production,0.75,0.25,,EUR
+55,Dominica,p11a,Chemical pulp production,,,,LAM
+56,Dominican Republic,p11a,Chemical pulp production,,,,LAM
+57,Belarus,p11a,Chemical pulp production,0.75,0.25,,EUR
+58,Ecuador,p11a,Chemical pulp production,,,,LAM
+59,Egypt,p11a,Chemical pulp production,,,,AFR
+60,El Salvador,p11a,Chemical pulp production,,,,LAM
+61,Equatorial Guinea,p11a,Chemical pulp production,,,,AFR
+63,Estonia,p11a,Chemical pulp production,0.75,0.25,,EUR
+64,Faroe Islands,p11a,Chemical pulp production,0.75,0.25,,EUR
+65,Falkland Islands (Malvinas),p11a,Chemical pulp production,,,,LAM
+66,Fiji,p11a,Chemical pulp production,,,,OCE
+67,Finland,p11a,Chemical pulp production,0.9,0.1,"Luke (1997, 2017)",EUR
+68,France,p11a,Chemical pulp production,0.75,0.25,,EUR
+69,French Guyana,p11a,Chemical pulp production,,,,LAM
+70,French Polynesia,p11a,Chemical pulp production,,,,OCE
+72,Djibouti,p11a,Chemical pulp production,,,,AFR
+73,Georgia,p11a,Chemical pulp production,,,,ASI
+74,Gabon,p11a,Chemical pulp production,,,,AFR
+75,Gambia,p11a,Chemical pulp production,,,,AFR
+79,Germany,p11a,Chemical pulp production,0.66,0.34,Lindner et al. (2017),EUR
+80,Bosnia and Herzegovina,p11a,Chemical pulp production,0.75,0.25,,EUR
+81,Ghana,p11a,Chemical pulp production,,,,AFR
+82,Gibraltar,p11a,Chemical pulp production,0.75,0.25,,EUR
+83,Kiribati,p11a,Chemical pulp production,,,,OCE
+84,Greece,p11a,Chemical pulp production,0.75,0.25,,EUR
+87,Guadeloupe,p11a,Chemical pulp production,,,,LAM
+89,Guatemala,p11a,Chemical pulp production,,,,LAM
+90,Guinea,p11a,Chemical pulp production,,,,AFR
+91,Guyana,p11a,Chemical pulp production,,,,LAM
+93,Haiti,p11a,Chemical pulp production,,,,LAM
+95,Honduras,p11a,Chemical pulp production,,,,LAM
+96,"China, Hong Kong SAR",p11a,Chemical pulp production,,,,ASI
+97,Hungary,p11a,Chemical pulp production,0.75,0.25,,EUR
+98,Croatia,p11a,Chemical pulp production,0.75,0.25,,EUR
+99,Iceland,p11a,Chemical pulp production,0.75,0.25,,EUR
+100,India,p11a,Chemical pulp production,,,,ASI
+101,Indonesia,p11a,Chemical pulp production,,,,ASI
+102,Iran (Islamic Republic of),p11a,Chemical pulp production,,,,ASI
+103,Iraq,p11a,Chemical pulp production,,,,ASI
+104,Ireland,p11a,Chemical pulp production,0.75,0.25,,EUR
+105,Israel,p11a,Chemical pulp production,,,,ASI
+106,Italy,p11a,Chemical pulp production,0.75,0.25,,EUR
+107,Cote d'Ivoire,p11a,Chemical pulp production,,,,AFR
+108,Kazakhstan,p11a,Chemical pulp production,,,,ASI
+109,Jamaica,p11a,Chemical pulp production,,,,LAM
+110,Japan,p11a,Chemical pulp production,0.01,0.99,"METI Japan (2021), average 2002-2017",ASI
+112,Jordan,p11a,Chemical pulp production,,,,ASI
+113,Kyrgyzstan,p11a,Chemical pulp production,,,,ASI
+114,Kenya,p11a,Chemical pulp production,,,,AFR
+115,Cambodia,p11a,Chemical pulp production,,,,ASI
+116,Democratic People's Republic of Korea,p11a,Chemical pulp production,,,,ASI
+117,Republic of Korea,p11a,Chemical pulp production,,,,ASI
+118,Kuwait,p11a,Chemical pulp production,,,,ASI
+119,Latvia,p11a,Chemical pulp production,0.75,0.25,,EUR
+120,Lao People's Democratic Republic,p11a,Chemical pulp production,,,,ASI
+121,Lebanon,p11a,Chemical pulp production,,,,ASI
+122,Lesotho,p11a,Chemical pulp production,,,,AFR
+123,Liberia,p11a,Chemical pulp production,,,,AFR
+124,Libya,p11a,Chemical pulp production,,,,AFR
+125,Liechtenstein,p11a,Chemical pulp production,0.75,0.25,,EUR
+126,Lithuania,p11a,Chemical pulp production,0.75,0.25,,EUR
+128,"China, Macao SAR",p11a,Chemical pulp production,,,,ASI
+129,Madagascar,p11a,Chemical pulp production,,,,AFR
+130,Malawi,p11a,Chemical pulp production,,,,AFR
+131,Malaysia,p11a,Chemical pulp production,,,,ASI
+132,Maldives,p11a,Chemical pulp production,,,,ASI
+133,Mali,p11a,Chemical pulp production,,,,AFR
+134,Malta,p11a,Chemical pulp production,0.75,0.25,,EUR
+135,Martinique,p11a,Chemical pulp production,,,,LAM
+136,Mauritania,p11a,Chemical pulp production,,,,AFR
+137,Mauritius,p11a,Chemical pulp production,,,,AFR
+138,Mexico,p11a,Chemical pulp production,,,,LAM
+141,Mongolia,p11a,Chemical pulp production,,,,ASI
+143,Morocco,p11a,Chemical pulp production,,,,AFR
+144,Mozambique,p11a,Chemical pulp production,,,,AFR
+145,Micronesia (Federated States of),p11a,Chemical pulp production,,,,OCE
+146,Republic of Moldova,p11a,Chemical pulp production,0.75,0.25,,EUR
+147,Namibia,p11a,Chemical pulp production,,,,AFR
+149,Nepal,p11a,Chemical pulp production,,,,ASI
+150,Netherlands,p11a,Chemical pulp production,0.75,0.25,,EUR
+151,Netherlands Antilles,p11a,Chemical pulp production,,,,LAM
+153,New Caledonia,p11a,Chemical pulp production,,,,OCE
+154,North Macedonia,p11a,Chemical pulp production,0.75,0.25,,EUR
+155,Vanuatu,p11a,Chemical pulp production,,,,OCE
+156,New Zealand,p11a,Chemical pulp production,,,,OCE
+157,Nicaragua,p11a,Chemical pulp production,,,,LAM
+158,Niger,p11a,Chemical pulp production,,,,AFR
+159,Nigeria,p11a,Chemical pulp production,,,,AFR
+160,Niue,p11a,Chemical pulp production,,,,OCE
+161,Norfolk Island,p11a,Chemical pulp production,,,,OCE
+162,Norway,p11a,Chemical pulp production,0.75,0.25,,EUR
+165,Pakistan,p11a,Chemical pulp production,,,,ASI
+166,Panama,p11a,Chemical pulp production,,,,LAM
+167,Czechia,p11a,Chemical pulp production,0.75,0.25,,EUR
+168,Papua New Guinea,p11a,Chemical pulp production,,,,OCE
+169,Paraguay,p11a,Chemical pulp production,,,,LAM
+170,Peru,p11a,Chemical pulp production,,,,LAM
+171,Philippines,p11a,Chemical pulp production,,,,ASI
+173,Poland,p11a,Chemical pulp production,0.75,0.25,,EUR
+174,Portugal,p11a,Chemical pulp production,0.75,0.25,,EUR
+175,Guinea-Bissau,p11a,Chemical pulp production,,,,AFR
+176,Timor-Leste,p11a,Chemical pulp production,,,,ASI
+178,Eritrea,p11a,Chemical pulp production,,,,AFR
+179,Qatar,p11a,Chemical pulp production,,,,ASI
+181,Zimbabwe,p11a,Chemical pulp production,,,,AFR
+182,Reunion,p11a,Chemical pulp production,,,,AFR
+183,Romania,p11a,Chemical pulp production,0.75,0.25,,EUR
+184,Rwanda,p11a,Chemical pulp production,,,,AFR
+185,Russian Federation,p11a,Chemical pulp production,0.75,0.25,,EUR
+186,Serbia and Montenegro,p11a,Chemical pulp production,0.75,0.25,,EUR
+189,Saint Lucia,p11a,Chemical pulp production,,,,LAM
+190,Saint Pierre and Miquelon,p11a,Chemical pulp production,,,,NAM
+191,Saint Vincent and the Grenadines,p11a,Chemical pulp production,,,,LAM
+193,Sao Tome and Principe,p11a,Chemical pulp production,,,,AFR
+194,Saudi Arabia,p11a,Chemical pulp production,,,,ASI
+195,Senegal,p11a,Chemical pulp production,,,,AFR
+196,Seychelles,p11a,Chemical pulp production,,,,AFR
+197,Sierra Leone,p11a,Chemical pulp production,,,,AFR
+198,Slovenia,p11a,Chemical pulp production,0.75,0.25,,EUR
+199,Slovakia,p11a,Chemical pulp production,0.75,0.25,,EUR
+200,Singapore,p11a,Chemical pulp production,,,,ASI
+201,Somalia,p11a,Chemical pulp production,,,,AFR
+202,South Africa,p11a,Chemical pulp production,,,,AFR
+203,Spain,p11a,Chemical pulp production,0.75,0.25,,EUR
+207,Suriname,p11a,Chemical pulp production,,,,LAM
+208,Tajikistan,p11a,Chemical pulp production,,,,ASI
+209,Eswatini,p11a,Chemical pulp production,,,,AFR
+210,Sweden,p11a,Chemical pulp production,0.77,0.23,,EUR
+211,Switzerland,p11a,Chemical pulp production,0.75,0.25,,EUR
+212,Syrian Arab Republic,p11a,Chemical pulp production,,,,ASI
+213,Turkmenistan,p11a,Chemical pulp production,,,,ASI
+214,"China, Taiwan Province of",p11a,Chemical pulp production,,,,ASI
+215,United Republic of Tanzania,p11a,Chemical pulp production,,,,AFR
+216,Thailand,p11a,Chemical pulp production,,,,ASI
+217,Togo,p11a,Chemical pulp production,,,,AFR
+219,Tonga,p11a,Chemical pulp production,,,,AFR
+220,Trinidad and Tobago,p11a,Chemical pulp production,,,,LAM
+221,Oman,p11a,Chemical pulp production,,,,ASI
+222,Tunisia,p11a,Chemical pulp production,,,,AFR
+223,Turkey,p11a,Chemical pulp production,0.75,0.25,,EUR
+224,Turks and Caicos Islands,p11a,Chemical pulp production,,,,LAM
+225,United Arab Emirates,p11a,Chemical pulp production,,,,ASI
+226,Uganda,p11a,Chemical pulp production,,,,AFR
+229,United Kingdom,p11a,Chemical pulp production,0.75,0.25,,EUR
+230,Ukraine,p11a,Chemical pulp production,0.75,0.25,,EUR
+231,United States of America,p11a,Chemical pulp production,0.54,0.46,AF&PA(2020) quotedy by USDA (2020: 18),NAM
+233,Burkina Faso,p11a,Chemical pulp production,,,,AFR
+234,Uruguay,p11a,Chemical pulp production,,,,LAM
+235,Uzbekistan,p11a,Chemical pulp production,,,,ASI
+236,Venezuela (Bolivarian Republic of),p11a,Chemical pulp production,,,,LAM
+237,Viet Nam,p11a,Chemical pulp production,,,,ASI
+238,Ethiopia,p11a,Chemical pulp production,,,,AFR
+239,British Virgin Islands,p11a,Chemical pulp production,,,,LAM
+244,Samoa,p11a,Chemical pulp production,,,,OCE
+249,Yemen,p11a,Chemical pulp production,,,,ASI
+250,Democratic Republic of the Congo,p11a,Chemical pulp production,,,,AFR
+251,Zambia,p11a,Chemical pulp production,,,,AFR
+255,Belgium,p11a,Chemical pulp production,0.75,0.25,,EUR
+256,Luxembourg,p11a,Chemical pulp production,0.75,0.25,,EUR
+270,Mayotte,p11a,Chemical pulp production,,,,AFR
+272,Serbia,p11a,Chemical pulp production,0.75,0.25,,EUR
+273,Montenegro,p11a,Chemical pulp production,0.75,0.25,,EUR
+276,Sudan,p11a,Chemical pulp production,,,,AFR
+277,South Sudan,p11a,Chemical pulp production,,,,AFR
+5,American Samoa,p11a,Chemical pulp production,,,,OCE
+8,Antigua and Barbuda,p11a,Chemical pulp production,,,,LAM
+17,Bermuda,p11a,Chemical pulp production,,,,LAM
+24,British Indian Ocean Territory,p11a,Chemical pulp production,,,,ASI
+36,Cayman Islands,p11a,Chemical pulp production,,,,LAM
+43,Cocos (Keeling) Islands,p11a,Chemical pulp production,,,,OCE
+71,French Southern and Antarctic Territories,p11a,Chemical pulp production,,,,OCE
+85,Greenland,p11a,Chemical pulp production,0.75,0.25,,EUR
+86,Grenada,p11a,Chemical pulp production,,,,LAM
+88,Guam,p11a,Chemical pulp production,,,,OCE
+94,Holy See,p11a,Chemical pulp production,0.75,0.25,,EUR
+127,Marshall Islands,p11a,Chemical pulp production,,,,OCE
+142,Montserrat,p11a,Chemical pulp production,,,,LAM
+148,Nauru,p11a,Chemical pulp production,,,,OCE
+163,Northern Mariana Islands,p11a,Chemical pulp production,,,,OCE
+164,Pacific Islands Trust Territory,p11a,Chemical pulp production,,,,ASI
+172,Pitcairn Islands,p11a,Chemical pulp production,,,,OCE
+180,Palau,p11a,Chemical pulp production,,,,OCE
+187,"Saint Helena, Ascension and Tristan da Cunha",p11a,Chemical pulp production,,,,AFR
+188,Saint Kitts and Nevis,p11a,Chemical pulp production,,,,LAM
+192,San Marino,p11a,Chemical pulp production,0.75,0.25,,EUR
+205,Western Sahara,p11a,Chemical pulp production,,,,AFR
+218,Tokelau,p11a,Chemical pulp production,,,,OCE
+227,Tuvalu,p11a,Chemical pulp production,,,,OCE
+228,USSR,p11a,Chemical pulp production,,,,ASI
+242,Wake Island,p11a,Chemical pulp production,,,,OCE
+243,Wallis and Futuna Islands,p11a,Chemical pulp production,,,,OCE
+248,Yugoslav SFR,p11a,Chemical pulp production,0.75,0.25,,EUR
+258,Anguilla,p11a,Chemical pulp production,,,,LAM
+279,Curaçao,p11a,Chemical pulp production,,,,LAM
+281,Saint-Martin (French Part),p11a,Chemical pulp production,,,,LAM
+299,Palestine,p11a,Chemical pulp production,,,,ASI
+252,Unspecified Area,p11a,Chemical pulp production,,,,XXX
+254,Others (adjustment),p11a,Chemical pulp production,,,,XXX
+999,RoW,p11a,Chemical pulp production,,,,ROW
+,ASI,p11a,Chemical pulp production,,,,
+,EUR,p11a,Chemical pulp production,0.75,0.25,CEPI (2019),
+,AFR,p11a,Chemical pulp production,,,,
+,LAM,p11a,Chemical pulp production,,,,
+,OCE,p11a,Chemical pulp production,,,,
+,NAM,p11a,Chemical pulp production,,,,
+1,Armenia,p11b,Mechanical and semi-chemical pulp production,,,,ASI
+2,Afghanistan,p11b,Mechanical and semi-chemical pulp production,,,,ASI
+3,Albania,p11b,Mechanical and semi-chemical pulp production,0.75,0.25,,EUR
+4,Algeria,p11b,Mechanical and semi-chemical pulp production,,,,AFR
+6,Andorra,p11b,Mechanical and semi-chemical pulp production,0.75,0.25,,EUR
+7,Angola,p11b,Mechanical and semi-chemical pulp production,,,,AFR
+9,Argentina,p11b,Mechanical and semi-chemical pulp production,,,,LAM
+10,Australia,p11b,Mechanical and semi-chemical pulp production,,,,OCE
+11,Austria,p11b,Mechanical and semi-chemical pulp production,0.537,0.463,Lindner et al. (2017),EUR
+12,Bahamas,p11b,Mechanical and semi-chemical pulp production,,,,LAM
+13,Bahrain,p11b,Mechanical and semi-chemical pulp production,,,,ASI
+14,Barbados,p11b,Mechanical and semi-chemical pulp production,,,,LAM
+15,Belgium-Luxembourg,p11b,Mechanical and semi-chemical pulp production,0.75,0.25,,EUR
+16,Bangladesh,p11b,Mechanical and semi-chemical pulp production,,,,ASI
+18,Bhutan,p11b,Mechanical and semi-chemical pulp production,,,,ASI
+19,Bolivia (Plurinational State of),p11b,Mechanical and semi-chemical pulp production,,,,LAM
+20,Botswana,p11b,Mechanical and semi-chemical pulp production,,,,AFR
+21,Brazil,p11b,Mechanical and semi-chemical pulp production,0.96,0.04,Joma Da Silva and Mantau (2020),LAM
+22,Aruba,p11b,Mechanical and semi-chemical pulp production,,,,LAM
+23,Belize,p11b,Mechanical and semi-chemical pulp production,,,,LAM
+25,Solomon Islands,p11b,Mechanical and semi-chemical pulp production,,,,OCE
+26,Brunei Darussalam,p11b,Mechanical and semi-chemical pulp production,,,,ASI
+27,Bulgaria,p11b,Mechanical and semi-chemical pulp production,0.75,0.25,,EUR
+28,Myanmar,p11b,Mechanical and semi-chemical pulp production,,,,ASI
+29,Burundi,p11b,Mechanical and semi-chemical pulp production,,,,AFR
+32,Cameroon,p11b,Mechanical and semi-chemical pulp production,,,,AFR
+33,Canada,p11b,Mechanical and semi-chemical pulp production,0.45,0.55,CPPA (1999) quoted by Bogdanksi (2014),NAM
+35,Cabo Verde,p11b,Mechanical and semi-chemical pulp production,,,,AFR
+37,Central African Republic,p11b,Mechanical and semi-chemical pulp production,,,,AFR
+38,Sri Lanka,p11b,Mechanical and semi-chemical pulp production,,,,ASI
+39,Chad,p11b,Mechanical and semi-chemical pulp production,,,,AFR
+40,Chile,p11b,Mechanical and semi-chemical pulp production,0.25,0.75,INFOR (2018),LAM
+41,"China, mainland",p11b,Mechanical and semi-chemical pulp production,,,,ASI
+42,Christmas Island,p11b,Mechanical and semi-chemical pulp production,,,,OCE
+44,Colombia,p11b,Mechanical and semi-chemical pulp production,,,,LAM
+45,Comoros,p11b,Mechanical and semi-chemical pulp production,,,,AFR
+46,Congo,p11b,Mechanical and semi-chemical pulp production,,,,AFR
+47,Cook Islands,p11b,Mechanical and semi-chemical pulp production,,,,OCE
+48,Costa Rica,p11b,Mechanical and semi-chemical pulp production,,,,LAM
+49,Cuba,p11b,Mechanical and semi-chemical pulp production,,,,LAM
+50,Cyprus,p11b,Mechanical and semi-chemical pulp production,0.75,0.25,,EUR
+51,Czechoslovakia,p11b,Mechanical and semi-chemical pulp production,0.75,0.25,,EUR
+52,Azerbaijan,p11b,Mechanical and semi-chemical pulp production,,,,ASI
+53,Benin,p11b,Mechanical and semi-chemical pulp production,,,,AFR
+54,Denmark,p11b,Mechanical and semi-chemical pulp production,0.75,0.25,,EUR
+55,Dominica,p11b,Mechanical and semi-chemical pulp production,,,,LAM
+56,Dominican Republic,p11b,Mechanical and semi-chemical pulp production,,,,LAM
+57,Belarus,p11b,Mechanical and semi-chemical pulp production,0.75,0.25,,EUR
+58,Ecuador,p11b,Mechanical and semi-chemical pulp production,,,,LAM
+59,Egypt,p11b,Mechanical and semi-chemical pulp production,,,,AFR
+60,El Salvador,p11b,Mechanical and semi-chemical pulp production,,,,LAM
+61,Equatorial Guinea,p11b,Mechanical and semi-chemical pulp production,,,,AFR
+63,Estonia,p11b,Mechanical and semi-chemical pulp production,0.75,0.25,,EUR
+64,Faroe Islands,p11b,Mechanical and semi-chemical pulp production,0.75,0.25,,EUR
+65,Falkland Islands (Malvinas),p11b,Mechanical and semi-chemical pulp production,,,,LAM
+66,Fiji,p11b,Mechanical and semi-chemical pulp production,,,,OCE
+67,Finland,p11b,Mechanical and semi-chemical pulp production,0.9,0.1,"Luke (1997, 2017)",EUR
+68,France,p11b,Mechanical and semi-chemical pulp production,0.75,0.25,,EUR
+69,French Guyana,p11b,Mechanical and semi-chemical pulp production,,,,LAM
+70,French Polynesia,p11b,Mechanical and semi-chemical pulp production,,,,OCE
+72,Djibouti,p11b,Mechanical and semi-chemical pulp production,,,,AFR
+73,Georgia,p11b,Mechanical and semi-chemical pulp production,,,,ASI
+74,Gabon,p11b,Mechanical and semi-chemical pulp production,,,,AFR
+75,Gambia,p11b,Mechanical and semi-chemical pulp production,,,,AFR
+79,Germany,p11b,Mechanical and semi-chemical pulp production,0.66,0.34,Lindner et al. (2017),EUR
+80,Bosnia and Herzegovina,p11b,Mechanical and semi-chemical pulp production,0.75,0.25,,EUR
+81,Ghana,p11b,Mechanical and semi-chemical pulp production,,,,AFR
+82,Gibraltar,p11b,Mechanical and semi-chemical pulp production,0.75,0.25,,EUR
+83,Kiribati,p11b,Mechanical and semi-chemical pulp production,,,,OCE
+84,Greece,p11b,Mechanical and semi-chemical pulp production,0.75,0.25,,EUR
+87,Guadeloupe,p11b,Mechanical and semi-chemical pulp production,,,,LAM
+89,Guatemala,p11b,Mechanical and semi-chemical pulp production,,,,LAM
+90,Guinea,p11b,Mechanical and semi-chemical pulp production,,,,AFR
+91,Guyana,p11b,Mechanical and semi-chemical pulp production,,,,LAM
+93,Haiti,p11b,Mechanical and semi-chemical pulp production,,,,LAM
+95,Honduras,p11b,Mechanical and semi-chemical pulp production,,,,LAM
+96,"China, Hong Kong SAR",p11b,Mechanical and semi-chemical pulp production,,,,ASI
+97,Hungary,p11b,Mechanical and semi-chemical pulp production,0.75,0.25,,EUR
+98,Croatia,p11b,Mechanical and semi-chemical pulp production,0.75,0.25,,EUR
+99,Iceland,p11b,Mechanical and semi-chemical pulp production,0.75,0.25,,EUR
+100,India,p11b,Mechanical and semi-chemical pulp production,,,,ASI
+101,Indonesia,p11b,Mechanical and semi-chemical pulp production,,,,ASI
+102,Iran (Islamic Republic of),p11b,Mechanical and semi-chemical pulp production,,,,ASI
+103,Iraq,p11b,Mechanical and semi-chemical pulp production,,,,ASI
+104,Ireland,p11b,Mechanical and semi-chemical pulp production,0.75,0.25,,EUR
+105,Israel,p11b,Mechanical and semi-chemical pulp production,,,,ASI
+106,Italy,p11b,Mechanical and semi-chemical pulp production,0.75,0.25,,EUR
+107,Cote d'Ivoire,p11b,Mechanical and semi-chemical pulp production,,,,AFR
+108,Kazakhstan,p11b,Mechanical and semi-chemical pulp production,,,,ASI
+109,Jamaica,p11b,Mechanical and semi-chemical pulp production,,,,LAM
+110,Japan,p11b,Mechanical and semi-chemical pulp production,0.01,0.99,"METI Japan (2021), average 2002-2017",ASI
+112,Jordan,p11b,Mechanical and semi-chemical pulp production,,,,ASI
+113,Kyrgyzstan,p11b,Mechanical and semi-chemical pulp production,,,,ASI
+114,Kenya,p11b,Mechanical and semi-chemical pulp production,,,,AFR
+115,Cambodia,p11b,Mechanical and semi-chemical pulp production,,,,ASI
+116,Democratic People's Republic of Korea,p11b,Mechanical and semi-chemical pulp production,,,,ASI
+117,Republic of Korea,p11b,Mechanical and semi-chemical pulp production,,,,ASI
+118,Kuwait,p11b,Mechanical and semi-chemical pulp production,,,,ASI
+119,Latvia,p11b,Mechanical and semi-chemical pulp production,0.75,0.25,,EUR
+120,Lao People's Democratic Republic,p11b,Mechanical and semi-chemical pulp production,,,,ASI
+121,Lebanon,p11b,Mechanical and semi-chemical pulp production,,,,ASI
+122,Lesotho,p11b,Mechanical and semi-chemical pulp production,,,,AFR
+123,Liberia,p11b,Mechanical and semi-chemical pulp production,,,,AFR
+124,Libya,p11b,Mechanical and semi-chemical pulp production,,,,AFR
+125,Liechtenstein,p11b,Mechanical and semi-chemical pulp production,0.75,0.25,,EUR
+126,Lithuania,p11b,Mechanical and semi-chemical pulp production,0.75,0.25,,EUR
+128,"China, Macao SAR",p11b,Mechanical and semi-chemical pulp production,,,,ASI
+129,Madagascar,p11b,Mechanical and semi-chemical pulp production,,,,AFR
+130,Malawi,p11b,Mechanical and semi-chemical pulp production,,,,AFR
+131,Malaysia,p11b,Mechanical and semi-chemical pulp production,,,,ASI
+132,Maldives,p11b,Mechanical and semi-chemical pulp production,,,,ASI
+133,Mali,p11b,Mechanical and semi-chemical pulp production,,,,AFR
+134,Malta,p11b,Mechanical and semi-chemical pulp production,0.75,0.25,,EUR
+135,Martinique,p11b,Mechanical and semi-chemical pulp production,,,,LAM
+136,Mauritania,p11b,Mechanical and semi-chemical pulp production,,,,AFR
+137,Mauritius,p11b,Mechanical and semi-chemical pulp production,,,,AFR
+138,Mexico,p11b,Mechanical and semi-chemical pulp production,,,,LAM
+141,Mongolia,p11b,Mechanical and semi-chemical pulp production,,,,ASI
+143,Morocco,p11b,Mechanical and semi-chemical pulp production,,,,AFR
+144,Mozambique,p11b,Mechanical and semi-chemical pulp production,,,,AFR
+145,Micronesia (Federated States of),p11b,Mechanical and semi-chemical pulp production,,,,OCE
+146,Republic of Moldova,p11b,Mechanical and semi-chemical pulp production,0.75,0.25,,EUR
+147,Namibia,p11b,Mechanical and semi-chemical pulp production,,,,AFR
+149,Nepal,p11b,Mechanical and semi-chemical pulp production,,,,ASI
+150,Netherlands,p11b,Mechanical and semi-chemical pulp production,0.75,0.25,,EUR
+151,Netherlands Antilles,p11b,Mechanical and semi-chemical pulp production,,,,LAM
+153,New Caledonia,p11b,Mechanical and semi-chemical pulp production,,,,OCE
+154,North Macedonia,p11b,Mechanical and semi-chemical pulp production,0.75,0.25,,EUR
+155,Vanuatu,p11b,Mechanical and semi-chemical pulp production,,,,OCE
+156,New Zealand,p11b,Mechanical and semi-chemical pulp production,,,,OCE
+157,Nicaragua,p11b,Mechanical and semi-chemical pulp production,,,,LAM
+158,Niger,p11b,Mechanical and semi-chemical pulp production,,,,AFR
+159,Nigeria,p11b,Mechanical and semi-chemical pulp production,,,,AFR
+160,Niue,p11b,Mechanical and semi-chemical pulp production,,,,OCE
+161,Norfolk Island,p11b,Mechanical and semi-chemical pulp production,,,,OCE
+162,Norway,p11b,Mechanical and semi-chemical pulp production,0.75,0.25,,EUR
+165,Pakistan,p11b,Mechanical and semi-chemical pulp production,,,,ASI
+166,Panama,p11b,Mechanical and semi-chemical pulp production,,,,LAM
+167,Czechia,p11b,Mechanical and semi-chemical pulp production,0.75,0.25,,EUR
+168,Papua New Guinea,p11b,Mechanical and semi-chemical pulp production,,,,OCE
+169,Paraguay,p11b,Mechanical and semi-chemical pulp production,,,,LAM
+170,Peru,p11b,Mechanical and semi-chemical pulp production,,,,LAM
+171,Philippines,p11b,Mechanical and semi-chemical pulp production,,,,ASI
+173,Poland,p11b,Mechanical and semi-chemical pulp production,0.75,0.25,,EUR
+174,Portugal,p11b,Mechanical and semi-chemical pulp production,0.75,0.25,,EUR
+175,Guinea-Bissau,p11b,Mechanical and semi-chemical pulp production,,,,AFR
+176,Timor-Leste,p11b,Mechanical and semi-chemical pulp production,,,,ASI
+178,Eritrea,p11b,Mechanical and semi-chemical pulp production,,,,AFR
+179,Qatar,p11b,Mechanical and semi-chemical pulp production,,,,ASI
+181,Zimbabwe,p11b,Mechanical and semi-chemical pulp production,,,,AFR
+182,Reunion,p11b,Mechanical and semi-chemical pulp production,,,,AFR
+183,Romania,p11b,Mechanical and semi-chemical pulp production,0.75,0.25,,EUR
+184,Rwanda,p11b,Mechanical and semi-chemical pulp production,,,,AFR
+185,Russian Federation,p11b,Mechanical and semi-chemical pulp production,0.75,0.25,,EUR
+186,Serbia and Montenegro,p11b,Mechanical and semi-chemical pulp production,0.75,0.25,,EUR
+189,Saint Lucia,p11b,Mechanical and semi-chemical pulp production,,,,LAM
+190,Saint Pierre and Miquelon,p11b,Mechanical and semi-chemical pulp production,,,,NAM
+191,Saint Vincent and the Grenadines,p11b,Mechanical and semi-chemical pulp production,,,,LAM
+193,Sao Tome and Principe,p11b,Mechanical and semi-chemical pulp production,,,,AFR
+194,Saudi Arabia,p11b,Mechanical and semi-chemical pulp production,,,,ASI
+195,Senegal,p11b,Mechanical and semi-chemical pulp production,,,,AFR
+196,Seychelles,p11b,Mechanical and semi-chemical pulp production,,,,AFR
+197,Sierra Leone,p11b,Mechanical and semi-chemical pulp production,,,,AFR
+198,Slovenia,p11b,Mechanical and semi-chemical pulp production,0.75,0.25,,EUR
+199,Slovakia,p11b,Mechanical and semi-chemical pulp production,0.75,0.25,,EUR
+200,Singapore,p11b,Mechanical and semi-chemical pulp production,,,,ASI
+201,Somalia,p11b,Mechanical and semi-chemical pulp production,,,,AFR
+202,South Africa,p11b,Mechanical and semi-chemical pulp production,,,,AFR
+203,Spain,p11b,Mechanical and semi-chemical pulp production,0.75,0.25,,EUR
+207,Suriname,p11b,Mechanical and semi-chemical pulp production,,,,LAM
+208,Tajikistan,p11b,Mechanical and semi-chemical pulp production,,,,ASI
+209,Eswatini,p11b,Mechanical and semi-chemical pulp production,,,,AFR
+210,Sweden,p11b,Mechanical and semi-chemical pulp production,0.77,0.23,,EUR
+211,Switzerland,p11b,Mechanical and semi-chemical pulp production,0.75,0.25,,EUR
+212,Syrian Arab Republic,p11b,Mechanical and semi-chemical pulp production,,,,ASI
+213,Turkmenistan,p11b,Mechanical and semi-chemical pulp production,,,,ASI
+214,"China, Taiwan Province of",p11b,Mechanical and semi-chemical pulp production,,,,ASI
+215,United Republic of Tanzania,p11b,Mechanical and semi-chemical pulp production,,,,AFR
+216,Thailand,p11b,Mechanical and semi-chemical pulp production,,,,ASI
+217,Togo,p11b,Mechanical and semi-chemical pulp production,,,,AFR
+219,Tonga,p11b,Mechanical and semi-chemical pulp production,,,,AFR
+220,Trinidad and Tobago,p11b,Mechanical and semi-chemical pulp production,,,,LAM
+221,Oman,p11b,Mechanical and semi-chemical pulp production,,,,ASI
+222,Tunisia,p11b,Mechanical and semi-chemical pulp production,,,,AFR
+223,Turkey,p11b,Mechanical and semi-chemical pulp production,0.75,0.25,,EUR
+224,Turks and Caicos Islands,p11b,Mechanical and semi-chemical pulp production,,,,LAM
+225,United Arab Emirates,p11b,Mechanical and semi-chemical pulp production,,,,ASI
+226,Uganda,p11b,Mechanical and semi-chemical pulp production,,,,AFR
+229,United Kingdom,p11b,Mechanical and semi-chemical pulp production,0.75,0.25,,EUR
+230,Ukraine,p11b,Mechanical and semi-chemical pulp production,0.75,0.25,,EUR
+231,United States of America,p11b,Mechanical and semi-chemical pulp production,0.54,0.46,AF&PA(2020) quotedy by USDA (2020: 18),NAM
+233,Burkina Faso,p11b,Mechanical and semi-chemical pulp production,,,,AFR
+234,Uruguay,p11b,Mechanical and semi-chemical pulp production,,,,LAM
+235,Uzbekistan,p11b,Mechanical and semi-chemical pulp production,,,,ASI
+236,Venezuela (Bolivarian Republic of),p11b,Mechanical and semi-chemical pulp production,,,,LAM
+237,Viet Nam,p11b,Mechanical and semi-chemical pulp production,,,,ASI
+238,Ethiopia,p11b,Mechanical and semi-chemical pulp production,,,,AFR
+239,British Virgin Islands,p11b,Mechanical and semi-chemical pulp production,,,,LAM
+244,Samoa,p11b,Mechanical and semi-chemical pulp production,,,,OCE
+249,Yemen,p11b,Mechanical and semi-chemical pulp production,,,,ASI
+250,Democratic Republic of the Congo,p11b,Mechanical and semi-chemical pulp production,,,,AFR
+251,Zambia,p11b,Mechanical and semi-chemical pulp production,,,,AFR
+255,Belgium,p11b,Mechanical and semi-chemical pulp production,0.75,0.25,,EUR
+256,Luxembourg,p11b,Mechanical and semi-chemical pulp production,0.75,0.25,,EUR
+270,Mayotte,p11b,Mechanical and semi-chemical pulp production,,,,AFR
+272,Serbia,p11b,Mechanical and semi-chemical pulp production,0.75,0.25,,EUR
+273,Montenegro,p11b,Mechanical and semi-chemical pulp production,0.75,0.25,,EUR
+276,Sudan,p11b,Mechanical and semi-chemical pulp production,,,,AFR
+277,South Sudan,p11b,Mechanical and semi-chemical pulp production,,,,AFR
+5,American Samoa,p11b,Mechanical and semi-chemical pulp production,,,,OCE
+8,Antigua and Barbuda,p11b,Mechanical and semi-chemical pulp production,,,,LAM
+17,Bermuda,p11b,Mechanical and semi-chemical pulp production,,,,LAM
+24,British Indian Ocean Territory,p11b,Mechanical and semi-chemical pulp production,,,,ASI
+36,Cayman Islands,p11b,Mechanical and semi-chemical pulp production,,,,LAM
+43,Cocos (Keeling) Islands,p11b,Mechanical and semi-chemical pulp production,,,,OCE
+71,French Southern and Antarctic Territories,p11b,Mechanical and semi-chemical pulp production,,,,OCE
+85,Greenland,p11b,Mechanical and semi-chemical pulp production,0.75,0.25,,EUR
+86,Grenada,p11b,Mechanical and semi-chemical pulp production,,,,LAM
+88,Guam,p11b,Mechanical and semi-chemical pulp production,,,,OCE
+94,Holy See,p11b,Mechanical and semi-chemical pulp production,0.75,0.25,,EUR
+127,Marshall Islands,p11b,Mechanical and semi-chemical pulp production,,,,OCE
+142,Montserrat,p11b,Mechanical and semi-chemical pulp production,,,,LAM
+148,Nauru,p11b,Mechanical and semi-chemical pulp production,,,,OCE
+163,Northern Mariana Islands,p11b,Mechanical and semi-chemical pulp production,,,,OCE
+164,Pacific Islands Trust Territory,p11b,Mechanical and semi-chemical pulp production,,,,ASI
+172,Pitcairn Islands,p11b,Mechanical and semi-chemical pulp production,,,,OCE
+180,Palau,p11b,Mechanical and semi-chemical pulp production,,,,OCE
+187,"Saint Helena, Ascension and Tristan da Cunha",p11b,Mechanical and semi-chemical pulp production,,,,AFR
+188,Saint Kitts and Nevis,p11b,Mechanical and semi-chemical pulp production,,,,LAM
+192,San Marino,p11b,Mechanical and semi-chemical pulp production,0.75,0.25,,EUR
+205,Western Sahara,p11b,Mechanical and semi-chemical pulp production,,,,AFR
+218,Tokelau,p11b,Mechanical and semi-chemical pulp production,,,,OCE
+227,Tuvalu,p11b,Mechanical and semi-chemical pulp production,,,,OCE
+228,USSR,p11b,Mechanical and semi-chemical pulp production,,,,ASI
+242,Wake Island,p11b,Mechanical and semi-chemical pulp production,,,,OCE
+243,Wallis and Futuna Islands,p11b,Mechanical and semi-chemical pulp production,,,,OCE
+248,Yugoslav SFR,p11b,Mechanical and semi-chemical pulp production,0.75,0.25,,EUR
+258,Anguilla,p11b,Mechanical and semi-chemical pulp production,,,,LAM
+279,Curaçao,p11b,Mechanical and semi-chemical pulp production,,,,LAM
+281,Saint-Martin (French Part),p11b,Mechanical and semi-chemical pulp production,,,,LAM
+299,Palestine,p11b,Mechanical and semi-chemical pulp production,,,,ASI
+252,Unspecified Area,p11b,Mechanical and semi-chemical pulp production,,,,XXX
+254,Others (adjustment),p11b,Mechanical and semi-chemical pulp production,,,,XXX
+999,RoW,p11b,Mechanical and semi-chemical pulp production,,,,ROW
+,ASI,p11b,Mechanical and semi-chemical pulp production,,,,
+,EUR,p11b,Mechanical and semi-chemical pulp production,0.75,0.25,CEPI (2019),
+,AFR,p11b,Mechanical and semi-chemical pulp production,,,,
+,LAM,p11b,Mechanical and semi-chemical pulp production,,,,
+,OCE,p11b,Mechanical and semi-chemical pulp production,,,,
+,NAM,p11b,Mechanical and semi-chemical pulp production,,,,
+1,Armenia,p11d,Dissolving pulp production,,,,ASI
+2,Afghanistan,p11d,Dissolving pulp production,,,,ASI
+3,Albania,p11d,Dissolving pulp production,0.75,0.25,,EUR
+4,Algeria,p11d,Dissolving pulp production,,,,AFR
+6,Andorra,p11d,Dissolving pulp production,0.75,0.25,,EUR
+7,Angola,p11d,Dissolving pulp production,,,,AFR
+9,Argentina,p11d,Dissolving pulp production,,,,LAM
+10,Australia,p11d,Dissolving pulp production,,,,OCE
+11,Austria,p11d,Dissolving pulp production,0.537,0.463,Lindner et al. (2017),EUR
+12,Bahamas,p11d,Dissolving pulp production,,,,LAM
+13,Bahrain,p11d,Dissolving pulp production,,,,ASI
+14,Barbados,p11d,Dissolving pulp production,,,,LAM
+15,Belgium-Luxembourg,p11d,Dissolving pulp production,0.75,0.25,,EUR
+16,Bangladesh,p11d,Dissolving pulp production,,,,ASI
+18,Bhutan,p11d,Dissolving pulp production,,,,ASI
+19,Bolivia (Plurinational State of),p11d,Dissolving pulp production,,,,LAM
+20,Botswana,p11d,Dissolving pulp production,,,,AFR
+21,Brazil,p11d,Dissolving pulp production,0.96,0.04,Joma Da Silva and Mantau (2020),LAM
+22,Aruba,p11d,Dissolving pulp production,,,,LAM
+23,Belize,p11d,Dissolving pulp production,,,,LAM
+25,Solomon Islands,p11d,Dissolving pulp production,,,,OCE
+26,Brunei Darussalam,p11d,Dissolving pulp production,,,,ASI
+27,Bulgaria,p11d,Dissolving pulp production,0.75,0.25,,EUR
+28,Myanmar,p11d,Dissolving pulp production,,,,ASI
+29,Burundi,p11d,Dissolving pulp production,,,,AFR
+32,Cameroon,p11d,Dissolving pulp production,,,,AFR
+33,Canada,p11d,Dissolving pulp production,0.45,0.55,CPPA (1999) quoted by Bogdanksi (2014),NAM
+35,Cabo Verde,p11d,Dissolving pulp production,,,,AFR
+37,Central African Republic,p11d,Dissolving pulp production,,,,AFR
+38,Sri Lanka,p11d,Dissolving pulp production,,,,ASI
+39,Chad,p11d,Dissolving pulp production,,,,AFR
+40,Chile,p11d,Dissolving pulp production,0.25,0.75,INFOR (2018),LAM
+41,"China, mainland",p11d,Dissolving pulp production,,,,ASI
+42,Christmas Island,p11d,Dissolving pulp production,,,,OCE
+44,Colombia,p11d,Dissolving pulp production,,,,LAM
+45,Comoros,p11d,Dissolving pulp production,,,,AFR
+46,Congo,p11d,Dissolving pulp production,,,,AFR
+47,Cook Islands,p11d,Dissolving pulp production,,,,OCE
+48,Costa Rica,p11d,Dissolving pulp production,,,,LAM
+49,Cuba,p11d,Dissolving pulp production,,,,LAM
+50,Cyprus,p11d,Dissolving pulp production,0.75,0.25,,EUR
+51,Czechoslovakia,p11d,Dissolving pulp production,0.75,0.25,,EUR
+52,Azerbaijan,p11d,Dissolving pulp production,,,,ASI
+53,Benin,p11d,Dissolving pulp production,,,,AFR
+54,Denmark,p11d,Dissolving pulp production,0.75,0.25,,EUR
+55,Dominica,p11d,Dissolving pulp production,,,,LAM
+56,Dominican Republic,p11d,Dissolving pulp production,,,,LAM
+57,Belarus,p11d,Dissolving pulp production,0.75,0.25,,EUR
+58,Ecuador,p11d,Dissolving pulp production,,,,LAM
+59,Egypt,p11d,Dissolving pulp production,,,,AFR
+60,El Salvador,p11d,Dissolving pulp production,,,,LAM
+61,Equatorial Guinea,p11d,Dissolving pulp production,,,,AFR
+63,Estonia,p11d,Dissolving pulp production,0.75,0.25,,EUR
+64,Faroe Islands,p11d,Dissolving pulp production,0.75,0.25,,EUR
+65,Falkland Islands (Malvinas),p11d,Dissolving pulp production,,,,LAM
+66,Fiji,p11d,Dissolving pulp production,,,,OCE
+67,Finland,p11d,Dissolving pulp production,0.9,0.1,"Luke (1997, 2017)",EUR
+68,France,p11d,Dissolving pulp production,0.75,0.25,,EUR
+69,French Guyana,p11d,Dissolving pulp production,,,,LAM
+70,French Polynesia,p11d,Dissolving pulp production,,,,OCE
+72,Djibouti,p11d,Dissolving pulp production,,,,AFR
+73,Georgia,p11d,Dissolving pulp production,,,,ASI
+74,Gabon,p11d,Dissolving pulp production,,,,AFR
+75,Gambia,p11d,Dissolving pulp production,,,,AFR
+79,Germany,p11d,Dissolving pulp production,0.66,0.34,Lindner et al. (2017),EUR
+80,Bosnia and Herzegovina,p11d,Dissolving pulp production,0.75,0.25,,EUR
+81,Ghana,p11d,Dissolving pulp production,,,,AFR
+82,Gibraltar,p11d,Dissolving pulp production,0.75,0.25,,EUR
+83,Kiribati,p11d,Dissolving pulp production,,,,OCE
+84,Greece,p11d,Dissolving pulp production,0.75,0.25,,EUR
+87,Guadeloupe,p11d,Dissolving pulp production,,,,LAM
+89,Guatemala,p11d,Dissolving pulp production,,,,LAM
+90,Guinea,p11d,Dissolving pulp production,,,,AFR
+91,Guyana,p11d,Dissolving pulp production,,,,LAM
+93,Haiti,p11d,Dissolving pulp production,,,,LAM
+95,Honduras,p11d,Dissolving pulp production,,,,LAM
+96,"China, Hong Kong SAR",p11d,Dissolving pulp production,,,,ASI
+97,Hungary,p11d,Dissolving pulp production,0.75,0.25,,EUR
+98,Croatia,p11d,Dissolving pulp production,0.75,0.25,,EUR
+99,Iceland,p11d,Dissolving pulp production,0.75,0.25,,EUR
+100,India,p11d,Dissolving pulp production,,,,ASI
+101,Indonesia,p11d,Dissolving pulp production,,,,ASI
+102,Iran (Islamic Republic of),p11d,Dissolving pulp production,,,,ASI
+103,Iraq,p11d,Dissolving pulp production,,,,ASI
+104,Ireland,p11d,Dissolving pulp production,0.75,0.25,,EUR
+105,Israel,p11d,Dissolving pulp production,,,,ASI
+106,Italy,p11d,Dissolving pulp production,0.75,0.25,,EUR
+107,Cote d'Ivoire,p11d,Dissolving pulp production,,,,AFR
+108,Kazakhstan,p11d,Dissolving pulp production,,,,ASI
+109,Jamaica,p11d,Dissolving pulp production,,,,LAM
+110,Japan,p11d,Dissolving pulp production,0.01,0.99,"METI Japan (2021), average 2002-2017",ASI
+112,Jordan,p11d,Dissolving pulp production,,,,ASI
+113,Kyrgyzstan,p11d,Dissolving pulp production,,,,ASI
+114,Kenya,p11d,Dissolving pulp production,,,,AFR
+115,Cambodia,p11d,Dissolving pulp production,,,,ASI
+116,Democratic People's Republic of Korea,p11d,Dissolving pulp production,,,,ASI
+117,Republic of Korea,p11d,Dissolving pulp production,,,,ASI
+118,Kuwait,p11d,Dissolving pulp production,,,,ASI
+119,Latvia,p11d,Dissolving pulp production,0.75,0.25,,EUR
+120,Lao People's Democratic Republic,p11d,Dissolving pulp production,,,,ASI
+121,Lebanon,p11d,Dissolving pulp production,,,,ASI
+122,Lesotho,p11d,Dissolving pulp production,,,,AFR
+123,Liberia,p11d,Dissolving pulp production,,,,AFR
+124,Libya,p11d,Dissolving pulp production,,,,AFR
+125,Liechtenstein,p11d,Dissolving pulp production,0.75,0.25,,EUR
+126,Lithuania,p11d,Dissolving pulp production,0.75,0.25,,EUR
+128,"China, Macao SAR",p11d,Dissolving pulp production,,,,ASI
+129,Madagascar,p11d,Dissolving pulp production,,,,AFR
+130,Malawi,p11d,Dissolving pulp production,,,,AFR
+131,Malaysia,p11d,Dissolving pulp production,,,,ASI
+132,Maldives,p11d,Dissolving pulp production,,,,ASI
+133,Mali,p11d,Dissolving pulp production,,,,AFR
+134,Malta,p11d,Dissolving pulp production,0.75,0.25,,EUR
+135,Martinique,p11d,Dissolving pulp production,,,,LAM
+136,Mauritania,p11d,Dissolving pulp production,,,,AFR
+137,Mauritius,p11d,Dissolving pulp production,,,,AFR
+138,Mexico,p11d,Dissolving pulp production,,,,LAM
+141,Mongolia,p11d,Dissolving pulp production,,,,ASI
+143,Morocco,p11d,Dissolving pulp production,,,,AFR
+144,Mozambique,p11d,Dissolving pulp production,,,,AFR
+145,Micronesia (Federated States of),p11d,Dissolving pulp production,,,,OCE
+146,Republic of Moldova,p11d,Dissolving pulp production,0.75,0.25,,EUR
+147,Namibia,p11d,Dissolving pulp production,,,,AFR
+149,Nepal,p11d,Dissolving pulp production,,,,ASI
+150,Netherlands,p11d,Dissolving pulp production,0.75,0.25,,EUR
+151,Netherlands Antilles,p11d,Dissolving pulp production,,,,LAM
+153,New Caledonia,p11d,Dissolving pulp production,,,,OCE
+154,North Macedonia,p11d,Dissolving pulp production,0.75,0.25,,EUR
+155,Vanuatu,p11d,Dissolving pulp production,,,,OCE
+156,New Zealand,p11d,Dissolving pulp production,,,,OCE
+157,Nicaragua,p11d,Dissolving pulp production,,,,LAM
+158,Niger,p11d,Dissolving pulp production,,,,AFR
+159,Nigeria,p11d,Dissolving pulp production,,,,AFR
+160,Niue,p11d,Dissolving pulp production,,,,OCE
+161,Norfolk Island,p11d,Dissolving pulp production,,,,OCE
+162,Norway,p11d,Dissolving pulp production,0.75,0.25,,EUR
+165,Pakistan,p11d,Dissolving pulp production,,,,ASI
+166,Panama,p11d,Dissolving pulp production,,,,LAM
+167,Czechia,p11d,Dissolving pulp production,0.75,0.25,,EUR
+168,Papua New Guinea,p11d,Dissolving pulp production,,,,OCE
+169,Paraguay,p11d,Dissolving pulp production,,,,LAM
+170,Peru,p11d,Dissolving pulp production,,,,LAM
+171,Philippines,p11d,Dissolving pulp production,,,,ASI
+173,Poland,p11d,Dissolving pulp production,0.75,0.25,,EUR
+174,Portugal,p11d,Dissolving pulp production,0.75,0.25,,EUR
+175,Guinea-Bissau,p11d,Dissolving pulp production,,,,AFR
+176,Timor-Leste,p11d,Dissolving pulp production,,,,ASI
+178,Eritrea,p11d,Dissolving pulp production,,,,AFR
+179,Qatar,p11d,Dissolving pulp production,,,,ASI
+181,Zimbabwe,p11d,Dissolving pulp production,,,,AFR
+182,Reunion,p11d,Dissolving pulp production,,,,AFR
+183,Romania,p11d,Dissolving pulp production,0.75,0.25,,EUR
+184,Rwanda,p11d,Dissolving pulp production,,,,AFR
+185,Russian Federation,p11d,Dissolving pulp production,0.75,0.25,,EUR
+186,Serbia and Montenegro,p11d,Dissolving pulp production,0.75,0.25,,EUR
+189,Saint Lucia,p11d,Dissolving pulp production,,,,LAM
+190,Saint Pierre and Miquelon,p11d,Dissolving pulp production,,,,NAM
+191,Saint Vincent and the Grenadines,p11d,Dissolving pulp production,,,,LAM
+193,Sao Tome and Principe,p11d,Dissolving pulp production,,,,AFR
+194,Saudi Arabia,p11d,Dissolving pulp production,,,,ASI
+195,Senegal,p11d,Dissolving pulp production,,,,AFR
+196,Seychelles,p11d,Dissolving pulp production,,,,AFR
+197,Sierra Leone,p11d,Dissolving pulp production,,,,AFR
+198,Slovenia,p11d,Dissolving pulp production,0.75,0.25,,EUR
+199,Slovakia,p11d,Dissolving pulp production,0.75,0.25,,EUR
+200,Singapore,p11d,Dissolving pulp production,,,,ASI
+201,Somalia,p11d,Dissolving pulp production,,,,AFR
+202,South Africa,p11d,Dissolving pulp production,,,,AFR
+203,Spain,p11d,Dissolving pulp production,0.75,0.25,,EUR
+207,Suriname,p11d,Dissolving pulp production,,,,LAM
+208,Tajikistan,p11d,Dissolving pulp production,,,,ASI
+209,Eswatini,p11d,Dissolving pulp production,,,,AFR
+210,Sweden,p11d,Dissolving pulp production,0.77,0.23,,EUR
+211,Switzerland,p11d,Dissolving pulp production,0.75,0.25,,EUR
+212,Syrian Arab Republic,p11d,Dissolving pulp production,,,,ASI
+213,Turkmenistan,p11d,Dissolving pulp production,,,,ASI
+214,"China, Taiwan Province of",p11d,Dissolving pulp production,,,,ASI
+215,United Republic of Tanzania,p11d,Dissolving pulp production,,,,AFR
+216,Thailand,p11d,Dissolving pulp production,,,,ASI
+217,Togo,p11d,Dissolving pulp production,,,,AFR
+219,Tonga,p11d,Dissolving pulp production,,,,AFR
+220,Trinidad and Tobago,p11d,Dissolving pulp production,,,,LAM
+221,Oman,p11d,Dissolving pulp production,,,,ASI
+222,Tunisia,p11d,Dissolving pulp production,,,,AFR
+223,Turkey,p11d,Dissolving pulp production,0.75,0.25,,EUR
+224,Turks and Caicos Islands,p11d,Dissolving pulp production,,,,LAM
+225,United Arab Emirates,p11d,Dissolving pulp production,,,,ASI
+226,Uganda,p11d,Dissolving pulp production,,,,AFR
+229,United Kingdom,p11d,Dissolving pulp production,0.75,0.25,,EUR
+230,Ukraine,p11d,Dissolving pulp production,0.75,0.25,,EUR
+231,United States of America,p11d,Dissolving pulp production,0.54,0.46,AF&PA(2020) quotedy by USDA (2020: 18),NAM
+233,Burkina Faso,p11d,Dissolving pulp production,,,,AFR
+234,Uruguay,p11d,Dissolving pulp production,,,,LAM
+235,Uzbekistan,p11d,Dissolving pulp production,,,,ASI
+236,Venezuela (Bolivarian Republic of),p11d,Dissolving pulp production,,,,LAM
+237,Viet Nam,p11d,Dissolving pulp production,,,,ASI
+238,Ethiopia,p11d,Dissolving pulp production,,,,AFR
+239,British Virgin Islands,p11d,Dissolving pulp production,,,,LAM
+244,Samoa,p11d,Dissolving pulp production,,,,OCE
+249,Yemen,p11d,Dissolving pulp production,,,,ASI
+250,Democratic Republic of the Congo,p11d,Dissolving pulp production,,,,AFR
+251,Zambia,p11d,Dissolving pulp production,,,,AFR
+255,Belgium,p11d,Dissolving pulp production,0.75,0.25,,EUR
+256,Luxembourg,p11d,Dissolving pulp production,0.75,0.25,,EUR
+270,Mayotte,p11d,Dissolving pulp production,,,,AFR
+272,Serbia,p11d,Dissolving pulp production,0.75,0.25,,EUR
+273,Montenegro,p11d,Dissolving pulp production,0.75,0.25,,EUR
+276,Sudan,p11d,Dissolving pulp production,,,,AFR
+277,South Sudan,p11d,Dissolving pulp production,,,,AFR
+5,American Samoa,p11d,Dissolving pulp production,,,,OCE
+8,Antigua and Barbuda,p11d,Dissolving pulp production,,,,LAM
+17,Bermuda,p11d,Dissolving pulp production,,,,LAM
+24,British Indian Ocean Territory,p11d,Dissolving pulp production,,,,ASI
+36,Cayman Islands,p11d,Dissolving pulp production,,,,LAM
+43,Cocos (Keeling) Islands,p11d,Dissolving pulp production,,,,OCE
+71,French Southern and Antarctic Territories,p11d,Dissolving pulp production,,,,OCE
+85,Greenland,p11d,Dissolving pulp production,0.75,0.25,,EUR
+86,Grenada,p11d,Dissolving pulp production,,,,LAM
+88,Guam,p11d,Dissolving pulp production,,,,OCE
+94,Holy See,p11d,Dissolving pulp production,0.75,0.25,,EUR
+127,Marshall Islands,p11d,Dissolving pulp production,,,,OCE
+142,Montserrat,p11d,Dissolving pulp production,,,,LAM
+148,Nauru,p11d,Dissolving pulp production,,,,OCE
+163,Northern Mariana Islands,p11d,Dissolving pulp production,,,,OCE
+164,Pacific Islands Trust Territory,p11d,Dissolving pulp production,,,,ASI
+172,Pitcairn Islands,p11d,Dissolving pulp production,,,,OCE
+180,Palau,p11d,Dissolving pulp production,,,,OCE
+187,"Saint Helena, Ascension and Tristan da Cunha",p11d,Dissolving pulp production,,,,AFR
+188,Saint Kitts and Nevis,p11d,Dissolving pulp production,,,,LAM
+192,San Marino,p11d,Dissolving pulp production,0.75,0.25,,EUR
+205,Western Sahara,p11d,Dissolving pulp production,,,,AFR
+218,Tokelau,p11d,Dissolving pulp production,,,,OCE
+227,Tuvalu,p11d,Dissolving pulp production,,,,OCE
+228,USSR,p11d,Dissolving pulp production,,,,ASI
+242,Wake Island,p11d,Dissolving pulp production,,,,OCE
+243,Wallis and Futuna Islands,p11d,Dissolving pulp production,,,,OCE
+248,Yugoslav SFR,p11d,Dissolving pulp production,0.75,0.25,,EUR
+258,Anguilla,p11d,Dissolving pulp production,,,,LAM
+279,Curaçao,p11d,Dissolving pulp production,,,,LAM
+281,Saint-Martin (French Part),p11d,Dissolving pulp production,,,,LAM
+299,Palestine,p11d,Dissolving pulp production,,,,ASI
+252,Unspecified Area,p11d,Dissolving pulp production,,,,XXX
+254,Others (adjustment),p11d,Dissolving pulp production,,,,XXX
+999,RoW,p11d,Dissolving pulp production,,,,ROW
+,ASI,p11d,Dissolving pulp production,,,,
+,EUR,p11d,Dissolving pulp production,0.75,0.25,CEPI (2019),
+,AFR,p11d,Dissolving pulp production,,,,
+,LAM,p11d,Dissolving pulp production,,,,
+,OCE,p11d,Dissolving pulp production,,,,
+,NAM,p11d,Dissolving pulp production,,,,

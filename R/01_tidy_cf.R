@@ -1147,7 +1147,8 @@ cf_carbon_prep[unit %in% c("kg/m3", "kg/m3sw"), cf := cf / 1000]
 cf_carbon_prep[unit == "kg/m3", `:=` (unit = "tonne/m3")]
 cf_carbon_prep[unit == "kg/m3sw", `:=` (unit = "tonne/m3sw")]
 
-# Write cf file for converting (bilateral data) items from tonnes to volume to be use in other script
+# Write cf file for converting (bilateral data) items from tonnes to volume
+# to be used in another script
 cf_btd <- cf_carbon_prep[com_code %in% c("c03", "c09", "c10") & unit %in% c("tonne/m3", "m3rw/tonne")]
 
 cf_btd <- cf_btd[com_code %in% c("c09", "c10"), `:=` (cf = 1 / cf)]
