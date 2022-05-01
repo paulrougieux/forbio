@@ -22,7 +22,7 @@ You only need git installed if you want to contribute to the repository or clone
 #### Data sets 
 Input data are from FAOSTAT Forestry Production and Trade, FAOSTAT Forestry Trade and BACI. FAOSTAT has an open access while for BACI registration is needed. 
 
-### Auxiliary data
+#### Auxiliary data
 Folder "inst" contains auxiliary data in csv format. These data include tables of products, processes, regions, etc. to be used in the scripts.
 Additionally, Forestry Conversion Factors mainly from FAO, ITTO and United Nations (2020) as well as feestock estimates are in "raw" state.
 Files with "tidy" in their titles are outputs from scripts.
