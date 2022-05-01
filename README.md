@@ -55,7 +55,7 @@ Scripts are saved in folder "R". This is the order in which scripts should be ru
 - `08_use.R` for building national use tables including balancing CBS
 
 - `09_mrsut.R` for trade-linking of national supply and use tables
-- `10_mrio.R` for building multi-regional input-output taböes
+- `10_mrio.R` for building multi-regional input-output tables
 - `11_leontief_inverse.R` for applying Leontief inverse (footprint)
 - `13_plot_countries.R` for visualizations of results
 
