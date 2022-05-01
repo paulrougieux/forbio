@@ -36,32 +36,32 @@ To get the scripts, you can either
 ### How to run
 Scripts are saved in folder "R". This is the order in which scripts should be run:
 
--`00_prep_fao.R` for FAOSTAT Forestry Production and Trade data preparation
--`00_prep_function.R` for functions preparation
--`00_prep_trade.R` for FAOSTAT Forestry Trade and BACI data preparation
+- `00_prep_fao.R` for FAOSTAT Forestry Production and Trade data preparation
+- `00_prep_function.R` for functions preparation
+- `00_prep_trade.R` for FAOSTAT Forestry Trade and BACI data preparation
 
--`01_tidy_cf.R` for forestry conversion factors tidying
--`01_tidy_fao.R` for FAOSTAT Production and Trade data (from now on CBS) tidying
--`01_tidy_functions.R` for functions tidying
--`01_tidy_trade.R` for FAOSTAT Forestry Trade and BACI data (from now on BTD) tidying
+- `01_tidy_cf.R` for forestry conversion factors tidying
+- `01_tidy_fao.R` for FAOSTAT Production and Trade data (from now on CBS) tidying
+- `01_tidy_functions.R` for functions tidying
+- `01_tidy_trade.R` for FAOSTAT Forestry Trade and BACI data (from now on BTD) tidying
 
--`02_build_btd.R` for building BTD (biletaral trade data)
--`03_build_cbs.R` for building CBS (Commodity balance sheets)
--`04_estimate_btd.R` for building own estimations of BTD 
--`05_balance_btd.R` for balancing final BTD
+- `02_build_btd.R` for building BTD (biletaral trade data)
+- `03_build_cbs.R` for building CBS (Commodity balance sheets)
+- `04_estimate_btd.R` for building own estimations of BTD 
+- `05_balance_btd.R` for balancing final BTD
 
--`06_supply.R` for building national supply tables including balancing CBS
--`07_re-exports.R` for calculating re-exports
--`08_use.R` for building national use tables including balancing CBS
+- `06_supply.R` for building national supply tables including balancing CBS
+- `07_re-exports.R` for calculating re-exports
+- `08_use.R` for building national use tables including balancing CBS
 
--`09_mrsut.R` for trade-linking of national supply and use tables
--`10_mrio.R` for building multi-regional input-output taböes
--`11_leontief_inverse.R` for applying Leontief inverse (footprint)
--`13_plot_countries.R` for visualizations of results
+- `09_mrsut.R` for trade-linking of national supply and use tables
+- `10_mrio.R` for building multi-regional input-output taböes
+- `11_leontief_inverse.R` for applying Leontief inverse (footprint)
+- `13_plot_countries.R` for visualizations of results
 
 These scripts should be ignored (work in progress):
-`06_carbon_conversion.R`
-`12_extensions.R`
+- `06_carbon_conversion.R`
+- `12_extensions.R`
 
 ## Acknowledgement
 This project gratefully acknowledges financial support from Austria Science Fund (FWF) as part of the [MF-Globe](https://www.wu.ac.at/mfglobe) project and the ERC as part of the [FINEPRINT](https://www.fineprint.global/) project.
