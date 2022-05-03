@@ -31,7 +31,7 @@ Files with "tidy" in their titles are outputs from scripts.
 To get the scripts, you can either
 
 - download the source using the "Clone or download"-button above
-- use `git clone https://github.com/fineprint-global/template-data-analysis`
+- use `git clone https://github.com/fineprint-global/forbio`
 
 ### How to run
 Scripts are saved in folder "R". This is the order in which scripts should be run:
