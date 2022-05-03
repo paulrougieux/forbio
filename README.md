@@ -46,7 +46,7 @@ Scripts are saved in folder "R". This is the order in which scripts should be ru
 - `01_tidy_trade.R` for FAOSTAT Forestry Trade Flows and BACI data (from now on BTD) tidying
 
 - `02_build_btd.R` for building BTD (biletaral trade data)
-- `03_build_cbs.R` for building CBS (Commodity balance sheets)
+- `03_build_cbs.R` for building CBS (commodity balance sheets)
 - `04_estimate_btd.R` for building own estimations of BTD 
 - `05_balance_btd.R` for balancing final BTD
 
@@ -60,6 +60,7 @@ Scripts are saved in folder "R". This is the order in which scripts should be ru
 - `13_plot_countries.R` for visualizations of results
 
 These scripts should be ignored (work in progress):
+- `01_tidy_iea.R`
 - `06_carbon_conversion.R`
 - `12_extensions.R`
 
